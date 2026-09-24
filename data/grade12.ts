@@ -5887,61 +5887,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Modern Physics: Quantum Mechanics and the Standard Model",
-        "summary": "Students examine the probabilistic nature of quantum mechanics, wave functions, and an overview of the Standard Model.",
-        "resourceLabel": "Crash Course Physics",
-        "resourceUrl": "https://www.youtube.com/watch?v=p7bzE1E5PMY",
-        "videoUrl": "https://www.youtube.com/watch?v=p9pPjASnnxw",
+        "title": "The Photoelectric Effect and Einstein's Explanation",
+        "summary": "Students learn how the photoelectric effect demonstrates the particle nature of light, and use Einstein's photoelectric equation to calculate the kinetic energy of ejected electrons.",
+        "resourceLabel": "YouTube: The Photoelectric Effect and Einstein's Explanation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Photoelectric%20Effect%20and%20Einstein%27s%20Explanation%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "The wave function ψ(x,t) in quantum mechanics gives ___.",
+            "q": "What experimental observation does the photoelectric effect demonstrate that classical wave theory of light could not explain?",
             "options": [
-              "the exact position of the particle",
-              "the energy of the particle directly",
-              "the probability amplitude",
-              "the actual path of the particle"
+              "Electrons are ejected only when light frequency exceeds a threshold value, regardless of intensity",
+              "Light travels faster in a vacuum than in glass",
+              "Electrons orbit the nucleus in discrete energy levels",
+              "Light waves interfere constructively and destructively"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In Einstein's photoelectric equation, E_k(max) = hf minus W, what does W represent?",
+            "options": [
+              "The kinetic energy of the fastest ejected electron",
+              "The frequency of the incident light",
+              "The work function, the minimum energy needed to remove an electron from the metal's surface",
+              "Planck's constant"
             ],
             "answer": 2
           },
           {
-            "q": "The Schrödinger equation is ___.",
+            "q": "Light of frequency 8.0×10^14 Hz strikes a metal with work function 3.0×10^-19 J (h = 6.63×10^-34 J·s). What is the maximum kinetic energy of an ejected electron?",
             "options": [
-              "the fundamental equation of quantum mechanics",
-              "only applicable to classical waves",
-              "a statement of conservation of energy",
-              "only for relativistic particles"
+              "8.3×10^-19 J",
+              "2.3×10^-19 J",
+              "5.3×10^-19 J",
+              "1.7×10^-19 J"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Quantum tunnelling allows ___.",
+            "q": "Doubling the intensity of light above the threshold frequency, while keeping frequency constant, has what effect according to the photoelectric effect?",
             "options": [
-              "particles to cross forbidden barriers",
-              "only photons to pass through barriers",
-              "energy conservation to be violated",
-              "particles to exceed the speed of light"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "The Standard Model classifies matter as composed of ___.",
-            "options": [
-              "photons and electrons only",
-              "protons and neutrons only",
-              "atoms and molecules only",
-              "quarks and leptons"
+              "It doubles the maximum kinetic energy of each ejected electron",
+              "It doubles the threshold frequency needed",
+              "It decreases the number of electrons ejected per second",
+              "It increases the number of electrons ejected per second, without changing their maximum kinetic energy"
             ],
             "answer": 3
           },
           {
-            "q": "The unresolved problems in the Standard Model include ___.",
+            "q": "Why did the photoelectric effect require Einstein to propose that light consists of discrete photons rather than only continuous waves?",
             "options": [
-              "no unresolved problems",
-              "only cosmological questions",
-              "only mathematical issues",
-              "gaps in gravity and dark matter theory"
+              "Because wave theory predicts electrons should be ejected instantly regardless of frequency, which experiments confirm",
+              "Because wave theory predicts intensity alone should determine electron kinetic energy, matching observations",
+              "Because only a particle model, where each photon transfers a fixed quantum of energy hf, explains why kinetic energy depends on frequency, not intensity",
+              "Because classical wave theory correctly predicted the threshold frequency effect"
             ],
-            "answer": 3
+            "answer": 2
           }
         ]
       }
@@ -6568,63 +6567,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Final Exam Preparation",
-        "summary": "Rigorous examination-level problems for Calculus and Vectors.",
-        "resourceLabel": "Khan Academy Calculus",
-        "resourceUrl": "https://www.youtube.com/watch?v=6HkBGVPWIXA",
+        "title": "Derivatives Review: Curve Sketching, Optimization, and Related Rates",
+        "summary": "This lesson reviews finding derivatives with the product, quotient, and chain rules, then applies them to sketch curves, solve optimization problems, and solve related-rates problems.",
+        "resourceLabel": "YouTube: Derivatives Review: Curve Sketching, Optimization, and Related Rates",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%20Review%3A%20Curve%20Sketching%2C%20Optimization%2C%20and%20Related%20Rates%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "Find the area between y=e^x, y=x, x=0, x=1.",
+            "q": "Differentiate f(x) = (x² + 1)(x − 3) using the product rule.",
             "options": [
-              "e − 1",
-              "e − 3/2 ≈ 1.218",
-              "1/2",
-              "e"
+              "2x",
+              "3x² + 1",
+              "3x² − 6x + 1",
+              "x² − 6x + 1"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "A particle has velocity v(t) = 3t² − 6t. Find the displacement from t=0 to t=3.",
+            "q": "Differentiate f(x) = x² / (x + 1) using the quotient rule.",
             "options": [
-              "3",
-              "0 (returns to start)",
-              "−9",
-              "9"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Evaluate ∫ x·ln(x) dx.",
-            "options": [
-              "x²ln(x)/2 − x²/4 + C",
-              "x ln(x) − x + C",
-              "ln(x²)/2 + C",
-              "x²ln(x)/2 + C"
+              "(x² + 2x) / (x + 1)²",
+              "(x² − 2x) / (x + 1)²",
+              "2x / (x + 1)",
+              "(2x − x²) / (x + 1)²"
             ],
             "answer": 0
           },
           {
-            "q": "The line tangent to the curve x²y + y³ = 10 at (1,2):",
+            "q": "Differentiate f(x) = sin(3x²) using the chain rule.",
             "options": [
-              "y = −4/13 x + 30/13",
-              "y−2 = 4/13(x−1)",
-              "y−2 = −4/13(x−1)",
-              "y = −x + 3"
+              "cos(3x²)",
+              "6x cos(3x²)",
+              "6x sin(3x²)",
+              "6 cos(3x²)"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "A box is formed by cutting squares of side x from corners of a 30×20 cm sheet. Maximise volume.",
+            "q": "A function has f′(2) = 0 and f″(2) < 0. What does this tell you about x = 2?",
             "options": [
-              "x = 5 cm",
-              "x = 10 cm",
-              "x ≈ 3.9 cm",
-              "x = 3 cm"
+              "It is a local minimum",
+              "It is an inflection point",
+              "The function is undefined there",
+              "It is a local maximum"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A 10 m ladder leans against a wall. The base slides away from the wall at 2 m/s. How fast is the top sliding down the wall when the base is 6 m from the wall (use x² + y² = 100)?",
+            "options": [
+              "1.5 m/s upward",
+              "2 m/s downward",
+              "1.5 m/s downward",
+              "0.75 m/s downward"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Ratios & Rates"
+        ]
       },
       {
         "subject": "Physics",
@@ -10504,59 +10502,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Complex Numbers: Polar Form and De Moivre’s Theorem",
-        "summary": "Grade 12 Advanced Functions strand: a complex number can be expressed in polar form using magnitude and angle, and De Moivre’s Theorem provides an efficient method for raising a complex number to a power.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=J6TnZxUUzqU",
+        "title": "Solving Trigonometric Equations Over a Restricted Domain",
+        "summary": "This lesson covers solving trig equations like sin(x) = 0.5 for all solutions within a given interval, such as 0 to 2 pi radians, using the unit circle and reference angles.",
+        "resourceLabel": "YouTube: Solving Trigonometric Equations Over a Restricted Domain",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Trigonometric%20Equations%20Over%20a%20Restricted%20Domain%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "A complex number in polar form is expressed using magnitude and ___.",
+            "q": "When solving sin(x) = 0.5 for 0 ≤ x ≤ 2π, how many solutions exist in this interval?",
             "options": [
-              "Colour, with no connection to complex numbers",
-              "A factor entirely unrelated to magnitude",
-              "Angle",
-              "Only its real component, with no angle involved"
+              "1, since sine is only positive once per cycle",
+              "3, because the reference angle appears in three quadrants",
+              "2, one in the first quadrant and one in the second quadrant",
+              "4, one in each quadrant of the unit circle"
             ],
             "answer": 2
           },
           {
-            "q": "De Moivre’s Theorem provides an efficient method for ___.",
+            "q": "What is the reference angle for the equation cos(x) = -0.5?",
             "options": [
-              "A concept unrelated to complex number operations",
-              "Converting a complex number into a purely real number",
-              "Only adding two complex numbers together",
-              "Raising a complex number to a power"
+              "π/2, since cosine is negative there",
+              "2π/3, because that is where the actual solution lies",
+              "π/6, the complement of the standard angle",
+              "π/3, the acute angle whose cosine has the same magnitude"
             ],
             "answer": 3
           },
           {
-            "q": "Why might polar form be more convenient than standard form for multiplying complex numbers?",
+            "q": "A student solves tan(x) = 1 for 0 ≤ x ≤ 2π and only writes x = π/4. What did they miss?",
             "options": [
-              "This concept has no connection to simplifying complex number calculations",
-              "In polar form, multiplication involves simply multiplying magnitudes and adding angles, which is often simpler",
-              "Standard form is always the only usable form for complex number operations",
-              "Polar form is always significantly more complicated for performing any operation"
+              "Nothing, tangent only has one solution per full rotation",
+              "The second solution x = 5π/4, since tangent repeats every π radians",
+              "The second solution x = 3π/4, since tangent is also positive there",
+              "The second solution x = 7π/4, since tangent is positive in the fourth quadrant"
             ],
             "answer": 1
           },
           {
-            "q": "Why is De Moivre’s Theorem particularly useful for finding the roots of a complex number?",
+            "q": "Why must the domain restriction be checked carefully after finding a general solution?",
             "options": [
-              "Complex number roots can never be found using any systematic mathematical method",
-              "De Moivre’s Theorem has no application in finding roots of complex numbers",
-              "This concept only applies to real numbers, not complex numbers",
-              "It provides a systematic way to determine multiple roots using the angle and magnitude in polar form"
+              "Because some of the general solution's values may fall outside the given interval and must be excluded",
+              "Because trig equations never have a general solution",
+              "Because the restricted domain always produces the same answers as the general solution",
+              "Because reference angles only apply when no domain restriction is given"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why are polar form and De Moivre’s Theorem useful in fields like electrical engineering?",
+            "q": "For 2sin(x) - 1 = 0 with 0 ≤ x ≤ 2π, what is the correct first algebraic step?",
             "options": [
-              "These mathematical tools have no practical application in engineering",
-              "Complex numbers in polar form can effectively represent quantities like alternating current, where magnitude and phase both matter",
-              "Electrical engineering never requires the use of complex numbers",
-              "This concept only applies to purely theoretical mathematics with no real-world use"
+              "Divide both sides by 2 to get sin(x) = 1, then find where sine equals 1",
+              "Add 1 to both sides to get 2sin(x) = 1, then isolate sin(x) = 0.5",
+              "Square both sides immediately to remove the sine function",
+              "Take the sine of both sides again"
             ],
             "answer": 1
           }
@@ -13348,59 +13345,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Newton’s Method for Root Approximation",
-        "summary": "Grade 12 Calculus strand: Newton’s Method uses a function’s tangent lines to iteratively generate closer and closer approximations to a root, starting from an initial guess and refining it using the function’s derivative.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
-        "videoUrl": "https://www.youtube.com/watch?v=-5e2cULI3H8",
+        "title": "Finding Roots of Polynomials with the Factor Theorem",
+        "summary": "This lesson uses the Factor Theorem to test possible rational roots of a polynomial and factor it completely, replacing guess-and-check with a systematic algebraic method.",
+        "resourceLabel": "YouTube: Finding Roots of Polynomials with the Factor Theorem",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Finding%20Roots%20of%20Polynomials%20with%20the%20Factor%20Theorem%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "Newton’s Method uses a function’s tangent lines to iteratively generate closer approximations to a ___.",
+            "q": "The Factor Theorem states that (x − a) is a factor of a polynomial P(x) if and only if ___.",
             "options": [
-              "Root",
-              "Constant term, with no connection to solving the equation",
-              "Local maximum exclusively, with no connection to roots",
-              "A concept unrelated to approximating a function’s behaviour"
+              "P(a) = 0",
+              "P(0) = a",
+              "P(a) = a",
+              "P′(a) = 0"
             ],
             "answer": 0
           },
           {
-            "q": "Newton’s Method begins with an initial guess and refines it using the function’s ___.",
+            "q": "Is (x − 2) a factor of P(x) = x³ − 3x² − 4x + 12?",
             "options": [
-              "A concept unrelated to Newton’s Method",
-              "Constant term only, with no derivative involved",
-              "Derivative",
-              "Second antiderivative exclusively"
+              "No, since P(2) = 4",
+              "Yes, since P(2) = 0",
+              "No, since P(2) = −4",
+              "Yes, since P(−2) = 0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Given that (x − 2) is a factor of P(x) = x³ − 3x² − 4x + 12, what is its complete factorization?",
+            "options": [
+              "(x − 2)(x − 6)(x + 1)",
+              "(x − 2)(x + 6)(x − 1)",
+              "(x − 2)(x − 3)(x + 2)",
+              "(x − 2)(x − 2)(x − 3)"
             ],
             "answer": 2
           },
           {
-            "q": "Each iteration of Newton’s Method typically produces an approximation that is ___ to the actual root than the previous one.",
+            "q": "Which value is a possible rational root to test for P(x) = 2x³ + 3x² − 8x + 3, according to the Rational Root Theorem?",
             "options": [
-              "Farther from",
-              "A concept unrelated to how Newton’s Method works",
-              "Exactly identical, with no meaningful change from the previous approximation",
-              "Closer"
+              "5",
+              "2/3",
+              "4",
+              "3/2"
             ],
             "answer": 3
           },
           {
-            "q": "Why might Newton’s Method be preferred over algebraic factoring when solving certain equations?",
+            "q": "Why is the Factor Theorem useful when graphing a polynomial function?",
             "options": [
-              "Algebraic factoring can always solve any equation exactly, making other methods unnecessary",
-              "Newton’s Method is always slower and less accurate than algebraic factoring for every possible equation",
-              "Many equations, such as those involving transcendental functions, cannot be solved exactly using algebraic factoring alone",
-              "This concept has no connection to solving equations that resist algebraic methods"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is a poor initial guess sometimes a problem when applying Newton’s Method?",
-            "options": [
-              "The initial guess has no effect on whether Newton’s Method successfully converges to a root",
-              "Newton’s Method always converges correctly and quickly, regardless of the initial guess chosen",
-              "This concept has no relevance to the practical application of Newton’s Method",
-              "A poor starting guess can cause the sequence of approximations to converge slowly, to the wrong root, or fail to converge at all"
+              "It shows where the derivative of the polynomial equals zero",
+              "It gives the exact location of the polynomial's local maximum and minimum points",
+              "It determines the polynomial's end behaviour from its leading term",
+              "It lets you find exact x-intercepts algebraically instead of estimating them from a graph"
             ],
             "answer": 3
           }
@@ -13596,64 +13592,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Hyperbolic Functions and Their Derivatives",
-        "summary": "Grade 12 Calculus strand: hyperbolic functions, such as sinh(x) and cosh(x), are defined using combinations of exponential functions and share structural similarities with trigonometric functions, including distinct derivative rules.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
-        "videoUrl": "https://www.youtube.com/watch?v=Q6-QZxUDfE0",
+        "title": "Derivatives of Trigonometric and Exponential Functions: Mixed Practice",
+        "summary": "This lesson practises differentiating combinations of trigonometric and exponential functions using the product, quotient, and chain rules together.",
+        "resourceLabel": "YouTube: Derivatives of Trigonometric and Exponential Functions: Mixed Practice",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%20of%20Trigonometric%20and%20Exponential%20Functions%3A%20Mixed%20Practice%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "Hyperbolic functions, such as sinh(x) and cosh(x), are defined using combinations of ___ functions.",
+            "q": "Differentiate f(x) = e^(2x) sin(x) using the product rule.",
             "options": [
-              "Purely constant functions, with no variable component",
-              "Exponential",
-              "Logarithmic functions exclusively, with no connection to exponentials",
-              "A concept unrelated to how hyperbolic functions are defined"
+              "e^(2x)(sin x + 2cos x)",
+              "e^x(2 sin x + cos x)",
+              "e^(2x)(2 sin x + cos x)",
+              "e^(2x)(sin x + cos x)"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Differentiate f(x) = tan(5x) using the chain rule.",
+            "options": [
+              "sec²(5x)",
+              "5 sec²(5x)",
+              "5 sec²(x)",
+              "5 tan(5x) sec(5x)"
             ],
             "answer": 1
           },
           {
-            "q": "Hyperbolic functions share structural similarities with ___ functions, including distinct derivative rules.",
+            "q": "Differentiate f(x) = e^(cos x) using the chain rule.",
             "options": [
-              "Rational functions exclusively, with no other similarity",
-              "Only linear functions, with no other connection",
-              "A category of functions entirely unrelated to hyperbolic functions",
-              "Trigonometric"
+              "sin(x) e^(cos x)",
+              "e^(cos x)",
+              "−cos(x) e^(sin x)",
+              "−sin(x) e^(cos x)"
             ],
             "answer": 3
           },
           {
-            "q": "The derivative of cosh(x) is ___.",
+            "q": "Differentiate f(x) = sin(x) / e^x using the quotient rule.",
             "options": [
-              "Sinh(x)",
-              "Cosh(x), identical to the original function",
-              "Negative sinh(x), the opposite sign",
-              "A result entirely unrelated to hyperbolic function derivatives"
+              "(cos x − sin x) / e^x",
+              "(cos x + sin x) / e^x",
+              "(sin x − cos x) / e^x",
+              "(cos x − sin x) / e^(2x)"
             ],
             "answer": 0
           },
           {
-            "q": "Why might hyperbolic functions be useful for describing the shape of a hanging cable or chain?",
+            "q": "A student differentiates f(x) = 3^x using the power rule and gets f′(x) = x·3^(x−1). What is the correct explanation and derivative?",
             "options": [
-              "Hyperbolic functions have no application in modelling physical shapes like a hanging cable",
-              "This concept has no connection to real-world applications of calculus",
-              "A hanging cable’s shape can never be described using any mathematical function",
-              "The curve formed by a hanging cable, called a catenary, can be precisely modelled using the cosh function"
+              "The power rule does apply here, so x·3^(x−1) is correct",
+              "This is an exponential function, not a power function, so the correct derivative is 3^x ln(3)",
+              "The correct derivative is x·3^x, keeping the exponent unchanged",
+              "The error is minor, and the correct derivative is 3^(x−1) ln(3) instead"
             ],
-            "answer": 3
-          },
-          {
-            "q": "Why is understanding hyperbolic functions valuable preparation for further study in calculus and physics?",
-            "options": [
-              "Hyperbolic functions have no further application beyond an introductory Grade 12 calculus course",
-              "This concept has no relevance to further mathematical or scientific study",
-              "These functions never appear in any physics or engineering context",
-              "They appear in contexts ranging from special relativity to engineering, and their derivative rules parallel those of trigonometric functions"
-            ],
-            "answer": 3
+            "answer": 1
           }
-        ],
-        "topic": "Calculus: Derivatives"
+        ]
       },
       {
         "subject": "Physics",
@@ -18421,61 +18415,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Bisection Method -- Root-Finding by Interval Halving",
-        "summary": "Grade 12 Calculus strand: the Bisection Method locates a root of a continuous function by repeatedly halving an interval known to contain a sign change, guaranteeing convergence toward the root as the interval narrows, though typically more slowly than Newton’s Method.",
-        "resourceLabel": "YouTube: Calculus: The Bisection Method -- Root-Finding by Interval Halving",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20The%20Bisection%20Method%20--%20Root-Finding%20by%20Interval%20Halving%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=mzQFGOvH-mk",
+        "title": "Continuity and the Intermediate Value Theorem",
+        "summary": "This lesson reviews the conditions for continuity at a point and uses the Intermediate Value Theorem to justify that a root exists within an interval, without approximating its value.",
+        "resourceLabel": "YouTube: Continuity and the Intermediate Value Theorem",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Continuity%20and%20the%20Intermediate%20Value%20Theorem%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "The Bisection Method locates a root of a continuous function by repeatedly ___ an interval known to contain a sign change.",
+            "q": "A function f is continuous at x = a when which conditions all hold?",
             "options": [
-              "Doubling, an inaccurate description of how the interval changes at each step",
-              "A concept unrelated to how the Bisection Method works",
-              "Ignoring, an inaccurate description that would prevent the method from converging at all",
-              "Halving"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The Bisection Method guarantees convergence toward a root as the interval ___.",
-            "options": [
-              "Narrows",
-              "Widens, an inaccurate description of how the interval changes as the method proceeds",
-              "Disappears entirely without ever narrowing gradually, an inaccurate description of this method’s gradual process",
-              "A concept unrelated to how convergence is achieved in this method"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "The Bisection Method typically converges more ___ than Newton’s Method.",
-            "options": [
-              "A concept unrelated to comparing the convergence speed of different methods",
-              "Quickly, an inaccurate comparison between these two root-finding methods",
-              "Slowly",
-              "Randomly, an inaccurate description of the Bisection Method’s predictable behaviour"
+              "f is differentiable at x = a",
+              "f(a) is defined only",
+              "f(a) is defined, the limit as x→a exists, and the limit equals f(a)",
+              "the limit as x→a exists only"
             ],
             "answer": 2
           },
           {
-            "q": "Why does the Bisection Method require an initial interval in which the function changes sign at its two endpoints?",
+            "q": "The function f(x) = (x² − 4)/(x − 2) has a discontinuity at x = 2. What type is it?",
             "options": [
-              "A sign change between the endpoints guarantees, by the Intermediate Value Theorem, that a continuous function must cross zero somewhere within that interval, ensuring a root actually exists to be located",
-              "The Bisection Method can reliably locate a root without any initial information about where a sign change occurs",
-              "A sign change at the interval’s endpoints has no bearing on whether a root exists within that interval",
-              "This concept has no relevance to understanding how the Bisection Method guarantees convergence"
+              "An infinite discontinuity, because the denominator approaches zero",
+              "A removable discontinuity (hole), because the limit exists even though f(2) is undefined",
+              "A jump discontinuity, because the left and right limits differ",
+              "There is no discontinuity, since the function is continuous everywhere"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To apply the Intermediate Value Theorem on [a, b] to guarantee a root, which condition is required in addition to continuity?",
+            "options": [
+              "f(a) and f(b) must be equal",
+              "f′(a) must equal zero",
+              "The interval [a, b] must contain an integer",
+              "f(a) and f(b) must have opposite signs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "For f(x) = x³ − x − 3, f(1) = ___ and f(2) = ___, confirming a sign change on [1, 2].",
+            "options": [
+              "−3 and 3",
+              "−1 and 3",
+              "−3 and −3",
+              "1 and 3"
             ],
             "answer": 0
           },
           {
-            "q": "Why might the Bisection Method be preferred over Newton’s Method in some situations, despite its typically slower convergence?",
+            "q": "Why does the Intermediate Value Theorem guarantee a root exists on [1, 2], but not tell you the root's exact value?",
             "options": [
-              "Newton’s Method always converges reliably to the correct root regardless of the chosen starting estimate",
-              "The Bisection Method never reliably converges to a function’s actual root under any circumstances",
-              "This concept has no relevance to comparing the reliability of different root-finding methods",
-              "The Bisection Method is guaranteed to converge once a valid sign-changing interval is identified, whereas Newton’s Method can sometimes fail to converge or converge to the wrong root depending on the starting estimate"
+              "It tells you the root is exactly at the interval's midpoint",
+              "It proves a root exists somewhere in the interval but gives no method to calculate its exact value",
+              "It gives the root's exact value using the average of f(a) and f(b)",
+              "It only applies to polynomial functions, not general continuous functions"
             ],
-            "answer": 3
+            "answer": 1
           }
         ]
       },
@@ -20207,64 +20200,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Epsilon-Delta Definition of a Limit",
-        "summary": "Grade 12 Calculus strand: the epsilon-delta definition provides a rigorous, formal way to define what it means for a function to approach a limit, using precise inequalities involving small quantities epsilon and delta.",
-        "resourceLabel": "YouTube: Calculus: The Epsilon-Delta Definition of a Limit",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20The%20Epsilon-Delta%20Definition%20of%20a%20Limit%20grade%2012%20educational",
+        "title": "Evaluating Limits Using Tables and Graphs",
+        "summary": "This lesson estimates limits of functions by examining values in a table as x approaches a given point from both sides, and by reading graphs, without using a formal algebraic definition.",
+        "resourceLabel": "YouTube: Evaluating Limits Using Tables and Graphs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Evaluating%20Limits%20Using%20Tables%20and%20Graphs%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the epsilon-delta definition provide for the concept of a limit?",
+            "q": "To estimate lim(x→2) f(x) using a table, you should evaluate f(x) at values ___.",
             "options": [
-              "A definition that applies only to whole numbers",
-              "A concept unrelated to calculus",
-              "Only an informal, intuitive description with no precision",
-              "A rigorous, formal definition using precise inequalities"
+              "only at x = 2 itself",
+              "approaching 2 from both the left and the right, such as 1.9, 1.99, 2.01, 2.1",
+              "only values greater than 2",
+              "only whole-number values near 2"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Does the epsilon-delta definition use the quantities epsilon and delta to express closeness?",
+            "q": "A table shows f(x) approaching 5 as x approaches 3 from both the left and the right, but f(3) = 8. What is lim(x→3) f(x)?",
             "options": [
-              "Yes",
-              "No, it never uses any small quantities to define closeness",
-              "A concept unrelated to the epsilon-delta definition",
-              "Epsilon and delta have no connection to limits"
+              "5, because the left- and right-hand limits agree, even though f(3) differs",
+              "8, because it must equal f(3)",
+              "The limit does not exist, since f(3) ≠ 5",
+              "It cannot be determined without an algebraic formula for f(x)"
             ],
             "answer": 0
           },
           {
-            "q": "Is the epsilon-delta definition considered a more rigorous approach than an informal description of a limit?",
+            "q": "On a graph, if the left-hand limit and right-hand limit at x = c are different values, then ___.",
             "options": [
-              "Rigor has no connection to how a limit is defined",
-              "Yes",
-              "No, it is considered a less precise approach than an informal description",
-              "A concept unrelated to limits"
+              "the function has a removable discontinuity at x = c",
+              "the limit equals the average of the two one-sided values",
+              "the function must be undefined at x = c",
+              "the limit does not exist at x = c"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why might mathematicians prefer the epsilon-delta definition over an intuitive description when proving that a limit exists?",
+            "q": "A graph shows lim(x→1) f(x) = 4, with an open circle at (1, 4) and a solid dot at (1, 6). What is f(1)?",
             "options": [
-              "The epsilon-delta definition is never useful for constructing a mathematical proof",
-              "It provides a precise, unambiguous standard that can be used to construct a rigorous mathematical proof",
-              "This concept has no connection to calculus",
-              "Intuitive descriptions are always more rigorous than any formal definition"
+              "f(1) = 6, even though the limit is 4",
+              "f(1) = 4, matching the limit",
+              "f(1) is undefined",
+              "f(1) = 5, the midpoint of the two values"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "Why is understanding the epsilon-delta definition valuable for students planning to study calculus at a university level?",
+            "q": "Why can a table of values only ever suggest, rather than prove, the value of a limit?",
             "options": [
-              "Formal limit definitions are never used beyond an introductory high school course",
-              "This concept has no relevance to calculus",
-              "University-level calculus often relies on this rigorous foundation to prove more advanced results",
-              "The epsilon-delta definition has no relevance to university-level mathematics"
+              "A table proves a limit exists once one pair of nearby values is checked",
+              "A table can only ever show behaviour at a finite set of points, so the actual limiting trend beyond those points isn't guaranteed",
+              "Tables are never accurate for estimating limits",
+              "A table can only be used when the function is continuous everywhere"
             ],
-            "answer": 2
+            "answer": 1
           }
-        ],
-        "topic": "Calculus: Limits & Rates of Change",
-        "videoUrl": "https://www.youtube.com/watch?v=-ejyeII0i5c"
+        ]
       },
       {
         "subject": "Physics",
@@ -21901,59 +21892,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: The Method of Undetermined Coefficients",
-        "summary": "Grade 12 Advanced Functions strand: the method of undetermined coefficients solves certain equations by guessing a solution form with unknown constants, then solving for those constants by matching terms.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=P3fc6v191mA",
+        "title": "Solving Rational Inequalities Using Sign Analysis",
+        "summary": "This lesson explains how to solve inequalities involving rational expressions, such as (x-2)/(x+1) > 0, by finding critical values and testing intervals with a sign chart.",
+        "resourceLabel": "YouTube: Solving Rational Inequalities Using Sign Analysis",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Rational%20Inequalities%20Using%20Sign%20Analysis%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the method of undetermined coefficients involve guessing?",
+            "q": "For the inequality (x-2)/(x+1) > 0, what are the critical values?",
             "options": [
-              "A concept unrelated to functions",
-              "A solution form with unknown constants",
-              "A completely random final answer with no structure",
-              "A solution containing no unknown values whatsoever"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Does this method involve solving for unknown constants by matching terms?",
-            "options": [
-              "Yes",
-              "A concept unrelated to the method of undetermined coefficients",
-              "No, matching terms is never involved in this method",
-              "Unknown constants are never actually solved for in this method"
+              "x = 2 and x = -1, from the zero of the numerator and the zero of the denominator",
+              "x = -2 and x = 1, the opposite signs of the factors",
+              "x = 2 only, since the denominator does not affect critical values",
+              "x = 0, since that is where the expression is undefined"
             ],
             "answer": 0
           },
           {
-            "q": "Is the method of undetermined coefficients typically used for equations with a specific, recognizable form?",
+            "q": "Why is x = -1 excluded from the solution set of (x-2)/(x+1) > 0, even though the sign chart shows a boundary there?",
             "options": [
-              "No, this method works equally well for equations of absolutely any form",
-              "Recognizable equation forms have no connection to this method",
-              "Yes",
-              "A concept unrelated to this method"
+              "Because x = -1 makes the numerator zero, which is never allowed",
+              "Because x = -1 makes the denominator zero, making the expression undefined",
+              "Because negative critical values are always excluded from inequalities",
+              "Because x = -1 always makes the inequality true and must be removed"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why might the method of undetermined coefficients be considered more straightforward than some other solving techniques for certain types of equations?",
+            "q": "On the interval between the two critical values of (x-2)/(x+1), a student picks the test point x = 0. Evaluating gives (0-2)/(0+1) = -2, which is negative. What does this tell us about that interval?",
             "options": [
-              "Equations with a recognizable form can never be solved using this method",
-              "This concept has no connection to functions",
-              "It provides a systematic guess-and-check structure that works well when the equation has a predictable, recognizable form",
-              "This method is always more difficult than any other available solving technique"
+              "The interval satisfies the inequality since -2 is a real number",
+              "The interval does not satisfy (x-2)/(x+1) > 0, since the expression is negative there",
+              "The test point must be recalculated because negative results are invalid",
+              "The entire inequality has no solution based on this one test point"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why is it important to choose an appropriately general guess when applying the method of undetermined coefficients?",
+            "q": "When solving a rational inequality, why can you not simply multiply both sides by (x+1) to clear the denominator right away?",
             "options": [
-              "An overly simple or incorrect guess may fail to include all the terms needed to satisfy the original equation",
-              "This concept has no relevance to functions",
-              "The specific form of the guess used never actually matters for reaching a correct final solution",
-              "Any arbitrary guess will always work correctly regardless of its form"
+              "Multiplying by a variable expression is never allowed in any equation",
+              "The sign of (x+1) is unknown, so it could flip the inequality direction depending on its sign",
+              "Rational inequalities can only be solved by graphing, never algebraically",
+              "The denominator must always equal 1 before multiplying"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the correct solution set for (x-2)/(x+1) > 0?",
+            "options": [
+              "x < -1 or x > 2",
+              "-1 < x < 2",
+              "x > 2 only",
+              "x ≤ -1 or x ≥ 2"
             ],
             "answer": 0
           }
@@ -22908,64 +22898,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: Cardano’s Formula for Solving Cubic Equations",
-        "summary": "Grade 12 Advanced Functions strand: Cardano’s formula solves a depressed cubic equation of the form t³ + pt + q = 0, and its use of square roots of negative numbers even for equations with three real roots played a key historical role in the acceptance of complex numbers.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=T-SBnSCQzaI",
+        "title": "Modelling with Cubic Functions Using Finite Differences",
+        "summary": "This lesson shows how to identify a cubic relationship from a table of values by checking that the third differences are constant, and how to use this to build a cubic model.",
+        "resourceLabel": "YouTube: Modelling with Cubic Functions Using Finite Differences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Modelling%20with%20Cubic%20Functions%20Using%20Finite%20Differences%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What type of cubic equation does Cardano’s formula directly solve?",
+            "q": "A table of values has constant third differences but non-constant second differences. What degree of polynomial best models the data?",
             "options": [
-              "Any equation of exactly degree one",
-              "An equation containing no variable terms at all",
-              "A concept unrelated to functions",
-              "A depressed cubic of the form t³ + pt + q = 0 (with no squared term)"
+              "Degree 2, since second differences are still changing",
+              "Degree 4, because constant differences always indicate one degree higher than shown",
+              "Degree 3, since the constant differences appear at the third level",
+              "Degree 1, since any constant difference implies a linear relationship"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "To convert a general cubic x³ + bx² + cx + d = 0 into depressed form, what substitution is used?",
+            "q": "For equally spaced x-values with a cubic function, the first differences are 2, 14, 44, 98. What should the second differences be if the data is truly cubic?",
             "options": [
-              "A concept unrelated to Cardano’s formula",
-              "x = t − b/3",
-              "x = t + b",
-              "x = t², squaring the original variable"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The depressed cubic t³ − 3t + 2 = 0 factors as (t − 1)²(t + 2). What does this tell us about its roots?",
-            "options": [
-              "It has three entirely distinct real roots with no repetition",
-              "It has a repeated root at t = 1, along with a root at t = −2, not three distinct real roots",
-              "A concept unrelated to Cardano’s formula",
-              "It has no real roots of any kind"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "In Cardano’s formula, what does encountering a negative value under a square root (requiring complex intermediate steps) typically signal, even when the cubic has three real roots?",
-            "options": [
-              "The formula passes through complex numbers (the casus irreducibilis) even though the final roots are real",
-              "This concept has no connection to functions",
-              "A negative value under the square root always means the cubic has no real roots at all",
-              "Complex numbers are never involved in any step of solving a cubic equation"
+              "12, 30, 54 (not constant, but with constant third differences)",
+              "12, 12, 12 (constant, since the function is cubic)",
+              "0, 0, 0, since cubics have no second differences",
+              "2, 14, 44, matching the first differences exactly"
             ],
             "answer": 0
           },
           {
-            "q": "Why is Cardano’s formula historically significant in the development of complex numbers?",
+            "q": "Why does a cubic function have constant third differences instead of constant second differences like a quadratic?",
             "options": [
-              "This concept has no relevance to functions",
-              "It forced mathematicians to work with square roots of negative numbers to obtain real solutions, motivating acceptance of complex numbers",
-              "Complex numbers were fully accepted by mathematicians long before Cardano’s formula was developed",
-              "Cardano’s formula never required any use of square roots of negative numbers"
+              "Because each round of differencing reduces the degree of the underlying polynomial by one, and a cubic needs three rounds to reach a constant",
+              "Because cubics always have exactly three roots, matching the three levels of differencing",
+              "Because cubic functions grow slower than quadratic functions",
+              "Because the leading coefficient of a cubic is always three times larger"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the constant third difference for evenly spaced x-values (step size 1) is 12, what is the leading coefficient 'a' of the cubic model ax³ + bx² + cx + d?",
+            "options": [
+              "a = 12, since the third difference directly equals the leading coefficient",
+              "a = 4, since the third difference equals 3! (which is 6) times a, so a = 12/6",
+              "a = 2, since the third difference is divided by the degree of 6",
+              "a = 36, since the third difference must be multiplied by 3"
             ],
             "answer": 1
+          },
+          {
+            "q": "A researcher collects data on the volume of a growing cube-shaped ice crystal at equal time intervals. Constant third differences appear. What does this suggest about the relationship between volume and time?",
+            "options": [
+              "Volume grows linearly with time",
+              "Volume grows quadratically with time",
+              "Volume grows cubically with time, consistent with a length dimension scaling to the third power",
+              "There is no polynomial relationship since ice crystals grow randomly"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Equations & Inequalities"
+        ]
       },
       {
         "subject": "Calculus",
@@ -25760,60 +25748,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Stefan-Boltzmann Law and Thermal Radiation",
-        "summary": "Grade 12 Physics strand: the Stefan-Boltzmann law states that the total power radiated per unit area by a blackbody is proportional to the fourth power of its absolute temperature, linking a hot object’s temperature directly to how intensely it radiates energy.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Gravitational Field Strength and Orbital Motion",
+        "summary": "Students calculate gravitational field strength using Newton's law of universal gravitation and apply it to circular orbits of satellites and planets.",
+        "resourceLabel": "YouTube: Gravitational Field Strength and Orbital Motion",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Gravitational%20Field%20Strength%20and%20Orbital%20Motion%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "According to the Stefan-Boltzmann law, the power radiated per unit area by a blackbody is proportional to which power of its absolute temperature?",
+            "q": "What does gravitational field strength (g) at a point represent?",
             "options": [
-              "The one-half power (the square root of T)",
-              "A concept unrelated to physics",
-              "The fourth power (T⁴)",
-              "The first power (T), with no exponent involved"
+              "The total gravitational force between two objects of any mass",
+              "The force per unit mass experienced by a small test mass placed at that point",
+              "The mass of the object creating the field",
+              "The distance from the centre of the object creating the field"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "If the absolute temperature of a blackbody doubles, by what factor does the power radiated per unit area increase, according to the Stefan-Boltzmann law?",
+            "q": "A planet has mass 4.0×10^24 kg and radius 8.0×10^6 m. Using g = GM/r² (G = 6.67×10^-11 N·m²/kg²), what is the gravitational field strength at its surface?",
             "options": [
-              "16 times",
-              "A concept unrelated to this law",
-              "2 times",
-              "4 times"
+              "4.2 N/kg",
+              "2.1 N/kg",
+              "8.3 N/kg",
+              "16.7 N/kg"
             ],
             "answer": 0
           },
           {
-            "q": "A blackbody at absolute temperature T radiates a certain power per unit area. If its temperature is tripled, by what factor does its radiated power per unit area increase?",
+            "q": "How does gravitational field strength change if the distance from the centre of a planet is doubled?",
             "options": [
-              "27 times",
-              "81 times",
-              "3 times",
-              "9 times"
+              "It doubles",
+              "It stays the same",
+              "It halves",
+              "It decreases to one-quarter of its original value"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A satellite in circular orbit around Earth experiences a net force that is",
+            "options": [
+              "directed away from Earth's centre, balancing gravity",
+              "the gravitational force, directed toward Earth's centre, providing centripetal force",
+              "zero, since the satellite is in free fall",
+              "provided by the satellite's engines, not gravity"
             ],
             "answer": 1
           },
           {
-            "q": "Why must temperature be measured on an absolute scale, such as kelvin, when applying the Stefan-Boltzmann law, rather than degrees Celsius?",
+            "q": "Why do all objects, regardless of mass, fall with the same acceleration due to gravity near Earth's surface (ignoring air resistance)?",
             "options": [
-              "Degrees Celsius always give a larger radiated power than kelvin for the same physical object",
-              "The fourth-power relationship only holds true when temperature is measured from true zero (absolute zero), not from an arbitrary zero point like 0 degrees Celsius",
-              "This concept has no connection to physics",
-              "The Stefan-Boltzmann law works identically regardless of which temperature scale is used"
+              "Because heavier objects experience less gravitational force per kilogram",
+              "Because gravitational field strength depends on the falling object's own mass in every calculation",
+              "Because the gravitational force on an object is proportional to its mass, so mass cancels out of Newton's second law, leaving acceleration equal to g",
+              "Because air resistance exactly compensates for differences in mass"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why does the Stefan-Boltzmann law imply that even a modest increase in a star’s surface temperature can dramatically increase its luminosity?",
-            "options": [
-              "The fourth-power relationship only applies to objects on Earth, not to stars",
-              "Because radiated power depends on the fourth power of temperature, a small percentage increase in temperature produces a much larger percentage increase in radiated power",
-              "A star’s luminosity is completely independent of its surface temperature according to this law",
-              "This concept has no relevance to physics"
-            ],
-            "answer": 1
+            "answer": 2
           }
         ]
       }
@@ -25885,63 +25873,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: Partial Fraction Decomposition — An Algebraic Technique",
-        "summary": "Grade 12 Advanced Functions strand: partial fraction decomposition rewrites a complicated rational expression as a sum of simpler fractions with linear or irreducible quadratic denominators, a purely algebraic technique for simplifying rational functions.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Rational Functions: Modelling Combined Work and Rate Problems",
+        "summary": "This lesson uses rational functions to model combined-rate situations, such as two pipes filling a tank together, by adding individual rates expressed as fractions of a job per unit time.",
+        "resourceLabel": "YouTube: Rational Functions: Modelling Combined Work and Rate Problems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Modelling%20Combined%20Work%20and%20Rate%20Problems%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does partial fraction decomposition rewrite a complicated rational expression as?",
+            "q": "Pipe A fills a tank in 6 hours alone, and Pipe B fills it in 3 hours alone. What expression represents their combined rate of filling per hour?",
             "options": [
-              "An expression involving only trigonometric ratios",
-              "A single polynomial with no denominator at all",
-              "A concept unrelated to functions",
-              "A sum of simpler fractions with linear or irreducible quadratic denominators"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "To decompose 1/((x−1)(x+2)) using partial fractions, what form should the decomposition take?",
-            "options": [
-              "A single fraction with denominator (x−1)+(x+2)",
-              "A concept unrelated to partial fraction decomposition",
-              "A/(x−1) + B/(x+2), for constants A and B to be determined",
-              "A/(x−1) multiplied by B/(x+2), rather than added"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Solving 1/((x−1)(x+2)) = A/(x−1) + B/(x+2), what are the values of A and B?",
-            "options": [
-              "A concept unrelated to this decomposition",
-              "A = −1/3, B = 1/3",
-              "A = 1/3, B = −1/3",
-              "A = 1, B = 1"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why does a rational expression with a repeated linear factor in its denominator, such as (x−1)², require an additional term in its partial fraction decomposition compared to a single (x−1) factor?",
-            "options": [
-              "A repeated factor requires separate terms for each power up to the repetition, such as A/(x−1) plus B/(x−1)², to fully capture the decomposition",
-              "Repeated factors make partial fraction decomposition impossible to carry out",
-              "This concept has no connection to functions",
-              "A repeated factor never requires any additional term beyond what a single factor would need"
+              "1/6 + 1/3, the sum of each pipe's rate per hour",
+              "1/6 - 1/3, the difference between their rates",
+              "6 + 3, adding the number of hours directly",
+              "(6)(3), multiplying the two times together"
             ],
             "answer": 0
           },
           {
-            "q": "Why is partial fraction decomposition a useful algebraic skill to master before applying it in later integral calculus work?",
+            "q": "Using the combined rate 1/6 + 1/3 = 1/2 tank per hour, how long does it take both pipes together to fill the tank?",
             "options": [
-              "Breaking a complex rational function into simpler pieces makes it far easier to analyze, graph, or eventually integrate term by term",
-              "This concept has no relevance to functions",
-              "Partial fraction decomposition has no later application to any other area of mathematics",
-              "Rational functions are always simpler to work with in their original, undecomposed form"
+              "4.5 hours, the average of 6 and 3",
+              "9 hours, the sum of 6 and 3",
+              "2 hours, the reciprocal of the combined rate",
+              "1.5 hours, one third of the sum of the times"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A rational function models the time T(x) for two workers to complete a job together, where x is the time the slower worker takes alone. As x increases without bound, what happens to T(x)?",
+            "options": [
+              "T(x) approaches zero, since more time means faster completion",
+              "T(x) increases without bound at the same rate as x",
+              "T(x) approaches a constant value equal to the faster worker's time alone, since the slower worker contributes less and less",
+              "T(x) becomes undefined for all large values of x"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is x = 0 excluded from the domain of a rational function modelling one worker's individual rate as 1/x?",
+            "options": [
+              "Because a time of zero hours to complete the job is not a realistic scenario and makes the rate undefined",
+              "Because negative times are the only ones that should be excluded",
+              "Because the function is always defined at every real number",
+              "Because x = 0 always gives the maximum possible rate"
             ],
             "answer": 0
+          },
+          {
+            "q": "A drain empties a pool in 4 hours while a hose fills it in 3 hours, both running at once. Which expression correctly models the net rate?",
+            "options": [
+              "1/4 + 1/3, since both rates should always be added regardless of direction",
+              "1/3 - 1/4, subtracting the draining rate from the filling rate since they work against each other",
+              "1/4 - 1/3, subtracting the filling rate from the draining rate",
+              "1/3 × 1/4, multiplying the two individual rates together"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Fractions"
+        ]
       },
       {
         "subject": "Calculus",
@@ -26005,60 +25992,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: X-ray Diffraction and Bragg’s Law",
-        "summary": "Grade 12 Physics strand: X-ray diffraction directs X-rays at the regularly spaced atomic planes of a crystal, and Bragg’s law, n times lambda equals 2d times sine theta, predicts the specific angles at which constructive interference produces strong reflected beams used to determine crystal structure.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Double-Slit Interference and the Wave Nature of Light",
+        "summary": "Students use Young's double-slit formula to calculate fringe spacing and wavelength, reinforcing evidence for the wave nature of visible light.",
+        "resourceLabel": "YouTube: Double-Slit Interference and the Wave Nature of Light",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Double-Slit%20Interference%20and%20the%20Wave%20Nature%20of%20Light%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does X-ray diffraction direct a beam of X-rays at, in order to reveal the structure of a crystalline material?",
+            "q": "In Young's double-slit experiment, what pattern appears on the screen when coherent monochromatic light passes through two closely spaced slits?",
             "options": [
-              "A completely amorphous, disordered gas with no repeating structure",
-              "The regularly spaced atomic planes within the crystal",
-              "A single isolated atom floating in a vacuum with no surrounding structure",
-              "A concept unrelated to physics"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is the formula for Bragg’s law, relating the order of reflection n, the X-ray wavelength lambda, the spacing between atomic planes d, and the angle theta?",
-            "options": [
-              "n + lambda = d + theta, added together with no other operation",
-              "n·lambda = 2d·sin(theta)",
-              "n·lambda = d²/theta",
-              "A concept unrelated to Bragg’s law"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Using Bragg’s law with n = 1 and a plane spacing d = 0.20 nm, what wavelength lambda gives constructive interference at theta = 30 degrees (where sin 30 degrees = 0.5)?",
-            "options": [
-              "0.40 nm",
-              "0.60 nm",
-              "0.10 nm",
-              "0.20 nm"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why must the wavelength of the X-rays used in this technique be comparable in size to the spacing between atomic planes in a crystal?",
-            "options": [
-              "This concept has no connection to physics",
-              "Any wavelength, no matter how large or small compared to the crystal spacing, produces identical diffraction results",
-              "Diffraction effects are most pronounced when the wavelength is on a similar scale to the spacing of the diffracting structure",
-              "The wavelength used has no relationship whatsoever to the spacing of the atomic planes being studied"
+              "A single bright spot directly behind each slit only",
+              "A uniform, evenly lit band with no variation in brightness",
+              "A pattern of alternating bright and dark fringes caused by constructive and destructive interference",
+              "A continuous rainbow of colours regardless of the light source"
             ],
             "answer": 2
           },
           {
-            "q": "Why is X-ray diffraction, guided by Bragg’s law, a powerful tool for determining the atomic structure of an unknown crystalline material?",
+            "q": "What condition produces a bright fringe (constructive interference) in the double-slit pattern?",
             "options": [
-              "X-ray diffraction provides no information whatsoever about the internal structure of a crystal",
-              "Measuring the specific angles at which constructive interference occurs allows scientists to work backward and calculate the spacing and arrangement of atomic planes",
-              "Bragg’s law can only be applied to materials that have no repeating atomic structure at all",
-              "This concept has no relevance to physics"
+              "The path difference between the two slits equals a whole number of wavelengths",
+              "The path difference equals exactly half a wavelength",
+              "The two slits must be separated by more than 1 metre",
+              "The light must be white rather than monochromatic"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Slits spaced 0.20 mm apart are 2.0 m from a screen. For light of wavelength 600 nm, at what distance from the centre does the third bright fringe (m = 3) appear?",
+            "options": [
+              "0.6 cm",
+              "3.6 cm",
+              "0.9 cm",
+              "1.8 cm"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why must the light source in a double-slit experiment be coherent (a constant phase relationship between the two slits) for a clear interference pattern to form?",
+            "options": [
+              "Coherence increases the light's intensity so fringes are brighter",
+              "Without a fixed phase relationship between the two slits, the interference pattern would shift randomly and average out, washing out the fringes",
+              "Coherent light travels faster than incoherent light",
+              "Coherence changes the wavelength of the light to match the slit spacing"
             ],
             "answer": 1
+          },
+          {
+            "q": "How does using a diffraction grating (many closely spaced slits) instead of just two slits improve the interference pattern?",
+            "options": [
+              "It eliminates the need for monochromatic light",
+              "It removes dark fringes entirely, producing continuous brightness",
+              "It produces sharper, narrower, and more widely spaced bright fringes, allowing more precise wavelength measurement",
+              "It doubles the wavelength of the light passing through"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -26494,60 +26481,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Carnot Cycle and the Limits of Heat Engine Efficiency",
-        "summary": "Grade 12 Physics strand: the Carnot cycle describes an idealized, reversible heat engine operating between a hot and cold reservoir, and its efficiency, one minus the ratio of the cold to hot absolute temperatures, sets the theoretical maximum efficiency any real heat engine can achieve.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Conservation of Momentum in Collisions",
+        "summary": "Students apply the law of conservation of momentum to analyze elastic and inelastic collisions between two objects.",
+        "resourceLabel": "YouTube: Conservation of Momentum in Collisions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Conservation%20of%20Momentum%20in%20Collisions%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "Between what two temperature reservoirs does a Carnot engine operate?",
+            "q": "In a perfectly inelastic collision between two objects, what happens to the objects after they collide?",
             "options": [
-              "A concept unrelated to physics",
-              "Two reservoirs held at exactly the same temperature",
-              "A single reservoir with no temperature difference involved",
-              "A hot reservoir and a cold reservoir"
+              "They bounce apart with equal and opposite velocities",
+              "They stick together and move with a common final velocity",
+              "They come to rest immediately",
+              "Their total kinetic energy is exactly conserved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which quantity is always conserved in a collision, whether elastic or inelastic, assuming no external forces act on the system?",
+            "options": [
+              "Kinetic energy",
+              "Speed of each object individually",
+              "The direction of motion of each object",
+              "Total momentum of the system"
             ],
             "answer": 3
           },
           {
-            "q": "What is the formula for the maximum efficiency of a Carnot engine, in terms of the cold reservoir temperature Tc and the hot reservoir temperature Th (both in kelvin)?",
+            "q": "A 2.0 kg cart moving at 6.0 m/s collides and sticks with a stationary 4.0 kg cart. What is their common final velocity?",
             "options": [
-              "Tc/Th, with no subtraction from 1",
-              "A concept unrelated to the Carnot cycle",
-              "1 − (Tc/Th)",
-              "Th − Tc, expressed with no ratio involved"
+              "2.0 m/s",
+              "3.0 m/s",
+              "6.0 m/s",
+              "1.5 m/s"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Two ice skaters push off from rest against each other. Skater A (50 kg) moves right at 4.0 m/s. What happens to skater B (70 kg)?",
+            "options": [
+              "Skater B moves right at 4.0 m/s",
+              "Skater B remains stationary",
+              "Skater B moves left at about 2.9 m/s",
+              "Skater B moves left at 4.0 m/s"
             ],
             "answer": 2
           },
           {
-            "q": "A Carnot engine operates between a hot reservoir at 500 K and a cold reservoir at 300 K. What is its maximum theoretical efficiency?",
+            "q": "Why is kinetic energy not conserved in a perfectly inelastic collision, even though momentum is conserved?",
             "options": [
-              "60%",
-              "166.7%",
-              "40%",
-              "20%"
+              "Because momentum conservation only applies to elastic collisions",
+              "Because some kinetic energy is transformed into other forms, such as heat and deformation, during the collision",
+              "Because the objects' masses change during the collision",
+              "Because total momentum is not actually conserved in inelastic collisions either"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Why does no real heat engine operating between two given temperatures achieve a higher efficiency than the ideal Carnot efficiency for those same two temperatures?",
-            "options": [
-              "The Carnot efficiency formula has no relationship to how real heat engines actually perform",
-              "This concept has no connection to physics",
-              "Real heat engines always exceed the Carnot efficiency because they include additional useful mechanisms",
-              "The Carnot cycle is reversible and free of the irreversibilities, like friction, that reduce efficiency in real engines, making it the theoretical upper bound"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why does increasing the temperature difference between the hot and cold reservoirs generally increase a heat engine’s maximum possible efficiency?",
-            "options": [
-              "The maximum efficiency of a heat engine is entirely independent of the temperatures of its reservoirs",
-              "This concept has no relevance to physics",
-              "A larger temperature difference makes the ratio Tc/Th smaller, so 1 minus that ratio (the efficiency) becomes larger",
-              "Increasing the temperature difference between the reservoirs always decreases the engine’s maximum possible efficiency"
-            ],
-            "answer": 2
+            "answer": 1
           }
         ]
       }
@@ -29857,60 +29844,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Complex Numbers: The Complex Plane and Polar Form",
-        "summary": "Grade 10 Math strand: complex numbers can be plotted on the complex plane using a real and imaginary axis, and expressed in polar form using a magnitude and angle instead of standard rectangular coordinates.",
-        "resourceLabel": "YouTube: Complex Numbers: The Complex Plane and Polar Form",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Complex%20Numbers%3A%20The%20Complex%20Plane%20and%20Polar%20Form%20grade%2012%20educational",
+        "title": "The Scalar Equation of a Plane from a Normal Vector",
+        "summary": "This lesson finds the scalar (Cartesian) equation of a plane in 3D given a normal vector and a point on the plane, and uses it to test whether other points lie on the plane.",
+        "resourceLabel": "YouTube: The Scalar Equation of a Plane from a Normal Vector",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Scalar%20Equation%20of%20a%20Plane%20from%20a%20Normal%20Vector%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What two axes make up the complex plane?",
+            "q": "A plane has normal vector n = (2, −1, 3) and passes through the point (1, 4, −2). What is the scalar equation of the plane?",
             "options": [
-              "A concept unrelated to complex numbers",
-              "A real axis and an imaginary axis",
-              "A single axis representing only magnitude",
-              "Two identical real axes"
+              "2x − y + 3z + 8 = 0",
+              "2x − y + 3z − 8 = 0",
+              "2x + y + 3z + 8 = 0",
+              "2x − y + 3z = 0"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the scalar equation Ax + By + Cz + D = 0 of a plane, what does the vector (A, B, C) represent?",
+            "options": [
+              "A vector lying in the plane",
+              "A normal vector to the plane",
+              "A point that lies on the plane",
+              "The direction of the plane's steepest ascent along the x-axis"
             ],
             "answer": 1
           },
           {
-            "q": "What two values are used to express a complex number in polar form?",
+            "q": "Does the point (3, 1, −1) lie on the plane 2x − y + 3z + 8 = 0?",
             "options": [
-              "A concept unrelated to polar form",
-              "The sum of the real and imaginary parts only",
-              "Only two real numbers with no imaginary component",
-              "A magnitude and an angle"
+              "No, since substituting gives 10, not 0",
+              "Yes, since substituting gives 0",
+              "No, since substituting gives −10, not 0",
+              "Yes, since the point satisfies the normal vector's direction"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Can a complex number be represented as a point on the complex plane?",
+            "q": "Two planes have normal vectors n₁ = (1, 2, −1) and n₂ = (2, 4, −2). What can you conclude about the planes?",
             "options": [
-              "A concept unrelated to the complex plane",
-              "No, complex numbers can never be represented graphically",
-              "Yes",
-              "Only real numbers can ever be plotted on any plane"
+              "The planes are perpendicular, since their normals are different",
+              "The planes intersect in a line",
+              "The planes are parallel, since their normal vectors are scalar multiples of each other",
+              "The planes must be identical in every case"
             ],
             "answer": 2
           },
           {
-            "q": "Why might polar form be more convenient than rectangular form when multiplying two complex numbers?",
+            "q": "Two planes have normals n₁ = (1, 0, 1) and n₂ = (0, 1, 1). Since these normals are not parallel, the planes intersect in ___.",
             "options": [
-              "This concept has no connection to math",
-              "Polar form never simplifies any operation involving complex numbers",
-              "Rectangular form and polar form always require identical calculation steps for multiplication",
-              "In polar form, magnitudes are multiplied and angles are added, which is often simpler than expanding rectangular expressions"
+              "a single point",
+              "they never intersect",
+              "a plane",
+              "a line"
             ],
             "answer": 3
-          },
-          {
-            "q": "Why is visualizing complex numbers on the complex plane useful for understanding their magnitude and direction?",
-            "options": [
-              "Plotting a complex number as a point makes its distance from the origin and its angle immediately visible, similar to vectors",
-              "Visualizing complex numbers on a plane provides no useful information about them",
-              "Complex numbers have no meaningful magnitude or direction to visualize",
-              "This concept has no relevance to complex numbers"
-            ],
-            "answer": 0
           }
         ]
       },
@@ -35482,58 +35469,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "The Secant Method for Root Approximation",
-        "summary": "Grade 12 Calculus strand: the secant method approximates a root of a function by drawing a line through two nearby points on the curve and using the x-intercept of that line as the next approximation, avoiding the need for a derivative required by Newtons method.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Optimization on a Closed Interval: Finding Absolute Extrema",
+        "summary": "This lesson finds the absolute maximum and minimum values of a function on a closed interval by comparing critical points to the interval's endpoints.",
+        "resourceLabel": "YouTube: Optimization on a Closed Interval: Finding Absolute Extrema",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Optimization%20on%20a%20Closed%20Interval%3A%20Finding%20Absolute%20Extrema%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What line does the secant method use to generate its next root approximation?",
+            "q": "To find the absolute extrema of f(x) on a closed interval [a, b], you must evaluate f at ___.",
             "options": [
-              "A vertical line through a single point",
-              "A line tangent to the curve at one point only",
-              "A line through two nearby points on the curve",
-              "A line with no relationship to the curve"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What advantage does the secant method have over Newtons method?",
-            "options": [
-              "It always converges faster than every other method",
-              "It does not require computing a derivative of the function",
-              "It guarantees an exact answer after a single step",
-              "It requires exactly one initial guess rather than two"
+              "only the endpoints a and b",
+              "all critical points in [a, b] and the endpoints a and b",
+              "only the critical points where f′(x) = 0",
+              "only the midpoint of the interval"
             ],
             "answer": 1
           },
           {
-            "q": "What quantity from the secant line gives the next root approximation?",
+            "q": "For f(x) = x³ − 3x on [0, 3], what is the absolute maximum value?",
             "options": [
-              "The midpoint of the two original points",
-              "Its x-intercept",
-              "Its slope alone, with no intercept used",
-              "Its y-intercept"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How many previous approximations does the secant method use to generate the next one?",
-            "options": [
-              "One",
-              "Zero",
-              "Two",
-              "An unlimited number, all at once"
+              "0",
+              "24",
+              "18",
+              "−2"
             ],
             "answer": 2
           },
           {
-            "q": "How does the secant method generally compare to the bisection method studied earlier in terms of convergence speed?",
+            "q": "For f(x) = x³ − 3x on [0, 3], what is the absolute minimum value?",
             "options": [
-              "It generally converges faster than bisection, though convergence is not guaranteed",
-              "Bisection converges without ever needing two initial points",
-              "The two methods have identical convergence behaviour in every case",
-              "It always converges more slowly than bisection"
+              "18",
+              "0",
+              "2",
+              "−2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why must you check the endpoints in addition to critical points when finding absolute extrema on a closed interval?",
+            "options": [
+              "Critical points always give the absolute extrema, making endpoint checks unnecessary",
+              "The absolute extreme values can occur at an endpoint even when it isn't a critical point",
+              "Endpoints only matter if the function is undefined there",
+              "The derivative is automatically undefined at both endpoints"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A closed interval [a, b] guarantees that a continuous function f has an absolute maximum and minimum on that interval, by the ___.",
+            "options": [
+              "Extreme Value Theorem",
+              "Mean Value Theorem",
+              "Factor Theorem",
+              "Intermediate Value Theorem"
             ],
             "answer": 0
           }
@@ -37132,58 +37119,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "AdvancedFunctions Review: Statistics, Algebra, and Graph Theory",
-        "summary": "Grade 12 Advanced Functions strand review: students revisit the Poisson distribution, the law of quadratic reciprocity, group theory, Boolean algebra and logic gates, and correlation and the Pearson correlation coefficient.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "AdvancedFunctions Review: Rational Functions, Probability, and Counting Principles",
+        "summary": "This review lesson revisits key ideas across rational functions, probability distributions, and counting principles to prepare for a unit assessment.",
+        "resourceLabel": "YouTube: AdvancedFunctions Review: Rational Functions, Probability, and Counting Principles",
+        "resourceUrl": "https://www.youtube.com/results?search_query=AdvancedFunctions%20Review%3A%20Rational%20Functions%2C%20Probability%2C%20and%20Counting%20Principles%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What kind of events does the Poisson distribution typically model?",
+            "q": "For the rational function f(x) = (x+3)/(x-2), what is the equation of the vertical asymptote?",
             "options": [
-              "Events that always occur at exactly the same time",
-              "Only events with a probability of exactly one half",
-              "Events with no possible variation whatsoever",
-              "Rare, independent events occurring a certain number of times in a fixed interval"
+              "x = 2, where the denominator equals zero",
+              "x = -3, where the numerator equals zero",
+              "x = 0, since asymptotes always occur at the origin",
+              "y = 1, based on the ratio of leading coefficients"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What does the law of quadratic reciprocity relate?",
+            "q": "A discrete probability distribution assigns probabilities 0.1, 0.3, x, 0.2 to four outcomes. What must x equal for this to be a valid distribution?",
             "options": [
-              "The sum of two unrelated even numbers",
-              "Whether p is a quadratic residue modulo q to whether q is a quadratic residue modulo p",
-              "The value of an unrelated trigonometric identity",
-              "The number of divisors of a composite number only"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What four properties define a group under its operation?",
-            "options": [
-              "Commutativity alone, with no identity element required",
-              "A requirement that the set contain exactly one element",
-              "Only closure, with no other requirements",
-              "Closure, associativity, an identity element, and inverses for every element"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What values does Boolean algebra fundamentally operate on?",
-            "options": [
-              "Negative fractions only",
-              "True and false (or one and zero) values",
-              "Only irrational numbers",
-              "Complex numbers exclusively"
+              "x = 0.6, so that the four probabilities sum to 1.2",
+              "x = 0.4, so that all four probabilities sum to exactly 1",
+              "x = 1, since one outcome must always have probability 1",
+              "x = 0.2, matching the last given probability"
             ],
             "answer": 1
           },
           {
-            "q": "What does the Pearson correlation coefficient measure?",
+            "q": "How many different 4-digit codes can be formed using the digits 1-9 if no digit may repeat?",
             "options": [
-              "The strength and direction of the linear relationship between two quantitative variables",
-              "The total number of data points collected",
-              "The exact mean of a single data set",
-              "The mode of a categorical variable"
+              "9 × 9 × 9 × 9 = 6561, allowing repeats by mistake",
+              "9! = 362880, treating the problem as arranging all nine digits",
+              "9 × 8 × 7 × 6 = 3024, choosing each successive digit from those remaining",
+              "4 × 3 × 2 × 1 = 24, using only the number of positions available"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which situation should be modelled with a combination rather than a permutation?",
+            "options": [
+              "Assigning first, second, and third place medals to runners in a race",
+              "Choosing a 3-person committee from a group of 8 people where order does not matter",
+              "Arranging 5 distinct books on a shelf",
+              "Creating a 4-letter password where letters can repeat and order matters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A rational function has a horizontal asymptote at y = 3. What does this indicate about the function's behaviour as x becomes very large?",
+            "options": [
+              "The function's output values approach 3 but never reach exactly 3",
+              "The function is undefined for all values of x greater than 3",
+              "The function increases without bound as x increases",
+              "The function has a vertical asymptote at the same location"
             ],
             "answer": 0
           }
@@ -40427,63 +40414,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "The Poynting Vector and the Flow of Electromagnetic Energy",
-        "summary": "Grade 12 Physics strand: the Poynting vector describes the direction and rate of energy flow carried by an electromagnetic wave, calculated from the cross product of the electric and magnetic field vectors, and is used to quantify the intensity of radiation such as sunlight or a radio signal.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Electromagnetic Induction: Faraday's and Lenz's Laws",
+        "summary": "Students explore how a changing magnetic flux induces an EMF in a coil, using Faraday's law to calculate induced EMF and Lenz's law to determine the direction of induced current.",
+        "resourceLabel": "YouTube: Electromagnetic Induction: Faraday's and Lenz's Laws",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electromagnetic%20Induction%3A%20Faraday%27s%20and%20Lenz%27s%20Laws%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the Poynting vector describe about an electromagnetic wave?",
+            "q": "What does Faraday's law of electromagnetic induction state?",
             "options": [
-              "The temperature of the medium the wave travels through",
-              "The exact colour of the light involved",
-              "The direction and rate of energy flow it carries",
-              "The mass of the particles composing the wave"
+              "A changing magnetic flux through a loop induces an EMF in that loop",
+              "A constant magnetic flux induces a steady current",
+              "Electric current always creates a magnetic field of constant strength",
+              "Magnetic flux and induced EMF change independently of each other"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to Lenz's law, the direction of an induced current is such that it",
+            "options": [
+              "always flows in the same direction as the change in flux",
+              "has no definite direction, varying randomly",
+              "opposes the change in magnetic flux that produced it",
+              "doubles the rate of change of the magnetic flux"
             ],
             "answer": 2
           },
           {
-            "q": "From which two field vectors is the Poynting vector calculated?",
+            "q": "A coil of 100 turns experiences a change in magnetic flux of 0.05 Wb over 2.0 s. What EMF is induced?",
             "options": [
-              "A single scalar temperature value with no field vectors involved",
-              "Two separate magnetic field vectors with no electric component",
-              "The gravitational field vector and the electric field vector",
-              "The electric field vector and the magnetic field vector"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What mathematical operation combines the electric and magnetic fields to produce the Poynting vector?",
-            "options": [
-              "The dot product, producing a single scalar value",
-              "The cross product",
-              "Division of one field by the other",
-              "Simple scalar addition of their magnitudes only"
+              "0.025 V",
+              "2.5 V",
+              "5.0 V",
+              "10 V"
             ],
             "answer": 1
           },
           {
-            "q": "What practical quantity can the Poynting vector be used to calculate for a beam of light or a radio signal?",
+            "q": "A bar magnet is pushed into a coil, north pole first. According to Lenz's law, the induced current in the coil flows in a direction that",
             "options": [
-              "The electric charge carried by the radiation",
-              "The exact wavelength of the radiation with no reference to energy",
-              "The rest mass of the electromagnetic wave",
-              "The intensity, or rate of energy flow per unit area, of the radiation"
+              "creates a magnetic field that pulls the magnet in faster",
+              "creates no magnetic field of its own",
+              "matches the direction of the magnet's own field inside the coil",
+              "creates a magnetic field opposing the magnet's motion, repelling the approaching north pole"
             ],
             "answer": 3
           },
           {
-            "q": "Why is the Poynting vector a useful tool for connecting electromagnetic theory to energy transport?",
+            "q": "Why does pulling a coil of wire out of a magnetic field faster produce a larger induced EMF than pulling it out slowly?",
             "options": [
-              "It has no connection to energy transport of any kind",
-              "It only applies to static electric fields with no wave motion involved",
-              "It translates the abstract electric and magnetic field description of a wave into a concrete measure of energy flow through space",
-              "It measures mass transport rather than energy transport"
+              "Because a faster rate of change of magnetic flux produces a proportionally larger induced EMF, per Faraday's law",
+              "Because the coil's resistance decreases at higher speeds",
+              "Because the magnetic field itself becomes stronger when the coil moves faster",
+              "Because induced EMF depends on the coil's speed alone, and is set entirely before considering the flux change"
             ],
-            "answer": 2
+            "answer": 0
           }
-        ],
-        "topic": "Energy"
+        ]
       }
     ]
   },
@@ -42631,63 +42617,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Variable Mass Systems and the Rocket Equation",
-        "summary": "Grade 12 Physics strand: a variable mass system, such as a rocket expelling burned fuel, requires an extended form of Newtons second law that accounts for mass leaving or joining the system, leading to the rocket equation, which relates a rockets change in velocity to the exhaust speed and the ratio of its initial to final mass.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Conservation of Momentum in Explosions",
+        "summary": "Students apply conservation of momentum to systems that start at rest and separate into multiple parts, such as an explosion or a recoiling cannon.",
+        "resourceLabel": "YouTube: Conservation of Momentum in Explosions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Conservation%20of%20Momentum%20in%20Explosions%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What kind of physical system does the rocket equation describe?",
+            "q": "A stationary object explodes into two fragments. What is the total momentum of the system immediately after the explosion?",
             "options": [
-              "A variable mass system, such as a rocket expelling burned fuel",
-              "A system consisting of a single point mass with no fuel or propulsion",
-              "A system with no motion of any kind",
-              "A system with a perfectly constant, unchanging total mass"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is an extended form of Newtons second law needed for a system like a rocket?",
-            "options": [
-              "Because it accounts for mass leaving or joining the system over time",
-              "Because rockets experience no external or internal forces at all",
-              "Because the systems total mass never changes in any rocket problem",
-              "Because Newtons second law cannot be applied to any physical system involving motion"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What two quantities does the rocket equation relate to a rockets change in velocity?",
-            "options": [
-              "The rockets electric charge and magnetic field strength",
-              "The temperature of the surrounding atmosphere alone",
-              "The colour of the rocket and its total surface area",
-              "The exhaust speed and the ratio of its initial to final mass"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How does the rocket equation relate to the conservation of momentum studied in an earlier batch?",
-            "options": [
-              "The rocket equation has no connection to momentum conservation of any kind",
-              "The rocket equation is derived by applying conservation of momentum to the combined system of the rocket and the fuel it expels",
-              "Conservation of momentum only applies to systems with constant mass and can never be extended to a rocket",
-              "The rocket equation replaces the need for momentum conservation entirely"
+              "Equal to the kinetic energy released in the explosion",
+              "Zero, the same as before the explosion",
+              "Equal to the momentum of the heavier fragment only",
+              "Always greater than zero, in the direction of the larger fragment"
             ],
             "answer": 1
           },
           {
-            "q": "Why is the rocket equation an important result for space travel and propulsion engineering?",
+            "q": "A stationary 2.0 kg firework explodes into two pieces: a 0.5 kg piece moving right at 12 m/s and a 1.5 kg piece. What is the velocity of the 1.5 kg piece?",
             "options": [
-              "It quantifies how much velocity change a rocket can achieve based on its fuel mass ratio and exhaust speed",
-              "It has no practical application to designing or analyzing real spacecraft",
-              "Exhaust speed has no influence on a rockets achievable change in velocity",
-              "The rocket equation applies only to objects that never lose any mass"
+              "4.0 m/s to the right",
+              "8.0 m/s to the left",
+              "4.0 m/s to the left",
+              "2.0 m/s to the left"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A 500 kg cannon fires a 5.0 kg cannonball at 100 m/s. Using momentum conservation, what is the cannon's recoil speed?",
+            "options": [
+              "1.0 m/s",
+              "10 m/s",
+              "0.1 m/s",
+              "100 m/s"
             ],
             "answer": 0
+          },
+          {
+            "q": "Why is total momentum conserved during an explosion even though kinetic energy increases dramatically?",
+            "options": [
+              "Because kinetic energy and momentum are always conserved together in every process",
+              "Because momentum conservation only applies when kinetic energy is also conserved",
+              "Because the explosion's chemical energy converts directly into momentum",
+              "Because momentum conservation depends only on the absence of external forces on the system, not on whether energy within it is conserved"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In an explosion where a stationary object breaks into two unequal fragments, which fragment moves away with the greater speed?",
+            "options": [
+              "The heavier fragment, since it carries more momentum",
+              "The lighter fragment, since for equal and opposite momenta, a smaller mass requires a larger speed",
+              "Both fragments always move at exactly the same speed",
+              "The fragment that experiences less kinetic energy release"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Earth Systems"
+        ]
       }
     ]
   },
@@ -42877,63 +42862,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "RLC Circuits and the Physics of Damped Oscillation",
-        "summary": "Grade 12 Physics strand: an RLC circuit combines a resistor, inductor, and capacitor, so that the natural oscillation of energy between the inductors magnetic field and the capacitors electric field is gradually damped by resistive energy loss, producing behaviour that ranges from underdamped ringing to overdamped decay depending on the component values.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Series and Parallel Circuit Calculations with Ohm's Law",
+        "summary": "Students calculate current, voltage, and equivalent resistance in series and parallel resistor networks using Ohm's law.",
+        "resourceLabel": "YouTube: Series and Parallel Circuit Calculations with Ohm's Law",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Series%20and%20Parallel%20Circuit%20Calculations%20with%20Ohm%27s%20Law%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What three components make up an RLC circuit?",
+            "q": "In a series circuit, how does the current compare through each resistor?",
             "options": [
-              "Two capacitors and a single wire with no resistor or inductor",
-              "A resistor, an inductor, and a capacitor",
-              "Only two resistors and no other component",
-              "A battery and a light bulb with no resistor, inductor, or capacitor"
+              "It is different through each resistor, depending on its resistance",
+              "It is zero through all but the last resistor",
+              "It is the same through every resistor",
+              "It splits equally between all resistors regardless of resistance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How is the equivalent resistance of two resistors connected in parallel calculated?",
+            "options": [
+              "1/R_eq = 1/R1 + 1/R2",
+              "R_eq = R1 + R2",
+              "R_eq = R1 × R2",
+              "R_eq = (R1 + R2)/2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Two resistors, 6.0 Ω and 3.0 Ω, are connected in parallel across a 12 V battery. What total current flows from the battery?",
+            "options": [
+              "2.0 A",
+              "4.0 A",
+              "1.3 A",
+              "6.0 A"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to the total resistance of a circuit when an additional resistor is added in parallel to existing resistors?",
+            "options": [
+              "Total resistance increases",
+              "Total resistance decreases, since current has more paths to flow through",
+              "Total resistance stays exactly the same",
+              "Total resistance becomes infinite"
             ],
             "answer": 1
           },
           {
-            "q": "What effect does the resistor have on the natural oscillation of an RLC circuit compared to a pure LC circuit?",
+            "q": "Why do household electrical outlets connect appliances in parallel rather than in series?",
             "options": [
-              "It causes the oscillation to grow without bound over time",
-              "It instantly stops all current flow in the circuit",
-              "It has no effect whatsoever on the oscillation",
-              "It gradually damps the oscillation through resistive energy loss"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What range of behaviour can an RLC circuit exhibit depending on its component values?",
-            "options": [
-              "Behaviour with no dependence on the circuits component values at all",
-              "A behaviour in which current always increases without any limit",
-              "Behaviour ranging from underdamped ringing to overdamped decay",
-              "Only a single fixed behaviour regardless of component values"
+              "Series wiring would let appliances share the same current, which is safer",
+              "Parallel wiring makes all appliances turn on and off together",
+              "Parallel wiring ensures each appliance receives the full source voltage and can operate independently of the others",
+              "Series wiring provides a constant voltage to each appliance regardless of how many are connected"
             ],
             "answer": 2
-          },
-          {
-            "q": "How does the RLC circuit relate to the LC circuit studied in an earlier batch?",
-            "options": [
-              "Adding a resistor to an LC circuit has no effect on its oscillatory behaviour",
-              "The RLC circuit and the LC circuit are identical, with no distinguishing components",
-              "The RLC circuit builds on the LC circuits energy-exchanging oscillation by adding a resistor, which introduces damping that a pure LC circuit does not have",
-              "The LC circuit always includes more damping than the RLC circuit"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is understanding damping in an RLC circuit important for designing practical electronic devices?",
-            "options": [
-              "Damping has no relevance to the design of any practical electronic device",
-              "RLC circuits are never used in any real electronic application",
-              "The degree of damping cannot be influenced by any of the circuits component values",
-              "Controlling the degree of damping allows engineers to shape how a circuit responds over time, which matters for applications such as filters"
-            ],
-            "answer": 3
           }
-        ],
-        "topic": "Electricity & Magnetism"
+        ]
       }
     ]
   },
@@ -43248,63 +43232,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: The Error Function and Its Link to the Normal Distribution",
-        "summary": "Grade 12 Advanced Functions strand: the error function is a special function defined by an integral that has no elementary closed form, used to express the cumulative probability of the normal distribution and to describe diffusion and heat-conduction processes that follow a similar bell-shaped pattern.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "The Normal Distribution and Z-Scores",
+        "summary": "This lesson introduces the normal distribution's bell-shaped curve and shows how to calculate and interpret z-scores to compare data values across different distributions.",
+        "resourceLabel": "YouTube: The Normal Distribution and Z-Scores",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Normal%20Distribution%20and%20Z-Scores%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "How is the error function defined?",
+            "q": "A data set has a mean of 70 and a standard deviation of 5. What is the z-score for a value of 80?",
             "options": [
-              "By a purely geometric construction with no reference to integration",
-              "By an integral that has no elementary closed form",
-              "By a ratio of two integers with no integral involved",
-              "By a simple polynomial expression with a finite number of terms"
+              "z = 10, the raw difference between the value and the mean",
+              "z = 2, since (80 - 70) divided by 5 equals 2",
+              "z = 0.5, since 5 divided by 10 equals 0.5",
+              "z = 15, adding the mean and standard deviation together"
             ],
             "answer": 1
           },
           {
-            "q": "What probability concept is the error function closely used to express?",
+            "q": "Approximately what percentage of data in a normal distribution falls within one standard deviation of the mean?",
             "options": [
-              "The cumulative probability of the normal distribution",
-              "The exact value of a discrete binomial probability",
-              "The probability of a single coin flip landing heads",
-              "A probability that is always exactly equal to one"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Besides probability, what kind of physical process can the error function help describe?",
-            "options": [
-              "Diffusion and heat-conduction processes",
-              "The vibration of a plucked string",
-              "The orbital motion of planets around a star",
-              "The refraction of light through a lens"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How does the error function relate to the normal distribution studied in an earlier batch?",
-            "options": [
-              "The error function replaces the need for the normal distribution entirely",
-              "The two concepts have no mathematical relationship whatsoever",
-              "The error function provides the mathematical tool used to compute cumulative probabilities under the normal distributions bell-shaped curve",
-              "The normal distribution is defined without any reference to integration of any kind"
+              "50%, since the mean splits the distribution in half",
+              "99.7%, the amount within three standard deviations",
+              "68%, according to the empirical rule",
+              "95%, the amount within two standard deviations"
             ],
             "answer": 2
           },
           {
-            "q": "Why is it useful to have a named special function like the error function, even though it lacks an elementary closed form?",
+            "q": "Student A scores 85 on a test with mean 75 and standard deviation 10. Student B scores 90 on a different test with mean 80 and standard deviation 20. Whose score is relatively higher compared to their own class?",
             "options": [
-              "Naming a function with no elementary closed form provides no practical benefit",
-              "It provides a standard, well-studied way to work with and compute an integral that otherwise cannot be expressed using elementary functions",
-              "The error function is identical to an elementary polynomial function",
-              "Special functions without elementary closed forms can never be computed or tabulated"
+              "Student B, because 90 is a larger raw score than 85",
+              "Student A, because their z-score of 1.0 is higher than Student B's z-score of 0.5",
+              "They performed identically, since both scored 10 points above their class mean",
+              "Student B, because their standard deviation is larger"
             ],
             "answer": 1
+          },
+          {
+            "q": "A z-score is calculated as -1.5. What does the negative sign indicate about the original data value?",
+            "options": [
+              "The value is negative in the original data set",
+              "The value lies below the mean of the distribution",
+              "The calculation contains an error, since z-scores cannot be negative",
+              "The value lies exactly at the mean of the distribution"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the normal distribution curve symmetric about its mean?",
+            "options": [
+              "Because values equally far above and below the mean occur with equal likelihood, so the two sides mirror each other",
+              "Because all data values in a normal distribution are identical to the mean",
+              "Because standard deviation is always equal to zero in a normal distribution",
+              "Because only positive values are permitted in a normal distribution"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Probability Distributions"
+        ]
       },
       {
         "subject": "Calculus",
@@ -43552,63 +43535,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "The Fixed-Point Iteration Method for Root Approximation",
-        "summary": "Grade 12 Calculus strand: fixed-point iteration approximates a root of an equation by rewriting it in the form x equals g of x and repeatedly applying the function g to an initial guess, converging toward a fixed point of g that corresponds to the desired root under suitable conditions.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Related Rates: Applied Problems with Multiple Variables",
+        "summary": "This lesson solves related-rates problems involving more than one changing quantity, such as expanding shapes and moving objects, by differentiating an equation connecting the variables with respect to time.",
+        "resourceLabel": "YouTube: Related Rates: Applied Problems with Multiple Variables",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Related%20Rates%3A%20Applied%20Problems%20with%20Multiple%20Variables%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "How is an equation rewritten before applying fixed-point iteration?",
+            "q": "A spherical balloon's volume increases at 100 cm³/s. Using V = (4/3)πr³, find dr/dt when r = 5 cm.",
             "options": [
-              "In the form x equals g of x",
-              "As a system of several unrelated equations",
-              "As a definite integral with fixed limits",
-              "In a form with no variable x present at all"
+              "1/π ≈ 0.32 cm/s",
+              "5/π ≈ 1.59 cm/s",
+              "100/π ≈ 31.8 cm/s",
+              "0.32π cm/s ≈ 1.01 cm/s"
             ],
             "answer": 0
           },
           {
-            "q": "What repeated operation does fixed-point iteration perform on an initial guess?",
+            "q": "Two cars leave an intersection, one heading north at 60 km/h and the other east at 80 km/h. How fast is the distance between them increasing after 1 hour?",
             "options": [
-              "Repeatedly differentiating the original equation with no further evaluation",
-              "Repeatedly applying the function g to the guess",
-              "Repeatedly multiplying the guess by a fixed constant with no reference to g",
-              "Repeatedly discarding the guess and choosing a new random starting value"
+              "140 km/h",
+              "100 km/h",
+              "70 km/h",
+              "20 km/h"
             ],
             "answer": 1
           },
           {
-            "q": "What does the iteration converge toward, under suitable conditions?",
+            "q": "Water drains from a conical tank where r = h/2, so V = πh³/12. If dV/dt = −2 m³/min, find dh/dt when h = 3 m.",
             "options": [
-              "A value that grows without bound in every case",
-              "A value that oscillates forever with no defined limit",
-              "A single incorrect value unrelated to any root",
-              "A fixed point of g that corresponds to the desired root"
+              "+8/(9π) ≈ 0.28 m/min",
+              "−8/(3π) ≈ −0.85 m/min",
+              "−2/(9π) ≈ −0.07 m/min",
+              "−8/(9π) ≈ −0.28 m/min"
             ],
             "answer": 3
           },
           {
-            "q": "How does fixed-point iteration compare to Newtons method for root approximation, studied in an earlier batch?",
+            "q": "In a related-rates problem, why must you differentiate the relating equation with respect to time before substituting known numerical values?",
             "options": [
-              "The two methods are identical in every computational step",
-              "Both are iterative numerical techniques for approximating a root, though Newtons method uses the functions derivative while fixed-point iteration relies on a rewritten function g",
-              "Fixed-point iteration always requires computing a derivative at each step",
-              "Newtons method never involves any iterative repetition"
+              "Substituting numbers first keeps the algebra neater but changes nothing else",
+              "Substituting values before differentiating treats the changing quantities as constants, losing their rates from the equation",
+              "The equation is only true at one instant if numbers are substituted after differentiating",
+              "The chain rule requires numerical values to be substituted before differentiating"
             ],
             "answer": 1
           },
           {
-            "q": "Why is the choice of how to rewrite an equation as x equals g of x important for fixed-point iteration to succeed?",
+            "q": "A rectangular base has length increasing at 3 cm/s and width decreasing at 2 cm/s. When length = 10 cm and width = 6 cm, find the rate of change of the area A = lw.",
             "options": [
-              "Fixed-point iteration always converges regardless of the properties of g",
-              "Any rearrangement of the equation is guaranteed to converge to the correct root",
-              "The choice of g has no effect on whether the iteration converges",
-              "Not every rearrangement leads to convergence, so the properties of g near the root determine whether the iteration converges"
+              "38 cm²/s",
+              "−8 cm²/s",
+              "−2 cm²/s",
+              "−38 cm²/s"
             ],
-            "answer": 3
+            "answer": 2
           }
-        ],
-        "topic": "Ratios & Rates"
+        ]
       },
       {
         "subject": "Physics",
@@ -45097,63 +45079,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Gauss Law and Electric Flux Through a Closed Surface",
-        "summary": "Grade 12 Physics strand: Gauss law relates the total electric flux passing through any closed surface to the net electric charge enclosed within that surface, offering a powerful shortcut for finding the electric field of highly symmetric charge distributions.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Electric Field and Electric Potential of a Point Charge",
+        "summary": "Students calculate the electric field strength and electric potential at a distance from a point charge using Coulomb's law relationships.",
+        "resourceLabel": "YouTube: Electric Field and Electric Potential of a Point Charge",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electric%20Field%20and%20Electric%20Potential%20of%20a%20Point%20Charge%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does Gauss law relate the total electric flux through a closed surface to?",
+            "q": "What does the electric field strength at a point represent?",
             "options": [
-              "The distance of the surface from the nearest magnet",
-              "The net electric charge enclosed within that surface",
-              "The total surface area of the enclosing shape alone",
-              "The colour and material of the surface itself"
+              "The total charge enclosed within a given radius",
+              "The force per unit positive charge that would be experienced at that point",
+              "The potential energy stored in the electric field",
+              "The distance from the source charge to that point"
             ],
             "answer": 1
           },
           {
-            "q": "For what kind of charge distribution does Gauss law offer a particularly powerful shortcut for finding the electric field?",
+            "q": "A point charge of 2.0×10^-6 C creates a field. Using E = kQ/r² (k = 9.0×10^9 N·m²/C²), what is the field strength at r = 0.30 m?",
             "options": [
-              "Distributions that produce no electric field whatsoever",
-              "Highly symmetric charge distributions",
-              "Only a single stationary point charge in complete isolation from any surface",
-              "Distributions with no symmetry of any kind"
+              "6.0×10^4 N/C",
+              "1.0×10^5 N/C",
+              "4.0×10^5 N/C",
+              "2.0×10^5 N/C"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "What is meant by electric flux through a surface, in this context?",
+            "q": "How does the electric potential due to a point charge change if the distance from the charge is tripled?",
             "options": [
-              "A measure with no connection to the electric field at all",
-              "A measure of how much electric field passes through that surface",
-              "A measure of the surfaces electrical resistance",
-              "A measure of the surfaces temperature"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How does Gauss law relate to the concept of the electric field and potential studied in an earlier batch?",
-            "options": [
-              "Gauss law provides an alternative, flux-based method for determining the electric field, complementing the direct field and potential calculations studied earlier, especially for symmetric charge arrangements",
-              "Gauss law applies only to magnetic fields and never to electric fields",
-              "Electric potential can only ever be found using Gauss law and no other method",
-              "Gauss law has no connection to the electric field of a charge distribution"
+              "It decreases to one-third of its original value",
+              "It decreases to one-ninth of its original value",
+              "It stays the same",
+              "It triples"
             ],
             "answer": 0
           },
           {
-            "q": "Why is Gauss law considered a powerful problem-solving tool in electrostatics?",
+            "q": "What is the key difference between electric field and electric potential at a point near a charge?",
             "options": [
-              "Gauss law can only be applied to a single isolated point charge with no surrounding surface",
-              "It can determine the electric field of a symmetric charge distribution far more directly than summing the contributions of individual charges",
-              "It relates electric flux to a quantity that has no connection to enclosed charge",
-              "It provides no computational advantage over any other method of finding an electric field"
+              "Electric field is a scalar and electric potential is a vector",
+              "Electric field depends on distance, but electric potential does not",
+              "Electric field is a vector quantity describing force per charge, while electric potential is a scalar quantity describing potential energy per charge",
+              "Electric potential only exists near negative charges, while electric field exists near both"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does the electric potential from a point charge decrease more slowly with distance (as 1/r) than the electric field does (as 1/r²)?",
+            "options": [
+              "Because potential is unconnected to the source charge's magnitude",
+              "Because potential depends on the total energy transferred over the whole path from far away, which accumulates differently than the field strength measured at a single point",
+              "Because potential increases with distance while field decreases",
+              "Because potential and field always follow the same power-law dependence on distance"
             ],
             "answer": 1
           }
-        ],
-        "topic": "Electricity & Magnetism"
+        ]
       }
     ]
   },
@@ -53928,6 +53909,7 @@ const curriculum: DayContent[] = [
       }
     ]
   }
-];
+]
+;
 
 export default curriculum;

@@ -4300,64 +4300,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Functions: Introduction to Polynomial Functions",
-        "summary": "Students are introduced to polynomial functions — degree, end behaviour, zeros, and graphical features — as a bridge from Grade 10 quadratics to Grade 11 functions.",
-        "resourceLabel": "YouTube: Functions: Introduction to Polynomial Functions",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Introduction%20to%20Polynomial%20Functions%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=a5x4lwnvHM0",
+        "title": "Quadratic Relations in Factored Form: Zeros and Axis of Symmetry",
+        "summary": "Students learn to find the zeros (x-intercepts) of a quadratic relation directly from its factored form, and use the zeros to find the axis of symmetry and vertex.",
+        "resourceLabel": "YouTube: Quadratic Relations in Factored Form: Zeros and Axis of Symmetry",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Quadratic%20Relations%20in%20Factored%20Form%3A%20Zeros%20and%20Axis%20of%20Symmetry%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "A polynomial function of degree n has ___.",
+            "q": "For y = (x − 3)(x + 5), what are the zeros of the relation?",
             "options": [
-              "exactly n roots always",
-              "a graph that crosses the x-axis n times always",
-              "only n terms",
-              "at most n real zeros"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The end behaviour of a polynomial is determined by ___.",
-            "options": [
-              "all terms equally",
-              "the constant term",
-              "the leading term (highest degree)",
-              "the number of terms"
+              "x = 3 and x = 5",
+              "x = −3 and x = 5",
+              "x = 3 and x = −5",
+              "x = −3 and x = −5"
             ],
             "answer": 2
           },
           {
-            "q": "A cubic function (degree 3) with positive leading coefficient has end behaviour: ___.",
+            "q": "Once you know the zeros of a quadratic are x = 2 and x = 8, how do you find the axis of symmetry?",
             "options": [
-              "falls both directions",
-              "falls left, rises right",
-              "rises both directions",
-              "rises left, falls right"
+              "Multiply the two zeros together",
+              "Average the two zeros",
+              "Add the two zeros and double the result",
+              "Subtract the smaller zero from the larger one"
             ],
             "answer": 1
           },
           {
-            "q": "The zeros of a polynomial function are ___.",
+            "q": "A quadratic relation has zeros at x = −1 and x = 7. What is the equation of its axis of symmetry?",
             "options": [
-              "the slope values",
-              "the x-values where f(x) = 0",
-              "the y-intercepts",
-              "the coefficient values"
+              "x = 4",
+              "x = 3",
+              "x = 6",
+              "x = 8"
             ],
             "answer": 1
           },
           {
-            "q": "A polynomial function y = (x − 2)(x + 1)(x − 4) has x-intercepts at ___.",
+            "q": "For y = 2(x − 1)(x + 3), what is the vertex's x-coordinate?",
             "options": [
-              "x = 0, 2, −1, 4",
-              "x = 2, −1, 4",
-              "x = 2, 1, 4",
-              "x = −2, 1, −4"
+              "x = −1",
+              "x = 2",
+              "x = −2",
+              "x = 1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can the factored form of a quadratic relation reveal its zeros immediately, without solving an equation?",
+            "options": [
+              "Because the leading coefficient always equals the zeros",
+              "Because a product equals zero only when at least one factor equals zero, so each factor set to zero gives a zero of the relation",
+              "Because factored form always has a leading coefficient of one",
+              "Because the y-intercept and the zeros are always the same value"
             ],
             "answer": 1
           }
-        ],
-        "topic": "Polynomials & Factoring"
+        ]
       },
       {
         "subject": "Science",
@@ -5614,59 +5612,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Physics: Modern Physics Concepts",
-        "summary": "Students are introduced to key modern physics concepts: quantum theory, the photoelectric effect, the wave-particle duality of light, and relativistic effects.",
-        "resourceLabel": "YouTube: Physics: Modern Physics Concepts",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Modern%20Physics%20Concepts%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=ZAqIoDhornk",
+        "title": "Refraction of Light: Snell's Law and Total Internal Reflection",
+        "summary": "Students learn how light bends when it passes between media of different optical densities, apply Snell's Law to predict refraction angles, and explore total internal reflection and the critical angle.",
+        "resourceLabel": "YouTube: Refraction of Light: Snell's Law and Total Internal Reflection",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Refraction%20of%20Light%3A%20Snell%27s%20Law%20and%20Total%20Internal%20Reflection%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "The photoelectric effect showed that ___.",
+            "q": "Refraction is best described as ___.",
             "options": [
-              "light behaves as particles (photons)",
-              "electricity can produce light",
-              "light is purely a wave",
-              "electrons have no mass"
+              "the bending of light as it passes between media of different optical density",
+              "the reflection of light off a smooth surface",
+              "the splitting of light into a spectrum of colours",
+              "the absorption of light energy by a medium"
             ],
             "answer": 0
           },
           {
-            "q": "Wave-particle duality means ___.",
+            "q": "When light travels from air into water, ___.",
             "options": [
-              "only light has this duality",
-              "all objects behave this way at human scale",
-              "objects show wave and particle traits",
-              "waves and particles are unrelated"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Einstein's E = mc² means ___.",
-            "options": [
-              "energy is always conserved",
-              "mass and energy are different and unrelated",
-              "matter and energy are equivalent",
-              "only applies in nuclear physics"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Quantum mechanics is necessary because ___.",
-            "options": [
-              "classical physics explains everything",
-              "classical physics fails at tiny scales",
-              "there are no laws at atomic scale",
-              "atoms follow the same rules as baseballs"
+              "the light speeds up and bends away from the normal",
+              "the light slows down and bends toward the normal",
+              "the light speed stays exactly the same",
+              "the light stops travelling completely"
             ],
             "answer": 1
           },
           {
-            "q": "The uncertainty principle (Heisenberg) states ___.",
+            "q": "In Snell's Law, when light travels from a less dense medium (like air) into a denser medium (like glass), the angle of refraction is ___.",
             "options": [
-              "position and momentum can always both be determined precisely",
-              "you can't precisely know both at once",
-              "scientists are not precise enough",
-              "measurement is always perfect"
+              "larger than the angle of incidence",
+              "equal to the angle of incidence",
+              "smaller than the angle of incidence",
+              "impossible to determine without a protractor"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Total internal reflection can only occur when ___.",
+            "options": [
+              "light passes from a less dense into a denser medium",
+              "the angle of incidence is exactly 0 degrees",
+              "the medium has an index of refraction of exactly 1.00",
+              "light travels from a denser into a less dense medium beyond the critical angle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The critical angle is the angle of incidence at which ___.",
+            "options": [
+              "light is completely absorbed by the medium",
+              "the refracted ray travels exactly along the boundary between the two media",
+              "the angle of refraction equals the angle of incidence in every case",
+              "reflection no longer happens at all"
             ],
             "answer": 1
           }
@@ -9024,61 +9021,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Introduction to Complex Numbers",
-        "summary": "Grade 10 Number strand (extension): a complex number combines a real number and an imaginary number, where the imaginary unit i represents the square root of negative one, extending the number system beyond real numbers.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=SP-YJe7Vldo",
+        "title": "The Discriminant: Predicting the Number of Real Roots",
+        "summary": "Students calculate the discriminant, b squared minus 4ac, from a quadratic equation and use its sign to determine whether the equation has two, one, or zero real roots, without solving the equation fully.",
+        "resourceLabel": "YouTube: The Discriminant: Predicting the Number of Real Roots",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Discriminant%3A%20Predicting%20the%20Number%20of%20Real%20Roots%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "A complex number combines ___.",
+            "q": "What is the formula for the discriminant of ax^2 + bx + c = 0?",
             "options": [
-              "Only negative numbers, with no real component",
-              "A real number and an imaginary number",
-              "Only whole numbers with no fractions",
-              "A concept unrelated to numbers"
+              "b^2 − 4ac",
+              "b^2 + 4ac",
+              "4ac − b^2",
+              "2b − 4ac"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "The imaginary unit i is defined as ___.",
+            "q": "For 2x^2 + 3x + 5 = 0, what is the value of the discriminant?",
             "options": [
-              "A concept unrelated to square roots",
-              "A value equal to zero",
-              "The square root of one",
-              "The square root of negative one"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why were complex numbers introduced into mathematics?",
-            "options": [
-              "Complex numbers have no mathematical purpose",
-              "This concept has no connection to solving equations",
-              "To allow solutions to equations that have no solution using only real numbers",
-              "They were introduced to eliminate the need for real numbers"
+              "49",
+              "9",
+              "−31",
+              "31"
             ],
             "answer": 2
           },
           {
-            "q": "Which of these is an example of a complex number?",
+            "q": "A quadratic equation has a discriminant of 0. What does this tell you about its roots?",
             "options": [
-              "A number with no imaginary component at all",
-              "Only the number 5",
-              "A number unrelated to the concept of i",
-              "3 plus 4i"
+              "It has two distinct real roots",
+              "It has no real roots",
+              "It has exactly one real root (a repeated root)",
+              "It has three real roots"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Why might complex numbers be useful in fields like engineering, despite representing an extension beyond real numbers?",
+            "q": "If the discriminant of a quadratic equation is negative, what can you conclude?",
             "options": [
-              "This concept is purely theoretical with no useful applications",
-              "Complex numbers can never be applied to physical systems",
-              "Complex numbers have no practical, real-world applications",
-              "They can effectively model certain real-world systems, such as electrical circuits"
+              "The equation has one real root",
+              "The equation has no real roots",
+              "The equation has two distinct real roots",
+              "The equation must have a negative leading coefficient"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "For x^2 − 6x + 9 = 0, what does the discriminant tell you before solving?",
+            "options": [
+              "The discriminant is 72, so there are two real roots",
+              "The discriminant is −36, so there are no real roots",
+              "The discriminant is 0, so there is exactly one real root",
+              "The discriminant is 36, so there are two real roots"
+            ],
+            "answer": 2
           }
         ]
       },
@@ -10530,64 +10526,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Standard Deviation and Normal Distribution",
-        "summary": "Grade 10 Data Management strand: standard deviation measures how spread out data values are from the mean, and a normal distribution is a common, symmetric bell-shaped pattern seen in many data sets.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=mtbJbDwqWLE",
+        "title": "Quadratic Modelling: Fitting a Parabola Using Zeros and a Point",
+        "summary": "Students write the equation of a quadratic relation in factored form when given its zeros and one other point on the graph, by substituting the point to solve for the leading coefficient a.",
+        "resourceLabel": "YouTube: Quadratic Modelling: Fitting a Parabola Using Zeros and a Point",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Quadratic%20Modelling%3A%20Fitting%20a%20Parabola%20Using%20Zeros%20and%20a%20Point%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "Standard deviation measures ___.",
+            "q": "A parabola has zeros at x = 1 and x = 5. What is the correct factored-form starting point for its equation?",
             "options": [
-              "How spread out data values are from the mean",
-              "A value unrelated to how data is spread",
-              "The exact total sum of all data values",
-              "The single highest value in a data set"
+              "y = a(x − 1)(x − 5)",
+              "y = a(x + 1)(x + 5)",
+              "y = a(x − 1)(x + 5)",
+              "y = a(x)(x − 6)"
             ],
             "answer": 0
           },
           {
-            "q": "A normal distribution is typically described as having a ___ shape.",
+            "q": "A parabola with zeros at x = 0 and x = 4 also passes through (2, −8). What is the value of a in y = a(x)(x − 4)?",
             "options": [
-              "Symmetric, bell-shaped",
-              "Random, with no discernible pattern",
-              "A shape unrelated to data distribution",
-              "Perfectly flat, with no variation"
+              "a = −2",
+              "a = 2",
+              "a = −8",
+              "a = −4"
             ],
             "answer": 0
           },
           {
-            "q": "A low standard deviation suggests that data values are ___.",
+            "q": "Why is it necessary to substitute a known point into y = a(x − p)(x − q) after the zeros are known?",
             "options": [
-              "Completely unrelated to the mean",
-              "Spread very far apart from the mean",
-              "Impossible to measure accurately",
-              "Clustered closely around the mean"
+              "Because the zeros alone do not determine how wide or narrow the parabola is",
+              "Because the point changes the location of the zeros",
+              "Because factored form cannot use zeros at all without a point",
+              "Because a must always equal the y-intercept"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why is standard deviation a useful measure alongside the mean of a data set?",
+            "q": "A parabola has zeros at x = −2 and x = 3 and passes through (1, 6). Which equation correctly represents this relation once solved?",
             "options": [
-              "The mean alone always fully describes a data set",
-              "This measure has no connection to interpreting data",
-              "Standard deviation provides no additional useful information",
-              "It provides additional context about how consistent or variable the data actually is"
+              "y = 2(x + 2)(x − 3)",
+              "y = −2(x + 2)(x − 3)",
+              "y = 3(x + 2)(x − 3)",
+              "y = (x + 2)(x − 3)"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why might understanding normal distribution be useful in fields like standardized testing?",
+            "q": "If a quadratic model built from zeros and one point gives a negative value of a, what does that mean about the parabola's shape?",
             "options": [
-              "This concept only applies to purely theoretical mathematics",
-              "Standardized testing never involves any statistical analysis",
-              "It helps interpret how an individual score compares to the overall distribution of scores",
-              "Normal distribution has no connection to interpreting test results"
+              "The parabola has no vertex",
+              "The parabola opens upward",
+              "The parabola opens downward",
+              "The parabola has three zeros instead of two"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Science",
@@ -11027,61 +11021,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Combining Functions: Sum, Difference, and Composite",
-        "summary": "Grade 10 Functions strand: functions can be combined through addition, subtraction, or composition, where the composite of two functions applies one function to the result of another.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=DGZBLVXTNn0",
+        "title": "Function Notation, Domain, and Range",
+        "summary": "Students use function notation such as f(x) to evaluate functions at given inputs, and determine the domain and range of simple functions including linear and quadratic relations.",
+        "resourceLabel": "YouTube: Function Notation, Domain, and Range",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Function%20Notation%2C%20Domain%2C%20and%20Range%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "The sum of two functions is found by ___.",
+            "q": "If f(x) = 3x − 4, what is f(5)?",
             "options": [
-              "Multiplying their outputs together",
-              "A method unrelated to combining outputs",
-              "Adding their outputs together for a given input",
-              "Subtracting one function’s output from the other"
+              "15",
+              "1",
+              "11",
+              "19"
             ],
             "answer": 2
           },
           {
-            "q": "A composite function applies ___.",
+            "q": "If g(x) = x^2 + 1, what is g(−3)?",
             "options": [
-              "Two completely unrelated, separate functions with no connection",
-              "One function to the result of another function",
-              "A method unrelated to functions",
-              "Only a single function, with no combination involved"
+              "−8",
+              "10",
+              "8",
+              "−10"
             ],
             "answer": 1
           },
           {
-            "q": "If f(x) = x + 2 and g(x) = 3x, what is f(g(x))?",
+            "q": "What does the domain of a function describe?",
             "options": [
-              "6x",
-              "3x + 2",
-              "x + 5",
-              "3x - 2"
+              "The set of all possible output (y) values",
+              "The set of all possible input (x) values",
+              "Only the x-intercepts of the function",
+              "The maximum value the function reaches"
             ],
             "answer": 1
           },
           {
-            "q": "Why might combining functions be useful for modelling a real-world situation with multiple related processes?",
+            "q": "What is the range of f(x) = x^2, using all real numbers as the domain?",
             "options": [
-              "Real-world situations never involve more than one mathematical process",
-              "Combining functions has no useful real-world application",
-              "It allows a single expression to represent how multiple processes affect an outcome together",
-              "This concept only applies to purely abstract mathematics with no real-world use"
+              "All real numbers",
+              "y ≤ 0",
+              "y ≥ 0",
+              "x ≥ 0"
             ],
             "answer": 2
           },
           {
-            "q": "Why is the order of functions important when finding a composite function?",
+            "q": "For h(x) = 2x + 7, which value of x makes h(x) = 15?",
             "options": [
-              "Changing the order can produce a different result, since one function’s output becomes the other’s input",
-              "The order of functions never affects the result of a composite function",
-              "This concept has no connection to how composite functions are calculated",
-              "Composite functions can only be calculated in one specific, fixed order"
+              "x = 11",
+              "x = 4",
+              "x = 8",
+              "x = 22"
             ],
-            "answer": 0
+            "answer": 1
           }
         ]
       },
@@ -11275,64 +11268,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Conditional Probability and Independence",
-        "summary": "Grade 10 Data Management strand (extension): conditional probability describes the likelihood of an event occurring given that another event has already occurred, and two events are independent when one does not affect the probability of the other.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=sqDVrXq_eh0",
+        "title": "Linear-Quadratic Systems: Solving Algebraically",
+        "summary": "Students solve a system made of one linear and one quadratic equation by substitution, and use the discriminant of the resulting quadratic to determine whether the line intersects the parabola at two points, one point, or not at all.",
+        "resourceLabel": "YouTube: Linear-Quadratic Systems: Solving Algebraically",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Linear-Quadratic%20Systems%3A%20Solving%20Algebraically%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "Conditional probability describes the likelihood of an event occurring given that ___.",
+            "q": "To solve the system y = x + 1 and y = x^2 − 5 algebraically, what is the correct first step?",
             "options": [
-              "No other events have ever occurred",
-              "The two events can never be connected",
-              "Another event has already occurred",
-              "A completely unrelated event has occurred"
+              "Set x^2 − 5 = x + 1 and solve for x",
+              "Add the two equations together directly",
+              "Graph both equations without solving algebraically",
+              "Set the two x-values equal to each other"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After substitution, a linear-quadratic system produces x^2 − 2x − 3 = 0. How many points of intersection does the system have?",
+            "options": [
+              "Zero, since the discriminant is negative",
+              "One, since the discriminant is zero",
+              "Three, one for each term",
+              "Two, since the discriminant is positive"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A linear-quadratic system reduces to x^2 + 4x + 4 = 0. What does this tell you about the line and parabola?",
+            "options": [
+              "The line crosses the parabola at two separate points",
+              "The line does not touch the parabola at all",
+              "The line is tangent to the parabola at exactly one point",
+              "The line and parabola are the same curve"
             ],
             "answer": 2
           },
           {
-            "q": "Two events are considered independent when ___.",
+            "q": "Once the x-values of intersection are found for a linear-quadratic system, how do you find the corresponding y-values?",
             "options": [
-              "One event does not affect the probability of the other",
-              "Both events always occur at the exact same time",
-              "Neither event can ever occur",
-              "One event always determines the outcome of the other"
+              "Substitute each x-value back into either original equation",
+              "Use only the linear equation's slope",
+              "The y-values are always zero",
+              "Add the two x-values together"
             ],
             "answer": 0
           },
           {
-            "q": "If you draw a card from a deck without replacing it, and then draw again, are the two draws independent?",
+            "q": "A system y = 2x − 1 and y = x^2 + kx + 3 has no real solutions. What does this mean about the discriminant of the resulting quadratic?",
             "options": [
-              "Yes, because probability never changes based on prior events",
-              "No, because the first draw affects what remains for the second draw",
-              "Yes, because every draw is always completely unrelated",
-              "This situation has no connection to conditional probability"
+              "The discriminant equals zero",
+              "The discriminant is positive",
+              "The discriminant cannot be calculated",
+              "The discriminant is negative"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why is it useful to determine whether two events are independent before calculating their combined probability?",
-            "options": [
-              "The correct method for calculating combined probability depends on whether the events affect each other",
-              "Independence has no effect on how probability should be calculated",
-              "All events are always treated as independent, regardless of the situation",
-              "This distinction has no relevance to probability calculations"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might conditional probability be useful in real-world situations, like medical testing?",
-            "options": [
-              "It can help determine the likelihood of a condition given a specific test result",
-              "Conditional probability has no real-world applications",
-              "This concept only applies to purely theoretical mathematics",
-              "Medical testing never involves any form of probability"
-            ],
-            "answer": 0
+            "answer": 3
           }
-        ],
-        "topic": "Probability"
+        ]
       },
       {
         "subject": "Science",
@@ -11772,64 +11763,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Operations with Complex Numbers",
-        "summary": "Grade 10 Number strand (extension): complex numbers can be added, subtracted, and multiplied using rules similar to those for real numbers, while remembering that the imaginary unit i squared equals negative one.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=8xWE2ns8T6Q",
+        "title": "Simplifying and Operating with Radicals",
+        "summary": "Students simplify radical expressions by factoring out perfect squares, and add, subtract, and multiply radicals such as square roots that appear in geometry and quadratic-formula work.",
+        "resourceLabel": "YouTube: Simplifying and Operating with Radicals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Simplifying%20and%20Operating%20with%20Radicals%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "When adding two complex numbers, you add their ___.",
+            "q": "What is the simplified form of √72?",
             "options": [
-              "Only the real parts, ignoring the imaginary parts entirely",
-              "Only the imaginary parts, ignoring the real parts entirely",
-              "Real parts together and their imaginary parts together",
-              "Neither the real nor imaginary parts"
+              "6√2",
+              "2√18",
+              "12√6",
+              "36√2"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "What does i squared equal?",
+            "q": "What is 3√5 + 2√5?",
             "options": [
-              "Zero",
-              "A value that cannot be determined",
-              "Negative one",
-              "One"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is the sum of (2 + 3i) and (4 + i)?",
-            "options": [
-              "8 + 3i",
-              "6 + 4i",
-              "2 + 4i",
-              "6 + 3i"
+              "5√10",
+              "5√5",
+              "6√5",
+              "25"
             ],
             "answer": 1
           },
           {
-            "q": "Why is it important to remember that i squared equals negative one when multiplying complex numbers?",
+            "q": "What is the product √3 × √12?",
             "options": [
-              "This rule has no effect on multiplying complex numbers",
-              "It allows any i-squared terms produced during multiplication to be simplified correctly",
-              "Multiplying complex numbers never produces any i-squared terms",
-              "This value has no connection to complex number operations"
+              "√15",
+              "36",
+              "6",
+              "15"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Why do operations with complex numbers follow rules similar to those used with real numbers, like the distributive property?",
+            "q": "Why can √8 and √2 be combined by addition, but √8 and √3 cannot?",
             "options": [
-              "Complex numbers follow completely different rules with no connection to real number operations",
-              "This concept has no relevance to how complex numbers behave",
-              "Complex numbers are structured as combinations of real and imaginary parts, allowing similar algebraic rules to apply",
-              "The distributive property can never be applied to complex numbers"
+              "Because √3 is not a real number",
+              "Because all radicals can be added together regardless of the radicand",
+              "Because √2 is larger than √3",
+              "Because √8 and √2 both simplify to have the same radicand, while √3 does not share that radicand"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the simplified form of 4√50 − √8?",
+            "options": [
+              "3√42",
+              "4√42",
+              "18√2",
+              "16√2"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Ratios & Rates"
+        ]
       },
       {
         "subject": "Science",
@@ -12807,64 +12796,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Introduction to Conditional Probability",
-        "summary": "Grade 8 Data Management strand (pre-high-school extension): conditional probability is the probability of an event occurring given that another event has already occurred, which can change the likelihood compared to the event happening independently.",
-        "resourceLabel": "YouTube: Introduction to Conditional Probability",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Conditional%20Probability%20grade%2010%20educational",
+        "title": "Trigonometry: Angles of Elevation and Depression",
+        "summary": "Students solve right-triangle problems involving angles of elevation and depression, using SOH CAH TOA to find unknown heights and distances in real-world scenarios.",
+        "resourceLabel": "YouTube: Trigonometry: Angles of Elevation and Depression",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20Angles%20of%20Elevation%20and%20Depression%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "Conditional probability refers to ___.",
+            "q": "The angle of elevation is measured from ___.",
             "options": [
-              "A probability that never changes based on other events",
-              "A concept unrelated to probability",
-              "The probability of an event occurring given that another event has already occurred",
-              "The probability of two completely unrelated events"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If drawing a card from a deck without replacement, why might the probability of the second draw depend on the first?",
-            "options": [
-              "The two draws are always completely unrelated to each other",
-              "The probability always stays exactly the same regardless of prior events",
-              "The first draw changes the number and composition of remaining cards",
-              "Conditional probability never applies to drawing cards"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If a bag has 3 red and 2 blue marbles, and a red marble is removed, what is the probability the next marble drawn is red?",
-            "options": [
-              "2 out of 5",
-              "3 out of 4",
-              "3 out of 5",
-              "2 out of 4"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is conditional probability useful in real-world situations, such as drawing cards or medical testing?",
-            "options": [
-              "It accounts for how earlier events can affect the likelihood of later outcomes",
-              "This concept only applies to theoretical, unrealistic situations",
-              "Conditional probability has no real-world applications",
-              "Earlier events never affect the probability of later outcomes"
+              "A horizontal line up to an object",
+              "A vertical line down to an object",
+              "The hypotenuse of the triangle only",
+              "A horizontal line down to an object"
             ],
             "answer": 0
           },
           {
-            "q": "Two events are considered independent if ___.",
+            "q": "From a point 40 m from the base of a tower, the angle of elevation to its top is 35°. Which ratio finds the tower's height h?",
             "options": [
-              "They can never both occur",
-              "They are always identical events",
-              "The occurrence of one does not affect the probability of the other",
-              "They always affect each other significantly"
+              "h = 40 × cos(35°)",
+              "h = 40 ÷ tan(35°)",
+              "h = 40 × tan(35°)",
+              "h = 40 × sin(35°)"
             ],
             "answer": 2
+          },
+          {
+            "q": "A person standing on a cliff 60 m high looks down at a boat with an angle of depression of 20°. Which ratio finds the horizontal distance d to the boat?",
+            "options": [
+              "d = 60 × sin(20°)",
+              "d = 60 ÷ tan(20°)",
+              "d = 60 × tan(20°)",
+              "d = 60 ÷ sin(20°)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the angle of depression from the top of a cliff to an object compare to the angle of elevation from that object back to the top of the cliff?",
+            "options": [
+              "The angle of depression is always 90° minus the angle of elevation",
+              "The angle of depression is always double the angle of elevation",
+              "They are equal, because the horizontal lines are parallel",
+              "The angle of depression is always smaller than the angle of elevation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A ladder leans against a wall, making a 60° angle of elevation with the ground, and reaches 5 m up the wall. Which ratio finds the ladder's length L?",
+            "options": [
+              "L = 5 ÷ sin(60°)",
+              "L = 5 × sin(60°)",
+              "L = 5 ÷ cos(60°)",
+              "L = 5 × tan(60°)"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Probability",
-        "videoUrl": "https://www.youtube.com/watch?v=6xPkG2pA-TU"
+        ]
       },
       {
         "subject": "Science",
@@ -13829,64 +13816,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Systems of Equations with Three Variables",
-        "summary": "Grade 10 Algebra strand (extension): a system of equations with three variables can be solved by systematically eliminating variables through substitution or elimination until a single variable’s value is found.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=0JQeo0yC9OQ",
+        "title": "Linear Systems: Break-Even and Mixture Problems",
+        "summary": "Students set up and solve linear systems of two equations in two variables to model real-world break-even points and mixture problems, using substitution or elimination.",
+        "resourceLabel": "YouTube: Linear Systems: Break-Even and Mixture Problems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Linear%20Systems%3A%20Break-Even%20and%20Mixture%20Problems%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "A system of equations with three variables requires finding values that satisfy ___.",
+            "q": "A company's cost is C = 500 + 2x and revenue is R = 7x, where x is units sold. At the break-even point, what must be true?",
             "options": [
-              "None of the equations in the system",
-              "A concept unrelated to systems of equations",
-              "Only one of the equations, with no connection to the others",
-              "All of the equations in the system simultaneously"
+              "C and R must both equal zero",
+              "x must equal 500",
+              "C = R",
+              "R must be greater than C"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Solving a three-variable system often involves systematically ___.",
+            "q": "Using C = 500 + 2x and R = 7x, how many units x must be sold to break even?",
             "options": [
-              "Adding a fourth variable to simplify the system",
-              "Eliminating variables until a single variable’s value is found",
-              "A method unrelated to solving systems of equations",
-              "Ignoring two of the three variables entirely"
+              "x = 71",
+              "x = 250",
+              "x = 100",
+              "x = 50"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Why might elimination be a useful strategy for solving a three-variable system?",
+            "q": "A mixture problem combines x litres of a 20% acid solution with y litres of a 50% acid solution to make 10 litres of a 30% solution. Which equation correctly represents the total acid content?",
             "options": [
-              "It can reduce the system to two equations with two variables, making it easier to solve",
-              "This method has no connection to solving systems of equations",
-              "Elimination never simplifies a system of equations",
-              "Elimination only works with a single-variable equation"
+              "0.20x + 0.50y = 0.30(10)",
+              "x + y = 0.30",
+              "0.20x − 0.50y = 10",
+              "0.50x + 0.20y = 30"
             ],
             "answer": 0
           },
           {
-            "q": "Once the value of one variable is found in a three-variable system, what is typically done next?",
+            "q": "In the mixture problem above, which equation represents the total volume constraint?",
             "options": [
-              "The value is discarded and the system must be solved again from scratch",
-              "That value is substituted back into other equations to solve for the remaining variables",
-              "A step unrelated to solving systems of equations",
-              "The solving process is considered complete with no further steps needed"
+              "x − y = 10",
+              "x + y = 10",
+              "0.20x + 0.50y = 10",
+              "x = 10 − 0.30y"
             ],
             "answer": 1
           },
           {
-            "q": "Why might a three-variable system be useful for modelling a real-world situation with multiple unknown quantities?",
+            "q": "Why is elimination often a convenient method for solving a break-even or mixture system?",
             "options": [
-              "Three-variable systems have no real-world modelling application",
-              "This concept only applies to purely abstract mathematics with no real-world use",
-              "Real-world situations never involve more than one unknown quantity",
-              "It allows several related unknowns to be solved for at the same time using multiple given relationships"
+              "It only works when both equations already equal zero",
+              "It requires graphing both lines first",
+              "Adding or subtracting the equations can cancel one variable, leaving a single equation to solve",
+              "It avoids the need to check the solution afterward"
             ],
-            "answer": 3
+            "answer": 2
           }
-        ],
-        "topic": "Equations & Inequalities"
+        ]
       },
       {
         "subject": "Science",
@@ -15619,64 +15604,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Probability: Expected Value and Probability Distributions",
-        "summary": "Grade 10 Data Management strand (extension): expected value is the long-run average outcome of a probability experiment, calculated by summing each outcome multiplied by its probability, and a probability distribution organizes all possible outcomes and their likelihoods.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=VeLixT2JIB8",
+        "title": "Financial Math: Compound Interest Calculations",
+        "summary": "Students calculate the future value of an investment using the compound interest formula, and compare how changing the interest rate, compounding frequency, or time affects the total amount.",
+        "resourceLabel": "YouTube: Financial Math: Compound Interest Calculations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Math%3A%20Compound%20Interest%20Calculations%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "Expected value represents the ___ of a probability experiment.",
+            "q": "In the compound interest formula A = P(1 + i)^n, what does P represent?",
             "options": [
-              "A concept unrelated to probability",
-              "Long-run average outcome",
-              "Highest possible single outcome",
-              "Lowest possible single outcome"
+              "The interest rate per period",
+              "The number of compounding periods",
+              "The final amount",
+              "The principal (starting amount invested)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "$1000 is invested at 6% per year, compounded annually, for 3 years. What is the value of i used in the formula?",
+            "options": [
+              "0.06",
+              "0.6",
+              "6",
+              "0.18"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "$1000 is invested at 6% per year, compounded annually. What is the amount after 2 years, to the nearest dollar?",
+            "options": [
+              "$1120",
+              "$1123",
+              "$1200",
+              "$1060"
             ],
             "answer": 1
           },
           {
-            "q": "Expected value is calculated by ___.",
+            "q": "An investment earns 8% per year compounded semi-annually. What values of i and n should be used for a 3-year investment?",
             "options": [
-              "Multiplying the total number of outcomes by zero",
-              "Summing each outcome multiplied by its probability",
-              "Adding together only the possible outcomes, ignoring probability",
-              "A method unrelated to expected value"
+              "i = 0.08, n = 3",
+              "i = 0.16, n = 6",
+              "i = 0.04, n = 6",
+              "i = 0.04, n = 3"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "A probability distribution organizes ___.",
+            "q": "Why does compounding more frequently (e.g., monthly instead of annually) at the same stated annual rate produce a larger final amount?",
             "options": [
-              "Only the most likely outcome, with no others considered",
-              "A concept unrelated to probability",
-              "A single outcome with no connection to likelihood",
-              "All possible outcomes and their likelihoods"
+              "Because interest earned in earlier periods starts earning interest sooner, adding more growth periods",
+              "Because the stated annual rate automatically increases with more frequent compounding",
+              "Because monthly compounding removes the principal from the calculation",
+              "It does not produce a larger amount; the final value is always identical"
             ],
-            "answer": 3
-          },
-          {
-            "q": "If a game pays $10 with probability 0.2 and $0 otherwise, what is its expected value?",
-            "options": [
-              "$0",
-              "A value unrelated to this calculation",
-              "$10",
-              "$2"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is expected value useful for making decisions involving risk, such as in insurance or gambling?",
-            "options": [
-              "Risk-based decisions never involve any mathematical calculation",
-              "This concept only applies to purely abstract mathematics with no real-world use",
-              "Expected value has no real-world application to decision-making",
-              "It provides a way to compare the long-run average outcome of different choices under uncertainty"
-            ],
-            "answer": 3
+            "answer": 0
           }
-        ],
-        "topic": "Probability"
+        ]
       },
       {
         "subject": "Science",
@@ -16885,64 +16868,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Linear Programming: Optimization with Constraints",
-        "summary": "Grade 10 Algebra strand (extension): linear programming finds the maximum or minimum value of a linear expression subject to a system of linear constraints, often solved by evaluating a feasible region’s corner points.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=Y7e7DCsDUMY",
+        "title": "Quadratic Optimization: Maximizing Area and Revenue",
+        "summary": "Students use the vertex of a quadratic relation to solve real-world maximum and minimum problems, such as maximizing the area of a rectangular enclosure or the revenue from ticket sales.",
+        "resourceLabel": "YouTube: Quadratic Optimization: Maximizing Area and Revenue",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Quadratic%20Optimization%3A%20Maximizing%20Area%20and%20Revenue%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "Linear programming finds the maximum or minimum value of a linear expression subject to ___.",
+            "q": "A farmer has 40 m of fencing to enclose a rectangular field against a barn wall (only 3 sides need fencing). If the two equal sides are x metres, which expression gives the enclosed area?",
             "options": [
-              "No constraints of any kind",
-              "A concept unrelated to optimization",
-              "A single, unrelated equation with no connection to the expression",
-              "A system of linear constraints"
+              "A = x(40 − x)",
+              "A = x(40 − 2x)",
+              "A = 40x − x^2 + 40",
+              "A = 2x(40 − x)"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "The region that satisfies all constraints in a linear programming problem is called the ___.",
+            "q": "For A = x(40 − 2x), at what value of x is the area maximized?",
             "options": [
-              "Feasible region",
-              "Impossible region",
-              "A concept unrelated to linear programming",
-              "Undefined region"
+              "x = 20",
+              "x = 10",
+              "x = 40",
+              "x = 5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A ticket price of $(10 − 0.5x) sells (100 + 10x) tickets, giving revenue R = (10 − 0.5x)(100 + 10x). What method finds the price that maximizes revenue?",
+            "options": [
+              "Expand R into standard form and find the x-coordinate of the vertex",
+              "Set R equal to zero and solve for x",
+              "Find the y-intercept of the revenue function only",
+              "Multiply the two original expressions and stop, since the maximum is automatically shown"
             ],
             "answer": 0
           },
           {
-            "q": "In a linear programming problem, the maximum or minimum value typically occurs at a ___ of the feasible region.",
+            "q": "For a quadratic relation that opens downward, where does the maximum value of the function occur?",
             "options": [
-              "A point unrelated to linear programming",
-              "Random interior point chosen without any calculation",
-              "Corner point",
-              "Location outside the feasible region entirely"
+              "At the y-intercept",
+              "At either of the two zeros",
+              "At the vertex",
+              "At the x-intercept closest to zero"
             ],
             "answer": 2
           },
           {
-            "q": "Why is evaluating the corner points of the feasible region an effective strategy for solving a linear programming problem?",
+            "q": "A rectangular garden has a fixed perimeter of 60 m. Why does a square (not just any rectangle) give the maximum possible area?",
             "options": [
-              "The optimal value can only occur at a point outside the feasible region",
-              "This strategy has no connection to solving linear programming problems",
-              "Corner points never provide any useful information for this type of problem",
-              "The optimal value of a linear expression over a feasible region always occurs at one of its corner points"
+              "Because area is only maximized when one side is zero",
+              "Because the area function A = x(30 − x) is maximized at its vertex, which occurs when both sides are equal",
+              "Because rectangles always have less area than squares regardless of perimeter",
+              "Because perimeter and area are always directly proportional"
             ],
-            "answer": 3
-          },
-          {
-            "q": "Why is linear programming useful for real-world decision-making, such as maximizing profit or minimizing cost under limited resources?",
-            "options": [
-              "It provides a systematic way to find the best possible outcome while respecting practical limitations",
-              "Linear programming has no real-world decision-making applications",
-              "This concept only applies to purely abstract mathematics with no real-world use",
-              "Maximizing profit or minimizing cost never involves any limited resources"
-            ],
-            "answer": 0
+            "answer": 1
           }
-        ],
-        "topic": "Calculus: Applications"
+        ]
       },
       {
         "subject": "Science",
@@ -39006,63 +38987,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Functions: Even and Odd Functions and Symmetry",
-        "summary": "Grade 10 Math strand: an even function is symmetric about the y-axis and satisfies f(-x) equals f(x), while an odd function is symmetric about the origin and satisfies f(-x) equals negative f(x), with many functions being neither even nor odd.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "title": "Transformations of Quadratic Relations: y = a(x − h)^2 + k",
+        "summary": "Students describe how changing a, h, and k in vertex form y = a(x − h)^2 + k transforms the graph of a parabola, including stretches, reflections, and shifts from the parent function y = x^2.",
+        "resourceLabel": "YouTube: Transformations of Quadratic Relations: y = a(x − h)^2 + k",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Transformations%20of%20Quadratic%20Relations%3A%20y%20%3D%20a%28x%20%E2%88%92%20h%29%5E2%20%2B%20k%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "What condition defines an even function?",
+            "q": "In y = a(x − h)^2 + k, what does the value of h control?",
             "options": [
-              "f(-x) equals f(x) for every x in the domain",
-              "f(x) is always a negative number",
-              "f(x) has no defined domain at all",
-              "f(-x) always equals zero for every x"
+              "A horizontal shift of the parabola",
+              "A vertical stretch of the parabola",
+              "A vertical shift of the parabola",
+              "Whether the parabola opens up or down"
             ],
             "answer": 0
           },
           {
-            "q": "What condition defines an odd function?",
+            "q": "What is the vertex of y = 3(x + 2)^2 − 5?",
             "options": [
-              "f(x) must always be a whole number",
-              "f(x) is undefined for all values of x",
-              "f(-x) equals negative f(x) for every x in the domain",
-              "f(-x) always equals f(x) for every x"
+              "(2, −5)",
+              "(−2, 5)",
+              "(−2, −5)",
+              "(2, 5)"
             ],
             "answer": 2
           },
           {
-            "q": "What type of symmetry does an even function display?",
+            "q": "How does the graph of y = 2x^2 compare to the parent function y = x^2?",
             "options": [
-              "Symmetry about the x-axis only",
-              "Symmetry about a single fixed point unrelated to the origin",
-              "No symmetry of any kind",
-              "Symmetry about the y-axis"
+              "It is shifted 2 units to the right",
+              "It is a vertical stretch, making the parabola narrower",
+              "It is shifted 2 units up",
+              "It is a horizontal compression, making the parabola wider"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What type of symmetry does an odd function display?",
+            "q": "What effect does a negative value of a have on the graph of y = a(x − h)^2 + k?",
             "options": [
-              "Symmetry about the y-axis only",
-              "No symmetry that can ever be identified",
-              "Symmetry about a horizontal line above the graph",
-              "Symmetry about the origin"
+              "It shifts the vertex to the left",
+              "It reflects the parabola across the x-axis, so it opens downward",
+              "It makes the parabola wider without changing its direction",
+              "It shifts the vertex down"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Is every function either even or odd?",
+            "q": "Starting from y = x^2, which transformation produces y = (x − 4)^2 + 1?",
             "options": [
-              "No, because even and odd functions cannot exist mathematically",
-              "Yes, but only functions with a single term",
-              "Yes, every possible function must be either even or odd",
-              "No, many functions are neither even nor odd"
+              "Shift left 4 units and up 1 unit",
+              "Shift right 4 units and down 1 unit",
+              "Shift right 4 units and up 1 unit",
+              "Shift left 4 units and down 1 unit"
             ],
-            "answer": 3
+            "answer": 2
           }
-        ],
-        "topic": "2D/3D Geometry & Shapes"
+        ]
       },
       {
         "subject": "Science",
@@ -42920,63 +42900,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Algebra: Solving Rational Inequalities",
-        "summary": "Grade 10 Math strand: solving a rational inequality involves finding the values of the variable that make a fraction containing that variable positive, negative, zero, or undefined, typically by identifying critical values and testing the sign of the expression across the intervals they create.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "title": "Simplifying Rational Expressions and Stating Restrictions",
+        "summary": "Students simplify rational expressions by factoring the numerator and denominator and cancelling common factors, while identifying the values of the variable that must be excluded because they make the denominator zero.",
+        "resourceLabel": "YouTube: Simplifying Rational Expressions and Stating Restrictions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Simplifying%20Rational%20Expressions%20and%20Stating%20Restrictions%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "What does solving a rational inequality involve finding?",
+            "q": "What is the first step in simplifying a rational expression such as (x^2 − 9)/(x + 3)?",
             "options": [
-              "The exact single value that makes the fraction equal to one",
-              "The values of the variable that satisfy a given inequality involving a fraction",
-              "The colour used to graph the inequality",
-              "The name of the variable used in the expression"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What are critical values in the context of a rational inequality?",
-            "options": [
-              "Values where the numerator or denominator equals zero",
-              "Values that make every rational inequality false",
-              "Any value chosen at random with no mathematical basis",
-              "Values that cannot be graphed on a number line"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why must values that make the denominator of a rational inequality equal to zero be excluded?",
-            "options": [
-              "Zero denominators always produce a true inequality",
-              "Division by zero is undefined",
-              "Those values always satisfy the inequality",
-              "Excluding values has no mathematical purpose"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is a common method for testing the sign of a rational expression across an interval?",
-            "options": [
-              "Only testing the endpoints of the entire number line",
-              "Assuming every interval has the same sign with no testing",
-              "Substituting a test value from each interval into the expression",
-              "Ignoring the denominator entirely"
+              "Cancel x from the numerator and denominator directly",
+              "Substitute a value for x",
+              "Factor the numerator and denominator completely",
+              "Multiply both parts by x + 3"
             ],
             "answer": 2
           },
           {
-            "q": "How is the solution to a rational inequality typically expressed?",
+            "q": "What is the simplified form of (x^2 − 9)/(x + 3)?",
             "options": [
-              "As a single word with no numerical value",
-              "As a set of intervals on a number line",
-              "As an equation set equal to zero only",
-              "As a single fixed number with no range"
+              "x + 3",
+              "x − 3",
+              "x^2 − 3",
+              "3 − x"
             ],
             "answer": 1
+          },
+          {
+            "q": "For the expression (x + 2)/(x^2 − 4), what restriction(s) must be stated?",
+            "options": [
+              "x ≠ 2 and x ≠ −2",
+              "x ≠ 0 only",
+              "x ≠ 4 only",
+              "There are no restrictions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why must a value that makes the denominator zero be excluded from the domain of a rational expression, even after simplifying?",
+            "options": [
+              "Because it makes the numerator negative",
+              "Because the original expression is undefined there, even if the simplified form no longer shows it",
+              "Because it always makes the expression equal to one",
+              "Because simplifying removes the need for any restriction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the simplified form of (2x^2 + 4x)/(2x), stating the restriction?",
+            "options": [
+              "x + 2, with x ≠ 0",
+              "2x + 4, with x ≠ 2",
+              "x + 4, with x ≠ 0",
+              "2(x + 2), with no restriction needed"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Ratios & Rates"
+        ]
       },
       {
         "subject": "Science",
@@ -46098,63 +46077,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Statistics: Z-Scores and Standardized Values",
-        "summary": "Grade 10 Math strand: a z-score expresses how many standard deviations a particular data value lies above or below the mean of a data set, allowing values from different distributions to be compared on a common standardized scale.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "title": "Analytic Geometry: The Equation of a Circle Centred at the Origin",
+        "summary": "Students derive and use the equation x^2 + y^2 = r^2 for a circle centred at the origin, applying the distance formula to verify whether a point lies on, inside, or outside a given circle.",
+        "resourceLabel": "YouTube: Analytic Geometry: The Equation of a Circle Centred at the Origin",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Analytic%20Geometry%3A%20The%20Equation%20of%20a%20Circle%20Centred%20at%20the%20Origin%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "What does a z-score express?",
+            "q": "What is the equation of a circle centred at the origin with radius 5?",
             "options": [
-              "How many standard deviations a data value lies above or below the mean",
-              "The largest value found in a data set",
-              "The exact value of the mean itself",
-              "The total number of data points in a set"
+              "x^2 + y^2 = 5",
+              "x + y = 25",
+              "x^2 + y^2 = 25",
+              "x^2 − y^2 = 25"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What is one benefit of converting data values to z-scores?",
+            "q": "Does the point (3, 4) lie on the circle x^2 + y^2 = 25?",
             "options": [
-              "Values from different distributions can be compared on a common standardized scale",
-              "Z-scores only apply to a single specific data set with no broader use",
-              "Z-scores eliminate the need for a mean or standard deviation",
-              "Z-scores make it impossible to compare any two data sets"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does a z-score of zero indicate about a data value?",
-            "options": [
-              "The value is far above the mean",
-              "The value is exactly equal to the mean of the data set",
-              "The value is far below the mean",
-              "The value cannot be calculated"
+              "No, because 3^2 + 4^2 = 7, not 25",
+              "Yes, because 3^2 + 4^2 = 25",
+              "No, because the point has two positive coordinates",
+              "Yes, because 3 + 4 = 7 is close to 25"
             ],
             "answer": 1
           },
           {
-            "q": "What does a negative z-score indicate about a data value?",
+            "q": "The equation of a circle is x^2 + y^2 = 40. What is its radius?",
             "options": [
-              "The data set contains no negative numbers",
-              "The value is exactly equal to the standard deviation",
-              "The value lies below the mean of the data set",
-              "The value lies above the mean of the data set"
+              "40",
+              "20",
+              "√40",
+              "80"
             ],
             "answer": 2
           },
           {
-            "q": "What two measures are needed to calculate a z-score for a given data value?",
+            "q": "Is the point (1, 1) inside, on, or outside the circle x^2 + y^2 = 9?",
             "options": [
-              "The number of data points and nothing else",
-              "Only the median of the data set",
-              "The mean and standard deviation of the data set",
-              "Only the largest and smallest values in the data set"
+              "On the circle, since 1 + 1 = 2 is close to 9",
+              "Outside the circle, since 1^2 + 1^2 = 2 is less than 9",
+              "Inside the circle, since 1^2 + 1^2 = 2 is less than 9",
+              "Cannot be determined without more information"
             ],
             "answer": 2
+          },
+          {
+            "q": "Why does the equation x^2 + y^2 = r^2 correctly describe every point on a circle centred at the origin?",
+            "options": [
+              "Because it comes directly from setting the distance formula from the origin to (x, y) equal to the radius r",
+              "Because every point in the plane satisfies this equation automatically",
+              "Because x and y must always be equal on a circle",
+              "Because r^2 is always larger than x^2 + y^2"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Science",
@@ -54067,6 +54045,8 @@ const curriculum: DayContent[] = [
       }
     ]
   }
-];
+]
+
+;
 
 export default curriculum;

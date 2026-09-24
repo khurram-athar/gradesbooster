@@ -5666,64 +5666,62 @@
       },
       {
         "subject": "Chemistry",
-        "title": "Thermodynamics: Entropy and Free Energy (Introduction)",
-        "summary": "Students are introduced to entropy (disorder) and Gibbs free energy as predictors of reaction spontaneity.",
-        "resourceLabel": "YouTube: Thermodynamics: Entropy and Free Energy (Introduction)",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Thermodynamics%3A%20Entropy%20and%20Free%20Energy%20%28Introduction%29%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=8N1BxHgsoOw",
+        "title": "Hess's Law: Calculating Enthalpy Change from Reaction Steps",
+        "summary": "Students learn that the enthalpy change for an overall reaction is the sum of the enthalpy changes of its individual steps, and use Hess's Law to calculate unknown enthalpy values.",
+        "resourceLabel": "YouTube: Hess's Law: Calculating Enthalpy Change from Reaction Steps",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Hess%27s%20Law%3A%20Calculating%20Enthalpy%20Change%20from%20Reaction%20Steps%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "Entropy (S) is a measure of ___.",
+            "q": "Hess's Law states that the enthalpy change for a reaction ___.",
             "options": [
-              "a system's energy",
-              "a system's temperature",
-              "a system's heat content",
-              "a system's disorder or randomness"
+              "is the same no matter how many steps are used to get from reactants to products",
+              "changes depending on the pathway taken",
+              "can only be measured directly with a calorimeter",
+              "is always equal to zero for multi-step reactions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Step 1 of a reaction has ΔH = -180 kJ. Step 2 (added to complete the overall reaction) has ΔH = +50 kJ. What is the overall ΔH?",
+            "options": [
+              "-230 kJ",
+              "-130 kJ",
+              "+130 kJ",
+              "-90 kJ"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a chemical equation is reversed, its ΔH value ___.",
+            "options": [
+              "stays exactly the same",
+              "doubles in magnitude",
+              "changes sign but keeps the same magnitude",
+              "becomes zero"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a chemical equation is multiplied by a coefficient of 3, its ΔH is ___.",
+            "options": [
+              "divided by 3",
+              "left unchanged",
+              "squared",
+              "multiplied by 3"
             ],
             "answer": 3
           },
           {
-            "q": "The Second Law of Thermodynamics states ___.",
+            "q": "Hess's Law is especially useful because it lets chemists find the ΔH of a reaction that ___.",
             "options": [
-              "entropy is irrelevant to chemistry",
-              "entropy always increases spontaneously",
-              "entropy is conserved",
-              "entropy always decreases"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Gibbs Free Energy G = H − TS predicts spontaneity: a reaction is spontaneous when ___.",
-            "options": [
-              "ΔH > 0 only",
-              "ΔG < 0 (combines enthalpy and entropy)",
-              "T is very high always",
-              "ΔS > 0 only"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "An exothermic reaction with increasing entropy is ___.",
-            "options": [
-              "never spontaneous",
-              "always spontaneous at any temperature",
-              "only spontaneous at low temperatures",
-              "only spontaneous at high temperatures"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Biological systems appear to decrease entropy locally (forming ordered structures), which is possible because ___.",
-            "options": [
-              "life doesn't require energy",
-              "they are not isolated",
-              "entropy doesn't apply to life",
-              "living things violate the second law"
+              "has already been measured directly by calorimetry",
+              "is difficult or unsafe to measure directly in the lab",
+              "does not involve any energy change at all",
+              "only occurs inside living organisms"
             ],
             "answer": 1
           }
-        ],
-        "topic": "Energy"
+        ]
       }
     ]
   },
@@ -6409,64 +6407,62 @@
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Solutions and Buffers",
-        "summary": "Students examine buffer systems — how they work, their biological importance, and Henderson-Hasselbalch calculations.",
-        "resourceLabel": "YouTube: Chemistry: Solutions and Buffers",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Solutions%20and%20Buffers%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=9h2f1Bjr0p4",
+        "title": "How Buffers Resist pH Change: A Qualitative Look",
+        "summary": "Students explore how buffer solutions use a weak acid and its conjugate base to resist pH changes, and how the body uses buffers to help keep blood pH steady, without calculating buffer pH mathematically.",
+        "resourceLabel": "YouTube: How Buffers Resist pH Change: A Qualitative Look",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20Buffers%20Resist%20pH%20Change%3A%20A%20Qualitative%20Look%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "A buffer solution resists pH changes because ___.",
+            "q": "A buffer solution is made up of ___.",
             "options": [
-              "it has a very high volume",
-              "it pairs a weak acid and conjugate base",
-              "it neutralises all acids and bases completely",
-              "it has no acid-base equilibrium"
+              "a weak acid and its conjugate base (or a weak base and its conjugate acid)",
+              "a strong acid and a strong base in equal amounts",
+              "pure water with nothing else dissolved in it",
+              "any two salts dissolved together"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When a small amount of acid is added to a buffer, the conjugate base component ___.",
+            "options": [
+              "is converted entirely into a gas and escapes",
+              "reacts with and neutralises the added acid",
+              "immediately causes the pH to spike upward",
+              "stops the solution from conducting electricity"
             ],
             "answer": 1
           },
           {
-            "q": "The Henderson-Hasselbalch equation is ___.",
+            "q": "Blood pH in the human body is normally kept close to a stable value near ___.",
             "options": [
-              "pH = pKa − log([acid]/[base])",
-              "pH = pKa × [acid]/[base]",
-              "pH = pKa + log([base]/[acid])",
-              "pH = Ka + log([base]/[acid])"
+              "5.0, because blood is naturally acidic",
+              "9.0, because blood is naturally basic",
+              "7.4, maintained partly by bicarbonate buffers",
+              "a value that swings widely with no regulation"
             ],
             "answer": 2
           },
           {
-            "q": "Blood pH is maintained at approximately 7.4 by ___.",
+            "q": "A buffer resists pH change best (has the greatest buffer capacity) when ___.",
             "options": [
-              "only the lungs",
-              "bicarbonate plus lungs and kidneys",
-              "only the kidneys",
-              "only haemoglobin"
+              "only the acid component is present in solution",
+              "only the base component is present in solution",
+              "the solution has been diluted as much as possible",
+              "the weak acid and conjugate base are present in roughly equal amounts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If the body's buffering systems are overwhelmed and blood pH drops too low (acidosis), this is dangerous mainly because ___.",
+            "options": [
+              "blood would then boil at normal body temperature",
+              "many enzymes and proteins only function properly within a narrow pH range",
+              "the blood would permanently change colour",
+              "oxygen could no longer exist in the bloodstream"
             ],
             "answer": 1
-          },
-          {
-            "q": "Buffer capacity is greatest when ___.",
-            "options": [
-              "[acid] >> [base]",
-              "[acid] << [base]",
-              "pH is much higher than pKa",
-              "components are at equal concentrations"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "An acidosis in the body (pH < 7.35) is dangerous because ___.",
-            "options": [
-              "the body always corrects it immediately",
-              "only mild discomfort results",
-              "only breathing is affected",
-              "enzymes and proteins need precise pH"
-            ],
-            "answer": 3
           }
-        ],
-        "topic": "Matter & Materials"
+        ]
       }
     ]
   },
@@ -11033,64 +11029,62 @@
       },
       {
         "subject": "Functions",
-        "title": "Number Theory: Complex Numbers -- Further Operations",
-        "summary": "Grade 11 Functions strand (extension): building on earlier operations, complex numbers can also be divided using the conjugate of the denominator, and can be represented graphically on the complex plane.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=Yddjxj49C_M",
+        "title": "Simplifying and Multiplying Rational Expressions",
+        "summary": "A rational expression is a fraction with polynomials in the numerator and denominator; you simplify it by factoring both parts and cancelling common factors, always noting the values of the variable that make the denominator zero (restrictions).",
+        "resourceLabel": "YouTube: Simplifying and Multiplying Rational Expressions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Simplifying%20and%20Multiplying%20Rational%20Expressions%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "Dividing complex numbers typically involves multiplying by the ___ of the denominator.",
+            "q": "Which value must be excluded (a restriction) from the expression (x + 3)/(x - 5)?",
             "options": [
-              "Conjugate",
-              "Square root, with no connection to division",
-              "A concept unrelated to complex numbers",
-              "Reciprocal, with no connection to the conjugate"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "The complex plane is used to graphically represent complex numbers using ___.",
-            "options": [
-              "Only a single axis, with no distinction between real and imaginary parts",
-              "A real axis and an imaginary axis",
-              "A method unrelated to graphing",
-              "Two identical axes representing the exact same value"
+              "x = -3",
+              "x = 5",
+              "x = 0",
+              "x = -5"
             ],
             "answer": 1
           },
           {
-            "q": "The conjugate of a complex number changes the sign of its ___.",
+            "q": "To simplify (x^2 - 9)/(x^2 + 5x + 6), what should you do first?",
             "options": [
-              "Imaginary part",
-              "A part unrelated to the complex number’s structure",
-              "Real part only, with no change to the imaginary part",
-              "Both the real and imaginary parts equally"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is multiplying by the conjugate a useful strategy when dividing complex numbers?",
-            "options": [
-              "Complex numbers can never be divided using any method",
-              "It eliminates the imaginary part from the denominator, simplifying the expression",
-              "This strategy has no effect on simplifying a complex number expression",
-              "Multiplying by the conjugate always makes an expression more complicated"
+              "Cancel the x^2 terms directly",
+              "Factor both the numerator and denominator, then cancel common factors",
+              "Divide every term by x",
+              "Add 9 and 6 together before factoring"
             ],
             "answer": 1
           },
           {
-            "q": "Why might representing complex numbers on the complex plane be useful for visualizing operations like addition?",
+            "q": "When multiplying two rational expressions, what is the correct first step?",
             "options": [
-              "The complex plane has no useful application for visualizing complex numbers",
-              "Complex numbers can never be represented graphically",
-              "It allows complex number operations to be interpreted geometrically, similar to vectors",
-              "This concept only applies to purely abstract mathematics with no visual representation"
+              "Factor each numerator and denominator, then cancel common factors before multiplying straight across",
+              "Multiply all numerators and denominators first, then try to factor the huge result",
+              "Add the numerators together",
+              "Find a common denominator like you would for addition"
             ],
-            "answer": 2
+            "answer": 0
+          },
+          {
+            "q": "A student simplifies (x^2 - 4)/(x - 2) to x + 2 for all x. What is missing from a fully correct answer?",
+            "options": [
+              "Nothing; the simplification is complete as written",
+              "The restriction x ≠ 2 must be stated, since the original expression is undefined there",
+              "The answer should be x - 2 instead",
+              "A restriction of x ≠ -2 must be added"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Simplify (2x^2 + 6x)/(4x), stating any restriction.",
+            "options": [
+              "(x + 3)/2, x ≠ 0",
+              "2x + 6, x ≠ 0",
+              "(x + 3)/2, no restriction needed",
+              "x + 3, x ≠ 0"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Ratios & Rates"
+        ]
       },
       {
         "subject": "Biology",
@@ -38092,63 +38086,62 @@
       },
       {
         "subject": "Functions",
-        "title": "Calculus: Implicit Differentiation",
-        "summary": "Grade 11 Functions strand: implicit differentiation finds the derivative of a relation in which y is not isolated on one side of the equation, by differentiating both sides with respect to x and applying the chain rule whenever a term involving y appears.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Applying the Chain Rule Idea to Composite Functions",
+        "summary": "A composite function f(g(x)) is built by applying one function to the output of another; this lesson practises evaluating composite functions and identifying the inner and outer function, the key skill behind the chain rule used in later calculus courses.",
+        "resourceLabel": "YouTube: Applying the Chain Rule Idea to Composite Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Applying%20the%20Chain%20Rule%20Idea%20to%20Composite%20Functions%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "When is implicit differentiation needed?",
+            "q": "If f(x) = x^2 and g(x) = x + 3, what is f(g(2))?",
             "options": [
-              "When y is not isolated on one side of an equation",
-              "Only when a function has no variables at all",
-              "Only when an equation contains no y term whatsoever",
-              "When a function is already fully solved for y"
+              "25",
+              "7",
+              "13",
+              "10"
             ],
             "answer": 0
           },
           {
-            "q": "What rule must be applied whenever a term involving y is differentiated with respect to x?",
+            "q": "For h(x) = (5x - 1)^3, which part is the 'inner' function when writing h as a composite f(g(x))?",
             "options": [
-              "The chain rule",
-              "No rule is needed when differentiating a term involving y",
-              "The Pythagorean Theorem",
-              "A rule that applies only to constants"
+              "g(x) = x^3",
+              "g(x) = 5x - 1",
+              "g(x) = 5x^3",
+              "g(x) = 1 - 5x"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What does implicit differentiation ultimately find?",
+            "q": "If f(x) = sqrt(x) and g(x) = x - 4, what is the domain restriction on f(g(x))?",
             "options": [
-              "The exact numerical value of x only",
-              "The area enclosed by a curve",
-              "The derivative of a relation between x and y",
-              "The colour of a graphed curve"
+              "x ≥ -4",
+              "x ≥ 4",
+              "x can be any real number",
+              "x ≠ 4"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why cannot every equation involving x and y be solved for y before differentiating?",
+            "q": "Given f(x) = 2x + 1 and g(x) = x^2, evaluate g(f(1)).",
             "options": [
-              "Some relations cannot be rearranged into a simple function of x alone",
-              "Implicit differentiation is only used when y does not exist",
-              "Solving for y is never possible under any circumstance",
-              "Every equation can always be solved for y with no difficulty"
+              "3",
+              "9",
+              "4",
+              "1"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What is a classic example of a curve that requires implicit differentiation?",
+            "q": "Why does the order matter when composing functions, so that f(g(x)) is usually different from g(f(x))?",
             "options": [
-              "A circle defined by x squared plus y squared equals a constant",
-              "A function with no y term present anywhere",
-              "A straight horizontal line with a constant y-value",
-              "A single point plotted with no equation at all"
+              "Because the outer function is applied to a different expression depending on the order, changing the result",
+              "Order never actually changes the final value",
+              "Because addition is being used instead of multiplication",
+              "Because only one of the two orders is mathematically defined"
             ],
             "answer": 0
           }
-        ],
-        "topic": "Calculus: Derivatives"
+        ]
       },
       {
         "subject": "Biology",
@@ -41270,63 +41263,62 @@
       },
       {
         "subject": "Functions",
-        "title": "Geometry: The Equation of a Sphere in Three Dimensions",
-        "summary": "Grade 11 Functions strand: the equation of a sphere in three dimensions extends the equation of a circle by relating the coordinates of every point on the surface to a fixed centre point and a constant radius, so that the sum of the squared differences in each coordinate direction equals the square of the radius.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Scalar Equations of a Circle and Distance Between Points",
+        "summary": "The equation of a circle with centre (h, k) and radius r is (x - h)^2 + (y - k)^2 = r^2, derived from the distance formula; this lesson practises writing and interpreting circle equations and finding the distance between two points.",
+        "resourceLabel": "YouTube: Scalar Equations of a Circle and Distance Between Points",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Scalar%20Equations%20of%20a%20Circle%20and%20Distance%20Between%20Points%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does the equation of a sphere in three dimensions extend?",
+            "q": "What is the equation of a circle with centre (2, -3) and radius 5?",
             "options": [
-              "The equation of a circle",
-              "The equation of a straight line",
-              "The equation of a single point with no radius",
-              "An equation with no geometric meaning at all"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What two quantities define a sphere in three-dimensional space?",
-            "options": [
-              "A single coordinate with no radius involved",
-              "A radius with no defined centre point",
-              "A fixed centre point and a constant radius",
-              "Two unrelated points with no centre defined"
+              "(x - 2)^2 + (y + 3)^2 = 5",
+              "(x + 2)^2 + (y - 3)^2 = 25",
+              "(x - 2)^2 + (y + 3)^2 = 25",
+              "(x - 2)^2 - (y + 3)^2 = 25"
             ],
             "answer": 2
           },
           {
-            "q": "What does the sum of the squared coordinate differences equal in the equation of a sphere?",
+            "q": "The equation x^2 + y^2 = 36 describes a circle centred at the origin. What is its radius?",
             "options": [
-              "The diameter of an unrelated circle",
-              "The radius itself, with no squaring involved",
-              "Zero, in every possible case",
-              "The square of the radius"
+              "36",
+              "18",
+              "6",
+              "12"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "How many coordinates does a point on the surface of a sphere in three dimensions require?",
+            "q": "Which formula gives the distance between points (x1, y1) and (x2, y2)?",
             "options": [
-              "One",
-              "Three",
-              "Four",
-              "Two"
+              "sqrt((x2 - x1) + (y2 - y1))",
+              "(x2 - x1) + (y2 - y1)",
+              "sqrt((x2 - x1)^2 + (y2 - y1)^2)",
+              "(x2 - x1)^2 - (y2 - y1)^2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A circle's equation is (x + 1)^2 + (y - 4)^2 = 9. What is its centre?",
+            "options": [
+              "(1, -4)",
+              "(-1, 4)",
+              "(-1, -4)",
+              "(1, 4)"
             ],
             "answer": 1
           },
           {
-            "q": "Why is the equation of a sphere considered a natural extension of the equation of a circle?",
+            "q": "Why is the equation of a circle considered a direct application of the distance formula?",
             "options": [
-              "A sphere and a circle share no mathematical relationship of any kind",
-              "A circle is defined using four dimensions rather than two",
-              "It applies the same distance relationship to points in three dimensions instead of two",
-              "The equation of a sphere ignores distance entirely"
+              "It sets the distance from any point on the circle to the centre equal to the fixed radius",
+              "It measures the sum of the coordinates instead of the distance from the centre",
+              "It measures the distance between the x and y axes instead",
+              "It only works when the centre is at the origin"
             ],
-            "answer": 2
+            "answer": 0
           }
-        ],
-        "topic": "Equations & Inequalities"
+        ]
       },
       {
         "subject": "Biology",
@@ -41515,58 +41507,58 @@
       },
       {
         "subject": "Functions",
-        "title": "Complex Numbers: Complex Conjugates and Their Properties",
-        "summary": "Grade 11 Functions strand: the complex conjugate of a number reverses the sign of its imaginary part while leaving the real part unchanged, and multiplying a complex number by its conjugate always produces a real, non-negative result, a property used to simplify expressions and to divide by a complex number.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Solving Polynomial Equations with the Factor Theorem",
+        "summary": "The factor theorem states that (x - a) is a factor of a polynomial P(x) exactly when P(a) = 0; this lesson uses the factor theorem together with the rational root pattern to factor polynomials and solve polynomial equations.",
+        "resourceLabel": "YouTube: Solving Polynomial Equations with the Factor Theorem",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Polynomial%20Equations%20with%20the%20Factor%20Theorem%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does the complex conjugate of a number do to its imaginary part?",
+            "q": "According to the factor theorem, (x - 2) is a factor of P(x) if:",
             "options": [
-              "Converts it into a real number with no imaginary component remaining defined",
-              "Doubles it in magnitude",
-              "Removes it entirely, leaving only zero",
-              "Reverses its sign"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What happens to the real part of a complex number when its conjugate is taken?",
-            "options": [
-              "It is reversed in sign",
-              "It remains unchanged",
-              "It is removed entirely",
-              "It is doubled"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What kind of result does multiplying a complex number by its conjugate always produce?",
-            "options": [
-              "A result that is always exactly zero",
-              "An imaginary result with no real component",
-              "A negative real number in every case",
-              "A real, non-negative result"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What common use does multiplying by a conjugate serve in working with complex numbers?",
-            "options": [
-              "Eliminating the real part of a complex number entirely",
-              "Multiplying two real numbers together",
-              "Dividing by a complex number",
-              "Converting a real number into an imaginary one"
+              "P(0) = 2",
+              "P(-2) = 0",
+              "P(2) = 0",
+              "P(2) = 2"
             ],
             "answer": 2
           },
           {
-            "q": "If a complex number is written as a plus bi, what is its conjugate?",
+            "q": "For P(x) = x^3 - x^2 - 4x + 4, testing x = 1 gives P(1) = 0. What does this tell you?",
             "options": [
-              "negative a plus bi",
-              "a plus bi, unchanged",
-              "a minus bi",
-              "negative a minus bi"
+              "(x + 1) is a factor of P(x)",
+              "x = 1 cannot be a root of P(x)",
+              "(x - 1) is a factor of P(x)",
+              "P(x) has no real roots"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A student checks P(3) = 5 for a polynomial P(x). What can they conclude about (x - 3)?",
+            "options": [
+              "(x - 3) is definitely a factor",
+              "(x - 3) is not a factor, since P(3) is not 0",
+              "x = 3 must be a double root",
+              "The polynomial has no factors at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Once you find one linear factor of a cubic polynomial using the factor theorem, what is the usual next step to fully factor it?",
+            "options": [
+              "Divide the polynomial by that linear factor to get a quadratic, then factor the quadratic",
+              "Stop, since one factor is always enough",
+              "Multiply the polynomial by the factor again",
+              "Add the factor to the original polynomial"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which value of x is a possible rational root to test first for P(x) = x^3 - 2x^2 - 5x + 6, based on the constant term 6?",
+            "options": [
+              "x = 5",
+              "x = 1/6",
+              "x = 2",
+              "x = 4"
             ],
             "answer": 2
           }
@@ -46159,63 +46151,62 @@
       },
       {
         "subject": "Functions",
-        "title": "Trigonometry: Polar Coordinates and Conversion to Rectangular Form",
-        "summary": "Grade 11 Functions strand: polar coordinates locate a point using a distance from a fixed origin and an angle from a fixed direction rather than horizontal and vertical distances, and converting between polar and rectangular form uses sine and cosine to translate that distance-and-angle description into the more familiar x and y coordinates.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Radian Measure and Graphing Trig Functions in Radians",
+        "summary": "Radians are an alternative way to measure angles based on the radius of a circle, where 2π radians equals 360 degrees; this lesson practises converting between degrees and radians and reading key features of sine and cosine graphs when the x-axis is in radians.",
+        "resourceLabel": "YouTube: Radian Measure and Graphing Trig Functions in Radians",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Radian%20Measure%20and%20Graphing%20Trig%20Functions%20in%20Radians%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What two values locate a point in polar coordinates?",
+            "q": "What is 180 degrees converted to radians?",
             "options": [
-              "A distance from a fixed origin and an angle from a fixed direction",
-              "Two unrelated angles with no reference to distance",
-              "Only a horizontal distance, with no angle involved",
-              "Only a vertical distance, with no angle involved"
+              "π/2",
+              "2π",
+              "π",
+              "π/4"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What do polar coordinates use instead of horizontal and vertical distances?",
+            "q": "What is the radian equivalent of 90 degrees?",
             "options": [
-              "A distance and an angle",
-              "A colour code representing location",
-              "A single unlabelled number with no direction",
-              "Two unrelated horizontal distances"
+              "π",
+              "π/4",
+              "2π",
+              "π/2"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "What trigonometric functions are used to convert polar coordinates into rectangular form?",
+            "q": "On the graph of y = sin(x) with x in radians, what is the period?",
             "options": [
-              "Only the tangent function, with no other function involved",
-              "Sine and cosine",
-              "Logarithmic functions exclusively",
-              "Functions with no connection to trigonometry at all"
+              "π",
+              "2π",
+              "360",
+              "π/2"
             ],
             "answer": 1
           },
           {
-            "q": "What coordinate system is considered more familiar when converting from polar form?",
+            "q": "Convert 3π/4 radians to degrees.",
             "options": [
-              "A coordinate system limited to a single dimension",
-              "A purely angular system with no distance component",
-              "Rectangular, or x and y, coordinates",
-              "A coordinate system with no defined axes"
+              "135 degrees",
+              "270 degrees",
+              "60 degrees",
+              "120 degrees"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why might polar coordinates be more convenient than rectangular coordinates for describing certain curves?",
+            "q": "A student converts 45 degrees to radians and gets 45π. What error did they most likely make?",
             "options": [
-              "Polar coordinates have no practical use in describing curves",
-              "Rectangular coordinates always describe every curve more simply than polar coordinates",
-              "Curves with rotational symmetry can often be described more simply using distance and angle",
-              "Polar coordinates can never describe any curve accurately"
+              "They multiplied by π instead of by π/180",
+              "They rounded incorrectly",
+              "They used the wrong trig ratio",
+              "They confused sine with cosine"
             ],
-            "answer": 2
+            "answer": 0
           }
-        ],
-        "topic": "Trigonometry"
+        ]
       },
       {
         "subject": "Biology",
