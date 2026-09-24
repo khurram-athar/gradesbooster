@@ -23309,8 +23309,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Writing: Crafting a Persuasive Speech",
         "summary": "Grade 6 Language strand: a persuasive speech uses a clear position, strong evidence, and rhetorical techniques to convince a live audience to agree with the speaker’s viewpoint or take a specific action.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Writing: Crafting a Persuasive Speech",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Crafting%20a%20Persuasive%20Speech%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nXppIP8VYpM",
         "quiz": [
           {
             "q": "What is the main goal of a persuasive speech?",
@@ -23369,8 +23370,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Congruent Figures and Congruence Transformations",
         "summary": "Grade 6 Math strand: congruent figures are shapes that are exactly the same size and shape, and can be shown to be congruent using transformations like translations, reflections, and rotations that do not change size.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "resourceLabel": "YouTube: Congruent Figures and Congruence Transformations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Congruent%20Figures%20and%20Congruence%20Transformations%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Y-NTIN1gohY",
         "quiz": [
           {
             "q": "What does it mean for two figures to be congruent?",
@@ -23429,8 +23431,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Science: Extinction and Endangered Species Conservation",
         "summary": "Grade 6 Science strand: extinction occurs when a species no longer exists anywhere on Earth, and conservation efforts aim to protect endangered species, those at serious risk of extinction, through habitat protection and other measures.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: Science: Extinction and Endangered Species Conservation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Extinction%20and%20Endangered%20Species%20Conservation%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=E5cVr3HdLa4",
         "quiz": [
           {
             "q": "What does extinction mean for a species?",

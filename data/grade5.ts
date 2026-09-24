@@ -23948,8 +23948,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Understanding Plot Structure",
         "summary": "Grade 5 Language strand: plot structure describes the shape of a story, including the exposition, rising action, climax, falling action, and resolution.",
-        "resourceLabel": "TVO Learn: Grade 5 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "resourceLabel": "YouTube: Reading: Understanding Plot Structure",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Understanding%20Plot%20Structure%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NpWHZJZQDSE",
         "quiz": [
           {
             "q": "What is the term for the part of a story where the main conflict reaches its most intense point?",
@@ -24008,8 +24009,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Number Sense: Multiplying and Dividing Whole Numbers by Powers of Ten",
         "summary": "Grade 5 Math strand: multiplying a whole number by a power of ten, such as 10, 100, or 1000, shifts its digits to the left, while dividing shifts its digits to the right.",
-        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "resourceLabel": "YouTube: Number Sense: Multiplying and Dividing Whole Numbers by Powers of Ten",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Multiplying%20and%20Dividing%20Whole%20Numbers%20by%20Powers%20of%20Ten%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qJB19dAZPpY",
         "quiz": [
           {
             "q": "What is 45 multiplied by 10?",
@@ -24128,8 +24130,9 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "The Royal Canadian Mounted Police and Its History",
         "summary": "Grade 5 Social Studies strand: the Royal Canadian Mounted Police, or RCMP, began in 1873 as the North-West Mounted Police and has grown into Canada’s national police force, recognized worldwide by its red uniform.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "resourceLabel": "YouTube: The Royal Canadian Mounted Police and Its History",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Royal%20Canadian%20Mounted%20Police%20and%20Its%20History%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=E-h_FKaAc2k",
         "quiz": [
           {
             "q": "What does RCMP stand for?",

@@ -28798,6 +28798,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a root word, or base word, is the simplest form of a word before prefixes or suffixes are added, such as play inside playing or replay.",
         "resourceLabel": "YouTube: Root Words: Finding the Base Word Inside",
         "resourceUrl": "https://www.youtube.com/results?search_query=Root%20Words%3A%20Finding%20the%20Base%20Word%20Inside%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NXtD3oZZ6aE",
         "quiz": [
           {
             "q": "What is a root word?",
@@ -28878,6 +28879,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn probability words such as likely, unlikely, certain, and impossible to describe how probable it is that something will happen.",
         "resourceLabel": "YouTube: Data Management: Probability Language - Likely, Unlikely, Certain, and Impossible",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Probability%20Language%20-%20Likely%2C%20Unlikely%2C%20Certain%2C%20and%20Impossible%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=e3gpEgRPBmM",
         "quiz": [
           {
             "q": "What word describes something that will definitely happen?",
@@ -28958,6 +28960,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that glaciers are huge, slow-moving masses of ice, and that icebergs are large chunks of ice that break off glaciers and float in the ocean.",
         "resourceLabel": "YouTube: Icebergs and Glaciers: Frozen Water",
         "resourceUrl": "https://www.youtube.com/results?search_query=Icebergs%20and%20Glaciers%3A%20Frozen%20Water%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hAgpzABEdek",
         "quiz": [
           {
             "q": "What is a glacier?",
@@ -29038,6 +29041,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that maps use small pictures called symbols and that a map key explains what each symbol means, then practice matching symbols to real places.",
         "resourceLabel": "YouTube: Map Symbols: Reading a Simple Map Key",
         "resourceUrl": "https://www.youtube.com/results?search_query=Map%20Symbols%3A%20Reading%20a%20Simple%20Map%20Key%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dp8VOG8Cgag",
         "topic": "Maps & Spatial Skills (Basic)",
         "quiz": [
           {

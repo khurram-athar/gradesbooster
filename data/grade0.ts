@@ -27508,6 +27508,7 @@ const curriculum: DayContent[] = [
         "summary": "A closer look at blends where the first letter is followed by \"l,\" such as bl in \"black,\" cl in \"clap,\" and fl in \"flag.\"",
         "resourceLabel": "YouTube: Beginning Blends with L: bl, cl, fl",
         "resourceUrl": "https://www.youtube.com/results?search_query=Beginning%20Blends%20with%20L%3A%20bl%2C%20cl%2C%20fl%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=EtnI7JPeCAQ",
         "topic": "Phonics & Word Recognition",
         "quiz": [
           {
@@ -27568,6 +27569,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids compare the height of people or objects standing upright, using the words taller and shorter, and practice ordering three items from shortest to tallest.",
         "resourceLabel": "YouTube: Comparing Height: Taller and Shorter",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Height%3A%20Taller%20and%20Shorter%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hA8-xgHITTc",
         "topic": "Measurement: Units",
         "quiz": [
           {
@@ -27628,6 +27630,7 @@ const curriculum: DayContent[] = [
         "summary": "Children observe that the moon appears to change shape over many nights, sometimes looking like a full circle and other times like a thin sliver.",
         "resourceLabel": "YouTube: The Moon: Watching It Change Shape",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Moon%3A%20Watching%20It%20Change%20Shape%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=BQvo7vyCmuE",
         "topic": "Earth Systems",
         "quiz": [
           {
@@ -27688,6 +27691,7 @@ const curriculum: DayContent[] = [
         "summary": "Children learn that families celebrate special days in their own unique ways, from birthdays to holidays and traditions.",
         "resourceLabel": "YouTube: Family Celebrations: Special Days We Share",
         "resourceUrl": "https://www.youtube.com/results?search_query=Family%20Celebrations%3A%20Special%20Days%20We%20Share%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=1U8G1oYXQY0",
         "topic": "Families & Diversity (Basic)",
         "quiz": [
           {

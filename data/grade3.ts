@@ -23227,8 +23227,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Vocabulary: Homographs",
         "summary": "Grade 3 Language strand: a homograph is a word that is spelled the same as another word but has a different meaning, such as bat (the animal) and bat (used in baseball).",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Vocabulary: Homographs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Homographs%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3rcY2BB16XY",
         "quiz": [
           {
             "q": "What do we call two words that are spelled the same but have different meanings?",
@@ -23287,8 +23288,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Financial Literacy: Comparing Ways to Pay",
         "summary": "Grade 3 Math strand: people can pay for goods and services in different ways, such as cash, debit cards, or e-transfers, and each method has its own advantages.",
-        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "resourceLabel": "YouTube: Financial Literacy: Comparing Ways to Pay",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Comparing%20Ways%20to%20Pay%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iSmNwXbNhgQ",
         "quiz": [
           {
             "q": "Name one way people can pay for something, such as cash.",
@@ -23347,8 +23349,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Science: Desert Adaptations: Surviving Extreme Heat and Dryness",
         "summary": "Grade 3 Science strand: desert plants and animals have special adaptations, such as storing water or being active at night, that help them survive extreme heat and very little rainfall.",
-        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "resourceLabel": "YouTube: Science: Desert Adaptations: Surviving Extreme Heat and Dryness",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Desert%20Adaptations%3A%20Surviving%20Extreme%20Heat%20and%20Dryness%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gaZKEc59g1w",
         "quiz": [
           {
             "q": "Name one challenge desert plants and animals must survive, such as extreme heat.",
@@ -23407,8 +23410,9 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Social Studies: Black Loyalists and Early Black Communities in Ontario",
         "summary": "Grade 3 Social Studies strand: Black Loyalists were formerly enslaved and free Black people who supported Britain during the American Revolution and settled in early Canadian communities, including areas of what is now Ontario.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Social Studies: Black Loyalists and Early Black Communities in Ontario",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Black%20Loyalists%20and%20Early%20Black%20Communities%20in%20Ontario%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=E7yNN_g0Blo",
         "quiz": [
           {
             "q": "What do we call formerly enslaved and free Black people who supported Britain during the American Revolution?",
