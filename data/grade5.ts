@@ -24070,8 +24070,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Energy: Kinetic and Potential Energy",
         "summary": "Grade 5 Science strand: kinetic energy is the energy of motion, such as a rolling ball, while potential energy is stored energy based on position, such as a ball held at the top of a hill.",
-        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "resourceLabel": "YouTube: Energy: Kinetic and Potential Energy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Energy%3A%20Kinetic%20and%20Potential%20Energy%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OpxGp2P48kI",
         "quiz": [
           {
             "q": "What do we call the energy of motion, such as a rolling ball has?",
@@ -24197,8 +24198,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Poetry: Elements of Poetry (Rhyme, Rhythm, and Stanza)",
         "summary": "Grade 5 Language strand: poems often use rhyme, the repetition of similar ending sounds, rhythm, a pattern of beats, and stanzas, groups of lines organized like paragraphs.",
-        "resourceLabel": "TVO Learn: Grade 5 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "resourceLabel": "YouTube: Poetry: Elements of Poetry (Rhyme, Rhythm, and Stanza)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Poetry%3A%20Elements%20of%20Poetry%20%28Rhyme%2C%20Rhythm%2C%20and%20Stanza%29%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lOUnhSMGdOo",
         "quiz": [
           {
             "q": "What do we call the repetition of similar ending sounds in a poem?",
@@ -24257,8 +24259,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Data Management: Tree Diagrams and Sample Space",
         "summary": "Grade 5 Math strand: a tree diagram lists all possible outcomes of an event, called the sample space, such as showing all combinations when flipping a coin and rolling a die.",
-        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "resourceLabel": "YouTube: Data Management: Tree Diagrams and Sample Space",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Tree%20Diagrams%20and%20Sample%20Space%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SkidyDQuupA",
         "quiz": [
           {
             "q": "What do we call the list of all possible outcomes of an event?",
@@ -24317,8 +24320,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "The Human Ear and How We Hear",
         "summary": "Grade 5 Science strand: the ear collects sound waves in the outer ear, vibrates the eardrum in the middle ear, and converts those vibrations into nerve signals in the inner ear, which the brain interprets as sound.",
-        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "resourceLabel": "YouTube: The Human Ear and How We Hear",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Human%20Ear%20and%20How%20We%20Hear%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mptjEoHF2aI",
         "quiz": [
           {
             "q": "What part of the ear vibrates when sound waves reach it?",
@@ -24378,6 +24382,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the Senate is part of Canadas government, made up of appointed senators who review and can suggest changes to new laws.",
         "resourceLabel": "YouTube: Our Senate: Another Part of Canadas Government",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Senate%3A%20Another%20Part%20of%20Canadas%20Government%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OLadbJe4MXg",
         "quiz": [
           {
             "q": "What is the Senate?",

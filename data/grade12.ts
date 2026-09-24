@@ -23099,8 +23099,9 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Writing: Flash Fiction and Radical Compression",
         "summary": "Grade 12 English strand: flash fiction is an extremely short narrative form, often under 1000 words, that demands radical compression and careful implication rather than full explanation in order to convey a complete story arc.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Writing: Flash Fiction and Radical Compression",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Flash%20Fiction%20and%20Radical%20Compression%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8fgFu2osFfQ",
         "quiz": [
           {
             "q": "What does flash fiction require in order to convey a complete story in a very limited number of words?",
@@ -23159,8 +23160,9 @@ const curriculum: DayContent[] = [
         "subject": "AdvancedFunctions",
         "title": "Discrete Math: The Pigeonhole Principle",
         "summary": "Grade 12 Advanced Functions strand: the pigeonhole principle states that if more items are placed into containers than there are containers, at least one container must hold more than one item, a simple idea with powerful applications in proving existence.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "resourceLabel": "YouTube: Discrete Math: The Pigeonhole Principle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Discrete%20Math%3A%20The%20Pigeonhole%20Principle%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2-mxYrCNX60",
         "quiz": [
           {
             "q": "What does the pigeonhole principle guarantee when more items are placed into containers than there are containers?",
@@ -23220,6 +23222,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Data Management strand: a probability distribution shows all possible outcomes of an event along with their probabilities, and expected value is the long-run average outcome calculated by weighting each outcome by its probability.",
         "resourceLabel": "YouTube: Probability Distributions and Expected Value",
         "resourceUrl": "https://www.youtube.com/results?search_query=Probability%20Distributions%20and%20Expected%20Value%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oI3hZJqXJuc",
+        "videoUrls": [
+          {
+            "label": "The Main Ideas behind Probability Distributions",
+            "url": "https://www.youtube.com/watch?v=oI3hZJqXJuc"
+          },
+          {
+            "label": "How To Calculate Expected Value",
+            "url": "https://www.youtube.com/watch?v=b6VK2VPMXNI"
+          }
+        ],
         "quiz": [
           {
             "q": "A probability distribution shows ___.",
@@ -23278,8 +23291,9 @@ const curriculum: DayContent[] = [
         "subject": "Physics",
         "title": "Physics: The Franck-Hertz Experiment and Quantized Energy Levels",
         "summary": "Grade 12 Physics strand: the Franck-Hertz experiment accelerated electrons through mercury vapour and observed regularly spaced dips in current, confirming that atoms absorb energy only in the discrete amounts predicted by the Bohr model.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "resourceLabel": "YouTube: Physics: The Franck-Hertz Experiment and Quantized Energy Levels",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20The%20Franck-Hertz%20Experiment%20and%20Quantized%20Energy%20Levels%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jD-KHlJeoZM",
         "quiz": [
           {
             "q": "What gas did the original Franck-Hertz experiment use to demonstrate quantized atomic energy levels?",
@@ -23344,8 +23358,9 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Literature: The Found Poem — Repurposing Existing Text",
         "summary": "Grade 12 English strand: a found poem is created by taking existing non-poetic text, such as a legal notice or advertisement, and reshaping it through selective omission and line breaks into a poem, recontextualizing its meaning.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Literature: The Found Poem — Repurposing Existing Text",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20The%20Found%20Poem%20%E2%80%94%20Repurposing%20Existing%20Text%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GuZlMBtVwdM",
         "quiz": [
           {
             "q": "What is a found poem created from?",
@@ -23406,6 +23421,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use constant finite differences in a table of values to determine the degree of the polynomial function that models the data, without needing an explicit equation.",
         "resourceLabel": "YouTube: Polynomial Functions: Finite Differences and Degree",
         "resourceUrl": "https://www.youtube.com/results?search_query=Polynomial%20Functions%3A%20Finite%20Differences%20and%20Degree%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=50HKEjb9Gak",
         "topic": "Polynomials & Factoring",
         "quiz": [
           {
@@ -23466,6 +23482,7 @@ const curriculum: DayContent[] = [
         "summary": "An inverted conical tank is draining water through a hole at the bottom. You'll use similar triangles to relate the water's radius and height, then find how fast the water level is dropping.",
         "resourceLabel": "YouTube: Related Rates: A Conical Tank Draining",
         "resourceUrl": "https://www.youtube.com/results?search_query=Related%20Rates%3A%20A%20Conical%20Tank%20Draining%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iK625WaKomM",
         "quiz": [
           {
             "q": "An inverted cone tank has height 12 m and top radius 4 m. At water depth h, the water's surface radius is r. Using similar triangles, which relationship is correct?",

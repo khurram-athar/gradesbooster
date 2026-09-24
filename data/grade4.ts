@@ -24188,8 +24188,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Financial Literacy: Adding and Subtracting Money Amounts",
         "summary": "Grade 4 Math strand: students learn to add and subtract amounts of money with dollars and cents, such as finding the total cost of two items or the change owed after a purchase.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "resourceLabel": "YouTube: Financial Literacy: Adding and Subtracting Money Amounts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Adding%20and%20Subtracting%20Money%20Amounts%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iJXLYCxa3u8",
         "quiz": [
           {
             "q": "What is 4 dollars 25 cents plus 2 dollars 50 cents?",
@@ -24250,6 +24251,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Earth and Space Systems strand: students learn that the Earth is made of layers, including the outer crust we live on, the hot mantle beneath it, and the core at the very centre.",
         "resourceLabel": "YouTube: Layers of the Earth: Crust, Mantle, and Core",
         "resourceUrl": "https://www.youtube.com/results?search_query=Layers%20of%20the%20Earth%3A%20Crust%2C%20Mantle%2C%20and%20Core%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eXiVGEEPQ6c",
         "quiz": [
           {
             "q": "What is the outermost layer of the Earth called?",
@@ -24394,8 +24396,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Sentence Fragments and Run-on Sentences",
         "summary": "Grade 4 Language strand: a sentence fragment is an incomplete sentence missing a subject or verb, while a run-on sentence incorrectly joins two or more complete sentences together without proper punctuation.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "resourceLabel": "YouTube: Grammar: Sentence Fragments and Run-on Sentences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Sentence%20Fragments%20and%20Run-on%20Sentences%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GJZzAaexLd4",
         "quiz": [
           {
             "q": "What do we call an incomplete sentence that is missing a subject or verb?",
@@ -24454,8 +24457,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Data Management: Choosing an Appropriate Graph",
         "summary": "Grade 4 Math strand: students learn that different graphs suit different data, such as bar graphs for comparing categories, line graphs for showing change over time, and circle graphs for showing parts of a whole.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "resourceLabel": "YouTube: Data Management: Choosing an Appropriate Graph",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Choosing%20an%20Appropriate%20Graph%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yrTB5JSQPqY",
         "quiz": [
           {
             "q": "Which type of graph is best for comparing amounts in different categories?",
@@ -24514,8 +24518,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Science: Weather: Types of Precipitation",
         "summary": "Grade 4 Science strand: precipitation is water that falls from clouds to the ground in different forms, including rain, snow, sleet, and hail, depending on the temperature of the air it falls through.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "resourceLabel": "YouTube: Science: Weather: Types of Precipitation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Weather%3A%20Types%20of%20Precipitation%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MI-z2MxQ5nE",
         "quiz": [
           {
             "q": "What do we call water that falls from clouds to the ground?",
@@ -24574,8 +24579,9 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Social Studies: The Group of Seven: Canadian Landscape Painters",
         "summary": "Grade 4 Social Studies strand: the Group of Seven was a collection of Canadian artists in the early twentieth century known for painting Canada’s rugged wilderness landscapes, helping shape a distinct Canadian artistic identity.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "resourceLabel": "YouTube: Social Studies: The Group of Seven: Canadian Landscape Painters",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Group%20of%20Seven%3A%20Canadian%20Landscape%20Painters%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uh-aT34r-kI",
         "quiz": [
           {
             "q": "What was the Group of Seven known for painting?",

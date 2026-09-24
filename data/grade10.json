@@ -23264,8 +23264,9 @@
         "subject": "English",
         "title": "Grammar: Conditional Sentences and Hypotheticals",
         "summary": "Grade 10 English strand: conditional sentences express a cause-and-effect relationship using an if-clause and a result clause, ranging from real possibilities to purely hypothetical situations.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Grammar: Conditional Sentences and Hypotheticals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Conditional%20Sentences%20and%20Hypotheticals%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FH3ThwR99LM",
         "quiz": [
           {
             "q": "What does a conditional sentence typically express?",
@@ -23324,8 +23325,9 @@
         "subject": "Math",
         "title": "Geometric Series: Sum to n Terms",
         "summary": "Grade 10 Math strand: a geometric series is the sum of terms in a geometric sequence, calculated using the formula S(n) equals a times (1 minus r to the n) divided by (1 minus r), where r is the common ratio.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "resourceLabel": "YouTube: Geometric Series: Sum to n Terms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometric%20Series%3A%20Sum%20to%20n%20Terms%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=x0h92Y576xY",
         "quiz": [
           {
             "q": "What is a geometric series?",
@@ -23386,6 +23388,7 @@
         "summary": "Grade 8 Science strand: the digestive system breaks down food into smaller molecules through mechanical and chemical processes, allowing nutrients to be absorbed into the bloodstream, primarily in the small intestine.",
         "resourceLabel": "YouTube: Science: The Human Digestive System and Nutrient Absorption",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20The%20Human%20Digestive%20System%20and%20Nutrient%20Absorption%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Og5xAdC8EUI",
         "quiz": [
           {
             "q": "What does the digestive system break food down into?",
@@ -23444,8 +23447,9 @@
         "subject": "History",
         "title": "The Klondike Gold Rush",
         "summary": "Grade 10 History strand: the Klondike Gold Rush of 1896-99 drew tens of thousands of prospectors to the Yukon, spurring rapid settlement, infrastructure development, and Yukon’s creation as a separate territory in 1898.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: The Klondike Gold Rush",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Klondike%20Gold%20Rush%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pxhREu7wz0M",
         "quiz": [
           {
             "q": "In what region did the Klondike Gold Rush take place?",
@@ -23569,8 +23573,9 @@
         "subject": "Math",
         "title": "Statistics: Correlation vs Causation",
         "summary": "Grade 10 Math strand: correlation describes a relationship between two variables, but correlation alone does not prove that one variable causes the other to change.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "resourceLabel": "YouTube: Statistics: Correlation vs Causation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20Correlation%20vs%20Causation%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ROpbdO-gRUo",
         "quiz": [
           {
             "q": "What does correlation describe between two variables?",
@@ -23629,8 +23634,9 @@
         "subject": "Science",
         "title": "Earth Science: The Carbon Cycle",
         "summary": "Grade 10 Science strand: the carbon cycle describes how carbon moves between the atmosphere, oceans, living organisms, and the earth through processes such as photosynthesis, respiration, and combustion.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Earth Science: The Carbon Cycle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Earth%20Science%3A%20The%20Carbon%20Cycle%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-wSqQiihf7c",
         "quiz": [
           {
             "q": "What does the carbon cycle describe?",
@@ -23688,8 +23694,9 @@
         "subject": "History",
         "title": "The Underground Railroad and Early Black Communities in Canada",
         "summary": "Grade 10 History strand: the Underground Railroad was a network of secret routes and safe houses that helped freedom seekers escape enslavement in the United States, with many settling and building communities in Canada.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: The Underground Railroad and Early Black Communities in Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Underground%20Railroad%20and%20Early%20Black%20Communities%20in%20Canada%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mlG5ywXxoV4",
         "quiz": [
           {
             "q": "What was the Underground Railroad?",

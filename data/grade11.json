@@ -23257,8 +23257,9 @@
         "subject": "English",
         "title": "Poetry: The Sonnet Form — Petrarchan and Shakespearean",
         "summary": "Grade 11 English strand: the sonnet is a fourteen-line poem with a fixed rhyme scheme, traditionally following either the Petrarchan structure of an octave and sestet or the Shakespearean structure of three quatrains and a closing couplet.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Poetry: The Sonnet Form — Petrarchan and Shakespearean",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Poetry%3A%20The%20Sonnet%20Form%20%E2%80%94%20Petrarchan%20and%20Shakespearean%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=005VgtfJit0",
         "quiz": [
           {
             "q": "How many lines does a traditional sonnet contain?",
@@ -23317,8 +23318,9 @@
         "subject": "Functions",
         "title": "Trigonometry: Sum and Difference Identities",
         "summary": "Grade 11 Functions strand: sum and difference identities express the sine, cosine, or tangent of the sum or difference of two angles in terms of the trigonometric functions of each individual angle.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "resourceLabel": "YouTube: Trigonometry: Sum and Difference Identities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20Sum%20and%20Difference%20Identities%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=sU2pyMR8GZ4",
         "quiz": [
           {
             "q": "What do sum and difference identities express?",
@@ -23377,8 +23379,9 @@
         "subject": "Biology",
         "title": "Plant Biology: Chemical and Structural Defences Against Herbivory",
         "summary": "Grade 11 Biology strand: plants have evolved chemical defences, such as toxins and deterrent compounds, alongside structural defences, such as thorns and tough leaves, to reduce damage from herbivores.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Plant Biology: Chemical and Structural Defences Against Herbivory",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Plant%20Biology%3A%20Chemical%20and%20Structural%20Defences%20Against%20Herbivory%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=D206t1XDXUA",
         "quiz": [
           {
             "q": "What are two broad categories of plant defences against herbivory?",
@@ -23504,8 +23507,19 @@
         "subject": "English",
         "title": "Rhetoric: Anaphora, Chiasmus, and Parallelism",
         "summary": "Grade 11 English strand: rhetorical schemes such as anaphora, chiasmus, and parallelism use deliberate patterns of repetition and structure to make a speaker’s or writer’s language more memorable and persuasive.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Rhetoric: Anaphora, Chiasmus, and Parallelism",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rhetoric%3A%20Anaphora%2C%20Chiasmus%2C%20and%20Parallelism%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=canGnc9cwJA",
+        "videoUrls": [
+          {
+            "label": "Rhetorical Devices: Anaphora, Anecdote, Parallelism",
+            "url": "https://www.youtube.com/watch?v=canGnc9cwJA"
+          },
+          {
+            "label": "Parallelism/Chiasmus: Repeat After Me",
+            "url": "https://www.youtube.com/watch?v=G-QMUL-HK2w"
+          }
+        ],
         "quiz": [
           {
             "q": "What do rhetorical schemes like anaphora and parallelism rely on?",
@@ -23624,8 +23638,9 @@
         "subject": "Biology",
         "title": "Ecology: Population Growth Models — Exponential and Logistic Growth",
         "summary": "Grade 11 Biology strand: exponential growth models describe a population increasing without limit under ideal conditions, while logistic growth models incorporate a carrying capacity that slows growth as resources become limited.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Ecology: Population Growth Models — Exponential and Logistic Growth",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ecology%3A%20Population%20Growth%20Models%20%E2%80%94%20Exponential%20and%20Logistic%20Growth%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KyAKEisg2PQ",
         "quiz": [
           {
             "q": "What does an exponential growth model assume about a population’s growth?",

@@ -23271,8 +23271,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Appositives and Nonrestrictive Elements",
         "summary": "Grade 8 Language strand: an appositive is a noun or noun phrase that renames or explains another noun beside it, and nonrestrictive appositives are set off with commas because they add extra, non-essential information.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: Grammar: Appositives and Nonrestrictive Elements",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Appositives%20and%20Nonrestrictive%20Elements%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QFcaUTd8DgY",
         "quiz": [
           {
             "q": "What does an appositive do?",
@@ -23333,6 +23334,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn and apply the sign rules for multiplying and dividing integers, including expressions with more than one operation.",
         "resourceLabel": "YouTube: Multiplying and Dividing Integers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%20and%20Dividing%20Integers%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=K_tPbVPfHgk",
         "topic": "Integers",
         "quiz": [
           {
@@ -23393,6 +23395,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: the water table is the upper level of groundwater stored underground in an aquifer, and it rises or falls as rain and melting snow soak into the ground to recharge the supply.",
         "resourceLabel": "YouTube: Science: The Water Table and Aquifer Recharge",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20The%20Water%20Table%20and%20Aquifer%20Recharge%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=bG19b06NG_w",
         "quiz": [
           {
             "q": "What is the water table?",
@@ -23452,6 +23455,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the Canadian Pacific Railway, completed in 1885, connected the country from coast to coast, fulfilling a promise made to British Columbia and playing a major role in Canadian settlement, trade, and national unity.",
         "resourceLabel": "YouTube: Social Studies: The Canadian Pacific Railway and Nation-Building",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Canadian%20Pacific%20Railway%20and%20Nation-Building%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yFUaO573cGQ",
         "quiz": [
           {
             "q": "What did the completion of the Canadian Pacific Railway achieve?",
@@ -23516,8 +23520,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Vocabulary: Neologisms and Language Change",
         "summary": "Grade 8 Language strand: a neologism is a newly coined word or expression that enters a language, often created to describe new technology, culture, or ideas.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: Vocabulary: Neologisms and Language Change",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Neologisms%20and%20Language%20Change%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Ytr28t5VzAs",
         "quiz": [
           {
             "q": "What is a neologism?",
@@ -23576,8 +23581,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "The Fibonacci Sequence and the Golden Ratio",
         "summary": "Grade 8 Math strand: the Fibonacci sequence is a pattern where each number is the sum of the two numbers before it, and as the sequence grows, the ratio between consecutive terms approaches the golden ratio.",
-        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "resourceLabel": "YouTube: The Fibonacci Sequence and the Golden Ratio",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Fibonacci%20Sequence%20and%20the%20Golden%20Ratio%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mVO2dcuR7P0",
         "quiz": [
           {
             "q": "In the Fibonacci sequence, how is each new number formed?",
@@ -23638,6 +23644,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: diffusion is the movement of particles from an area of higher concentration to lower concentration, while osmosis is the diffusion of water specifically across a cells membrane.",
         "resourceLabel": "YouTube: Science: Osmosis and Diffusion in Cells",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Osmosis%20and%20Diffusion%20in%20Cells%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PRi6uHDKeW4",
         "quiz": [
           {
             "q": "What is diffusion?",
@@ -23695,8 +23702,9 @@ const curriculum: DayContent[] = [
         "subject": "History",
         "title": "Clifford Sifton and the Settlement of the Canadian Prairies",
         "summary": "Grade 8 History strand: as Minister of the Interior in the early 1900s, Clifford Sifton launched an aggressive immigration campaign to attract settlers to the Canadian Prairies, significantly shaping the region’s development.",
-        "resourceLabel": "TVO Learn: Grade 8 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "resourceLabel": "YouTube: Clifford Sifton and the Settlement of the Canadian Prairies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Clifford%20Sifton%20and%20the%20Settlement%20of%20the%20Canadian%20Prairies%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nqqrwe-_MAg",
         "quiz": [
           {
             "q": "What government position did Clifford Sifton hold?",
