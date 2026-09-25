@@ -24449,6 +24449,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: a myth is a traditional story that often explains natural events or features gods and heroes, while a legend is a traditional story often based loosely on real people or events.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=3Hv_x5kyIkE",
         "quiz": [
           {
             "q": "What do we call a traditional story that often explains a natural event and features gods or heroes?",
@@ -24509,6 +24510,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: quadrilaterals can be classified by their properties, such as a square with four equal sides and four right angles, or a trapezoid with only one pair of parallel sides.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=OWBjrJFZV4w",
         "quiz": [
           {
             "q": "What do we call a quadrilateral with four equal sides and four right angles?",
@@ -24569,6 +24571,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: decomposers, such as fungi, bacteria, and worms, break down dead plants and animals, returning nutrients to the soil so they can be used again by living things.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=uB61rfeeAsM",
         "quiz": [
           {
             "q": "What do we call organisms, such as fungi and bacteria, that break down dead plants and animals?",
@@ -24629,6 +24632,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: National Indigenous Peoples Day is celebrated each year to recognize and celebrate the cultures, achievements, and contributions of First Nations, Inuit, and Metis peoples in Canada.",
         "resourceLabel": "YouTube: Social Studies: National Indigenous Peoples Day and Its Importance",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20National%20Indigenous%20Peoples%20Day%20and%20Its%20Importance%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2tfpswUBezM",
         "quiz": [
           {
             "q": "What does National Indigenous Peoples Day celebrate?",

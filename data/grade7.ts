@@ -23729,6 +23729,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: an infographic combines images, charts, and brief text to present information visually, and analyzing one involves evaluating whether its design accurately and clearly represents the data.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=5Zg-C8AAIGg",
         "quiz": [
           {
             "q": "What does an infographic combine to present information?",
@@ -23789,6 +23790,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: a two-way frequency table organizes data about two categorical variables at once, showing how the categories relate to each other in a grid of rows and columns.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=97SZ1JR4rzA",
         "quiz": [
           {
             "q": "What does a two-way frequency table organize data about?",
@@ -23849,6 +23851,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: camouflage is an adaptation that helps an organism blend into its surroundings, one of many defense mechanisms, such as mimicry or warning colouration, that help animals avoid predators.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=d6Q8F2dShFs",
         "quiz": [
           {
             "q": "What is camouflage?",
@@ -23909,6 +23912,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: a proposed law, called a bill, must be debated and approved by the House of Commons and the Senate before receiving royal assent to become law.",
         "resourceLabel": "YouTube: Social Studies: How a Bill Becomes a Law in Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20How%20a%20Bill%20Becomes%20a%20Law%20in%20Canada%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=biMC4vn_ysc",
         "quiz": [
           {
             "q": "What is a bill?",

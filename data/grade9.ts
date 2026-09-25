@@ -23908,6 +23908,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: an allusion is a brief, indirect reference to a person, event, or work from history, mythology, or another text, adding layers of meaning for readers who recognize the connection.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=UWFR_pZ2jBg",
         "quiz": [
           {
             "q": "What is an allusion?",
@@ -23968,6 +23969,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: the angle of elevation is the angle measured upward from a horizontal line to an object, while the angle of depression is measured downward, both used to solve real-world trigonometry problems.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=_wakGOMwkR4",
         "quiz": [
           {
             "q": "What is the angle of elevation measured from?",
@@ -24028,6 +24030,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: biodiversity refers to the variety of species within an ecosystem, and higher biodiversity generally makes an ecosystem more resilient and stable in the face of environmental change.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=GK_vRtHJZu4",
         "quiz": [
           {
             "q": "What does biodiversity refer to?",
@@ -24088,6 +24091,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies strand: data centres are large facilities that store and process the world’s digital information, and their physical location is influenced by factors like climate, energy availability, and internet connectivity.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=TghekzsRvQU",
         "quiz": [
           {
             "q": "What do data centres store and process?",

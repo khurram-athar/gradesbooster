@@ -24647,6 +24647,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: a biography is a true account of a real person’s life written by someone else, often including important events, achievements, and challenges the person experienced.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=EC7oeUTVVnQ",
         "quiz": [
           {
             "q": "What do we call a true account of a real person’s life written by someone else?",
@@ -24707,6 +24708,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: an event is certain if it will definitely happen, impossible if it can never happen, and equally likely if it has the same chance of happening as another outcome, such as flipping heads or tails on a fair coin.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=lYXDQ5-I7Qk",
         "quiz": [
           {
             "q": "What do we call an event that will definitely happen?",
@@ -24767,6 +24769,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: rocks and minerals are used in many everyday products and structures, such as limestone in buildings, graphite in pencils, and quartz in glass and electronics.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=MAlx87jEohs",
         "quiz": [
           {
             "q": "Name one everyday product made using a mineral, such as pencils made with graphite.",
@@ -24827,6 +24830,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the Klondike Gold Rush was a time in the late 1800s when thousands of people travelled to the Yukon hoping to find gold.",
         "resourceLabel": "YouTube: The Klondike Gold Rush: A Canadian Adventure",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Klondike%20Gold%20Rush%3A%20A%20Canadian%20Adventure%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QmpIjD3xZOQ",
         "quiz": [
           {
             "q": "What did people search for during the Klondike Gold Rush?",

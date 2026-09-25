@@ -23729,6 +23729,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: word choice, also called diction, is how an author selects specific words to create meaning, feeling, or imagery in a text.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=tj8vssKsZQI",
         "quiz": [
           {
             "q": "What do we call an author’s choice of specific words to create meaning or feeling?",
@@ -23789,6 +23790,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: students estimate the length of everyday objects using centimetres and metres before measuring, building a sense of these units.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=i1sUWP80cmA",
         "quiz": [
           {
             "q": "Which unit would you most likely use to measure the length of a pencil?",
@@ -23849,6 +23851,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand: not all plants grow from seeds; ferns and mosses reproduce using tiny spores instead, and they thrive in damp, shady environments.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=MriAGFgsuHw",
         "quiz": [
           {
             "q": "Do ferns and mosses reproduce using seeds or spores?",
@@ -23908,6 +23911,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: Ontario trades many goods and services with the United States, its neighbouring country, exchanging products like cars, food, and machinery across the border.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=T41aOrHVveU",
         "quiz": [
           {
             "q": "Name the country that borders Ontario and trades goods with it.",

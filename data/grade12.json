@@ -23604,6 +23604,7 @@
         "summary": "Grade 12 English strand: the Verfremdungseffekt, associated with Bertolt Brecht, is a theatrical technique designed to prevent audience emotional immersion so that viewers remain critically and intellectually engaged with a play’s social content.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=GoRzT7r_PyE",
         "quiz": [
           {
             "q": "What is the primary purpose of the Verfremdungseffekt in Brechtian theatre?",
@@ -23663,6 +23664,7 @@
         "summary": "Grade 12 Advanced Functions strand: the nth Catalan number, given by one over (n plus 1) times the binomial coefficient (2n choose n), counts a wide variety of combinatorial structures, including balanced arrangements of parentheses and binary tree shapes.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=i5V21WCHTVo",
         "quiz": [
           {
             "q": "What kind of counting problems do Catalan numbers frequently solve?",
@@ -23723,6 +23725,7 @@
         "summary": "Grade 9 Data Management strand: a permutation counts the number of ways items can be arranged when order matters, while a combination counts the number of ways items can be selected when order does not matter.",
         "resourceLabel": "YouTube: Combinations and Permutations (Intro)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Combinations%20and%20Permutations%20%28Intro%29%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gAnKvHmrJ0g",
         "quiz": [
           {
             "q": "A permutation counts the number of ways items can be arranged when ___.",
@@ -23783,6 +23786,7 @@
         "summary": "Grade 12 Physics strand: a charged particle moving perpendicular to a uniform magnetic field follows a circular path of radius r = mv/(qB), a relationship used in mass spectrometry to determine a particle’s mass-to-charge ratio.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=y-RH6fxgOe4",
         "quiz": [
           {
             "q": "What path does a charged particle follow when moving perpendicular to a uniform magnetic field?",
