@@ -28258,6 +28258,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn two new digraphs, hearing how \"wh\" makes a single sound in words like \"whale\" and how \"ph\" sounds like /f/ in words like \"phone.\"",
         "resourceLabel": "YouTube: Digraphs: wh and ph",
         "resourceUrl": "https://www.youtube.com/results?search_query=Digraphs%3A%20wh%20and%20ph%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Pn8529gebfM",
         "topic": "Phonics & Word Recognition",
         "quiz": [
           {
@@ -28318,6 +28319,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare and order three objects from lightest to heaviest, extending simple heavier/lighter comparisons to sets of three.",
         "resourceLabel": "YouTube: Ordering Three Objects by Weight",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ordering%20Three%20Objects%20by%20Weight%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qUOQrXmfwDM",
         "topic": "Measurement: Units",
         "quiz": [
           {
@@ -28378,6 +28380,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids identify and describe common types of weather, like sunny, rainy, snowy, and cloudy days, and talk about clothing that matches each one.",
         "resourceLabel": "YouTube: Types of Weather: Sunny, Rainy, and Snowy Days",
         "resourceUrl": "https://www.youtube.com/results?search_query=Types%20of%20Weather%3A%20Sunny%2C%20Rainy%2C%20and%20Snowy%20Days%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eG6oczQ92N0",
         "topic": "Weather, Climate & Atmosphere",
         "quiz": [
           {
@@ -28438,6 +28441,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson helps children understand that family rules, like bedtime or washing hands before dinner, exist to help everyone stay healthy and happy.",
         "resourceLabel": "YouTube: Family Rules: Why We Have Them",
         "resourceUrl": "https://www.youtube.com/results?search_query=Family%20Rules%3A%20Why%20We%20Have%20Them%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WB3zolACjuI",
         "topic": "Civic Life & Cooperation (Basic)",
         "quiz": [
           {
