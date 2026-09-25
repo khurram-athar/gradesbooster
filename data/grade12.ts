@@ -23034,6 +23034,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to relate the net work done on an object to its change in kinetic energy using W_net = ΔKE, and apply the theorem to solve for unknown forces, distances, or final speeds in one-dimensional motion problems.",
         "resourceLabel": "YouTube: Work-Energy Theorem: Calculating Work Done by a Net Force",
         "resourceUrl": "https://www.youtube.com/results?search_query=Work-Energy%20Theorem%3A%20Calculating%20Work%20Done%20by%20a%20Net%20Force%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NN6qi91Drio",
         "quiz": [
           {
             "q": "A 1200 kg car accelerates from 10 m/s to 20 m/s. What is the net work done on the car?",
@@ -23287,64 +23288,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Franck-Hertz Experiment and Quantized Energy Levels",
-        "summary": "Grade 12 Physics strand: the Franck-Hertz experiment accelerated electrons through mercury vapour and observed regularly spaced dips in current, confirming that atoms absorb energy only in the discrete amounts predicted by the Bohr model.",
-        "resourceLabel": "YouTube: Physics: The Franck-Hertz Experiment and Quantized Energy Levels",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20The%20Franck-Hertz%20Experiment%20and%20Quantized%20Energy%20Levels%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=jD-KHlJeoZM",
+        "title": "Newton's Second Law with Connected Objects: Atwood Machines and Pulley Systems",
+        "summary": "Analyze systems of two or more connected masses linked by strings over pulleys using Newton's second law, treating the whole system's shared acceleration and solving for the tension in each connecting string.",
+        "resourceLabel": "YouTube: Newton's Second Law with Connected Objects: Atwood Machines and Pulley Systems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Newton%27s%20Second%20Law%20with%20Connected%20Objects%3A%20Atwood%20Machines%20and%20Pulley%20Systems%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What gas did the original Franck-Hertz experiment use to demonstrate quantized atomic energy levels?",
+            "q": "An Atwood machine has masses of 3.0 kg and 5.0 kg hanging from opposite ends of a light string over a frictionless pulley. What is the magnitude of the acceleration of the system (g = 9.8 m/s²)?",
             "options": [
-              "Pure oxygen gas",
-              "A concept unrelated to physics",
-              "Mercury vapour",
-              "Hydrogen gas"
+              "1.2 m/s²",
+              "2.5 m/s²",
+              "4.9 m/s²",
+              "9.8 m/s²"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For the Atwood machine above (3.0 kg and 5.0 kg), what is the tension in the string?",
+            "options": [
+              "24.5 N",
+              "29.4 N",
+              "36.8 N",
+              "49 N"
             ],
             "answer": 2
           },
           {
-            "q": "What pattern did Franck and Hertz observe in the current as the accelerating voltage was increased?",
+            "q": "A 2.0 kg block sits on a frictionless horizontal table and is connected by a string over a pulley at the table's edge to a hanging 4.0 kg mass. What is the acceleration of the system (g = 9.8 m/s²)?",
             "options": [
-              "Regularly spaced dips in current at specific voltage intervals",
-              "A concept unrelated to the Franck-Hertz experiment",
-              "A perfectly smooth, continuously increasing current with no dips",
-              "A current that instantly dropped to zero and never recovered"
+              "6.5 m/s²",
+              "3.3 m/s²",
+              "4.9 m/s²",
+              "9.8 m/s²"
             ],
             "answer": 0
           },
           {
-            "q": "The Franck-Hertz experiment showed regular current dips spaced at approximately 4.9 volts. What does this spacing correspond to physically?",
+            "q": "Repeat the previous setup, but the 2.0 kg block on the table now experiences friction with coefficient μ = 0.20. What is the new acceleration of the system?",
             "options": [
-              "The total voltage of the entire electrical circuit used",
-              "The specific energy needed to excite a mercury atom to its first excited state",
-              "The exact mass of a single mercury atom",
-              "A concept unrelated to this experiment"
+              "3.9 m/s²",
+              "6.5 m/s²",
+              "5.9 m/s²",
+              "4.9 m/s²"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Why do electrons lose a very specific amount of kinetic energy when they collide with a mercury atom in this experiment, rather than losing a continuously varying amount?",
+            "q": "In an ideal Atwood machine (massless string, frictionless pulley), why is the tension the same on both sides of the string?",
             "options": [
-              "Mercury atoms can absorb any arbitrary, continuously varying amount of energy",
-              "Mercury atoms can only absorb energy in the discrete amount that matches the gap between their allowed energy levels",
-              "This concept has no connection to physics",
-              "Electrons never lose any kinetic energy when colliding with a mercury atom"
+              "The string is massless and the pulley is frictionless, so no net force can act on any string segment or the pulley rim",
+              "The heavier mass determines the tension for the whole system",
+              "Tension only depends on the total combined weight of both masses",
+              "Tension is equal only because both masses happen to move at the same speed"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why is the Franck-Hertz experiment considered strong experimental confirmation of the Bohr model’s prediction of quantized atomic energy levels?",
-            "options": [
-              "The Bohr model had already been fully confirmed by entirely unrelated evidence before this experiment",
-              "It directly demonstrated, through measurable electrical current, that atoms absorb energy only in fixed, discrete amounts rather than continuously",
-              "The experiment showed that atomic energy levels are entirely continuous with no discrete structure",
-              "This concept has no relevance to physics"
-            ],
-            "answer": 1
+            "answer": 0
           }
-        ],
-        "topic": "Energy"
+        ]
       }
     ]
   },
@@ -23541,6 +23540,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to resolve gravity into components parallel and perpendicular to an inclined surface and apply Newton's second law to determine acceleration, normal force, and the effects of friction for objects on ramps.",
         "resourceLabel": "YouTube: Newton's Second Law: Analyzing Forces on Inclined Planes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Newton%27s%20Second%20Law%3A%20Analyzing%20Forces%20on%20Inclined%20Planes%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ufgY237M5KQ",
         "quiz": [
           {
             "q": "A block sits on a frictionless incline at 30° to the horizontal. What is its acceleration down the slope?",
@@ -23784,64 +23784,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Cyclotron Motion and Mass Spectrometry",
-        "summary": "Grade 12 Physics strand: a charged particle moving perpendicular to a uniform magnetic field follows a circular path of radius r = mv/(qB), a relationship used in mass spectrometry to determine a particle’s mass-to-charge ratio.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
-        "videoUrl": "https://www.youtube.com/watch?v=y-RH6fxgOe4",
+        "title": "Circular Motion of a Charged Particle in a Magnetic Field",
+        "summary": "Apply the magnetic force F = qvB as the centripetal force on a charged particle to derive its circular path radius, period, and frequency in a uniform magnetic field.",
+        "resourceLabel": "YouTube: Circular Motion of a Charged Particle in a Magnetic Field",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Circular%20Motion%20of%20a%20Charged%20Particle%20in%20a%20Magnetic%20Field%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What path does a charged particle follow when moving perpendicular to a uniform magnetic field?",
+            "q": "An electron (m = 9.11 × 10⁻³¹ kg, q = 1.6 × 10⁻¹⁹ C) moves at 2.0 × 10⁶ m/s perpendicular to a 0.50 T magnetic field. What is the radius of its circular path?",
             "options": [
-              "A circular path",
-              "A path that instantly stops the particle in place",
-              "A perfectly straight, undeflected line",
-              "A concept unrelated to physics"
+              "4.6 × 10⁻⁵ m",
+              "2.3 × 10⁻⁵ m",
+              "1.1 × 10⁻⁵ m",
+              "2.3 × 10⁻⁴ m"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What is the formula for the radius of a charged particle’s circular path in a magnetic field, in terms of its mass m, charge q, speed v, and field strength B?",
+            "q": "A proton (m = 1.67 × 10⁻²⁷ kg, q = 1.6 × 10⁻¹⁹ C) moves in a circle in a 1.0 T magnetic field. What is the period of its circular motion?",
             "options": [
-              "r = mv/(qB)",
-              "r = qB/(mv)",
-              "r = m + v + q + B, added together with no other operation",
-              "A concept unrelated to cyclotron motion"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "A proton (mass 1.67×10⁻²⁷ kg, charge 1.6×10⁻¹⁹ C) moves at 2×10⁶ m/s perpendicular to a magnetic field of 0.5 T. What is the approximate radius of its circular path?",
-            "options": [
-              "Approximately 0.42 mm",
-              "Approximately 4.2 m",
-              "Approximately 0.042 m (about 4.2 cm)",
-              "Approximately 420 m"
+              "3.3 × 10⁻⁸ s",
+              "6.6 × 10⁻⁹ s",
+              "6.6 × 10⁻⁸ s",
+              "1.0 × 10⁻⁷ s"
             ],
             "answer": 2
           },
           {
-            "q": "Why does the cyclotron frequency of a charged particle in a magnetic field remain independent of the particle’s speed (for non-relativistic speeds)?",
+            "q": "A positive charge moves to the right (+x direction) through a magnetic field pointing into the page. Using F = qv × B, what direction is the magnetic force on the charge?",
             "options": [
-              "As speed increases, the radius increases proportionally, so the time to complete one revolution stays the same",
-              "This concept has no connection to physics",
-              "A faster particle always takes proportionally longer to complete a single revolution",
-              "Cyclotron frequency has no mathematical relationship to a particle’s speed or radius"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is measuring the radius of a charged particle’s circular path in a known magnetic field useful in a mass spectrometer?",
-            "options": [
-              "Mass spectrometers never make use of any magnetic field in their operation",
-              "This concept has no relevance to physics",
-              "The measured radius allows the particle’s mass-to-charge ratio to be calculated, helping identify the isotope or ion",
-              "The radius of a particle’s path provides no useful information about its mass or charge"
+              "Downward",
+              "Into the page",
+              "Upward",
+              "Out of the page"
             ],
             "answer": 2
+          },
+          {
+            "q": "An alpha particle (q = 3.2 × 10⁻¹⁹ C, m = 6.64 × 10⁻²⁷ kg) travels in a circle of radius 0.15 m at 1.5 × 10⁶ m/s. What is the magnitude of the magnetic field?",
+            "options": [
+              "0.42 T",
+              "0.10 T",
+              "1.05 T",
+              "0.21 T"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A charged particle moves in a circular path due only to a uniform magnetic field, with no other forces present. What happens to its kinetic energy?",
+            "options": [
+              "Remains constant, because the magnetic force is always perpendicular to velocity",
+              "Increases steadily",
+              "Decreases due to radiation",
+              "Oscillates periodically"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Forces & Motion"
+        ]
       }
     ]
   },
@@ -24275,58 +24273,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Pulsars — Rotating Neutron Stars as Cosmic Lighthouses",
-        "summary": "Grade 12 Physics strand: a pulsar is a rapidly rotating, highly magnetized neutron star whose misaligned magnetic and rotation axes cause a beam of radiation to sweep past Earth like a lighthouse, producing extremely regular pulses.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Conservation of Mechanical Energy: Pendulums and Roller Coasters",
+        "summary": "Use conservation of mechanical energy (KE + PE = constant) to find speeds and heights in pendulums and roller-coaster systems, both with and without friction.",
+        "resourceLabel": "YouTube: Conservation of Mechanical Energy: Pendulums and Roller Coasters",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Conservation%20of%20Mechanical%20Energy%3A%20Pendulums%20and%20Roller%20Coasters%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What type of stellar remnant is a pulsar?",
+            "q": "A roller coaster car starts from rest at the top of a 45 m hill. Ignoring friction, what is its speed at the bottom (g = 9.8 m/s²)?",
             "options": [
-              "An ordinary main-sequence star like the sun",
-              "A concept unrelated to physics",
-              "A slowly cooling, non-rotating white dwarf",
-              "A rapidly rotating, highly magnetized neutron star"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why do pulsars appear to emit regular pulses of radiation, as observed from Earth?",
-            "options": [
-              "They emit a single, permanent burst of radiation that never repeats",
-              "Their beam of radiation sweeps past Earth once per rotation, similar to a lighthouse beam",
-              "They emit radiation continuously in every direction with no variation at all",
-              "A concept unrelated to pulsars"
+              "44.1 m/s",
+              "29.7 m/s",
+              "9.4 m/s",
+              "14.85 m/s"
             ],
             "answer": 1
           },
           {
-            "q": "What is required about the alignment of a pulsar’s magnetic axis and rotation axis for the lighthouse-like pulsing effect to be observed?",
+            "q": "A pendulum of length 2.0 m is released from rest at 40° from the vertical. What is its speed at the lowest point of the swing (g = 9.8 m/s²)?",
             "options": [
-              "The magnetic axis must be misaligned (not identical) with the rotation axis",
-              "The magnetic axis and rotation axis must always be perfectly identical",
-              "The pulsar must have no rotation axis of any kind",
-              "A concept unrelated to pulsars"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why can the extremely regular timing of many pulsars be used as remarkably precise cosmic clocks?",
-            "options": [
-              "Pulsar rotation rates change randomly and unpredictably from moment to moment",
-              "This concept has no connection to physics",
-              "Their rotation rates are extremely stable over short timescales, so the pulse intervals remain very consistent",
-              "Pulsars emit pulses at completely random, unmeasurable intervals"
+              "6.1 m/s",
+              "1.5 m/s",
+              "3.0 m/s",
+              "4.3 m/s"
             ],
             "answer": 2
           },
           {
-            "q": "Why do pulsars gradually slow down (increase their pulse period) over very long timescales?",
+            "q": "A roller coaster car starts from rest at a height of 50 m. Due to friction, it reaches the bottom (height 0) with a measured speed of 28 m/s instead of the frictionless prediction. What percentage of the initial mechanical energy (per unit mass) was lost to friction?",
             "options": [
-              "This concept has no relevance to physics",
-              "Pulsars gain rotational energy over time, causing them to spin increasingly faster",
-              "A pulsar’s rotation rate never changes at all over any timescale",
-              "They lose rotational energy by radiating electromagnetic energy and particles into space"
+              "10%",
+              "30%",
+              "40%",
+              "20%"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A roller coaster loop has radius 10 m. What is the minimum speed the car must have at the top of the loop to maintain contact with the track (g = 9.8 m/s²)?",
+            "options": [
+              "14.0 m/s",
+              "9.9 m/s",
+              "19.8 m/s",
+              "7.0 m/s"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "At the highest point of a pendulum's swing (momentarily at rest before swinging back), what is true of its kinetic and potential energy?",
+            "options": [
+              "KE is maximum and PE is zero",
+              "Both KE and PE are zero",
+              "KE and PE are equal",
+              "KE is zero and PE is at its maximum"
             ],
             "answer": 3
           }
@@ -24519,63 +24517,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Cosmic Microwave Background and the Big Bang",
-        "summary": "Grade 12 Physics strand: the cosmic microwave background is faint, nearly uniform radiation left over from about 380,000 years after the Big Bang, when the universe cooled enough for neutral atoms to form and photons to travel freely, providing strong evidence for the Big Bang theory.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "The Correspondence Principle: How Quantum Mechanics Reduces to Classical Physics",
+        "summary": "Explore how quantum mechanical predictions, such as Bohr atom energy levels and de Broglie wavelengths, converge to classical physics results for macroscopic objects or large quantum numbers.",
+        "resourceLabel": "YouTube: The Correspondence Principle: How Quantum Mechanics Reduces to Classical Physics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Correspondence%20Principle%3A%20How%20Quantum%20Mechanics%20Reduces%20to%20Classical%20Physics%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What is the cosmic microwave background radiation considered strong evidence for?",
+            "q": "According to Bohr's correspondence principle, quantum mechanical predictions should approach classical predictions when...",
             "options": [
-              "The Big Bang theory of the universe’s origin",
-              "The idea that the universe has no measurable age at all",
-              "The existence of a permanently static, unchanging universe",
-              "A concept unrelated to physics"
+              "The quantum number n becomes very large (the macroscopic limit)",
+              "The particle's charge is zero",
+              "Planck's constant is doubled",
+              "The particle's speed approaches the speed of light"
             ],
             "answer": 0
           },
           {
-            "q": "Approximately how long after the Big Bang did the light we now observe as the cosmic microwave background begin travelling freely through space?",
+            "q": "A 0.150 kg baseball moves at 40 m/s. What is its de Broglie wavelength (h = 6.63 × 10⁻³⁴ J·s)?",
             "options": [
-              "A concept unrelated to the cosmic microwave background",
-              "About 4.6 billion years",
-              "About 13.8 seconds",
-              "About 380,000 years"
+              "1.1 × 10⁻³³ m",
+              "6.6 × 10⁻³⁴ m",
+              "1.1 × 10⁻³⁴ m",
+              "2.2 × 10⁻³⁴ m"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the Bohr model of hydrogen, as the principal quantum number n becomes very large, the energy spacing ΔE between adjacent levels...",
+            "options": [
+              "Increases without bound",
+              "Stays exactly the same for all n",
+              "Oscillates between positive and negative values",
+              "Approaches zero, becoming a quasi-continuous spectrum"
             ],
             "answer": 3
           },
           {
-            "q": "What event, known as recombination, allowed photons to begin travelling freely through the universe, eventually forming the cosmic microwave background?",
+            "q": "For hydrogen, compare the photon energy released in the n = 2 → n = 3 transition to the n = 10 → n = 11 transition. Which is true?",
             "options": [
-              "Stars formed for the very first time, emitting the first ever light",
-              "Electrons combined with nuclei to form neutral atoms, making the universe transparent to light",
-              "A concept unrelated to the cosmic microwave background",
-              "All matter in the universe instantly disappeared, leaving only empty space"
+              "The n = 10 → 11 transition releases more energy",
+              "The n = 2 → 3 transition releases more energy",
+              "Both transitions release exactly the same energy",
+              "It cannot be determined without knowing the atom's temperature"
             ],
             "answer": 1
           },
           {
-            "q": "Why does the cosmic microwave background appear today as microwave radiation rather than the much higher-energy radiation it was originally emitted as?",
+            "q": "The correspondence principle also appears in special relativity: relativistic expressions for momentum and energy reduce to the classical Newtonian formulas when...",
             "options": [
-              "The expansion of the universe has stretched (redshifted) the wavelength of this radiation over billions of years",
-              "Microwave radiation was the original form in which this light was first emitted",
-              "This concept has no connection to physics",
-              "The radiation has remained at exactly the same wavelength since it was first emitted"
+              "v approaches c",
+              "The rest mass is zero",
+              "The object is charged",
+              "v is much smaller than c (v << c)"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Why is the near-uniformity of the cosmic microwave background across the entire sky significant for cosmological models of the early universe?",
-            "options": [
-              "Near-uniformity across the sky provides no useful information about the early universe",
-              "Cosmological models predict the early universe should have been wildly different in temperature from place to place, with no supporting evidence either way",
-              "It indicates the early universe was extremely close to the same temperature and density everywhere, supporting models of a hot, uniform early state",
-              "This concept has no relevance to physics"
-            ],
-            "answer": 2
+            "answer": 3
           }
-        ],
-        "topic": "Light & Sound"
+        ]
       }
     ]
   },
@@ -24764,60 +24761,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Quantum Computing and the Qubit",
-        "summary": "Grade 12 Physics strand: a qubit, the basic unit of quantum information, can exist in a superposition of the states 0 and 1, and entanglement between multiple qubits allows a quantum computer’s state space to grow exponentially with the number of qubits.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Heisenberg's Uncertainty Principle: Limits on Simultaneous Measurement",
+        "summary": "Examine Heisenberg's uncertainty principle (ΔxΔp ≥ h/4π and ΔEΔt ≥ h/4π) and calculate fundamental limits on simultaneously knowing a particle's position/momentum or a state's energy/lifetime.",
+        "resourceLabel": "YouTube: Heisenberg's Uncertainty Principle: Limits on Simultaneous Measurement",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Heisenberg%27s%20Uncertainty%20Principle%3A%20Limits%20on%20Simultaneous%20Measurement%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What is the basic unit of information in a quantum computer called?",
+            "q": "An electron's position is known to within Δx = 1.0 × 10⁻¹⁰ m. Using ΔxΔp ≥ h/(4π) with h = 6.63 × 10⁻³⁴ J·s, what is the minimum uncertainty in its momentum?",
             "options": [
-              "A qubit",
-              "A classical bit",
-              "A photon, with no further defining property",
-              "A concept unrelated to physics"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What key property allows a qubit to exist in a combination of the states 0 and 1 simultaneously, unlike a classical bit?",
-            "options": [
-              "Superposition",
-              "A concept unrelated to quantum computing",
-              "Simple mechanical vibration",
-              "Ordinary electrical resistance"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What quantum phenomenon allows the states of two or more qubits to become correlated in ways that have no classical analogue?",
-            "options": [
-              "A concept unrelated to quantum computing",
-              "Entanglement",
-              "Simple electrical conduction",
-              "Ordinary magnetic attraction"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why does measuring a qubit that is in a superposition of states cause it to collapse to a single definite value?",
-            "options": [
-              "This concept has no connection to physics",
-              "Measurement has no effect whatsoever on a qubit’s quantum state",
-              "A qubit always remains in superposition permanently, even after being measured",
-              "The act of measurement forces the quantum system into one of its possible definite outcomes, ending the superposition"
+              "5.3 × 10⁻²⁴ kg·m/s",
+              "1.3 × 10⁻²⁵ kg·m/s",
+              "2.6 × 10⁻²⁵ kg·m/s",
+              "5.3 × 10⁻²⁵ kg·m/s"
             ],
             "answer": 3
           },
           {
-            "q": "Why can a quantum computer with n entangled qubits, in principle, represent and process information in ways that scale much more powerfully than n classical bits?",
+            "q": "Using the momentum uncertainty found for the electron above (Δp ≈ 5.3 × 10⁻²⁵ kg·m/s) and m = 9.11 × 10⁻³¹ kg, what is the minimum uncertainty in its velocity?",
             "options": [
-              "This concept has no relevance to physics",
-              "Superposition and entanglement have no effect on how much information a quantum system can represent",
-              "The system’s state space grows exponentially with the number of qubits due to superposition and entanglement, enabling certain calculations to be parallelized",
-              "A system of n entangled qubits behaves in exactly the same way as n independent classical bits"
+              "1.2 × 10⁶ m/s",
+              "5.8 × 10⁵ m/s",
+              "2.9 × 10⁵ m/s",
+              "5.8 × 10⁴ m/s"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the uncertainty principle significant for electrons but negligible for a thrown baseball?",
+            "options": [
+              "Baseballs have zero momentum uncertainty by definition",
+              "The uncertainty principle only applies to charged particles",
+              "The large mass of the baseball makes its minimum position/momentum uncertainty far too small to ever detect",
+              "Baseballs are not accelerating, so the principle does not apply"
             ],
             "answer": 2
+          },
+          {
+            "q": "An excited atomic state has a lifetime of Δt = 1.0 × 10⁻⁸ s. Using ΔEΔt ≥ h/(4π), what is the minimum uncertainty in the energy of the emitted photon?",
+            "options": [
+              "1.1 × 10⁻²⁷ J",
+              "2.6 × 10⁻²⁷ J",
+              "5.3 × 10⁻²⁷ J",
+              "5.3 × 10⁻²⁶ J"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Heisenberg uncertainty principle says we cannot simultaneously know a particle's exact position and momentum. This limitation exists because...",
+            "options": [
+              "Measurement instruments are not yet precise enough, and will improve with better technology",
+              "It is a fundamental property of nature — position and momentum are complementary variables",
+              "It only applies to particles with a magnetic moment",
+              "It only applies at temperatures near absolute zero"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -25009,58 +25006,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Relativity, Energy, and the Early Quantum Era",
-        "summary": "This review covers Days 91-99, revisiting the Michelson-Morley experiment, the Work-Energy Theorem, the Franck-Hertz experiment, Newton's Second Law on inclined planes, cyclotron motion and mass spectrometry, circular motion and banked curves, pulsars, the Cosmic Microwave Background and the Big Bang, and quantum computing and the qubit.",
-        "resourceLabel": "YouTube: Physics Review: Relativity, Energy, and the Early Quantum Era",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Relativity%2C%20Energy%2C%20and%20the%20Early%20Quantum%20Era%20grade%2012%20physics%20educational",
+        "title": "Physics Review: Forces, Energy, and Quantum Foundations",
+        "summary": "This review covers Days 91-99: the Michelson-Morley experiment and the constancy of the speed of light, the work-energy theorem, Newton's second law applied to connected objects (Atwood machines) and objects on inclined planes, circular motion of a charged particle in a magnetic field and on banked curves, conservation of mechanical energy in pendulums and roller coasters, and the correspondence principle and Heisenberg's uncertainty principle linking quantum and classical physics.",
+        "resourceLabel": "YouTube: Physics Review: Forces, Energy, and Quantum Foundations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Forces%2C%20Energy%2C%20and%20Quantum%20Foundations%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What was the primary purpose of the Michelson-Morley experiment?",
+            "q": "What was the null result of the Michelson-Morley experiment historically significant for confirming?",
             "options": [
-              "To detect the luminiferous aether via interference of light",
-              "To measure the charge of the electron",
-              "To determine the speed of sound in air",
-              "To calculate the mass of the proton"
+              "That the speed of light is constant for all observers, contrary to the ether hypothesis",
+              "The existence of a stationary luminiferous ether",
+              "That light travels faster through a moving medium",
+              "That gravity bends the path of light rays"
             ],
             "answer": 0
           },
           {
-            "q": "According to the Work-Energy Theorem, the net work done on an object equals its:",
+            "q": "In an Atwood machine with two hanging masses connected by a string over a frictionless pulley, what determines the system's acceleration?",
             "options": [
-              "Change in momentum",
-              "Change in kinetic energy",
-              "Change in potential energy alone",
-              "Total mechanical energy"
+              "Only the heavier mass's weight",
+              "The net difference in weight between the two masses divided by the total mass of the system",
+              "The length of the string connecting them",
+              "The radius of the pulley"
             ],
             "answer": 1
           },
           {
-            "q": "What did the Franck-Hertz experiment provide evidence for?",
+            "q": "A charged particle moves in a circular path in a uniform magnetic field because the magnetic force acts as:",
             "options": [
-              "Wave-particle duality of electrons",
-              "The existence of antimatter",
-              "Quantized energy levels in atoms",
-              "The expansion of the universe"
+              "A force parallel to the particle's velocity, increasing its speed",
+              "A force that does positive work on the particle",
+              "A force independent of the particle's speed",
+              "The centripetal force, always perpendicular to the velocity and directed toward the center"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Pulsars are best described as:",
+            "q": "On a frictionless roller coaster, a car has the same total mechanical energy at the top of a loop as at the bottom. Which statement correctly compares the two points?",
             "options": [
-              "Exploding white dwarf stars",
-              "Rapidly rotating neutron stars emitting beams of radiation",
-              "Binary star systems that orbit a black hole",
-              "Young stars still forming from a nebula"
+              "The car has more kinetic energy at the top because it is higher",
+              "The car has more kinetic energy at the bottom, since the loss in potential energy converts to a gain in kinetic energy",
+              "The car's kinetic energy is zero at every point on the loop",
+              "Total mechanical energy is only conserved on straight sections, not loops"
             ],
             "answer": 1
           },
           {
-            "q": "The Cosmic Microwave Background is considered strong evidence for:",
+            "q": "According to the Heisenberg uncertainty principle, what happens to the uncertainty in a particle's momentum as the uncertainty in its position is made smaller?",
             "options": [
-              "The steady-state theory of the universe",
-              "The existence of dark matter halos",
-              "The Big Bang model of the universe's origin",
-              "The presence of wormholes"
+              "It also becomes smaller, since both uncertainties decrease together",
+              "It remains completely unaffected by position uncertainty",
+              "It must become larger, since the product of the two uncertainties has a fixed minimum value",
+              "It becomes exactly zero once position is known precisely enough"
             ],
             "answer": 2
           }
@@ -26231,58 +26228,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Terminal Velocity and the Physics of Drag",
-        "summary": "Grade 12 Physics strand: an object falling through a fluid reaches terminal velocity when the upward drag force, which increases with speed, grows large enough to exactly balance the downward force of gravity, resulting in zero net acceleration.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Projectile Motion Launched at an Angle from an Elevated Height",
+        "summary": "Solve two-dimensional projectile motion problems where the launch point is elevated above the landing point, using quadratic kinematics to find flight time, range, and impact velocity.",
+        "resourceLabel": "YouTube: Projectile Motion Launched at an Angle from an Elevated Height",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Projectile%20Motion%20Launched%20at%20an%20Angle%20from%20an%20Elevated%20Height%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What condition defines an object’s terminal velocity as it falls through a fluid such as air?",
+            "q": "A ball is launched at 20 m/s at 30° above the horizontal from the top of a 25 m cliff. How long does it take to reach the ground (g = 9.8 m/s²)?",
             "options": [
-              "The upward drag force exactly balances the downward force of gravity, giving zero net acceleration",
-              "The object experiences no forces acting on it at all",
-              "The object’s speed continues increasing without any upper limit",
-              "A concept unrelated to physics"
+              "2.0 s",
+              "4.6 s",
+              "1.0 s",
+              "3.5 s"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "As a falling object’s speed increases from rest, what generally happens to the magnitude of the drag force acting on it?",
+            "q": "For the ball in the previous question, what horizontal distance (range) does it travel before landing?",
             "options": [
-              "It increases as the object’s speed increases",
-              "It stays exactly constant regardless of the object’s speed",
-              "It decreases as the object’s speed increases",
-              "A concept unrelated to terminal velocity"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "A skydiver falling with a fully deployed parachute reaches terminal velocity. What is their acceleration at that moment?",
-            "options": [
-              "A concept unrelated to this scenario",
-              "9.8 m/s², the full acceleration due to gravity",
-              "0 m/s², since the net force is zero",
-              "A constantly increasing acceleration with no upper limit"
+              "70.0 m",
+              "34.6 m",
+              "60.6 m",
+              "51.9 m"
             ],
             "answer": 2
           },
           {
-            "q": "Why does a skydiver reach a lower terminal velocity with a parachute open than with it closed?",
+            "q": "For the same launch (20 m/s at 30° from a 25 m cliff), what is the maximum height the ball reaches above the top of the cliff?",
             "options": [
-              "The much larger surface area of the open parachute greatly increases the drag force at any given speed, so balance with gravity occurs at a lower speed",
-              "This concept has no connection to physics",
-              "Opening a parachute has no effect whatsoever on the drag force experienced by a skydiver",
-              "An open parachute always increases a skydiver’s terminal velocity compared to a closed one"
+              "10.2 m",
+              "2.55 m",
+              "20.4 m",
+              "5.1 m"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why does an object dropped from a great enough height eventually stop accelerating, even though gravity continues to act on it the entire time?",
+            "q": "What is the ball's speed the instant it hits the ground?",
             "options": [
-              "An object in free fall through a fluid always continues accelerating indefinitely with no limit",
-              "This concept has no relevance to physics",
-              "As speed increases, drag force increases until it grows large enough to fully cancel the constant force of gravity, producing zero net force",
-              "Gravity’s force on the object weakens continuously as the object falls, eventually reaching zero"
+              "24.3 m/s",
+              "29.8 m/s",
+              "20.0 m/s",
+              "34.3 m/s"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Compared to launching the same projectile from ground level at the same speed and angle, launching from an elevated height increases...",
+            "options": [
+              "Only the initial vertical velocity",
+              "Nothing — height doesn't affect range or time",
+              "Both the total flight time and the horizontal range",
+              "The launch angle needed for maximum range"
             ],
             "answer": 2
           }
@@ -26720,60 +26717,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Radiation Pressure and Solar Sails",
-        "summary": "Grade 12 Physics strand: light carries momentum as well as energy, so when photons strike and reflect off a surface they exert a measurable radiation pressure, a principle engineers exploit in solar sails that use sunlight’s pressure to propel spacecraft without any onboard fuel.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Impulse and Momentum: Reading Force-Time Graphs",
+        "summary": "Interpret force-time graphs to calculate impulse as the area under the curve, and relate impulse to the change in momentum of an object.",
+        "resourceLabel": "YouTube: Impulse and Momentum: Reading Force-Time Graphs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Impulse%20and%20Momentum%3A%20Reading%20Force-Time%20Graphs%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What property of light, in addition to energy, allows it to exert a measurable pressure on a surface it strikes?",
+            "q": "A force-time graph shows a constant force of 50 N applied for 0.20 s. What is the impulse delivered?",
             "options": [
-              "Rest mass",
-              "A concept unrelated to physics",
-              "Electric charge",
-              "Momentum"
+              "250 N·s",
+              "0.1 N·s",
+              "100 N·s",
+              "10 N·s"
             ],
             "answer": 3
           },
           {
-            "q": "How does a solar sail generate thrust to propel a spacecraft?",
+            "q": "An impulse of 10 N·s is applied to a 2.0 kg object initially at rest. What is its final velocity?",
             "options": [
-              "The sail generates thrust entirely through nuclear fission reactions",
-              "Sunlight strikes and reflects off the large sail, transferring momentum to push the spacecraft forward",
-              "The sail burns onboard chemical fuel to produce continuous thrust",
-              "A concept unrelated to solar sails"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Does a perfectly reflective surface generally experience a greater radiation pressure from incoming light than a perfectly absorbing (black) surface of the same area, for the same incoming light?",
-            "options": [
-              "Yes, because reflection reverses the photons’ momentum, transferring roughly twice as much momentum as absorption alone",
-              "No, an absorbing surface always experiences more radiation pressure than a reflective one",
-              "The type of surface has no effect whatsoever on the radiation pressure it experiences",
-              "A concept unrelated to radiation pressure"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is a solar sail typically built with a very large surface area relative to the spacecraft’s mass?",
-            "options": [
-              "A large surface area is used purely for decorative purposes with no effect on thrust",
-              "This concept has no connection to physics",
-              "Because radiation pressure from sunlight is extremely weak, a large area is needed to intercept enough photons to produce a meaningful, if gradual, thrust",
-              "Radiation pressure becomes weaker, not stronger, as the sail’s surface area increases"
+              "10 m/s",
+              "2.5 m/s",
+              "5 m/s",
+              "20 m/s"
             ],
             "answer": 2
           },
           {
-            "q": "Why is a solar sail considered advantageous for certain long-duration space missions compared to a spacecraft relying on traditional chemical propulsion?",
+            "q": "A force-time graph is triangular: the force rises linearly from 0 to 200 N over the first 0.10 s, then falls linearly back to 0 over the next 0.10 s. What is the total impulse delivered?",
             "options": [
-              "This concept has no relevance to physics",
-              "Solar sails accelerate a spacecraft instantly to very high speeds within seconds of deployment",
-              "Solar sails require exactly the same amount of onboard fuel as chemical propulsion systems",
-              "It can continuously accelerate using freely available sunlight without carrying or expending any onboard propellant"
+              "40 N·s",
+              "20 N·s",
+              "10 N·s",
+              "200 N·s"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "On a force-time graph, the impulse delivered to an object equals...",
+            "options": [
+              "The peak force value",
+              "The slope of the F-t graph",
+              "The average force multiplied by total time (the area under the curve)",
+              "The force at t = 0"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A 0.50 kg ball travelling at 8.0 m/s bounces off a wall and rebounds at 6.0 m/s in the opposite direction. If the contact time is 0.02 s, what is the average force exerted by the wall on the ball?",
+            "options": [
+              "100 N",
+              "350 N",
+              "700 N",
+              "50 N"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -26964,60 +26961,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Van Allen Belts and Charged Particle Trapping",
-        "summary": "Grade 12 Physics strand: the Van Allen belts are two doughnut-shaped regions of energetic charged particles trapped by Earth’s magnetic field, where particles spiral along field lines and bounce between magnetic mirror points near the poles.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Electric Field Lines and Equipotential Surfaces",
+        "summary": "Relate electric field lines and equipotential surfaces, calculating field strength from potential difference and the work done moving a charge within a uniform field.",
+        "resourceLabel": "YouTube: Electric Field Lines and Equipotential Surfaces",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electric%20Field%20Lines%20and%20Equipotential%20Surfaces%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What are the Van Allen belts composed of?",
+            "q": "Two parallel plates separated by 0.050 m have a potential difference of 200 V between them. What is the magnitude of the uniform electric field between the plates?",
             "options": [
-              "Energetic charged particles trapped by Earth’s magnetic field",
-              "Clouds of neutral, uncharged gas with no interaction with any field",
-              "Solid rock fragments left over from asteroid impacts",
-              "A concept unrelated to physics"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What shape do the Van Allen belts form around Earth?",
-            "options": [
-              "A concept unrelated to the Van Allen belts",
-              "A perfectly uniform sphere completely surrounding the entire planet",
-              "A single flat disk lying exactly in Earth’s equatorial plane",
-              "Two doughnut-shaped (toroidal) regions"
+              "1.0 × 10⁴ V/m",
+              "8.0 × 10³ V/m",
+              "2.0 × 10³ V/m",
+              "4.0 × 10³ V/m"
             ],
             "answer": 3
           },
           {
-            "q": "What causes charged particles within the Van Allen belts to spiral as they move?",
+            "q": "How much work is done moving a +2.0 μC charge along an equipotential surface at 150 V?",
             "options": [
-              "Charged particles never interact with a magnetic field in any way",
-              "The magnetic force on a moving charged particle is always perpendicular to its velocity, causing it to curve around magnetic field lines",
-              "A concept unrelated to charged particle motion",
-              "The particles are attracted toward Earth by ordinary gravitational force alone, with no magnetic influence"
+              "3.0 × 10⁻⁴ J",
+              "0 J",
+              "1.5 × 10⁻⁴ J",
+              "300 J"
             ],
             "answer": 1
           },
           {
-            "q": "Why do trapped particles in the Van Allen belts bounce back and forth between magnetic mirror points located near Earth’s poles, rather than escaping toward the poles?",
+            "q": "Electric field lines around a point charge are always...",
             "options": [
-              "As a particle spirals into the stronger magnetic field near a pole, the increasing field strength reflects it back along the field line, acting like a magnetic mirror",
-              "The strength of Earth’s magnetic field is exactly the same everywhere, with no variation near the poles",
-              "This concept has no connection to physics",
-              "Particles always escape freely through the poles with no reflection back toward the equator"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why are the Van Allen belts an important consideration for engineers designing satellites and spacecraft that must pass through or operate within them?",
-            "options": [
-              "The Van Allen belts have no effect whatsoever on any satellite or spacecraft passing through them",
-              "Spacecraft electronics are always completely immune to any form of charged particle radiation",
-              "The trapped energetic particles can damage sensitive electronics, so shielding and orbital planning must account for prolonged exposure to this radiation",
-              "This concept has no relevance to physics"
+              "Parallel to each other",
+              "Parallel to the equipotential surfaces",
+              "Perpendicular to the equipotential surfaces (spheres) surrounding the charge",
+              "Randomly oriented"
             ],
             "answer": 2
+          },
+          {
+            "q": "A charge of 3.0 μC moves between two points where the potentials are V₁ = 100 V and V₂ = 40 V. How much work is done moving the charge from the first point to the second?",
+            "options": [
+              "4.2 × 10⁻⁴ J",
+              "1.2 × 10⁻⁴ J",
+              "1.8 × 10⁻⁴ J",
+              "6.0 × 10⁻⁴ J"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a region where electric field lines are drawn closer together, this indicates...",
+            "options": [
+              "A weaker electric field",
+              "A region of constant potential",
+              "The presence of a negative charge only",
+              "A stronger electric field"
+            ],
+            "answer": 3
           }
         ]
       }
@@ -27941,60 +27938,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Foucault Pendulum and Proof of Earths Rotation",
-        "summary": "Grade 12 Physics strand: the Foucault pendulum demonstrated Earths rotation by showing that its swinging plane appears to gradually rotate over time relative to the ground, providing direct physical evidence without needing to observe the stars.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "The Magnetic Field Around a Long Straight Current-Carrying Wire",
+        "summary": "Calculate the magnetic field magnitude and direction around a long straight current-carrying wire using B = μ₀I/(2πr) and the right-hand rule.",
+        "resourceLabel": "YouTube: The Magnetic Field Around a Long Straight Current-Carrying Wire",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Magnetic%20Field%20Around%20a%20Long%20Straight%20Current-Carrying%20Wire%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What did the Foucault pendulum famously demonstrate?",
+            "q": "A long straight wire carries a current of 5.0 A. What is the magnitude of the magnetic field at a point 0.10 m from the wire (μ₀ = 4π × 10⁻⁷ T·m/A)?",
             "options": [
-              "Earths rotation",
-              "The speed of light",
-              "The existence of gravity",
-              "The structure of the atom"
+              "2.0 × 10⁻⁵ T",
+              "5.0 × 10⁻⁶ T",
+              "1.0 × 10⁻⁴ T",
+              "1.0 × 10⁻⁵ T"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "What is observed about the swinging plane of a Foucault pendulum over time?",
+            "q": "If the distance from the wire in the previous question is doubled (to 0.20 m) with the current unchanged, the magnetic field at that new point is...",
             "options": [
-              "It swings faster and faster with no explanation",
-              "It stops swinging entirely after a few minutes",
-              "It appears to gradually rotate relative to the ground",
-              "It remains perfectly fixed with no change at all"
+              "Twice as strong",
+              "One quarter as strong",
+              "Half as strong",
+              "Four times as strong"
             ],
             "answer": 2
           },
           {
-            "q": "Why does the pendulums swinging plane appear to rotate?",
+            "q": "What current would a long straight wire need to carry to produce a magnetic field of 2.0 × 10⁻⁵ T at a distance of 0.050 m?",
             "options": [
-              "The pendulum itself is designed to rotate on its own",
-              "The Earth is rotating beneath the pendulum, which maintains its plane of motion",
-              "The rotation is caused by wind resistance alone",
-              "The rotation is an optical illusion with no physical basis"
+              "2.5 A",
+              "5.0 A",
+              "10.0 A",
+              "20.0 A"
             ],
             "answer": 1
           },
           {
-            "q": "What made the Foucault pendulum significant when first demonstrated?",
+            "q": "A long straight wire carries current vertically upward. Using the right-hand rule, the magnetic field lines around the wire...",
             "options": [
-              "It showed no connection to Earths motion",
-              "It could only be observed from outer space",
-              "It disproved that the Earth rotates at all",
-              "It provided direct physical evidence of Earths rotation without observing the stars"
+              "Point radially outward from the wire",
+              "Form concentric circles around the wire, encircling it perpendicular to its length",
+              "Point radially inward toward the wire",
+              "Are parallel to the wire, pointing upward"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "The rate at which a Foucault pendulums plane appears to rotate depends on ___.",
+            "q": "Two parallel long wires, each carrying 3.0 A in the same direction, are separated by 0.10 m. What is the force per unit length between them?",
             "options": [
-              "The material the pendulum string is made of",
-              "The colour of the pendulum bob",
-              "The time of day only, with no other factor",
-              "The latitude at which the pendulum is located"
+              "9.0 × 10⁻⁶ N/m",
+              "3.6 × 10⁻⁵ N/m",
+              "1.8 × 10⁻⁵ N/m",
+              "1.8 × 10⁻⁴ N/m"
             ],
-            "answer": 3
+            "answer": 2
           }
         ]
       }
@@ -28431,60 +28428,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Hall Effect",
-        "summary": "Grade 12 Physics strand: the Hall effect occurs when a magnetic field applied perpendicular to a current-carrying conductor produces a measurable voltage across the conductor, useful for determining charge carrier type and concentration.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Electric Potential Energy Between Charged Parallel Plates",
+        "summary": "Calculate the work, kinetic energy gain, and electric field for a charged particle accelerated between charged parallel plates.",
+        "resourceLabel": "YouTube: Electric Potential Energy Between Charged Parallel Plates",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electric%20Potential%20Energy%20Between%20Charged%20Parallel%20Plates%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What causes the Hall effect?",
+            "q": "A proton (q = 1.6 × 10⁻¹⁹ C) is accelerated from rest through a potential difference of 500 V between parallel plates. What is the change in the proton's kinetic energy?",
             "options": [
-              "A magnetic field applied perpendicular to a current-carrying conductor",
-              "Sound waves passing through a solid",
-              "Heat applied to a conductor with no magnetic field",
-              "Light shining directly on a conductor"
+              "1.6 × 10⁻¹⁷ J",
+              "5.0 × 10⁻¹⁷ J",
+              "3.2 × 10⁻¹⁶ J",
+              "8.0 × 10⁻¹⁷ J"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "What is produced across the conductor in the Hall effect?",
+            "q": "Using the kinetic energy found above (8.0 × 10⁻¹⁷ J) and a proton mass of 1.67 × 10⁻²⁷ kg, what is the proton's final speed?",
             "options": [
-              "A measurable voltage, called the Hall voltage",
-              "A measurable change in temperature only",
-              "A measurable change in mass",
-              "A measurable change in colour"
+              "9.6 × 10⁵ m/s",
+              "6.2 × 10⁵ m/s",
+              "3.1 × 10⁵ m/s",
+              "1.5 × 10⁵ m/s"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What can the Hall effect help scientists determine about a material?",
+            "q": "Parallel plates separated by 0.020 m have a potential difference of 400 V. What is the electric field strength between them?",
             "options": [
-              "The type and concentration of charge carriers",
-              "The taste of the material",
-              "The material weight in a vacuum",
-              "The exact age of the material"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "In what direction is the magnetic field applied relative to the current in the Hall effect?",
-            "options": [
-              "The direction has no effect on the outcome",
-              "Perpendicular to the current",
-              "Parallel to the current",
-              "In the exact opposite direction of the current"
+              "8.0 × 10³ N/C",
+              "2.0 × 10⁴ N/C",
+              "4.0 × 10⁴ N/C",
+              "2.0 × 10³ N/C"
             ],
             "answer": 1
           },
           {
-            "q": "The Hall effect has practical applications in devices such as ___.",
+            "q": "What is the magnitude of the electric force on an electron (q = 1.6 × 10⁻¹⁹ C) placed between the plates in the previous question?",
             "options": [
-              "Only devices with no electrical components",
-              "Only devices that measure sound",
-              "Only devices that measure taste",
-              "Sensors that measure magnetic fields"
+              "1.6 × 10⁻¹⁵ N",
+              "6.4 × 10⁻¹⁵ N",
+              "8.0 × 10⁻¹⁶ N",
+              "3.2 × 10⁻¹⁵ N"
             ],
             "answer": 3
+          },
+          {
+            "q": "As a positive charge moves from the positive plate to the negative plate (in the direction of E), its electric potential energy...",
+            "options": [
+              "Increases, because it moves against the field",
+              "Stays constant, since PE depends only on charge",
+              "Decreases, because the electric force does positive work on it in the direction of motion",
+              "Increases because it gains kinetic energy"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -28675,60 +28672,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Coriolis Effect",
-        "summary": "Grade 12 Physics strand: the Coriolis effect is an apparent deflection of moving objects observed in a rotating reference frame, such as Earth, causing winds and ocean currents to curve rather than travel in perfectly straight paths.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Electric Field from Multiple Point Charges: Superposition",
+        "summary": "Apply the principle of superposition to calculate the net electric field at a point due to multiple point charges, combining field vectors from each source.",
+        "resourceLabel": "YouTube: Electric Field from Multiple Point Charges: Superposition",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electric%20Field%20from%20Multiple%20Point%20Charges%3A%20Superposition%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What is the Coriolis effect?",
+            "q": "A point charge of +4.0 μC sits at the origin. What is the magnitude of the electric field at a point 0.30 m away (k = 8.99 × 10⁹ N·m²/C²)?",
             "options": [
-              "An apparent deflection of moving objects in a rotating reference frame",
-              "A type of magnetic field around Earth",
-              "A change in an objects mass due to motion",
-              "A force that only exists in outer space"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What causes the Coriolis effect on Earth?",
-            "options": [
-              "Ocean temperature changes only",
-              "Earths gravitational pull alone",
-              "Earths rotation",
-              "Solar radiation striking the Earths surface"
+              "1.2 × 10⁵ N/C",
+              "8.0 × 10⁵ N/C",
+              "4.0 × 10⁵ N/C",
+              "1.3 × 10⁶ N/C"
             ],
             "answer": 2
           },
           {
-            "q": "How does the Coriolis effect influence wind and ocean currents?",
+            "q": "Charges of +4.0 μC and −4.0 μC are placed 0.60 m apart. What is the magnitude of the electric field at the midpoint between them?",
             "options": [
-              "It has no influence on wind or ocean currents at all",
-              "It only affects currents in a single, fixed direction everywhere",
-              "It causes them to curve rather than travel in perfectly straight paths",
-              "It causes them to instantly stop moving"
+              "0 N/C",
+              "4.0 × 10⁵ N/C",
+              "1.6 × 10⁶ N/C",
+              "8.0 × 10⁵ N/C"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Now suppose both charges are +4.0 μC (same sign), still 0.60 m apart. What is the electric field at the midpoint?",
+            "options": [
+              "8.0 × 10⁵ N/C",
+              "4.0 × 10⁵ N/C",
+              "0 N/C",
+              "1.6 × 10⁶ N/C"
             ],
             "answer": 2
           },
           {
-            "q": "In which hemisphere does the Coriolis effect typically deflect moving objects to the right of their motion?",
+            "q": "At point P, charge A produces a field of 3.0 × 10⁵ N/C in the +x direction, and charge B produces a field of 4.0 × 10⁵ N/C in the perpendicular +y direction. What is the magnitude of the net electric field at P?",
             "options": [
-              "The Northern Hemisphere",
-              "Only at the equator, with no deflection elsewhere",
-              "Neither hemisphere experiences any deflection",
-              "The Southern Hemisphere"
+              "7.0 × 10⁵ N/C",
+              "1.0 × 10⁶ N/C",
+              "3.5 × 10⁵ N/C",
+              "5.0 × 10⁵ N/C"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "The Coriolis effect is an example of a ___ force, observed only within a rotating frame of reference.",
+            "q": "When calculating the net electric field due to multiple point charges at a location, the principle of superposition requires that you...",
             "options": [
-              "Purely nuclear",
-              "Fictitious (or apparent)",
-              "Purely gravitational",
-              "Purely magnetic"
+              "Add the magnitudes of each field arithmetically, regardless of direction",
+              "Average the magnitudes of all contributing fields",
+              "Add the fields as vectors, accounting for both magnitude and direction",
+              "Use only the nearest charge, since distant charges contribute negligibly"
             ],
-            "answer": 1
+            "answer": 2
           }
         ]
       }
@@ -28919,63 +28916,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Brownian Motion and Einsteins Explanation",
-        "summary": "Grade 12 Physics strand: Brownian motion is the random, erratic movement of small particles suspended in a fluid, and Einsteins 1905 explanation showed that this motion results from countless collisions with fast-moving molecules, providing strong evidence for the existence of atoms.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "The Motor Effect: Force on a Current-Carrying Wire in a Magnetic Field",
+        "summary": "Calculate the force on a current-carrying wire in a magnetic field (the motor effect) using F = BIL sinθ, and determine the force's direction with the right-hand rule.",
+        "resourceLabel": "YouTube: The Motor Effect: Force on a Current-Carrying Wire in a Magnetic Field",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Motor%20Effect%3A%20Force%20on%20a%20Current-Carrying%20Wire%20in%20a%20Magnetic%20Field%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What is Brownian motion?",
+            "q": "A 0.50 m wire carries a current of 4.0 A perpendicular to a magnetic field of 0.20 T. What is the magnitude of the force on the wire?",
             "options": [
-              "The random, erratic movement of small particles suspended in a fluid",
-              "A type of motion found only in solids",
-              "A steady, predictable motion in a straight line",
-              "A motion that occurs only in a vacuum"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What did Einstein propose as the cause of Brownian motion in 1905?",
-            "options": [
-              "Sound waves pushing the particles around",
-              "A hidden magnetic field acting on the particles",
-              "Gravity alone, with no molecular involvement",
-              "Countless collisions with fast-moving molecules in the fluid"
+              "0.10 N",
+              "1.6 N",
+              "0.80 N",
+              "0.40 N"
             ],
             "answer": 3
           },
           {
-            "q": "Why was Einsteins explanation of Brownian motion scientifically significant?",
+            "q": "The same wire and current from the previous question now makes a 30° angle with the magnetic field (instead of perpendicular). What is the force on the wire now?",
             "options": [
-              "It had no connection to atomic theory",
-              "It showed that fluids contain no moving particles at all",
-              "It provided strong evidence for the existence of atoms and molecules",
-              "It disproved the existence of atoms entirely"
+              "0.40 N",
+              "0.35 N",
+              "0.20 N",
+              "0.10 N"
             ],
             "answer": 2
           },
           {
-            "q": "What type of particles is Brownian motion typically observed in?",
+            "q": "A wire carries current to the right (+x direction) through a magnetic field pointing out of the page (+z direction). Using F = IL × B, in which direction is the force on the wire?",
             "options": [
-              "Small particles suspended in a liquid or gas",
-              "Only extremely large, heavy objects",
-              "Only particles found in outer space",
-              "Only particles frozen in solid ice"
+              "Upward",
+              "Into the page",
+              "Downward",
+              "Out of the page"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What current is needed to produce a force of 0.60 N on a 0.25 m wire segment in a 0.80 T field, with the wire perpendicular to the field?",
+            "options": [
+              "3.0 A",
+              "1.5 A",
+              "6.0 A",
+              "0.75 A"
             ],
             "answer": 0
           },
           {
-            "q": "Brownian motion helped confirm which broader scientific theory?",
+            "q": "Two parallel wires carry current in opposite directions. The magnetic force between them is...",
             "options": [
-              "The kinetic theory of matter",
-              "The theory of continental drift",
-              "The theory of electromagnetism",
-              "The theory of general relativity"
+              "Repulsive",
+              "Attractive",
+              "Zero, since magnetic forces only act on moving charges, not currents",
+              "Dependent only on the wires' resistance"
             ],
             "answer": 0
           }
-        ],
-        "topic": "Forces & Motion"
+        ]
       }
     ]
   },
@@ -29164,63 +29160,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Faraday Effect — Magneto-Optic Rotation",
-        "summary": "Grade 12 Physics strand: the Faraday effect occurs when a strong magnetic field applied to certain materials causes the plane of polarization of light passing through them to rotate, revealing a direct interaction between magnetism and light.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Magnetic Flux and Faraday's Law of Electromagnetic Induction",
+        "summary": "Calculate magnetic flux through a loop and apply Faraday's and Lenz's laws to find induced EMF and the direction of the induced current.",
+        "resourceLabel": "YouTube: Magnetic Flux and Faraday's Law of Electromagnetic Induction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Magnetic%20Flux%20and%20Faraday%27s%20Law%20of%20Electromagnetic%20Induction%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does the Faraday effect describe?",
+            "q": "A coil with area 0.020 m² sits in a 0.50 T magnetic field, with the field perpendicular to the coil's plane. What is the magnetic flux through the coil?",
             "options": [
-              "The bending of light due to gravity alone",
-              "The rotation of the plane of polarization of light in a magnetic field",
-              "The reflection of light off a flat mirror",
-              "The complete absorption of all light by a material"
+              "0.025 Wb",
+              "0.0050 Wb",
+              "0.10 Wb",
+              "0.010 Wb"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "What is required to observe the Faraday effect in a material?",
+            "q": "The same coil (area 0.020 m², field 0.50 T) is tilted so the field makes a 60° angle with the normal to the coil's plane. What is the flux now?",
             "options": [
-              "A strong magnetic field applied to the material",
-              "Only a vacuum with no material present",
-              "Only extremely high temperatures",
-              "Only complete darkness with no light present"
+              "0.0087 Wb",
+              "0.010 Wb",
+              "0.0050 Wb",
+              "0.0025 Wb"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What does the Faraday effect reveal about the relationship between light and magnetism?",
+            "q": "A single loop of wire has its magnetic flux decrease from 0.020 Wb to 0.0050 Wb in 0.10 s. What is the magnitude of the induced EMF?",
             "options": [
-              "That light and magnetism never interact under any circumstances",
-              "A direct interaction between magnetic fields and the polarization of light",
-              "That magnetism has no effect on light whatsoever",
-              "That light always travels in a perfectly straight, unaffected path near magnets"
+              "1.5 V",
+              "0.015 V",
+              "0.075 V",
+              "0.15 V"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "The Faraday effect is distinct from the earlier-studied Faraday cage because it involves ___.",
+            "q": "A coil of 200 turns experiences the same flux change as above (0.015 Wb over 0.10 s). What is the induced EMF?",
             "options": [
-              "Gravity instead of magnetism",
-              "The interaction of light with a magnetic field, rather than blocking electric fields",
-              "Sound waves instead of light or electric fields",
-              "The exact same phenomenon with a different name only"
+              "0.15 V",
+              "3.0 V",
+              "30 V",
+              "15 V"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Why might scientists use the Faraday effect in modern technology?",
+            "q": "A bar magnet is pushed into a coil, north pole first. By Lenz's law, the induced current in the coil flows in a direction that...",
             "options": [
-              "The Faraday effect has no practical application in technology",
-              "It can only be observed in outer space",
-              "To build optical devices that control or measure light using magnetic fields",
-              "It is used exclusively to generate electricity from sunlight"
+              "Creates a magnetic field that reinforces the approaching magnet's field, attracting it further",
+              "Is always clockwise regardless of the magnet's motion",
+              "Creates a magnetic field that opposes the increasing flux, effectively repelling the incoming magnet",
+              "Has no defined direction until the magnet stops moving"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Electricity & Magnetism"
+        ]
       }
     ]
   },
@@ -29410,63 +29405,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Peltier Effect and Thermoelectric Cooling",
-        "summary": "Grade 12 Physics strand: the Peltier effect occurs when an electric current flowing across a junction of two different materials causes heat to be absorbed on one side and released on the other, enabling thermoelectric cooling devices with no moving parts.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Charge Distribution and Grounding on Conductors",
+        "summary": "Explores how excess charge distributes itself on a conductor's surface at electrostatic equilibrium, why charge density is highest at sharp points, and what happens when a charged conductor is grounded.",
+        "resourceLabel": "YouTube: Charge Distribution and Grounding on Conductors",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Charge%20Distribution%20and%20Grounding%20on%20Conductors%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What happens during the Peltier effect?",
+            "q": "A charged conductor of irregular shape reaches electrostatic equilibrium. Where does the excess charge reside, and where is the surface charge density greatest?",
             "options": [
-              "Heat is generated equally on both sides of a junction with no difference",
-              "An electric current across a junction causes heat to be absorbed on one side and released on the other",
-              "A magnetic field is created with no thermal effect",
-              "Light is emitted from the junction with no heat transfer"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is required to produce the Peltier effect?",
-            "options": [
-              "An electric current flowing across a junction of two different materials",
-              "Only sunlight, with no electrical current needed",
-              "Only extremely low pressure, with no current involved",
-              "Only a strong magnetic field, with no current required"
+              "The excess charge spreads over the entire outer surface, with the highest density at the sharpest points of the conductor",
+              "The excess charge concentrates uniformly at the geometric centre of the conductor",
+              "The excess charge spreads only over the flattest regions, avoiding sharp points",
+              "The excess charge distributes evenly per unit area over the whole surface regardless of shape"
             ],
             "answer": 0
           },
           {
-            "q": "What practical application relies on the Peltier effect?",
+            "q": "A charged conductor is connected to the ground by a wire until equilibrium is reached. What happens to its net charge and potential?",
             "options": [
-              "Devices that produce visible light only",
-              "Devices that generate sound only",
-              "Devices that measure gravitational force",
-              "Thermoelectric cooling devices"
+              "The conductor keeps its original charge but its potential drops to zero",
+              "Charge flows through the wire until the conductor's excess charge is neutralized and its potential matches the ground (0 V)",
+              "The conductor becomes charged with the opposite sign of its original charge",
+              "Nothing changes, since an isolated conductor is already in equilibrium"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A hollow conducting spherical shell carries an excess charge of +6.0 μC and has radius 0.15 m. What is the magnitude of the electric field within the conducting material of the shell itself?",
+            "options": [
+              "2.4 × 10⁶ N/C",
+              "1.2 × 10⁶ N/C",
+              "0 N/C",
+              "4.8 × 10⁶ N/C"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Compared to a flat region of the same charged conductor's surface, the electric field just outside a sharp point is:",
+            "options": [
+              "Equal in strength, since the whole conductor is at the same potential",
+              "Weaker, because sharp points hold less charge",
+              "Zero, because charge cannot accumulate on a point",
+              "Much stronger, because charge density (and therefore field strength) is greatest where curvature is highest"
             ],
             "answer": 3
           },
           {
-            "q": "What advantage do thermoelectric coolers based on the Peltier effect have over traditional refrigeration methods?",
+            "q": "A point charge of +3.0 μC is placed inside a cavity carved into an initially neutral, isolated conducting sphere (without touching the cavity walls). What charge appears on the sphere's outer surface?",
             "options": [
-              "They can only function in outer space",
-              "They can operate with no moving parts",
-              "They cannot be powered by electricity",
-              "They always require large amounts of moving mechanical parts"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The Peltier effect is closely related to which broader field of physics?",
-            "options": [
-              "Only optics, the study of light",
-              "Thermoelectricity, the interaction between temperature and electricity",
-              "Only nuclear physics, the study of atomic nuclei",
-              "Only acoustics, the study of sound"
+              "0 μC",
+              "+3.0 μC",
+              "−3.0 μC",
+              "+6.0 μC"
             ],
             "answer": 1
           }
-        ],
-        "topic": "Electricity & Magnetism"
+        ]
       }
     ]
   },
@@ -29654,58 +29648,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Kinetic Theory of Gases",
-        "summary": "Grade 12 Physics strand: the kinetic theory of gases explains the macroscopic properties of gases, such as pressure and temperature, as arising from the constant, random motion and collisions of countless individual gas particles.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Gravitational Potential Energy: Near a Planet's Surface vs. Far Away",
+        "summary": "Compares the simplified U = mgh approximation used near a planet's surface with the general U = −GMm/r formula, and applies both to escape velocity and orbital energy problems.",
+        "resourceLabel": "YouTube: Gravitational Potential Energy: Near a Planet's Surface vs. Far Away",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Gravitational%20Potential%20Energy%3A%20Near%20a%20Planet%27s%20Surface%20vs.%20Far%20Away%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does the kinetic theory of gases explain?",
+            "q": "A 1000 kg satellite orbits at a distance of 7.0 × 10⁶ m from Earth's centre (M = 5.98 × 10²⁴ kg, G = 6.67 × 10⁻¹¹ N·m²/kg²). What is its gravitational potential energy relative to infinity?",
             "options": [
-              "Only the colour of a gas at room temperature",
-              "Only the exact number of particles in a container",
-              "Only the taste of a gas",
-              "Macroscopic gas properties as arising from the motion of individual particles"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "According to kinetic theory, what are gas particles constantly doing?",
-            "options": [
-              "Only moving in a single straight line with no collisions",
-              "Only vibrating in place with no translational motion",
-              "Remaining perfectly still with no motion at all",
-              "Moving randomly and colliding with each other and their container"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How does kinetic theory explain gas pressure?",
-            "options": [
-              "As the result of particles colliding with the walls of their container",
-              "Pressure is caused only by the colour of the gas",
-              "Pressure exists only in solids, never in gases",
-              "Pressure has no connection to particle motion at all"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How does kinetic theory relate particle motion to temperature?",
-            "options": [
-              "Temperature depends only on the colour of the container",
-              "Temperature has no relationship to particle motion whatsoever",
-              "Higher temperature generally corresponds to greater average particle kinetic energy",
-              "Higher temperature always means particles move more slowly"
+              "+5.7 × 10¹⁰ J",
+              "−8.1 × 10¹⁰ J",
+              "−5.7 × 10¹⁰ J",
+              "+6.9 × 10¹⁰ J"
             ],
             "answer": 2
           },
           {
-            "q": "The kinetic theory of gases provides a microscopic explanation for which macroscopic gas laws?",
+            "q": "Near Earth's surface, the simplified formula ΔU = mgΔh is a good approximation of the general gravitational potential energy formula because:",
             "options": [
-              "Only laws related to light and optics",
-              "Only laws related to solids, never gases",
-              "Only laws related to magnetism",
-              "Laws like Boyles Law and Charless Law"
+              "g decreases so rapidly with height that only surface values matter",
+              "g varies negligibly over small changes in height close to the surface, so it can be treated as constant",
+              "the general formula U = −GMm/r only applies to planets, not satellites",
+              "mgh already accounts for the −1/r dependence exactly at all heights"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the escape velocity from Earth's surface, given M = 5.98 × 10²⁴ kg and R = 6.37 × 10⁶ m?",
+            "options": [
+              "7.9 km/s",
+              "11.2 km/s",
+              "5.6 km/s",
+              "15.8 km/s"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which statement correctly describes the general gravitational potential energy U = −GMm/r?",
+            "options": [
+              "U is negative at all finite separations and approaches zero as r approaches infinity",
+              "U is zero at Earth's surface and negative beyond it",
+              "U is independent of the separation distance r",
+              "U is positive and decreases as r increases"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How much work must be done against gravity to raise a 500 kg rocket from Earth's surface (r₁ = 6.37 × 10⁶ m) to an altitude where r₂ = 8.37 × 10⁶ m, ignoring kinetic energy changes?",
+            "options": [
+              "3.75 × 10⁹ J",
+              "1.50 × 10¹⁰ J",
+              "9.98 × 10⁸ J",
+              "7.5 × 10⁹ J"
             ],
             "answer": 3
           }
@@ -29897,60 +29891,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Historic Experiments and Classical Effects",
-        "summary": "Grade 12 Physics strand review: students revisit the Davisson-Germer experiment, the Foucault pendulum, the Cavendish experiment, the Hall effect, the Coriolis effect, Brownian motion, the Faraday effect, the Peltier effect, and the kinetic theory of gases.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Physics Review: Historic Experiments and Electromagnetic Fields",
+        "summary": "This review covers Days 111-119: the Davisson-Germer experiment confirming the wave nature of matter, the Cavendish experiment measuring the gravitational constant, the magnetic field around a current-carrying wire and the motor effect, electric potential energy and field superposition for point charges, Faraday's law of electromagnetic induction, charge distribution on conductors, and gravitational potential energy near and far from a planet's surface.",
+        "resourceLabel": "YouTube: Physics Review: Historic Experiments and Electromagnetic Fields",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Historic%20Experiments%20and%20Electromagnetic%20Fields%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What did the Davisson-Germer experiment demonstrate?",
+            "q": "What did the Davisson-Germer experiment provide direct evidence for?",
             "options": [
-              "That electrons produce diffraction patterns, showing wave-like behaviour",
-              "That light behaves only as a particle with no wave nature",
-              "That protons are the only particles with wave properties",
-              "That electrons have no measurable properties at all"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What did the Foucault pendulum famously demonstrate?",
-            "options": [
-              "The structure of the atom",
-              "Earths rotation",
-              "The existence of gravity",
-              "The speed of light"
+              "The particle nature of light",
+              "The wave nature of electrons, since they produced diffraction patterns when scattered off a crystal",
+              "The existence of a fixed ether medium",
+              "The quantization of electric charge"
             ],
             "answer": 1
           },
           {
-            "q": "What important physical constant did the Cavendish experiment help determine?",
+            "q": "The magnetic field magnitude at a distance r from a long straight current-carrying wire is given by B = μ₀I/(2πr). If the distance from the wire is doubled, what happens to the field strength?",
             "options": [
+              "It doubles",
+              "It is halved",
+              "It is quartered",
+              "It stays the same"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What key physical quantity did the Cavendish experiment allow scientists to measure for the first time?",
+            "options": [
+              "The speed of light",
               "The gravitational constant, G",
-              "The charge of an electron",
-              "The mass of a proton",
-              "The speed of light"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What did Einstein propose as the cause of Brownian motion in 1905?",
-            "options": [
-              "Sound waves pushing the particles around",
-              "Countless collisions with fast-moving molecules in the fluid",
-              "Gravity alone, with no molecular involvement",
-              "A hidden magnetic field acting on the particles"
+              "The charge of the electron",
+              "The mass of the Earth directly, without using G"
             ],
             "answer": 1
           },
           {
-            "q": "According to kinetic theory, what are gas particles constantly doing?",
+            "q": "According to Faraday's law, an EMF is induced in a loop whenever:",
             "options": [
-              "Remaining perfectly still with no motion at all",
-              "Only moving in a single straight line with no collisions",
-              "Only vibrating in place with no translational motion",
-              "Moving randomly and colliding with each other and their container"
+              "A constant magnetic field passes through the loop",
+              "The magnetic flux through the loop changes over time",
+              "The loop is stationary in a magnetic field of any strength",
+              "Current already flows through the loop"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "Why does the formula U = mgh become inaccurate for very large heights above a planet's surface?",
+            "options": [
+              "Because gravitational acceleration g is not actually constant and decreases with distance from the planet, unlike the simplified near-surface approximation assumes",
+              "Because mass changes significantly at high altitude",
+              "Because the formula only works for negative heights",
+              "Because gravitational potential energy is undefined above a planet's atmosphere"
+            ],
+            "answer": 0
           }
         ]
       }
@@ -30141,63 +30135,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Pauli Exclusion Principle and the Structure of Matter",
-        "summary": "Grade 12 Physics strand: the Pauli exclusion principle states that no two identical fermions, such as electrons within a single atom, can occupy the same quantum state simultaneously, a rule that underlies the shell structure of atoms and the stability of ordinary matter.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Pair Production and Annihilation: Converting Energy into Matter",
+        "summary": "Examines how a photon's energy can convert into an electron-positron pair (and the reverse process of annihilation), applying E = mc² and conservation of energy and momentum.",
+        "resourceLabel": "YouTube: Pair Production and Annihilation: Converting Energy into Matter",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Pair%20Production%20and%20Annihilation%3A%20Converting%20Energy%20into%20Matter%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does the Pauli exclusion principle state?",
+            "q": "What is the minimum energy a single photon must have to produce an electron-positron pair (each with rest energy 0.511 MeV)?",
             "options": [
-              "Only protons are affected by exclusion rules",
-              "All particles must occupy exactly the same quantum state",
-              "Exclusion rules apply only to photons",
-              "No two identical fermions can occupy the same quantum state simultaneously"
+              "0.511 MeV",
+              "1.022 MeV",
+              "2.044 MeV",
+              "0.256 MeV"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Which category of particles does the Pauli exclusion principle apply to?",
+            "q": "Pair production from a single photon cannot occur in completely empty space; it requires the presence of a nearby nucleus. Why?",
             "options": [
-              "Only particles found outside of atoms",
-              "Only particles with no charge",
-              "Only massless particles such as photons",
-              "Fermions, such as electrons"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What atomic feature does the Pauli exclusion principle help explain?",
-            "options": [
-              "The colour of an atoms nucleus",
-              "The total mass of a proton",
-              "The shell structure of electrons within an atom",
-              "The existence of magnetic fields in empty space"
+              "The nucleus supplies the rest-mass energy needed to form the pair",
+              "The photon must first slow down, which only happens near matter",
+              "A third body is needed to absorb recoil momentum so that both energy and momentum are conserved",
+              "Charge would otherwise not be conserved in the interaction"
             ],
             "answer": 2
           },
           {
-            "q": "Why is the Pauli exclusion principle important for the stability of ordinary matter?",
+            "q": "When an electron and positron at rest annihilate, two photons are produced, each carrying 0.511 MeV. What is the wavelength of each photon?",
             "options": [
-              "It applies only to stars, never to ordinary atoms",
-              "It has no effect on the structure of atoms",
-              "It prevents electrons from collapsing into the same lowest-energy state, giving atoms their structure and volume",
-              "It causes all matter to instantly collapse into a single point"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The Pauli exclusion principle is closely connected to which broader physical property of electrons?",
-            "options": [
-              "Their colour, which varies from atom to atom",
-              "Their exact position at every instant, known with total certainty",
-              "Their temperature, which determines exclusion",
-              "Spin, a quantum property that helps define their quantum state"
+              "1.22 × 10⁻¹² m",
+              "4.86 × 10⁻¹² m",
+              "2.43 × 10⁻¹⁰ m",
+              "2.43 × 10⁻¹² m"
             ],
             "answer": 3
+          },
+          {
+            "q": "A 1.50 MeV photon undergoes pair production near a nucleus. What happens to the 0.478 MeV of energy beyond the 1.022 MeV threshold?",
+            "options": [
+              "It is emitted as a second, lower-energy photon",
+              "It appears as the combined kinetic energy of the electron and positron",
+              "It becomes additional rest mass added to the electron and positron",
+              "It is absorbed entirely by the nucleus as heat"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A proton and an antiproton (each of mass 1.67 × 10⁻²⁷ kg) annihilate completely. What total energy is released?",
+            "options": [
+              "3.01 × 10⁻¹⁰ J",
+              "1.50 × 10⁻¹⁰ J",
+              "6.02 × 10⁻¹⁰ J",
+              "3.34 × 10⁻¹¹ J"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Matter & Materials"
+        ]
       }
     ]
   },
@@ -30875,63 +30868,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Nuclear Magnetic Resonance and Spin Precession",
-        "summary": "Grade 12 Physics strand: nuclear magnetic resonance occurs when certain atomic nuclei placed in a strong magnetic field absorb and re-emit radio-frequency energy as their spin precesses around the field direction, a phenomenon that underlies medical magnetic resonance imaging.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "The Magnetic Field Inside a Current-Carrying Solenoid",
+        "summary": "Derives and applies B = μ₀nI for the magnetic field inside a long solenoid, including how turns per unit length, current, and core material affect field strength.",
+        "resourceLabel": "YouTube: The Magnetic Field Inside a Current-Carrying Solenoid",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Magnetic%20Field%20Inside%20a%20Current-Carrying%20Solenoid%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What is required to produce nuclear magnetic resonance in a sample?",
+            "q": "A solenoid has 500 turns over a length of 0.25 m and carries a current of 2.0 A. What is the magnetic field magnitude inside it (μ₀ = 4π × 10⁻⁷ T·m/A)?",
             "options": [
-              "A strong external magnetic field applied to nuclei with a suitable spin",
-              "Only visible light, with no magnetic field required",
-              "A complete absence of any external field",
-              "Only extremely high pressure, with no magnetic field involved"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does the term precession describe in this context?",
-            "options": [
-              "The wobbling motion of a nuclear spin around the direction of an applied magnetic field",
-              "A change in the electric charge of a nucleus",
-              "A nucleus moving in a perfectly straight line with no rotation",
-              "A nucleus that remains entirely motionless"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What type of energy do nuclei absorb and re-emit during nuclear magnetic resonance?",
-            "options": [
-              "Radio-frequency electromagnetic energy",
-              "Purely mechanical sound energy",
-              "Only thermal energy with no electromagnetic component",
-              "Gamma-ray energy exclusively"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What widely used medical technology relies on the principles of nuclear magnetic resonance?",
-            "options": [
-              "Positron emission tomography using only gamma detection",
-              "Magnetic resonance imaging (MRI)",
-              "X-ray radiography",
-              "Ultrasound imaging"
+              "2.5 × 10⁻³ T",
+              "5.0 × 10⁻³ T",
+              "1.0 × 10⁻² T",
+              "5.0 × 10⁻⁵ T"
             ],
             "answer": 1
           },
           {
-            "q": "Why is nuclear magnetic resonance sensitive to the chemical environment surrounding a nucleus?",
+            "q": "If the number of turns per unit length of a solenoid is doubled while the current is kept the same, the magnetic field inside:",
             "options": [
-              "Resonance only depends on the colour of the sample",
-              "The chemical environment has no effect on nuclear spin behaviour",
-              "Only the total mass of the sample affects the resonance signal",
-              "Nearby electrons and atoms slightly shift the effective magnetic field experienced by the nucleus"
+              "Quadruples",
+              "Stays the same",
+              "Doubles",
+              "Is halved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For an ideal, tightly wound solenoid that is very long compared to its diameter, the magnetic field just outside the solenoid, far from its ends, is approximately:",
+            "options": [
+              "Equal to the field inside the solenoid",
+              "Zero",
+              "Given by μ₀I/(2πr), as for a long straight wire",
+              "Twice the field inside the solenoid"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A solenoid has 1200 turns per metre. What current is required to produce an internal magnetic field of 8.0 × 10⁻³ T?",
+            "options": [
+              "5.3 A",
+              "10.6 A",
+              "2.65 A",
+              "0.53 A"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following does NOT affect the strength of the magnetic field inside an ideal solenoid?",
+            "options": [
+              "The current through the windings",
+              "The number of turns per unit length",
+              "The permeability of the core material",
+              "The radius (cross-sectional diameter) of the solenoid"
             ],
             "answer": 3
           }
-        ],
-        "topic": "Electricity & Magnetism"
+        ]
       }
     ]
   },
@@ -31120,63 +31112,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Piezoelectricity — Mechanical Stress and Electric Polarization",
-        "summary": "Grade 12 Physics strand: piezoelectricity is the property of certain crystals, such as quartz, to generate an electric voltage when subjected to mechanical stress, and conversely to deform slightly when an electric field is applied across them.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Transformers: Step-Up and Step-Down Voltage Conversion",
+        "summary": "Covers how transformers use mutual induction to change AC voltage and current via the turns ratio, and why real transformers lose some energy to core and resistive effects.",
+        "resourceLabel": "YouTube: Transformers: Step-Up and Step-Down Voltage Conversion",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Transformers%3A%20Step-Up%20and%20Step-Down%20Voltage%20Conversion%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does a piezoelectric material generate when subjected to mechanical stress?",
+            "q": "A transformer has 100 turns on its primary coil and 500 turns on its secondary coil. If the primary voltage is 120 V, what is the secondary voltage (ideal transformer)?",
             "options": [
-              "An electric voltage",
-              "A sudden increase in temperature only",
-              "A permanent change in chemical composition",
-              "A visible colour change"
+              "24 V",
+              "120 V",
+              "300 V",
+              "600 V"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "For the transformer in the previous question, if the primary current is 2.0 A, what is the secondary current (assume no energy losses)?",
+            "options": [
+              "0.4 A",
+              "10 A",
+              "2.0 A",
+              "0.04 A"
             ],
             "answer": 0
           },
           {
-            "q": "Which common crystal is well known for exhibiting piezoelectric behaviour?",
+            "q": "Transformers require alternating current (AC) rather than direct current (DC) to operate because:",
             "options": [
-              "Pure water ice",
-              "Table salt",
-              "Quartz",
-              "Ordinary window glass"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What happens to a piezoelectric material when an electric field is applied across it?",
-            "options": [
-              "It instantly melts",
-              "It loses all electrical properties permanently",
-              "It deforms slightly",
-              "It becomes perfectly transparent"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "In which everyday device might piezoelectric materials commonly be used to generate a spark or signal?",
-            "options": [
-              "Electric lighters and certain microphones",
-              "Ordinary glass windows",
-              "Simple mechanical pendulum clocks",
-              "Household light bulbs, using only filament heating"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is the relationship in piezoelectricity described as reversible between mechanical and electrical effects?",
-            "options": [
-              "There is no relationship between mechanical and electrical effects in these materials",
-              "Mechanical stress produces voltage, and an applied voltage produces mechanical deformation, in both directions",
-              "Piezoelectric materials only respond to mechanical stress and never to electric fields",
-              "Piezoelectric materials only respond to electric fields and never to mechanical stress"
+              "DC would permanently damage the copper windings",
+              "A continuously changing current is needed to produce the changing magnetic flux that induces an EMF in the secondary coil",
+              "AC is cheaper to generate at power plants",
+              "The iron core can only be magnetized in one direction, which AC allows"
             ],
             "answer": 1
+          },
+          {
+            "q": "A step-down transformer converts 7200 V to 240 V. If the primary coil has 3000 turns, how many turns does the secondary coil have?",
+            "options": [
+              "90 000 turns",
+              "300 turns",
+              "100 turns",
+              "3.3 turns"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Besides resistive (I²R) heating in the windings, real transformers lose energy mainly through:",
+            "options": [
+              "Capacitive coupling between the primary and secondary coils",
+              "Radiation of visible light from the core",
+              "Static charge build-up on the transformer casing",
+              "Hysteresis and eddy current losses in the iron core"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Electricity & Magnetism"
+        ]
       }
     ]
   },
@@ -31364,63 +31355,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Physics of Rainbows — Primary and Secondary Bows",
-        "summary": "Grade 12 Physics strand: a rainbow forms when sunlight is refracted, internally reflected, and dispersed within countless raindrops, with the bright primary bow arising from a single internal reflection and the fainter, colour-reversed secondary bow arising from an additional internal reflection within each drop.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Refraction and Snell's Law: Bending Light Between Media",
+        "summary": "Applies Snell's law to calculate refraction angles, critical angles, and total internal reflection as light crosses boundaries between media of different refractive index.",
+        "resourceLabel": "YouTube: Refraction and Snell's Law: Bending Light Between Media",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Refraction%20and%20Snell%27s%20Law%3A%20Bending%20Light%20Between%20Media%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What three optical processes combine to produce a rainbow within a raindrop?",
+            "q": "Light travels from air (n = 1.00) into glass (n = 1.50) striking the surface at an angle of incidence of 40°. What is the angle of refraction?",
             "options": [
-              "Refraction, internal reflection, and dispersion of sunlight",
-              "Only diffraction, with no other optical process",
-              "Only absorption, with no reflection or refraction involved",
-              "Only polarization, with no colour separation"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How many internal reflections occur within a raindrop to produce the primary rainbow?",
-            "options": [
-              "Two",
-              "Zero",
-              "Three",
-              "One"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How does the secondary rainbow differ from the primary rainbow?",
-            "options": [
-              "It involves no reflection within the raindrop at all",
-              "It has an identical colour order to the primary rainbow",
-              "It arises from an additional internal reflection and appears fainter with reversed colour order",
-              "It is always brighter than the primary rainbow"
+              "40.0°",
+              "74.6°",
+              "25.4°",
+              "33.8°"
             ],
             "answer": 2
           },
           {
-            "q": "What causes the separation of sunlight into distinct colours within a raindrop?",
+            "q": "What is the critical angle for total internal reflection at a glass (n = 1.52) to air boundary?",
             "options": [
-              "Dispersion, since different wavelengths of light refract by slightly different amounts",
-              "All wavelengths of light always refract by exactly the same amount",
-              "Only red light is refracted, with no other colours involved",
-              "Dispersion has no role in forming a rainbow"
+              "48.9°",
+              "24.5°",
+              "90.0°",
+              "41.1°"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When light travels from a less optically dense medium into a denser medium, it bends toward the normal. This is because, upon entering the denser medium, the light's:",
+            "options": [
+              "Speed decreases while its frequency stays the same",
+              "Frequency decreases, which shortens its wavelength",
+              "Energy increases, pushing it toward the normal",
+              "Wavelength increases while its speed stays the same"
             ],
             "answer": 0
           },
           {
-            "q": "Why must an observer generally face away from the sun to see a rainbow?",
+            "q": "A ray of light travelling in water (n = 1.33) strikes the water-air surface at 50° from the normal. What happens?",
             "options": [
-              "Sunlight must be refracted and reflected back toward the observer from within raindrops in front of them",
-              "Rainbows can be seen equally well in any direction relative to the sun",
-              "Sunlight has no role in forming a rainbow",
-              "Rainbows only form when facing directly toward the sun"
+              "It refracts into the air at about 74° from the normal",
+              "It passes straight through undeviated",
+              "Total internal reflection occurs, since 50° exceeds the critical angle of about 48.8°",
+              "It refracts into the air at about 38° from the normal"
             ],
-            "answer": 0
+            "answer": 2
+          },
+          {
+            "q": "A light ray travelling in medium A (n_A = 1.20) strikes the boundary with medium B at 30° from the normal and refracts at 25° from the normal. What is the refractive index of medium B?",
+            "options": [
+              "1.02",
+              "1.42",
+              "0.85",
+              "1.20"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Weather, Sky & Space (Basic)"
+        ]
       }
     ]
   },
@@ -31610,63 +31600,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Sonic Booms and the Physics of Shock Waves",
-        "summary": "Grade 12 Physics strand: a sonic boom is the sharp, thunder-like sound produced when an object travels faster than the speed of sound, generating a cone-shaped shock wave in which compressed sound waves pile up along the objects direction of travel.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "The Doppler Effect for Light: Redshift and Blueshift",
+        "summary": "Uses the Doppler shift relation Δλ/λ = v/c to calculate recession or approach velocities of light sources, and connects redshift to the expansion of the universe.",
+        "resourceLabel": "YouTube: The Doppler Effect for Light: Redshift and Blueshift",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Doppler%20Effect%20for%20Light%3A%20Redshift%20and%20Blueshift%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What causes a sonic boom?",
+            "q": "A galaxy's hydrogen line, normally at 656.3 nm in the lab, is observed at 662.0 nm. What is the galaxy's recession velocity?",
             "options": [
-              "An object travelling slower than the speed of sound",
-              "An object travelling faster than the speed of sound in the surrounding medium",
-              "A sudden, unrelated change in air temperature alone",
-              "An object that produces no sound whatsoever"
+              "1.3 × 10⁶ m/s",
+              "5.2 × 10⁶ m/s",
+              "2.6 × 10⁶ m/s",
+              "2.6 × 10⁸ m/s"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "What shape does the shock wave produced by a supersonic object typically take?",
+            "q": "A star's spectral lines are observed shifted toward shorter (bluer) wavelengths compared to their lab values. This indicates the star is:",
             "options": [
-              "A cone shape trailing behind the object",
-              "A shape unrelated to the objects motion",
-              "A spherical shape centred on the observer",
-              "A perfectly flat, planar wavefront with no shape"
+              "Moving away from Earth",
+              "Cooling down",
+              "Moving toward Earth",
+              "Increasing in mass"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A light source moving away from an observer at 3.0 × 10⁷ m/s emits light of wavelength 500 nm at the source. What wavelength does the observer measure (non-relativistic approximation)?",
+            "options": [
+              "550 nm",
+              "500 nm",
+              "450 nm",
+              "600 nm"
             ],
             "answer": 0
           },
           {
-            "q": "Why do sound waves pile up ahead of an object travelling faster than sound?",
+            "q": "The observed cosmological redshift of distant galaxies (their light systematically shifted to longer wavelengths) is the primary evidence for:",
             "options": [
-              "Sound waves always spread out evenly regardless of an objects speed",
-              "The object outruns the sound waves it produces, so they compress together rather than spreading ahead of it",
-              "The object slows down all nearby sound waves to a stop",
-              "Sound waves cannot be produced by a moving object at all"
+              "Galaxies cooling and emitting less energetic light over time",
+              "The expansion of the universe",
+              "A universe of constant size with randomly moving galaxies",
+              "Gravitational lensing bending galaxy light"
             ],
             "answer": 1
           },
           {
-            "q": "What term describes the ratio of an objects speed to the speed of sound?",
+            "q": "Using Hubble's law (v = H₀d) with H₀ = 70 km/s/Mpc, find the fractional wavelength shift Δλ/λ expected for a galaxy at a distance of 50 Mpc (assume v ≪ c).",
             "options": [
-              "The wavelength ratio",
-              "The Mach number",
-              "The refractive index",
-              "The Reynolds number"
+              "0.117",
+              "3500",
+              "0.00117",
+              "0.0117"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why might a sonic boom be heard as a sudden, sharp sound rather than a gradual buildup?",
-            "options": [
-              "Shock waves always arrive extremely gradually over many minutes",
-              "A sonic boom is identical to an ordinary quiet sound with no sudden change",
-              "The shock wave passes a stationary observer nearly all at once as a compressed pressure front",
-              "Sonic booms only occur when an object is completely silent"
-            ],
-            "answer": 2
+            "answer": 3
           }
-        ],
-        "topic": "Light & Sound"
+        ]
       }
     ]
   },
@@ -32099,60 +32088,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Barometric Formula and Atmospheric Pressure with Altitude",
-        "summary": "Grade 12 Physics strand: the barometric formula describes how atmospheric pressure decreases approximately exponentially with increasing altitude, reflecting the decreasing weight of air above a given point as altitude increases.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Standing Waves and Resonance",
+        "summary": "Calculates harmonic wavelengths and frequencies for strings fixed at both ends and for open and closed pipes, and explores how wave speed and length affect resonant frequencies.",
+        "resourceLabel": "YouTube: Standing Waves and Resonance",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Standing%20Waves%20and%20Resonance%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "According to the barometric formula, how does atmospheric pressure generally change with increasing altitude?",
+            "q": "A string of length 1.2 m, fixed at both ends, vibrates in its 3rd harmonic. What is the wavelength of the standing wave?",
             "options": [
-              "It increases approximately exponentially",
-              "It changes randomly with no consistent pattern",
-              "It remains exactly constant at every altitude",
-              "It decreases approximately exponentially"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why does atmospheric pressure decrease as altitude increases?",
-            "options": [
-              "Altitude has no effect on the weight of air above a point",
-              "Pressure is unrelated to the weight of the atmosphere",
-              "There is more air pressing down at higher altitude",
-              "There is less air, and therefore less weight of air, above a given point at higher altitude"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What type of mathematical function best approximates the decrease of pressure with altitude in the barometric formula?",
-            "options": [
-              "An exponential decay function",
-              "A quadratic function with a maximum value",
-              "A constant function with no variation",
-              "A simple linear function"
+              "0.8 m",
+              "1.6 m",
+              "0.4 m",
+              "2.4 m"
             ],
             "answer": 0
           },
           {
-            "q": "Why might the barometric formula be relevant to pilots and mountaineers?",
+            "q": "The string in the previous question has a wave speed of 40 m/s. What is its fundamental (1st harmonic) frequency?",
             "options": [
-              "It describes only the colour of the sky at different altitudes",
-              "It has no relevance to altitude-related physiology or aviation",
-              "It helps predict the change in air pressure, and therefore oxygen availability, at different altitudes",
-              "It only applies to underwater pressure, never atmospheric pressure"
+              "33.3 Hz",
+              "8.3 Hz",
+              "16.7 Hz",
+              "50.0 Hz"
             ],
             "answer": 2
           },
           {
-            "q": "The barometric formula is derived using principles from which broader area of physics?",
+            "q": "A pipe closed at one end has a length of 0.85 m, and the speed of sound in air is 343 m/s. What is its fundamental frequency?",
             "options": [
-              "Nuclear physics and radioactive decay",
-              "Optics and the study of light",
-              "Electromagnetism and circuit theory",
-              "Thermodynamics and the physics of gases"
+              "201 Hz",
+              "50.4 Hz",
+              "404 Hz",
+              "101 Hz"
             ],
             "answer": 3
+          },
+          {
+            "q": "Compared to a pipe open at both ends, a pipe closed at one end supports:",
+            "options": [
+              "Only even harmonics (2nd, 4th, 6th, ...)",
+              "Only odd harmonics (1st, 3rd, 5th, ...)",
+              "The same set of harmonics as an open pipe",
+              "Only its fundamental frequency, with no overtones"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A guitar string resonates at 440 Hz in its fundamental mode. If the tension is increased so that the wave speed on the string doubles (length unchanged), what is the new fundamental frequency?",
+            "options": [
+              "440 Hz",
+              "220 Hz",
+              "880 Hz",
+              "1760 Hz"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -32343,60 +32332,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Quantum Rules, Nuclear Energy, and Everyday Phenomena",
-        "summary": "This review covers Days 121-129, revisiting the Pauli Exclusion Principle, Coulomb's Law, nuclear fission, fusion, and mass-energy equivalence, Nuclear Magnetic Resonance, piezoelectricity, the physics of rainbows, sonic booms, the Photoelectric Effect, and the Barometric Formula.",
-        "resourceLabel": "YouTube: Physics Review: Quantum Rules, Nuclear Energy, and Everyday Phenomena",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Quantum%20Rules%2C%20Nuclear%20Energy%2C%20and%20Everyday%20Phenomena%20grade%2012%20physics%20educational",
+        "title": "Physics Review: Matter-Energy Conversion, Circuits, and Optics",
+        "summary": "This review covers Days 121-129: pair production and annihilation converting energy into matter, Coulomb's law for point charges, nuclear fission and fusion with mass-energy equivalence, the magnetic field inside a solenoid, transformers and mutual induction, refraction and Snell's law, the Doppler effect for light, the photoelectric effect and Einstein's explanation, and standing waves and resonance.",
+        "resourceLabel": "YouTube: Physics Review: Matter-Energy Conversion, Circuits, and Optics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Matter-Energy%20Conversion%2C%20Circuits%2C%20and%20Optics%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "The Pauli Exclusion Principle states that:",
+            "q": "In pair production, a photon converts into an electron-positron pair. What must be true about the photon's energy for this to occur?",
             "options": [
-              "Electrons always move at the speed of light",
-              "No two electrons in an atom can have the same set of quantum numbers",
-              "Protons and neutrons repel each other in the nucleus",
-              "Energy can never be created or destroyed"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Coulomb's Law describes the force between:",
-            "options": [
-              "Two moving charges due to magnetism",
-              "Two masses due to gravity",
-              "Two stationary electric charges",
-              "Two magnetic poles only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Piezoelectricity refers to the phenomenon where certain materials:",
-            "options": [
-              "Generate an electric charge when mechanically stressed",
-              "Become superconducting at room temperature",
-              "Emit light when heated",
-              "Absorb all incoming radiation"
+              "It must be at least equal to the combined rest-mass energy of the electron and positron (2m_ec²)",
+              "It must be an exact multiple of Planck's constant",
+              "It must have zero momentum",
+              "It must be in the radio wave portion of the spectrum"
             ],
             "answer": 0
           },
           {
-            "q": "A sonic boom occurs when an object:",
+            "q": "If the distance between two point charges is tripled, how does the electric force between them change (Coulomb's law)?",
             "options": [
-              "Reaches the speed of light",
-              "Travels faster than the speed of sound in the medium",
-              "Vibrates at its natural resonant frequency",
-              "Emits a Doppler-shifted sound wave"
+              "It becomes one-third as strong",
+              "It becomes one-ninth as strong",
+              "It triples",
+              "It becomes nine times as strong"
             ],
             "answer": 1
           },
           {
-            "q": "The Photoelectric Effect demonstrated that light:",
+            "q": "An ideal step-up transformer increases voltage from the primary to secondary coil. What happens to the current in the secondary coil compared to the primary?",
             "options": [
-              "Travels only as a continuous wave",
-              "Can eject electrons from a metal only above a threshold frequency",
-              "Has no measurable momentum",
-              "Always accelerates through a vacuum"
+              "It increases by the same factor as the voltage",
+              "It stays exactly the same",
+              "It becomes zero",
+              "It decreases, since power is conserved and voltage has increased"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A distant galaxy's light is redshifted. What does this indicate about the galaxy's motion relative to Earth?",
+            "options": [
+              "The galaxy is moving toward Earth",
+              "The galaxy is moving away from Earth",
+              "The galaxy is stationary relative to Earth",
+              "The galaxy's motion cannot be determined from redshift alone"
             ],
             "answer": 1
+          },
+          {
+            "q": "In the photoelectric effect, increasing the intensity of light (at a fixed frequency above the threshold) increases:",
+            "options": [
+              "The maximum kinetic energy of each emitted electron",
+              "The work function of the metal",
+              "The number of electrons emitted per second, not their maximum kinetic energy",
+              "The threshold frequency required for emission"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -32587,60 +32576,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Stimulated Emission and the Physics of the Laser",
-        "summary": "Grade 12 Physics strand: a laser produces intense, coherent light through stimulated emission, in which a photon triggers an excited atom to emit a second photon of identical frequency, phase, and direction, amplified within a population inversion sustained by an external energy source.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Diffraction Gratings: Resolving Closely Spaced Wavelengths",
+        "summary": "Applies the grating equation d sinθ = mλ and the resolving power formula R = mN to determine diffraction angles and a grating's ability to separate close wavelengths.",
+        "resourceLabel": "YouTube: Diffraction Gratings: Resolving Closely Spaced Wavelengths",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Diffraction%20Gratings%3A%20Resolving%20Closely%20Spaced%20Wavelengths%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What process underlies the operation of a laser?",
+            "q": "A diffraction grating has 5000 lines per centimetre. What is the spacing d between adjacent lines?",
             "options": [
-              "Spontaneous emission with no external trigger of any kind",
-              "Radioactive decay of atomic nuclei",
-              "Stimulated emission, in which a photon triggers an excited atom to emit an identical second photon",
-              "The complete absorption of all light with no emission"
+              "2.0 × 10⁻⁶ m",
+              "5.0 × 10⁻⁴ m",
+              "2.0 × 10⁻⁵ m",
+              "5.0 × 10⁻³ m"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "In stimulated emission, how does the emitted photon compare to the photon that triggered it?",
+            "q": "Using the grating from the previous question (d = 2.0 × 10⁻⁶ m), at what angle does the first-order (m = 1) maximum occur for light of wavelength 600 nm?",
             "options": [
-              "It always has a completely different frequency",
-              "It has no relationship to the triggering photon whatsoever",
-              "It travels in a random, unrelated direction",
-              "It matches it in frequency, phase, and direction"
+              "36.9°",
+              "1.7°",
+              "30.0°",
+              "17.5°"
             ],
             "answer": 3
           },
           {
-            "q": "What condition, in which more atoms occupy an excited state than a lower energy state, is required for laser operation?",
+            "q": "A diffraction grating illuminates N = 4000 lines and is used in second order (m = 2). What is its resolving power R?",
             "options": [
-              "Thermal equilibrium",
-              "Population inversion",
-              "Perfect vacuum with no atoms present",
-              "Complete atomic ionization"
+              "4000",
+              "8000",
+              "2000",
+              "16 000"
             ],
             "answer": 1
           },
           {
-            "q": "What is required to sustain a population inversion in a laser?",
+            "q": "Increasing the number of illuminated lines N on a grating, while keeping the diffraction order m fixed, has what effect on resolving power?",
             "options": [
-              "A source that only cools the system to absolute zero",
-              "Removing all energy from the system entirely",
-              "An external energy source that continually excites atoms to a higher energy state",
-              "No energy input of any kind"
+              "It increases R proportionally, since more slits produce sharper, narrower principal maxima",
+              "It decreases R, since more lines cause more overlap between orders",
+              "It has no effect, since R depends only on the order m",
+              "It increases R only by increasing the diffraction angle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A grating with slit spacing d = 1.8 × 10⁻⁶ m produces a third-order (m = 3) maximum at 35.0° for light of unknown wavelength. What is that wavelength?",
+            "options": [
+              "1032 nm",
+              "172 nm",
+              "344 nm",
+              "516 nm"
             ],
             "answer": 2
-          },
-          {
-            "q": "What key property of laser light distinguishes it from ordinary light sources such as an incandescent bulb?",
-            "options": [
-              "Laser light always has a lower energy than ordinary light",
-              "Its coherence, with photons in phase and travelling in a well-defined direction",
-              "Laser light is never visible to the human eye",
-              "Laser light has no defined frequency at all"
-            ],
-            "answer": 1
           }
         ]
       }
@@ -32831,60 +32820,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Rayleigh Scattering and the Colour of the Sky",
-        "summary": "Grade 12 Physics strand: Rayleigh scattering describes how electromagnetic radiation is scattered by particles much smaller than its wavelength, with shorter, blue wavelengths of sunlight scattered far more strongly than longer, red wavelengths, explaining why the daytime sky appears blue.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Dispersion of Light Through a Prism",
+        "summary": "Explains why refractive index depends on wavelength, calculates how different colours refract by different amounts in a prism, and applies the minimum deviation formula.",
+        "resourceLabel": "YouTube: Dispersion of Light Through a Prism",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Dispersion%20of%20Light%20Through%20a%20Prism%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does Rayleigh scattering describe?",
+            "q": "In a glass prism, which colour of visible light is refracted (bent) the most, and why?",
             "options": [
-              "The complete absorption of all wavelengths of light equally",
-              "The refraction of light through a lens",
-              "The scattering of electromagnetic radiation by particles much smaller than its wavelength",
-              "The scattering of sound waves in a solid material"
+              "Violet, because glass has a higher refractive index for shorter-wavelength light",
+              "Red, because it carries more energy",
+              "Violet, because it travels faster than red inside the glass",
+              "Red, because glass absorbs it the least"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Which wavelengths of sunlight are scattered most strongly according to Rayleigh scattering?",
+            "q": "A prism has n = 1.513 for red light and n = 1.532 for violet light. If red light enters the prism at 45.0° from the normal (sin45° = 0.7071), what is the difference between the refraction angles of red and violet light?",
             "options": [
-              "Longer, red wavelengths",
-              "Shorter, blue wavelengths",
-              "Only wavelengths outside the visible spectrum",
-              "All wavelengths are scattered by exactly the same amount"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why does the daytime sky typically appear blue rather than red?",
-            "options": [
-              "The atmosphere absorbs all colours except blue completely",
-              "The sky has no relationship to scattered sunlight",
-              "Blue light is scattered across the sky far more strongly than red light by tiny atmospheric particles",
-              "Red light is always more abundant in sunlight than blue light"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How does the strength of Rayleigh scattering typically depend on wavelength?",
-            "options": [
-              "It is completely independent of wavelength",
-              "It only occurs for wavelengths longer than red light",
-              "It increases as wavelength increases",
-              "It increases sharply as wavelength decreases"
+              "3.7°",
+              "1.9°",
+              "0.037°",
+              "0.37°"
             ],
             "answer": 3
           },
           {
-            "q": "How does Rayleigh scattering help explain the reddish colour of a sunset?",
+            "q": "A rectangular glass block (with parallel faces) shows dispersion (different n for different wavelengths) just as a prism does, yet white light passing through it does not emerge as a visible spectrum. Why not?",
             "options": [
-              "Red light is scattered more strongly than blue light at sunset",
-              "Sunlight passing through more atmosphere at low angles has much of its blue light scattered away, leaving more red and orange light",
-              "Blue light is scattered away only at midday, never at sunset",
-              "Sunsets have no connection to the scattering of sunlight"
+              "The block has no dispersion because its refractive index is the same for all colours",
+              "Light does not slow down inside a rectangular block",
+              "The refraction at the parallel exit face reverses the spreading from the entry face, so the colours recombine into white light on emergence",
+              "The block absorbs every colour except white"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A prism with apex angle A = 60° has refractive index n = 1.50 for a certain colour. Using n = sin[(A + D_min)/2] / sin(A/2) at minimum deviation, what is the minimum deviation angle D_min?",
+            "options": [
+              "22.8°",
+              "37.2°",
+              "60.0°",
+              "74.4°"
             ],
             "answer": 1
+          },
+          {
+            "q": "In a rainbow, red appears on the outer arc and violet on the inner arc as seen from the ground. This is best explained because, inside each water droplet:",
+            "options": [
+              "Red light reflects internally twice while violet reflects only once",
+              "Violet light is absorbed more strongly by water, making it appear fainter and closer in",
+              "Violet light bends more than red, so it emerges at a smaller angle relative to the incoming sunlight, placing it on the inner arc",
+              "Red light travels faster through water, carrying it farther outward"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -33075,60 +33064,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Wiens Displacement Law and the Colour of Stars",
-        "summary": "Grade 12 Physics strand: Wiens displacement law states that the wavelength at which a blackbody radiates most intensely is inversely proportional to its temperature, meaning hotter objects, including stars, peak at shorter wavelengths and therefore appear bluer, while cooler objects appear redder.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Converging and Diverging Lenses: The Lens Equation",
+        "summary": "Uses the thin lens equation 1/f = 1/dₒ + 1/dᵢ and the magnification formula to determine image location, orientation, and size for converging and diverging lenses.",
+        "resourceLabel": "YouTube: Converging and Diverging Lenses: The Lens Equation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Converging%20and%20Diverging%20Lenses%3A%20The%20Lens%20Equation%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does Wiens displacement law relate?",
+            "q": "A converging lens has f = 15 cm. An object is placed 20 cm in front of it. Find the image distance and describe the image.",
             "options": [
-              "The colour of an object to its chemical composition only",
-              "The wavelength of peak blackbody radiation to the objects temperature",
-              "The volume of a gas to its pressure alone",
-              "The mass of an object to its electric charge"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "According to Wiens law, how does the peak wavelength of radiation change as an objects temperature increases?",
-            "options": [
-              "It remains completely unchanged regardless of temperature",
-              "It shifts to shorter wavelengths",
-              "It shifts to longer wavelengths",
-              "It becomes undefined at high temperature"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why do hotter stars typically appear bluer than cooler stars?",
-            "options": [
-              "Their blackbody radiation peaks at shorter, bluer wavelengths",
-              "Blue stars are always cooler than red stars",
-              "Hotter stars emit no visible light at all",
-              "Colour has no relationship to a stars temperature"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How does Wiens displacement law build on the earlier study of blackbody radiation and Plancks law in this course?",
-            "options": [
-              "It identifies where the peak of the blackbody spectrum described by Plancks law occurs at a given temperature",
-              "It has no relationship to blackbody radiation or Plancks law",
-              "It contradicts the predictions of Plancks law",
-              "It applies only to objects with no temperature at all"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is Wiens displacement law useful to astronomers studying distant stars?",
-            "options": [
-              "It can only be applied to objects within the solar system",
-              "It has no practical use in astronomy",
-              "It determines a stars mass directly with no other data needed",
-              "It allows a stars surface temperature to be estimated from the colour, or peak wavelength, of its light"
+              "d_i = −60 cm; virtual, upright, magnified",
+              "d_i = 12 cm; real, reduced",
+              "d_i = 8.6 cm; virtual, reduced",
+              "d_i = 60 cm; real, inverted, magnified (m = −3)"
             ],
             "answer": 3
+          },
+          {
+            "q": "An object is placed 10 cm from a converging lens with f = 15 cm (inside the focal length). Find the image distance and type.",
+            "options": [
+              "d_i = −30 cm; virtual, upright, magnified (m = +3)",
+              "d_i = +30 cm; real, inverted, magnified",
+              "d_i = −6 cm; virtual, upright, reduced",
+              "d_i = +6 cm; real, upright, reduced"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A diverging lens has f = −20 cm. An object is placed 30 cm in front of it. What is the image distance?",
+            "options": [
+              "+12 cm",
+              "−50 cm",
+              "−12 cm",
+              "−7.5 cm"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For a diverging lens, a real object always produces an image that is:",
+            "options": [
+              "Real, inverted, and magnified",
+              "Virtual, upright, and reduced, on the same side of the lens as the object",
+              "Real, upright, and magnified",
+              "Virtual, inverted, and reduced"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An object 4.0 cm tall is placed 25 cm from a converging lens with f = 10 cm. What is the height of the image?",
+            "options": [
+              "+2.67 cm",
+              "−6.0 cm",
+              "−2.67 cm",
+              "−1.5 cm"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -33319,63 +33308,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Seebeck Effect and Thermoelectric Power Generation",
-        "summary": "Grade 12 Physics strand: the Seebeck effect occurs when a temperature difference across a junction of two dissimilar conductors generates a small electric voltage, a principle used in thermocouples for temperature measurement and in thermoelectric generators that convert heat directly into electricity.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "The Mirror Equation: Concave and Convex Mirrors",
+        "summary": "Applies the mirror equation 1/f = 1/dₒ + 1/dᵢ to concave and convex mirrors to find image distance, orientation, and magnification for different object positions.",
+        "resourceLabel": "YouTube: The Mirror Equation: Concave and Convex Mirrors",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Mirror%20Equation%3A%20Concave%20and%20Convex%20Mirrors%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does the Seebeck effect describe?",
+            "q": "A concave mirror has a radius of curvature of 40 cm. What is its focal length?",
             "options": [
-              "A temperature difference across a junction of two dissimilar conductors generating an electric voltage",
-              "An electric current generating a magnetic field",
-              "A voltage generating mechanical deformation in a crystal",
-              "A mechanical stress generating an electric voltage"
+              "20 cm",
+              "10 cm",
+              "80 cm",
+              "40 cm"
             ],
             "answer": 0
           },
           {
-            "q": "What everyday device relies on the Seebeck effect to measure temperature?",
+            "q": "An object is placed 30 cm in front of a concave mirror with f = 20 cm. Find the image distance and describe the image.",
             "options": [
-              "A simple mercury thermometer",
-              "A piezoelectric microphone",
-              "A thermocouple",
-              "A barometer"
+              "d_i = 12 cm; real, upright, reduced",
+              "d_i = −60 cm; virtual, upright, magnified",
+              "d_i = 60 cm; real, inverted, magnified (m = −2)",
+              "d_i = 15 cm; real, inverted, reduced"
             ],
             "answer": 2
           },
           {
-            "q": "What technology uses the Seebeck effect to convert heat directly into electricity?",
+            "q": "An object is placed 10 cm in front of a concave mirror with f = 20 cm (inside the focal length). Find the image distance and type.",
             "options": [
-              "A photovoltaic solar panel",
-              "A hydroelectric turbine",
-              "A nuclear fission reactor core",
-              "A thermoelectric generator"
+              "d_i = −20 cm; virtual, upright, magnified (m = +2)",
+              "d_i = +20 cm; real, inverted, magnified",
+              "d_i = −6.7 cm; virtual, upright, reduced",
+              "d_i = +6.7 cm; real, upright, reduced"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A convex mirror, for any real object placed in front of it, always produces an image that is:",
+            "options": [
+              "Real, inverted, and magnified",
+              "Virtual, upright, and reduced, located behind the mirror",
+              "Virtual, inverted, and reduced",
+              "Real, upright, and reduced"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A convex mirror has focal length f = −15 cm. An object is placed 25 cm in front of it. What is the image distance?",
+            "options": [
+              "−15 cm",
+              "+9.4 cm",
+              "−37.5 cm",
+              "−9.4 cm"
             ],
             "answer": 3
-          },
-          {
-            "q": "How does the Seebeck effect differ from the Peltier effect studied earlier in this course?",
-            "options": [
-              "The Seebeck effect converts a temperature difference into voltage, while the Peltier effect uses current to produce a temperature difference",
-              "The Peltier effect only occurs in insulators, never conductors",
-              "The Seebeck effect has no relationship to temperature at all",
-              "The two effects are identical in every respect"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why must the two conductors forming a Seebeck junction be dissimilar materials?",
-            "options": [
-              "The voltage arises from a difference in how strongly each material responds to a temperature gradient",
-              "Identical materials always produce a larger Seebeck voltage",
-              "The materials used have no effect on the resulting voltage",
-              "Dissimilar materials prevent any voltage from forming"
-            ],
-            "answer": 0
           }
-        ],
-        "topic": "Electricity & Magnetism"
+        ]
       }
     ]
   },
@@ -33564,60 +33552,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Joule-Thomson Effect and Real Gas Cooling",
-        "summary": "Grade 12 Physics strand: the Joule-Thomson effect describes the change in temperature of a real gas as it expands through a valve or porous plug without exchanging heat with its surroundings, a cooling effect exploited in refrigeration and in the liquefaction of gases such as nitrogen and oxygen.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Two-Source Interference: Path Difference and Fringe Spacing",
+        "summary": "Uses path difference and the fringe spacing formula Δy = λL/d to analyze bright and dark fringe locations in double-slit interference patterns.",
+        "resourceLabel": "YouTube: Two-Source Interference: Path Difference and Fringe Spacing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Two-Source%20Interference%3A%20Path%20Difference%20and%20Fringe%20Spacing%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does the Joule-Thomson effect describe?",
+            "q": "Two slits separated by d = 0.20 mm are illuminated by light of wavelength 600 nm, with a screen L = 2.0 m away. What is the fringe spacing on the screen?",
             "options": [
-              "The pressure change of a liquid at constant temperature",
-              "The temperature change of a real gas as it expands through a valve without exchanging heat with its surroundings",
-              "The colour change of a gas as it is compressed",
-              "The temperature change of an ideal gas under constant volume"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "For most gases near room temperature, what typically happens to temperature during a Joule-Thomson expansion?",
-            "options": [
-              "The gas always heats up substantially",
-              "The gas temperature never changes under any condition",
-              "The gas instantly becomes a solid",
-              "The gas cools"
+              "3.0 mm",
+              "12.0 mm",
+              "0.6 mm",
+              "6.0 mm"
             ],
             "answer": 3
           },
           {
-            "q": "In what practical technology is the cooling from the Joule-Thomson effect directly exploited?",
+            "q": "In the setup above, what is the path difference at the location of the 3rd bright fringe from the centre?",
             "options": [
-              "The magnetization of a ferromagnetic material",
-              "Refrigeration and the liquefaction of gases such as nitrogen and oxygen",
-              "The generation of electric current in a battery",
-              "The transmission of radio waves"
+              "6.0 × 10⁻⁷ m",
+              "9.0 × 10⁻⁷ m",
+              "1.8 × 10⁻⁶ m",
+              "3.6 × 10⁻⁶ m"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For destructive interference (a dark fringe) in a two-source interference pattern, the path difference between the two waves must equal:",
+            "options": [
+              "mλ, for m = 0, 1, 2, ...",
+              "(m + 1/2)λ, for m = 0, 1, 2, ...",
+              "2mλ, for m = 0, 1, 2, ...",
+              "mλ/2, for any integer m"
             ],
             "answer": 1
           },
           {
-            "q": "Why does the Joule-Thomson effect not occur for an ideal gas?",
+            "q": "Two coherent, in-phase sources are separated by d = 0.50 mm and emit light of wavelength 500 nm onto a screen L = 1.5 m away. At what distance from the central maximum does the first dark fringe occur?",
             "options": [
-              "Ideal gases cannot expand under any circumstances",
-              "An ideal gas has no intermolecular forces, which are responsible for the temperature change in a real gas",
-              "Ideal gases always experience a much larger Joule-Thomson effect than real gases",
-              "The Joule-Thomson effect has nothing to do with intermolecular forces"
+              "0.75 mm",
+              "1.5 mm",
+              "0.375 mm",
+              "3.0 mm"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "How does the Joule-Thomson effect relate to the earlier study of thermodynamics and gas laws in this course?",
+            "q": "If the separation d between two interference sources is decreased while λ and L are kept constant, the fringe spacing:",
             "options": [
-              "It contradicts the first law of thermodynamics",
-              "It only applies to solids, never gases",
-              "It has no relationship to thermodynamics or gas laws",
-              "It extends ideal gas reasoning to real gases, where intermolecular interactions produce measurable deviations"
+              "Decreases",
+              "Increases",
+              "Stays the same",
+              "Increases only if λ also increases"
             ],
-            "answer": 3
+            "answer": 1
           }
         ]
       }
@@ -34053,63 +34041,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Chladni Patterns and Standing Waves in Two Dimensions",
-        "summary": "Grade 12 Physics strand: Chladni patterns form when a flat plate is vibrated at a resonant frequency and fine particles, such as sand, collect along the nodal lines where the plate does not move, visually revealing the two-dimensional standing wave patterns of the plates vibration.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Generators and Motors: Converting Between Mechanical and Electrical Energy",
+        "summary": "This lesson examines how a coil of wire rotating in a magnetic field induces an alternating EMF (a generator), and how the same basic device runs in reverse to convert electrical energy into mechanical rotation (a motor). You will use Faraday's law and the concept of motional EMF to explain why the induced voltage varies sinusoidally as the coil rotates, and why a spinning motor also generates a 'back EMF' that opposes the applied current. Real-world efficiency losses (resistive heating, friction) and the role of slip rings/commutators in AC vs DC devices are also covered.",
+        "resourceLabel": "YouTube: Generators and Motors: Converting Between Mechanical and Electrical Energy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Generators%20and%20Motors%3A%20Converting%20Between%20Mechanical%20and%20Electrical%20Energy%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What causes Chladni patterns to form on a vibrating plate?",
+            "q": "In an AC generator, a coil rotates at constant angular velocity in a uniform magnetic field. Why is the induced EMF sinusoidal rather than constant?",
             "options": [
-              "Fine particles collecting along the nodal lines where the plate does not move",
-              "Particles collecting randomly with no relationship to vibration",
-              "The plate melting under intense heat",
-              "A magnetic field pulling particles into place"
+              "The rate of change of flux depends on the angle between the coil's normal and the field, which varies as sin or cos of that angle",
+              "The magnetic flux through the coil changes at a constant rate throughout the rotation",
+              "The magnetic field strength itself oscillates as the coil turns",
+              "Resistive losses in the coil convert the DC output into an AC waveform"
             ],
             "answer": 0
           },
           {
-            "q": "What is a nodal line, in the context of a vibrating plate?",
+            "q": "A DC motor draws a large current the instant it is switched on, then the current drops as it speeds up. What explains this drop?",
             "options": [
-              "A line that vibrates with maximum amplitude",
-              "A line along which the plate remains stationary during vibration",
-              "A line unrelated to the plates motion",
-              "A line that exists only in three-dimensional objects"
+              "The commutator reverses polarity more slowly at higher speed",
+              "The spinning coil generates a back EMF that opposes the applied voltage, reducing net voltage across the coil's resistance",
+              "The magnetic field weakens as the motor heats up",
+              "The supply voltage automatically decreases once the motor reaches operating speed"
             ],
             "answer": 1
           },
           {
-            "q": "At what type of frequency must a plate be vibrated to produce a clear Chladni pattern?",
+            "q": "A generator coil has its plane oriented parallel to the magnetic field lines. At this instant, what is true about the induced EMF?",
             "options": [
-              "A frequency of exactly zero",
-              "A resonant frequency of the plate",
-              "A frequency outside the range of audible sound only",
-              "Any frequency at all, with no relationship to resonance"
+              "The EMF is zero because the flux through the coil is momentarily at a maximum",
+              "The EMF is zero because the coil is not moving relative to the field",
+              "The EMF is at its maximum because the flux through the coil is zero at this instant",
+              "The EMF is at its maximum because the flux is changing at its fastest rate at this orientation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the key structural difference between an AC generator and a DC generator using the same rotating coil?",
+            "options": [
+              "A DC generator has no magnetic field, relying only on the coil's own resistance",
+              "An AC generator uses slip rings that maintain a fixed connection to each end of the coil, while a DC generator uses a split-ring commutator that reverses connections every half turn",
+              "A DC generator spins twice as fast to smooth out the output",
+              "An AC generator has twice as many coils as a DC generator"
             ],
             "answer": 1
           },
           {
-            "q": "How do Chladni patterns relate to the concept of standing waves studied earlier in this course?",
+            "q": "A motor is stalled (held so it cannot rotate) while still connected to its normal supply voltage. What happens to the current, and why is this dangerous?",
             "options": [
-              "They provide a visual, two-dimensional demonstration of standing wave nodes and antinodes",
-              "Standing waves can only exist in one dimension, never two",
-              "Chladni patterns only occur in the absence of any wave motion",
-              "They have no connection to standing waves"
+              "Current drops to zero because no back EMF is needed when stationary",
+              "Current stays the same as during normal operation since voltage is unchanged",
+              "Current becomes very large because there is no back EMF to oppose the supply voltage, risking overheating and damage",
+              "Current reverses direction because the coil cannot complete a rotation"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Why might Chladni patterns be used as a teaching demonstration in acoustics and wave physics?",
-            "options": [
-              "They make an otherwise invisible vibrational pattern directly visible using simple materials",
-              "They have no educational value in physics",
-              "They demonstrate a phenomenon unrelated to sound or vibration",
-              "They can only be observed using expensive specialized equipment"
-            ],
-            "answer": 0
+            "answer": 2
           }
-        ],
-        "topic": "Light & Sound"
+        ]
       }
     ]
   },
@@ -34299,63 +34286,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Physics of Lightning — Charge Separation and Electrical Breakdown",
-        "summary": "Grade 12 Physics strand: lightning results from charge separation within a thundercloud, driven by collisions between ice particles and graupel, which builds an electric field strong enough to cause electrical breakdown of the air, producing a sudden, visible discharge between cloud and ground or within the cloud itself.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Hooke's Law and Elastic Potential Energy in Springs",
+        "summary": "This lesson develops Hooke's Law, F = -kx, to describe the restoring force of an ideal spring and connects it to the elastic potential energy stored when a spring is stretched or compressed, E_e = 1/2 kx^2. You will practice combining spring force and energy relationships with conservation of mechanical energy to analyze systems such as a mass launched by a compressed spring or a block oscillating against a spring on a frictionless surface. The lesson also distinguishes the linear force-displacement graph from the resulting area-under-the-curve energy calculation.",
+        "resourceLabel": "YouTube: Hooke's Law and Elastic Potential Energy in Springs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Hooke%27s%20Law%20and%20Elastic%20Potential%20Energy%20in%20Springs%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What process within a thundercloud leads to the buildup of electric charge?",
+            "q": "A spring with spring constant k = 250 N/m is compressed by 0.12 m. How much elastic potential energy is stored?",
             "options": [
-              "The cloud absorbing all surrounding electric charge instantly",
-              "The complete absence of any particle motion within the cloud",
-              "A steady, unchanging temperature throughout the cloud",
-              "Collisions between ice particles and graupel that separate charge within the cloud"
+              "1.8 J",
+              "3.0 J",
+              "15.0 J",
+              "30.0 J"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What must happen to the air for a lightning discharge to occur?",
+            "q": "On a force vs. extension graph for an ideal spring obeying Hooke's Law, what does the area under the line represent?",
             "options": [
-              "The air must become a perfect permanent insulator",
-              "Electrical breakdown, in which the air briefly becomes a conductor",
-              "The air must be entirely removed from the atmosphere",
-              "The air must freeze completely solid"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What condition in the electric field between cloud and ground precedes a lightning strike?",
-            "options": [
-              "The electric field drops to exactly zero",
-              "The electric field becomes strong enough to ionize the surrounding air",
-              "There is no electric field involved in lightning at all",
-              "The electric field remains constant and weak throughout"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How does lightning relate to the earlier study of electric fields and circuits in this course?",
-            "options": [
-              "Electric circuits can never involve a discharge of any kind",
-              "Lightning has no relationship to electric fields or circuits",
-              "It illustrates a natural, large-scale example of charge buildup and sudden discharge through a conducting path",
-              "Lightning only involves magnetic fields, never electric fields"
+              "The spring constant k",
+              "The instantaneous restoring force at maximum extension",
+              "The elastic potential energy stored in the spring",
+              "The velocity of an object attached to the spring"
             ],
             "answer": 2
           },
           {
-            "q": "Why does thunder typically follow the flash of lightning after a short delay?",
+            "q": "A spring stretched by 0.10 m exerts a restoring force of 20 N. If the spring is instead stretched by 0.20 m, what force does it exert (assuming Hooke's Law still applies)?",
             "options": [
-              "Light travels far faster than sound, so the sound of the rapidly heated air reaches an observer later",
-              "Sound travels faster than light in air",
-              "Thunder is produced before the lightning flash occurs",
-              "Thunder and lightning always occur at exactly the same instant with no delay"
+              "20 N, since force is independent of extension",
+              "40 N, because force is directly proportional to extension",
+              "80 N, because energy scales with the square of extension",
+              "10 N, because doubling extension halves the spring constant"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A block on a frictionless horizontal surface is pushed against a spring, compressing it, then released. At the instant the block leaves the spring at its natural length, which statement is correct?",
+            "options": [
+              "All the elastic potential energy has been converted to kinetic energy of the block",
+              "Half the elastic potential energy remains stored in the spring",
+              "The block's kinetic energy equals zero because the spring force is zero at natural length",
+              "The elastic potential energy has converted entirely into gravitational potential energy"
             ],
             "answer": 0
+          },
+          {
+            "q": "Two springs, A and B, are compressed by the same distance, but spring A has twice the spring constant of spring B. How does the elastic potential energy stored in A compare to B?",
+            "options": [
+              "A stores half as much energy as B",
+              "A stores the same energy as B since compression distance is equal",
+              "A stores twice as much energy as B",
+              "A stores four times as much energy as B"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Electricity & Magnetism"
+        ]
       }
     ]
   },
@@ -34786,60 +34772,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Light, Heat, and Relativistic Corrections",
-        "summary": "This review covers Days 131-139, revisiting stimulated emission and the laser, Rayleigh scattering and the colour of the sky, Wien's Displacement Law, the Seebeck Effect, the Joule-Thomson Effect, magnetic force on a moving charge, Chladni patterns, the physics of lightning, and GPS relativistic time corrections.",
-        "resourceLabel": "YouTube: Physics Review: Light, Heat, and Relativistic Corrections",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Light%2C%20Heat%2C%20and%20Relativistic%20Corrections%20grade%2012%20physics%20educational",
+        "title": "Physics Review: Optics, Electromagnetism, and Relativistic Corrections",
+        "summary": "This review covers Days 131-139: diffraction gratings and resolving power, dispersion of light through a prism, the lens and mirror equations, two-source interference and fringe spacing, the magnetic force on a moving charge, generators and motors converting between mechanical and electrical energy, Hooke's law and elastic potential energy in springs, and how GPS satellites require both special and general relativistic time corrections.",
+        "resourceLabel": "YouTube: Physics Review: Optics, Electromagnetism, and Relativistic Corrections",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Optics%2C%20Electromagnetism%2C%20and%20Relativistic%20Corrections%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "Rayleigh scattering explains why the sky appears blue because:",
+            "q": "A diffraction grating's resolving power increases when:",
             "options": [
-              "Blue light is absorbed less than red light by the atmosphere",
-              "Shorter wavelengths of light scatter more strongly than longer wavelengths",
-              "The atmosphere reflects only blue light directly from the sun",
-              "Ozone molecules emit blue light"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Wien's Displacement Law relates a blackbody's temperature to:",
-            "options": [
-              "Its total radiated power",
-              "The wavelength at which it emits most intensely",
-              "Its electrical resistance",
-              "Its magnetic field strength"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The Seebeck Effect describes the generation of:",
-            "options": [
-              "A voltage from a temperature difference across a material",
-              "Light from an applied electric field",
-              "Sound from a vibrating plate",
-              "Magnetism from a rotating disk"
+              "The number of illuminated slits (N) increases, or a higher diffraction order (m) is used",
+              "The wavelength of light increases",
+              "The slit spacing d increases without changing anything else",
+              "The grating is illuminated with white light instead of monochromatic light"
             ],
             "answer": 0
           },
           {
-            "q": "The magnetic force on a moving charge (F = qvB) is always directed:",
+            "q": "An object is placed beyond the focal length of a converging lens. What type of image is formed?",
             "options": [
-              "Parallel to the charge's velocity",
-              "Opposite to the magnetic field",
-              "Perpendicular to both the velocity and the magnetic field",
-              "Toward the nearest magnetic pole"
+              "A virtual, upright image on the same side as the object",
+              "A real, inverted image on the opposite side of the lens",
+              "No image forms in this configuration",
+              "A virtual image that is always the same size as the object"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "GPS satellites require relativistic time corrections mainly because of:",
+            "q": "A positive charge moves to the right through a magnetic field pointing into the page. Using the right-hand rule, in what direction is the magnetic force on the charge?",
             "options": [
-              "Their high speed and weaker gravitational field compared to Earth's surface",
-              "Interference from solar wind",
-              "The curvature of light near the Moon",
-              "Fluctuations in Earth's magnetic field"
+              "To the right, in the same direction as the velocity",
+              "Upward, perpendicular to both the velocity and the field",
+              "Into the page, parallel to the magnetic field",
+              "Downward, perpendicular to both the velocity and the field"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "A spring stores elastic potential energy E_e = 1/2 kx². If the compression x is doubled, how does the stored energy change?",
+            "options": [
+              "It doubles",
+              "It quadruples",
+              "It stays the same",
+              "It is halved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "GPS satellite clocks require both special and general relativistic corrections because:",
+            "options": [
+              "Special relativity causes their clocks to run fast due to high speed, and general relativity causes them to run slow due to weaker gravity, and these exactly cancel so no correction is needed",
+              "Their high orbital speed causes time dilation (running slow) while the weaker gravitational field at altitude causes their clocks to run fast, and both effects must be accounted for since they don't cancel",
+              "Only special relativity affects satellite clocks; general relativity is negligible in orbit",
+              "GPS satellites are stationary relative to Earth's surface, so no relativistic correction is needed"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -35030,60 +35016,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "The Magnus Effect and the Physics of Spinning Projectiles",
-        "summary": "Grade 12 Physics strand: the Magnus effect describes the curved path taken by a spinning object moving through a fluid, arising because the spin creates a pressure difference across the object as it drags fluid faster on one side and slower on the other, producing a sideways lift force.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "The Photon Model of Light: Energy and Frequency (E = hf)",
+        "summary": "This lesson introduces the photon model of light, in which light energy arrives in discrete packets (photons) whose energy is given by E = hf, where h is Planck's constant. You will use this relationship to calculate photon energies for different wavelengths of light, connect higher frequency to higher photon energy, and explain why this model was necessary to account for phenomena classical wave theory could not explain.",
+        "resourceLabel": "YouTube: The Photon Model of Light: Energy and Frequency (E = hf)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Photon%20Model%20of%20Light%3A%20Energy%20and%20Frequency%20%28E%20%3D%20hf%29%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What is the Magnus effect?",
+            "q": "According to the photon model of light, the energy of a single photon is given by:",
             "options": [
-              "The curved path taken by a spinning object moving through a fluid, caused by a sideways lift force",
-              "The complete absence of drag on a spinning object",
-              "A magnetic force acting on any moving object",
-              "The tendency of an object to fall in a perfectly straight line"
+              "E = hf, where h is Planck's constant and f is frequency",
+              "E = mc², where m is the photon's rest mass",
+              "E = 1/2 mv², treating the photon like a classical particle",
+              "E = qV, where q is the photon's charge and V is potential difference"
             ],
             "answer": 0
           },
           {
-            "q": "What causes the sideways force responsible for the Magnus effect?",
+            "q": "A photon of blue light has a higher frequency than a photon of red light. How do their photon energies compare?",
             "options": [
-              "The complete absence of air around the object",
-              "A pressure difference created as the spinning surface drags fluid faster on one side than the other",
-              "A change in the objects mass as it spins",
-              "An external magnetic field acting on the object"
+              "The blue photon has less energy, since higher frequency waves carry less energy per photon",
+              "The blue photon has more energy, since photon energy is directly proportional to frequency",
+              "Both photons have exactly the same energy, since energy only depends on wavelength in a vacuum",
+              "Photon energy cannot be compared without knowing the light's intensity"
             ],
             "answer": 1
           },
           {
-            "q": "Which everyday example commonly demonstrates the Magnus effect?",
+            "q": "What was significant about the introduction of the photon model of light in the history of physics?",
             "options": [
-              "A ball dropped straight down with no spin",
-              "A block sliding without any rotation",
-              "A stationary object sitting on a table",
-              "A spinning ball curving in flight, as in soccer or baseball"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How does increasing the spin rate of a projectile typically affect the strength of the Magnus effect?",
-            "options": [
-              "It has no effect on the force at all",
-              "It generally increases the sideways force and the resulting curve",
-              "It reverses the direction of gravity",
-              "It always reduces the curve to zero"
+              "It confirmed that light behaves purely as a continuous wave with no particle-like properties",
+              "It provided a way to explain phenomena, such as the sharp threshold frequency in the photoelectric effect, that a purely wave-based model of light could not account for",
+              "It disproved the existence of the electromagnetic spectrum",
+              "It showed that light travels slower in a vacuum than previously measured"
             ],
             "answer": 1
           },
           {
-            "q": "What broader fluid dynamics principle underlies the pressure difference in the Magnus effect?",
+            "q": "Using E = hf and c = f·lambda, which expression also correctly gives the energy of a photon in terms of its wavelength lambda?",
             "options": [
-              "Fluid pressure is always identical regardless of its speed",
-              "Faster-moving fluid exerts lower pressure than slower-moving fluid on the objects surface",
-              "Spinning objects experience no interaction with surrounding fluid",
-              "The effect depends only on the objects colour"
+              "E = h/lambda",
+              "E = hc/lambda",
+              "E = hc·lambda",
+              "E = h·lambda/c"
             ],
             "answer": 1
+          },
+          {
+            "q": "A source emits photons of wavelength 400 nm. If the wavelength is increased to 800 nm, what happens to the energy of each individual photon?",
+            "options": [
+              "It doubles",
+              "It stays the same, since photon energy depends only on intensity",
+              "It is cut in half",
+              "It quadruples"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -35274,58 +35260,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "The Venturi Effect and Bernoullis Principle in Fluid Flow",
-        "summary": "Grade 12 Physics strand: the Venturi effect describes the drop in fluid pressure that occurs as a fluid speeds up while flowing through a constricted section of a pipe, a direct consequence of Bernoullis principle, which relates pressure, speed, and height along a streamline.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Polarization by Reflection: Brewster's Angle",
+        "summary": "This lesson explores how unpolarized light becomes partially or fully polarized upon reflection from a non-metallic surface, and introduces Brewster's angle, the specific angle of incidence at which the reflected ray is completely plane-polarized, given by tan(theta_B) = n2/n1. You will connect this to the geometric condition that the reflected and refracted rays are perpendicular at Brewster's angle, and consider practical applications like polarized sunglasses reducing glare from water or glass surfaces.",
+        "resourceLabel": "YouTube: Polarization by Reflection: Brewster's Angle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Polarization%20by%20Reflection%3A%20Brewster%27s%20Angle%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does the Venturi effect describe?",
+            "q": "At Brewster's angle, what is the geometric relationship between the reflected ray and the refracted ray?",
             "options": [
-              "A rise in fluid pressure whenever a pipe widens",
-              "A change in fluid temperature with no change in pressure",
-              "The complete stopping of fluid flow at a constriction",
-              "A drop in fluid pressure as the fluid speeds up through a constricted section of a pipe"
+              "They are parallel to each other",
+              "They are perpendicular to each other",
+              "They coincide along the same path",
+              "They are both perpendicular to the reflecting surface"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Light traveling in air (n = 1.00) strikes a glass surface (n = 1.50). What is Brewster's angle for this interface?",
+            "options": [
+              "33.7 degrees",
+              "41.8 degrees",
+              "48.2 degrees",
+              "56.3 degrees"
             ],
             "answer": 3
           },
           {
-            "q": "What broader physical principle explains the pressure drop in the Venturi effect?",
+            "q": "At Brewster's angle, what is true of the reflected light?",
             "options": [
-              "Bernoullis principle",
-              "The ideal gas law exclusively",
-              "Newtons third law alone",
-              "The law of conservation of charge"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What happens to fluid speed as it passes through a constriction in a pipe?",
-            "options": [
-              "It decreases",
-              "It increases",
-              "It stays exactly the same",
-              "It becomes zero"
+              "It is completely unpolarized, identical to the incident light",
+              "It is completely plane-polarized with its electric field perpendicular to the plane of incidence",
+              "It is completely plane-polarized with its electric field parallel to the plane of incidence",
+              "It vanishes entirely, with all light being transmitted into the second medium"
             ],
             "answer": 1
           },
           {
-            "q": "Which everyday device commonly applies the Venturi effect?",
+            "q": "Polarized sunglasses are effective at reducing glare from a horizontal lake surface because they are oriented to block which component of the reflected light?",
             "options": [
-              "A device with no connection to fluid speed",
-              "A carburetor or atomizer that uses fast-moving air to draw in fuel or liquid",
-              "A solid metal rod with no fluid flow",
-              "A stationary water tank with no moving fluid"
+              "The vertically polarized component, since reflected glare is predominantly horizontally polarized",
+              "The horizontally polarized component, since reflected glare is predominantly horizontally polarized",
+              "All wavelengths above 600 nm regardless of polarization",
+              "The circularly polarized component produced by scattering in the water"
             ],
             "answer": 1
           },
           {
-            "q": "How does Bernoullis principle relate pressure and speed along a streamline?",
+            "q": "If light travels from glass (n = 1.50) into air (n = 1.00) instead of air into glass, how does Brewster's angle for this interface compare to the air-to-glass case?",
             "options": [
-              "Bernoullis principle relates only temperature and volume",
-              "Increasing speed always increases pressure at the same point",
-              "As fluid speed increases along a streamline, its pressure decreases",
-              "Pressure and speed are always exactly equal to one another"
+              "It is identical, since Brewster's angle does not depend on the direction of travel",
+              "It is larger, because tan(theta_B) = n2/n1 gives a smaller ratio when the denser medium is first",
+              "It is smaller, because tan(theta_B) = n2/n1 gives a smaller ratio when the denser medium is first",
+              "Brewster's angle only exists when light travels from a less dense to a more dense medium"
             ],
             "answer": 2
           }
@@ -36005,63 +35991,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "The Tyndall Effect and Light Scattering in Colloids",
-        "summary": "Grade 12 Physics strand: the Tyndall effect is the scattering of light by particles suspended in a colloid, making a beam of light passing through the mixture visible from the side, distinguished from Rayleigh scattering by the larger size of the scattering particles relative to atmospheric molecules.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "The Van de Graaff Generator: Building Up and Storing Static Charge",
+        "summary": "This lesson explains how a Van de Graaff generator uses a moving insulated belt and charge-transfer combs to continuously deposit charge onto a hollow metal dome, building up very high electric potentials. You will apply concepts of charge on conductors, electric field, and potential to explain why charge collects on the outer surface of the dome and why the maximum voltage is ultimately limited by dielectric breakdown of the surrounding air. The lesson connects this device to broader ideas about capacitance and electrostatic equilibrium on conductors.",
+        "resourceLabel": "YouTube: The Van de Graaff Generator: Building Up and Storing Static Charge",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Van%20de%20Graaff%20Generator%3A%20Building%20Up%20and%20Storing%20Static%20Charge%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What is the Tyndall effect?",
+            "q": "In a Van de Graaff generator, why does the transferred charge end up on the outside surface of the metal dome rather than remaining in the interior?",
             "options": [
-              "The scattering of light by particles suspended in a colloid, making a beam of light visible from the side",
-              "The complete absorption of all light by a transparent solution",
-              "A phenomenon that only occurs in a perfect vacuum",
-              "The bending of light as it passes through a single flat pane of glass"
+              "Charge is attracted to the geometric center of any conductor",
+              "In electrostatic equilibrium, excess charge on a conductor resides entirely on its outer surface due to mutual repulsion",
+              "The dome's paint coating attracts charge to the outside",
+              "Gravity pulls the heavier charged particles toward the outer shell"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What ultimately limits the maximum electric potential a Van de Graaff dome can reach in open air?",
+            "options": [
+              "The maximum speed at which the rubber belt can physically move",
+              "The dielectric breakdown of air, which ionizes and allows charge to leak away once the electric field exceeds a critical value",
+              "The total mass of the metal dome",
+              "The generator's motor overheating before higher voltages can be reached"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the dome of a Van de Graaff generator made large and spherical rather than small and pointed?",
+            "options": [
+              "A larger radius spreads the same charge over more surface area, reducing surface charge density and allowing higher voltage before air breakdown",
+              "A pointed shape would attract charge from the belt more efficiently",
+              "The spherical shape is purely for aesthetic and safety appearance, with no effect on the physics",
+              "A smaller dome would generate a stronger internal magnetic field"
             ],
             "answer": 0
           },
           {
-            "q": "What makes a light beam visible when it passes through a colloid?",
+            "q": "Inside the hollow charged dome of a Van de Graaff generator (away from the charge itself), what is the electric field?",
             "options": [
-              "Light scattered sideways by particles suspended in the mixture",
-              "A chemical reaction that produces new light",
-              "The beam gaining additional energy from the colloid",
-              "The complete absence of any particles in the mixture"
+              "Equal in magnitude to the field just outside the dome's surface",
+              "Zero, since a hollow conductor in electrostatic equilibrium shields its interior from external and self-generated charge on its surface",
+              "Directed radially inward toward the center",
+              "Non-zero but weaker than at the surface, decreasing linearly to the center"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "How does the Tyndall effect differ from the Rayleigh scattering studied earlier in this course?",
+            "q": "Two Van de Graaff domes of different radii are each charged to the point just before air breakdown occurs at their surface. Which dome can hold more total charge?",
             "options": [
-              "It involves larger particles than the molecules responsible for Rayleigh scattering",
-              "It occurs only in a perfect vacuum, unlike Rayleigh scattering",
-              "It involves no particles of any kind",
-              "The two phenomena are identical in every respect"
+              "The smaller dome, because higher curvature concentrates more charge",
+              "Both domes hold identical charge regardless of size, since breakdown field strength is the same",
+              "The larger dome, because for the same critical surface field, a larger surface area permits more total charge before breakdown",
+              "Neither dome can hold charge once breakdown field is approached"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Which everyday scene commonly demonstrates the Tyndall effect?",
-            "options": [
-              "A perfectly clear glass of water with no visible beam",
-              "A completely opaque solid block with no light passing through",
-              "A beam of light travelling through total darkness with no scattering",
-              "A visible beam of light shining through fog or a dusty room"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why can the Tyndall effect be used to distinguish a colloid from a true solution?",
-            "options": [
-              "Colloidal particles scatter light visibly, while the much smaller particles in a true solution generally do not",
-              "True solutions always scatter light more strongly than colloids",
-              "Colloids and true solutions scatter light in exactly the same way",
-              "Neither colloids nor true solutions can scatter light at all"
-            ],
-            "answer": 0
+            "answer": 2
           }
-        ],
-        "topic": "Light & Sound"
+        ]
       }
     ]
   },
@@ -36740,60 +36725,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "The Rayleigh Criterion and the Resolving Power of Optical Instruments",
-        "summary": "Grade 12 Physics strand: the Rayleigh criterion defines the minimum angular separation at which two point sources can be distinguished as separate by an optical instrument, based on the diffraction pattern produced by the instruments aperture, setting a fundamental limit on resolving power.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Kirchhoff's Voltage and Current Laws in Multi-Loop Circuits",
+        "summary": "This lesson introduces Kirchhoff's Current Law (charge conservation at junctions) and Kirchhoff's Voltage Law (energy conservation around closed loops) as the two systematic tools needed to analyze circuits that cannot be solved using simple series/parallel reduction. You will practice assigning current directions, writing junction and loop equations for multi-loop circuits with multiple EMF sources and resistors, and solving the resulting system of equations for unknown currents.",
+        "resourceLabel": "YouTube: Kirchhoff's Voltage and Current Laws in Multi-Loop Circuits",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Kirchhoff%27s%20Voltage%20and%20Current%20Laws%20in%20Multi-Loop%20Circuits%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does the Rayleigh criterion define?",
+            "q": "Kirchhoff's Current Law states that at any junction in a circuit:",
             "options": [
-              "The total mass of an optical instrument",
-              "The maximum possible speed of light in any medium",
-              "The exact colour of light emitted by a star",
-              "The minimum angular separation at which two point sources can be resolved as separate"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What physical phenomenon underlies the resolution limit described by the Rayleigh criterion?",
-            "options": [
-              "The complete absence of any light entering the instrument",
-              "Gravitational lensing around a distant star",
-              "Radioactive decay within the instrument itself",
-              "Diffraction produced by the instruments aperture"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does resolving power describe for an optical instrument?",
-            "options": [
-              "Its ability to change the colour of incoming light",
-              "Its total weight and physical size",
-              "Its capacity to store electrical energy",
-              "Its ability to distinguish closely spaced objects as separate"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How does aperture size generally affect resolving power according to the Rayleigh criterion?",
-            "options": [
-              "A larger aperture generally improves resolving power",
-              "A larger aperture always worsens resolving power",
-              "Aperture size has no effect on resolving power at all",
-              "Resolving power depends only on the colour of the instrument"
+              "The sum of all currents entering the junction equals the sum of all currents leaving it",
+              "The current is the same in every branch connected to the junction",
+              "The voltage drop across all branches meeting at the junction must be equal",
+              "The total resistance at the junction must equal zero"
             ],
             "answer": 0
           },
           {
-            "q": "Why does diffraction, rather than lens imperfection alone, set a fundamental limit on resolution?",
+            "q": "Kirchhoff's Voltage Law is a direct consequence of which fundamental physical principle?",
             "options": [
-              "Diffraction is an intrinsic wave effect present even in a perfect, flawless optical system",
-              "Diffraction can always be eliminated by using a larger lens",
-              "Diffraction only occurs in instruments with significant lens defects",
-              "Diffraction has no connection to the wave nature of light"
+              "Conservation of electric charge",
+              "Conservation of energy, since a charge returning to its starting point in a closed loop has no net change in electric potential energy",
+              "Conservation of momentum in moving charge carriers",
+              "Newton's third law applied to electric fields"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "While solving a multi-loop circuit, you initially guess a current direction that turns out to be wrong once you solve the equations. What does this mean?",
+            "options": [
+              "The circuit has no valid solution and must be re-drawn",
+              "The calculated current will simply come out negative, indicating the actual current flows opposite to your assumed direction",
+              "Kirchhoff's laws cannot be applied and mesh analysis must be used instead",
+              "The junction rule must be violated somewhere in the circuit"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When writing a loop equation and traversing a resistor in the same direction as the assumed current through it, how do you treat the voltage change across that resistor?",
+            "options": [
+              "As a voltage rise (+IR)",
+              "As a voltage drop (-IR)",
+              "As zero, since resistors don't affect loop equations",
+              "It depends only on whether the resistor is before or after a battery"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A multi-loop circuit has 3 unknown branch currents. How many independent equations, in total, are needed from Kirchhoff's junction and loop rules to solve for all three currents?",
+            "options": [
+              "1 junction equation is always sufficient by itself",
+              "3 loop equations and no junction equations are required",
+              "A combination of junction and loop equations totaling 3 independent equations (e.g., 1 junction equation plus 2 independent loop equations)",
+              "Exactly 3 junction equations, since loop equations are redundant"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -36983,63 +36968,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "The Thomson Effect and Thermoelectric Circuits",
-        "summary": "Grade 12 Physics strand: the Thomson effect describes the heating or cooling that occurs when an electric current flows through a conductor along which a temperature gradient already exists, a third thermoelectric phenomenon alongside the Seebeck and Peltier effects studied earlier in this course.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Self-Inductance and Energy Stored in a Magnetic Field",
+        "summary": "This lesson introduces self-inductance, the property of a coil (such as a solenoid) whereby a changing current induces an opposing EMF within the same coil, quantified by EMF = -L(dI/dt). You will learn how the inductance L depends on a coil's geometry and core material, and derive the expression for energy stored in an inductor's magnetic field, E = 1/2 LI^2, drawing a direct parallel to the energy stored in a capacitor's electric field. Applications such as inductors resisting sudden current changes in circuits are discussed.",
+        "resourceLabel": "YouTube: Self-Inductance and Energy Stored in a Magnetic Field",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Self-Inductance%20and%20Energy%20Stored%20in%20a%20Magnetic%20Field%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does the Thomson effect describe?",
+            "q": "Self-inductance in a coil arises because:",
             "options": [
-              "A phenomenon that occurs only in a perfect vacuum with no conductor",
-              "Heating or cooling that occurs when current flows through a conductor with an existing temperature gradient",
-              "The complete absence of heat transfer in any conductor",
-              "A change in a materials colour caused by an electric current"
+              "A changing current creates a changing magnetic flux through the coil itself, which by Faraday's law induces an EMF opposing the change in current",
+              "Current flowing through a coil always experiences resistance from the wire's own magnetic field",
+              "The coil's electric field induces a current in a nearby separate circuit",
+              "A constant current through a coil generates a constant induced EMF"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The energy stored in the magnetic field of an inductor carrying current I is given by which expression?",
+            "options": [
+              "E = LI",
+              "E = 1/2 LI",
+              "E = 1/2 LI^2",
+              "E = L^2 I"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When a switch is opened suddenly in a circuit containing an inductor carrying current, what tends to happen?",
+            "options": [
+              "The current drops to zero instantly with no other effect",
+              "The inductor opposes the sudden decrease in current, which can produce a large induced EMF (and possibly a spark across the switch)",
+              "The inductor's stored energy disappears instantly without doing any work",
+              "The magnetic field increases sharply to compensate for the open switch"
             ],
             "answer": 1
           },
           {
-            "q": "What must already exist along a conductor for the Thomson effect to occur?",
+            "q": "How does inserting a ferromagnetic (iron) core into a solenoid affect its self-inductance compared to an identical air-core solenoid?",
             "options": [
-              "An external magnetic field with no current involved",
-              "A complete absence of any electric current",
-              "A perfectly uniform temperature throughout",
-              "A temperature gradient"
+              "It decreases the inductance because iron opposes magnetic field lines",
+              "It increases the coil's resistance but leaves the inductance value the same, since inductance depends only on the current flowing through it",
+              "It significantly increases the inductance because the iron core concentrates and strengthens the magnetic flux for the same current",
+              "It converts the solenoid into a capacitor instead of an inductor"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Alongside which two thermoelectric effects studied earlier does the Thomson effect belong?",
+            "q": "A capacitor stores energy in an electric field via E = 1/2 CV^2. What is the closest structural analogy for an inductor's energy formula E = 1/2 LI^2?",
             "options": [
-              "The Hall effect and the Coriolis effect",
-              "The Seebeck effect and the Peltier effect",
-              "The photoelectric effect and the Zeeman effect",
-              "The Doppler effect and the Compton effect"
+              "Inductance L is analogous to voltage V, and current I is analogous to capacitance C",
+              "Inductance L plays a role analogous to capacitance C, while current I plays a role analogous to voltage V, both representing the 'driving' quantity squared",
+              "The two formulas are unrelated because inductors do not store energy",
+              "Inductance L is analogous to resistance R in Ohm's law"
             ],
             "answer": 1
-          },
-          {
-            "q": "What direction of energy transfer can the Thomson effect produce in a current-carrying conductor?",
-            "options": [
-              "Only cooling, under every possible condition",
-              "Either heating or cooling, depending on the direction of current relative to the temperature gradient",
-              "No energy transfer of any kind, regardless of conditions",
-              "Only heating, under every possible condition"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why are the Seebeck, Peltier, and Thomson effects grouped together as thermoelectric phenomena?",
-            "options": [
-              "They describe interactions between light and matter, not heat and current",
-              "They only apply to conductors at absolute zero temperature",
-              "They describe entirely unrelated phenomena with no shared theme",
-              "Each describes a distinct interaction between heat flow and electric current in a conductor"
-            ],
-            "answer": 3
           }
-        ],
-        "topic": "Electricity & Magnetism"
+        ]
       }
     ]
   },
@@ -37227,60 +37211,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Fluids, Optics, and Atomic Structure",
-        "summary": "This review covers Days 141-149, revisiting the Magnus Effect, the Venturi Effect and Bernoulli's Principle, total internal reflection and fibre optics, Newton's Rings, the Tyndall Effect, the Bohr Model of the hydrogen atom, electric potential energy and potential difference, the Rayleigh Criterion, and the Thomson Effect.",
-        "resourceLabel": "YouTube: Physics Review: Fluids, Optics, and Atomic Structure",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Fluids%2C%20Optics%2C%20and%20Atomic%20Structure%20grade%2012%20physics%20educational",
+        "title": "Physics Review: Photons, Optics, and Circuit Laws",
+        "summary": "This review covers Days 141-149: the photon model of light and E = hf, polarization by reflection and Brewster's angle, total internal reflection in fiber optics, thin-film interference (Newton's rings), the Van de Graaff generator and static charge, the Bohr model of the hydrogen atom, electric potential energy and potential difference, Kirchhoff's voltage and current laws in multi-loop circuits, and self-inductance and energy stored in a magnetic field.",
+        "resourceLabel": "YouTube: Physics Review: Photons, Optics, and Circuit Laws",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Photons%2C%20Optics%2C%20and%20Circuit%20Laws%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "The Magnus Effect explains:",
+            "q": "According to the photon model, if the frequency of light is doubled, what happens to the energy of each photon?",
             "options": [
-              "The curved flight path of a spinning object moving through a fluid",
-              "The rise of a hot air balloon",
-              "The formation of rainbows",
-              "The pull of a magnet on iron filings"
+              "It doubles",
+              "It stays the same",
+              "It is halved",
+              "It quadruples"
             ],
             "answer": 0
           },
           {
-            "q": "Total internal reflection in fibre optics occurs when light hits a boundary at an angle:",
+            "q": "Total internal reflection, used in fiber-optic cables, occurs when light travels:",
             "options": [
-              "Smaller than the critical angle, from a denser to less dense medium",
-              "Greater than the critical angle, travelling from a denser to less dense medium",
-              "Exactly perpendicular to the boundary",
-              "Greater than the critical angle, travelling from a less dense to denser medium"
+              "From a less dense to a more dense medium at any angle",
+              "From a more dense to a less dense medium at an angle greater than the critical angle",
+              "Through a vacuum with no medium change",
+              "From a more dense to a less dense medium at an angle less than the critical angle"
             ],
             "answer": 1
           },
           {
-            "q": "The Bohr Model of the hydrogen atom proposed that electrons:",
+            "q": "In the Bohr model, an electron emits a photon when it:",
             "options": [
-              "Move in fixed, quantized circular orbits around the nucleus",
-              "Exist as a continuous charge cloud with no defined position",
-              "Orbit the nucleus at the speed of light",
-              "Are shared equally among all atoms in a molecule"
+              "Absorbs energy and jumps to a higher energy level",
+              "Remains in the same energy level indefinitely",
+              "Escapes the atom entirely",
+              "Transitions from a higher energy level to a lower one, releasing the energy difference as a photon"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "The Tyndall Effect refers to:",
+            "q": "Kirchhoff's Current Law is a statement of which conservation principle?",
             "options": [
-              "The bending of light as it passes through a lens",
-              "The scattering of light by particles suspended in a colloid",
-              "The absorption of light by a black body",
-              "The polarization of light by a crystal"
+              "Conservation of energy",
+              "Conservation of electric charge",
+              "Conservation of momentum",
+              "Conservation of magnetic flux"
             ],
             "answer": 1
           },
           {
-            "q": "The Rayleigh Criterion is used to determine:",
+            "q": "The energy stored in the magnetic field of an inductor is given by E = 1/2 LI². If the current through the inductor is tripled, how does the stored energy change?",
             "options": [
-              "The maximum speed of a wave in a medium",
-              "The minimum angular separation for two sources to be resolved as distinct",
-              "The energy released in nuclear fission",
-              "The critical angle for total internal reflection"
+              "It triples",
+              "It stays the same",
+              "It becomes nine times as large",
+              "It becomes six times as large"
             ],
-            "answer": 1
+            "answer": 2
           }
         ]
       }
@@ -38205,63 +38189,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "The Fizeau Experiment and the Speed of Light in Moving Water",
-        "summary": "Grade 12 Physics strand: the Fizeau experiment measured how the speed of light changes when light travels through water that is itself flowing, finding a partial rather than full addition of the waters velocity to the lights speed, an early result later explained by special relativitys velocity addition formula.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Newton's Third Law in Complex Systems: Analyzing Action-Reaction Force Pairs",
+        "summary": "This lesson revisits Newton's third law in more complex multi-object systems, emphasizing that action-reaction force pairs always act on two different objects, never on the same object, and therefore never cancel within a single free-body diagram. You will practice identifying the correct reaction partner for a given force in scenarios involving stacked objects, a person pushing off a wall, and objects connected by ropes or in contact with each other, distinguishing genuine third-law pairs from forces that merely happen to be equal by coincidence (such as balanced forces on a stationary object).",
+        "resourceLabel": "YouTube: Newton's Third Law in Complex Systems: Analyzing Action-Reaction Force Pairs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Newton%27s%20Third%20Law%20in%20Complex%20Systems%3A%20Analyzing%20Action-Reaction%20Force%20Pairs%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What did the Fizeau experiment measure?",
+            "q": "According to Newton's third law, if object A exerts a force on object B, then:",
             "options": [
-              "The magnetic properties of still water",
-              "The exact mass of a water molecule",
-              "The boiling point of water at high altitude",
-              "How the speed of light changes when travelling through flowing water"
+              "Object B exerts an equal and opposite force back on object A",
+              "Object A experiences an equal and opposite force from itself",
+              "Object B remains stationary regardless of its mass",
+              "The net force on the combined system doubles"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What surprising result did Fizeau find about how the waters motion affected the speed of light?",
+            "q": "A book rests on a table. The table pushes up on the book with a normal force equal to the book's weight. What is the correct Newton's third law reaction pair to this normal force?",
             "options": [
-              "The speed of light became slower than in a vacuum by the full velocity of the water",
-              "The waters velocity was only partially, not fully, added to the speed of light",
-              "The waters motion had absolutely no effect on the light at all",
-              "Light stopped completely whenever the water was in motion"
+              "The book's weight pulling it down, since the forces are equal and opposite",
+              "The book pushing down on the table with an equal force",
+              "The table's own weight pushing down on the floor",
+              "There is no reaction pair because the book is not accelerating"
             ],
             "answer": 1
           },
           {
-            "q": "Which later theory fully explained the partial velocity addition observed by Fizeau?",
+            "q": "Why do the two forces in a Newton's third law action-reaction pair never cancel each other out in a free-body diagram of a single object?",
             "options": [
-              "Basic thermodynamics with no reference to relativity",
-              "The theory of gravitation developed by Newton",
-              "Special relativitys velocity addition formula",
-              "Classical Newtonian mechanics alone, with no further correction needed"
+              "Because they act on two different objects, so only one of the pair ever appears in any single object's free-body diagram",
+              "Because the two forces always point in the same direction",
+              "Because one of the forces is always larger than the other",
+              "Because reaction forces only exist when an object is accelerating"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why is the Fizeau experiment considered historically important for the development of relativity?",
+            "q": "A swimmer pushes backward against the water to move forward. Which force actually propels the swimmer forward?",
             "options": [
-              "It confirmed that light behaves identically to a simple classical particle in every situation",
-              "It disproved the existence of light entirely",
-              "It provided early experimental evidence of a velocity-addition effect that classical physics could not fully explain",
-              "It provided no evidence relevant to the study of light or motion"
+              "The swimmer's own backward push on the water",
+              "The reaction force of the water pushing forward on the swimmer",
+              "The swimmer's weight acting downward",
+              "There is no external force; the swimmer accelerates using only internal muscle energy"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What medium did light travel through in the original Fizeau experiment?",
+            "q": "Two ice skaters of different mass stand facing each other and push off. Which statement correctly applies Newton's third law to this situation?",
             "options": [
-              "Solid glass with no motion involved",
-              "A perfect vacuum with no medium at all",
-              "Flowing water",
-              "Empty interstellar space"
+              "Only the heavier skater exerts a force on the lighter one, not vice versa",
+              "Each skater exerts an equal-magnitude force on the other, though their resulting accelerations differ due to their different masses",
+              "The forces are equal only if both skaters have the same mass",
+              "Newton's third law does not apply because both skaters are initially at rest"
             ],
-            "answer": 2
+            "answer": 1
           }
-        ],
-        "topic": "Light & Sound"
+        ]
       }
     ]
   },
@@ -38450,63 +38433,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Ferrofluids and the Physics of Magnetic Colloids",
-        "summary": "Grade 12 Physics strand: a ferrofluid is a colloidal suspension of nanoscale magnetic particles that becomes strongly magnetized in the presence of an external magnetic field, forming striking spiky patterns as it balances magnetic, gravitational, and surface tension forces.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Power: The Rate of Doing Work in Mechanical Systems",
+        "summary": "This lesson defines mechanical power as the rate at which work is done or energy is transferred, P = W/t, and develops the related instantaneous expression P = Fv for a force acting on a moving object. You will apply these relationships to compare machines that do the same work in different times, calculate the power output of engines or motors, and connect power to real-world efficiency considerations where not all input power converts to useful output.",
+        "resourceLabel": "YouTube: Power: The Rate of Doing Work in Mechanical Systems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Power%3A%20The%20Rate%20of%20Doing%20Work%20in%20Mechanical%20Systems%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What is a ferrofluid?",
+            "q": "A motor does 4500 J of work in 15 seconds. What is its power output?",
             "options": [
-              "A completely solid magnetic block with no fluid component",
-              "A gas made entirely of iron atoms",
-              "A liquid with no magnetic properties whatsoever",
-              "A colloidal suspension of nanoscale magnetic particles"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What happens to a ferrofluid in the presence of a strong external magnetic field?",
-            "options": [
-              "It loses all of its suspended particles immediately",
-              "It instantly evaporates into a gas",
-              "It becomes completely unmagnetized and inert",
-              "It becomes strongly magnetized and can form spiky surface patterns"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which forces balance to produce a ferrofluids characteristic spiky pattern?",
-            "options": [
-              "Purely electrical forces with no magnetic component",
-              "Magnetic, gravitational, and surface tension forces",
-              "Only gravitational force, with no other forces involved",
-              "Nuclear forces acting on individual atoms"
+              "150 W",
+              "300 W",
+              "3000 W",
+              "67500 W"
             ],
             "answer": 1
           },
           {
-            "q": "What size scale are the magnetic particles suspended within a ferrofluid?",
+            "q": "A car engine delivers a constant force of 2000 N to keep the car moving at a constant speed of 25 m/s. What power is the engine delivering?",
             "options": [
-              "The scale of a large boulder",
-              "Nanoscale",
-              "The scale of a single grain of sand",
-              "The scale of an entire planet"
+              "80 W",
+              "2025 W",
+              "25000 W",
+              "50000 W"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why does a ferrofluid remain a liquid overall despite containing many magnetic particles?",
+            "q": "Two cranes lift identical loads to the same height, but crane A takes half the time crane B takes. How do their power outputs compare?",
             "options": [
-              "The magnetic particles are small enough and evenly enough dispersed to preserve the fluids overall liquid behaviour",
-              "The magnetic particles chemically dissolve into the fluid, losing all magnetic properties",
-              "Ferrofluids are technically classified as solids rather than liquids",
-              "The particles are actually solid rocks with no liquid component present"
+              "Crane A has half the power of crane B",
+              "Crane A has the same power as crane B, since they do the same amount of work",
+              "Crane A has twice the power of crane B",
+              "Power cannot be compared without knowing the mass of each crane"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A machine has a power rating of 500 W but is only 80% efficient at converting electrical input into useful mechanical output. What is the useful mechanical power output?",
+            "options": [
+              "400 W",
+              "500 W",
+              "625 W",
+              "580 W"
             ],
             "answer": 0
+          },
+          {
+            "q": "Why does a car require significantly more engine power to maintain a high constant speed on a highway than to maintain a low constant speed in a parking lot, assuming friction and air resistance both oppose motion?",
+            "options": [
+              "Power depends only on the force needed to overcome resistance, and resistance forces are identical at all speeds",
+              "Power equals force times velocity, so even if the opposing force were constant, higher velocity alone increases the power required, and drag also increases with speed",
+              "Power output depends only on the applied force, not on how fast the car is actually moving",
+              "Engine power decreases as speed increases due to reduced fuel consumption"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Electricity & Magnetism"
+        ]
       }
     ]
   },
@@ -39183,63 +39165,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Tidal Forces and the Physics of Ocean Tides",
-        "summary": "Grade 12 Physics strand: ocean tides arise because the Moons gravitational pull on Earth varies slightly with distance across the planet, stretching the oceans into two bulges, one facing the Moon and one on the opposite side, which sweep past a given coastline as Earth rotates.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Center of Mass: Locating and Tracking the Motion of a System of Particles",
+        "summary": "This lesson introduces the center of mass of a system of particles or an extended object, showing how to calculate its position as a mass-weighted average of the positions of the system's components. You will learn that the center of mass of an isolated system moves according to Newton's second law as if all the mass were concentrated there and all external forces acted at that point, even while individual parts of the system move in complicated ways (such as a spinning wrench thrown through the air).",
+        "resourceLabel": "YouTube: Center of Mass: Locating and Tracking the Motion of a System of Particles",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Center%20of%20Mass%3A%20Locating%20and%20Tracking%20the%20Motion%20of%20a%20System%20of%20Particles%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What causes ocean tides, according to the basic tidal mechanism?",
+            "q": "The center of mass of a two-particle system is calculated using which formula, where m1, m2 are masses and x1, x2 are positions?",
             "options": [
-              "The Moons gravitational pull varying slightly across the Earth, stretching the oceans into bulges",
-              "Earths internal heat causing the ocean to expand and contract",
-              "Wind patterns alone, with no gravitational influence at all",
-              "The Suns light heating the ocean surface unevenly"
+              "x_cm = (x1 + x2)/2, regardless of mass",
+              "x_cm = (m1x1 + m2x2)/(m1 + m2)",
+              "x_cm = (m1 + m2)(x1 + x2)",
+              "x_cm = m1x2 + m2x1"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A wrench is thrown through the air, spinning as it travels. What path does its center of mass follow?",
+            "options": [
+              "An irregular, unpredictable path determined by the spin",
+              "A smooth parabolic path, exactly as a single particle under gravity alone would follow",
+              "A perfectly straight horizontal line",
+              "The center of mass has no well-defined path for a spinning object"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Two masses, 2.0 kg and 6.0 kg, are placed on a metre stick at positions 0 m and 1.0 m respectively. Where is the center of mass located?",
+            "options": [
+              "0.25 m",
+              "0.50 m",
+              "0.75 m",
+              "1.0 m"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For an isolated system with no external forces acting on it, what can be said about the velocity of its center of mass?",
+            "options": [
+              "It must always be zero",
+              "It remains constant, even if individual particles within the system speed up, slow down, or collide with each other",
+              "It continuously increases due to internal forces",
+              "It depends on the exact positions of each individual particle at all times"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the concept of center of mass useful for analyzing an explosion, such as a firework bursting in mid-air?",
+            "options": [
+              "Because internal explosive forces are internal to the system, the center of mass of all the fragments continues along the same trajectory the intact firework would have followed",
+              "Because the center of mass instantly stops moving once the explosion occurs",
+              "Because each fragment's center of mass becomes independent of the others immediately upon separation",
+              "Because the explosion changes the total momentum of the system, altering the center of mass path unpredictably"
             ],
             "answer": 0
-          },
-          {
-            "q": "How many main tidal bulges does the basic Earth-Moon tidal model typically produce?",
-            "options": [
-              "Two, one facing the Moon and one on the opposite side",
-              "Only a single bulge facing the Moon, with none elsewhere",
-              "Four bulges spaced evenly around the entire Earth",
-              "No bulge at all; tides are caused entirely by wind"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why does a bulge form even on the side of Earth facing away from the Moon?",
-            "options": [
-              "The Moon pulls more strongly on the far side than anywhere else on Earth",
-              "The far-side bulge is caused entirely by sunlight, with no lunar influence",
-              "There is no bulge on the far side under any circumstances",
-              "The gravitational pull is weaker there than at Earths centre, so that side is left behind relative to the pull elsewhere"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What causes a given coastline to experience roughly two high tides in about a day?",
-            "options": [
-              "Earths rotation carries the coastline through both tidal bulges roughly once per day",
-              "High tides are caused by a single bulge that never moves relative to the coastline",
-              "The Moon itself physically moves around the coastline twice per day",
-              "Tides occur at exactly the same time everywhere on Earth, with no rotation involved"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Besides the Moon, which other body contributes a smaller but significant effect on Earths tides?",
-            "options": [
-              "Distant stars outside the solar system",
-              "Other planets such as Mars, contributing a dominant effect",
-              "No other body has any tidal influence on Earth",
-              "The Sun"
-            ],
-            "answer": 3
           }
-        ],
-        "topic": "Forces & Motion"
+        ]
       }
     ]
   },
@@ -39428,58 +39409,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Structural Colour: Colour Without Pigment",
-        "summary": "Grade 12 Physics strand: structural colour arises when microscopic surface structures interfere with light of specific wavelengths, producing vivid, often iridescent colour without any pigment or dye, seen in examples such as butterfly wings, peacock feathers, and certain beetle shells.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "The Michelson Interferometer: Measuring Wavelength with Interference",
+        "summary": "This lesson examines the Michelson interferometer, a device that splits a beam of light into two perpendicular paths using a beam splitter, reflects each off a mirror, and recombines them to produce an interference pattern sensitive to tiny path-length differences. You will explain how moving one mirror by a distance equal to a quarter wavelength shifts the interference pattern by one fringe, allowing precise measurement of wavelength (or, historically, testing for the existence of the luminiferous ether in the Michelson-Morley experiment).",
+        "resourceLabel": "YouTube: The Michelson Interferometer: Measuring Wavelength with Interference",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Michelson%20Interferometer%3A%20Measuring%20Wavelength%20with%20Interference%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What produces structural colour, as opposed to colour from a pigment?",
+            "q": "In a Michelson interferometer, what is the function of the beam splitter?",
             "options": [
-              "Radioactive decay occurring within the material",
-              "Microscopic surface structures that interfere with light of specific wavelengths",
-              "A change in a materials internal temperature only",
-              "A chemical dye absorbed directly into a material"
+              "It divides the incoming beam into two perpendicular beams, each directed toward a separate mirror, and later recombines the reflected beams",
+              "It absorbs half the incoming light to reduce intensity before reaching the mirrors",
+              "It polarizes the incoming light before splitting it into components",
+              "It diffracts the beam into a full spectrum of colors before splitting"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If one mirror in a Michelson interferometer is moved a distance d directly toward the beam splitter, by how much does the path length of that arm change?",
+            "options": [
+              "By d, since the light only travels the mirror's new position once",
+              "By 2d, since the light travels the changed distance twice (out to the mirror and back)",
+              "By d/2, because the beam splitter halves the path change",
+              "The path length is unaffected by mirror movement along that axis"
             ],
             "answer": 1
           },
           {
-            "q": "What optical phenomenon underlies most examples of structural colour?",
+            "q": "How far must a mirror in a Michelson interferometer move to shift the interference pattern by exactly one full fringe?",
             "options": [
-              "Radioactive emission of new photons",
-              "Interference of light waves",
-              "A change in the speed of sound through the material",
-              "The complete absorption of all wavelengths of light"
+              "A distance equal to one full wavelength of the light used",
+              "A distance equal to a quarter wavelength of the light used",
+              "A distance equal to twice the wavelength of the light used",
+              "A distance equal to half a wavelength of the light used, since this changes the round-trip path by one full wavelength"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The historical Michelson-Morley experiment used this interferometer to test for what hypothesized phenomenon?",
+            "options": [
+              "The existence of gravitational waves passing through Earth",
+              "The existence of a stationary luminiferous ether medium through which light was thought to propagate",
+              "The quantization of light into discrete photon packets",
+              "The bending of light by the Sun's gravity during a solar eclipse"
             ],
             "answer": 1
           },
           {
-            "q": "Which everyday natural example is commonly cited to illustrate structural colour?",
+            "q": "The null result of the Michelson-Morley experiment (no fringe shift was detected as expected from Earth's motion through a hypothesized ether) was historically significant because it:",
             "options": [
-              "A plain sheet of white paper",
-              "A red apple coloured by pigment alone",
-              "Butterfly wings",
-              "A block of ordinary grey concrete"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why does structurally coloured material often appear iridescent, changing colour with viewing angle?",
-            "options": [
-              "Iridescence in these materials is caused entirely by pigment, unrelated to structure",
-              "The colour is fixed and identical from every possible viewing angle",
-              "The interference condition depends on the angle at which light strikes and reflects off the microscopic structure",
-              "Iridescence never occurs in any naturally structurally coloured material"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How does structural colour differ fundamentally from colour produced by a pigment or dye?",
-            "options": [
-              "The two mechanisms are physically identical in every respect",
-              "Pigments also rely entirely on microscopic interference structures",
-              "Structural colour arises from physical light interference rather than selective chemical absorption of wavelengths",
-              "Structural colour requires a chemical reaction identical to pigment absorption"
+              "Confirmed that light behaves purely as a particle rather than a wave",
+              "Proved that interferometers cannot measure wavelength accurately",
+              "Provided experimental grounds against the ether hypothesis and later supported Einstein's postulate that the speed of light is constant in all inertial frames",
+              "Showed that gravity affects the speed of light in a vacuum"
             ],
             "answer": 2
           }
@@ -39671,60 +39652,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Waves, Relativity, and Collisions",
-        "summary": "This review covers Days 151-159, revisiting wave interference, muon decay and time dilation, de Broglie wavelength and wave-particle duality, the Fizeau Experiment, ferrofluids, Special Relativity, elastic and inelastic collisions in two dimensions, tidal forces, and structural colour.",
-        "resourceLabel": "YouTube: Physics Review: Waves, Relativity, and Collisions",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Waves%2C%20Relativity%2C%20and%20Collisions%20grade%2012%20physics%20educational",
+        "title": "Physics Review: Waves, Relativity, and Mechanics",
+        "summary": "This review covers Days 151-159: constructive and destructive wave interference, muon decay as experimental proof of time dilation, the de Broglie wavelength of matter, Newton's third law in complex multi-object systems, mechanical power, Einstein's postulates of special relativity, elastic and inelastic collisions in two dimensions, the center of mass of a system of particles, and the Michelson interferometer.",
+        "resourceLabel": "YouTube: Physics Review: Waves, Relativity, and Mechanics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Waves%2C%20Relativity%2C%20and%20Mechanics%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "Constructive interference occurs when two waves meet:",
+            "q": "Destructive interference between two waves occurs when they meet:",
             "options": [
-              "Completely out of phase, cancelling each other",
-              "In phase, with crests aligning with crests",
-              "At a 90-degree angle to each other",
-              "With different frequencies only"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The observation of muon decay at Earth's surface (despite their short lifetime) provides experimental support for:",
-            "options": [
-              "Time dilation predicted by Special Relativity",
-              "The wave nature of matter",
-              "Newton's Third Law",
-              "The Pauli Exclusion Principle"
+              "Crest to trough, so their amplitudes at least partially cancel",
+              "Crest to crest, doubling the amplitude",
+              "At exactly the same frequency but different amplitudes",
+              "Only when the waves are travelling in the same direction"
             ],
             "answer": 0
           },
           {
-            "q": "The de Broglie wavelength relates a particle's wavelength to its:",
+            "q": "Muons produced by cosmic rays are detected at sea level in far greater numbers than classical physics predicts because:",
             "options": [
-              "Electric charge",
-              "Momentum",
-              "Temperature",
-              "Mass alone, independent of speed"
+              "Muons travel faster than the speed of light",
+              "Time dilation extends the muons' apparent lifetime as measured from the ground, allowing more of them to survive the trip",
+              "Muons are created much closer to the ground than previously thought",
+              "The muons' rest mass decreases as they fall"
             ],
             "answer": 1
           },
           {
-            "q": "One of Einstein's key postulates of Special Relativity states that:",
+            "q": "A person pushes against a wall. According to Newton's third law, the reaction force to the person's push is:",
             "options": [
-              "Time flows at the same rate for all observers everywhere",
-              "The speed of light in a vacuum is the same for all inertial observers",
-              "Mass increases only near massive planets",
-              "Gravity bends light more than it bends matter"
+              "The person's own weight acting downward",
+              "Friction between the person's feet and the ground",
+              "There is no reaction force since the wall does not move",
+              "The wall pushing back on the person with an equal and opposite force"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In an elastic collision between two objects in two dimensions, which quantities must be conserved?",
+            "options": [
+              "Only momentum, not kinetic energy",
+              "Both total momentum (in each perpendicular direction) and total kinetic energy",
+              "Only kinetic energy, not momentum",
+              "Neither momentum nor kinetic energy, only total mass"
             ],
             "answer": 1
           },
           {
-            "q": "In a perfectly inelastic collision between two objects:",
+            "q": "A spinning wrench is thrown through the air. What path does its center of mass follow, even as the wrench tumbles?",
             "options": [
-              "Kinetic energy is conserved but momentum is not",
-              "Both objects stick together after colliding",
-              "The objects bounce apart with equal and opposite speeds",
-              "Neither momentum nor energy is affected"
+              "An unpredictable, irregular path determined by the spin",
+              "A straight vertical line downward only",
+              "A smooth parabola, the same path a single particle under gravity alone would follow",
+              "The center of mass has no defined trajectory for a rotating object"
             ],
-            "answer": 1
+            "answer": 2
           }
         ]
       }
@@ -39915,58 +39896,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Gyroscopic Precession and the Physics of a Spinning Top",
-        "summary": "Grade 12 Physics strand: gyroscopic precession occurs when an external torque, such as gravity acting on a tilted spinning top, causes its spin axis to sweep out a cone rather than simply falling over, because the torque changes the direction of angular momentum rather than its magnitude.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "The Twin Paradox: Applying Time Dilation to Space Travel",
+        "summary": "This lesson uses the classic 'twin paradox' thought experiment, one twin stays on Earth while the other travels at relativistic speed to a distant star and back, to apply time dilation, delta_t = delta_t0 / sqrt(1 - v^2/c^2), and resolve the apparent paradox of each twin seeing the other as the one who ages more slowly. You will explain why the situation is not actually symmetric: the traveling twin undergoes acceleration/deceleration and changes reference frames, which breaks the symmetry and results in the traveling twin aging less upon reunion.",
+        "resourceLabel": "YouTube: The Twin Paradox: Applying Time Dilation to Space Travel",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Twin%20Paradox%3A%20Applying%20Time%20Dilation%20to%20Space%20Travel%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What is gyroscopic precession?",
+            "q": "In the twin paradox, why is the aging difference between the twins NOT actually a paradox, despite each twin observing the other's clock running slow during the trip?",
             "options": [
-              "The slow sweeping of a spinning objects axis in a cone shape under an external torque",
-              "The instant collapse of a spinning object the moment any torque is applied",
-              "The complete absence of any motion in a spinning object",
-              "A spinning objects tendency to speed up indefinitely with no external influence"
+              "Because time dilation is purely an illusion caused by light travel delays and no real age difference occurs",
+              "Because the traveling twin undergoes acceleration and switches inertial reference frames (turning around), breaking the symmetry between the two twins' experiences",
+              "Because only the Earth-bound twin experiences real time, while the traveling twin experiences no time at all",
+              "Because the two twins are actually the same age when they reunite, resolving the apparent contradiction"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why does a tilted spinning top precess rather than simply fall over under gravity?",
+            "q": "A twin travels to a star and back at a constant speed such that the Lorentz factor gamma = 2. If the Earth-bound twin measures 20 years have passed for the round trip, how much time has passed for the traveling twin?",
             "options": [
-              "The torque from gravity changes the direction of its angular momentum rather than its magnitude",
-              "Precession only occurs in objects that are not actually spinning",
-              "Gravity has no effect whatsoever on a spinning object",
-              "The tops angular momentum is destroyed instantly by any applied torque"
+              "5 years",
+              "10 years",
+              "20 years",
+              "40 years"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Which earlier-studied conserved quantity is central to explaining gyroscopic precession?",
+            "q": "Which twin actually ages less when they are reunited on Earth?",
             "options": [
-              "Electric charge",
-              "Linear momentum in a straight line only",
-              "Angular momentum",
-              "Volume of the spinning object"
+              "The Earth-bound twin, because they remained in a single accelerating reference frame",
+              "The traveling twin, because their journey involved switching between inertial frames due to acceleration at turnaround",
+              "Neither twin ages differently; both experience identical elapsed proper time",
+              "It depends on which twin is considered to be 'moving' from their own point of view, since both perspectives are equally valid"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "As the traveling twin's speed approaches the speed of light (for a fixed round-trip distance as measured on Earth), what happens to the proper time experienced by the traveling twin?",
+            "options": [
+              "It approaches the same value as the Earth-bound twin's elapsed time",
+              "It approaches infinity as speed increases",
+              "It approaches zero, since time dilation becomes extreme at speeds close to c",
+              "It remains constant regardless of speed"
             ],
             "answer": 2
           },
           {
-            "q": "What shape does the axis of a precessing gyroscope typically trace out over time?",
+            "q": "What role does acceleration play in correctly resolving the twin paradox using special relativity?",
             "options": [
-              "A perfectly straight line with no curvature",
-              "A single fixed point with no motion at all",
-              "A random, unpredictable path with no defined shape",
-              "A cone"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is gyroscopic precession useful in devices such as gyrocompasses and stabilizers?",
-            "options": [
-              "Precession makes a gyroscopes orientation completely unpredictable and useless",
-              "A spinning gyroscopes resistance to having its angular momentum direction changed lets it maintain a stable reference orientation",
-              "Gyroscopes provide no stability of any kind once set in motion",
-              "Gyroscopic devices rely entirely on electric charge rather than rotational motion"
+              "Acceleration is irrelevant; the paradox is resolved purely by considering velocity alone",
+              "The traveling twin's acceleration during turnaround identifies them as the one who leaves the single inertial frame, making their situation physically distinct from the Earth-bound twin's",
+              "Acceleration doubles the time dilation effect experienced by the traveling twin",
+              "Acceleration causes the Earth-bound twin's clock to run fast instead of the traveling twin's clock running slow"
             ],
             "answer": 1
           }
@@ -40159,58 +40140,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Rolling Without Slipping: Combining Translation and Rotation",
-        "summary": "Grade 12 Physics strand: rolling without slipping describes motion in which an objects point of contact with the surface has zero relative velocity, linking its rotational and translational motion through a fixed relationship between angular velocity and linear speed, essential to analyzing wheels and rolling spheres.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Perfectly Inelastic Collisions: Objects Combining and Moving Together",
+        "summary": "This lesson examines perfectly inelastic collisions, where two objects collide and stick together, moving with a common final velocity. Students learn that while total momentum is always conserved, kinetic energy is not — some is converted to heat, sound, and deformation. Worked examples show how to apply conservation of momentum to find the combined velocity and calculate the fraction of kinetic energy lost.",
+        "resourceLabel": "YouTube: Perfectly Inelastic Collisions: Objects Combining and Moving Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Perfectly%20Inelastic%20Collisions%3A%20Objects%20Combining%20and%20Moving%20Together%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What condition defines rolling without slipping?",
+            "q": "In a perfectly inelastic collision between two objects, which quantity is always conserved?",
             "options": [
-              "The surface and the object never make contact",
-              "The point of contact between the object and the surface has zero relative velocity",
-              "The object spins in place with no translational motion whatsoever",
-              "The object slides freely with no rotation at all"
+              "Total momentum only",
+              "Total kinetic energy only",
+              "Both momentum and kinetic energy",
+              "Neither momentum nor kinetic energy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A 2.0 kg cart moving at 6.0 m/s collides and sticks to a stationary 4.0 kg cart. What is their common velocity after the collision?",
+            "options": [
+              "1.0 m/s",
+              "2.0 m/s",
+              "3.0 m/s",
+              "4.0 m/s"
             ],
             "answer": 1
           },
           {
-            "q": "What relationship links angular velocity and linear speed for an object rolling without slipping?",
+            "q": "What happens to the kinetic energy lost in a perfectly inelastic collision?",
             "options": [
-              "Linear speed is always zero whenever angular velocity is nonzero",
-              "A fixed relationship in which linear speed equals angular velocity multiplied by the objects radius",
-              "Angular velocity is always exactly zero during rolling motion",
-              "The two quantities are completely unrelated to one another"
+              "It converts to heat, sound, and deformation energy",
+              "It is transferred entirely to the lighter object's kinetic energy",
+              "It converts into gravitational potential energy of the system",
+              "It is conserved as kinetic energy in a different reference frame"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "Which earlier-studied concepts does analyzing rolling without slipping combine?",
+            "q": "Two train cars of equal mass m collide and couple together, one moving at speed v and the other initially at rest. What fraction of the initial kinetic energy is lost in the collision?",
             "options": [
-              "Only thermodynamic quantities, with no motion involved",
-              "Only wave phenomena, with no rotation involved",
-              "Translational motion and rotational motion together",
-              "Only electric circuits, with no mechanics involved"
+              "1/4",
+              "1/3",
+              "1/2",
+              "2/3"
             ],
             "answer": 2
           },
           {
-            "q": "Why is friction generally necessary at the contact point for rolling without slipping to occur?",
+            "q": "Which scenario best exemplifies a perfectly inelastic collision?",
             "options": [
-              "Friction has no role in rotational motion of any kind",
-              "Rolling without slipping requires a completely frictionless surface",
-              "Friction always causes an object to slip rather than roll smoothly",
-              "Friction provides the torque needed to keep the surface velocity at the contact point equal to zero"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How does the total kinetic energy of a rolling object, such as a ball, differ from that of an object simply sliding at the same speed?",
-            "options": [
-              "Sliding and rolling objects always have identical total kinetic energy at the same speed",
-              "Rolling motion contains no kinetic energy of any kind",
-              "A rolling object always has less total kinetic energy than a sliding object at the same speed",
-              "A rolling object has additional rotational kinetic energy on top of its translational kinetic energy"
+              "A ball bouncing elastically off a wall",
+              "Two magnets repelling before touching",
+              "Two billiard balls colliding and separating with different velocities",
+              "A meteorite embedding itself in the ground"
             ],
             "answer": 3
           }
@@ -40647,60 +40628,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Electromagnetic Induction: Faraday's Law and Induced EMF",
-        "summary": "Students learn that a changing magnetic flux through a loop induces an EMF, as described by Faraday's law, and that Lenz's law gives the direction of the induced current.",
-        "resourceLabel": "YouTube: Electromagnetic Induction: Faraday's Law and Induced EMF",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Electromagnetic%20Induction%3A%20Faraday%27s%20Law%20and%20Induced%20EMF%20grade%2012%20educational",
+        "title": "Series and Parallel Resistor Networks: Equivalent Resistance",
+        "summary": "Students learn how to calculate equivalent resistance for resistors arranged in series and in parallel, and how current and voltage behave differently in each configuration. The lesson covers the series formula (R_eq = R1 + R2 + ...) and the parallel formula (1/R_eq = 1/R1 + 1/R2 + ...), with worked numerical examples. Understanding these networks is essential for analyzing more complex circuits in the Fields strand.",
+        "resourceLabel": "YouTube: Series and Parallel Resistor Networks: Equivalent Resistance",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Series%20and%20Parallel%20Resistor%20Networks%3A%20Equivalent%20Resistance%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "According to Faraday's law, an EMF is induced in a loop whenever ___.",
+            "q": "Three resistors of 2.0 Ω, 4.0 Ω, and 6.0 Ω are connected in series across a battery. What is their equivalent resistance?",
             "options": [
-              "a magnetic field is present, whether changing or not",
-              "the loop is stationary in a uniform field",
-              "the loop has a large resistance",
-              "the magnetic flux through the loop is changing"
+              "12.0 Ω",
+              "6.0 Ω",
+              "8.0 Ω",
+              "24.0 Ω"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Two resistors of 6.0 Ω and 3.0 Ω are connected in parallel. What is their equivalent resistance?",
+            "options": [
+              "9.0 Ω",
+              "4.5 Ω",
+              "1.0 Ω",
+              "2.0 Ω"
             ],
             "answer": 3
           },
           {
-            "q": "Lenz's law states that the direction of an induced current is such that it ___.",
+            "q": "In a series circuit, which quantity is the same through every resistor?",
             "options": [
-              "opposes the change in magnetic flux that produced it",
-              "always flows clockwise",
-              "always increases the change in flux that caused it",
-              "has no definite direction"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "A bar magnet is pushed into a coil, increasing the flux through it. By Lenz's law, the induced current creates a magnetic field inside the coil that ___.",
-            "options": [
-              "points in the same direction as the magnet's field, reinforcing it",
-              "always points toward the magnet, attracting it further in",
-              "points opposite to the magnet's field, opposing the increase",
-              "is exactly zero, since the coil resists all change"
+              "Voltage",
+              "Power",
+              "Current",
+              "Resistance"
             ],
             "answer": 2
           },
           {
-            "q": "Doubling the speed at which a magnet is pushed through a coil will ___ the induced EMF, assuming the flux change is proportional to speed.",
+            "q": "In a parallel circuit, which quantity is the same across every branch?",
             "options": [
-              "leave unchanged",
-              "double",
-              "quarter",
-              "halve"
+              "Resistance",
+              "Voltage",
+              "Current",
+              "Power dissipated"
             ],
             "answer": 1
           },
           {
-            "q": "A coil is held stationary near a magnet that is also stationary. The induced EMF in the coil is ___.",
+            "q": "Adding another resistor in parallel to an existing parallel combination does what to the total equivalent resistance?",
             "options": [
-              "zero, since the flux through the coil is not changing",
-              "at its maximum possible value",
-              "proportional to the magnet's strength alone",
-              "negative, opposing the magnet's field"
+              "Doubles it",
+              "Decreases it",
+              "Increases it",
+              "Leaves it unchanged"
             ],
-            "answer": 0
+            "answer": 1
           }
         ]
       }
@@ -41382,63 +41363,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Exoplanet Detection: The Transit and Radial Velocity Methods",
-        "summary": "Grade 12 Physics strand: exoplanets, planets orbiting stars beyond our solar system, are commonly detected using the transit method, which measures the small periodic dip in a stars brightness as a planet passes in front of it, and the radial velocity method, which measures the tiny wobble a planets gravity induces in its stars motion.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Nuclear Fusion in the Sun: The Proton-Proton Chain",
+        "summary": "This lesson explores how the Sun generates energy through the proton-proton chain, the dominant fusion process in stars like our Sun. Students trace the steps from two protons fusing into deuterium, through helium-3 formation, to the final production of helium-4, and learn why quantum tunneling is required to overcome the Coulomb barrier. The mass defect between reactants and products is linked to the enormous energy release via E = mc².",
+        "resourceLabel": "YouTube: Nuclear Fusion in the Sun: The Proton-Proton Chain",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Nuclear%20Fusion%20in%20the%20Sun%3A%20The%20Proton-Proton%20Chain%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does the transit method use to detect an exoplanet?",
+            "q": "What is the net result of the proton-proton chain reaction?",
             "options": [
-              "A sudden, permanent increase in the stars total brightness",
-              "A small, periodic dip in a stars brightness as the planet passes in front of it",
-              "A measurement of the planets surface temperature from Earth",
-              "The exact colour of the planet as seen directly through a telescope"
+              "Four protons combine to form one helium-4 nucleus, releasing energy",
+              "Two helium nuclei combine to form beryllium",
+              "A neutron decays into a proton and electron",
+              "Uranium splits into two smaller nuclei"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The first step of the proton-proton chain involves two protons fusing into a deuterium nucleus, releasing which particles?",
+            "options": [
+              "An electron and a photon",
+              "A positron and a neutrino",
+              "A neutron and a proton",
+              "Two gamma rays"
             ],
             "answer": 1
           },
           {
-            "q": "What physical effect does the radial velocity method rely on to detect an exoplanet?",
+            "q": "What allows protons in the Sun's core to overcome their mutual electrostatic repulsion and fuse despite classical physics predicting they cannot?",
             "options": [
-              "A direct, unobstructed photograph of the planet itself",
-              "A tiny wobble in the stars motion caused by the gravitational pull of the orbiting planet",
-              "A measurable change in the stars chemical composition",
-              "A complete stop in the stars motion caused by the planet"
+              "Quantum tunneling",
+              "Gravitational lensing",
+              "Nuclear magnetism",
+              "Pair production"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "What periodic pattern in stellar brightness is characteristic of a successful transit detection?",
+            "q": "Approximately how much energy is released per proton-proton chain reaction (four protons converted to helium-4)?",
             "options": [
-              "A single, permanent, non-repeating loss of all stellar brightness",
-              "A random, irregular pattern with no periodicity at all",
-              "A small dip in brightness that repeats regularly as the planet orbits the star",
-              "A brightness increase rather than any decrease"
+              "2.2 MeV",
+              "13.6 eV",
+              "26.7 MeV",
+              "931 MeV"
             ],
             "answer": 2
           },
           {
-            "q": "Which earlier-studied wave phenomenon underlies how the radial velocity method detects a stars wobble?",
+            "q": "Why does the Sun release energy during fusion, according to mass-energy equivalence?",
             "options": [
-              "The photoelectric effect, with no connection to Doppler shifts",
-              "The Doppler effect, applied to shifts in the stars observed light spectrum",
-              "Total internal reflection, unrelated to any motion of the star",
-              "Structural colour, which has no connection to stellar spectra"
+              "The helium-4 nucleus has slightly more mass than the four protons combined",
+              "Protons gain mass as they fuse, releasing gravitational energy",
+              "The reaction converts electric potential energy directly into light",
+              "The helium-4 nucleus has slightly less mass than the four protons combined, and the difference converts to energy"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why do astronomers often use both the transit and radial velocity methods together when studying the same exoplanet?",
-            "options": [
-              "Combining both methods can reveal additional properties, such as the planets mass and radius, that neither method alone fully provides",
-              "The transit method alone provides complete information with no need for any other method",
-              "The two methods can never be applied to the same exoplanet system",
-              "Using two different methods together always produces contradictory, unusable results"
-            ],
-            "answer": 0
+            "answer": 3
           }
-        ],
-        "topic": "Space & Astronomy"
+        ]
       }
     ]
   },
@@ -41628,60 +41608,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Olbers Paradox: Why Is the Night Sky Dark",
-        "summary": "Grade 12 Physics strand: Olbers paradox asks why the night sky is dark rather than uniformly bright, given that in an infinite, static universe filled evenly with stars every line of sight should eventually terminate on a stars surface, a puzzle resolved by the universes finite age and the expansion revealed by cosmological redshift.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Radioactive Half-Life: Calculating Remaining Mass and Activity",
+        "summary": "Students study radioactive decay and half-life, learning to calculate the remaining mass or activity of a sample after a given number of half-lives using N = N0(1/2)^(t/T). The relationship between decay constant and half-life (λ = ln2/T) is introduced, along with the definition of activity as decays per unit time. Worked problems build fluency in applying exponential decay to realistic isotope scenarios.",
+        "resourceLabel": "YouTube: Radioactive Half-Life: Calculating Remaining Mass and Activity",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Radioactive%20Half-Life%3A%20Calculating%20Remaining%20Mass%20and%20Activity%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What observational fact does Olbers paradox attempt to explain?",
+            "q": "A sample has a half-life of 8 days. What fraction of the original sample remains after 24 days?",
             "options": [
-              "Why the daytime sky appears blue rather than another colour",
-              "Why the Moon appears to change shape over the course of a month",
-              "Why stars appear to twinkle rather than shine steadily",
-              "Why the night sky appears dark rather than uniformly bright"
+              "1/2",
+              "1/4",
+              "1/8",
+              "1/16"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A radioactive sample starts with a mass of 80 g and has a half-life of 5 years. What mass remains after 15 years?",
+            "options": [
+              "10 g",
+              "20 g",
+              "40 g",
+              "5 g"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The decay constant λ of a radioactive isotope is related to its half-life T by which expression?",
+            "options": [
+              "λ = T/ln2",
+              "λ = ln2/T",
+              "λ = 2/T",
+              "λ = T·ln2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Activity of a radioactive sample is defined as:",
+            "options": [
+              "The total mass of the sample",
+              "The energy released per decay",
+              "The number of protons in the nucleus",
+              "The number of decays per unit time"
             ],
             "answer": 3
           },
           {
-            "q": "Under the assumption of an infinite, static, evenly star-filled universe, what would every line of sight from Earth eventually be expected to hit?",
+            "q": "If a sample's activity drops from 800 Bq to 100 Bq, how many half-lives have elapsed?",
             "options": [
-              "A single, unique star directly overhead only",
-              "The surface of some star, making the entire sky appear bright",
-              "Nothing at all, since light could never reach Earth in such a universe",
-              "Empty space with absolutely no light reaching Earth at all"
+              "2",
+              "3",
+              "4",
+              "8"
             ],
             "answer": 1
-          },
-          {
-            "q": "Which two features of the actual universe help resolve Olbers paradox?",
-            "options": [
-              "The complete absence of any stars in the universe",
-              "The universes finite age and its ongoing cosmic expansion",
-              "The fact that all stars are located at exactly the same distance from Earth",
-              "The claim that light from stars never actually reaches Earth"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How does cosmological redshift, arising from the universes expansion, contribute to explaining the darkness of the night sky?",
-            "options": [
-              "Redshift only affects sound waves, not light from distant stars",
-              "It shifts light from very distant, receding sources toward longer wavelengths, reducing the visible brightness reaching Earth",
-              "Redshift has no connection whatsoever to the observed darkness of the sky",
-              "Redshift makes every distant star appear brighter than it otherwise would"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is Olbers paradox considered an important historical puzzle in cosmology?",
-            "options": [
-              "It was resolved without any reference to the age or expansion of the universe",
-              "It was resolved by proving that stars do not actually emit any light",
-              "It has no connection to how modern cosmological models were developed",
-              "Resolving it required insights into the finite age and expansion of the universe, ideas central to modern cosmological models"
-            ],
-            "answer": 3
           }
         ]
       }
@@ -42115,60 +42095,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Rotation, Induction, and Cosmic Scales",
-        "summary": "This review covers Days 161-169, revisiting gyroscopic precession, rolling without slipping, electromagnetic induction, polarization of light and Malus's Law, mass-energy equivalence and nuclear binding energy, exoplanet detection methods, Olbers' Paradox, and electromagnetic waves and the electromagnetic spectrum.",
-        "resourceLabel": "YouTube: Physics Review: Rotation, Induction, and Cosmic Scales",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Rotation%2C%20Induction%2C%20and%20Cosmic%20Scales%20grade%2012%20physics%20educational",
+        "title": "Physics Review: Relativity, Circuits, and Nuclear Physics",
+        "summary": "This review covers Days 161-169: the twin paradox and time dilation in space travel, perfectly inelastic collisions, Faraday's and Lenz's laws of electromagnetic induction, series and parallel resistor networks, polarization of light and Malus's law, mass-energy equivalence and nuclear binding energy, nuclear fusion in the Sun via the proton-proton chain, radioactive half-life, and the electromagnetic spectrum.",
+        "resourceLabel": "YouTube: Physics Review: Relativity, Circuits, and Nuclear Physics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Relativity%2C%20Circuits%2C%20and%20Nuclear%20Physics%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "Gyroscopic precession refers to:",
+            "q": "In the twin paradox, why does the traveling twin age less than the twin who stayed on Earth?",
             "options": [
-              "The slowing down of a spinning gyroscope due to friction",
-              "The slow rotation of a spinning object's axis in response to an applied torque",
-              "The wobble of a top just before it falls over completely",
-              "The increase in angular momentum with temperature"
+              "Because the traveling twin's clock runs fast due to their high speed",
+              "Because the traveling twin accelerates and changes reference frames during the trip, breaking the symmetry between the two twins",
+              "Because the Earth-bound twin experiences no time at all during the trip",
+              "Because both twins actually age the same amount; the paradox is purely an illusion"
             ],
             "answer": 1
           },
           {
-            "q": "Faraday's Law of electromagnetic induction states that an induced EMF is produced by:",
+            "q": "In a perfectly inelastic collision, two objects stick together after colliding. Which quantity is conserved?",
             "options": [
-              "A constant magnetic field passing through a stationary loop",
-              "A changing magnetic flux through a circuit",
-              "A steady current flowing through a straight wire",
-              "Any electric charge at rest"
+              "Total kinetic energy only",
+              "Total momentum, even though kinetic energy is not conserved",
+              "Neither momentum nor kinetic energy",
+              "Both momentum and kinetic energy equally"
             ],
             "answer": 1
           },
           {
-            "q": "Malus's Law describes how the intensity of polarized light changes when passed through a polarizer as a function of:",
+            "q": "Adding an additional resistor in parallel to an existing parallel combination has what effect on the total equivalent resistance?",
             "options": [
-              "The wavelength of the light",
-              "The distance travelled by the light",
-              "The angle between the light's polarization and the polarizer's axis",
-              "The temperature of the polarizing material"
+              "It increases the total resistance",
+              "It decreases the total resistance, since parallel branches provide additional paths for current to flow",
+              "It only affects the voltage across the combination, not the total equivalent resistance",
+              "It doubles the total resistance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The binding energy of a nucleus corresponds to:",
+            "options": [
+              "The total kinetic energy of all its nucleons",
+              "The mass defect between the nucleus and its separate, unbound nucleons, converted to energy via E = mc²",
+              "The energy needed to accelerate the nucleus to relativistic speed",
+              "The electric potential energy between the nucleus and orbiting electrons"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A radioactive sample has a half-life of 10 years. What fraction of the original sample remains after 30 years?",
+            "options": [
+              "1/3",
+              "1/6",
+              "1/8",
+              "1/9"
             ],
             "answer": 2
-          },
-          {
-            "q": "A common method for detecting exoplanets involves:",
-            "options": [
-              "Measuring the periodic dimming of a star's light as a planet transits it",
-              "Directly photographing the planet's surface features",
-              "Detecting the planet's own radio broadcasts",
-              "Measuring the planet's magnetic field from Earth"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Olbers' Paradox asks why, if the universe is infinite and unchanging, the night sky is:",
-            "options": [
-              "Uniformly red instead of black",
-              "Dark rather than uniformly bright",
-              "Filled with only visible stars and no galaxies",
-              "Brighter during a new moon"
-            ],
-            "answer": 1
           }
         ]
       }
@@ -42360,63 +42340,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Non-Inertial Reference Frames and Pseudo-Forces",
-        "summary": "Grade 12 Physics strand: a non-inertial reference frame is one that is accelerating or rotating, and within such a frame an observer must introduce fictitious pseudo-forces, forces with no physical source, to correctly account for motion that appears to violate Newtons laws when analyzed in that accelerating frame.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Circular Motion in a Vertical Circle: Tension at Top and Bottom",
+        "summary": "This lesson analyzes the forces acting on an object moving in a vertical circle, focusing on how tension in the string changes at the top versus the bottom of the loop. Students derive the centripetal force equations at each point, accounting for gravity's changing role, and calculate the minimum speed required to maintain contact with the track at the top. Numerical problems reinforce applying Newton's second law to circular motion.",
+        "resourceLabel": "YouTube: Circular Motion in a Vertical Circle: Tension at Top and Bottom",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Circular%20Motion%20in%20a%20Vertical%20Circle%3A%20Tension%20at%20Top%20and%20Bottom%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What defines a non-inertial reference frame?",
+            "q": "For an object moving in a vertical circle, at the bottom of the loop, the net force providing centripetal acceleration equals:",
             "options": [
-              "It is a reference frame moving at a constant velocity with no acceleration",
-              "It is a reference frame that is accelerating or rotating",
-              "It is a reference frame that is always perfectly stationary",
-              "It is a reference frame with no relationship to acceleration of any kind"
+              "T - mg",
+              "T + mg",
+              "mg - T",
+              "T alone, since gravity does not act here"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "What must an observer introduce to correctly describe motion within a non-inertial frame?",
+            "q": "At the top of a vertical circular loop, tension and gravity both point toward the center. The equation for centripetal force at that point is:",
             "options": [
-              "No forces of any kind, regardless of the frames motion",
-              "Only forces with a clearly identifiable physical source",
-              "Fictitious pseudo-forces, with no physical source",
-              "A force that always exactly cancels gravity"
+              "Fc = T - mg",
+              "Fc = mg - T",
+              "Fc = T + mg",
+              "Fc = T × mg"
             ],
             "answer": 2
           },
           {
-            "q": "Why do pseudo-forces appear necessary when analyzing motion from within an accelerating frame?",
+            "q": "What is the minimum speed at the top of a vertical loop of radius r for an object to maintain contact with the track (tension = 0)?",
             "options": [
-              "Pseudo-forces are required in every reference frame, whether inertial or not",
-              "Pseudo-forces eliminate the need to ever apply Newtons laws",
-              "Newtons laws hold identically in every frame with no adjustment required",
-              "Motion that appears to violate Newtons laws in that frame can be correctly accounted for by including these extra terms"
+              "v = sqrt(2gr)",
+              "v = gr",
+              "v = sqrt(g/r)",
+              "v = sqrt(gr)"
             ],
             "answer": 3
           },
           {
-            "q": "How does the concept of a non-inertial frame relate to the Coriolis effect, studied in an earlier batch?",
+            "q": "A 0.50 kg ball on a string moves in a vertical circle of radius 1.2 m. At the bottom, its speed is 5.0 m/s. What is the tension in the string at that point? (g = 9.8 m/s²)",
             "options": [
-              "The Coriolis effect only occurs in a perfectly inertial frame with no rotation",
-              "The Coriolis effect is a specific pseudo-force that arises for an observer within a rotating non-inertial frame, such as the rotating Earth",
-              "The Coriolis effect has no connection to non-inertial reference frames",
-              "Non-inertial frames never give rise to any observable pseudo-force effects"
+              "10.4 N",
+              "15.3 N",
+              "4.9 N",
+              "20.8 N"
             ],
             "answer": 1
           },
           {
-            "q": "Why is understanding non-inertial frames and pseudo-forces important for analyzing motion observed from a rotating platform, such as Earth?",
+            "q": "Why is tension greater at the bottom of a vertical circular loop than at the top, for the same speed?",
             "options": [
-              "Motion observed from a rotating platform never requires any special analysis",
-              "Non-inertial frames only matter for objects that are not actually moving at all",
-              "Without accounting for these fictitious forces, motion observed from such a platform would appear to violate Newtons laws in ways otherwise unexplained",
-              "Pseudo-forces have no practical relevance to analyzing motion on Earth"
+              "At the bottom, gravity provides centripetal force so tension decreases",
+              "Tension is actually the same at both points if speed is constant",
+              "At the bottom, tension must both support the object's weight and provide centripetal force, while at the top gravity helps provide the centripetal force",
+              "At the top, the object's mass effectively increases due to inertia"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Forces & Motion"
+        ]
       }
     ]
   },
@@ -42850,60 +42829,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Series and Parallel Circuit Calculations with Ohm's Law",
-        "summary": "Students calculate current, voltage, and equivalent resistance in series and parallel resistor networks using Ohm's law.",
-        "resourceLabel": "YouTube: Series and Parallel Circuit Calculations with Ohm's Law",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Series%20and%20Parallel%20Circuit%20Calculations%20with%20Ohm%27s%20Law%20grade%2012%20educational",
+        "title": "Static and Kinetic Friction: The Coefficient of Friction",
+        "summary": "Students distinguish between static and kinetic friction, learning that the maximum static friction force generally exceeds the kinetic friction force for the same surfaces. The coefficient of friction (μ) is introduced through f = μN, with problems calculating the force needed to start motion versus the force resisting motion once sliding begins. The microscopic explanation involving surface irregularities is also discussed.",
+        "resourceLabel": "YouTube: Static and Kinetic Friction: The Coefficient of Friction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Static%20and%20Kinetic%20Friction%3A%20The%20Coefficient%20of%20Friction%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "In a series circuit, how does the current compare through each resistor?",
+            "q": "Which is generally true about the coefficients of static and kinetic friction between two surfaces?",
             "options": [
-              "It is different through each resistor, depending on its resistance",
-              "It is zero through all but the last resistor",
-              "It is the same through every resistor",
-              "It splits equally between all resistors regardless of resistance"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How is the equivalent resistance of two resistors connected in parallel calculated?",
-            "options": [
-              "1/R_eq = 1/R1 + 1/R2",
-              "R_eq = R1 + R2",
-              "R_eq = R1 × R2",
-              "R_eq = (R1 + R2)/2"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Two resistors, 6.0 Ω and 3.0 Ω, are connected in parallel across a 12 V battery. What total current flows from the battery?",
-            "options": [
-              "2.0 A",
-              "4.0 A",
-              "1.3 A",
-              "6.0 A"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What happens to the total resistance of a circuit when an additional resistor is added in parallel to existing resistors?",
-            "options": [
-              "Total resistance increases",
-              "Total resistance decreases, since current has more paths to flow through",
-              "Total resistance stays exactly the same",
-              "Total resistance becomes infinite"
+              "μs is always less than μk",
+              "μs is usually greater than or equal to μk",
+              "μs and μk are always exactly equal",
+              "μk is always greater than 1"
             ],
             "answer": 1
           },
           {
-            "q": "Why do household electrical outlets connect appliances in parallel rather than in series?",
+            "q": "A 10 kg box rests on a horizontal floor with μs = 0.40. What is the minimum horizontal force needed to start the box moving? (g = 9.8 m/s²)",
             "options": [
-              "Series wiring would let appliances share the same current, which is safer",
-              "Parallel wiring makes all appliances turn on and off together",
-              "Parallel wiring ensures each appliance receives the full source voltage and can operate independently of the others",
-              "Series wiring provides a constant voltage to each appliance regardless of how many are connected"
+              "9.8 N",
+              "24.5 N",
+              "39.2 N",
+              "98 N"
             ],
             "answer": 2
+          },
+          {
+            "q": "Once a box is sliding, the kinetic friction force depends on:",
+            "options": [
+              "The coefficient of kinetic friction and the object's speed",
+              "The surface area of contact and the object's speed",
+              "The object's speed only",
+              "The coefficient of kinetic friction and the normal force"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A crate slides across a floor with μk = 0.25. If the normal force is 200 N, what is the kinetic friction force opposing motion?",
+            "options": [
+              "25 N",
+              "50 N",
+              "80 N",
+              "200 N"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does static friction typically need a larger force to overcome than kinetic friction needs to maintain motion?",
+            "options": [
+              "Static friction involves interlocking surface irregularities that must first be broken free, requiring more force than sliding contact needs",
+              "Static friction depends on speed while kinetic does not",
+              "Kinetic friction always acts in the same direction as motion, increasing its magnitude",
+              "Static objects have greater mass than moving ones"
+            ],
+            "answer": 0
           }
         ]
       }
@@ -43339,58 +43318,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Lens Aberrations: Chromatic and Spherical Distortion",
-        "summary": "Grade 12 Physics strand: a lens aberration is a deviation from perfect image formation, with chromatic aberration arising because a lens refracts different wavelengths of light by different amounts, and spherical aberration arising because rays passing through the edges of a spherically shaped lens focus at a different point than rays near its centre.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Achromatic Lenses: Correcting Chromatic Aberration",
+        "summary": "This lesson explains chromatic aberration — the failure of a simple lens to focus all colors of light at the same point due to dispersion — and how achromatic doublet lenses correct it. Students learn how combining a converging crown-glass lens with a diverging flint-glass lens cancels dispersion for two chosen wavelengths, dramatically sharpening images in telescopes and cameras. The concept connects wave optics to practical instrument design.",
+        "resourceLabel": "YouTube: Achromatic Lenses: Correcting Chromatic Aberration",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Achromatic%20Lenses%3A%20Correcting%20Chromatic%20Aberration%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What is a lens aberration, in general terms?",
+            "q": "What causes chromatic aberration in a simple lens?",
             "options": [
-              "A deviation that only affects the colour of the lens itself, with no effect on any image",
-              "A deviation from perfect image formation by a lens",
-              "A property that only appears in lenses with no curvature whatsoever",
-              "A term describing a lens that has no optical properties at all"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What causes chromatic aberration in a lens?",
-            "options": [
-              "The lens refracts different wavelengths of light by different amounts",
-              "The lens absorbs all wavelengths of light equally, producing no image",
-              "The lens has no interaction with light of any wavelength",
-              "Chromatic aberration is caused entirely by the lenses temperature"
+              "The lens material has a refractive index that varies with wavelength, so different colors focus at different points",
+              "The lens is not perfectly spherical, distorting the image",
+              "Diffraction spreads different colors by different amounts at the aperture edge",
+              "The lens absorbs different colors at different rates"
             ],
             "answer": 0
           },
           {
-            "q": "What causes spherical aberration in a lens?",
+            "q": "An achromatic doublet lens typically combines:",
             "options": [
-              "Spherical aberration is caused by a lens absorbing all incoming light",
-              "Rays passing through the edges of a spherically shaped lens focus at a different point than rays near its centre",
-              "Spherical aberration only occurs in lenses with no curvature",
-              "All rays passing through a spherical lens always focus at exactly the same point with no exception"
+              "Two converging lenses of the same glass type",
+              "Two diverging lenses of different glass types",
+              "A single lens with a variable refractive index",
+              "A converging crown glass lens with a diverging flint glass lens"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does combining a converging low-dispersion lens with a diverging high-dispersion lens reduce chromatic aberration?",
+            "options": [
+              "The dispersion introduced by one lens is largely cancelled by the opposite dispersion of the other, bringing two chosen wavelengths to a common focus",
+              "The diverging lens absorbs the unwanted colors before they pass through",
+              "Combining lenses always increases the effective focal length and reduces color spreading",
+              "The two lenses have equal but opposite refractive indices at all wavelengths"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Crown glass has lower dispersion than flint glass, meaning:",
+            "options": [
+              "Crown glass has a refractive index that changes more dramatically with wavelength",
+              "Crown glass has a refractive index that varies less with wavelength than flint glass",
+              "Crown glass bends all colors of light by exactly the same amount as flint glass",
+              "Crown glass has a higher overall refractive index than flint glass"
             ],
             "answer": 1
           },
           {
-            "q": "How does chromatic aberration relate to the refraction studied earlier in this course?",
+            "q": "An achromatic lens perfectly corrects chromatic aberration for:",
             "options": [
-              "Chromatic aberration only occurs in the complete absence of any refraction",
-              "Chromatic aberration arises directly from the wavelength-dependent refraction, or dispersion, of light as it passes through a lens",
-              "Chromatic aberration has no connection to the refraction of light at all",
-              "Refraction affects every wavelength of light in exactly the same way, with no dependence on colour"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is understanding lens aberrations important for designing optical instruments, such as telescopes and microscopes studied in an earlier batch?",
-            "options": [
-              "Aberrations have no impact on the image quality produced by an optical instrument",
-              "Lens aberrations can only occur in instruments with no lenses at all",
-              "Correcting for aberrations, often using combinations of different lens shapes and materials, is necessary to produce sharp images in precision instruments",
-              "High-quality optical instruments never need to account for any lens aberration"
+              "All wavelengths of visible light simultaneously",
+              "Only ultraviolet light",
+              "Exactly two chosen wavelengths, with a small residual error (secondary spectrum) for others",
+              "No wavelengths; it only corrects spherical aberration"
             ],
             "answer": 2
           }
@@ -43582,60 +43561,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Frames, Momentum, and Circuits",
-        "summary": "This review covers Days 171-175, revisiting non-inertial reference frames and pseudo-forces, conservation of momentum in explosions, series and parallel circuits with Ohm's Law, diffraction of light through a single slit, and lens aberrations.",
-        "resourceLabel": "YouTube: Physics Review: Frames, Momentum, and Circuits",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Frames%2C%20Momentum%2C%20and%20Circuits%20grade%2012%20physics%20educational",
+        "title": "Physics Review: Circular Motion, Momentum, and Optics",
+        "summary": "This review covers Days 171-175: circular motion in a vertical circle and how tension varies between the top and bottom of the loop, conservation of momentum in explosions, static and kinetic friction, single-slit diffraction, and achromatic lenses correcting chromatic aberration.",
+        "resourceLabel": "YouTube: Physics Review: Circular Motion, Momentum, and Optics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Circular%20Motion%2C%20Momentum%2C%20and%20Optics%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "A pseudo-force (such as the centrifugal force) appears to act on an object only when observed from:",
+            "q": "At the top of a vertical circular loop, what is the minimum speed needed to maintain contact with the track (tension = 0)?",
             "options": [
-              "Any inertial reference frame",
-              "A non-inertial (accelerating or rotating) reference frame",
-              "A frame at absolute rest",
-              "A frame moving at constant velocity"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "During an explosion where an object breaks into fragments, which quantity is conserved (assuming no external forces)?",
-            "options": [
-              "Kinetic energy",
-              "Total momentum",
-              "Individual masses of each fragment separately",
-              "Potential energy"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "In a series circuit, the current through each resistor is:",
-            "options": [
-              "Divided unequally based on resistor size",
-              "The same through every component",
-              "Zero unless a switch is closed at each resistor",
-              "Dependent on the order of the resistors"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Diffraction of light through a single slit produces a pattern characterized by:",
-            "options": [
-              "A single sharp bright line with no spreading",
-              "A central bright maximum flanked by dimmer fringes",
-              "Complete darkness at the centre",
-              "Equally bright fringes across the entire pattern"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Chromatic aberration in a lens occurs because:",
-            "options": [
-              "Different wavelengths of light refract by different amounts, focusing at different points",
-              "The lens surface is not perfectly spherical",
-              "The lens absorbs all colours except one",
-              "Light reflects instead of refracting through the lens"
+              "v = sqrt(gr)",
+              "v = gr",
+              "v = sqrt(2gr)",
+              "v = 2gr"
             ],
             "answer": 0
+          },
+          {
+            "q": "A stationary object explodes into two fragments. What must be true of their momenta immediately after?",
+            "options": [
+              "They must have equal magnitude and the same direction",
+              "They must be equal in magnitude and opposite in direction so total momentum stays zero",
+              "Only the heavier fragment carries any momentum",
+              "Momentum is not conserved during an explosion"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the maximum static friction force generally greater than the kinetic friction force between the same two surfaces?",
+            "options": [
+              "Static friction depends on speed while kinetic friction does not",
+              "Kinetic friction always acts in the same direction as the applied force",
+              "There is no general difference between static and kinetic friction",
+              "Static friction must overcome interlocking surface irregularities before sliding begins, requiring more force than maintaining sliding motion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In single-slit diffraction, what happens to the width of the central maximum if the slit width is decreased?",
+            "options": [
+              "It becomes narrower",
+              "It becomes wider, since a narrower slit causes more spreading of light",
+              "It stays exactly the same",
+              "The central maximum disappears entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An achromatic doublet lens reduces chromatic aberration by:",
+            "options": [
+              "Using two lenses of the same glass type and same shape",
+              "Absorbing all colors except one before they reach the lens",
+              "Combining a converging low-dispersion lens with a diverging high-dispersion lens so their dispersions largely cancel",
+              "Increasing the overall focal length of the single lens"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -43826,63 +43805,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Stellar Nucleosynthesis and the Origin of the Elements",
-        "summary": "Grade 12 Physics strand: stellar nucleosynthesis is the process by which stars fuse lighter atomic nuclei into heavier ones in their cores, building up elements from hydrogen through iron during a stars normal lifetime, while still heavier elements form during the extreme conditions of a supernova.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "The Wave Function and Probability in Quantum Mechanics",
+        "summary": "Students are introduced to the wave function ψ as the central mathematical object of quantum mechanics, and to the Born interpretation that |ψ|² gives the probability density of finding a particle at a given location. The lesson covers normalization, the role of the time-dependent Schrödinger equation in evolving ψ, and the concept of wave function collapse upon measurement. This bridges classical wave ideas to the probabilistic nature of quantum theory.",
+        "resourceLabel": "YouTube: The Wave Function and Probability in Quantum Mechanics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Wave%20Function%20and%20Probability%20in%20Quantum%20Mechanics%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What process does stellar nucleosynthesis describe?",
+            "q": "According to the Born interpretation, the physical significance of the wave function ψ(x) is that:",
             "options": [
-              "A process with no connection to atomic nuclei of any kind",
-              "Stars fusing lighter atomic nuclei into heavier ones in their cores",
-              "Stars breaking heavier nuclei apart into lighter ones with no fusion involved",
-              "A process that occurs only outside of any star"
+              "ψ(x) itself represents the exact position of the particle",
+              "|ψ(x)|² gives the probability density of finding the particle at position x",
+              "ψ(x) represents the particle's momentum directly",
+              "ψ(x) is the classical trajectory of the particle"
             ],
             "answer": 1
           },
           {
-            "q": "Up to which element can normal stellar fusion during a stars typical lifetime build?",
+            "q": "Why must a wave function be normalized?",
             "options": [
-              "Iron",
-              "Hydrogen alone, with no heavier elements produced",
-              "Uranium",
-              "A single fixed element that never varies between different stars"
+              "So that its amplitude never exceeds 1",
+              "So that the wave function has real values everywhere",
+              "So that the particle's energy is always positive",
+              "So that the total probability of finding the particle somewhere in space equals 1"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to a particle's wave function immediately after a position measurement, according to the standard (Copenhagen) interpretation?",
+            "options": [
+              "It collapses to a sharply peaked function localized near the measured position",
+              "It continues evolving unchanged, unaffected by measurement",
+              "It spreads out to become uniform across all space",
+              "It becomes exactly zero everywhere"
             ],
             "answer": 0
           },
           {
-            "q": "Under what extreme conditions do elements heavier than iron typically form?",
+            "q": "The equation that governs how a quantum wave function evolves in time is:",
             "options": [
-              "During the extreme conditions of a supernova",
-              "Only in a laboratory setting on Earth, with no connection to stars",
-              "During the quiet, stable early formation of any star",
-              "Elements heavier than iron never form under any known process"
+              "Newton's second law",
+              "Maxwell's equations",
+              "The time-dependent Schrödinger equation",
+              "Einstein's mass-energy equation"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "How does stellar nucleosynthesis relate to nuclear fusion and nuclear reactions studied in an earlier batch?",
+            "q": "A region where |ψ(x)|² is larger corresponds to:",
             "options": [
-              "It applies the general principles of nuclear fusion to the astrophysical setting of a stars core, explaining how fusion reactions build up heavier elements over time",
-              "Nuclear fusion can only occur in a laboratory and never within a star",
-              "Nuclear reactions studied earlier apply only to radioactive decay and never to fusion",
-              "Stellar nucleosynthesis has no connection to nuclear fusion or nuclear reactions"
+              "A region the particle can never occupy",
+              "A region where the particle's speed must be zero",
+              "A region of higher probability of finding the particle",
+              "A region where the particle definitely is not located"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Why is stellar nucleosynthesis considered a fundamental process for understanding the origin of matter in the universe?",
-            "options": [
-              "It explains how chemical elements beyond the simplest ones formed and were eventually dispersed to form planets and living organisms",
-              "Stellar nucleosynthesis shows that all elements existed unchanged since the very beginning of the universe",
-              "The process only explains the origin of hydrogen, with no other elements involved",
-              "It has no connection to the origin or distribution of chemical elements in the universe"
-            ],
-            "answer": 0
+            "answer": 2
           }
-        ],
-        "topic": "Atoms, Elements & Compounds"
+        ]
       }
     ]
   },
@@ -44316,63 +44294,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "The Electric Dipole and Dipole Moment",
-        "summary": "Grade 12 Physics strand: an electric dipole consists of two equal and opposite charges separated by a small distance, characterized by a dipole moment whose magnitude and direction determine the strength and orientation of the electric field the pair produces and how the pair responds to an external field.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "The Millikan Experiment: Balancing Gravity and Electric Force",
+        "summary": "This lesson recreates Robert Millikan's famous oil-drop experiment, in which charged oil droplets are suspended by balancing gravity against an electric force between charged plates. Students learn to apply mg = qE to determine the charge on a drop and understand how Millikan's measurements revealed that electric charge is quantized in multiples of the elementary charge e. The experiment's careful handling of buoyancy corrections is also discussed.",
+        "resourceLabel": "YouTube: The Millikan Experiment: Balancing Gravity and Electric Force",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Millikan%20Experiment%3A%20Balancing%20Gravity%20and%20Electric%20Force%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does an electric dipole consist of?",
+            "q": "In the Millikan oil-drop experiment, a charged oil drop is held stationary between charged plates when:",
             "options": [
-              "A charge with no defined position in space",
-              "Two equal and opposite charges separated by a small distance",
-              "A single isolated charge with no partner charge",
-              "Two identical charges of the same sign placed close together"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What quantity characterizes an electric dipole and determines the field it produces?",
-            "options": [
-              "The dipole moment",
-              "The colour of the material containing the charges",
-              "The temperature of the surrounding medium",
-              "The total mass of the two charges"
+              "The electric force exactly balances the gravitational force on the drop",
+              "The magnetic force exactly balances the gravitational force",
+              "The drop reaches its terminal velocity due to air resistance alone",
+              "The electric field is turned off completely"
             ],
             "answer": 0
           },
           {
-            "q": "What two properties does the dipole moment specify?",
+            "q": "The electric field between two parallel plates separated by distance d with potential difference V is given by:",
             "options": [
-              "Only a single numerical magnitude with no direction",
-              "Only a temperature value with no other property",
-              "Magnitude and direction",
-              "Only a colour with no magnitude or direction"
+              "E = Vd",
+              "E = V + d",
+              "E = V/d",
+              "E = d/V"
             ],
             "answer": 2
           },
           {
-            "q": "How does the electric dipole relate to electric fields and potential, studied in an earlier batch?",
+            "q": "What key conclusion did Millikan draw from his measurements of drop charges?",
             "options": [
-              "A dipoles field is completely unrelated to the fields produced by its individual charges",
-              "The electric dipole has no connection to electric fields or potential",
-              "An electric dipoles field can be understood as the combined field produced by its two point charges, extending the basic principles of electric fields and potential to a pair of charges",
-              "Electric fields and potential apply only to a single isolated charge and never to a pair"
+              "Electric charge is continuous and can take any value",
+              "Electric charge exists in discrete multiples of a fundamental unit, e ≈ 1.6×10⁻¹⁹ C",
+              "Charge depends on the mass of the oil drop",
+              "Charge can only be negative, never positive"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why is the concept of the electric dipole moment useful for describing how a dipole responds to an external electric field?",
+            "q": "At the balance point in the Millikan experiment, which equation correctly relates the charge q on the drop to the other quantities?",
             "options": [
-              "The dipole moment only describes a dipoles behaviour in the complete absence of any external field",
-              "The dipole moment has no bearing on how a dipole behaves in an external electric field",
-              "A dipole never experiences any torque or force in an external electric field",
-              "The dipole moment determines the torque and potential energy experienced by the dipole when placed in an external field, describing how it tends to align"
+              "q = mE/g",
+              "q = Eg/m",
+              "q = m/(gE)",
+              "q = mg/E"
             ],
             "answer": 3
+          },
+          {
+            "q": "Why did Millikan need to account for the buoyant force of air on the oil drops in precise calculations?",
+            "options": [
+              "Buoyancy causes the drop to become electrically charged",
+              "Air buoyancy exerts a small upward force that slightly reduces the effective weight of the drop, affecting the charge calculation",
+              "Air buoyancy is larger than gravity for oil drops, reversing their motion",
+              "Buoyancy only matters for drops charged negatively"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Electricity & Magnetism"
+        ]
       }
     ]
   },
@@ -44561,60 +44538,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Stars, Photons, and Molecular Charge",
-        "summary": "This review covers Days 177-179, revisiting stellar nucleosynthesis, the Compton Effect, and the electric dipole and dipole moment.",
-        "resourceLabel": "YouTube: Physics Review: Stars, Photons, and Molecular Charge",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Stars%2C%20Photons%2C%20and%20Molecular%20Charge%20grade%2012%20physics%20educational",
+        "title": "Physics Review: Quantum Mechanics, Photons, and Charge",
+        "summary": "This review covers Days 177-179: the wave function and probability interpretation in quantum mechanics, the Compton effect and photon-electron scattering, and the Millikan oil-drop experiment demonstrating the quantization of electric charge.",
+        "resourceLabel": "YouTube: Physics Review: Quantum Mechanics, Photons, and Charge",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Quantum%20Mechanics%2C%20Photons%2C%20and%20Charge%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "Stellar nucleosynthesis refers to the process by which:",
+            "q": "According to the Born interpretation of the wave function ψ, the quantity |ψ|² represents:",
             "options": [
-              "Elements are created through nuclear fusion inside stars",
-              "Stars form from collapsing dust and gas clouds",
-              "Stars lose mass through solar wind",
-              "Black holes evaporate over time"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "In stellar nucleosynthesis, elements heavier than iron are primarily produced during:",
-            "options": [
-              "Normal hydrogen fusion in a star's core",
-              "Supernova explosions and neutron star mergers",
-              "The formation of a protostar",
-              "Planetary formation around the star"
+              "The exact position of a particle",
+              "The probability density of finding a particle at a given location",
+              "The particle's momentum",
+              "The particle's total energy"
             ],
             "answer": 1
           },
           {
-            "q": "The Compton Effect demonstrates that photons:",
+            "q": "What happens to a particle's wave function immediately after a position measurement, in the standard interpretation?",
             "options": [
-              "Have no momentum and cannot collide with particles",
-              "Always travel in straight lines regardless of matter",
-              "Can scatter off electrons, losing energy and increasing in wavelength",
-              "Are completely absorbed whenever they strike an electron"
+              "It continues evolving completely unaffected",
+              "It collapses to a sharply peaked function near the measured position",
+              "It becomes zero everywhere",
+              "It spreads out uniformly across all space"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the Compton effect, a photon scatters off an electron and comes out with a longer wavelength. What does this demonstrate?",
+            "options": [
+              "That light behaves purely as a continuous wave with no particle properties",
+              "That light can be treated as a particle carrying both energy and momentum, conserved in the collision",
+              "That electrons have no mass",
+              "That the photon's frequency always increases after scattering"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What key conclusion did Millikan draw from his oil-drop experiment?",
+            "options": [
+              "Electric charge is continuous and can take any value",
+              "Electric charge exists only in negative amounts",
+              "Electric charge is quantized, always occurring in whole-number multiples of a fundamental unit e",
+              "Charge depends on the oil drop's mass"
             ],
             "answer": 2
           },
           {
-            "q": "An electric dipole consists of:",
+            "q": "In the Millikan experiment, a charged oil drop is held stationary between two charged plates when:",
             "options": [
-              "A single isolated charge at rest",
-              "Two equal and opposite charges separated by a small distance",
-              "A charge moving in a circular path",
-              "Two identical positive charges near each other"
+              "The magnetic force balances gravity",
+              "The electric force on the drop exactly balances the force of gravity",
+              "The drop has zero charge",
+              "Air resistance alone supports the drop's weight"
             ],
             "answer": 1
-          },
-          {
-            "q": "The dipole moment of an electric dipole is a vector that points:",
-            "options": [
-              "From the positive charge toward the negative charge",
-              "Perpendicular to the line joining the two charges",
-              "In the direction of the external electric field only",
-              "From the negative charge toward the positive charge"
-            ],
-            "answer": 3
           }
         ]
       }
@@ -45295,63 +45272,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Youngs Double-Slit Experiment and the Wave Nature of Light",
-        "summary": "Grade 12 Physics strand: Youngs double-slit experiment passes light through two closely spaced narrow slits and observes the resulting pattern of bright and dark fringes on a screen, providing decisive early evidence that light behaves as a wave capable of interference.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Diffraction from Circular Apertures and the Rayleigh Criterion",
+        "summary": "Students study how circular apertures diffract light, producing an Airy pattern of concentric bright and dark rings rather than simple slit fringes. The Rayleigh criterion is introduced as the standard for determining when two point sources can just be resolved, using θ = 1.22λ/D. This lesson connects diffraction theory to the practical resolving power of telescopes and other optical instruments.",
+        "resourceLabel": "YouTube: Diffraction from Circular Apertures and the Rayleigh Criterion",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Diffraction%20from%20Circular%20Apertures%20and%20the%20Rayleigh%20Criterion%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What experimental setup does Youngs double-slit experiment use?",
+            "q": "For light passing through a circular aperture of diameter D, the angular position of the first diffraction minimum is given by:",
             "options": [
-              "Light reflected from a single flat mirror with no slits involved",
-              "A solid opaque barrier with no opening of any kind",
-              "A single wide opening with no second slit present",
-              "Light passed through two closely spaced narrow slits"
+              "θ = λ/D",
+              "θ = 1.22λ/D",
+              "θ = D/λ",
+              "θ = 2λ/D"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to the Rayleigh criterion, two point sources are considered 'just resolved' when:",
+            "options": [
+              "The central maximum of one diffraction pattern coincides exactly with the central maximum of the other",
+              "The sources are separated by exactly one wavelength",
+              "Both diffraction patterns completely overlap with no separation",
+              "The central maximum of one diffraction pattern falls on the first minimum of the other's pattern"
             ],
             "answer": 3
           },
           {
-            "q": "What pattern appears on a screen behind the two slits in Youngs experiment?",
+            "q": "Increasing the diameter D of a telescope's circular aperture, while keeping wavelength constant, has what effect on the minimum resolvable angle?",
             "options": [
-              "Complete darkness across the entire screen",
-              "A pattern of alternating bright and dark fringes",
-              "A pattern that changes colour but shows no variation in brightness",
-              "A single uniform patch of light with no variation at all"
+              "It increases the minimum resolvable angle, reducing resolution",
+              "It only affects the brightness of the image formed, not how finely two close sources can be distinguished",
+              "It decreases the minimum resolvable angle, improving resolution",
+              "It only affects resolution for red light, not other colors"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "What did the fringe pattern observed in Youngs experiment provide early evidence for?",
+            "q": "A telescope has an aperture diameter of 2.0 m and observes light of wavelength 550 nm. What is the approximate minimum angular resolution (in radians)?",
             "options": [
-              "That light behaves as a wave capable of interference",
-              "That light travels only in perfectly straight lines with no wave behaviour",
-              "That light cannot pass through any narrow opening",
-              "That light has no measurable speed"
+              "3.4×10⁻⁷ rad",
+              "1.1×10⁻⁶ rad",
+              "6.7×10⁻⁷ rad",
+              "2.2×10⁻⁷ rad"
             ],
             "answer": 0
           },
           {
-            "q": "How does Youngs double-slit experiment relate to wave superposition and interference studied in an earlier batch?",
+            "q": "Why does diffraction from a circular aperture produce a pattern of concentric rings (Airy pattern) rather than the simple fringes seen with a single slit?",
             "options": [
-              "Youngs experiment is a specific, historically decisive demonstration of the general principle of wave interference and superposition applied to light",
-              "Youngs experiment shows that light does not interfere with itself under any circumstance",
-              "Wave superposition applies only to sound and never to light",
-              "The two topics describe entirely unrelated wave phenomena"
+              "Circular apertures only diffract light of a single wavelength",
+              "The rings are caused by reflection off the edges of the aperture, not diffraction",
+              "The two-dimensional circular symmetry of the aperture causes the diffracted light to spread symmetrically in all directions, producing a central disk surrounded by rings",
+              "Circular apertures cause complete destructive interference, eliminating all fringes"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Why is Youngs double-slit experiment considered a landmark result in the history of optics?",
-            "options": [
-              "It was performed after wave theory had already been universally accepted with no remaining debate",
-              "It provided compelling experimental support for the wave theory of light at a time when a purely particle-based view was widely favoured",
-              "It had no impact on the historical debate over the nature of light",
-              "The experiment proved conclusively that light has no wave properties whatsoever"
-            ],
-            "answer": 1
+            "answer": 2
           }
-        ],
-        "topic": "Light & Sound"
+        ]
       }
     ]
   },
@@ -45785,60 +45761,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Hubbles Law and the Expansion of the Universe",
-        "summary": "Grade 12 Physics strand: Hubbles law states that a distant galaxys recession speed, inferred from the redshift of its light, is proportional to its distance from an observer, providing key observational evidence that the universe is expanding uniformly in every direction.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Antimatter and the Positron: Dirac's Prediction",
+        "summary": "This lesson covers Paul Dirac's relativistic wave equation for the electron and its startling prediction of antimatter — a particle identical to the electron but with opposite charge. Students learn how Carl Anderson confirmed this prediction in 1932 by identifying positron tracks in a cloud chamber, and explore electron-positron annihilation as a conversion of mass into gamma-ray energy. The story illustrates how mathematical consistency in physics can predict entirely new particles before their discovery.",
+        "resourceLabel": "YouTube: Antimatter and the Positron: Dirac's Prediction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Antimatter%20and%20the%20Positron%3A%20Dirac%27s%20Prediction%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What quantity does Hubbles law relate to a distant galaxys distance from an observer?",
+            "q": "Paul Dirac's relativistic wave equation for the electron predicted the existence of:",
             "options": [
-              "Its exact chemical composition",
-              "Its total mass compared to the observers galaxy",
-              "Its surface temperature measured directly",
-              "Its recession speed, inferred from the redshift of its light"
+              "Neutrons",
+              "A particle with the same mass as the electron but opposite (positive) charge",
+              "A massless particle carrying electric charge",
+              "Particles that travel faster than light"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The positron was experimentally discovered by:",
+            "options": [
+              "Carl Anderson, observing tracks in a cloud chamber exposed to cosmic rays",
+              "Ernest Rutherford, using alpha particle scattering",
+              "J.J. Thomson, using cathode ray tubes",
+              "Enrico Fermi, using a nuclear reactor"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a cloud chamber placed in a magnetic field, how did Anderson distinguish the positron's track from an electron's track?",
+            "options": [
+              "The positron left no track at all",
+              "The positron moved much faster than the speed of light",
+              "The positron's track was thicker due to greater mass",
+              "The positron's track curved in the opposite direction to an electron's track for a given field and direction of motion, indicating opposite charge"
             ],
             "answer": 3
           },
           {
-            "q": "What proportional relationship does Hubbles law describe?",
+            "q": "What happens when a positron and an electron meet?",
             "options": [
-              "Recession speed is always exactly the same for every galaxy regardless of distance",
-              "Distance has no measurable relationship to recession speed",
-              "Recession speed is proportional to distance from the observer",
-              "Recession speed decreases as distance increases, in every case"
+              "They combine to form a heavier stable particle",
+              "They pass through each other with no interaction",
+              "They annihilate, converting their mass into energy, typically as gamma-ray photons",
+              "They form a hydrogen atom"
             ],
             "answer": 2
           },
           {
-            "q": "What broader conclusion about the universe does Hubbles law provide key observational evidence for?",
+            "q": "Dirac's negative-energy solutions were initially puzzling because classically:",
             "options": [
-              "That the universe is perfectly static and unchanging in size",
-              "That the universe is shrinking uniformly in every direction",
-              "That only a single galaxy is moving, with all others stationary",
-              "That the universe is expanding uniformly in every direction"
+              "Negative energy states were thought to be unstable and would allow particles to fall to increasingly negative energies indefinitely",
+              "Negative energy implied the particle had negative mass and negative charge simultaneously",
+              "Negative energy solutions violated conservation of momentum",
+              "Negative energy states could not describe fermions at all"
             ],
-            "answer": 3
-          },
-          {
-            "q": "How does Hubbles law relate to the cosmic microwave background and the Big Bang, studied in an earlier batch?",
-            "options": [
-              "Hubbles law has no connection to any evidence for the Big Bang",
-              "The two lines of evidence contradict one another about whether the universe is expanding",
-              "Both provide independent observational support for an expanding universe with a hot, dense early state, with Hubbles law tracking present-day expansion through galaxy redshifts",
-              "The cosmic microwave background was discovered as a direct consequence of measuring Hubbles law"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is Hubbles law considered a foundational result in modern cosmology?",
-            "options": [
-              "The law applies only to galaxies within our own galactic cluster and no others",
-              "Hubbles law proves that galaxies do not actually move relative to one another",
-              "It has had no lasting influence on the scientific understanding of the universe",
-              "It gave the first strong observational evidence that the universe is expanding, reshaping the scientific understanding of the universes history and scale"
-            ],
-            "answer": 3
+            "answer": 0
           }
         ]
       }
@@ -46030,63 +46006,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Crystal Structures and Unit Cells in Solids",
-        "summary": "Grade 12 Physics strand: a crystal structure describes the regular, repeating three-dimensional arrangement of atoms in a solid, characterized by a unit cell, the smallest repeating block whose geometry and packing determine many of the materials mechanical, thermal, and electronic properties.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Quark Confinement and the Strong Nuclear Force",
+        "summary": "Students explore quark confinement, the principle that quarks are never observed as free isolated particles but always bound within hadrons such as protons and neutrons. The lesson explains how the strong force, carried by gluons, behaves oppositely to electromagnetism by increasing with separation distance, leading to hadronization when quarks are pulled apart. Asymptotic freedom at short distances is introduced as a contrasting behavior of the strong force.",
+        "resourceLabel": "YouTube: Quark Confinement and the Strong Nuclear Force",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Quark%20Confinement%20and%20the%20Strong%20Nuclear%20Force%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does a crystal structure describe about the atoms in a solid?",
+            "q": "Quark confinement refers to the observation that:",
             "options": [
-              "An arrangement that changes unpredictably from moment to moment",
-              "An arrangement found only in liquids and never in solids",
-              "A completely random and disordered arrangement with no repeating pattern",
-              "Their regular, repeating three-dimensional arrangement"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is a unit cell, in the context of crystal structure?",
-            "options": [
-              "A region of the solid containing no atoms at all",
-              "The smallest repeating block whose geometry defines the overall crystal structure",
-              "The single largest possible piece of the entire solid",
-              "A block that never repeats anywhere else in the solid"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What kinds of material properties can be influenced by the geometry and packing of a unit cell?",
-            "options": [
-              "Properties that have no connection to the arrangement of atoms",
-              "Only the materials colour, with no other property affected",
-              "Only the materials smell, with no other measurable property affected",
-              "Mechanical, thermal, and electronic properties"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How does the concept of crystal structure relate to band theory of solids, studied in an earlier batch?",
-            "options": [
-              "The regular, repeating atomic arrangement described by crystal structure is the underlying geometric basis that gives rise to the electron energy bands described by band theory",
-              "Band theory applies only to materials with no repeating atomic arrangement",
-              "Crystal structure and band theory describe entirely unrelated aspects of a solid",
-              "A materials unit cell has no influence on its electronic energy band structure"
+              "Quarks are never observed in isolation; they are always found bound within hadrons like protons and mesons",
+              "Quarks can be isolated and directly observed if enough energy is applied",
+              "Quarks only exist inside neutron stars",
+              "Quarks are confined to move at speeds less than the speed of light, unlike other particles"
             ],
             "answer": 0
           },
           {
-            "q": "Why is understanding a materials crystal structure important for explaining its physical behaviour?",
+            "q": "The particles that mediate (carry) the strong nuclear force between quarks are called:",
             "options": [
-              "Crystal structure has no bearing on any measurable physical property of a material",
-              "Physical behaviour of a solid depends entirely on its colour and never on atomic arrangement",
-              "The geometric arrangement of atoms in a crystal directly shapes how a material conducts heat and electricity, how strong it is, and how it responds to stress",
-              "Every solid material has an identical crystal structure with no variation"
+              "Photons",
+              "Gluons",
+              "W and Z bosons",
+              "Gravitons"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Unlike the electromagnetic force, the strong force between two quarks:",
+            "options": [
+              "Decreases rapidly to zero at all distances",
+              "Only acts over distances larger than a kilometer",
+              "Is repulsive only, never attractive",
+              "Remains roughly constant or increases as the quarks are pulled farther apart"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When enough energy is put into pulling two quarks apart, what typically happens instead of producing two free, isolated quarks?",
+            "options": [
+              "The quarks simply fly apart and remain free permanently",
+              "The energy is entirely converted into light with no new particles formed",
+              "New quark-antiquark pairs are created from the energy, forming new hadrons (a process called hadronization)",
+              "The quarks merge into a single particle with double the mass"
             ],
             "answer": 2
+          },
+          {
+            "q": "The property of quarks that behave as if nearly free particles at extremely short distances (high energies) is known as:",
+            "options": [
+              "Asymptotic freedom",
+              "Quark confinement",
+              "Color charge neutrality",
+              "Pair production"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Structures, Materials & Engineering"
+        ]
       }
     ]
   },
@@ -46274,60 +46249,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Gravity, Fields, and the Structure of the Universe",
-        "summary": "This is the final review of the complete Grade 12 Physics course, covering Days 181-186 and revisiting Kepler's Laws of planetary motion, the electric field and electric potential of a point charge, Young's Double-Slit Experiment, Standard Model basics (quarks, leptons, and the four fundamental forces), Hubble's Law and the expanding universe, and crystal structures and unit cells.",
-        "resourceLabel": "YouTube: Physics Review: Gravity, Fields, and the Structure of the Universe",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Gravity%2C%20Fields%2C%20and%20the%20Structure%20of%20the%20Universe%20grade%2012%20physics%20educational",
+        "title": "Physics Review: Gravity, Fields, and the Structure of Matter",
+        "summary": "This is the final review of the Grade 12 Physics course, covering Days 181-186: Kepler's laws of planetary motion, the electric field and potential of a point charge, diffraction from circular apertures and the Rayleigh criterion for resolving power, the Standard Model of quarks, leptons, and the four fundamental forces, the prediction and discovery of antimatter (the positron), and quark confinement via the strong nuclear force.",
+        "resourceLabel": "YouTube: Physics Review: Gravity, Fields, and the Structure of Matter",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Gravity%2C%20Fields%2C%20and%20the%20Structure%20of%20Matter%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "Kepler's Second Law states that a planet orbiting the Sun sweeps out:",
+            "q": "Kepler's second law states that a planet in orbit:",
             "options": [
-              "Equal areas in equal times",
-              "Equal distances in equal times",
-              "A perfectly circular path at all times",
-              "Increasing speed as it moves farther from the Sun"
+              "Sweeps out equal areas in equal time intervals, moving faster when closer to the Sun",
+              "Moves at a constant speed throughout its entire orbit",
+              "Always follows a perfectly circular path",
+              "Has an orbital period independent of its distance from the Sun"
             ],
             "answer": 0
           },
           {
-            "q": "The electric potential due to a point charge decreases with distance according to which relationship?",
+            "q": "According to the Rayleigh criterion, two point sources are considered 'just resolved' when:",
             "options": [
-              "Directly proportional to distance squared",
-              "Inversely proportional to distance",
-              "Directly proportional to distance",
-              "Independent of distance"
+              "Their diffraction patterns completely overlap",
+              "The central maximum of one diffraction pattern falls on the first minimum of the other's pattern",
+              "They are separated by exactly one wavelength",
+              "One source is twice as bright as the other"
             ],
             "answer": 1
           },
           {
-            "q": "Young's Double-Slit Experiment provided key evidence for:",
+            "q": "According to the Standard Model, all known matter is built from which two families of fundamental particles?",
             "options": [
-              "The particle nature of light exclusively",
-              "The wave nature of light, through observed interference patterns",
-              "The existence of the photoelectric effect",
-              "The quantization of electron energy levels"
+              "Protons and neutrons",
+              "Photons and gluons",
+              "Atoms and molecules",
+              "Quarks and leptons"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Dirac's relativistic wave equation for the electron predicted the existence of:",
+            "options": [
+              "The neutron",
+              "A particle identical to the electron but with opposite (positive) charge",
+              "A massless charged particle",
+              "Particles that travel faster than light"
             ],
             "answer": 1
           },
           {
-            "q": "In the Standard Model, quarks and leptons are classified as:",
+            "q": "Quark confinement refers to the observation that:",
             "options": [
-              "Composite particles made of smaller subunits",
-              "Fundamental particles that make up matter",
-              "Force-carrying particles only",
-              "Types of nuclear radiation"
+              "Quarks can be isolated and observed freely with enough energy",
+              "Quarks only exist inside black holes",
+              "Quarks are never observed in isolation; they are always bound within hadrons like protons and neutrons",
+              "Quarks move slower than all other particles"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Hubble's Law relates a galaxy's recession velocity to its:",
-            "options": [
-              "Mass",
-              "Distance from the observer",
-              "Rotational speed",
-              "Surface temperature"
-            ],
-            "answer": 1
+            "answer": 2
           }
         ]
       }
