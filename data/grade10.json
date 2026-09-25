@@ -8525,6 +8525,7 @@
         "summary": "Students solve a linear system representing two real-world plans and interpret what the intersection point of the two lines means in context.",
         "resourceLabel": "YouTube: Interpreting the Intersection Point of a Linear System",
         "resourceUrl": "https://www.youtube.com/results?search_query=Interpreting%20the%20Intersection%20Point%20of%20a%20Linear%20System%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=R0bGxNzgL2o",
         "quiz": [
           {
             "q": "Plan A costs $20 plus $5 per month; Plan B costs $35 plus $2 per month. After how many months do the two plans cost the same?",
@@ -8584,6 +8585,7 @@
         "summary": "Students explore how light reflects off surfaces according to the law of reflection and refracts (bends) when passing between different media.",
         "resourceLabel": "YouTube: Reflection and Refraction of Light",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reflection%20and%20Refraction%20of%20Light%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ON1QGqB6vxg",
         "quiz": [
           {
             "q": "The law of reflection states that the angle of incidence ___ the angle of reflection.",
@@ -9018,6 +9020,7 @@
         "summary": "Students calculate the discriminant, b squared minus 4ac, from a quadratic equation and use its sign to determine whether the equation has two, one, or zero real roots, without solving the equation fully.",
         "resourceLabel": "YouTube: The Discriminant: Predicting the Number of Real Roots",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Discriminant%3A%20Predicting%20the%20Number%20of%20Real%20Roots%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=k-TDe0OP2XY",
         "quiz": [
           {
             "q": "What is the formula for the discriminant of ax^2 + bx + c = 0?",
@@ -9763,6 +9766,7 @@
         "summary": "Students calculate the discriminant b² − 4ac to predict how many real roots a quadratic equation has, then apply the quadratic formula to solve it.",
         "resourceLabel": "YouTube: Using the Discriminant to Predict Number of Roots",
         "resourceUrl": "https://www.youtube.com/results?search_query=Using%20the%20Discriminant%20to%20Predict%20Number%20of%20Roots%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GBWGWHHsvxE",
         "quiz": [
           {
             "q": "For 2x² + 3x − 5 = 0, calculate the discriminant.",
@@ -10009,6 +10013,7 @@
         "summary": "Students use the slope and length (distance) formulas to verify whether a triangle formed by given coordinates is right-angled or isosceles.",
         "resourceLabel": "YouTube: Verifying Triangle Properties Using Slope and Length",
         "resourceUrl": "https://www.youtube.com/results?search_query=Verifying%20Triangle%20Properties%20Using%20Slope%20and%20Length%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vk_bcc4lkzI",
         "quiz": [
           {
             "q": "Triangle ABC has vertices A(0,0), B(4,0), C(4,3). What is the length of side BC?",
@@ -10506,6 +10511,7 @@
         "summary": "Students write the equation of a quadratic relation in factored form when given its zeros and one other point on the graph, by substituting the point to solve for the leading coefficient a.",
         "resourceLabel": "YouTube: Quadratic Modelling: Fitting a Parabola Using Zeros and a Point",
         "resourceUrl": "https://www.youtube.com/results?search_query=Quadratic%20Modelling%3A%20Fitting%20a%20Parabola%20Using%20Zeros%20and%20a%20Point%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZRM1HXhVcZk",
         "quiz": [
           {
             "q": "A parabola has zeros at x = 1 and x = 5. What is the correct factored-form starting point for its equation?",
@@ -11001,6 +11007,7 @@
         "summary": "Students use function notation such as f(x) to evaluate functions at given inputs, and determine the domain and range of simple functions including linear and quadratic relations.",
         "resourceLabel": "YouTube: Function Notation, Domain, and Range",
         "resourceUrl": "https://www.youtube.com/results?search_query=Function%20Notation%2C%20Domain%2C%20and%20Range%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hk8px3odNYY",
         "quiz": [
           {
             "q": "If f(x) = 3x − 4, what is f(5)?",
@@ -11248,6 +11255,7 @@
         "summary": "Students solve a system made of one linear and one quadratic equation by substitution, and use the discriminant of the resulting quadratic to determine whether the line intersects the parabola at two points, one point, or not at all.",
         "resourceLabel": "YouTube: Linear-Quadratic Systems: Solving Algebraically",
         "resourceUrl": "https://www.youtube.com/results?search_query=Linear-Quadratic%20Systems%3A%20Solving%20Algebraically%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=kkRrCrXC-fA",
         "quiz": [
           {
             "q": "To solve the system y = x + 1 and y = x^2 − 5 algebraically, what is the correct first step?",
@@ -11743,6 +11751,7 @@
         "summary": "Students simplify radical expressions by factoring out perfect squares, and add, subtract, and multiply radicals such as square roots that appear in geometry and quadratic-formula work.",
         "resourceLabel": "YouTube: Simplifying and Operating with Radicals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Simplifying%20and%20Operating%20with%20Radicals%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=4Gq3LPORQ-U",
         "quiz": [
           {
             "q": "What is the simplified form of √72?",
@@ -12241,6 +12250,7 @@
         "summary": "A cumulative review connecting quadratic relations, the sine and cosine laws, and analytic geometry formulas.",
         "resourceLabel": "YouTube: Mixed Review: Quadratics, Trigonometry, and Analytic Geometry",
         "resourceUrl": "https://www.youtube.com/results?search_query=Mixed%20Review%3A%20Quadratics%2C%20Trigonometry%2C%20and%20Analytic%20Geometry%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Veb22xD0Ao0",
         "quiz": [
           {
             "q": "Convert y = x² + 8x + 10 to vertex form.",
@@ -12761,6 +12771,7 @@
         "summary": "Students solve right-triangle problems involving angles of elevation and depression, using SOH CAH TOA to find unknown heights and distances in real-world scenarios.",
         "resourceLabel": "YouTube: Trigonometry: Angles of Elevation and Depression",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20Angles%20of%20Elevation%20and%20Depression%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=A3iuSkQYeVM",
         "quiz": [
           {
             "q": "The angle of elevation is measured from ___.",
@@ -13069,6 +13080,21 @@
         "summary": "A mixed review of key Grade 10/11 science ideas: cell structure, ionic and covalent bonding, and the basics of motion (speed, velocity, acceleration).",
         "resourceLabel": "YouTube: Review: Cells, Chemical Bonding, and Motion",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Cells%2C%20Chemical%20Bonding%2C%20and%20Motion%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8kK2zwjRV0M",
+        "videoUrls": [
+          {
+            "label": "Cells",
+            "url": "https://www.youtube.com/watch?v=8kK2zwjRV0M"
+          },
+          {
+            "label": "Chemical Bonding",
+            "url": "https://www.youtube.com/watch?v=OTgpN62ou24"
+          },
+          {
+            "label": "Motion",
+            "url": "https://www.youtube.com/watch?v=dHjWVlfNraM"
+          }
+        ],
         "quiz": [
           {
             "q": "Which organelle is responsible for producing most of a cell's energy through cellular respiration?",
@@ -13255,6 +13281,17 @@
         "summary": "Students practice applying the sine law to find a missing side or angle and factor trinomials with leading coefficient one.",
         "resourceLabel": "YouTube: Review: Sine Law and Factoring Trinomials",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Sine%20Law%20and%20Factoring%20Trinomials%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=bDPRWJdVzfs",
+        "videoUrls": [
+          {
+            "label": "Sine Law",
+            "url": "https://www.youtube.com/watch?v=bDPRWJdVzfs"
+          },
+          {
+            "label": "Factoring Trinomials",
+            "url": "https://www.youtube.com/watch?v=-4jANGlJRSY"
+          }
+        ],
         "quiz": [
           {
             "q": "In triangle ABC, angle A = 35°, angle B = 75°, and side a = 12. Find side b using the sine law.",
@@ -13751,6 +13788,17 @@
         "summary": "Students set up and solve linear systems of two equations in two variables to model real-world break-even points and mixture problems, using substitution or elimination.",
         "resourceLabel": "YouTube: Linear Systems: Break-Even and Mixture Problems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Linear%20Systems%3A%20Break-Even%20and%20Mixture%20Problems%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xb4nlmgVG0c",
+        "videoUrls": [
+          {
+            "label": "Break-Even Problems",
+            "url": "https://www.youtube.com/watch?v=xb4nlmgVG0c"
+          },
+          {
+            "label": "Mixture Problems",
+            "url": "https://www.youtube.com/watch?v=5Oh7QHZMU0Y"
+          }
+        ],
         "quiz": [
           {
             "q": "A company's cost is C = 500 + 2x and revenue is R = 7x, where x is units sold. At the break-even point, what must be true?",
@@ -15539,6 +15587,7 @@
         "summary": "Students calculate the future value of an investment using the compound interest formula, and compare how changing the interest rate, compounding frequency, or time affects the total amount.",
         "resourceLabel": "YouTube: Financial Math: Compound Interest Calculations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Math%3A%20Compound%20Interest%20Calculations%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FBCs95Co_oU",
         "quiz": [
           {
             "q": "In the compound interest formula A = P(1 + i)^n, what does P represent?",
@@ -16535,6 +16584,7 @@
         "summary": "Students find the equation of a median (vertex to midpoint of the opposite side) and an altitude (perpendicular from a vertex) using coordinates.",
         "resourceLabel": "YouTube: Finding Medians and Altitudes of a Triangle",
         "resourceUrl": "https://www.youtube.com/results?search_query=Finding%20Medians%20and%20Altitudes%20of%20a%20Triangle%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=q5j3Q_f68Dc",
         "quiz": [
           {
             "q": "Triangle ABC has vertices A(0,0), B(6,0), C(2,4). Find the midpoint of side BC.",
@@ -16801,6 +16851,7 @@
         "summary": "Students use the vertex of a quadratic relation to solve real-world maximum and minimum problems, such as maximizing the area of a rectangular enclosure or the revenue from ticket sales.",
         "resourceLabel": "YouTube: Quadratic Optimization: Maximizing Area and Revenue",
         "resourceUrl": "https://www.youtube.com/results?search_query=Quadratic%20Optimization%3A%20Maximizing%20Area%20and%20Revenue%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=d5YktqR-4FU",
         "quiz": [
           {
             "q": "A farmer has 40 m of fencing to enclose a rectangular field against a barn wall (only 3 sides need fencing). If the two equal sides are x metres, which expression gives the enclosed area?",
@@ -17316,6 +17367,17 @@
         "summary": "Students review how to find the inverse of a linear function and interpret the graph and behaviour of an absolute value function.",
         "resourceLabel": "YouTube: Review: Inverse Functions and Absolute Value Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Inverse%20Functions%20and%20Absolute%20Value%20Functions%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TN4ybFiuV3k",
+        "videoUrls": [
+          {
+            "label": "Inverse Functions",
+            "url": "https://www.youtube.com/watch?v=TN4ybFiuV3k"
+          },
+          {
+            "label": "Absolute Value Functions",
+            "url": "https://www.youtube.com/watch?v=4r6X46fw-oE"
+          }
+        ],
         "quiz": [
           {
             "q": "Find the inverse of f(x) = 3x + 6.",
@@ -19901,6 +19963,7 @@
         "summary": "Students find the slope of a line perpendicular to a given line by taking the negative reciprocal, and apply this to verify right angles in triangles.",
         "resourceLabel": "YouTube: Perpendicular Slopes: Negative Reciprocals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Perpendicular%20Slopes%3A%20Negative%20Reciprocals%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=HyThzLRuqXo",
         "quiz": [
           {
             "q": "A line has slope 2/3. What is the slope of a line perpendicular to it?",
@@ -22501,6 +22564,7 @@
         "summary": "Students learn what makes a solution, how solubility changes with temperature, and the difference between saturated and unsaturated solutions.",
         "resourceLabel": "YouTube: Solutions and Solubility",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solutions%20and%20Solubility%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MDHlaTHbEgM",
         "quiz": [
           {
             "q": "In a salt-water solution, sodium chloride is the ___ and water is the ___.",
@@ -46647,99 +46711,99 @@
       },
       {
         "subject": "Math",
-        "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Correlation Coefficient and Line of Best Fit; Introduction to Trigonometric Ratios (SOH-CAH-TOA); Introduction to Complex Numbers; Transformations of Exponential Functions.",
+        "title": "Practice: Math Recap",
+        "summary": "Practice recap covering: Interpreting the Intersection Point of a Linear System; Introduction to Trigonometric Ratios (SOH-CAH-TOA); The Discriminant: Predicting the Number of Real Roots; Transformations of Exponential Functions",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "The correlation coefficient measures ___.",
+            "q": "In a linear system representing two real-world payment plans, what does the intersection point of the two lines represent?",
             "options": [
-              "The strength and direction of a linear relationship between two variables",
-              "The total sum of all data values",
-              "The exact number of data points in a set",
-              "A value unrelated to relationships between variables"
+              "The point where both plans have equal value for equal input",
+              "The moment when both plans are increasing at the same rate but never cost the same",
+              "The plan that will always be less expensive going forward",
+              "The fixed cost before any variable charges are added"
             ],
             "answer": 0
           },
           {
-            "q": "In a right triangle, sine is defined as ___.",
+            "q": "Using SOH-CAH-TOA, which ratio is used to find the tangent of an angle in a right triangle?",
             "options": [
-              "Opposite over adjacent",
-              "Hypotenuse over opposite",
+              "Opposite over hypotenuse",
               "Adjacent over hypotenuse",
-              "Opposite over hypotenuse"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The imaginary unit i is defined such that ___.",
-            "options": [
-              "i = 1",
-              "i = 0",
-              "i^2 = -1",
-              "i^2 = 1"
+              "Opposite over adjacent",
+              "Hypotenuse over adjacent"
             ],
             "answer": 2
           },
           {
-            "q": "In the exponential function y = a·b^(x-h) + k, the parameter k causes a ___.",
+            "q": "For a quadratic equation, if the discriminant b² − 4ac is negative, what does this tell you about its roots?",
             "options": [
-              "Horizontal shift",
-              "Vertical shift",
-              "Change in the growth rate b",
-              "Reflection across the x-axis"
+              "There are no real roots",
+              "There are two distinct real roots",
+              "There is exactly one real root",
+              "There are three real roots"
             ],
-            "answer": 1
+            "answer": 0
+          },
+          {
+            "q": "Which transformation would shift the graph of an exponential function y = b^x vertically upward by 3 units?",
+            "options": [
+              "y = b^(x+3)",
+              "y = 3b^x",
+              "y = b^(3x)",
+              "y = b^x + 3"
+            ],
+            "answer": 3
           }
         ]
       },
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "Practice recap covering: Fluid Dynamics: Bernoulli’s Principle; How MRI Machines Use Physics to See Inside the Body; Earth Science: Climate Systems and Modelling; Cloning: How Dolly the Sheep Changed Science.",
+        "summary": "Practice recap covering: Reflection and Refraction of Light; How MRI Machines Use Physics to See Inside the Body; Earth Science: Climate Systems and Modelling; Cloning: How Dolly the Sheep Changed Science",
         "resourceLabel": "TVO Learn: Grade 10 Science courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
           {
-            "q": "Bernoulli’s Principle states that faster-moving fluid exerts ___ pressure than slower-moving fluid.",
+            "q": "According to the law of reflection, how does the angle of incidence relate to the angle of reflection?",
             "options": [
-              "Exactly equal",
-              "Unpredictable",
-              "More",
-              "Less"
+              "The angle of incidence equals the angle of reflection",
+              "The angle of incidence is always twice the angle of reflection",
+              "The angle of incidence is always 90° minus the angle of reflection",
+              "The angle of incidence is always three times the angle of reflection"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "MRI stands for a type of medical imaging technology that mainly uses ___.",
+            "q": "Why do MRI machines use magnets and radio waves instead of X-rays to create images of the body?",
             "options": [
-              "Sound waves only",
-              "X-rays",
-              "Magnets and radio waves",
-              "Visible light only"
+              "Because magnets and radio waves produce sharper images than any other method",
+              "Because X-rays cannot penetrate soft tissue at all",
+              "Because this avoids exposing patients to harmful ionizing radiation",
+              "Because radio waves are cheaper to generate than X-rays"
             ],
             "answer": 2
           },
           {
-            "q": "Climate models use historical and current data to ___.",
+            "q": "What is the primary purpose of a climate model in Earth science?",
             "options": [
-              "Guarantee exact daily weather predictions decades in advance",
-              "Project long-term trends and possible future climate scenarios",
-              "Replace the need for any real-world temperature measurements",
-              "Only describe past climate with no predictive value"
+              "To record only past weather events with no predictive value",
+              "To simulate and predict how Earth's climate system may change over time using scientific data",
+              "To measure the exact temperature at a single location in real time",
+              "To replace the need for collecting any climate data"
             ],
             "answer": 1
           },
           {
-            "q": "Dolly the sheep was created using a cloning technique called ___.",
+            "q": "What made the cloning of Dolly the sheep in 1996 a scientific breakthrough?",
             "options": [
-              "In vitro fertilization",
-              "Selective breeding",
-              "Somatic cell nuclear transfer",
-              "Genetic modification via CRISPR"
+              "It was the first time a plant was successfully cloned",
+              "It was the first time identical twins were studied",
+              "It was the first time DNA was discovered",
+              "It was the first time a mammal was cloned from an adult body cell"
             ],
-            "answer": 2
+            "answer": 3
           }
         ]
       },
@@ -46851,50 +46915,50 @@
       },
       {
         "subject": "Math",
-        "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Solving Problems with the Sine Law and Cosine Law Together; Review: Functions, Sequences, and Trigonometric Applications; Standard Deviation: An Introduction; Rational Exponents and Radical Form.",
+        "title": "Practice: Math Recap",
+        "summary": "Practice recap covering: Solving Problems with the Sine Law and Cosine Law Together; Using the Discriminant to Predict Number of Roots; Verifying Triangle Properties Using Slope and Length; Rational Exponents and Radical Form",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "The sine law is most useful when you know ___.",
+            "q": "In a triangle problem, why might you need to apply both the sine law and cosine law in sequence?",
             "options": [
-              "Only two sides with no angle information",
-              "No information about the triangle at all",
-              "An angle and its opposite side, along with another angle or side",
-              "Three angles with no side information"
+              "Because the sine law only works for right triangles",
+              "Because different steps of the problem give you different combinations of known sides and angles",
+              "Because the cosine law cannot be used to find angles",
+              "Because the sine law and cosine law always give different answers for the same triangle"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "A rational function is best described as ___.",
+            "q": "A quadratic equation has a discriminant of 25. What does this tell you before solving with the quadratic formula?",
             "options": [
-              "A function with no fractions involved",
-              "A linear equation with no fractional component",
-              "A function that is always undefined",
-              "A fraction where the numerator and denominator are polynomials"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Standard deviation is calculated using ___.",
-            "options": [
-              "The square root of the variance",
-              "The mode of the data set",
-              "The range divided by two",
-              "The median of the data set"
+              "The equation has two distinct real roots",
+              "The equation has one real root",
+              "The equation has no real roots",
+              "The equation cannot be solved using the quadratic formula"
             ],
             "answer": 0
           },
           {
-            "q": "The expression x^(1/3) is equivalent to which radical form?",
+            "q": "To verify that a triangle formed by three coordinate points is right-angled, which pair of formulas would you use?",
             "options": [
-              "The square root of x",
-              "The cube root of x",
-              "x cubed",
-              "The reciprocal of x"
+              "The midpoint formula and the slope formula",
+              "The distance formula and the midpoint formula",
+              "The slope formula and the distance formula",
+              "The distance formula and the y-intercept formula"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "Which expression is equivalent to x^(1/2)?",
+            "options": [
+              "x divided by 2",
+              "2 times x",
+              "The cube root of x",
+              "The square root of x"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -47055,50 +47119,50 @@
       },
       {
         "subject": "Math",
-        "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Standard Deviation and Normal Distribution; Solving Systems of Equations by Substitution; Combining Functions: Sum, Difference, and Composite; Conditional Probability and Independence; Non-Right Triangle Applications in Three Dimensions.",
+        "title": "Practice: Math Recap",
+        "summary": "Practice recap covering: Quadratic Modelling: Fitting a Parabola Using Zeros and a Point; Solving Systems of Equations by Substitution; Function Notation, Domain, and Range; Linear-Quadratic Systems: Solving Algebraically; Non-Right Triangle Applications in Three Dimensions",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "Standard deviation measures ___.",
+            "q": "A quadratic relation has zeros at x = -2 and x = 5, and passes through the point (0, -10). What is the leading coefficient a in factored form y = a(x+2)(x−5)?",
             "options": [
-              "How spread out data values are from the mean",
-              "A value unrelated to how data is spread",
-              "The exact total sum of all data values",
-              "The single highest value in a data set"
+              "a = 1",
+              "a = -1",
+              "a = 10",
+              "a = 0.5"
             ],
             "answer": 0
           },
           {
-            "q": "What is the first step in solving a system of equations by substitution?",
+            "q": "If f(x) = 2x² − 3, what is f(4)?",
             "options": [
-              "Add the two equations together",
-              "Graph both equations on the same axes",
-              "Isolate one variable in one equation, then substitute into the other",
-              "Multiply both equations by a constant"
+              "26",
+              "29",
+              "32",
+              "5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When solving a linear-quadratic system algebraically, if the discriminant of the resulting quadratic equation equals zero, what does this mean?",
+            "options": [
+              "The line does not intersect the parabola at all",
+              "The line intersects the parabola at two distinct points",
+              "The line intersects the parabola at exactly one point (it is tangent)",
+              "The line coincides with the parabola everywhere"
             ],
             "answer": 2
           },
           {
-            "q": "If f(x) = x² and g(x) = x + 3, then (f∘g)(x) equals ___.",
+            "q": "Why do some three-dimensional trigonometry problems require breaking the shape into non-right triangles?",
             "options": [
-              "(x+3)²",
-              "x² + 3",
-              "x² + x + 3",
-              "3x²"
+              "Because right-triangle trig ratios cannot be used in 3D under any circumstances",
+              "Because the sine law only applies to two-dimensional shapes",
+              "Because 3D shapes never contain any right angles",
+              "Because the triangles formed when the 3D shape is sliced are often not right triangles, requiring the sine or cosine law"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Two events A and B are independent if ___.",
-            "options": [
-              "P(A and B) = P(A) + P(B)",
-              "P(A|B) = P(A)",
-              "P(A and B) = 0",
-              "P(A|B) = P(B|A) always"
-            ],
-            "answer": 1
+            "answer": 3
           }
         ]
       },
@@ -47259,50 +47323,50 @@
       },
       {
         "subject": "Math",
-        "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Operations with Complex Numbers; Solving Systems of Equations by Elimination; Review: Grade 10 Functions, Data, and Number Extensions; Solving for Missing Sides and Angles Using Trigonometry.",
+        "title": "Practice: Math Recap",
+        "summary": "Practice recap covering: Simplifying and Operating with Radicals; Solving Systems of Equations by Elimination; Mixed Review: Quadratics, Trigonometry, and Analytic Geometry; Solving for Missing Sides and Angles Using Trigonometry",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "When adding two complex numbers, you add their ___.",
+            "q": "What is the simplified form of √50?",
             "options": [
-              "Only the real parts, ignoring the imaginary parts entirely",
-              "Only the imaginary parts, ignoring the real parts entirely",
-              "Real parts together and their imaginary parts together",
-              "Neither the real nor imaginary parts"
+              "2√5",
+              "10√5",
+              "5√2",
+              "25√2"
             ],
             "answer": 2
           },
           {
-            "q": "The elimination method involves ___.",
+            "q": "In the elimination method for solving a system of equations, what is the main goal of adding or subtracting the two equations?",
             "options": [
-              "Substituting one equation directly into the other",
-              "Only graphing both equations with no algebraic steps",
-              "Ignoring one of the two equations entirely",
-              "Adding or subtracting equations to eliminate one variable"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "In a right triangle, the sine ratio compares the length of the side opposite an angle to the ___.",
-            "options": [
-              "Adjacent side",
-              "Hypotenuse",
-              "Opposite side itself",
-              "Sum of the other two sides"
+              "To graph both equations on the same axes",
+              "To eliminate one variable so the other can be solved for",
+              "To convert both equations into slope-intercept form",
+              "To find the y-intercept of each line"
             ],
             "answer": 1
           },
           {
-            "q": "When multiplying complex numbers, any instance of i² appearing in the expansion should be replaced with ___.",
+            "q": "Which set of topics would most likely appear together in a mixed review of quadratics, trigonometry, and analytic geometry?",
             "options": [
-              "1",
-              "0",
-              "i",
-              "-1"
+              "Balancing chemical equations and calculating molar mass",
+              "Simplifying rational exponents and graphing exponential decay only",
+              "Finding probability using the law of large numbers",
+              "Solving quadratic equations, applying the sine or cosine law, and using the distance formula"
             ],
             "answer": 3
+          },
+          {
+            "q": "If you know one side length and one acute angle of a right triangle, which trigonometric ratio would you use to find another unknown side, using SOH-CAH-TOA?",
+            "options": [
+              "Whichever ratio relates the known angle, the known side, and the unknown side",
+              "Always the sine ratio, regardless of which sides are involved",
+              "Always the tangent ratio, regardless of which sides are involved",
+              "The Pythagorean theorem only, since trig ratios cannot be used"
+            ],
+            "answer": 0
           }
         ]
       },
@@ -47463,97 +47527,97 @@
       },
       {
         "subject": "Math",
-        "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Introduction to Conditional Probability; Introduction to Complex Fractions and Rational Expressions; Review: Systems, Trigonometric Applications, and Advanced Algebra; Piecewise and Step Functions.",
+        "title": "Practice: Math Recap",
+        "summary": "Practice recap covering: Trigonometry: Angles of Elevation and Depression; Introduction to Complex Fractions and Rational Expressions; Review: Sine Law and Factoring Trinomials; Piecewise and Step Functions",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "Conditional probability refers to ___.",
+            "q": "A surveyor stands 50 m from the base of a tower and measures the angle of elevation to the top as 40°. Which trig ratio would directly give the tower's height?",
             "options": [
-              "A probability that never changes based on other events",
-              "A concept unrelated to probability",
-              "The probability of an event occurring given that another event has already occurred",
-              "The probability of two completely unrelated events"
+              "height = 50 × sin40°",
+              "height = 50 × cos40°",
+              "height = 50 × tan40°",
+              "height = 50 ÷ tan40°"
             ],
             "answer": 2
           },
           {
-            "q": "A complex fraction is one that contains ___.",
+            "q": "To simplify a complex fraction, which strategy is typically used?",
             "options": [
-              "A single digit with no fraction involved",
-              "A fraction within its numerator, denominator, or both",
-              "No numerical values of any kind",
-              "Only whole numbers with no fractions at all"
+              "Cross-multiply the numerator and denominator as if solving an equation",
+              "Add the numerator and denominator together",
+              "Convert both the numerator and denominator to decimals",
+              "Rewrite the complex fraction as a division problem and simplify"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When factoring the trinomial x² + 7x + 12, which pair of numbers do you look for?",
+            "options": [
+              "Two numbers that multiply to 7 and add to 12",
+              "Two numbers that multiply to 12 and add to 7",
+              "Two numbers that multiply to 12 and subtract to 7",
+              "Two numbers that both equal 12"
             ],
             "answer": 1
           },
           {
-            "q": "A piecewise function is defined by ___.",
+            "q": "What makes a step function a specific type of piecewise function?",
             "options": [
-              "A single formula that applies to all real numbers",
-              "Different expressions or rules applied over different intervals of the domain",
-              "No formula at all, only a graph",
-              "One rule that only works for negative inputs"
+              "Its graph looks like a series of horizontal steps, with the output staying constant over intervals",
+              "Its graph is a smooth curve with no breaks",
+              "It only has one expression for its entire domain",
+              "It is always increasing without any constant intervals"
             ],
-            "answer": 1
-          },
-          {
-            "q": "In a trigonometry word problem, the angle of elevation is measured between the horizontal line of sight and ___.",
-            "options": [
-              "The ground directly below the observer",
-              "A line drawn straight down to the object",
-              "The line of sight up to an object above eye level",
-              "The vertical axis of the object itself"
-            ],
-            "answer": 2
+            "answer": 0
           }
         ]
       },
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "Practice recap covering: Genetics: Mendelian Inheritance Patterns in Depth; Review: Physics, Biology, and Chemistry (Days 81-89); The Chemistry of Polymers and Plastics; Biology: The Nervous System and Neurotransmission.",
+        "summary": "Practice recap covering: Genetics: Mendelian Inheritance Patterns in Depth; Review: Cells, Chemical Bonding, and Motion; The Chemistry of Polymers and Plastics; Biology: The Nervous System and Neurotransmission",
         "resourceLabel": "TVO Learn: Grade 10 Science courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
           {
-            "q": "Mendelian inheritance describes how traits are passed from parents to offspring through ___.",
+            "q": "In a Punnett square cross between two heterozygous parents (Aa x Aa) for a dominant trait, what fraction of offspring is expected to show the recessive phenotype?",
             "options": [
-              "A process unrelated to genetics",
-              "Environmental factors alone, with no connection to genes",
-              "Random chance with no genetic basis at all",
-              "Dominant and recessive alleles"
+              "1/4",
+              "1/2",
+              "3/4",
+              "0"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What does epigenetics study?",
+            "q": "Which type of chemical bond involves the sharing of electron pairs between atoms?",
             "options": [
-              "How genes are physically removed from an organism",
-              "A concept unrelated to biology",
-              "How environmental factors influence whether genes are turned on or off",
-              "How DNA sequences are permanently rewritten"
+              "Ionic bond",
+              "Metallic bond",
+              "Covalent bond",
+              "Hydrogen bond only"
             ],
             "answer": 2
           },
           {
-            "q": "Polymers, such as plastics, are large molecules formed by ___.",
+            "q": "What are the small repeating units that link together to form a polymer called?",
             "options": [
-              "A single atom bonded to itself repeatedly",
-              "Repeating smaller units called monomers linked together",
-              "Random unrelated molecules with no chemical bonds",
-              "The breakdown of large molecules into smaller ones"
+              "Isotopes",
+              "Catalysts",
+              "Alloys",
+              "Monomers"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "At a synapse, a neurotransmitter crosses the gap between neurons to ___.",
+            "q": "What role do neurotransmitters play in the nervous system?",
             "options": [
-              "Permanently destroy the receiving neuron",
-              "Bind to receptors on the next neuron and relay the signal",
-              "Convert electrical energy into light",
-              "Replace the neuron's nucleus"
+              "They generate the electrical charge inside a neuron's nucleus",
+              "They are chemical messengers that cross the synapse to transmit signals between neurons",
+              "They physically fuse two neurons together permanently",
+              "They replace the need for electrical signals within a neuron"
             ],
             "answer": 1
           }
@@ -47667,50 +47731,50 @@
       },
       {
         "subject": "Math",
-        "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Systems of Equations with Three Variables; Graphing Systems of Linear Inequalities; The Discriminant and the Nature of Roots; Exponential Growth and Decay; Simplifying Complex Radical Expressions.",
+        "title": "Practice: Math Recap",
+        "summary": "Practice recap covering: Linear Systems: Break-Even and Mixture Problems; Graphing Systems of Linear Inequalities; The Discriminant and the Nature of Roots; Exponential Growth and Decay; Simplifying Complex Radical Expressions",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "A system of equations with three variables requires finding values that satisfy ___.",
+            "q": "A break-even point in a linear system modelling costs and revenue represents...",
             "options": [
-              "None of the equations in the system",
-              "A concept unrelated to systems of equations",
-              "Only one of the equations, with no connection to the others",
-              "All of the equations in the system simultaneously"
+              "The point of maximum profit",
+              "Points that satisfy every inequality in the system at once",
+              "The y-intercept of the revenue line only",
+              "The point where cost equals revenue, so profit is zero"
             ],
             "answer": 3
           },
           {
-            "q": "Graphing a linear inequality involves shading ___.",
+            "q": "When graphing a system of linear inequalities, what does the overlapping shaded region represent?",
             "options": [
-              "A concept unrelated to graphing inequalities",
-              "The entire graph regardless of the inequality",
-              "Only the single line itself, with no shading",
-              "The region of the graph that contains all solutions to the inequality"
+              "Points that satisfy every inequality in the system at once",
+              "Points that satisfy only one of the inequalities",
+              "Points that satisfy none of the inequalities",
+              "The boundary lines only, not any actual solutions"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "If the discriminant of a quadratic equation is negative, the equation has ___.",
+            "q": "A population grows according to y = 500(1.08)^x. What does the 1.08 represent?",
             "options": [
-              "Two distinct real roots",
-              "One repeated real root",
-              "Two complex (non-real) roots",
-              "Infinitely many real roots"
+              "The population is decaying by 8% each time period",
+              "The population is growing by 8% each time period",
+              "The initial population is 108",
+              "The population doubles every time period"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Simplify √72 by factoring out perfect squares.",
+            "options": [
+              "8√3",
+              "3√8",
+              "6√2",
+              "36√2"
             ],
             "answer": 2
-          },
-          {
-            "q": "An exponential decay function has a base (growth factor) value that is ___.",
-            "options": [
-              "Greater than 1",
-              "Equal to exactly 1",
-              "Negative",
-              "Between 0 and 1"
-            ],
-            "answer": 3
           }
         ]
       },
@@ -47871,50 +47935,50 @@
       },
       {
         "subject": "Math",
-        "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Functions: Introduction to Inverse Functions; Radical Functions and Equations; Probability: Expected Value and Probability Distributions; Algebra: Simplifying Rational Expressions and Stating Restrictions; Absolute Value Functions and Equations.",
+        "title": "Practice: Math Recap",
+        "summary": "Practice recap covering: Functions: Introduction to Inverse Functions; Radical Functions and Equations; Financial Math: Compound Interest Calculations; Algebra: Simplifying Rational Expressions and Stating Restrictions; Absolute Value Functions and Equations",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "An inverse function reverses the effect of the original function by ___.",
+            "q": "If f(x) = 2x + 6, what is the inverse function f⁻¹(x)?",
             "options": [
-              "Mapping every input to the same output value",
-              "Mapping each output value back to its corresponding input value",
-              "Doubling every output value of the original function",
-              "A process unrelated to functions"
+              "f⁻¹(x) = 2x − 6",
+              "f⁻¹(x) = (x + 6)/2",
+              "f⁻¹(x) = (x − 6)/2",
+              "f⁻¹(x) = x/2 + 6"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "A radical function contains a variable inside a ___.",
+            "q": "How does increasing the compounding frequency (e.g., from annually to monthly) affect the future value of an investment, assuming the same nominal interest rate?",
             "options": [
-              "A concept unrelated to functions",
-              "Root, such as a square root",
-              "Exponent only, with no connection to roots",
-              "Denominator only, with no connection to roots"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The expected value of a probability distribution represents ___.",
-            "options": [
-              "The single most frequently occurring outcome only",
-              "The long-run average outcome weighted by each outcome's probability",
-              "The largest possible outcome in the distribution",
-              "A value that ignores probability entirely"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Simplify (x² - 16)/(x - 4) and state the restriction.",
-            "options": [
-              "x + 4, x ≠ 4",
-              "x - 4, x ≠ 4",
-              "x + 4, x ≠ -4",
-              "x² + 4, x ≠ 4"
+              "It slightly increases the future value because interest is calculated and added more often",
+              "It slightly decreases the future value because more compounding periods reduce the rate",
+              "It keeps the future value exactly the same regardless of frequency",
+              "It doubles the future value regardless of the interest rate"
             ],
             "answer": 0
+          },
+          {
+            "q": "When simplifying the rational expression (x² − 9)/(x − 3), what restriction must be stated?",
+            "options": [
+              "x ≠ -3",
+              "x ≠ 0",
+              "x ≠ 9",
+              "x ≠ 3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a defining feature of the graph of an absolute value function?",
+            "options": [
+              "It is a straight line with a negative slope",
+              "It has a distinctive V-shape, showing distance from zero",
+              "It always passes through the origin only",
+              "It is a smooth curve with no sharp corners"
+            ],
+            "answer": 1
           }
         ]
       },
@@ -48075,50 +48139,50 @@
       },
       {
         "subject": "Math",
-        "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Trigonometry: Basic Trigonometric Identities; Data Management: Set Theory and Venn Diagrams in Probability; Linear Programming: Optimization with Constraints; Geometry: Congruence and Similarity Proofs.",
+        "title": "Practice: Math Recap",
+        "summary": "Practice recap covering: Trigonometry: Basic Trigonometric Identities; Finding Medians and Altitudes of a Triangle; Quadratic Optimization: Maximizing Area and Revenue; Geometry: Congruence and Similarity Proofs",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "A trigonometric identity is an equation that holds true for ___.",
+            "q": "The Pythagorean identity states that sin²θ + cos²θ = ?",
             "options": [
-              "All valid angle values",
-              "A concept unrelated to trigonometry",
-              "No angle values at all",
-              "Only a single specific angle"
+              "0",
+              "1",
+              "tan θ",
+              "2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the key difference between a median and an altitude of a triangle, in terms of their equations?",
+            "options": [
+              "A median connects a vertex to the midpoint of the opposite side, while an altitude is perpendicular from a vertex to the opposite side",
+              "A median and an altitude are always the same line in every triangle",
+              "A median is perpendicular to a side, while an altitude connects two midpoints",
+              "A median only exists in right triangles, while an altitude exists in all triangles"
             ],
             "answer": 0
           },
           {
-            "q": "A Venn diagram is used to visually represent ___.",
+            "q": "A quadratic relation models the area of a rectangular enclosure. What does the vertex of the parabola represent in this context?",
             "options": [
-              "A single number with no connection to grouping",
-              "Relationships between sets, including overlapping groups",
-              "Only sets that share no elements in common",
-              "A concept unrelated to set theory"
+              "The minimum possible perimeter",
+              "The point where the area is zero",
+              "The maximum area achievable with the given amount of fencing",
+              "The rate at which the area changes"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "In linear programming, the feasible region is best described as ___.",
+            "q": "What is the key difference between congruent and similar figures?",
             "options": [
-              "A single point where the objective function is undefined",
-              "The set of points that violate at least one constraint",
-              "A region unrelated to constraints",
-              "The area containing every point that satisfies all constraints"
+              "Congruent figures share the same shape only; similar figures are identical in size",
+              "Similar figures must always be larger than congruent figures",
+              "Congruent figures can have different angle measures; similar figures cannot",
+              "Congruent figures are identical in shape and size; similar figures share the same shape but may differ in size"
             ],
             "answer": 3
-          },
-          {
-            "q": "Two triangles are similar if their corresponding angles are equal and their corresponding sides are ___.",
-            "options": [
-              "Unrelated in length",
-              "Proportional",
-              "All exactly equal in length",
-              "Perpendicular to each other"
-            ],
-            "answer": 1
           }
         ]
       },
@@ -48279,48 +48343,48 @@
       },
       {
         "subject": "Math",
-        "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Review: Functions, Algebra, Probability, and Geometry; Quadratic Relations: The Discriminant and Nature of Roots; Algebra: Direct and Partial Variation; Financial Literacy: Compound Interest and Amortization.",
+        "title": "Practice: Math Recap",
+        "summary": "Practice recap covering: Review: Inverse Functions and Absolute Value Functions; Quadratic Relations: The Discriminant and Nature of Roots; Algebra: Direct and Partial Variation; Financial Literacy: Compound Interest and Amortization",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "A partial variation relationship, y = kx + b (with b ≠ 0), differs from a direct variation because its graph ___.",
+            "q": "To find the inverse of the linear function f(x) = 3x − 2, which pair of steps is correct?",
             "options": [
-              "Is always a horizontal line",
-              "Has an undefined slope",
-              "Does not pass through the origin",
-              "Never intersects the y-axis"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The discriminant of a quadratic equation is calculated using the expression ___.",
-            "options": [
-              "-b divided by 2a",
-              "b² - 4ac",
-              "An expression unrelated to the discriminant",
-              "b² + 4ac"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "In a direct variation relationship y = kx, as x increases, y ___.",
-            "options": [
-              "Increases proportionally, assuming k is positive",
-              "Always decreases regardless of k",
-              "Remains constant no matter what",
-              "Is unrelated to x"
+              "Swap x and y, then solve for y",
+              "Multiply both sides by -1",
+              "Square both sides of the equation",
+              "Add 2 to both sides only, without swapping variables"
             ],
             "answer": 0
           },
           {
-            "q": "Amortization refers to the process of ___.",
+            "q": "If a quadratic equation has a discriminant that is a perfect square greater than zero, what does this tell you about its roots?",
             "options": [
-              "Increasing a loan balance through added interest only",
-              "A concept unrelated to loans",
-              "Paying off a debt gradually through regular scheduled payments",
-              "Converting a loan into a single lump-sum payment"
+              "The roots are non-real (complex)",
+              "The roots are real, distinct, and rational",
+              "The roots are real and equal",
+              "There is exactly one root"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which equation represents a partial variation relationship?",
+            "options": [
+              "y = kx",
+              "y = k/x",
+              "y = x²",
+              "y = kx + b, where b ≠ 0"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In an amortization schedule for a loan, how does the portion of each payment going toward interest typically change over time?",
+            "options": [
+              "It stays exactly the same for every payment",
+              "It increases as the loan balance decreases",
+              "It decreases as the loan balance decreases",
+              "It becomes zero after the first payment"
             ],
             "answer": 2
           }
@@ -48687,48 +48751,48 @@
       },
       {
         "subject": "Math",
-        "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Transformations of Quadratic Functions; Geometry: Dilations and Scale Factor; Review: Discriminants, Variation, Finance, and Vectors; Functions: Inverse of Quadratic Functions; Data Management: Box-and-Whisker Plots and Quartiles.",
+        "title": "Practice: Math Recap",
+        "summary": "Practice recap covering: Transformations of Quadratic Functions; Geometry: Dilations and Scale Factor; Perpendicular Slopes: Negative Reciprocals; Functions: Inverse of Quadratic Functions; Data Management: Box-and-Whisker Plots and Quartiles",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "In the equation y = a(x - h)² + k, the value of h shifts the graph ___.",
+            "q": "A dilation with a scale factor of 0.5 applied to a figure will...",
             "options": [
-              "Horizontally",
-              "A direction unrelated to this transformation",
-              "Vertically",
-              "Diagonally, at a fixed angle"
+              "Enlarge the figure to twice its original size",
+              "Reduce the figure to half its original size",
+              "Leave the figure exactly the same size",
+              "Flip the figure across the centre point"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A line has a slope of 2/3. What is the slope of a line perpendicular to it?",
+            "options": [
+              "2/3",
+              "-2/3",
+              "3/2",
+              "-3/2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When finding the inverse of a quadratic function, why is it often necessary to restrict the domain?",
+            "options": [
+              "So that the inverse remains a function, since the original quadratic is not one-to-one",
+              "Because quadratic functions have no inverse under any conditions",
+              "So that the inverse becomes a linear function",
+              "Because restricting the domain changes the leading coefficient"
             ],
             "answer": 0
           },
           {
-            "q": "A dilation is a transformation that ___.",
+            "q": "In a box-and-whisker plot, what does the box itself (excluding the whiskers) represent?",
             "options": [
-              "Reflects a figure across a line, with no change in size",
-              "A concept unrelated to geometric transformations",
-              "Moves a figure without changing its size",
-              "Resizes a figure proportionally from a fixed centre point"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "To find the inverse of a quadratic function, the domain is typically restricted because ___.",
-            "options": [
-              "Quadratic functions are always one-to-one without restriction",
-              "Inverses of quadratics never exist",
-              "A concept unrelated to inverse functions",
-              "The original function is not one-to-one over its full domain, so its inverse would not be a function without restriction"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "In a box-and-whisker plot, the box itself represents ___.",
-            "options": [
-              "The full range of all data values",
-              "Only the single median value",
-              "The interquartile range, from the first to the third quartile",
-              "Data values considered outliers"
+              "The full range of the data, from minimum to maximum",
+              "Only the median value",
+              "The interquartile range, from the first quartile to the third quartile",
+              "The mean and standard deviation of the data"
             ],
             "answer": 2
           }
@@ -49349,49 +49413,49 @@
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "Practice recap covering: Review: Chemistry, Biology, Physics, and Earth Science (Days 81-89); Chemistry: Types of Chemical Reactions; Biology: The Digestive System; Science: The Human Digestive System and Nutrient Absorption.",
+        "summary": "Practice recap covering: Solutions and Solubility; Chemistry: Types of Chemical Reactions; Biology: The Digestive System; Science: The Human Digestive System and Nutrient Absorption",
         "resourceLabel": "TVO Learn: Grade 10 Science courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
           {
-            "q": "What does Le Chatelier’s principle describe?",
+            "q": "As temperature increases, how does the solubility of most solid solutes in water typically change?",
             "options": [
-              "A concept unrelated to chemistry",
-              "How a system at equilibrium shifts to counteract a disturbance",
-              "How atoms are structured inside a nucleus",
-              "How light travels through a vacuum"
+              "It decreases",
+              "It stays exactly the same",
+              "It becomes negative",
+              "It increases"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Name one type of chemical reaction, such as synthesis.",
+            "q": "Which type of chemical reaction involves two compounds exchanging ions to form two new compounds?",
             "options": [
               "Synthesis",
-              "Osmosis",
-              "Photosynthesis only",
-              "A concept unrelated to chemistry"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which type of chemical reaction occurs when a single compound breaks down into two or more simpler substances?",
-            "options": [
-              "Synthesis",
-              "Double displacement",
               "Decomposition",
-              "A concept unrelated to chemistry"
+              "Double displacement",
+              "Combustion"
             ],
             "answer": 2
           },
           {
-            "q": "What structures in the small intestine increase surface area for nutrient absorption?",
+            "q": "Which organ is primarily responsible for absorbing nutrients into the bloodstream after chemical digestion?",
             "options": [
-              "Red blood cells",
-              "Villi and microvilli",
-              "Alveoli",
-              "A concept unrelated to the digestive system"
+              "The stomach",
+              "The small intestine",
+              "The large intestine",
+              "The esophagus"
             ],
             "answer": 1
+          },
+          {
+            "q": "What is the difference between mechanical and chemical digestion?",
+            "options": [
+              "Mechanical digestion breaks food into smaller pieces physically, while chemical digestion breaks it down using enzymes",
+              "Mechanical digestion only occurs in the small intestine, while chemical digestion occurs only in the mouth",
+              "Chemical digestion breaks food into smaller pieces physically, while mechanical digestion uses enzymes",
+              "Mechanical and chemical digestion both refer to the same process using enzymes"
+            ],
+            "answer": 0
           }
         ]
       },
@@ -49911,50 +49975,50 @@
       },
       {
         "subject": "Math",
-        "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Data Management: Standard Deviation (An Introduction to Spread); Statistics: Sampling Methods and Bias in Data Collection; Probability: The Law of Large Numbers; Financial Literacy: Comparing Renting and Buying a Home.",
+        "title": "Practice: Math Recap",
+        "summary": "Practice recap covering: Solving Multi-Step Right Triangle Problems; Statistics: Sampling Methods and Bias in Data Collection; Probability: The Law of Large Numbers; Financial Literacy: Comparing Renting and Buying a Home",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "What does standard deviation measure?",
+            "q": "To solve a multi-step right triangle problem where you need to find an angle after finding a missing side, which sequence of tools would you use?",
             "options": [
-              "A concept unrelated to data management",
-              "The exact number of values collected in a survey",
-              "How spread out data values are around the mean",
-              "The single largest value in a data set"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is a sample in statistics?",
-            "options": [
-              "A subset of a population used to make inferences about the whole",
-              "The entire population being studied",
-              "A single number with no connection to a population",
-              "A concept unrelated to statistics"
+              "Use the Pythagorean theorem to find the missing side, then a trig ratio to find the angle",
+              "Use a trig ratio to find the missing side, then the Pythagorean theorem to find the angle",
+              "Use only the Pythagorean theorem for both the side and the angle",
+              "Use the sine law, since it works for all right triangle problems"
             ],
             "answer": 0
           },
           {
-            "q": "According to the Law of Large Numbers, as the number of trials in an experiment increases, the experimental probability ___.",
+            "q": "A researcher divides a population into age groups and randomly samples from each group proportionally. What sampling method is this?",
             "options": [
-              "Becomes less predictable over time",
-              "Always equals exactly 1",
-              "Gets closer to the theoretical probability",
-              "Has no relationship to the theoretical probability"
+              "Convenience sampling",
+              "Random sampling",
+              "Stratified sampling",
+              "Voluntary response sampling"
             ],
             "answer": 2
           },
           {
-            "q": "Which of the following is typically an advantage of renting a home over buying one?",
+            "q": "According to the law of large numbers, what happens to experimental probability as the number of trials increases?",
             "options": [
-              "Greater flexibility to relocate with fewer long-term financial commitments",
-              "Building equity in the property over time",
-              "Fixed monthly payments that never change",
-              "Full ownership of the property"
+              "It becomes less accurate compared to theoretical probability",
+              "It tends to get closer to the theoretical probability",
+              "It stays fixed regardless of the number of trials",
+              "It always becomes exactly equal to the theoretical probability after 100 trials"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is typically an advantage of renting a home compared to buying?",
+            "options": [
+              "Renting usually requires a large upfront down payment",
+              "Renting builds equity in the property over time",
+              "Renting locks in the same payment for the life of the home",
+              "Renting typically has fewer upfront costs than buying"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -52563,50 +52627,50 @@
       },
       {
         "subject": "Math",
-        "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Functions: Even and Odd Functions and Symmetry; Trigonometry: Choosing the Right Tool for Any Triangle; Algebra: Common Factoring and the Greatest Common Factor; Algebra: Factoring Simple Trinomials.",
+        "title": "Practice: Math Recap",
+        "summary": "Practice recap covering: Transformations of Quadratic Relations: y = a(x − h)^2 + k; Trigonometry: Choosing the Right Tool for Any Triangle; Algebra: Common Factoring and the Greatest Common Factor; Algebra: Factoring Simple Trinomials",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "What condition defines an even function?",
+            "q": "In the vertex form y = a(x − h)² + k, what does a negative value of a do to the graph?",
             "options": [
-              "f(-x) equals f(x) for every x in the domain",
-              "f(x) is always a negative number",
-              "f(x) has no defined domain at all",
-              "f(-x) always equals zero for every x"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "A triangle has a right angle, and you know one side and one acute angle. Which method should you use?",
-            "options": [
-              "Primary trigonometric ratios (SOH CAH TOA)",
-              "None of these apply",
-              "Sine law",
-              "Cosine law"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What condition defines an odd function?",
-            "options": [
-              "f(-x) equals f(x) for all x in the domain",
-              "f(-x) equals -f(x) for all x in the domain",
-              "f(x) equals zero for all x",
-              "The function has no y-intercept"
+              "Shifts the graph to the right",
+              "Reflects the graph vertically (opens downward)",
+              "Stretches the graph horizontally",
+              "Shifts the graph upward"
             ],
             "answer": 1
           },
           {
-            "q": "Factor: x² + 8x + 15",
+            "q": "You know two angles and one side of a triangle that is not a right triangle. Which method should you use to find another side?",
             "options": [
-              "(x + 3)(x + 5)",
-              "(x + 15)(x + 1)",
-              "(x - 3)(x - 5)",
-              "(x + 5)(x + 5)"
+              "The sine law",
+              "The primary trigonometric ratios (SOH-CAH-TOA)",
+              "The Pythagorean theorem",
+              "The cosine law only"
             ],
             "answer": 0
+          },
+          {
+            "q": "What is the greatest common factor of the terms 12x² and 18x?",
+            "options": [
+              "6x²",
+              "12x",
+              "6x",
+              "3x"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Factor the trinomial x² + 5x + 6.",
+            "options": [
+              "(x + 1)(x + 6)",
+              "(x − 2)(x − 3)",
+              "(x + 6)(x − 1)",
+              "(x + 2)(x + 3)"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -53175,50 +53239,50 @@
       },
       {
         "subject": "Math",
-        "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Applications: Area and Perimeter Optimization; Algebra: Multiplying Polynomials; Algebra: Solving Rational Inequalities; Linear Systems: Solving by Graphing.",
+        "title": "Practice: Math Recap",
+        "summary": "Practice recap covering: Applications: Area and Perimeter Optimization; Algebra: Multiplying Polynomials; Simplifying Rational Expressions and Stating Restrictions; Linear Systems: Solving by Graphing",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "A farmer has 40 m of fencing to enclose a rectangular pen. If the width is w and the length is (20 - w), what function models the area?",
+            "q": "A farmer has 200 m of fencing to enclose a rectangular field. Using a quadratic relation to maximize area, what does the vertex of the resulting parabola represent?",
             "options": [
-              "A(w) = w² - 20w",
-              "A(w) = 20w - w²",
-              "A(w) = 20 - w²",
-              "A(w) = 40w - w²"
+              "The minimum amount of fencing required",
+              "The dimensions that give the maximum possible area",
+              "The point where the area equals zero",
+              "The perimeter of the field"
             ],
             "answer": 1
           },
           {
-            "q": "Expand and simplify: (x + 4)(x + 6)",
+            "q": "What is the product of (x + 3)(x + 5)?",
             "options": [
-              "x² + 24x + 10",
-              "x² + 10x + 24",
-              "x² + 10x + 10",
-              "x² + 2x + 24"
+              "x² + 8x + 15",
+              "x² + 15x + 8",
+              "x² + 2x + 15",
+              "x² + 8x + 8"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "For which values of x is the rational inequality (x - 5)/(x + 1) < 0 true?",
+            "q": "For the rational expression (x + 4)/(x² − 16), what restriction must be stated on x?",
             "options": [
-              "x < -1 or x > 5",
-              "x > 5",
-              "-1 < x < 5",
-              "x < -1"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "When solving a linear system by graphing, what does the point where the two lines intersect represent?",
-            "options": [
-              "The y-intercept of one line only",
-              "A point that lies on neither line",
-              "The slope shared by both lines",
-              "The solution that satisfies both equations simultaneously"
+              "x ≠ 4 only",
+              "x ≠ -4 only",
+              "x ≠ 0",
+              "x ≠ 4 and x ≠ -4"
             ],
             "answer": 3
+          },
+          {
+            "q": "When solving a system of two linear equations by graphing, the solution is represented by...",
+            "options": [
+              "The y-intercept of either line",
+              "The slope of the steeper line",
+              "The point where the two lines intersect",
+              "The area between the two lines"
+            ],
+            "answer": 2
           }
         ]
       },
@@ -53787,50 +53851,50 @@
       },
       {
         "subject": "Math",
-        "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Geometry: Loci and Locus Problems; Financial Literacy: Simple Interest vs Compound Interest; Financial Literacy: Unit Pricing and Best-Buy Comparisons; Statistics: Z-Scores and Standardized Values; Data Management: First Differences and Types of Relations.",
+        "title": "Practice: Math Recap",
+        "summary": "Practice recap covering: Geometry: Loci and Locus Problems; Financial Literacy: Simple Interest vs Compound Interest; Financial Literacy: Unit Pricing and Best-Buy Comparisons; Analytic Geometry: The Equation of a Circle Centred at the Origin; Data Management: First Differences and Types of Relations",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "What is a locus in geometry?",
+            "q": "What is the locus of points that are equidistant from two fixed points?",
             "options": [
-              "A single fixed point with no other points nearby",
-              "A line with an undefined length",
-              "The set of all points that satisfy a given geometric condition",
-              "A shape with no defined boundary at all"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is the simple interest earned on $2,000 invested at 5% per year for 3 years?",
-            "options": [
-              "$100",
-              "$300",
-              "$3,000",
-              "$2,300"
+              "A circle centred at one of the points",
+              "A straight line perpendicular to the segment joining the two points, passing through its midpoint",
+              "A parabola opening toward the two points",
+              "A single point exactly halfway between them"
             ],
             "answer": 1
           },
           {
-            "q": "A data set has a mean of 70 and a standard deviation of 5. What is the z-score for a value of 80?",
+            "q": "A 750 mL bottle costs $3.00 and a 1.5 L bottle costs $5.40. Which has the better unit price?",
             "options": [
-              "0.5",
-              "-2",
-              "2",
-              "10"
+              "The 750 mL bottle, since it has a lower total price",
+              "They have exactly the same unit price",
+              "The 750 mL bottle, since it has a lower price per 100 mL",
+              "The 1.5 L bottle, since it has a lower price per 100 mL"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does the point (3, 4) lie on the circle x² + y² = 25?",
+            "options": [
+              "No, it lies outside the circle",
+              "No, it lies inside the circle",
+              "Yes, it lies exactly on the circle",
+              "It cannot be determined without graphing"
             ],
             "answer": 2
           },
           {
-            "q": "In a table of values, if the first differences are constant, what type of relation is represented?",
+            "q": "In a table of values, the first differences are constant but not zero. What type of relation does this indicate?",
             "options": [
-              "An exponential relation",
+              "A linear relation",
               "A quadratic relation",
-              "A trigonometric relation",
-              "A linear relation"
+              "An exponential relation",
+              "No relation can be determined from first differences"
             ],
-            "answer": 3
+            "answer": 0
           }
         ]
       },

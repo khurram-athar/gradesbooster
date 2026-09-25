@@ -12291,6 +12291,17 @@ const curriculum: DayContent[] = [
         "summary": "This lesson reviews how Pascal's triangle generates binomial coefficients and number patterns, and how expected value combines probabilities and outcomes to summarize a random situation.",
         "resourceLabel": "YouTube: Review: Pascal's Triangle Patterns and Expected Value",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Pascal%27s%20Triangle%20Patterns%20and%20Expected%20Value%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=l2gEvV41Ws0",
+        "videoUrls": [
+          {
+            "label": "Pascal's Triangle",
+            "url": "https://www.youtube.com/watch?v=l2gEvV41Ws0"
+          },
+          {
+            "label": "Expected Value",
+            "url": "https://www.youtube.com/watch?v=b6VK2VPMXNI"
+          }
+        ],
         "quiz": [
           {
             "q": "In Pascal's triangle, each entry (other than the 1s on the outer edges) is found by ___.",
@@ -13311,6 +13322,7 @@ const curriculum: DayContent[] = [
         "summary": "Students evaluate and simplify composite functions algebraically and graphically, finding (f of g)(x) and determining its domain.",
         "resourceLabel": "YouTube: Composition of Functions: Evaluating f(g(x))",
         "resourceUrl": "https://www.youtube.com/results?search_query=Composition%20of%20Functions%3A%20Evaluating%20f%28g%28x%29%29%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZFPkQkURSxk",
         "quiz": [
           {
             "q": "If f(x) = 2x + 1 and g(x) = x^2, what is (f of g)(3)?",
@@ -14817,6 +14829,7 @@ const curriculum: DayContent[] = [
         "summary": "Students write and use recursive formulas that define each term of a sequence in terms of the previous term, for both arithmetic and geometric sequences.",
         "resourceLabel": "YouTube: Recursive Formulas for Sequences",
         "resourceUrl": "https://www.youtube.com/results?search_query=Recursive%20Formulas%20for%20Sequences%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IFHZQ6MaG6w",
         "quiz": [
           {
             "q": "A sequence is defined recursively by t1 = 3, tn = t(n-1) + 5. What is t4?",
@@ -17392,6 +17405,17 @@ const curriculum: DayContent[] = [
         "summary": "This lesson reviews how the ambiguous case (SSA) can produce zero, one, or two possible triangles, and revisits patterns in arithmetic and geometric sequences.",
         "resourceLabel": "YouTube: Review: The Ambiguous Case of the Sine Law and Sequences",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20The%20Ambiguous%20Case%20of%20the%20Sine%20Law%20and%20Sequences%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=AKyb4Y4k0ks",
+        "videoUrls": [
+          {
+            "label": "Ambiguous Case of the Sine Law",
+            "url": "https://www.youtube.com/watch?v=AKyb4Y4k0ks"
+          },
+          {
+            "label": "Sequences",
+            "url": "https://www.youtube.com/watch?v=-_myO_Lmdbw"
+          }
+        ],
         "quiz": [
           {
             "q": "In the ambiguous case of the sine law (SSA), you are given two sides and ___.",
@@ -19941,6 +19965,17 @@ const curriculum: DayContent[] = [
         "summary": "This lesson reviews how to model periodic real-world data with a sinusoidal function and how to calculate the future value of a simple annuity with regular deposits.",
         "resourceLabel": "YouTube: Review: Sinusoidal Modelling and Simple Annuities",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Sinusoidal%20Modelling%20and%20Simple%20Annuities%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8J3n7amHQzU",
+        "videoUrls": [
+          {
+            "label": "Sinusoidal Modelling",
+            "url": "https://www.youtube.com/watch?v=8J3n7amHQzU"
+          },
+          {
+            "label": "Simple Annuities",
+            "url": "https://www.youtube.com/watch?v=5fLDW8uTks0"
+          }
+        ],
         "quiz": [
           {
             "q": "A sinusoidal model is appropriate for data that ___.",
@@ -20979,6 +21014,17 @@ const curriculum: DayContent[] = [
         "summary": "Students use compound angle formulas for sums and differences of angles, along with double-angle formulas, to rewrite and simplify trigonometric expressions.",
         "resourceLabel": "YouTube: Trigonometric Identities: Compound and Double-Angle Formulas",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometric%20Identities%3A%20Compound%20and%20Double-Angle%20Formulas%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=sU2pyMR8GZ4",
+        "videoUrls": [
+          {
+            "label": "Compound Angle (Sum/Difference) Identities",
+            "url": "https://www.youtube.com/watch?v=sU2pyMR8GZ4"
+          },
+          {
+            "label": "Double-Angle Identities",
+            "url": "https://www.youtube.com/watch?v=SE5SBTgrwH8"
+          }
+        ],
         "quiz": [
           {
             "q": "The compound angle formula for sin(A + B) is ___.",
@@ -21476,6 +21522,7 @@ const curriculum: DayContent[] = [
         "summary": "Students identify the vertical asymptote, horizontal asymptote, and intercepts of rational functions of the form f(x) = (ax+b)/(cx+d).",
         "resourceLabel": "YouTube: Rational Functions: Key Features of f(x) = (ax+b)/(cx+d)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Key%20Features%20of%20f%28x%29%20%3D%20%28ax%2Bb%29/%28cx%2Bd%29%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=M2ddp_KrtKU",
         "quiz": [
           {
             "q": "For f(x) = (2x + 3)/(x - 4), the vertical asymptote is at ___.",
@@ -47152,47 +47199,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Statistics: Normal Distribution and Z-Scores; Functions: Rate of Change -- Average vs Instantaneous; Number Theory: Complex Numbers -- Further Operations; Geometry: Vectors -- Introduction to Magnitude and Direction; Functions: Transformations Across Function Families.",
+        "summary": "Practice recap covering: Statistics: Normal Distribution and Z-Scores; Functions: Rate of Change -- Average vs Instantaneous; Simplifying and Multiplying Rational Expressions; Geometry: Vectors -- Introduction to Magnitude and Direction; Functions: Transformations Across Function Families",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "A z-score indicates how many ___ a data value is from the mean.",
+            "q": "A z-score tells you...",
             "options": [
-              "A measurement unrelated to the mean",
-              "Standard deviations",
-              "Percentiles, with no connection to standard deviation",
-              "Simple units, with no connection to standard deviation"
+              "The exact value of a data point in a distribution",
+              "How many standard deviations a data value is from the mean",
+              "The total number of data points in a sample",
+              "The probability that a value is the mode"
             ],
             "answer": 1
           },
           {
-            "q": "Average rate of change describes how a function changes ___.",
+            "q": "What distinguishes instantaneous rate of change from average rate of change?",
             "options": [
-              "Over an interval",
-              "In a way unrelated to the function’s values",
-              "At a single specific point only",
-              "With no connection to any interval"
+              "Instantaneous rate of change is always larger than average rate of change",
+              "Average rate of change requires calculus while instantaneous does not",
+              "Instantaneous rate of change measures how a function is changing at a single specific point, while average rate of change measures change over an interval",
+              "Instantaneous rate of change can only be calculated for linear functions"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Unlike average rate of change, instantaneous rate of change measures how a function is changing ___.",
+            "q": "What distinguishes a vector from a scalar?",
             "options": [
-              "Over a large interval spanning the entire domain",
-              "At one exact point",
-              "Only between the first and last data values",
-              "With no reference to the function's graph at all"
+              "A vector has only magnitude, like a scalar",
+              "A scalar has both magnitude and direction, while a vector has only magnitude",
+              "A vector and a scalar are the same type of quantity",
+              "A vector has both magnitude and direction, while a scalar has only magnitude"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "A vector differs from a scalar in that a vector has both ___.",
+            "q": "Which statement about function transformations is true across function families?",
             "options": [
-              "Magnitude and direction",
-              "Only magnitude, with no other property",
-              "Colour and shape",
-              "Only direction, with no defined size"
+              "Shifts, stretches, and reflections apply consistently across polynomial, exponential, and trigonometric functions",
+              "Transformations only apply to polynomial functions, not exponential or trigonometric ones",
+              "A horizontal shift changes the range of a function but not its domain",
+              "Reflections can only be applied to even functions"
             ],
             "answer": 0
           }
@@ -47356,49 +47403,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Probability: Expected Value and Decision Making; Review: Radicals, Statistics, and Vectors; Review: Complex Numbers, Probability, and Reaction Mechanisms; Functions: Solving Exponential and Logarithmic Equations Together.",
+        "summary": "Practice recap covering: Probability: Expected Value and Decision Making; Review: Radicals, Statistics, and Vectors; Review: Pascal's Triangle Patterns and Expected Value; Functions: Solving Exponential and Logarithmic Equations Together",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "Expected value combines the probability and outcome of ___.",
+            "q": "Expected value is calculated by...",
             "options": [
-              "Only the single most likely outcome, with no other results considered",
-              "Each possible result in a situation",
-              "A random, unrelated calculation with no connection to outcomes",
-              "A concept unrelated to probability"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "A radical function contains a variable inside a ___.",
-            "options": [
-              "Root, such as a square root",
-              "A denominator only, with no connection to roots",
-              "An exponent only, with no root involved",
-              "A function unrelated to roots"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "To solve an equation containing both exponential and logarithmic terms, a common first strategy is to ___.",
-            "options": [
-              "Graph only one side and ignore the other",
-              "Assume the variable equals zero",
-              "Rewrite all terms using a common base or apply logarithms to both sides",
-              "A step unrelated to solving equations"
+              "Adding all possible outcomes without considering probability",
+              "Finding the outcome with the highest probability only",
+              "Combining the probability and outcome (payoff) of each possible result",
+              "Averaging only the outcomes that have positive value"
             ],
             "answer": 2
           },
           {
-            "q": "A complex number is written in the form a + bi, where ___.",
+            "q": "For a radical function like y = √(x-3), what must be true for the expression to be defined for real numbers?",
             "options": [
-              "a is unrelated to the number's real part",
-              "i is a concept unrelated to complex numbers",
-              "a and b must always both equal zero",
-              "b represents the coefficient of the imaginary unit i"
+              "x-3 must be negative",
+              "x must equal 3",
+              "x-3 must equal zero",
+              "x-3 must be greater than or equal to zero"
             ],
             "answer": 3
+          },
+          {
+            "q": "In Pascal's triangle, each entry is found by...",
+            "options": [
+              "Multiplying the two entries above it",
+              "Adding the two entries diagonally above it in the previous row",
+              "Subtracting the row number from the column number",
+              "Doubling the entry directly above it"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To solve an exponential equation like 2^x = 10 using logarithms, you would...",
+            "options": [
+              "Take the logarithm of both sides and use log rules to isolate x",
+              "Square both sides of the equation",
+              "Divide both sides by 2 to isolate x directly",
+              "Set x equal to 10 divided by 2"
+            ],
+            "answer": 0
           }
         ]
       },
@@ -47560,49 +47607,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Functions: Rational Inequalities; Trigonometry: Applications of the Sine and Cosine Laws in 3D; Functions: Composite and Inverse Trigonometric Relationships; Introduction to Graphing Quadratic Functions.",
+        "summary": "Practice recap covering: Functions: Rational Inequalities; Trigonometry: Applications of the Sine and Cosine Laws in 3D; Composition of Functions: Evaluating f(g(x)); Introduction to Graphing Quadratic Functions",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "A rational inequality involves an expression with a variable in the ___.",
+            "q": "Solving a rational inequality requires special care because...",
             "options": [
-              "A concept unrelated to rational inequalities",
-              "Exponent only, with no connection to a denominator",
-              "Numerator only, with no connection to fractions",
-              "Denominator"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The sine law and cosine law are used to solve triangles that ___.",
-            "options": [
-              "Do not necessarily contain a right angle",
-              "A concept unrelated to solving triangles",
-              "Have no defined angles or sides at all",
-              "Must always contain a right angle"
+              "The denominator can equal zero, which must be excluded from the solution set",
+              "Rational inequalities never have solutions",
+              "Rational expressions cannot be negative",
+              "All rational inequalities have exactly one solution"
             ],
             "answer": 0
           },
           {
-            "q": "For a function f and its inverse f⁻¹ to both be functions when working with trigonometric relationships, the domain of the original trig function typically must be ___.",
+            "q": "Extending the sine and cosine laws to 3D problems typically involves...",
             "options": [
-              "Left entirely unrestricted",
-              "Expanded to include all real numbers",
-              "Restricted so the function passes the horizontal line test",
-              "A concept unrelated to inverse functions"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The vertex of a quadratic function represents ___.",
-            "options": [
-              "The y-intercept of the function in every case",
-              "A point unrelated to the function's graph",
-              "The x-intercept closest to the origin",
-              "The maximum or minimum point of the parabola"
+              "Using only the Pythagorean theorem instead of trigonometry",
+              "Applying the laws only to right triangles",
+              "Ignoring one dimension to simplify to 2D",
+              "Breaking the scenario into multiple connected triangles"
             ],
             "answer": 3
+          },
+          {
+            "q": "For composite function (f∘g)(x) = f(g(x)), which is evaluated first?",
+            "options": [
+              "f(x)",
+              "g(x)",
+              "Both are evaluated simultaneously",
+              "Neither, the composition is evaluated as a single expression"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The vertex of a parabola such as y = x^2 represents...",
+            "options": [
+              "The point where the parabola crosses the x-axis twice",
+              "The y-intercept of the function",
+              "The minimum or maximum point of the graph",
+              "The axis of symmetry itself"
+            ],
+            "answer": 2
           }
         ]
       },
@@ -47764,47 +47811,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Functions: Solving Radical Equations and Extraneous Roots; Statistics: Sampling Methods and Bias; Functions: Solving Systems of Linear-Quadratic Equations; Functions: Symmetry — Even, Odd, and Neither; Review: Equations, Trigonometry, and Discrete Mathematics.",
+        "summary": "Practice recap covering: Functions: Solving Radical Equations and Extraneous Roots; Statistics: Sampling Methods and Bias; Functions: Solving Systems of Linear-Quadratic Equations; Functions: Symmetry — Even, Odd, and Neither; Recursive Formulas for Sequences",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "Solving a radical equation typically involves isolating the radical and then ___.",
+            "q": "An extraneous root in a radical equation is a solution that...",
             "options": [
-              "Dividing both sides by the radical term itself",
-              "Squaring both sides of the equation",
-              "A step unrelated to solving radical equations",
-              "Adding the same value to both sides with no other steps"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "A sample is best described as ___.",
-            "options": [
-              "A subset of a population selected for study",
-              "The entire population being studied, with no subset involved",
-              "A concept unrelated to statistics",
-              "A value calculated only after all data has been collected"
+              "Satisfies the squared equation but not the original radical equation",
+              "Makes the equation true for all values of x",
+              "Cannot be found algebraically",
+              "Always equals zero"
             ],
             "answer": 0
           },
           {
-            "q": "A system of one linear and one quadratic equation can have a maximum of ___ points of intersection.",
+            "q": "Convenience sampling can introduce bias because...",
             "options": [
-              "Zero",
-              "One",
-              "Two",
-              "Four"
+              "It always produces the largest possible sample size",
+              "It requires random number generators",
+              "It selects samples that are easiest to access rather than representative of the population",
+              "It guarantees every member of the population has an equal chance of selection"
             ],
             "answer": 2
           },
           {
-            "q": "A function is classified as even if ___.",
+            "q": "A function is classified as odd if...",
             "options": [
-              "f(-x) = -f(x) for all x in the domain",
-              "The function has no symmetry of any kind",
-              "The function is undefined for negative values of x",
-              "f(-x) = f(x) for all x in the domain"
+              "f(-x) = f(x) for all x, showing symmetry about the y-axis",
+              "f(-x) = -f(x) for all x, showing symmetry about the origin",
+              "The function has no symmetry at all",
+              "f(-x) = x for all values"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A recursive formula for a sequence defines each term...",
+            "options": [
+              "Using only the first term and the position number",
+              "Independently of all other terms",
+              "As the average of all previous terms",
+              "In terms of the previous term(s) in the sequence"
             ],
             "answer": 3
           }
@@ -48376,47 +48423,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Review: Discrete Math, Trigonometry, and Number Systems; Simplifying Rational Expressions; Introduction to Modular Arithmetic; Introduction to the Quadratic Formula.",
+        "summary": "Practice recap covering: Review: The Ambiguous Case of the Sine Law and Sequences; Simplifying Rational Expressions; Introduction to Modular Arithmetic; Introduction to the Quadratic Formula",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "A set is best described as ___.",
+            "q": "The ambiguous case (SSA) in the sine law can produce...",
             "options": [
-              "A well-defined collection of distinct objects",
-              "A concept unrelated to discrete mathematics",
-              "A single object with no connection to a collection",
-              "A collection that may repeat the same object many times"
+              "Zero, one, or two possible triangles",
+              "Always exactly one triangle",
+              "Always exactly two triangles",
+              "Only right triangles"
             ],
             "answer": 0
           },
           {
-            "q": "A rational expression is best described as ___.",
+            "q": "Simplifying a rational expression involves...",
             "options": [
-              "A fraction with polynomials in the numerator and denominator",
-              "A whole number with no fractions involved",
-              "An expression with no variables at all",
-              "A fraction that can never be simplified"
+              "Adding the numerator and denominator together",
+              "Multiplying both numerator and denominator by x",
+              "Factoring the numerator and denominator and cancelling common factors",
+              "Converting the expression to a decimal"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Two integers are said to be congruent modulo n if they ___.",
+            "q": "In modular arithmetic on a 12-hour clock, 9 + 5 (mod 12) equals...",
             "options": [
-              "Are always equal to each other",
-              "Leave the same remainder when divided by n",
-              "A concept unrelated to modular arithmetic",
-              "Are both divisible by n with no remainder considered"
+              "14",
+              "12",
+              "4",
+              "2"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "The quadratic formula is used to solve equations written in the standard form ___.",
+            "q": "In the quadratic formula x = (-b ± √(b²-4ac))/(2a), the expression b²-4ac is called the...",
             "options": [
-              "y = mx + b",
-              "ax^2 + bx + c = 0, where a is not zero",
-              "A form unrelated to quadratic equations",
-              "ax + b = 0"
+              "Coefficient",
+              "Discriminant",
+              "Vertex",
+              "Root"
             ],
             "answer": 1
           }
@@ -48784,47 +48831,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Exponential Functions: The Number e and Continuous Growth; Financial Mathematics: Mortgages and Amortization Schedules; Review: Conics, Discrete Math, Trigonometric Modelling, and Financial Math; Functions: Logarithmic Scales — pH, Richter, and Decibels; Discrete Math: Recursive Sequences and the Fibonacci Sequence.",
+        "summary": "Practice recap covering: Exponential Functions: The Number e and Continuous Growth; Financial Mathematics: Mortgages and Amortization Schedules; Review: Sinusoidal Modelling and Simple Annuities; Functions: Logarithmic Scales — pH, Richter, and Decibels; Discrete Math: Recursive Sequences and the Fibonacci Sequence",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "The number e is an irrational constant approximately equal to ___.",
+            "q": "The number e (approximately 2.718) is significant because...",
             "options": [
-              "1.618",
-              "2.718",
-              "A value unrelated to exponential functions",
-              "3.14159"
+              "It is the largest possible base for an exponential function",
+              "It arises naturally in modelling continuous growth or decay",
+              "It only applies to logarithms with base 10",
+              "It represents the slope of any linear function"
             ],
             "answer": 1
           },
           {
-            "q": "A mortgage is best described as a long-term loan repaid through ___.",
+            "q": "In an amortization schedule, as a mortgage progresses toward its final payments...",
             "options": [
-              "Payments that never include any portion applied to interest",
-              "Regular fixed payments over an extended period",
-              "A concept unrelated to financial mathematics",
-              "A single lump-sum payment made immediately"
+              "The proportion of each payment going toward principal increases",
+              "The proportion of each payment going toward interest increases",
+              "Payments become entirely interest with no principal",
+              "The total payment amount doubles"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "On the logarithmic Richter scale for earthquake magnitude, each whole-number increase represents ___.",
+            "q": "Logarithmic scales such as pH and the Richter scale are useful because they...",
             "options": [
-              "No real change in amplitude",
-              "A tenfold increase in wave amplitude",
-              "A scale unrelated to logarithms",
-              "A doubling of wave amplitude"
+              "Convert all measurements into whole numbers only",
+              "Eliminate the need for units of measurement",
+              "Only work for measuring sound intensity",
+              "Compress a huge range of values into a smaller, more manageable set of numbers"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "In a recursive sequence such as the Fibonacci sequence, each term after the initial terms is defined ___.",
+            "q": "In the Fibonacci sequence beginning 0, 1, 1, 2, 3, 5..., each term is found by...",
             "options": [
-              "A concept unrelated to sequences",
-              "By a fixed formula that ignores all previous terms",
-              "In terms of one or more of the preceding terms",
-              "Independently, with no relationship to any other term"
+              "Multiplying the two previous terms",
+              "Doubling the previous term",
+              "Adding the two preceding terms",
+              "Subtracting the previous term from 10"
             ],
             "answer": 2
           }
@@ -48988,47 +49035,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Functions: Solving Absolute Value Equations and Inequalities; Trigonometry: Double-Angle and Half-Angle Formulas; Statistics: The Binomial Probability Distribution.",
+        "summary": "Practice recap covering: Functions: Solving Absolute Value Equations and Inequalities; Trigonometric Identities: Compound and Double-Angle Formulas; Statistics: The Binomial Probability Distribution",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "When solving an absolute value equation, how many cases must typically be considered?",
+            "q": "Solving |x - 3| = 7 requires considering...",
             "options": [
-              "Four separate cases",
-              "A concept unrelated to absolute value",
-              "Only one single case",
-              "Two, the positive and negative cases"
+              "Only the positive case, x - 3 = 7",
+              "Only negative values of x",
+              "That the equation has no solution",
+              "Both x - 3 = 7 and x - 3 = -7"
             ],
             "answer": 3
           },
           {
-            "q": "What do double-angle formulas allow trigonometric functions to be rewritten in terms of?",
+            "q": "The double-angle formula for sine, sin(2θ), is equivalent to...",
             "options": [
-              "Functions of double the original angle",
-              "A concept unrelated to trigonometry",
-              "Only the original angle itself with no transformation",
-              "Functions of an entirely unrelated angle"
+              "2 sinθ cosθ",
+              "sin²θ - cos²θ",
+              "2 cos²θ - 1",
+              "sinθ + cosθ"
             ],
             "answer": 0
           },
           {
-            "q": "The solution set for the inequality |x - 3| < 5 is ___.",
+            "q": "Compound angle formulas are used to...",
             "options": [
-              "x < -2 or x > 8",
-              "x = -2 or x = 8",
-              "-2 < x < 8",
-              "x > 8 only"
+              "Simplify expressions involving decimals",
+              "Convert degrees directly to radians",
+              "Find exact trigonometric values for sums or differences of angles, like 75° = 45° + 30°",
+              "Eliminate the need for the unit circle"
             ],
             "answer": 2
           },
           {
-            "q": "In a binomial probability distribution, what does the parameter p represent?",
+            "q": "The binomial probability distribution applies to situations with...",
             "options": [
-              "The number of trials",
-              "The probability of success on a single trial",
-              "A concept unrelated to statistics",
-              "The total number of possible outcomes"
+              "A varying probability of success on each trial",
+              "A fixed number of independent trials, each with the same probability of success",
+              "An infinite number of trials",
+              "Only continuous data, not discrete outcomes"
             ],
             "answer": 1
           }
@@ -49192,49 +49239,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Functions: Rational Functions — Slant Asymptotes; Transformations of Functions (Vertical/Horizontal Shifts); Functions: Piecewise-Defined Function Modelling; Geometry: Vector Projections and the Cross Product.",
+        "summary": "Practice recap covering: Rational Functions: Key Features of f(x) = (ax+b)/(cx+d); Transformations of Functions (Vertical/Horizontal Shifts); Functions: Piecewise-Defined Function Modelling; Geometry: Vector Projections and the Cross Product",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "When does a rational function have a slant asymptote?",
+            "q": "For f(x) = (ax+b)/(cx+d), the vertical asymptote occurs where...",
             "options": [
-              "A concept unrelated to rational functions",
-              "When the denominator’s degree is always higher than the numerator’s",
-              "When the numerator’s degree is exactly one more than the denominator’s degree",
-              "When the numerator and denominator have the exact same degree"
+              "The numerator equals zero",
+              "x equals zero",
+              "y equals zero",
+              "The denominator equals zero"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The transformation y = f(x) + k produces...",
+            "options": [
+              "A vertical shift of k units",
+              "A horizontal shift of k units",
+              "A reflection across the x-axis",
+              "A vertical stretch by factor k"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A piecewise-defined function is useful for modelling situations where...",
+            "options": [
+              "The relationship is identical across the entire domain",
+              "Only one rule applies for all inputs",
+              "Different rules or expressions apply over different intervals of the domain",
+              "The function must always be linear"
             ],
             "answer": 2
           },
           {
-            "q": "A vertical shift of a function’s graph is represented by adding a constant ___.",
+            "q": "The cross product of two vectors produces a new vector that is...",
             "options": [
-              "Inside the function’s input only",
-              "By multiplying the entire function by zero",
-              "Outside the function, such as f(x) plus k",
-              "A change unrelated to the function’s graph"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "A horizontal shift of a function's graph is achieved by ___.",
-            "options": [
-              "Adding a constant outside the function, such as f(x) + k",
-              "Replacing x with (x - h) inside the function",
-              "Multiplying the entire function by a constant",
-              "A concept unrelated to transformations"
+              "Parallel to both original vectors",
+              "Perpendicular to both original vectors",
+              "Equal in magnitude to the sum of both vectors",
+              "Always a scalar quantity"
             ],
             "answer": 1
-          },
-          {
-            "q": "A piecewise-defined function is best described as a function that ___.",
-            "options": [
-              "Is undefined for all real numbers",
-              "Uses a single formula for every possible input",
-              "Is defined by different formulas over different intervals of its domain",
-              "A concept unrelated to functions"
-            ],
-            "answer": 2
           }
         ]
       },
@@ -49600,47 +49647,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Solving Quadratic Inequalities; The Law of Sines and Law of Cosines (Intro); Functions: Laws of Exponents and Rational Exponents; Optimization: Linear Programming with Systems of Inequalities.",
+        "summary": "Practice recap covering: Solving Quadratic Inequalities; The Law of Sines and Law of Cosines (Intro); Functions: Laws of Exponents and Rational Exponents; Optimization Problems with Quadratic Functions",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "Solving a quadratic inequality involves finding the values of x for which the expression is ___.",
+            "q": "Solving a quadratic inequality like x² - 5x + 6 > 0 involves...",
             "options": [
-              "Greater than or less than zero",
-              "Equal to exactly one specific value only",
-              "Always equal to zero",
-              "A concept unrelated to quadratic expressions"
+              "Finding the roots and analyzing the sign of the expression in each interval",
+              "Only checking if x is positive",
+              "Graphing a straight line",
+              "Setting the expression equal to a constant"
             ],
             "answer": 0
           },
           {
-            "q": "The Law of Sines and Law of Cosines are primarily used to solve for unknown parts of ___.",
+            "q": "The Law of Sines and Law of Cosines are used to solve triangles that...",
             "options": [
-              "Circles exclusively, with no connection to triangles",
-              "Non-right triangles",
-              "A shape unrelated to triangles",
-              "Only right triangles"
+              "Must always be right triangles",
+              "Are not right triangles, where basic trig ratios don't directly apply",
+              "Have no known angles at all",
+              "Are always equilateral"
             ],
             "answer": 1
           },
           {
-            "q": "The expression x^(2/3) is equivalent to ___.",
+            "q": "A rational exponent like x^(1/3) represents...",
             "options": [
-              "The cube root of x, squared",
-              "x squared, divided by three",
-              "The square root of x, cubed",
-              "Two-thirds of x"
+              "x multiplied by 1/3",
+              "x cubed",
+              "The cube root of x",
+              "The square root of x"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "In a linear programming problem, the optimal value of the objective function occurs at ___.",
+            "q": "In an optimization problem using a quadratic function, the maximum or minimum value occurs at...",
             "options": [
-              "The exact center of the feasible region",
-              "A concept unrelated to linear programming",
-              "Any point outside the feasible region",
-              "A vertex (corner point) of the feasible region"
+              "The y-intercept",
+              "The x-intercept",
+              "The endpoints of the domain",
+              "The vertex of the parabola"
             ],
             "answer": 3
           }
@@ -51232,98 +51279,98 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Introduction to Spherical Geometry; Solving Systems of Three Variables; Review: Advanced Algebra, Geometry, and Statistics (Days 81-89); Introduction to Logarithms; Polynomial Long Division.",
+        "summary": "Practice recap covering: Solving Three-Dimensional Problems with the Sine and Cosine Laws; Solving Systems of Three Variables; Review: Advanced Algebra, Geometry, and Statistics (Days 81-89); Introduction to Logarithms; Polynomial Long Division",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "What surface does spherical geometry study shapes and distances on?",
+            "q": "Solving 3D problems with the sine and cosine laws typically requires...",
             "options": [
-              "A sphere",
-              "A cube",
-              "A flat plane only",
-              "A concept unrelated to geometry"
+              "Ignoring the third dimension entirely",
+              "Breaking the problem into a series of connected 2D triangles",
+              "Using only the Pythagorean theorem",
+              "Assuming all triangles are right triangles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To solve a system of three equations with three unknowns, you typically...",
+            "options": [
+              "Graph all three equations on the same axes only",
+              "Guess and check values until one works",
+              "Combine equations to eliminate variables one at a time",
+              "Add all three equations together and divide by three"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A logarithm answers the question...",
+            "options": [
+              "What number added to the base gives another number?",
+              "What is the square root of the base?",
+              "What is the base multiplied by itself?",
+              "What exponent must the base be raised to, to produce a given number?"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Polynomial long division is used to...",
+            "options": [
+              "Divide a polynomial by another polynomial of equal or lesser degree",
+              "Add two polynomials together",
+              "Find the roots of a linear equation only",
+              "Multiply two polynomials together"
             ],
             "answer": 0
-          },
-          {
-            "q": "How many equations are typically needed to solve a system with three variables?",
-            "options": [
-              "One",
-              "Three",
-              "Five",
-              "Two"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is the value of log base 2 of 32?",
-            "options": [
-              "4",
-              "5",
-              "16",
-              "6"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "When dividing a polynomial P(x) by (x - c) using long division, what does the remainder equal, according to the Remainder Theorem?",
-            "options": [
-              "P(0)",
-              "P(c)",
-              "The leading coefficient of P(x)",
-              "Always zero regardless of c"
-            ],
-            "answer": 1
           }
         ]
       },
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Physiology: Hemoglobin and Oxygen Transport; Biology: The Diving Reflex in Marine Mammals; Ecology: Measuring Biodiversity -- Richness and Diversity Indices; Biology: Allelopathy — Chemical Warfare Between Plants; Biology Review: Cell Biology, Genetics, Physiology, and Ecology.",
+        "summary": "Practice recap covering: The Respiratory System: Gas Exchange in the Alveoli; Biology: The Diving Reflex in Marine Mammals; Ecology: Measuring Biodiversity -- Richness and Diversity Indices; Biology: Allelopathy — Chemical Warfare Between Plants; Biology Review: Cell Biology, Genetics, Physiology, and Ecology",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
           {
-            "q": "Each hemoglobin molecule can bind up to how many oxygen molecules?",
+            "q": "Gas exchange in the alveoli occurs primarily through...",
             "options": [
-              "4",
-              "1",
-              "2",
-              "8"
+              "Diffusion between alveoli and surrounding capillaries",
+              "Active transport requiring ATP",
+              "Filtration under high pressure",
+              "Osmosis of water molecules only"
             ],
             "answer": 0
           },
           {
-            "q": "What triggers the mammalian diving reflex?",
+            "q": "The mammalian diving reflex helps marine mammals conserve oxygen by...",
             "options": [
-              "A sudden loud noise",
-              "Submersion in water, especially cold water",
-              "Exposure to bright sunlight",
-              "An increase in body temperature"
+              "Increasing heart rate and blood flow to muscles",
+              "Increasing body temperature during submersion",
+              "Slowing heart rate and redirecting blood flow to essential organs",
+              "Stopping all blood flow during a dive"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Species evenness, as a component of biodiversity, refers to...",
+            "options": [
+              "The total number of different species present",
+              "How evenly individuals are distributed among the species present",
+              "The size of the habitat",
+              "The number of predators in an ecosystem"
             ],
             "answer": 1
           },
           {
-            "q": "A community with many species that are all present in roughly equal abundance would have what kind of diversity index value?",
+            "q": "Allelopathy is a phenomenon in which a plant...",
             "options": [
-              "A low diversity index",
-              "A high diversity index",
-              "An index of exactly zero",
-              "An undefined index"
+              "Attracts pollinators using bright colours",
+              "Forms a symbiotic relationship with fungi",
+              "Absorbs nutrients exclusively from the air",
+              "Releases chemical compounds that inhibit the growth of neighbouring plant species"
             ],
-            "answer": 1
-          },
-          {
-            "q": "What is allelopathy?",
-            "options": [
-              "A symbiotic relationship where both species benefit equally",
-              "The release of biochemical compounds by a plant that inhibit the growth of nearby competing plants",
-              "A disease that only affects allele frequencies in animals",
-              "A process by which plants absorb nitrogen from the soil"
-            ],
-            "answer": 1
+            "answer": 3
           }
         ]
       },
@@ -51485,49 +51532,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Genetics: Epistasis — Gene Interactions and Modified Ratios; Biology: Vestigial Structures as Evidence for Evolution; Biology: Photosynthetic Pigments and Paper Chromatography; Biology: Chemoreception — Taste and Smell; Genetics: Meiosis and the Sources of Genetic Variation.",
+        "summary": "Practice recap covering: Dihybrid Crosses and the 9:3:3:1 Ratio; Biology: Vestigial Structures as Evidence for Evolution; Biology: Photosynthetic Pigments and Paper Chromatography; Biology: Chemoreception — Taste and Smell; Genetics: Meiosis and the Sources of Genetic Variation",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
           {
-            "q": "What is epistasis?",
+            "q": "In a dihybrid cross between two heterozygous parents, the classic phenotypic ratio in the F2 generation is...",
             "options": [
-              "A type of cell division unrelated to genetics",
-              "A process where a single gene has no effect on phenotype at all",
-              "When the expression of one gene is masked or modified by a different, non-allelic gene",
-              "A disease caused only by environmental factors"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What are vestigial structures?",
-            "options": [
-              "Anatomical features that have lost most or all of their original function over evolutionary history",
-              "Structures found only in single-celled organisms",
-              "Structures that appear only in embryos and never in adults of any species",
-              "New structures that have never existed in any ancestor"
+              "9:3:3:1",
+              "3:1",
+              "1:2:1",
+              "1:1:1:1"
             ],
             "answer": 0
           },
           {
-            "q": "In paper chromatography of leaf pigments, why do different pigments separate into distinct bands as the solvent moves up the paper?",
+            "q": "Vestigial structures provide evidence for evolution because they...",
             "options": [
-              "Each pigment has identical solubility and travels at the same rate",
-              "Pigments differ in solubility and molecular size, causing them to travel at different rates",
-              "The paper chemically reacts with only one pigment",
-              "All pigments evaporate at the same point"
+              "Are perfectly functional in all species that have them",
+              "Persist in reduced form despite losing most or all of their original function",
+              "Only appear in newly evolved species",
+              "Prove that no species share common ancestry"
             ],
             "answer": 1
           },
           {
-            "q": "Which process during meiosis I directly increases genetic variation by exchanging segments between homologous chromosomes?",
+            "q": "Paper chromatography separates photosynthetic pigments based on...",
             "options": [
-              "Mitotic cytokinesis",
-              "Crossing over during prophase I",
-              "DNA replication in interphase",
-              "Random fertilization"
+              "Their molecular weight only",
+              "Their electrical charge",
+              "Their differing solubility as they travel up a solvent-soaked strip",
+              "Their reaction with oxygen"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "Crossing over during prophase I of meiosis contributes to genetic variation by...",
+            "options": [
+              "Duplicating the entire genome",
+              "Preventing any exchange of genetic material",
+              "Occurring only in mitosis, not meiosis",
+              "Exchanging genetic material between homologous chromosomes"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -51640,49 +51687,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Financial Mathematics: The Rule of 72 and Estimating Exponential Growth; Data Management: An Introduction to Geometric Probability; Math Review: Advanced Algebra, Trigonometry, and Data; Trigonometry: The Pythagorean Trigonometric Identity.",
+        "summary": "Practice recap covering: Financial Mathematics: The Rule of 72 and Estimating Exponential Growth; Data Management: An Introduction to Geometric Probability; Review: Remainder/Factor Theorems and the Unit Circle; Trigonometry: The Pythagorean Trigonometric Identity",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "What does the rule of 72 estimate?",
+            "q": "The Rule of 72 estimates...",
             "options": [
-              "The total value of an investment after exactly one year",
-              "The number of payments in a mortgage",
-              "The number of years needed for an investment to double in value",
-              "The exact interest rate of any loan"
+              "The exact interest rate needed for any investment",
+              "The number of years for an investment to double, by dividing 72 by the annual interest rate",
+              "The total interest earned over one year",
+              "The monthly payment on a loan"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What does geometric probability use to calculate likelihood?",
+            "q": "Geometric probability calculates likelihood based on...",
             "options": [
+              "Counting discrete outcomes only",
+              "The number of trials performed",
               "Area, length, or volume rather than counting discrete outcomes",
-              "Only the colour of an object",
-              "Only the time of day",
-              "Only the number of people in a room"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which equation is the Pythagorean trigonometric identity?",
-            "options": [
-              "sin²θ + cos²θ = 1",
-              "sinθ + cosθ = 1",
-              "sin²θ − cos²θ = 1",
-              "tan²θ + 1 = sinθ"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Using the Rule of 72, an investment growing at 6% annual interest will approximately double in how many years?",
-            "options": [
-              "6 years",
-              "9 years",
-              "12 years",
-              "18 years"
+              "Historical frequency data only"
             ],
             "answer": 2
+          },
+          {
+            "q": "The factor theorem is used to...",
+            "options": [
+              "Test whether a given binomial is a factor of a polynomial",
+              "Find the derivative of a polynomial",
+              "Convert a polynomial to standard form",
+              "Determine the degree of a polynomial"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Pythagorean trigonometric identity states that...",
+            "options": [
+              "sinθ + cosθ = 1 for any angle",
+              "sinθ × cosθ = 1 for any angle",
+              "sin²θ - cos²θ = 1 for any angle",
+              "sin²θ + cos²θ = 1 for any angle"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -51893,47 +51940,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Biology Review: Genetics, Physiology, and Ecology; Microbiology: Horizontal Gene Transfer in Bacteria; Biology: Seed Dormancy and Germination Triggers; Biology: Embryonic Development -- Cleavage to Differentiation.",
+        "summary": "Practice recap covering: Biology Review: Genetics, Evolution, and the Digestive System; Microbiology: Horizontal Gene Transfer in Bacteria; Biology: Seed Dormancy and Germination Triggers; Cell Differentiation: How One Genome Makes Many Cell Types",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
           {
-            "q": "Why is seed dormancy evolutionarily advantageous for many plant species?",
+            "q": "Sex-linked traits, as covered in this review, are traits that are...",
             "options": [
-              "It guarantees the seed will never germinate",
-              "It delays germination until conditions are more likely to support seedling survival",
-              "It prevents the seed from being eaten by animals",
-              "It increases the seed's size over time"
+              "Carried on autosomes only",
+              "Carried on the sex chromosomes (X or Y)",
+              "Always dominant",
+              "Unaffected by inheritance patterns"
             ],
             "answer": 1
           },
           {
-            "q": "In bacterial conjugation, genetic material is transferred:",
+            "q": "Conjugation, one mechanism of horizontal gene transfer in bacteria, involves...",
             "options": [
-              "By bacteria absorbing free DNA from their environment",
-              "Directly between two bacterial cells through a pilus",
-              "Through a virus that infects two different bacteria",
-              "Only during bacterial binary fission"
+              "Direct transfer of DNA between two bacterial cells through a physical connection",
+              "A bacteriophage carrying DNA between cells",
+              "Bacteria absorbing free DNA fragments from the environment",
+              "Cell division producing two identical daughter cells"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "What environmental cue commonly breaks seed dormancy and triggers germination?",
+            "q": "Seed dormancy allows a seed to...",
             "options": [
-              "Complete darkness maintained indefinitely",
-              "Exposure to adequate moisture, temperature, and in some species light",
-              "A permanent absence of oxygen",
-              "Continuous freezing temperatures with no variation"
+              "Germinate immediately regardless of conditions",
+              "Lose its ability to ever germinate",
+              "Grow continuously without needing water or light",
+              "Survive unfavourable conditions until environmental triggers signal it's time to grow"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "During early embryonic development, what is cleavage?",
+            "q": "Cells with the same genome become structurally and functionally different because...",
             "options": [
-              "The programmed death of embryonic cells",
-              "The process by which the embryo implants in the uterine wall",
-              "A series of rapid mitotic cell divisions of the zygote without overall growth in size",
-              "The formation of the nervous system from the ectoderm"
+              "They contain different genomes despite appearing similar",
+              "They undergo different types of cell division",
+              "Specific genes are turned on or off in different cells",
+              "Only some cells contain DNA"
             ],
             "answer": 2
           }
@@ -52097,49 +52144,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Ecology: Ecological Niches and Competitive Exclusion; Biology: Blood Types and the ABO/Rh Blood Group Systems; Biology: Innate Immunity -- The Body's First Line of Defense; Biology: Antibody Structure and the Humoral Immune Response.",
+        "summary": "Practice recap covering: Ecology: Ecological Niches and Competitive Exclusion; Biology: Blood Types and the ABO/Rh Blood Group Systems; Biology: Innate Immunity -- The Body's First Line of Defense; The Circulatory System: Components of Blood",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
           {
-            "q": "What does a species ecological niche describe?",
+            "q": "The competitive exclusion principle states that...",
             "options": [
-              "Its full role in an ecosystem, including the resources it uses and conditions it tolerates",
-              "The exact number of offspring a species produces each year",
-              "Only the geographic location where a species was first discovered",
-              "Only the physical size of an individual organism"
+              "Two species cannot indefinitely occupy the exact same niche without one outcompeting the other",
+              "Two species can indefinitely share the exact same ecological niche",
+              "Competition only occurs between predator and prey",
+              "Niches never overlap between species"
             ],
             "answer": 0
           },
           {
-            "q": "What does the ABO blood group system classify?",
+            "q": "A person with type AB blood has...",
             "options": [
-              "Blood based on the persons eye colour",
-              "Blood based on the presence or absence of A and B antigens on red blood cells",
-              "Blood based on its exact volume in the body",
-              "Blood based on the persons age at donation"
+              "Neither A nor B antigens on their red blood cells",
+              "Only the A antigen",
+              "Both A and B antigens on their red blood cells",
+              "Only the B antigen"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following is part of the body's innate immune response?",
+            "options": [
+              "Production of antibodies specific to a pathogen",
+              "Physical barriers and phagocytic cells",
+              "Memory cells that recognize a previously encountered pathogen",
+              "A targeted response that takes days to develop"
             ],
             "answer": 1
           },
           {
-            "q": "Which of the following is an example of the body's innate immune defenses?",
+            "q": "Which component of blood is primarily responsible for clotting?",
             "options": [
-              "Production of highly specific antibodies against a previously encountered pathogen",
-              "Physical barriers like skin and mucous membranes along with general inflammatory responses",
-              "Memory B cells that respond faster upon second exposure to an antigen",
-              "T cells that recognize one specific antigen after prior exposure"
+              "Plasma",
+              "Red blood cells",
+              "White blood cells",
+              "Platelets"
             ],
-            "answer": 1
-          },
-          {
-            "q": "In the humoral immune response, antibodies are produced and secreted by:",
-            "options": [
-              "Plasma cells derived from activated B lymphocytes",
-              "Red blood cells circulating in the bloodstream",
-              "Neurons in the peripheral nervous system",
-              "Skeletal muscle cells"
-            ],
-            "answer": 0
+            "answer": 3
           }
         ]
       },
@@ -52350,49 +52397,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Chemistry: The Chemistry of Invisible Ink and Redox Indicators; Science: Epigenetics: How Environment Affects Gene Expression; Science: The Physics of Superconductors; Chemistry: Electronegativity and Bond Polarity; Chemistry: Dyes and Pigments — Azo Compounds and Colour Chemistry.",
+        "summary": "Practice recap covering: Chemistry: The Chemistry of Invisible Ink and Redox Indicators; Science: Epigenetics: How Environment Affects Gene Expression; Galvanic Cells: How Batteries Produce Electricity; Chemistry: Electronegativity and Bond Polarity; Chemistry: Dyes and Pigments — Azo Compounds and Colour Chemistry",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
           {
-            "q": "What property do many invisible ink compounds share before they are revealed?",
+            "q": "Invisible ink revealed by heat often relies on...",
             "options": [
-              "They are metallic solids with no organic component",
-              "They glow permanently under any lighting condition",
-              "They are bright, highly visible pigments",
-              "They are colourless organic compounds"
+              "A physical colour change with no chemical reaction",
+              "Freezing the paper to reveal the message",
+              "Adding water to dissolve the ink completely",
+              "An oxidation reaction triggered by heat"
             ],
             "answer": 3
           },
           {
-            "q": "What does epigenetics study?",
+            "q": "In a galvanic cell, the anode is the electrode where...",
             "options": [
-              "How environmental factors influence whether genes are turned on or off",
-              "A concept unrelated to biology",
-              "How genes are physically removed from an organism",
-              "How DNA sequences are permanently rewritten"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "A chemical bond between two atoms with a large electronegativity difference is best described as:",
-            "options": [
-              "Nonpolar covalent, with electrons shared equally",
-              "Polar covalent or ionic, with electrons shared unequally or transferred",
-              "Metallic, with a sea of delocalized electrons",
-              "Entirely lacking any electron interaction"
+              "Reduction occurs",
+              "Oxidation occurs",
+              "No reaction occurs",
+              "The salt bridge is located"
             ],
             "answer": 1
           },
           {
-            "q": "Azo compounds, widely used as dyes and pigments, are characterized by which functional group?",
+            "q": "A large electronegativity difference between two bonded atoms produces...",
             "options": [
-              "A carboxylic acid group (-COOH)",
-              "A hydroxyl group (-OH)",
-              "A nitrogen-nitrogen double bond (-N=N-) linking two aromatic rings",
-              "A carbonyl group (C=O) with no nitrogen present"
+              "A nonpolar covalent bond",
+              "An ionic bond only",
+              "A polar bond with partial positive and negative charges",
+              "No bond at all"
             ],
             "answer": 2
+          },
+          {
+            "q": "Azo compounds are widely used as dyes because...",
+            "options": [
+              "They contain a nitrogen-nitrogen double bond and an extended conjugated system that absorbs specific wavelengths of visible light",
+              "They are colourless and reflect all wavelengths of light",
+              "They contain only single carbon-carbon bonds",
+              "They dissolve instantly in any solvent without reacting"
+            ],
+            "answer": 0
           }
         ]
       }
@@ -52456,49 +52503,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Calculus: Implicit Differentiation; Statistics: An Introduction to Percentiles and Quartiles; Sequences and Series: Recursive versus Explicit Formulas; Math Review: Probability, Number Theory, and Statistics (Days 171-179).",
+        "summary": "Practice recap covering: Applying the Chain Rule Idea to Composite Functions; Statistics: An Introduction to Percentiles and Quartiles; Sequences and Series: Recursive versus Explicit Formulas; Math Review: Probability, Number Theory, and Statistics (Days 171-179)",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "When is implicit differentiation needed?",
+            "q": "In the composite function f(g(x)), which function is considered the 'inner' function?",
             "options": [
-              "When y is not isolated on one side of an equation",
-              "Only when a function has no variables at all",
-              "Only when an equation contains no y term whatsoever",
-              "When a function is already fully solved for y"
+              "g",
+              "f",
+              "Neither, they are evaluated simultaneously",
+              "It depends on which is graphed first"
             ],
             "answer": 0
           },
           {
-            "q": "What does a percentile indicate?",
+            "q": "The second quartile (Q2) of a data set is equivalent to...",
             "options": [
-              "The percentage of data values in a set that fall below a given value",
-              "The exact number of data points in a set",
-              "The largest value in a data set",
-              "The colour used in a graph of the data"
+              "The mode",
+              "The mean",
+              "The median",
+              "The range"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What must be known to compute a term using a recursive formula that is not required when using an explicit formula?",
+            "q": "An explicit formula for a sequence, unlike a recursive formula, allows you to...",
             "options": [
-              "The value of one or more preceding terms in the sequence",
-              "The common ratio of an unrelated sequence",
-              "The final term of the sequence",
-              "Nothing beyond the term number itself"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What do quartiles divide an ordered data set into?",
-            "options": [
-              "Ten equal groups",
-              "Four groups containing roughly equal numbers of data points",
-              "Two groups split at the mean",
-              "A single group with no divisions"
+              "Find only the first term of the sequence",
+              "Calculate any term directly using its position, without knowing previous terms",
+              "Find previous terms only",
+              "Only apply to arithmetic sequences"
             ],
             "answer": 1
+          },
+          {
+            "q": "The Birthday Paradox demonstrates that...",
+            "options": [
+              "It's impossible for two people in a group to share a birthday",
+              "Every group needs 365 people to guarantee a shared birthday",
+              "Birthdays are evenly distributed across all days of the year",
+              "In a group of just 23 people, there's a greater than 50% chance two people share a birthday"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -52709,49 +52756,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Human Biology: The Menstrual Cycle and Hormonal Regulation; Behavioural Genetics: Twin Studies and the Nature-Nurture Debate; Plant Biology: Transpiration and the Cohesion-Tension Theory; Biology Review: Biotechnology, Physiology, and Ecosystems.",
+        "summary": "Practice recap covering: Human Biology: The Menstrual Cycle and Hormonal Regulation; Behavioural Genetics: Twin Studies and the Nature-Nurture Debate; Plant Biology: Transpiration and the Cohesion-Tension Theory; Population Dynamics: Growth, Limits, and Carrying Capacity",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
           {
-            "q": "What regulates the menstrual cycle?",
+            "q": "Ovulation during the menstrual cycle is triggered by...",
             "options": [
-              "A process with no hormonal involvement at all",
-              "A fixed, unchanging hormone level with no variation",
-              "The digestive system exclusively",
-              "A shifting balance of hormones"
+              "A drop in body temperature",
+              "A surge in pituitary hormones",
+              "The shedding of the uterine lining",
+              "A decrease in progesterone only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Twin studies help researchers estimate the role of genetics versus environment by comparing...",
+            "options": [
+              "Identical twins raised in the same household only",
+              "Fraternal twins to unrelated individuals",
+              "Identical twins, who share nearly all genes, to fraternal twins, who share about half",
+              "Twins of different ages"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The cohesion-tension theory explains the upward movement of water in plants through...",
+            "options": [
+              "Active pumping by root cells",
+              "Gravity pulling water upward",
+              "Osmosis occurring only in the leaves",
+              "Transpiration pulling on a continuous water column held together by hydrogen bonding"
             ],
             "answer": 3
           },
           {
-            "q": "What do twin studies compare?",
+            "q": "Carrying capacity refers to...",
             "options": [
-              "Identical twins to fraternal twins",
-              "Only children with no siblings at all",
-              "Twins raised on entirely different planets",
-              "Siblings born decades apart"
+              "The maximum population size an environment can sustain given its resources",
+              "The minimum number of individuals needed for a population to survive",
+              "The rate at which a population grows without any limits",
+              "The number of predators in an ecosystem"
             ],
             "answer": 0
-          },
-          {
-            "q": "According to the cohesion-tension theory, what force pulls water upward through a plant's xylem?",
-            "options": [
-              "Negative pressure from transpiration combined with cohesion between water molecules",
-              "Active pumping by root cells",
-              "Gravity acting on the water column",
-              "Osmosis occurring only in the stem"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What hormonal event directly triggers ovulation during the menstrual cycle?",
-            "options": [
-              "A steady decline in estrogen throughout the cycle",
-              "A surge in luteinizing hormone (LH)",
-              "The complete absence of progesterone",
-              "A surge in insulin"
-            ],
-            "answer": 1
           }
         ]
       },
@@ -53068,49 +53115,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Geometry: The Equation of a Sphere in Three Dimensions; Complex Numbers: Complex Conjugates and Their Properties; Sequences: Geometric Sequences — General Term and Sum Formulas; Functions: Solving Exponential Equations Using Common Bases; Functions: Introduction to Logarithms — Converting Between Exponential and Logarithmic Form.",
+        "summary": "Practice recap covering: Scalar Equations of a Circle and Distance Between Points; Solving Polynomial Equations with the Factor Theorem; Sequences: Geometric Sequences — General Term and Sum Formulas; Functions: Solving Exponential Equations Using Common Bases; Functions: Introduction to Logarithms — Converting Between Exponential and Logarithmic Form",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "What does the equation of a sphere in three dimensions extend?",
+            "q": "The equation of a circle (x-h)² + (y-k)² = r² has centre and radius given by...",
             "options": [
-              "The equation of a circle",
-              "The equation of a straight line",
-              "The equation of a single point with no radius",
-              "An equation with no geometric meaning at all"
+              "Centre (r, r) and radius h+k",
+              "Centre (0,0) always, radius h+k",
+              "Centre (h,k) and radius r²",
+              "Centre (h, k) and radius r"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The general term formula for a geometric sequence is...",
+            "options": [
+              "tₙ = a·r^(n-1)",
+              "tₙ = a + (n-1)d",
+              "tₙ = a·n + r",
+              "tₙ = a/r^n"
             ],
             "answer": 0
           },
           {
-            "q": "What does the complex conjugate of a number do to its imaginary part?",
-            "options": [
-              "Converts it into a real number with no imaginary component remaining defined",
-              "Doubles it in magnitude",
-              "Removes it entirely, leaving only zero",
-              "Reverses its sign"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "To solve an exponential equation like 2^(x+1) = 8 using common bases, what must be done first?",
+            "q": "To solve an exponential equation using common bases, you...",
             "options": [
               "Take the derivative of both sides",
-              "Rewrite both sides as powers of the same base",
-              "Divide both sides by 2 immediately",
-              "Assume x equals zero"
+              "Rewrite both sides with the same base and set the exponents equal",
+              "Divide both sides by the base",
+              "Take the square root of both sides"
             ],
             "answer": 1
           },
           {
-            "q": "How is the exponential equation b^y = x converted into logarithmic form?",
+            "q": "Converting log_b(x) = y to exponential form gives...",
             "options": [
-              "x = log_b(y)",
-              "b = log_x(y)",
-              "y = log_x(b)",
-              "y = log_b(x)"
+              "x^y = b",
+              "y^b = x",
+              "b^y = x",
+              "b^x = y"
             ],
-            "answer": 3
+            "answer": 2
           }
         ]
       },
@@ -53884,47 +53931,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Statistics: Correlation and the Line of Best Fit; Geometry: The Distance from a Point to a Plane in Three Dimensions; Probability: Permutations and Combinations; Trigonometry: Polar Coordinates and Conversion to Rectangular Form; Functions: Reciprocal Functions and Their Graphs.",
+        "summary": "Practice recap covering: Statistics: Correlation and the Line of Best Fit; Solving Linear-Quadratic Systems of Equations; Probability: Permutations and Combinations; Radian Measure and Graphing Trig Functions in Radians; Functions: Reciprocal Functions and Their Graphs",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "A scatter plot shows points closely clustered around a line that rises from left to right. This indicates:",
+            "q": "A line of best fit on a scatter plot is used to...",
             "options": [
-              "strong negative correlation",
-              "weak positive correlation",
-              "no correlation",
-              "strong positive correlation"
+              "Connect every single data point exactly",
+              "Prove that two variables are unrelated",
+              "Show only the strongest data point",
+              "Make predictions based on the trend in the data"
             ],
             "answer": 3
           },
           {
-            "q": "What is being calculated when finding the distance from a point to a plane?",
+            "q": "The formula nPr is used to count...",
             "options": [
-              "A quantity with no connection to distance at all",
-              "A distance measured only along the plane itself",
-              "The longest possible path between the point and the plane",
-              "The shortest, perpendicular distance between the point and the plane"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How many ways can 3 students be selected from a group of 8, where the order of selection does not matter?",
-            "options": [
-              "56",
-              "336",
-              "24",
-              "512"
+              "Arrangements where order matters",
+              "Selections where order does not matter",
+              "The total number of possible outcomes regardless of order",
+              "Combinations only"
             ],
             "answer": 0
           },
           {
-            "q": "What happens to the graph of y = 1/x as x approaches 0 from the positive side?",
+            "q": "How many radians are equivalent to 360 degrees?",
             "options": [
-              "y approaches 0",
-              "y approaches negative infinity",
-              "y approaches positive infinity",
-              "y approaches 1"
+              "π radians",
+              "2π radians",
+              "4π radians",
+              "π/2 radians"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A reciprocal function of a linear function typically has...",
+            "options": [
+              "No asymptotes at all",
+              "Only horizontal asymptotes",
+              "A vertical asymptote where the original function equals zero",
+              "A domain of all real numbers"
             ],
             "answer": 2
           }

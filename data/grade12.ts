@@ -8488,6 +8488,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use vector components and bearings to find resultant velocities and displacements, such as combining a boat's speed with a river current or a plane's speed with wind.",
         "resourceLabel": "YouTube: Vectors: Solving Navigation Problems with Bearings",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20Solving%20Navigation%20Problems%20with%20Bearings%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cSKAqfGXOPI",
         "quiz": [
           {
             "q": "A hiker walks 3 km east, then 4 km north. What is the magnitude of her total displacement?",
@@ -8736,6 +8737,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson covers how to break a vector into horizontal and vertical (x and y) components using its magnitude and direction angle, and how to work backward from components to find magnitude and direction.",
         "resourceLabel": "YouTube: Vectors: Resolving Vectors into Components",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20Resolving%20Vectors%20into%20Components%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dC4cudpxVQw",
         "quiz": [
           {
             "q": "A vector has magnitude 10 and direction angle 30° from the positive x-axis. What is its horizontal (x) component, to one decimal place?",
@@ -10315,6 +10317,7 @@ const curriculum: DayContent[] = [
         "summary": "Students build a sign chart for the second derivative to determine where a function is concave up or concave down and to locate its points of inflection.",
         "resourceLabel": "YouTube: Curve Sketching: Using Sign Charts to Determine Concavity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Curve%20Sketching%3A%20Using%20Sign%20Charts%20to%20Determine%20Concavity%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OhqNbQi9QPk",
         "quiz": [
           {
             "q": "On an interval where f''(x) > 0, the graph of f(x) is ___.",
@@ -10748,6 +10751,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson covers when an infinite geometric series has a finite sum (when |r| < 1) and how to calculate that sum using the formula S = a / (1 − r).",
         "resourceLabel": "YouTube: Geometric Series: Sum to Infinity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometric%20Series%3A%20Sum%20to%20Infinity%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jxRqRLMliPc",
         "quiz": [
           {
             "q": "For an infinite geometric series to have a finite sum, the common ratio r must satisfy:",
@@ -18415,6 +18419,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson reviews the conditions for continuity at a point and uses the Intermediate Value Theorem to justify that a root exists within an interval, without approximating its value.",
         "resourceLabel": "YouTube: Continuity and the Intermediate Value Theorem",
         "resourceUrl": "https://www.youtube.com/results?search_query=Continuity%20and%20the%20Intermediate%20Value%20Theorem%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=M9yWBWSs3Go",
         "quiz": [
           {
             "q": "A function f is continuous at x = a when which conditions all hold?",
@@ -20398,6 +20403,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson shows how to build a table of finite differences from equally spaced x-values, and how the level at which the differences become constant reveals the degree of the polynomial modelling the data.",
         "resourceLabel": "YouTube: Polynomial Functions: Using Finite Differences to Find Degree",
         "resourceUrl": "https://www.youtube.com/results?search_query=Polynomial%20Functions%3A%20Using%20Finite%20Differences%20to%20Find%20Degree%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=f1L0FRCzpko",
         "quiz": [
           {
             "q": "For a table of values with equally spaced x-values, if the second differences are constant and nonzero, the data is modelled by a polynomial of degree:",
@@ -20457,6 +20463,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use the central difference method to estimate a function's derivative from a table of values and compare it with forward and backward difference estimates.",
         "resourceLabel": "YouTube: Derivatives: Estimating a Derivative from a Table of Values Using Central Differences",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20Estimating%20a%20Derivative%20from%20a%20Table%20of%20Values%20Using%20Central%20Differences%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wWdijnTdkTk",
         "quiz": [
           {
             "q": "The central difference formula for estimating f'(a) using a table is ___.",
@@ -46584,47 +46591,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Parametric Equations: Introduction and Applications; Introduction to Polar Coordinates; Mathematical Induction: A Formal Proof Technique; Transformations of Functions: A Unified Approach.",
+        "summary": "Practice recap covering: Vectors: Solving Navigation Problems with Bearings; Vectors: Resolving Vectors into Components; Mathematical Induction: A Formal Proof Technique; Transformations of Functions: A Unified Approach",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "Parametric equations define x and y coordinates separately in terms of a ___.",
+            "q": "A vector has magnitude 8 and direction angle 40° measured from the positive x-axis. What are its approximate horizontal and vertical components?",
             "options": [
-              "Third variable, called a parameter",
-              "Single, fixed constant with no variation",
-              "Colour, with no connection to numerical values",
-              "Concept entirely unrelated to coordinates"
+              "x ≈ 5.14, y ≈ 6.13",
+              "x ≈ 6.13, y ≈ 6.13",
+              "x ≈ 6.13, y ≈ 5.14",
+              "x ≈ 8, y ≈ 5.14"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Polar coordinates locate a point using ___.",
+            "q": "A boat heads due north at 12 km/h through water while a current flows due east at 5 km/h. What is the correct method to find the boat's resultant velocity relative to the ground?",
             "options": [
-              "A single number with no other defining information",
-              "A distance from the origin and an angle from a reference direction",
-              "A concept entirely unrelated to location or position",
-              "Only two perpendicular distances, with no angle involved"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "A proof by mathematical induction establishes a base case and then proves that ___.",
-            "options": [
-              "The statement is true for only one specific value of n",
-              "A step entirely unrelated to proving the statement for all n",
-              "The base case alone is sufficient with no further step required",
-              "If the statement holds for n = k, it also holds for n = k + 1"
+              "Subtract the current's speed from the boat's speed since they are perpendicular",
+              "Average the two speeds and use the boat's original heading",
+              "Add the speeds directly since both act on the boat simultaneously (12+5=17 km/h due north)",
+              "Add the velocity vectors as components (12 north, 5 east) and find the resultant magnitude and direction using vector addition"
             ],
             "answer": 3
           },
           {
-            "q": "In the general transformation y = a f(k(x - d)) + c, the parameter d produces a ___.",
+            "q": "In a proof by mathematical induction that a statement P(n) holds for all natural numbers n ≥ 1, what must be shown after verifying the base case P(1)?",
             "options": [
-              "Vertical stretch or compression",
-              "Horizontal translation",
-              "A change entirely unrelated to the graph's position",
-              "Reflection across the x-axis"
+              "That if P(k) is true for some k, then P(k+1) must also be true",
+              "That P(n) is true for at least one other specific value of n, such as n=2",
+              "That the converse statement P(n) implies P(1) holds",
+              "That P(n) is false for all n greater than some bound"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which description matches the transformation y = -2f(x - 3) + 1 applied to y = f(x)?",
+            "options": [
+              "Reflect in the y-axis, stretch vertically by 2, shift left 3, shift down 1",
+              "Reflect in the x-axis, stretch vertically by factor 2, shift right 3, shift up 1",
+              "Reflect in the x-axis, compress vertically by factor 2, shift right 3, shift up 1",
+              "Reflect in the x-axis, stretch vertically by factor 2, shift left 3, shift up 1"
             ],
             "answer": 1
           }
@@ -46837,47 +46844,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Applications in Economics: Marginal Cost and Revenue; Curve Sketching: Reading Increasing and Decreasing Intervals from a Derivative Graph; Related Rates in Three Dimensions; Curvature and the Osculating Circle.",
+        "summary": "Practice recap covering: Applications in Economics: Marginal Cost and Revenue; Curve Sketching: Reading Increasing and Decreasing Intervals from a Derivative Graph; Related Rates in Three Dimensions; Curve Sketching: Using Sign Charts to Determine Concavity",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
           {
-            "q": "In economics, marginal cost represents the rate of change in total cost with respect to ___.",
+            "q": "Marginal revenue is best described as which of the following?",
             "options": [
-              "The colour of the product being manufactured",
-              "A concept unrelated to production or cost",
-              "The total number of years a business has operated",
-              "Producing one additional unit"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "When reading a graph of f'(x) to sketch f(x), a sign change in f'(x) from negative to positive at x = c indicates that f has ___.",
-            "options": [
-              "a local minimum at x = c",
-              "a local maximum at x = c",
-              "an inflection point at x = c",
-              "the function concave down at x = c"
+              "The derivative of the total revenue function, representing revenue from producing one more unit",
+              "The total revenue divided by the number of units produced",
+              "The difference between total revenue and total cost",
+              "The second derivative of the cost function"
             ],
             "answer": 0
           },
           {
-            "q": "In a three-dimensional related rates problem, such as a shrinking spherical balloon, the rates of change of radius and volume are connected by ___.",
+            "q": "On a graph of f'(x), an interval where the graph lies below the x-axis corresponds to which behaviour of f(x)?",
             "options": [
-              "Setting both rates equal to zero at all times",
-              "Differentiating the volume formula with respect to time using the chain rule",
-              "A method entirely unrelated to differentiation",
-              "Comparing the surface areas at two different moments only"
+              "f(x) is increasing",
+              "f(x) has a local maximum throughout the interval",
+              "f(x) is decreasing",
+              "f(x) is concave up"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a three-dimensional related rates problem involving the volume of a sphere, dV/dt is related to dr/dt through which relationship?",
+            "options": [
+              "dV/dt = 4πr² only, independent of dr/dt",
+              "dV/dt = 4πr² (dr/dt), obtained by differentiating V = (4/3)πr³ with respect to time",
+              "dV/dt = (4/3)πr³ multiplied by time",
+              "dV/dt equals dr/dt divided by the radius"
             ],
             "answer": 1
           },
           {
-            "q": "The osculating circle at a point on a curve is the circle that ___.",
+            "q": "A sign chart for f''(x) shows a change from negative to positive at x = c. What does this indicate about the graph of f at x = c?",
             "options": [
-              "Has a fixed radius identical for every curve",
-              "A circle entirely unrelated to the curve's shape",
-              "Passes through the origin regardless of the curve's position",
-              "Best matches the curve's curvature at that point"
+              "A local maximum",
+              "A vertical asymptote",
+              "The function is undefined at x = c",
+              "A point of inflection, where concavity changes from down to up"
             ],
             "answer": 3
           }
@@ -46992,47 +46999,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Complex Numbers: Polar Form and De Moivre’s Theorem; Sequences: Limits and Convergence; Laws of Logarithms: Product, Quotient, and Power Rules; Functions: Symmetry -- Even, Odd, and Neither; Recursive Sequences: Advanced Applications.",
+        "summary": "Practice recap covering: Solving Trigonometric Equations Over a Restricted Domain; Geometric Series: Sum to Infinity; Laws of Logarithms: Product, Quotient, and Power Rules; Functions: Symmetry -- Even, Odd, and Neither; Recursive Sequences: Advanced Applications",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "A complex number in polar form is expressed using magnitude and ___.",
+            "q": "Solve sin(x) = 0.5 for all solutions where 0 ≤ x < 2π.",
             "options": [
-              "Colour, with no connection to complex numbers",
-              "A factor entirely unrelated to magnitude",
-              "Angle",
-              "Only its real component, with no angle involved"
+              "x = π/6 only",
+              "x = π/6 and 5π/6",
+              "x = π/6 and 7π/6",
+              "x = π/3 and 2π/3"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "The limit of a sequence describes the value its terms approach as the sequence ___.",
+            "q": "Using the laws of logarithms, log(a) - log(b) + 2log(c) is equivalent to which single logarithm?",
             "options": [
-              "A concept unrelated to how a sequence behaves",
-              "Stops after exactly two terms",
-              "Remains completely undefined at every term",
-              "Continues indefinitely"
+              "log((a+c^2)/b)",
+              "log(abc^2)",
+              "log(a/(bc^2))",
+              "log(ac^2/b)"
             ],
             "answer": 3
           },
           {
-            "q": "According to the laws of logarithms, log_b(M) + log_b(N) is equivalent to ___.",
+            "q": "A function f satisfies f(-x) = f(x) for all x in its domain, and its graph is symmetric about the y-axis. What type of function is this?",
             "options": [
-              "log_b(MN)",
-              "log_b(M - N)",
-              "A value entirely unrelated to the product of M and N",
-              "log_b(M/N)"
+              "Even",
+              "Odd",
+              "Neither even nor odd",
+              "Periodic but not symmetric"
             ],
             "answer": 0
           },
           {
-            "q": "A function f is classified as even when, for every x in its domain, ___.",
+            "q": "An advanced recursive sequence models compound growth where each term depends on the previous two terms, modified by a growth factor. What best characterizes this type of recursion?",
             "options": [
-              "f(-x) = -f(x)",
-              "A condition entirely unrelated to the function's symmetry",
-              "f(-x) = f(x)",
-              "f(x) = 0"
+              "It is a simple linear sequence depending only on n",
+              "It depends only on the very first term a_1",
+              "It is a recursive rule applied repeatedly, referencing more than one previous term",
+              "It converges to zero regardless of the growth factor"
             ],
             "answer": 2
           }
@@ -47449,47 +47456,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Calculus: The Squeeze Theorem; Calculus: Linear Approximation and Differentials; Calculus: Newton’s Method for Root Approximation; Calculus: Hyperbolic Functions and Their Derivatives.",
+        "summary": "Practice recap covering: Calculus: The Squeeze Theorem; Calculus: Linear Approximation and Differentials; Finding Roots of Polynomials with the Factor Theorem; Derivatives of Trigonometric and Exponential Functions: Mixed Practice",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
           {
-            "q": "The Squeeze Theorem determines the limit of a function by trapping it between ___.",
+            "q": "The Squeeze Theorem is used to find a limit by which method?",
             "options": [
-              "A single unrelated function with no connection to the original limit",
-              "An infinite number of unrelated functions with no shared limit",
-              "Two other functions with the same known limit at a given point",
-              "A concept unrelated to evaluating limits"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Linear approximation uses a function’s tangent line at a known point to estimate ___.",
-            "options": [
-              "Only the exact value at that single known point, with no estimation involved",
-              "A concept unrelated to tangent lines",
-              "Nearby values of the function",
-              "Values infinitely far from the known point"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Newton's Method approximates a root of a function by repeatedly using the ___ line at the current estimate to generate a better approximation.",
-            "options": [
-              "secant",
-              "tangent",
-              "horizontal asymptote",
-              "normal"
+              "Substituting the limit point directly into the function",
+              "Trapping the function between two other functions with the same known limit at that point",
+              "Factoring the function to cancel a common term",
+              "Taking the derivative of the function at the limit point"
             ],
             "answer": 1
           },
           {
-            "q": "The derivative of the hyperbolic function sinh(x) is ___.",
+            "q": "Linear approximation uses a function's tangent line at a known point to estimate which of the following?",
             "options": [
-              "-sinh(x)",
-              "-cosh(x)",
-              "cosh(x)",
-              "tanh(x)"
+              "The exact value of the function everywhere",
+              "The area under the curve",
+              "The second derivative at that point",
+              "The value of the function at a nearby point"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Using the Factor Theorem, if P(2) = 0 for a polynomial P(x), what can be concluded?",
+            "options": [
+              "(x - 2) is a factor of P(x)",
+              "(x + 2) is a factor of P(x)",
+              "2 is the only root of P(x)",
+              "P(x) has degree 2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To differentiate f(x) = e^x sin(x), which rule must be applied?",
+            "options": [
+              "The chain rule alone",
+              "The quotient rule",
+              "The product rule, since f is a product of two functions",
+              "The power rule, treating e^x as a constant base"
             ],
             "answer": 2
           }
@@ -48469,49 +48476,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Calculus: The Bisection Method -- Root-Finding by Interval Halving; Optimization: Closed-Interval Extrema of an Applied Function; Logarithmic Functions and Their Graphs; Vectors in Two Dimensions.",
+        "summary": "Practice recap covering: Continuity and the Intermediate Value Theorem; Optimization: Closed-Interval Extrema of an Applied Function; Logarithmic Functions and Their Graphs; Vectors in Two Dimensions",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
           {
-            "q": "The Bisection Method locates a root of a continuous function by repeatedly ___ an interval known to contain a sign change.",
+            "q": "The Intermediate Value Theorem can be used to justify that a root exists in an interval [a, b] provided which condition holds?",
             "options": [
-              "Doubling, an inaccurate description of how the interval changes at each step",
-              "A concept unrelated to how the Bisection Method works",
-              "Ignoring, an inaccurate description that would prevent the method from converging at all",
-              "Halving"
+              "f is continuous on [a, b] and f(a) and f(b) have opposite signs",
+              "f is differentiable on [a, b] and f'(a) = 0",
+              "f(a) = f(b) exactly",
+              "f is a polynomial of even degree"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "For P(t) = -t³ + 15t² - 48t + 10 on the closed interval [0, 10], where should you look to find the absolute maximum and minimum profit?",
+            "options": [
+              "Only at t = 0 and t = 10, since the endpoints always give the extrema",
+              "Only where P(t) = 0",
+              "Only at the inflection point of P(t)",
+              "At the critical points where P'(t) = 0 within (0,10) together with the endpoints t = 0 and t = 10"
             ],
             "answer": 3
           },
           {
-            "q": "To find the absolute maximum and minimum of a function P(t) on a closed interval [a, b] (such as a profit function over a business day), the correct procedure is to ___.",
+            "q": "The graph of a logarithmic function such as y = log(x) has which feature?",
             "options": [
-              "evaluate P at all critical points inside [a, b] and at both endpoints a and b, then compare all the resulting values",
-              "evaluate P only at the critical points inside the interval, since endpoints can never be extrema",
-              "evaluate P only at the two endpoints, since the interval is closed",
-              "find where P''(t) = 0 and evaluate P only at those points"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "The graph of y = log(x) has a vertical asymptote at ___ and is defined only for ___.",
-            "options": [
-              "x = 0; x > 0",
-              "x = 1; x > 0",
-              "y = 0; x > 0",
-              "x = 0; x < 0"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is the magnitude of the vector v = (6, 8)?",
-            "options": [
-              "14",
-              "10",
-              "48",
-              "7"
+              "A horizontal asymptote at y = 0",
+              "A vertical asymptote at x = 0",
+              "A maximum value at x = 1",
+              "Symmetry about the y-axis"
             ],
             "answer": 1
+          },
+          {
+            "q": "A vector in two dimensions represents which combination of properties?",
+            "options": [
+              "Magnitude only, with no directional information",
+              "Direction only, with a fixed magnitude of 1",
+              "Both magnitude and direction",
+              "Position only, relative to the origin"
+            ],
+            "answer": 2
           }
         ]
       },
@@ -48624,98 +48631,98 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Functions: The Bézier Curve and Parametric Curve Design; The Pythagorean Trigonometric Identities; Compound Angle Formulas: Sum and Difference Identities; Double Angle Formulas for Sine, Cosine, and Tangent; Functions: Polynomial Interpolation — Lagrange’s Method.",
+        "summary": "Practice recap covering: Functions: The Bézier Curve and Parametric Curve Design; The Pythagorean Trigonometric Identities; Compound Angle Formulas: Sum and Difference Identities; Double Angle Formulas for Sine, Cosine, and Tangent; Polynomial Functions: Using Finite Differences to Find Degree",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "A Bézier curve is a smooth curve defined parametrically using a set of ___ points.",
+            "q": "Which is a correct Pythagorean trigonometric identity?",
             "options": [
-              "Control",
-              "A concept unrelated to how a Bézier curve is defined",
-              "Terminal, an incomplete description that omits the interior points shaping the curve",
-              "Random, an inaccurate description of the deliberately placed points shaping a Bézier curve"
+              "sin²θ + cos²θ = 1",
+              "sin²θ - cos²θ = 1",
+              "sinθ + cosθ = 1",
+              "tan²θ + 1 = sin²θ"
             ],
             "answer": 0
           },
           {
-            "q": "Which is the fundamental Pythagorean identity?",
+            "q": "Using the sum identity, cos(75°) can be evaluated as cos(45°+30°). Which expression correctly expands this?",
             "options": [
-              "sinθ + cosθ = 1",
-              "sinθ · cosθ = 1",
-              "sin²θ + cos²θ = 1",
-              "sin²θ - cos²θ = 1"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which is the correct compound angle formula for sin(A + B)?",
-            "options": [
-              "sinA cosB - cosA sinB",
-              "cosA cosB - sinA sinB",
-              "sinA cosB + cosA sinB",
-              "cosA cosB + sinA sinB"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Lagrange interpolation constructs a polynomial that passes exactly through a given set of ___.",
-            "options": [
-              "Asymptotes",
-              "Derivatives only",
-              "Random values with no defined location",
-              "Data points"
+              "cos45°cos30° + sin45°sin30°",
+              "sin45°cos30° + cos45°sin30°",
+              "cos45°sin30° - sin45°cos30°",
+              "cos45°cos30° - sin45°sin30°"
             ],
             "answer": 3
+          },
+          {
+            "q": "Which is a correct double angle identity for cosine, derived from the compound angle formulas?",
+            "options": [
+              "cos(2θ) = 2sinθcosθ",
+              "cos(2θ) = cos²θ - sin²θ",
+              "cos(2θ) = 1 + cos²θ",
+              "cos(2θ) = 2cosθ"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When building a table of finite differences for equally spaced x-values, the differences become constant at the third level. What is the degree of the polynomial that models the data?",
+            "options": [
+              "Degree 2",
+              "Degree 4",
+              "Degree 3",
+              "Degree 1"
+            ],
+            "answer": 2
           }
         ]
       },
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Review: Logarithms, Vectors, and Probability; Solving Logarithmic Equations; Rational Functions: Graphing and Asymptotes in Depth; Calculus: The Epsilon-Delta Definition of a Limit; Calculus: Numerical Differentiation Methods.",
+        "summary": "Practice recap covering: Review: Logarithms, Vectors, and Probability; Solving Logarithmic Equations; Rational Functions: Graphing and Asymptotes in Depth; Evaluating Limits Using Tables and Graphs; Derivatives: Estimating a Derivative from a Table of Values Using Central Differences",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
           {
-            "q": "A logarithm answers the question of ___.",
+            "q": "To solve log₂(x) + log₂(x-2) = 3, what is the correct first step using logarithm properties?",
             "options": [
-              "What exponent a base must be raised to in order to produce a given number",
-              "What number multiplied by itself equals zero",
-              "What the sum of two numbers equals",
-              "A question unrelated to exponents"
+              "Combine the logs into log₂(x(x-2)) = 3, then rewrite in exponential form as x(x-2) = 2³",
+              "Set x = 3 and x - 2 = 3 separately",
+              "Divide both sides by log₂ to isolate x",
+              "Square both sides to eliminate the logarithms"
             ],
             "answer": 0
           },
           {
-            "q": "Solving a logarithmic equation often involves rewriting it in ___.",
+            "q": "For the rational function f(x) = (x+1)/(x-3), what is the equation of the vertical asymptote?",
             "options": [
-              "Fraction form with no connection to exponents",
-              "A form unrelated to exponents",
-              "Exponential form",
-              "Linear form only, with no other conversion possible"
+              "x = -1",
+              "x = 0",
+              "x = 3",
+              "y = 1"
             ],
             "answer": 2
           },
           {
-            "q": "For a rational function f(x) = p(x)/q(x) written in lowest terms, a vertical asymptote occurs at any x-value where ___.",
+            "q": "When estimating lim(x→2) f(x) using a table of values, what should you examine?",
             "options": [
-              "q(x) = 0",
-              "p(x) = 0",
-              "p(x) = q(x)",
-              "The degree of p equals the degree of q"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "In the epsilon-delta definition of a limit, δ (delta) represents a bound on the distance between ___.",
-            "options": [
-              "f(x) and the limit L",
-              "x and the value a",
-              "The slope and the tangent line",
-              "Two consecutive derivatives"
+              "Only the value of f(2) itself",
+              "The values of f(x) as x approaches 2 from both the left and right sides",
+              "The average of f(0) and f(4)",
+              "The slope of f(x) at x = 0"
             ],
             "answer": 1
+          },
+          {
+            "q": "The central difference method estimates a derivative at x = a using which formula, given a table of values with step size h?",
+            "options": [
+              "[f(a) - f(a-h)] / h",
+              "[f(a+h) - f(a)] / h",
+              "f(a+h) - f(a-h), without dividing by any step size",
+              "[f(a+h) - f(a-h)] / (2h)"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -49032,49 +49039,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Proving Trigonometric Identities; Functions: Convex and Concave Functions — A Formal Look; Functions: The Method of Undetermined Coefficients; Modelling Periodic Phenomena with Sinusoidal Functions.",
+        "summary": "Practice recap covering: Proving Trigonometric Identities; Functions: Convex and Concave Functions — A Formal Look; Solving Rational Inequalities Using Sign Analysis; Modelling Periodic Phenomena with Sinusoidal Functions",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "Which is a common strategy for starting a trigonometric identity proof?",
+            "q": "When proving a trigonometric identity by working one side into the other, which approach is standard practice?",
             "options": [
-              "Square both sides first",
-              "Substitute one specific numeric angle as proof",
-              "Take the derivative of both sides",
-              "Convert everything to sines and cosines"
+              "Cross-multiply both sides immediately to clear denominators",
+              "Manipulate only one side using known identities until it matches the other side",
+              "Square both sides to eliminate trigonometric functions",
+              "Substitute a specific numeric value for the angle to confirm the identity for all angles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A concave function's graph curves downward like a dome. This is formally connected to which property?",
+            "options": [
+              "A positive first derivative throughout",
+              "A first derivative equal to zero at every point",
+              "An always-positive second derivative",
+              "A negative second derivative"
             ],
             "answer": 3
           },
           {
-            "q": "What shape does a convex function typically curve like?",
+            "q": "To solve the inequality (x-2)/(x+1) > 0 using sign analysis, what is the correct first step?",
             "options": [
-              "A flat, straight line with no curvature at all",
-              "A dome, curving downward",
-              "A bowl, curving upward",
-              "A concept unrelated to functions"
+              "Identify the critical values x = 2 and x = -1, then test the sign of the expression in each resulting interval",
+              "Multiply both sides by (x+1) to clear the denominator",
+              "Set x - 2 equal to x + 1 and solve for x",
+              "Graph only the numerator and ignore the denominator's zero"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "A concave function is characterized by a graph that curves like ___.",
+            "q": "A Ferris wheel model requires writing a sinusoidal equation from amplitude, period, and a reference point. Which parameter determines how long it takes to complete one full revolution?",
             "options": [
-              "a bowl opening upward",
-              "a straight horizontal line",
-              "a dome opening downward",
-              "a vertical asymptote"
+              "The amplitude",
+              "The vertical shift",
+              "The period",
+              "The phase shift alone, independent of period"
             ],
             "answer": 2
-          },
-          {
-            "q": "The method of undetermined coefficients is used to ___.",
-            "options": [
-              "find the roots of a quadratic equation using the quadratic formula",
-              "determine unknown constant coefficients in an assumed form of a function by matching terms",
-              "calculate the derivative of a polynomial using the power rule",
-              "convert degrees to radians"
-            ],
-            "answer": 1
           }
         ]
       },
@@ -49236,49 +49243,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Radian Measure and Arc Length; Functions: Vieta’s Formulas — Relating Roots and Coefficients; Functions: Cardano’s Formula for Solving Cubic Equations; Discrete Math: The Pigeonhole Principle.",
+        "summary": "Practice recap covering: Radian Measure and Arc Length; Functions: Vieta's Formulas — Relating Roots and Coefficients; Modelling with Cubic Functions Using Finite Differences; Discrete Math: The Pigeonhole Principle",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "Convert 180° to radians.",
+            "q": "A circle has radius 6 cm and a central angle of 2 radians. What is the arc length?",
             "options": [
-              "2π",
-              "π/2",
-              "π",
-              "π/4"
+              "12 cm",
+              "3 cm",
+              "8 cm",
+              "6π cm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "For the quadratic ax² + bx + c = 0 with roots r₁ and r₂, Vieta's formulas state that r₁ + r₂ equals which expression?",
+            "options": [
+              "c/a",
+              "b/a",
+              "-b/a",
+              "-c/a"
             ],
             "answer": 2
           },
           {
-            "q": "What do Vieta’s formulas relate for a polynomial equation?",
+            "q": "A table of values shows constant third differences but non-constant second differences. What degree polynomial best models this data?",
             "options": [
-              "The polynomial’s graph to its colour when plotted",
-              "Only the polynomial’s degree to its number of terms",
-              "The polynomial’s coefficients to sums and products of its roots",
-              "A concept unrelated to functions"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The arc length s of a circle with radius r subtended by an angle θ (in radians) is given by ___.",
-            "options": [
-              "s = r/θ",
-              "s = rθ",
-              "s = 2πr/θ",
-              "s = πr²θ"
+              "Degree 2",
+              "Degree 3",
+              "Degree 4",
+              "Degree 1"
             ],
             "answer": 1
           },
           {
-            "q": "The Pigeonhole Principle states that if n items are placed into m containers where n > m, then ___.",
+            "q": "According to the pigeonhole principle, if 13 pigeons are placed into 12 pigeonholes, what must be true?",
             "options": [
-              "every container must contain the same number of items",
-              "the total number of items must be divisible by m",
-              "at least one container must contain more than one item",
-              "at least one container must remain completely empty"
+              "Each pigeonhole contains exactly one pigeon",
+              "At least one pigeonhole is empty",
+              "All pigeons must be in the same pigeonhole",
+              "At least one pigeonhole contains more than one pigeon"
             ],
-            "answer": 2
+            "answer": 3
           }
         ]
       },
@@ -49334,49 +49341,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Colligative Properties of Solutions; Physics: The Michelson-Morley Experiment and the Search for the Ether; Physics: Projectile Motion in Two Dimensions; Physics: The Franck-Hertz Experiment and Quantized Energy Levels.",
+        "summary": "Practice recap covering: Colligative Properties of Solutions; Physics: The Michelson-Morley Experiment and the Search for the Ether; Work-Energy Theorem: Calculating Work Done by a Net Force; Physics: The Franck-Hertz Experiment and Quantized Energy Levels",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "Colligative properties depend primarily on ___.",
+            "q": "What determines the magnitude of a colligative property, such as freezing point depression, in a solution?",
             "options": [
-              "The exact identity of the solute alone, with no connection to particle count",
-              "The specific colour of the solute",
-              "A factor unrelated to dissolved particles",
-              "The number of dissolved particles in a solution"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What was the Michelson-Morley experiment designed to detect?",
-            "options": [
-              "The temperature of the surface of the sun",
-              "Earth’s motion through a hypothetical medium called the luminiferous ether",
-              "The exact mass of a single electron",
-              "A concept unrelated to physics"
+              "The chemical identity of the solute",
+              "The number of dissolved solute particles",
+              "The colour of the solution",
+              "The molar mass of the solvent only"
             ],
             "answer": 1
           },
           {
-            "q": "In projectile motion (ignoring air resistance), which statement correctly describes the horizontal and vertical components of velocity?",
+            "q": "What did the null result of the Michelson-Morley experiment demonstrate?",
             "options": [
-              "Both components remain constant throughout the flight",
-              "The horizontal component remains constant while the vertical component changes due to gravity",
-              "The vertical component remains constant while the horizontal component changes due to gravity",
-              "Both components increase at the same constant rate"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The Franck-Hertz experiment provided experimental evidence that ___.",
-            "options": [
-              "light travels at a constant speed regardless of the observer's motion",
-              "electrons behave purely as particles with no wave properties",
-              "atoms absorb energy from colliding electrons only in discrete, quantized amounts",
-              "energy can be created or destroyed within a closed system"
+              "Earth moves through the ether at high speed",
+              "Light travels at different speeds in different directions",
+              "The speed of light is constant regardless of Earth's motion through space",
+              "The interferometer arms had unequal lengths"
             ],
             "answer": 2
+          },
+          {
+            "q": "According to the work-energy theorem, the net work done on an object equals:",
+            "options": [
+              "its change in kinetic energy",
+              "its change in momentum",
+              "its total mechanical energy",
+              "the force applied multiplied by time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the Franck-Hertz experiment demonstrate about mercury atoms?",
+            "options": [
+              "Electrons in mercury vapour move in continuous energy bands",
+              "Mercury atoms emit only visible light",
+              "Electrons are ejected instantly regardless of accelerating voltage",
+              "Mercury atoms absorb energy only in discrete amounts matching quantized energy levels"
+            ],
+            "answer": 3
           }
         ]
       }
@@ -49538,49 +49545,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Genetic Engineering and Biotechnology Applications; Physics: Cyclotron Motion and Mass Spectrometry; Physics: Simple Harmonic Motion (Pendulums and Springs); Physics: Pulsars — Rotating Neutron Stars as Cosmic Lighthouses.",
+        "summary": "Practice recap covering: Newton's Second Law: Analyzing Forces on Inclined Planes; Physics: Cyclotron Motion and Mass Spectrometry; Circular Motion: Centripetal Force and Banked Curves; Physics: Pulsars — Rotating Neutron Stars as Cosmic Lighthouses",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "Genetic engineering involves directly modifying an organism’s ___.",
+            "q": "On a frictionless inclined plane, the acceleration of a block sliding down is determined mainly by:",
             "options": [
-              "A concept unrelated to biology",
-              "DNA",
-              "Physical appearance only, with no connection to DNA",
-              "Skeletal structure exclusively"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What path does a charged particle follow when moving perpendicular to a uniform magnetic field?",
-            "options": [
-              "A circular path",
-              "A path that instantly stops the particle in place",
-              "A perfectly straight, undeflected line",
-              "A concept unrelated to physics"
+              "g sinθ, the component of gravity along the incline",
+              "g cosθ, the component of gravity perpendicular to the incline",
+              "the normal force alone",
+              "the block's mass"
             ],
             "answer": 0
           },
           {
-            "q": "For a mass-spring system undergoing simple harmonic motion, the period T depends on which factors?",
+            "q": "In cyclotron motion, the radius of a charged particle's path is given by r = mv/(qB). If the magnetic field strength B is doubled while v and q stay the same, the radius:",
             "options": [
-              "The mass and the spring constant, but not the amplitude",
-              "The amplitude and mass only, not the spring constant",
-              "The amplitude alone, since amplitude determines the period entirely",
-              "A concept unrelated to physics"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is a pulsar?",
-            "options": [
-              "A black hole that emits no radiation whatsoever",
-              "A rapidly rotating neutron star that emits beams of electromagnetic radiation observed as regular pulses",
-              "A type of nebula with no rotational motion",
-              "A concept unrelated to physics"
+              "doubles",
+              "is halved",
+              "quadruples",
+              "stays the same"
             ],
             "answer": 1
+          },
+          {
+            "q": "For a car navigating a frictionless banked curve at the ideal speed, the banking angle is chosen so that:",
+            "options": [
+              "friction alone provides the centripetal force",
+              "the vertical component of gravity provides the centripetal force",
+              "the horizontal component of the normal force provides the centripetal force",
+              "the normal force is always equal to gravity regardless of angle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do pulsars appear to emit regular pulses of radiation as observed from Earth?",
+            "options": [
+              "They physically switch their beam on and off periodically",
+              "They are variable stars that dim and brighten intrinsically",
+              "Their magnetic field lines emit radiation only at poles facing away from Earth",
+              "Their misaligned magnetic and rotation axes sweep a radiation beam past Earth like a lighthouse"
+            ],
+            "answer": 3
           }
         ]
       }
@@ -49742,47 +49749,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Physics: The Cosmic Microwave Background and the Big Bang; Physics: Quantum Computing and the Qubit; Review: Historic Experiments and Cosmic Phenomena (Days 91-99); Physics: The Rutherford Gold Foil Experiment and the Discovery of the Nucleus.",
+        "summary": "Practice recap covering: Physics: The Cosmic Microwave Background and the Big Bang; Physics: Quantum Computing and the Qubit; Physics Review: Relativity, Energy, and the Early Quantum Era; Physics: The Rutherford Gold Foil Experiment and the Discovery of the Nucleus",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "What is the cosmic microwave background radiation considered strong evidence for?",
+            "q": "What does the near-uniformity of the cosmic microwave background across the sky provide evidence for?",
             "options": [
-              "The Big Bang theory of the universe’s origin",
-              "The idea that the universe has no measurable age at all",
-              "The existence of a permanently static, unchanging universe",
-              "A concept unrelated to physics"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is the basic unit of information in a quantum computer called?",
-            "options": [
-              "A qubit",
-              "A classical bit",
-              "A photon, with no further defining property",
-              "A concept unrelated to physics"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What did the Rutherford gold foil experiment reveal about atomic structure?",
-            "options": [
-              "That the atom is a uniform, positively charged sphere with embedded electrons",
-              "That atoms have a small, dense, positively charged nucleus with most of the atom being empty space",
-              "That atoms contain no charged particles at all",
-              "A concept unrelated to physics"
+              "The universe is infinite and unchanging",
+              "The Big Bang theory and the early hot, dense state of the universe",
+              "Light cannot travel through empty space",
+              "The Sun is the source of all background radiation"
             ],
             "answer": 1
           },
           {
-            "q": "Unlike a classical bit, a qubit can exist in:",
+            "q": "What is a qubit's defining property that distinguishes it from a classical bit?",
             "options": [
-              "Only the state 0, never the state 1",
-              "A state entirely independent of measurement or observation effects",
-              "A concept unrelated to physics",
-              "A superposition of both the 0 and 1 states simultaneously"
+              "It stores information using magnetic domains only",
+              "It can only take the value 0",
+              "It can exist in a superposition of the states 0 and 1",
+              "It can only be measured once per computation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does entangling multiple qubits allow a quantum computer's state space to grow exponentially with the number of qubits?",
+            "options": [
+              "Entangled qubits' combined states cannot be described independently, so possible combinations multiply with each added qubit",
+              "Each additional qubit doubles the number of independent classical bits used",
+              "Entanglement removes the need for superposition",
+              "Entangled qubits share a single physical location, reducing memory needs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the small fraction of alpha particles scattering at large angles in Rutherford's gold foil experiment reveal?",
+            "options": [
+              "Atoms have no internal structure",
+              "The atom's mass and charge are spread evenly throughout its volume",
+              "Gold atoms are transparent to alpha particles",
+              "An atom's positive charge and mass are concentrated in a tiny, dense nucleus"
             ],
             "answer": 3
           }
@@ -49848,49 +49855,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Functions: The Remainder Theorem and Synthetic Division; Statistics: The Chi-Squared Test for Goodness of Fit; Functions: Partial Fraction Decomposition — An Algebraic Technique; Number Theory: The Sieve of Eratosthenes and Prime Distribution.",
+        "summary": "Practice recap covering: Functions: The Remainder Theorem and Synthetic Division; Statistics: The Chi-Squared Test for Goodness of Fit; Rational Functions: Modelling Combined Work and Rate Problems; Number Theory: The Sieve of Eratosthenes and Prime Distribution",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "According to the remainder theorem, what is the remainder when a polynomial P(x) is divided by (x − a)?",
+            "q": "According to the Remainder Theorem, what is the remainder when polynomial P(x) is divided by (x - a)?",
             "options": [
-              "Always exactly zero, regardless of the polynomial",
-              "The polynomial’s leading coefficient, with no reference to a",
-              "A concept unrelated to functions",
-              "P(a), the value of the polynomial evaluated at x = a"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does a chi-squared goodness-of-fit test compare?",
-            "options": [
-              "A concept unrelated to statistics",
-              "The exact height of two randomly chosen individuals",
-              "Observed category counts against the counts expected under a hypothesized distribution",
-              "The colour of a graph representing a single data point"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Partial fraction decomposition is used to rewrite a rational expression as:",
-            "options": [
-              "A single polynomial with no denominator at all",
-              "A sum of simpler fractions with lower-degree denominators",
-              "An infinite geometric series exclusively",
-              "A concept unrelated to functions"
+              "P(0)",
+              "P(a)",
+              "P(-a)",
+              "a itself, regardless of P"
             ],
             "answer": 1
           },
           {
-            "q": "The Sieve of Eratosthenes is an algorithm used to:",
+            "q": "The chi-squared goodness-of-fit test compares observed counts to expected counts using which calculation?",
             "options": [
-              "Find all prime numbers up to a specified limit by systematically eliminating multiples",
-              "Calculate the derivative of a polynomial function",
-              "Solve systems of linear equations using matrices",
-              "A concept unrelated to number theory"
+              "The sum of (observed - expected)² divided by expected, across categories",
+              "The average of the observed counts minus the average of the expected counts",
+              "The product of observed and expected counts for each category",
+              "The largest single difference between an observed and expected count"
             ],
             "answer": 0
+          },
+          {
+            "q": "Two pipes fill a tank together; pipe A alone takes 6 hours and pipe B alone takes 3 hours. Using rational functions to model combined rate, how is their combined rate per hour expressed?",
+            "options": [
+              "6 + 3 (adding the times directly)",
+              "1/(6+3)",
+              "(6+3)/2",
+              "1/6 + 1/3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Sieve of Eratosthenes identifies all primes up to a bound by which process?",
+            "options": [
+              "Testing each number for divisibility by every smaller number individually",
+              "Listing numbers in order of size and removing the largest half",
+              "Systematically eliminating multiples of each successive prime from the list",
+              "Randomly sampling numbers and checking for factors"
+            ],
+            "answer": 2
           }
         ]
       },
@@ -49946,49 +49953,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Physics: The Millikan Oil Drop Experiment and the Charge of the Electron; Physics: The Stefan-Boltzmann Law and Thermal Radiation; Physics: X-ray Diffraction and Bragg’s Law; Physics: Terminal Velocity and the Physics of Drag.",
+        "summary": "Practice recap covering: Physics: The Millikan Oil Drop Experiment and the Charge of the Electron; Gravitational Field Strength and Orbital Motion; Double-Slit Interference and the Wave Nature of Light; Physics: Terminal Velocity and the Physics of Drag",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "What forces did Millikan balance against each other in the oil drop experiment to determine a droplet’s charge?",
+            "q": "What key finding did Millikan's oil drop experiment establish about electric charge?",
             "options": [
-              "The force of sound waves and the force of light pressure",
-              "The electric force from an applied field and the force of gravity acting on the droplet",
-              "A concept unrelated to physics",
-              "The magnetic force and the force of friction alone"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "According to the Stefan-Boltzmann law, the power radiated per unit area by a blackbody is proportional to which power of its absolute temperature?",
-            "options": [
-              "The one-half power (the square root of T)",
-              "A concept unrelated to physics",
-              "The fourth power (T⁴)",
-              "The first power (T), with no exponent involved"
+              "Charge can take any continuous value",
+              "Charge is always negative",
+              "Charge always occurs in whole-number multiples of a fundamental elementary charge",
+              "Charge depends on the mass of the oil droplet"
             ],
             "answer": 2
           },
           {
-            "q": "Bragg's Law relates the wavelength of X-rays diffracted from a crystal to which quantities?",
+            "q": "Gravitational field strength at a distance r from a planet of mass M is calculated using which relationship?",
             "options": [
-              "The crystal's temperature and its electrical conductivity",
-              "The spacing between atomic planes in the crystal and the angle of incidence",
-              "The mass of the crystal and gravitational acceleration",
-              "A concept unrelated to physics"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "An object falling through a fluid reaches terminal velocity when:",
-            "options": [
-              "The net force on the object becomes zero because drag force balances the force of gravity",
-              "The object's acceleration reaches its maximum possible value",
-              "All frictional and drag forces vanish completely",
-              "A concept unrelated to physics"
+              "g = GM/r²",
+              "g = GM/r",
+              "g = GMr²",
+              "g = 2GM/r²"
             ],
             "answer": 0
+          },
+          {
+            "q": "In Young's double-slit formula, increasing the wavelength of light while keeping slit separation and screen distance constant will:",
+            "options": [
+              "decrease the fringe spacing",
+              "eliminate the interference pattern entirely",
+              "shift the central maximum off-centre",
+              "increase the fringe spacing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An object falling through air reaches terminal velocity when:",
+            "options": [
+              "gravity becomes zero",
+              "the upward drag force exactly balances the downward gravitational force",
+              "the object's mass suddenly decreases",
+              "air resistance reverses direction"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -50150,47 +50157,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Physics: The Carnot Cycle and the Limits of Heat Engine Efficiency; Physics: Radiation Pressure and Solar Sails; Physics: The Van Allen Belts and Charged Particle Trapping; Physics: Electrostatic Shielding and the Faraday Cage.",
+        "summary": "Practice recap covering: Conservation of Momentum in Collisions; Physics: Radiation Pressure and Solar Sails; Physics: The Van Allen Belts and Charged Particle Trapping; Physics: Electrostatic Shielding and the Faraday Cage",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "Between what two temperature reservoirs does a Carnot engine operate?",
+            "q": "In an elastic collision between two objects, which quantities are conserved?",
             "options": [
-              "A concept unrelated to physics",
-              "Two reservoirs held at exactly the same temperature",
-              "A single reservoir with no temperature difference involved",
-              "A hot reservoir and a cold reservoir"
+              "Only momentum, not kinetic energy",
+              "Only kinetic energy, not momentum",
+              "Neither momentum nor kinetic energy",
+              "Both momentum and kinetic energy"
             ],
             "answer": 3
           },
           {
-            "q": "What property of light, in addition to energy, allows it to exert a measurable pressure on a surface it strikes?",
+            "q": "How do solar sails generate thrust for a spacecraft?",
             "options": [
-              "Rest mass",
-              "A concept unrelated to physics",
-              "Electric charge",
-              "Momentum"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What phenomenon causes charged particles to become trapped within the Van Allen belts?",
-            "options": [
-              "Earth's magnetic field, which causes charged particles to spiral along field lines and mirror between the poles",
-              "A uniform gravitational field with no magnetic component",
-              "The complete absence of any electromagnetic field near Earth",
-              "A constant electric field pointing radially outward from Earth's core"
+              "Photons transfer momentum to the sail when they reflect off its surface",
+              "The sail captures and burns solar energy as fuel",
+              "Solar wind particles are ionized and expelled by the sail",
+              "The sail heats up and expands, pushing the spacecraft forward"
             ],
             "answer": 0
           },
           {
-            "q": "Why does the interior of a Faraday cage remain shielded from external static electric fields?",
+            "q": "Charged particles trapped in the Van Allen belts follow which type of motion?",
             "options": [
-              "Because the cage material absorbs all incoming radiation as heat",
-              "Because free charges in the conductor redistribute to cancel the external field inside",
-              "Because the cage is always grounded at exactly zero volts",
-              "Because electromagnetic waves cannot travel through any metal"
+              "A straight line directly toward Earth's surface",
+              "A random walk with no relation to magnetic field lines",
+              "Spiralling along magnetic field lines while bouncing between mirror points near the poles",
+              "A fixed circular orbit at constant altitude"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does the electric field remain zero inside a Faraday cage when it is placed in an external electric field?",
+            "options": [
+              "The cage material absorbs all electric field energy",
+              "Free charges in the conductor redistribute to cancel the external field inside",
+              "The cage's shape focuses the field away from its interior",
+              "Electric fields cannot penetrate any solid material"
             ],
             "answer": 1
           }
@@ -50509,49 +50516,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Analytic Geometry: Introduction to Conic Sections (Ellipses and Hyperbolas); Trigonometry: Sum and Difference Identities; Probability: The Binomial Probability Distribution; Vectors: Adding and Subtracting Forces Geometrically.",
+        "summary": "Practice recap covering: Vectors in Three Dimensions: Magnitude and Direction Practice; Trigonometry: Sum and Difference Identities; Probability: The Binomial Probability Distribution; Vectors: Adding and Subtracting Forces Geometrically",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
           {
-            "q": "What are conic sections?",
+            "q": "A 3D vector has components (2, 3, 6). What is its magnitude?",
             "options": [
-              "Only straight lines drawn on a graph",
-              "A type of algebraic expression with no geometric meaning",
-              "A concept unrelated to geometry",
-              "Curves formed by slicing a cone, including circles, ellipses, parabolas, and hyperbolas"
+              "11",
+              "7",
+              "6",
+              "sqrt(11)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Using the sum identity, sin(A+B) is correctly expanded as which expression?",
+            "options": [
+              "sin(A)cos(B) + cos(A)sin(B)",
+              "sin(A)cos(B) - cos(A)sin(B)",
+              "cos(A)cos(B) - sin(A)sin(B)",
+              "sin(A)sin(B) + cos(A)cos(B)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A binomial probability distribution applies to which type of scenario?",
+            "options": [
+              "A continuous variable measured over an interval of time",
+              "An experiment with a varying probability of success on each trial",
+              "Drawing without replacement from a finite population",
+              "A fixed number of independent trials, each with the same probability of success"
             ],
             "answer": 3
           },
           {
-            "q": "What do sum and difference identities express?",
+            "q": "When adding two force vectors using the tip-to-tail method, the resultant vector is drawn from where to where?",
             "options": [
-              "Only the value of a single angle",
-              "A concept unrelated to trigonometry",
-              "Trigonometric functions of the sum or difference of two angles",
-              "The area of a triangle"
+              "From the tip of the second vector to the tip of the first",
+              "From the midpoint of both vectors to the origin",
+              "From the tail of the first vector to the tip of the second vector",
+              "Perpendicular to both original vectors"
             ],
             "answer": 2
-          },
-          {
-            "q": "In a binomial probability distribution with n trials and success probability p, what does the formula P(X=k) = C(n,k) p^k (1-p)^(n-k) calculate?",
-            "options": [
-              "The probability of at most k successes",
-              "The expected value of the distribution",
-              "The probability of exactly k successes in n independent trials",
-              "The variance of the distribution"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Two forces of equal magnitude act on an object at a right angle to each other. Compared to either individual force alone, how does the magnitude of their resultant compare?",
-            "options": [
-              "The resultant's magnitude equals either individual force exactly",
-              "The resultant's magnitude is larger than either individual force, but less than their sum",
-              "The resultant's magnitude equals the sum of the two forces",
-              "The resultant's magnitude is always smaller than either individual force"
-            ],
-            "answer": 1
           }
         ]
       },
@@ -50713,49 +50720,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Calculus Foundations: Introduction to the Derivative and the Power Rule; Vectors: The Cross Product and Applications; Complex Numbers: The Complex Plane and Polar Form; Review: Conics, Statistics, Matrices, and Number Systems (Days 101-109).",
+        "summary": "Practice recap covering: Calculus Foundations: Introduction to the Derivative and the Power Rule; Vectors: The Cross Product and Applications; The Scalar Equation of a Plane from a Normal Vector; Review: Conics, Statistics, Matrices, and Number Systems (Days 101-109)",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
           {
-            "q": "What does the derivative of a function represent?",
+            "q": "Using the power rule, what is the derivative of f(x) = x^5?",
             "options": [
-              "Its instantaneous rate of change",
-              "The total area under its graph",
-              "The exact value of the function at x equals zero only",
-              "A concept unrelated to calculus"
+              "5x^4",
+              "x^4",
+              "5x^5",
+              "x^5/5"
             ],
             "answer": 0
           },
           {
-            "q": "What does the cross product of two vectors produce?",
+            "q": "The cross product of two 3D vectors produces a new vector with which property?",
             "options": [
-              "The exact sum of the two original vectors",
-              "A new vector perpendicular to both original vectors",
-              "A single scalar number with no direction",
-              "A concept unrelated to vectors"
+              "It lies in the same plane as the original two vectors",
+              "It has the same direction as one of the original vectors",
+              "It is perpendicular to both original vectors",
+              "It is always a scalar quantity, not a vector"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To find the scalar equation of a plane, which two pieces of information are needed?",
+            "options": [
+              "Two points on the plane and nothing else",
+              "A normal vector to the plane and a point on the plane",
+              "Three parallel vectors lying in the plane",
+              "The plane's x-intercept alone"
             ],
             "answer": 1
           },
           {
-            "q": "Using the power rule, what is the derivative of f(x) = 4x⁵?",
+            "q": "This review lesson revisits sampling methods and the binomial distribution alongside matrix transformations. Which topic is also part of this combined review?",
             "options": [
-              "20x⁴",
-              "4x⁴",
-              "5x⁴",
-              "20x⁵"
+              "L'Hopital's rule",
+              "Related rates in three dimensions",
+              "The Squeeze Theorem",
+              "The complex plane and modular arithmetic"
             ],
-            "answer": 0
-          },
-          {
-            "q": "In polar form, a complex number z = a + bi is expressed as z = r(cosθ + i sinθ), where r represents what?",
-            "options": [
-              "The real part a alone",
-              "The angle the number makes with the positive real axis",
-              "The magnitude (modulus) of the complex number, equal to √(a²+b²)",
-              "The imaginary part b alone"
-            ],
-            "answer": 2
+            "answer": 3
           }
         ]
       },
@@ -50966,49 +50973,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Physics: Electromagnetic Induction and Generators; Radioactivity and Half-Life; Physics: Nuclear Magnetic Resonance and Spin Precession; Physics: Piezoelectricity — Mechanical Stress and Electric Polarization.",
+        "summary": "Practice recap covering: Coulomb's Law: Calculating the Electric Force Between Point Charges; Nuclear Reactions: Fission, Fusion, and Mass-Energy Equivalence; Physics: Nuclear Magnetic Resonance and Spin Precession; Physics: Piezoelectricity — Mechanical Stress and Electric Polarization",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "Electromagnetic induction occurs when a changing magnetic field produces ___.",
+            "q": "According to Coulomb's law, if the distance between two point charges is doubled, the electric force between them:",
             "options": [
-              "An electric current in a nearby conductor",
-              "A permanent change in the conductor’s colour",
-              "A change in the conductor’s mass",
-              "A phenomenon unrelated to magnetism"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Radioactive decay occurs when ___.",
-            "options": [
-              "An atom becomes permanently stable with no further change",
-              "An unstable atomic nucleus releases energy and particles over time",
-              "A molecule dissolves completely in a solvent",
-              "A concept unrelated to atomic structure"
+              "doubles",
+              "decreases to one-quarter of its original value",
+              "is halved",
+              "remains unchanged"
             ],
             "answer": 1
           },
           {
-            "q": "A radioactive sample has a half-life of 8 days. What fraction of the original sample remains after 24 days?",
+            "q": "In nuclear fission and fusion, the energy released is calculated from:",
             "options": [
-              "1/3",
-              "1/6",
-              "1/8",
-              "1/16"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Piezoelectricity refers to the generation of an electric charge in certain crystals in direct response to what?",
-            "options": [
-              "Exposure to a changing magnetic field",
-              "A rise in ambient temperature",
-              "Exposure to visible light",
-              "Applied mechanical stress"
+              "the total momentum of the reactants",
+              "the change in the number of protons only",
+              "the temperature difference before and after the reaction",
+              "the mass defect between reactants and products, using E = mc²"
             ],
             "answer": 3
+          },
+          {
+            "q": "Nuclear magnetic resonance relies on which phenomenon?",
+            "options": [
+              "Nuclei with spin precessing around an applied magnetic field and absorbing/emitting radio-frequency energy",
+              "Nuclei splitting apart when exposed to radio waves",
+              "Electrons jumping between atomic energy levels",
+              "Magnetic fields inducing nuclear fusion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Piezoelectricity refers to the property of certain crystals to:",
+            "options": [
+              "become magnetized when heated",
+              "emit light when subjected to stress",
+              "generate a voltage when mechanically stressed, and deform slightly under an applied electric field",
+              "conduct electricity only at high temperatures"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -51170,49 +51177,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Physics: The Physics of Rainbows — Primary and Secondary Bows; Physics: Sonic Booms and the Physics of Shock Waves; Science: Epigenetics: Gene Expression and Environment; Physics: The Barometric Formula and Atmospheric Pressure with Altitude; Physics Review: Quantum, Thermal, and Wave Phenomena.",
+        "summary": "Practice recap covering: Physics: The Physics of Rainbows — Primary and Secondary Bows; Physics: Sonic Booms and the Physics of Shock Waves; The Photoelectric Effect: Einstein's Explanation and the Work Function; Physics: The Barometric Formula and Atmospheric Pressure with Altitude; Physics Review: Quantum Rules, Nuclear Energy, and Everyday Phenomena",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "What three optical processes combine to produce a rainbow within a raindrop?",
+            "q": "The secondary rainbow appears fainter and colour-reversed compared to the primary bow because it results from:",
             "options": [
-              "Refraction, internal reflection, and dispersion of sunlight",
-              "Only diffraction, with no other optical process",
-              "Only absorption, with no reflection or refraction involved",
-              "Only polarization, with no colour separation"
+              "an additional internal reflection within each raindrop",
+              "refraction through ice crystals instead of raindrops",
+              "reflection off the ground before reaching the observer",
+              "a completely different range of wavelengths"
             ],
             "answer": 0
           },
           {
-            "q": "What causes a sonic boom?",
+            "q": "A sonic boom is produced when:",
             "options": [
-              "An object travelling slower than the speed of sound",
-              "An object travelling faster than the speed of sound in the surrounding medium",
-              "A sudden, unrelated change in air temperature alone",
-              "An object that produces no sound whatsoever"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The barometric formula describes how atmospheric pressure changes with altitude according to what general relationship?",
-            "options": [
-              "Pressure increases linearly with altitude",
-              "Pressure stays constant regardless of altitude",
-              "Pressure decreases exponentially as altitude increases",
-              "Pressure oscillates periodically with altitude"
+              "an object emits an extremely loud engine sound",
+              "sound waves are absorbed rapidly by the atmosphere",
+              "an object travels faster than the speed of sound, forming a cone-shaped shock wave",
+              "an object accelerates through the sound barrier and then decelerates suddenly"
             ],
             "answer": 2
           },
           {
-            "q": "In the photoelectric effect, if the incident light's frequency is below the metal's threshold frequency, what happens when the light's intensity is increased?",
+            "q": "In Einstein's photoelectric effect equation KE_max = hf − W₀, the term W₀ represents:",
             "options": [
-              "More photoelectrons are emitted",
-              "Photoelectrons are emitted with greater kinetic energy",
-              "The emitted electrons' frequency decreases",
-              "No photoelectrons are emitted, regardless of intensity"
+              "the frequency of incident light",
+              "the maximum kinetic energy of emitted electrons",
+              "Planck's constant",
+              "the work function, the minimum energy needed to eject an electron from the metal"
             ],
             "answer": 3
+          },
+          {
+            "q": "According to the barometric formula, atmospheric pressure with increasing altitude:",
+            "options": [
+              "increases linearly",
+              "decreases approximately exponentially",
+              "remains constant up to the stratosphere",
+              "decreases linearly to zero"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -51578,49 +51585,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Chemistry: Le Chatelier’s Principle; Physics: Chladni Patterns and Standing Waves in Two Dimensions; Physics: The Physics of Lightning — Charge Separation and Electrical Breakdown; Physics: GPS and Relativistic Time Corrections.",
+        "summary": "Practice recap covering: Magnetic Force on a Moving Charge: F = qvB; Physics: Chladni Patterns and Standing Waves in Two Dimensions; Physics: The Physics of Lightning — Charge Separation and Electrical Breakdown; Physics: GPS and Relativistic Time Corrections",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "What does Le Chatelier’s principle describe?",
+            "q": "The magnetic force on a charged particle moving through a magnetic field, F = qvB, is maximized when the particle's velocity is:",
             "options": [
-              "How light travels through a vacuum",
-              "A concept unrelated to chemistry",
-              "How atoms are structured inside a nucleus",
-              "How a system at equilibrium shifts to counteract a disturbance"
+              "parallel to the magnetic field",
+              "perpendicular to the magnetic field",
+              "antiparallel to the magnetic field",
+              "at rest relative to the field"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a Chladni pattern experiment, sand collects along the:",
+            "options": [
+              "antinodes, where the plate vibrates most",
+              "edges of the plate regardless of frequency",
+              "centre of the plate only",
+              "nodal lines, where the plate does not move"
             ],
             "answer": 3
           },
           {
-            "q": "What causes Chladni patterns to form on a vibrating plate?",
+            "q": "Lightning results from electrical breakdown of air caused primarily by:",
             "options": [
-              "Fine particles collecting along the nodal lines where the plate does not move",
-              "Particles collecting randomly with no relationship to vibration",
-              "The plate melting under intense heat",
-              "A magnetic field pulling particles into place"
+              "charge separation from collisions between ice particles and graupel within a thundercloud",
+              "uniform heating of the cloud by sunlight",
+              "static discharge from the ground upward only",
+              "condensation of water vapour releasing electrons"
             ],
             "answer": 0
           },
           {
-            "q": "What physical process leads to the charge separation inside a thundercloud that eventually produces lightning?",
+            "q": "GPS satellite clocks require corrections from special and general relativity because:",
             "options": [
-              "Collisions between rising ice crystals and falling graupel pellets that transfer charge",
-              "The complete absence of any moisture in the cloud",
-              "Uniform heating of the entire cloud with no internal motion",
-              "Magnetic fields generated by the Earth's core"
+              "their high speed alone would make them run faster than ground clocks",
+              "gravity has no measurable effect at orbital altitude",
+              "high orbital speed slows their clocks while weaker gravity at altitude speeds them up, and both effects must be combined",
+              "satellite clocks are mechanically less accurate than ground clocks"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Why must GPS satellite clocks be corrected for relativistic effects?",
-            "options": [
-              "Because satellites experience negligible gravity and velocity differences from Earth's surface",
-              "Because both special relativity (satellite motion) and general relativity (weaker gravity at altitude) cause satellite clocks to run at a different rate than clocks on Earth",
-              "Because GPS satellites do not use atomic clocks",
-              "Because radio signals travel faster than light in the upper atmosphere"
-            ],
-            "answer": 1
+            "answer": 2
           }
         ]
       }
@@ -51733,96 +51740,96 @@ const curriculum: DayContent[] = [
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Vectors: Scalar and Vector Projections; Data Management: An Introduction to Conditional Probability; Vectors: Using the Dot Product to Find the Angle Between Two Forces; The Secant Method for Root Approximation.",
+        "summary": "Practice recap covering: Vectors: Scalar and Vector Projections; Data Management: An Introduction to Conditional Probability; Vectors: Using the Dot Product to Find the Angle Between Two Forces; Optimization on a Closed Interval: Finding Absolute Extrema",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
           {
-            "q": "What does a scalar projection measure?",
+            "q": "The scalar projection of vector a onto vector b measures which quantity?",
             "options": [
-              "The angle between two lines only",
-              "The number of dimensions in a vector space",
-              "The total area between two vectors",
-              "How much of one vector points in the direction of another"
+              "The full magnitude of vector a, regardless of direction",
+              "How much of vector a points in the direction of vector b",
+              "The angle between vectors a and b directly",
+              "The cross product of a and b"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What does conditional probability calculate?",
+            "q": "Conditional probability P(A|B) calculates which of the following?",
             "options": [
-              "The likelihood of an event occurring given that another event has already happened",
-              "The total number of possible outcomes only",
-              "The average of two unrelated probabilities",
-              "The probability of an event with no other information considered"
+              "The probability of event A occurring given that event B has already happened",
+              "The probability of both A and B never occurring",
+              "The probability of A occurring independent of B",
+              "The sum of the probabilities of A and B"
             ],
             "answer": 0
           },
           {
-            "q": "To find the angle θ between two nonzero force vectors a and b using the dot product, which formula do you use?",
+            "q": "Using cos θ = (a·b)/(|a||b|), if two force vectors are perpendicular, what is the value of their dot product?",
             "options": [
-              "θ = (a · b) divided by 2",
-              "sin θ = (a · b) / (|a||b|)",
-              "cos θ = (a · b) / (|a||b|)",
-              "cos θ = (|a| + |b|) / (a · b)"
+              "Equal to the product of their magnitudes",
+              "Always negative",
+              "Equal to 1",
+              "Zero"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "How does the secant method approximate a root of f(x), in contrast to Newton's method?",
+            "q": "To find the absolute maximum and minimum of a function on a closed interval, which values must be compared?",
             "options": [
-              "It requires computing the derivative of f at every step",
-              "It uses a secant line through two previous points to estimate the next approximation, avoiding the need for a derivative",
-              "It only works for polynomial functions of degree two",
-              "It guarantees convergence in exactly one iteration"
+              "Only the function's values at the interval's midpoint",
+              "Only the y-intercept and the critical points",
+              "The function's values at all critical points within the interval and at both endpoints",
+              "Only the endpoints, since critical points never matter on a closed interval"
             ],
-            "answer": 1
+            "answer": 2
           }
         ]
       },
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Physics Review: Optics, Thermal Effects, and Relativistic Applications; The Magnus Effect and the Physics of Spinning Projectiles; The Venturi Effect and Bernoullis Principle in Fluid Flow; Total Internal Reflection and Fiber-Optic Communication.",
+        "summary": "Practice recap covering: Physics Review: Light, Heat, and Relativistic Corrections; The Magnus Effect and the Physics of Spinning Projectiles; The Venturi Effect and Bernoullis Principle in Fluid Flow; Total Internal Reflection and Fiber-Optic Communication",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "The Magnus effect causes a spinning object moving through a fluid to experience ___.",
+            "q": "The Magnus effect causes a spinning object moving through a fluid to curve because:",
             "options": [
-              "A uniform increase in temperature",
-              "A sideways deflecting force perpendicular to its motion",
-              "Complete loss of angular momentum",
-              "An increase in its rest mass"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is the Magnus effect?",
-            "options": [
-              "The curved path taken by a spinning object moving through a fluid, caused by a sideways lift force",
-              "The complete absence of drag on a spinning object",
-              "A magnetic force acting on any moving object",
-              "The tendency of an object to fall in a perfectly straight line"
+              "the spin creates a pressure difference across the object due to uneven fluid drag on each side",
+              "the object's weight changes as it spins",
+              "spinning increases the object's speed uniformly",
+              "air resistance disappears on the leading side"
             ],
             "answer": 0
           },
           {
-            "q": "According to the Venturi effect, a consequence of Bernoulli's principle, what happens to fluid pressure as it flows through a constricted section of pipe at higher speed?",
+            "q": "The Venturi effect describes how fluid pressure changes as fluid flows through a constriction:",
             "options": [
-              "Pressure increases as speed increases",
-              "Pressure decreases as speed increases",
-              "Pressure and speed are unrelated in fluid flow",
-              "Pressure stays exactly constant regardless of speed"
+              "pressure increases as the fluid speeds up",
+              "pressure decreases as the fluid speeds up, consistent with Bernoulli's principle",
+              "pressure stays constant regardless of speed",
+              "pressure depends only on the pipe's material"
             ],
             "answer": 1
           },
           {
-            "q": "Total internal reflection, which enables fiber-optic communication, occurs when light travels from a denser to a less dense medium at an angle:",
+            "q": "Total internal reflection occurs when light travelling in a denser medium meets a boundary with a less dense medium at an angle:",
             "options": [
-              "Exactly equal to zero degrees from the normal",
-              "Less than the critical angle",
-              "Greater than the critical angle",
-              "Equal to 90 degrees from the surface"
+              "equal to zero degrees",
+              "less than the critical angle",
+              "equal to 90 degrees exactly",
+              "greater than the critical angle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are fibre-optic cables effective at transmitting light signals over long distances with minimal loss?",
+            "options": [
+              "The cable material absorbs stray light to prevent interference",
+              "Light travels faster inside glass fibres than in air",
+              "Total internal reflection keeps light confined inside the denser core as it travels",
+              "The fibres convert light into an electrical signal internally"
             ],
             "answer": 2
           }
@@ -51986,49 +51993,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Newtons Rings and Thin-Film Interference; The Tyndall Effect and Light Scattering in Colloids; Biology: Photosynthesis in Depth: Light and Dark Reactions; Physics: Torque and Rotational Equilibrium.",
+        "summary": "Practice recap covering: Newtons Rings and Thin-Film Interference; The Tyndall Effect and Light Scattering in Colloids; The Bohr Model of the Hydrogen Atom and Energy Level Transitions; Electric Potential Energy and Electric Potential Difference",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "What pattern do Newtons rings form?",
+            "q": "Newton's rings form due to interference of light reflected between:",
             "options": [
-              "Concentric bright and dark circular fringes",
-              "A uniform, unchanging field of one colour",
-              "A random, non-repeating scatter of colour",
-              "A single straight bright line with no pattern"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is the Tyndall effect?",
-            "options": [
-              "The scattering of light by particles suspended in a colloid, making a beam of light visible from the side",
-              "The complete absorption of all light by a transparent solution",
-              "A phenomenon that only occurs in a perfect vacuum",
-              "The bending of light as it passes through a single flat pane of glass"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "In photosynthesis, what is the main product of the light-dependent reactions that powers the dark reactions (Calvin cycle)?",
-            "options": [
-              "Glucose directly",
-              "ATP and NADPH",
-              "Carbon dioxide",
-              "Oxygen gas exclusively, with no other products"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "For an object in rotational equilibrium, what must be true of the net torque acting on it?",
-            "options": [
-              "The net torque must equal the object's mass",
-              "The net torque must be nonzero and constant",
-              "The net torque about any axis must equal zero",
-              "The net torque must equal the net force"
+              "two flat parallel plates only",
+              "a prism and a mirror",
+              "a curved lens surface and a flat plate, across a varying-thickness air film",
+              "two curved lenses of equal curvature"
             ],
             "answer": 2
+          },
+          {
+            "q": "The Tyndall effect is distinguished from Rayleigh scattering mainly by:",
+            "options": [
+              "the larger size of the scattering particles relative to atmospheric molecules",
+              "the colour of the light source used",
+              "occurring only in solids, not liquids",
+              "requiring ultraviolet light specifically"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the Bohr model of the hydrogen atom, a photon is emitted when an electron:",
+            "options": [
+              "is ejected from the atom entirely",
+              "remains in the ground state indefinitely",
+              "absorbs energy and jumps to a higher energy level",
+              "transitions from a higher to a lower quantized energy level"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Electric potential difference between two points in a field is defined as:",
+            "options": [
+              "the total charge moved between the points",
+              "the work done per unit charge in moving a charge between the points",
+              "the electric field strength at the midpoint",
+              "the force exerted between two point charges"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -52092,47 +52099,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Statistics: The Central Limit Theorem; Discrete Math: Spanning Trees and Kruskals Algorithm; AdvancedFunctions Review: Statistics, Algebra, and Graph Theory; Statistics: Confidence Intervals and Estimating a Population Parameter; Solving Exponential Equations Using Logarithms.",
+        "summary": "Practice recap covering: Statistics: The Central Limit Theorem; Discrete Math: Spanning Trees and Kruskal's Algorithm; AdvancedFunctions Review: Rational Functions, Probability, and Counting Principles; Statistics: Confidence Intervals and Estimating a Population Parameter; Solving Exponential Equations Using Logarithms",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "What does the central limit theorem describe?",
+            "q": "According to the Central Limit Theorem, as sample size grows large, the distribution of sample means approaches which shape?",
             "options": [
-              "The exact height of a single randomly chosen individual",
-              "The total sum of every value in an entire population",
-              "The distribution of sample means approaching a normal distribution as sample size grows large",
-              "A rule that applies only to perfectly normal populations"
+              "The same shape as the original population distribution, unchanged",
+              "A uniform distribution regardless of population shape",
+              "A normal distribution, regardless of the population's original shape",
+              "An exponential distribution with increasing variance"
             ],
             "answer": 2
           },
           {
-            "q": "What is a spanning tree of a connected graph?",
+            "q": "Kruskal's algorithm builds a minimum-weight spanning tree by which rule?",
             "options": [
-              "A subgraph that includes every vertex of the graph and is itself a tree",
-              "A graph that contains every possible cycle",
-              "A single isolated vertex with no edges at all",
-              "A subgraph that excludes most of the graphs vertices"
+              "Repeatedly adding the cheapest remaining edge that does not create a cycle",
+              "Repeatedly removing the most expensive edge from the graph",
+              "Adding edges in the order the vertices were labelled",
+              "Selecting only edges connected to a single starting vertex"
             ],
             "answer": 0
           },
           {
-            "q": "A 95% confidence interval for a population mean is best interpreted as:",
+            "q": "A 95% confidence interval for a population mean means which of the following?",
             "options": [
-              "There is a 95% probability the population mean equals the sample mean exactly",
-              "95% of individual data values fall within the interval",
-              "If the sampling process were repeated many times, about 95% of the resulting intervals would contain the true population mean",
-              "The interval that contains exactly 95% of all possible sample means, guaranteed for this one sample"
+              "There is a 95% probability the true mean lies exactly at the sample mean",
+              "95% of the population's individual values fall within the interval",
+              "The interval is guaranteed to contain the true mean",
+              "If the sampling process were repeated many times, about 95% of such intervals would capture the true parameter"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "To solve the equation 5^(2x) = 40 for x, which step is applied first?",
+            "q": "To solve 5^x = 40 for x, which method is used since 40 cannot easily be written as a power of 5?",
             "options": [
-              "Divide both sides by 5 to isolate x",
-              "Take the logarithm of both sides and use the power law to bring down the exponent",
-              "Square both sides of the equation",
-              "Set 2x equal to 40 directly"
+              "Take the square root of both sides",
+              "Apply a logarithm to both sides and use the power law to isolate x",
+              "Divide both sides by 5 and solve linearly",
+              "Set x equal to 40 divided by 5 directly"
             ],
             "answer": 1
           }
@@ -52190,49 +52197,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: The Rayleigh Criterion and the Resolving Power of Optical Instruments; The Thomson Effect and Thermoelectric Circuits; Physics Review: Fluid, Optical, and Electromagnetic Effects; Chaos Theory and Sensitive Dependence on Initial Conditions; Muon Decay and Experimental Proof of Time Dilation.",
+        "summary": "Practice recap covering: The Rayleigh Criterion and the Resolving Power of Optical Instruments; The Thomson Effect and Thermoelectric Circuits; Physics Review: Fluids, Optics, and Atomic Structure; Wave Interference: Constructive and Destructive Superposition; Muon Decay and Experimental Proof of Time Dilation",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "What does the Rayleigh criterion define?",
+            "q": "The Rayleigh criterion sets a fundamental limit on an optical instrument's ability to:",
             "options": [
-              "The total mass of an optical instrument",
-              "The maximum possible speed of light in any medium",
-              "The exact colour of light emitted by a star",
-              "The minimum angular separation at which two point sources can be resolved as separate"
+              "magnify distant objects indefinitely",
+              "resolve two point sources as separate, based on diffraction at the aperture",
+              "focus light without any lens aberration",
+              "determine the speed of light passing through it"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Thomson effect describes heating or cooling that occurs when:",
+            "options": [
+              "two dissimilar metals are joined at a junction",
+              "a current flows in the absence of any temperature gradient",
+              "heat is applied directly to a junction between two metals",
+              "an electric current flows through a conductor along which a temperature gradient already exists"
             ],
             "answer": 3
           },
           {
-            "q": "What does the Thomson effect describe?",
+            "q": "Destructive interference between two overlapping waves occurs where:",
             "options": [
-              "A phenomenon that occurs only in a perfect vacuum with no conductor",
-              "Heating or cooling that occurs when current flows through a conductor with an existing temperature gradient",
-              "The complete absence of heat transfer in any conductor",
-              "A change in a materials colour caused by an electric current"
+              "a crest from one wave meets a trough from the other",
+              "two crests align exactly",
+              "the waves have different frequencies",
+              "the waves travel in the same direction at the same speed"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "What is the defining characteristic of a chaotic system, as described by chaos theory?",
+            "q": "The fact that many cosmic-ray muons are detected at sea level, despite their short lifetime, is best explained by:",
             "options": [
-              "It is completely predictable over any time scale",
-              "It never changes over time",
-              "Its long-term behaviour is extremely sensitive to tiny differences in initial conditions",
-              "It has no dependence on initial conditions whatsoever"
+              "muons travelling faster than the speed of light",
+              "muons being continuously regenerated in the lower atmosphere",
+              "relativistic time dilation extending the muons' apparent lifetime as observed from the ground",
+              "Earth's atmosphere having no effect on muon decay rates"
             ],
             "answer": 2
-          },
-          {
-            "q": "The observed survival rate of muons produced in the upper atmosphere reaching Earth's surface, despite their short lifetime, provides experimental evidence for:",
-            "options": [
-              "The complete absence of any relativistic effects",
-              "Time dilation, in which the muons' decay clock runs slower from Earth's reference frame",
-              "A violation of the conservation of energy",
-              "The muons travelling faster than the speed of light"
-            ],
-            "answer": 1
           }
         ]
       }
@@ -52394,49 +52401,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Science: Introduction to Quantum Physics; The Fizeau Experiment and the Speed of Light in Moving Water; Ferrofluids and the Physics of Magnetic Colloids; Science: The Science of Vaccines and Immunology.",
+        "summary": "Practice recap covering: de Broglie Wavelength and Wave-Particle Duality of Matter; The Fizeau Experiment and the Speed of Light in Moving Water; Ferrofluids and the Physics of Magnetic Colloids; Special Relativity: Einstein's Postulates, Time Dilation, and Length Contraction",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "What does quantum physics study?",
+            "q": "The de Broglie relation λ = h/p extends wave-particle duality by proposing that:",
             "options": [
-              "Only objects that are visible to the naked eye",
-              "The behaviour of extremely small particles",
-              "A concept unrelated to science",
-              "The behaviour of extremely large objects only"
+              "only photons have an associated wavelength",
+              "momentum has no relation to wavelength for particles",
+              "all matter, including particles like electrons, has an associated wavelength",
+              "wavelength depends only on a particle's charge"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "What did the Fizeau experiment measure?",
+            "q": "The Fizeau experiment found that light travelling through moving water experiences:",
             "options": [
-              "The magnetic properties of still water",
-              "The exact mass of a water molecule",
-              "The boiling point of water at high altitude",
-              "How the speed of light changes when travelling through flowing water"
+              "a partial, not full, addition of the water's velocity to the light's speed",
+              "no change in speed regardless of the water's motion",
+              "a full addition of the water's velocity to the light's speed",
+              "a speed reduction proportional to the water's temperature"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A ferrofluid forms spiky surface patterns in a magnetic field because it balances:",
+            "options": [
+              "only gravitational and magnetic forces",
+              "electrostatic repulsion and viscosity",
+              "thermal expansion and magnetic attraction",
+              "magnetic, gravitational, and surface tension forces"
             ],
             "answer": 3
           },
           {
-            "q": "A ferrofluid responds visibly to a nearby magnet because it is:",
+            "q": "According to special relativity, a clock moving relative to an observer will be measured by that observer to:",
             "options": [
-              "A solid crystal lattice with no liquid component",
-              "A liquid containing suspended magnetic nanoparticles that align with the field",
-              "A gas that becomes magnetized only at extremely low temperatures",
-              "A liquid metal with no magnetic properties at all"
+              "run at the same rate as a stationary clock",
+              "run slower than a stationary clock",
+              "run faster than a stationary clock",
+              "stop completely regardless of speed"
             ],
             "answer": 1
-          },
-          {
-            "q": "How does a vaccine typically produce lasting immunity against a pathogen?",
-            "options": [
-              "By directly killing the pathogen inside the bloodstream on contact",
-              "By replacing the body's own immune cells with lab-grown ones",
-              "By exposing the immune system to a harmless form or component of the pathogen so it develops memory cells",
-              "By permanently disabling the immune system's response to all pathogens"
-            ],
-            "answer": 2
           }
         ]
       }
@@ -52598,47 +52605,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Science: The Physics of Black Holes; Tidal Forces and the Physics of Ocean Tides; Structural Colour: Colour Without Pigment; Physics Review: Relativity, Chaos, and Exotic Phenomena.",
+        "summary": "Practice recap covering: Elastic and Inelastic Collisions in Two Dimensions; Tidal Forces and the Physics of Ocean Tides; Structural Colour: Colour Without Pigment; Physics Review: Waves, Relativity, and Collisions",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "What is a black hole?",
+            "q": "In a two-dimensional elastic collision, which quantities must be conserved along both the x- and y-axes?",
             "options": [
-              "A bright star that never changes",
-              "A region in space with gravity so strong nothing can escape it",
-              "A concept unrelated to astronomy",
-              "An empty area of space with no gravity at all"
+              "Only kinetic energy",
+              "Both momentum and kinetic energy",
+              "Only momentum",
+              "Neither, since 2D collisions are analyzed differently"
             ],
             "answer": 1
           },
           {
-            "q": "What causes ocean tides, according to the basic tidal mechanism?",
+            "q": "What distinguishes an inelastic collision from an elastic collision in two dimensions?",
             "options": [
-              "The Moons gravitational pull varying slightly across the Earth, stretching the oceans into bulges",
-              "Earths internal heat causing the ocean to expand and contract",
-              "Wind patterns alone, with no gravitational influence at all",
-              "The Suns light heating the ocean surface unevenly"
+              "Inelastic collisions cannot be analyzed using momentum conservation",
+              "Elastic collisions only occur in one dimension",
+              "Momentum is not conserved in inelastic collisions",
+              "Kinetic energy is not conserved in an inelastic collision, though momentum still is"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Ocean tides arise mainly because:",
+            "options": [
+              "the Moon's gravitational pull varies slightly with distance across Earth, creating two tidal bulges",
+              "the Sun's heat causes water to expand on one side of Earth",
+              "Earth's rotation alone pushes water toward the equator",
+              "the Moon's gravity acts equally on all points of Earth"
             ],
             "answer": 0
           },
           {
-            "q": "Structural colour, seen in butterfly wings or peacock feathers, is produced primarily by:",
+            "q": "Structural colour, seen in butterfly wings and peacock feathers, is produced by:",
             "options": [
-              "Microscopic physical structures that interfere with and scatter light",
-              "Pigment molecules absorbing all wavelengths except one",
-              "Chemical dyes embedded in the surface tissue",
-              "Heat radiating from the organism's body"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "According to special relativity, as an object's speed approaches the speed of light, time for that object, as measured by a stationary observer, appears to:",
-            "options": [
-              "Run faster than the stationary observer's own clock",
-              "Stop being measurable in any way",
-              "Run slower than the stationary observer's own clock (time dilation)",
-              "Remain completely unaffected regardless of speed"
+              "pigments that absorb all wavelengths except one",
+              "chemical dyes embedded in the surface",
+              "microscopic surface structures interfering with specific wavelengths of light",
+              "fluorescent molecules re-emitting absorbed UV light"
             ],
             "answer": 2
           }
@@ -52802,49 +52809,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Gyroscopic Precession and the Physics of a Spinning Top; Rolling Without Slipping: Combining Translation and Rotation; The Poynting Vector and the Flow of Electromagnetic Energy; LC Circuits and Electromagnetic Oscillations; Polarization of Light and Malus Law.",
+        "summary": "Practice recap covering: Gyroscopic Precession and the Physics of a Spinning Top; Rolling Without Slipping: Combining Translation and Rotation; Electromagnetic Induction: Faraday's and Lenz's Laws; Electromagnetic Induction: Faraday's Law and Induced EMF; Polarization of Light and Malus Law",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "What is gyroscopic precession?",
+            "q": "Gyroscopic precession occurs because an external torque acting on a spinning object changes:",
             "options": [
-              "The slow sweeping of a spinning objects axis in a cone shape under an external torque",
-              "The instant collapse of a spinning object the moment any torque is applied",
-              "The complete absence of any motion in a spinning object",
-              "A spinning objects tendency to speed up indefinitely with no external influence"
+              "the direction of its angular momentum, not its magnitude",
+              "the magnitude of its angular momentum, not its direction",
+              "its total kinetic energy immediately to zero",
+              "its mass distribution permanently"
             ],
             "answer": 0
           },
           {
-            "q": "What condition defines rolling without slipping?",
+            "q": "'Rolling without slipping' means that the point of an object in contact with the surface has:",
             "options": [
-              "The surface and the object never make contact",
-              "The point of contact between the object and the surface has zero relative velocity",
-              "The object spins in place with no translational motion whatsoever",
-              "The object slides freely with no rotation at all"
+              "maximum linear velocity relative to the ground",
+              "a velocity equal to the object's centre of mass",
+              "an angular velocity of zero",
+              "zero velocity relative to the surface at that instant"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "According to Lenz's law, the direction of an induced current in a coil is such that it:",
+            "options": [
+              "always flows clockwise when viewed from above",
+              "opposes the change in magnetic flux that produced it",
+              "reinforces the change in magnetic flux that produced it",
+              "depends only on the coil's resistance"
             ],
             "answer": 1
           },
           {
-            "q": "What physical quantity does the Poynting vector represent in electromagnetism?",
+            "q": "Malus's law states that the intensity of light transmitted through a polarizing filter is proportional to:",
             "options": [
-              "The total electric charge enclosed within a surface",
-              "The directional flow of electromagnetic energy per unit area per unit time",
-              "The magnetic field strength at a single fixed point",
-              "The resistance of a conducting wire carrying current"
+              "the angle between polarization direction and transmission axis directly",
+              "the sine of the angle between polarization direction and transmission axis",
+              "the square of the cosine of the angle between polarization direction and transmission axis",
+              "the wavelength of the incident light"
             ],
-            "answer": 1
-          },
-          {
-            "q": "According to Malus's Law, the intensity of polarized light transmitted through a polarizer is proportional to:",
-            "options": [
-              "The sine of the angle between the light's polarization axis and the polarizer's axis",
-              "The square of the cosine of the angle between the light's polarization axis and the polarizer's axis",
-              "The angle itself, measured in radians, with no trigonometric function involved",
-              "The wavelength of the incident light alone"
-            ],
-            "answer": 1
+            "answer": 2
           }
         ]
       }
@@ -53006,49 +53013,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Science: Black Holes and General Relativity Basics; Exoplanet Detection: The Transit and Radial Velocity Methods; Olbers Paradox: Why Is the Night Sky Dark; Science: Epidemiology: Tracking the Spread of Disease; Physics Review: Rotation, Fields, Optics, and Quantum Confinement.",
+        "summary": "Practice recap covering: Mass-Energy Equivalence: E = mc² and Nuclear Binding Energy; Exoplanet Detection: The Transit and Radial Velocity Methods; Olbers Paradox: Why Is the Night Sky Dark; Electromagnetic Waves and the Electromagnetic Spectrum; Physics Review: Rotation, Induction, and Cosmic Scales",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "The transit method for detecting exoplanets relies on measuring ___.",
+            "q": "The binding energy of a nucleus corresponds to:",
             "options": [
-              "The planet's own emitted light directly",
-              "Changes in a star's chemical composition",
-              "A periodic dip in a star's brightness as a planet passes in front of it",
-              "The planet's magnetic field strength"
+              "the total kinetic energy of its nucleons",
+              "the energy needed to create the nucleus's protons",
+              "the charge difference between protons and neutrons",
+              "the measurable mass defect between the nucleus and its separate, unbound nucleons"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The transit method for detecting exoplanets relies on measuring:",
+            "options": [
+              "a small periodic dip in a star's brightness as a planet passes in front of it",
+              "the star's total radiated power over its lifetime",
+              "a wobble in the star's motion caused by the planet's gravity",
+              "the redshift of light from the planet itself"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Olbers' paradox — the question of why the night sky is dark — is resolved primarily by:",
+            "options": [
+              "most stars being too small to see with the naked eye",
+              "interstellar dust blocking nearly all starlight",
+              "the universe's finite age and its expansion, which redshifts distant light",
+              "the Moon's brightness overwhelming faint starlight"
             ],
             "answer": 2
           },
           {
-            "q": "What does the transit method use to detect an exoplanet?",
+            "q": "Electromagnetic waves consist of oscillating electric and magnetic fields that are:",
             "options": [
-              "A sudden, permanent increase in the stars total brightness",
-              "A small, periodic dip in a stars brightness as the planet passes in front of it",
-              "A measurement of the planets surface temperature from Earth",
-              "The exact colour of the planet as seen directly through a telescope"
+              "parallel to each other and to the direction of travel",
+              "perpendicular to each other and to the direction of travel",
+              "parallel to each other but perpendicular to the direction of travel",
+              "present only in a vacuum, never in matter"
             ],
             "answer": 1
-          },
-          {
-            "q": "The radial velocity method detects an exoplanet by measuring:",
-            "options": [
-              "A direct photograph of the planet's surface",
-              "Periodic Doppler shifts in the host star's spectral lines caused by the planet's gravitational pull",
-              "A one-time permanent dimming of the host star's brightness",
-              "The planet's surface temperature using infrared imaging"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Olbers' paradox raises the question of why the night sky is dark, given that a simple infinite, uniform, and eternal universe would be expected to make the sky:",
-            "options": [
-              "Uniformly bright in every direction, since infinitely many stars should fill every line of sight",
-              "Uniformly dark, since starlight cannot travel through empty space",
-              "Red-shifted but still completely black",
-              "Bright only near the galactic centre"
-            ],
-            "answer": 0
           }
         ]
       }
@@ -53210,49 +53217,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Non-Inertial Reference Frames and Pseudo-Forces; Variable Mass Systems and the Rocket Equation; RLC Circuits and the Physics of Damped Oscillation; Science: Epidemiology and Disease Modelling.",
+        "summary": "Practice recap covering: Non-Inertial Reference Frames and Pseudo-Forces; Conservation of Momentum in Explosions; Series and Parallel Circuit Calculations with Ohm's Law; Diffraction of Light Through a Single Slit",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "What defines a non-inertial reference frame?",
+            "q": "An observer in a non-inertial (accelerating or rotating) reference frame must introduce pseudo-forces because:",
             "options": [
-              "It is a reference frame moving at a constant velocity with no acceleration",
-              "It is a reference frame that is accelerating or rotating",
-              "It is a reference frame that is always perfectly stationary",
-              "It is a reference frame with no relationship to acceleration of any kind"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What kind of physical system does the rocket equation describe?",
-            "options": [
-              "A variable mass system, such as a rocket expelling burned fuel",
-              "A system consisting of a single point mass with no fuel or propulsion",
-              "A system with no motion of any kind",
-              "A system with a perfectly constant, unchanging total mass"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "In an RLC circuit exhibiting damped oscillation, what determines whether the response is underdamped, critically damped, or overdamped?",
-            "options": [
-              "The colour of the wire insulation",
-              "The frequency of the AC power source alone",
-              "The relationship between resistance and the critical damping value determined by L and C",
-              "The physical length of the circuit only"
+              "Newton's laws do not apply to any moving object",
+              "real forces disappear in accelerating frames",
+              "motion appears to violate Newton's laws unless a fictitious force accounts for the frame's acceleration",
+              "pseudo-forces are required only in rotating frames, never in linearly accelerating ones"
             ],
             "answer": 2
           },
           {
-            "q": "In basic epidemiological modelling, what does the basic reproduction number R0 represent?",
+            "q": "In an explosion where an object initially at rest separates into fragments, the total momentum of all fragments afterward is:",
             "options": [
-              "The total population size",
-              "The mortality rate of a disease",
-              "The time required for a vaccine to take effect",
-              "The average number of secondary infections produced by one infected individual in a fully susceptible population"
+              "zero, equal to the initial momentum",
+              "equal to the total kinetic energy released",
+              "always directed along the axis of the largest fragment",
+              "proportional to the number of fragments produced"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a series resistor circuit, compared to a parallel circuit with the same resistors, the equivalent resistance is:",
+            "options": [
+              "always lower",
+              "always equal",
+              "undefined without knowing the voltage",
+              "always higher, since resistances simply add in series"
             ],
             "answer": 3
+          },
+          {
+            "q": "The pattern of bright and dark fringes produced when light passes through a single narrow slit results from:",
+            "options": [
+              "reflection of light off the edges of the slit",
+              "the wave nature of light diffracting as it passes through the slit",
+              "refraction of light within the slit material",
+              "the slit acting as a lens that focuses the light"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -53316,147 +53323,147 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Functions: The Error Function and Its Link to the Normal Distribution; Statistics: The Monty Hall Problem and Conditional Probability Revisited; Double Angle Formulas; Solving Trigonometric Equations over a Given Interval.",
+        "summary": "Practice recap covering: The Normal Distribution and Z-Scores; Statistics: The Monty Hall Problem and Conditional Probability Revisited; Double Angle Formulas; Solving Trigonometric Equations over a Given Interval",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "How is the error function defined?",
+            "q": "A data value has a z-score of 2. What does this tell you about the value relative to the mean?",
             "options": [
-              "By a purely geometric construction with no reference to integration",
-              "By an integral that has no elementary closed form",
-              "By a ratio of two integers with no integral involved",
-              "By a simple polynomial expression with a finite number of terms"
+              "It is 2 units below the mean",
+              "It is 2 standard deviations above the mean",
+              "It equals exactly twice the mean",
+              "It is at the 2nd percentile of the distribution"
             ],
             "answer": 1
           },
           {
-            "q": "In the classic setup of the Monty Hall problem, how many doors does a contestant initially choose from?",
+            "q": "In the Monty Hall problem, after one empty door is revealed, what strategy gives the contestant the better chance of winning?",
             "options": [
-              "Two doors",
-              "Three doors",
-              "Five doors",
-              "A number of doors that changes randomly each round"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which expression is equivalent to sin(2θ)?",
-            "options": [
-              "sin²θ - cos²θ",
-              "sinθ + cosθ",
-              "2sinθcosθ",
-              "2cosθ"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How many solutions does sinx = 0.5 have over the interval [0, 2π)?",
-            "options": [
-              "1",
-              "3",
-              "4",
-              "2"
+              "Staying with the original choice, since probabilities do not change",
+              "Choosing randomly between the two remaining doors gives the same odds either way",
+              "Flipping a coin to decide, since both doors are now equally likely",
+              "Switching to the other unopened door, which doubles the probability of winning"
             ],
             "answer": 3
+          },
+          {
+            "q": "Which of the following is one of the three equivalent forms of cos(2θ)?",
+            "options": [
+              "1 - 2sin²θ",
+              "2sinθ + 2cosθ",
+              "sin²θ - 1",
+              "1 - 2cos²θ"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When solving a trigonometric equation over 0 ≤ x < 2π, why is it important to check all solutions from the unit circle rather than just the reference angle?",
+            "options": [
+              "Because the reference angle is always the only valid solution",
+              "Because equations over this interval never have more than one solution",
+              "Because multiple angles within the interval can share the same trig ratio and reference angle",
+              "Because the unit circle only applies to angles greater than 2π"
+            ],
+            "answer": 2
           }
         ]
       },
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Data Management: The Birthday Problem and Probability; The Fixed-Point Iteration Method for Root Approximation; Calculus Preview: Concavity and the Second Derivative; Geometry: The Distance from a Point to a Line Using Vectors.",
+        "summary": "Practice recap covering: Data Management: The Birthday Problem and Probability; Related Rates: Applied Problems with Multiple Variables; Calculus Preview: Concavity and the Second Derivative; Geometry: The Distance from a Point to a Line Using Vectors",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
           {
-            "q": "What does the birthday problem calculate?",
+            "q": "The birthday problem illustrates that the probability of at least two people sharing a birthday in a moderately sized group grows quickly because of which reason?",
             "options": [
-              "The probability that at least two people in a group share the same birthday",
-              "The probability that no person in the world has ever shared a birthday",
-              "The exact date on which the most people in the world were born",
-              "The average number of days between two peoples birthdays"
+              "Because birthdays are not uniformly distributed throughout the year",
+              "Because the group size must exceed 365 for any match to be possible",
+              "Because each person is compared only to the very first person in the group",
+              "Because the number of possible pairs in a group increases much faster than the group size itself"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "How is an equation rewritten before applying fixed-point iteration?",
+            "q": "In a related rates problem involving both a shape's radius and height changing over time, what is the correct approach?",
             "options": [
-              "In the form x equals g of x",
-              "As a system of several unrelated equations",
-              "As a definite integral with fixed limits",
-              "In a form with no variable x present at all"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "If f''(x) > 0 on an interval, the graph of f on that interval is:",
-            "options": [
-              "Concave up",
-              "Decreasing",
-              "Concave down",
-              "Linear"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Finding the distance from a point to a line in the plane using vectors relies primarily on:",
-            "options": [
-              "The dot product between two parallel vectors",
-              "The magnitude of the perpendicular component (via the cross product or projection) between a vector to the point and the line's direction vector",
-              "The sum of the coordinates of the point",
-              "The angle bisector of the line"
+              "Solve for each variable's rate separately, without connecting the equation",
+              "Differentiate an equation connecting the variables with respect to time, treating each variable as a function of time",
+              "Set the rates of change equal to each other",
+              "Substitute numeric values before differentiating"
             ],
             "answer": 1
+          },
+          {
+            "q": "A negative second derivative at a point corresponds to which feature of the function's graph?",
+            "options": [
+              "The graph is concave down at that point",
+              "The graph is concave up at that point",
+              "The function has a local minimum at that point",
+              "The function is increasing at that point"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To find the shortest distance from a point to a line in space using vectors, which operation is applied to a vector from a point on the line to the external point?",
+            "options": [
+              "The dot product with a parallel vector",
+              "Simple vector addition with the line's direction vector",
+              "The cross product with the line's direction vector, to calculate perpendicular distance",
+              "Scalar multiplication by the line's length"
+            ],
+            "answer": 2
           }
         ]
       },
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Lens Aberrations: Chromatic and Spherical Distortion; Review: Physics, Biology, and Emerging Science (Days 81-89); Stellar Nucleosynthesis and the Origin of the Elements; Chemistry: The Ideal Gas Law.",
+        "summary": "Practice recap covering: Lens Aberrations: Chromatic and Spherical Distortion; Physics Review: Frames, Momentum, and Circuits; Stellar Nucleosynthesis and the Origin of the Elements; The Compton Effect: Photon-Electron Scattering and Conservation of Momentum",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "What is a lens aberration, in general terms?",
+            "q": "Chromatic aberration in a lens occurs because:",
             "options": [
-              "A deviation that only affects the colour of the lens itself, with no effect on any image",
-              "A deviation from perfect image formation by a lens",
-              "A property that only appears in lenses with no curvature whatsoever",
-              "A term describing a lens that has no optical properties at all"
+              "the lens surface is not perfectly polished",
+              "the lens refracts different wavelengths of light by different amounts",
+              "light reflects internally within the lens",
+              "the lens is too thick for visible light to pass through"
             ],
             "answer": 1
           },
           {
-            "q": "What does epigenetics study?",
+            "q": "Spherical aberration arises in a lens because:",
             "options": [
-              "How DNA sequences are physically rewritten",
-              "A concept unrelated to biology",
-              "How environmental factors influence whether genes are turned on or off",
-              "How cells divide during mitosis"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Stellar nucleosynthesis primarily explains:",
-            "options": [
-              "The expansion of the universe",
-              "The bending of light around massive objects",
-              "The formation of heavier elements through nuclear fusion inside stars",
-              "The formation of black holes only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The ideal gas law PV = nRT relates pressure and volume most directly to:",
-            "options": [
-              "The gas's colour and density only",
-              "The gravitational field strength",
-              "The gas's molecular mass alone",
-              "The number of moles and absolute temperature of the gas"
+              "the lens material absorbs different colours unevenly",
+              "the lens is tinted, blocking some wavelengths",
+              "the lens focal length changes with temperature",
+              "rays passing through the edges of a spherical lens focus at a different point than rays near the centre"
             ],
             "answer": 3
+          },
+          {
+            "q": "Stellar nucleosynthesis in a star's core during its normal lifetime builds up elements primarily:",
+            "options": [
+              "from hydrogen through iron, by fusing lighter nuclei into heavier ones",
+              "only up to helium, with all heavier elements formed in nebulae",
+              "by splitting heavy nuclei into lighter fragments",
+              "through radioactive decay of primordial heavy elements"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When a photon undergoes Compton scattering off a loosely bound electron, the scattered photon's wavelength:",
+            "options": [
+              "becomes shorter than the incident photon's wavelength",
+              "stays exactly the same as the incident photon's",
+              "becomes longer than the incident photon's wavelength",
+              "becomes zero, as all its energy transfers to the electron"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -53618,47 +53625,47 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: The Electric Dipole and Dipole Moment; Physics Review: Reference Frames, Circuits, and Optical Systems; Keplers Laws and the Geometry of Orbital Motion; Gauss Law and Electric Flux Through a Closed Surface.",
+        "summary": "Practice recap covering: The Electric Dipole and Dipole Moment; Physics Review: Stars, Photons, and Molecular Charge; Keplers Laws and the Geometry of Orbital Motion; Electric Field and Electric Potential of a Point Charge",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "What does an electric dipole consist of?",
+            "q": "An electric dipole's dipole moment describes:",
             "options": [
-              "A charge with no defined position in space",
-              "Two equal and opposite charges separated by a small distance",
-              "A single isolated charge with no partner charge",
-              "Two identical charges of the same sign placed close together"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "According to Gauss's Law, the electric flux through a closed surface is proportional to ___.",
-            "options": [
-              "The net electric charge enclosed by the surface",
-              "The surface's total surface area alone",
-              "The distance to the nearest external charge",
-              "The magnetic field passing through the surface"
+              "the magnitude and direction of the field produced by two equal and opposite charges separated by a distance",
+              "the net charge of the two-charge system",
+              "the total electric potential energy stored between the charges",
+              "the distance at which the electric field becomes zero"
             ],
             "answer": 0
           },
           {
-            "q": "According to Kepler's Second Law, a planet orbiting the Sun sweeps out:",
+            "q": "Kepler's second law states that a planet in orbit:",
             "options": [
-              "Equal angles in equal times",
-              "Equal speeds at every point in its orbit",
-              "Equal areas in equal times",
-              "Equal distances in equal times"
+              "always moves at constant speed throughout its orbit",
+              "sweeps out equal areas only at its closest approach to the Sun",
+              "sweeps out equal areas in equal time intervals, moving faster when closer to the Sun",
+              "has an orbital period independent of its distance from the Sun"
             ],
             "answer": 2
           },
           {
-            "q": "Gauss's Law relates the electric flux through a closed surface to:",
+            "q": "The electric field strength at a distance r from a point charge Q is proportional to:",
             "options": [
-              "The magnetic field outside the surface",
-              "The surface area alone, regardless of charge",
-              "The velocity of the charges outside the surface",
-              "The total enclosed charge divided by the permittivity of free space"
+              "Q/r",
+              "Q/r²",
+              "Qr²",
+              "Q²/r"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The electric potential at a distance r from a point charge Q, unlike the electric field, is proportional to:",
+            "options": [
+              "Q/r² directly, the same as the field",
+              "the square root of Q/r",
+              "Qr, increasing with distance",
+              "Q/r, falling off more slowly with distance than the field does"
             ],
             "answer": 3
           }
@@ -53822,49 +53829,49 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Youngs Double-Slit Experiment and the Wave Nature of Light; Biology: Protein Synthesis; Hubbles Law and the Expansion of the Universe; Crystal Structures and Unit Cells in Solids; Physics Review: The Capstone Survey of Orbits, Fields, Optics, and the Cosmos.",
+        "summary": "Practice recap covering: Youngs Double-Slit Experiment and the Wave Nature of Light; Standard Model Basics: Quarks, Leptons, and the Four Fundamental Forces; Hubbles Law and the Expansion of the Universe; Crystal Structures and Unit Cells in Solids; Physics Review: Gravity, Fields, and the Structure of the Universe",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "What experimental setup does Youngs double-slit experiment use?",
+            "q": "Young's double-slit experiment provided decisive early evidence that light:",
             "options": [
-              "Light reflected from a single flat mirror with no slits involved",
-              "A solid opaque barrier with no opening of any kind",
-              "A single wide opening with no second slit present",
-              "Light passed through two closely spaced narrow slits"
+              "travels only in straight lines",
+              "is composed entirely of particles",
+              "cannot pass through narrow openings",
+              "behaves as a wave capable of interference"
             ],
             "answer": 3
           },
           {
-            "q": "What are the two main stages of protein synthesis?",
+            "q": "According to the Standard Model, all known matter is built from two families of fundamental particles called:",
             "options": [
-              "Digestion and absorption",
-              "Transcription and translation",
-              "A concept unrelated to biology",
-              "Mitosis and meiosis"
+              "quarks and leptons",
+              "protons and neutrons",
+              "atoms and molecules",
+              "bosons and fermions exclusively"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "Hubble's Law states that a galaxy's recession velocity is:",
+            "q": "Hubble's law states that a distant galaxy's recession speed is:",
             "options": [
-              "Inversely proportional to its distance from us",
-              "Unrelated to its distance from us",
-              "Directly proportional to its distance from us",
-              "Equal to the speed of light for all galaxies"
+              "inversely proportional to its distance from the observer",
+              "constant regardless of its distance",
+              "proportional to its distance from the observer, based on redshift",
+              "determined only by its mass"
             ],
             "answer": 2
           },
           {
-            "q": "A unit cell in a crystal structure is best described as:",
+            "q": "In a crystal structure, the unit cell refers to:",
             "options": [
-              "A single isolated atom with no surrounding structure",
-              "A random arrangement with no repeating pattern",
-              "A structure found only in amorphous solids",
-              "The smallest repeating unit that reproduces the full crystal lattice when translated in space"
+              "a single isolated atom within the lattice",
+              "the smallest repeating block whose geometry determines many of the material's properties",
+              "the total volume of the crystal sample",
+              "the boundary where the crystal fractures under stress"
             ],
-            "answer": 3
+            "answer": 1
           }
         ]
       }
