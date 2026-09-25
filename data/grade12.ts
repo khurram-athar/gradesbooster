@@ -23023,64 +23023,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Projectile Motion in Two Dimensions",
-        "summary": "Grade 10 Physics strand: projectile motion describes the curved path of an object launched into the air, combining constant horizontal velocity with the effect of vertical acceleration due to gravity.",
-        "resourceLabel": "YouTube: Physics: Projectile Motion in Two Dimensions",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Projectile%20Motion%20in%20Two%20Dimensions%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=yYjnl_fj6IA",
+        "title": "Work-Energy Theorem: Calculating Work Done by a Net Force",
+        "summary": "Students learn to relate the net work done on an object to its change in kinetic energy using W_net = ΔKE, and apply the theorem to solve for unknown forces, distances, or final speeds in one-dimensional motion problems.",
+        "resourceLabel": "YouTube: Work-Energy Theorem: Calculating Work Done by a Net Force",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Work-Energy%20Theorem%3A%20Calculating%20Work%20Done%20by%20a%20Net%20Force%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "Projectile motion combines constant horizontal velocity with ___.",
+            "q": "A 1200 kg car accelerates from 10 m/s to 20 m/s. What is the net work done on the car?",
             "options": [
-              "No vertical motion at all",
-              "A concept unrelated to motion in the air",
-              "Vertical acceleration due to gravity",
-              "A second, separate horizontal acceleration"
+              "360 000 J",
+              "180 000 J",
+              "120 000 J",
+              "240 000 J"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to the work-energy theorem, the net work done on an object equals its change in:",
+            "options": [
+              "momentum",
+              "gravitational potential energy",
+              "kinetic energy",
+              "velocity"
             ],
             "answer": 2
           },
           {
-            "q": "The horizontal velocity of a projectile, ignoring air resistance, generally remains ___.",
+            "q": "A 5.0 kg box is pushed 4.0 m across a frictionless floor by a 15 N horizontal force. What is its final speed if it started at rest?",
             "options": [
-              "Constant throughout its flight",
-              "A value unrelated to projectile motion",
-              "Zero throughout its entire flight",
-              "Constantly increasing throughout its flight"
+              "4.9 m/s",
+              "6.9 m/s",
+              "2.4 m/s",
+              "12 m/s"
             ],
             "answer": 0
           },
           {
-            "q": "Why does a projectile follow a curved, rather than straight-line, path?",
+            "q": "A student calculates the work done by a 20 N force applied at an angle of 60° to a 3.0 m displacement. Which expression gives the correct work done?",
             "options": [
-              "Gravity continuously accelerates the object downward while it also moves horizontally",
-              "This path has no connection to the forces acting on the object",
-              "Projectiles never experience the effect of gravity",
-              "A curved path only occurs when horizontal velocity is zero"
+              "W = 20 × 3.0 × sin60°",
+              "W = 20 × 3.0",
+              "W = 20 × 3.0 × cos60°",
+              "W = 20 ÷ 3.0 × cos60°"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Which of these is an example of projectile motion?",
+            "q": "A hockey puck sliding on ice experiences a net force that does −50 J of work as it slows down. What must be true about the puck's kinetic energy?",
             "options": [
-              "A ball thrown at an angle into the air",
-              "An object sitting completely still on the ground",
-              "A concept unrelated to projectile motion",
-              "An object moving in a perfectly straight horizontal line with no vertical component"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is understanding projectile motion useful in fields like sports science or engineering?",
-            "options": [
-              "These fields never involve analyzing the motion of objects",
-              "It helps predict and optimize the path of objects launched or thrown through the air",
-              "This concept only applies to purely theoretical physics problems",
-              "Projectile motion has no practical, real-world applications"
+              "It increased by 50 J",
+              "It decreased by 50 J",
+              "It stayed constant",
+              "It became negative"
             ],
             "answer": 1
           }
-        ],
-        "topic": "Forces & Motion"
+        ]
       }
     ]
   },
@@ -23532,64 +23530,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Genetic Engineering and Biotechnology Applications",
-        "summary": "Grade 9 Science Biology strand: genetic engineering involves directly modifying an organism’s DNA, and biotechnology applies these techniques in fields such as agriculture, medicine, and environmental science.",
-        "resourceLabel": "YouTube: Genetic Engineering and Biotechnology Applications",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Genetic%20Engineering%20and%20Biotechnology%20Applications%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=YNrGLjVuCso",
+        "title": "Newton's Second Law: Analyzing Forces on Inclined Planes",
+        "summary": "Students learn to resolve gravity into components parallel and perpendicular to an inclined surface and apply Newton's second law to determine acceleration, normal force, and the effects of friction for objects on ramps.",
+        "resourceLabel": "YouTube: Newton's Second Law: Analyzing Forces on Inclined Planes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Newton%27s%20Second%20Law%3A%20Analyzing%20Forces%20on%20Inclined%20Planes%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "Genetic engineering involves directly modifying an organism’s ___.",
+            "q": "A block sits on a frictionless incline at 30° to the horizontal. What is its acceleration down the slope?",
             "options": [
-              "A concept unrelated to biology",
-              "DNA",
-              "Physical appearance only, with no connection to DNA",
-              "Skeletal structure exclusively"
+              "9.8 m/s²",
+              "4.9 m/s²",
+              "8.5 m/s²",
+              "6.9 m/s²"
             ],
             "answer": 1
           },
           {
-            "q": "Which is an example of a biotechnology application in agriculture?",
+            "q": "On an incline, the component of gravity perpendicular to the surface is balanced by:",
             "options": [
-              "Developing crops that are genetically modified for pest resistance",
-              "A technique with no connection to genetics or crops",
-              "A process unrelated to biotechnology",
-              "Removing all genetic modification techniques from farming entirely"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might genetic engineering be used in medicine?",
-            "options": [
-              "This technique is used only in agriculture, never in medicine",
-              "To help develop treatments, such as producing insulin using modified bacteria",
-              "Genetic engineering has no medical applications",
-              "Medicine never involves biotechnology of any kind"
+              "the applied force",
+              "the normal force",
+              "the frictional force",
+              "the net force"
             ],
             "answer": 1
           },
           {
-            "q": "Why do some people raise ethical questions about genetic engineering?",
+            "q": "A 10 kg crate rests on a 25° incline with a coefficient of kinetic friction of 0.20. What is the friction force acting on the crate as it slides down?",
             "options": [
-              "Modifying DNA raises questions about safety, consent, and long-term ecological effects",
-              "This technology has no potential risks or considerations",
-              "Ethical questions have no connection to biotechnology",
-              "Genetic engineering raises no ethical questions of any kind"
+              "19.6 N",
+              "41.4 N",
+              "17.8 N",
+              "98 N"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why is biotechnology considered an important and expanding field of science?",
+            "q": "As the angle of an incline increases, the normal force on an object resting on it:",
             "options": [
-              "This field has no connection to health or agriculture",
-              "Biotechnology has no real-world applications",
-              "Genetic engineering techniques are never used outside of theory",
-              "It offers new tools for addressing challenges in health, food production, and the environment"
+              "increases",
+              "decreases",
+              "stays the same",
+              "becomes negative"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "A skier of mass 60 kg accelerates down a frictionless 20° slope. What net force acts on the skier along the slope?",
+            "options": [
+              "588 N",
+              "201 N",
+              "553 N",
+              "102 N"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Genetics & Heredity"
+        ]
       }
     ]
   },
@@ -24024,64 +24020,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Simple Harmonic Motion (Pendulums and Springs)",
-        "summary": "Grade 10 Physics strand: simple harmonic motion describes a repeating back-and-forth movement, such as a swinging pendulum or an oscillating spring, where the restoring force is proportional to the displacement from equilibrium.",
-        "resourceLabel": "YouTube: Physics: Simple Harmonic Motion (Pendulums and Springs)",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Simple%20Harmonic%20Motion%20%28Pendulums%20and%20Springs%29%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=tNpuTx7UQbw",
+        "title": "Circular Motion: Centripetal Force and Banked Curves",
+        "summary": "Students learn to calculate centripetal acceleration and force for objects moving in circular paths and apply these concepts to analyze the ideal (frictionless) banking angle needed for a vehicle to safely navigate a curve at a given speed.",
+        "resourceLabel": "YouTube: Circular Motion: Centripetal Force and Banked Curves",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Circular%20Motion%3A%20Centripetal%20Force%20and%20Banked%20Curves%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "Simple harmonic motion describes a repeating movement that is best characterized as ___.",
+            "q": "A 900 kg car travels around a flat curve of radius 50 m at 15 m/s. What centripetal force is required?",
             "options": [
-              "A completely random, unpredictable movement",
-              "Back-and-forth around a central equilibrium point",
-              "A concept unrelated to periodic motion",
-              "A motion that only ever occurs in a single direction with no repetition"
+              "2025 N",
+              "4050 N",
+              "270 N",
+              "8100 N"
             ],
             "answer": 1
           },
           {
-            "q": "Which of these is a common example of simple harmonic motion?",
+            "q": "On a banked curve with no friction, which force component provides the centripetal force?",
             "options": [
-              "An object that remains completely stationary",
-              "A concept unrelated to simple harmonic motion",
-              "An object moving in a perfectly straight line with no repeating pattern",
-              "A pendulum swinging back and forth"
+              "the horizontal component of the normal force",
+              "the vertical component of the normal force",
+              "the full weight of the vehicle",
+              "the horizontal component of friction"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "In simple harmonic motion, the restoring force is proportional to ___.",
+            "q": "What is the ideal banking angle for a curve of radius 80 m designed for vehicles travelling at 20 m/s (assume no friction)?",
             "options": [
-              "A factor unrelated to the object’s position",
-              "The colour of the oscillating object",
-              "The temperature of the surrounding environment",
-              "The displacement from equilibrium"
+              "21°",
+              "27°",
+              "32°",
+              "45°"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why does a pendulum eventually slow down and stop swinging in a real-world setting?",
+            "q": "Centripetal acceleration always points:",
             "options": [
-              "A pendulum’s motion has no connection to energy at all",
-              "A reason unrelated to simple harmonic motion",
-              "Pendulums never lose any energy while swinging",
-              "Friction and air resistance gradually remove energy from the system"
+              "tangent to the circular path",
+              "away from the centre of the circle",
+              "toward the centre of the circle",
+              "in the direction of velocity"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Why is understanding simple harmonic motion useful for designing devices like clocks or shock absorbers?",
+            "q": "A ball on a string moves in a horizontal circle of radius 0.5 m at 4 m/s. What is its centripetal acceleration?",
             "options": [
-              "Simple harmonic motion has no practical, real-world applications",
-              "This concept only applies to purely theoretical physics problems",
-              "These devices never rely on any repeating or oscillating motion",
-              "It helps engineers predict and control repeating, oscillating movement in these devices"
+              "8 m/s²",
+              "16 m/s²",
+              "32 m/s²",
+              "2 m/s²"
             ],
-            "answer": 3
+            "answer": 2
           }
-        ],
-        "topic": "Forces & Motion"
+        ]
       }
     ]
   },
@@ -25004,75 +24998,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Review: Historic Experiments and Cosmic Phenomena (Days 91-99)",
-        "summary": "Grade 12 Physics strand review: students revisit the Michelson-Morley experiment, the Stern-Gerlach experiment, the Franck-Hertz experiment, the Zeeman effect, cyclotron motion, the Josephson effect, pulsars, the cosmic microwave background, and quantum computing.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Physics Review: Relativity, Energy, and the Early Quantum Era",
+        "summary": "This review covers Days 91-99, revisiting the Michelson-Morley experiment, the Work-Energy Theorem, the Franck-Hertz experiment, Newton's Second Law on inclined planes, cyclotron motion and mass spectrometry, circular motion and banked curves, pulsars, the Cosmic Microwave Background and the Big Bang, and quantum computing and the qubit.",
+        "resourceLabel": "YouTube: Physics Review: Relativity, Energy, and the Early Quantum Era",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Relativity%2C%20Energy%2C%20and%20the%20Early%20Quantum%20Era%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What was the Michelson-Morley experiment designed to detect?",
+            "q": "What was the primary purpose of the Michelson-Morley experiment?",
             "options": [
-              "Earth’s motion through a hypothetical medium called the luminiferous ether",
-              "The temperature of the surface of the sun",
-              "The exact mass of a single electron",
-              "A concept unrelated to physics"
+              "To detect the luminiferous aether via interference of light",
+              "To measure the charge of the electron",
+              "To determine the speed of sound in air",
+              "To calculate the mass of the proton"
             ],
             "answer": 0
           },
           {
-            "q": "What gas did the original Franck-Hertz experiment use to demonstrate quantized atomic energy levels?",
+            "q": "According to the Work-Energy Theorem, the net work done on an object equals its:",
             "options": [
-              "Hydrogen gas",
-              "A concept unrelated to physics",
-              "Pure oxygen gas",
-              "Mercury vapour"
+              "Change in momentum",
+              "Change in kinetic energy",
+              "Change in potential energy alone",
+              "Total mechanical energy"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What path does a charged particle follow when moving perpendicular to a uniform magnetic field?",
+            "q": "What did the Franck-Hertz experiment provide evidence for?",
             "options": [
-              "A circular path",
-              "A concept unrelated to physics",
-              "A perfectly straight, undeflected line",
-              "A path that instantly stops the particle in place"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What type of stellar remnant is a pulsar?",
-            "options": [
-              "A concept unrelated to physics",
-              "A slowly cooling, non-rotating white dwarf",
-              "A rapidly rotating, highly magnetized neutron star",
-              "An ordinary main-sequence star like the sun"
+              "Wave-particle duality of electrons",
+              "The existence of antimatter",
+              "Quantized energy levels in atoms",
+              "The expansion of the universe"
             ],
             "answer": 2
           },
           {
-            "q": "What is the basic unit of information in a quantum computer called?",
+            "q": "Pulsars are best described as:",
             "options": [
-              "A qubit",
-              "A classical bit",
-              "A photon, with no further defining property",
-              "A concept unrelated to physics"
+              "Exploding white dwarf stars",
+              "Rapidly rotating neutron stars emitting beams of radiation",
+              "Binary star systems that orbit a black hole",
+              "Young stars still forming from a nebula"
             ],
-            "answer": 0
-          }
-        ],
-        "videoUrl": "https://www.youtube.com/watch?v=yYjnl_fj6IA",
-        "videoUrls": [
-          {
-            "label": "Projectile Motion",
-            "url": "https://www.youtube.com/watch?v=yYjnl_fj6IA"
+            "answer": 1
           },
           {
-            "label": "Genetic Engineering",
-            "url": "https://www.youtube.com/watch?v=YNrGLjVuCso"
-          },
-          {
-            "label": "Simple Harmonic Motion",
-            "url": "https://www.youtube.com/watch?v=tNpuTx7UQbw"
+            "q": "The Cosmic Microwave Background is considered strong evidence for:",
+            "options": [
+              "The steady-state theory of the universe",
+              "The existence of dark matter halos",
+              "The Big Bang model of the universe's origin",
+              "The presence of wormholes"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -30396,63 +30375,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Electromagnetic Induction and Generators",
-        "summary": "Grade 10 Physics strand: electromagnetic induction occurs when a changing magnetic field produces an electric current in a nearby conductor, a principle that underlies how electrical generators convert motion into electricity.",
-        "resourceLabel": "YouTube: Physics: Electromagnetic Induction and Generators",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Electromagnetic%20Induction%20and%20Generators%20grade%2012%20educational",
+        "title": "Coulomb's Law: Calculating the Electric Force Between Point Charges",
+        "summary": "Students learn to apply Coulomb's law to calculate the magnitude and direction of the electrostatic force between two point charges and examine how that force changes with distance and charge magnitude.",
+        "resourceLabel": "YouTube: Coulomb's Law: Calculating the Electric Force Between Point Charges",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Coulomb%27s%20Law%3A%20Calculating%20the%20Electric%20Force%20Between%20Point%20Charges%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "Electromagnetic induction occurs when a changing magnetic field produces ___.",
+            "q": "Two point charges of +3.0 μC and +5.0 μC are separated by 0.20 m. What is the magnitude of the force between them (k = 8.99 × 10⁹ N·m²/C²)?",
             "options": [
-              "An electric current in a nearby conductor",
-              "A permanent change in the conductor’s colour",
-              "A change in the conductor’s mass",
-              "A phenomenon unrelated to magnetism"
+              "3.4 N",
+              "0.34 N",
+              "33.7 N",
+              "6.7 N"
             ],
             "answer": 0
           },
           {
-            "q": "An electrical generator primarily converts ___ into electrical energy.",
+            "q": "If the distance between two point charges is doubled, the electric force between them:",
             "options": [
-              "Motion (mechanical energy)",
-              "A form of energy unrelated to generators",
-              "Chemical energy exclusively, with no connection to motion",
-              "Sound energy"
+              "doubles",
+              "is halved",
+              "is reduced to one-quarter",
+              "is reduced to one-eighth"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Which of these actions could induce a current in a coil of wire?",
+            "q": "Two charges of the same sign placed near each other will experience a force that is:",
             "options": [
-              "An action unrelated to electromagnetic induction",
-              "Holding a magnet perfectly still near the coil",
-              "Removing all magnets from the vicinity of the coil",
-              "Moving a magnet through the coil"
+              "attractive",
+              "repulsive",
+              "zero",
+              "dependent on their mass"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why does moving a magnet more quickly through a coil typically increase the induced current?",
+            "q": "A charge of +2.0 μC experiences a force of 0.45 N from a nearby charge 0.15 m away. What is the magnitude of the second charge?",
             "options": [
-              "A faster-changing magnetic field induces a greater electromotive force in the coil",
-              "A reason unrelated to electromagnetic induction",
-              "The speed of the magnet’s motion has no effect on the induced current",
-              "Induced current only depends on the size of the magnet, not its speed"
+              "5.6 × 10⁻⁷ C",
+              "1.1 × 10⁻⁶ C",
+              "5.6 × 10⁻⁶ C",
+              "1.1 × 10⁻⁵ C"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why is electromagnetic induction considered essential to modern electricity generation?",
+            "q": "Coulomb's law states that the electric force between two point charges is proportional to:",
             "options": [
-              "It provides the underlying principle that allows generators to convert mechanical motion into a usable electric current",
-              "Electricity generation never relies on magnetic fields",
-              "Electromagnetic induction has no connection to how electricity is generated",
-              "This concept only applies to purely theoretical physics problems"
+              "the sum of the charges divided by distance",
+              "the product of the charges divided by the square of the distance",
+              "the product of the charges divided by the distance",
+              "the square of the product of charges divided by distance"
             ],
-            "answer": 0
+            "answer": 1
           }
-        ],
-        "topic": "Electricity & Magnetism"
+        ]
       }
     ]
   },
@@ -30641,61 +30619,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Radioactivity and Half-Life",
-        "summary": "Grade 9 Science Chemistry/Physics strand: radioactive decay occurs when an unstable atomic nucleus releases energy and particles over time, and an isotope’s half-life is the time it takes for half of a radioactive sample to decay.",
-        "resourceLabel": "YouTube: Radioactivity and Half-Life",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Radioactivity%20and%20Half-Life%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=V4PFQpCCqzk",
+        "title": "Nuclear Reactions: Fission, Fusion, and Mass-Energy Equivalence",
+        "summary": "Students learn to distinguish between nuclear fission and fusion processes and apply Einstein's mass-energy equivalence relation E = mc² to calculate the energy released when mass defect occurs in a nuclear reaction.",
+        "resourceLabel": "YouTube: Nuclear Reactions: Fission, Fusion, and Mass-Energy Equivalence",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Nuclear%20Reactions%3A%20Fission%2C%20Fusion%2C%20and%20Mass-Energy%20Equivalence%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "Radioactive decay occurs when ___.",
+            "q": "In nuclear fission, a heavy nucleus such as uranium-235:",
             "options": [
-              "An atom becomes permanently stable with no further change",
-              "An unstable atomic nucleus releases energy and particles over time",
-              "A molecule dissolves completely in a solvent",
-              "A concept unrelated to atomic structure"
+              "combines with another nucleus to form a heavier one",
+              "splits into two or more lighter nuclei",
+              "emits only gamma radiation with no mass change",
+              "converts entirely into pure energy"
             ],
             "answer": 1
           },
           {
-            "q": "An isotope’s half-life refers to ___.",
+            "q": "A nuclear reaction releases 3.0 × 10⁻²⁸ kg of mass as energy. Using E = mc², how much energy is released (c = 3.0 × 10⁸ m/s)?",
             "options": [
-              "A concept unrelated to radioactivity",
-              "The time it takes for half of a radioactive sample to decay",
-              "The total time before any decay begins",
-              "The complete lifespan of every atom in a sample"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "If an isotope has a half-life of 10 years, how much of an original sample remains after 20 years?",
-            "options": [
-              "None of the original sample",
-              "Half of the original sample",
-              "One quarter of the original sample",
-              "A value unrelated to this half-life"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which of these is a practical application of understanding radioactive half-life?",
-            "options": [
-              "Half-life calculations are never used outside of theoretical chemistry",
-              "An application unrelated to radioactivity",
-              "Radioactivity has no practical, real-world uses",
-              "Using radiocarbon dating to estimate the age of ancient organic materials"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is radioactive material considered potentially hazardous to living organisms?",
-            "options": [
-              "The energy and particles released during decay can damage living cells and tissue",
-              "Radioactive decay never has any effect on living organisms",
-              "This concept has no connection to radioactivity",
-              "Radioactive material is always completely harmless to living cells"
+              "2.7 × 10⁻¹¹ J",
+              "9.0 × 10⁻²⁰ J",
+              "2.7 × 10⁻²⁰ J",
+              "9.0 × 10⁻¹¹ J"
             ],
             "answer": 0
+          },
+          {
+            "q": "Nuclear fusion, the process that powers the Sun, typically involves:",
+            "options": [
+              "heavy nuclei splitting apart",
+              "light nuclei such as hydrogen combining into heavier ones",
+              "electrons being captured by protons",
+              "neutrons decaying into protons and electrons"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The 'mass defect' in a nuclear reaction refers to:",
+            "options": [
+              "the mass lost due to radioactive contamination",
+              "the difference between the mass of reactants and products, converted to energy",
+              "an error in measuring atomic mass",
+              "the mass of neutrons released during fission"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Compared to a chemical reaction releasing the same mass of fuel, a nuclear reaction releases:",
+            "options": [
+              "about the same amount of energy",
+              "far less energy",
+              "far more energy, due to the mass-energy relationship",
+              "no energy unless catalyzed"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -31867,63 +31844,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Science: Epigenetics: Gene Expression and Environment",
-        "summary": "Grade 9 Science strand: epigenetics studies how environmental factors can influence whether specific genes are turned on or off, without altering the underlying DNA sequence itself.",
-        "resourceLabel": "YouTube: Science: Epigenetics: Gene Expression and Environment",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Epigenetics%3A%20Gene%20Expression%20and%20Environment%20grade%2012%20educational",
+        "title": "The Photoelectric Effect: Einstein's Explanation and the Work Function",
+        "summary": "Students learn how Einstein explained the photoelectric effect using the photon model of light and apply the equation KE_max = hf − W₀ to calculate the maximum kinetic energy of emitted electrons and a metal's work function.",
+        "resourceLabel": "YouTube: The Photoelectric Effect: Einstein's Explanation and the Work Function",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Photoelectric%20Effect%3A%20Einstein%27s%20Explanation%20and%20the%20Work%20Function%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does epigenetics study?",
+            "q": "In the photoelectric effect, the work function of a metal represents:",
             "options": [
-              "How cells divide during mitosis",
-              "A concept unrelated to biology",
-              "How DNA sequences are physically rewritten",
-              "How environmental factors influence whether genes are turned on or off"
+              "the total energy of an incoming photon",
+              "the minimum energy needed to eject an electron from the metal's surface",
+              "the kinetic energy of the fastest ejected electron",
+              "the frequency of the incident light"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Does epigenetics involve changing the underlying DNA sequence?",
+            "q": "Light of frequency 8.0 × 10¹⁴ Hz strikes a metal with a work function of 3.0 × 10⁻¹⁹ J. What is the maximum kinetic energy of an ejected electron (h = 6.63 × 10⁻³⁴ J·s)?",
             "options": [
-              "Yes, it always changes the DNA sequence",
-              "DNA sequence has no connection to epigenetics",
-              "No",
-              "A concept unrelated to epigenetics"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Name one environmental factor that could influence gene expression, such as diet.",
-            "options": [
-              "A favourite hobby",
-              "A concept unrelated to epigenetics",
-              "Diet",
-              "A random guess with no scientific basis"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might identical twins, who share the same DNA, develop some different traits over their lives?",
-            "options": [
-              "This concept has no connection to epigenetics",
-              "Identical twins can never develop any different traits",
-              "DNA sequence alone always determines every trait with no other influence",
-              "Different environmental experiences could lead to different epigenetic changes affecting gene expression"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is epigenetics considered a valuable area of modern biological research?",
-            "options": [
-              "It helps explain how environment and genetics interact to influence health and traits",
-              "This concept has no relevance to science",
-              "Epigenetics has no connection to health or biology",
-              "Genes are the only factor that ever influences an organism’s traits"
+              "2.3 × 10⁻¹⁹ J",
+              "5.3 × 10⁻¹⁹ J",
+              "8.3 × 10⁻¹⁹ J",
+              "3.0 × 10⁻¹⁹ J"
             ],
             "answer": 0
+          },
+          {
+            "q": "Einstein explained the photoelectric effect by proposing that light:",
+            "options": [
+              "travels only as a continuous wave with no particle properties",
+              "is made of discrete packets of energy called photons",
+              "cannot transfer energy to electrons directly",
+              "only ejects electrons if it is intense enough, regardless of frequency"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If the frequency of incident light is below a metal's threshold frequency, increasing the light's intensity will:",
+            "options": [
+              "eject electrons with greater kinetic energy",
+              "begin ejecting electrons after a short delay",
+              "still fail to eject any electrons",
+              "instantly eject electrons at high speed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The threshold frequency for a metal is 5.0 × 10¹⁴ Hz. What is the approximate work function of this metal (h = 6.63 × 10⁻³⁴ J·s)?",
+            "options": [
+              "1.3 × 10⁻¹⁹ J",
+              "3.3 × 10⁻¹⁹ J",
+              "6.6 × 10⁻¹⁹ J",
+              "1.3 × 10⁻¹⁸ J"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Ecosystems & Environment"
+        ]
       }
     ]
   },
@@ -32356,63 +32332,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Quantum, Thermal, and Wave Phenomena",
-        "summary": "Grade 12 Physics strand review: students revisit the Pauli exclusion principle, the Mössbauer effect, the Gibbs paradox, nuclear magnetic resonance, piezoelectricity, the physics of rainbows, sonic booms, magnetohydrodynamics, and the barometric formula.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Physics Review: Quantum Rules, Nuclear Energy, and Everyday Phenomena",
+        "summary": "This review covers Days 121-129, revisiting the Pauli Exclusion Principle, Coulomb's Law, nuclear fission, fusion, and mass-energy equivalence, Nuclear Magnetic Resonance, piezoelectricity, the physics of rainbows, sonic booms, the Photoelectric Effect, and the Barometric Formula.",
+        "resourceLabel": "YouTube: Physics Review: Quantum Rules, Nuclear Energy, and Everyday Phenomena",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Quantum%20Rules%2C%20Nuclear%20Energy%2C%20and%20Everyday%20Phenomena%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does the Pauli exclusion principle state?",
+            "q": "The Pauli Exclusion Principle states that:",
             "options": [
-              "No two identical fermions can occupy the same quantum state simultaneously",
-              "Only protons are affected by exclusion rules",
-              "Exclusion rules apply only to photons",
-              "All particles must occupy exactly the same quantum state"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does the Mössbauer effect involve?",
-            "options": [
-              "A change in the mass of a nucleus over time",
-              "Nuclei bound in a solid crystal emitting or absorbing gamma rays without energy loss to recoil",
-              "The complete absorption of all visible light by a crystal",
-              "A magnetic field generated by a rotating nucleus"
+              "Electrons always move at the speed of light",
+              "No two electrons in an atom can have the same set of quantum numbers",
+              "Protons and neutrons repel each other in the nucleus",
+              "Energy can never be created or destroyed"
             ],
             "answer": 1
           },
           {
-            "q": "What situation gives rise to the Gibbs paradox?",
+            "q": "Coulomb's Law describes the force between:",
             "options": [
-              "Calculating the entropy of mixing two samples of the same, identical gas",
-              "Measuring the temperature of a single isolated particle",
-              "Measuring the pressure of a vacuum",
-              "Calculating the entropy of two entirely different, distinguishable gases"
+              "Two moving charges due to magnetism",
+              "Two masses due to gravity",
+              "Two stationary electric charges",
+              "Two magnetic poles only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Piezoelectricity refers to the phenomenon where certain materials:",
+            "options": [
+              "Generate an electric charge when mechanically stressed",
+              "Become superconducting at room temperature",
+              "Emit light when heated",
+              "Absorb all incoming radiation"
             ],
             "answer": 0
           },
           {
-            "q": "What does a piezoelectric material generate when subjected to mechanical stress?",
+            "q": "A sonic boom occurs when an object:",
             "options": [
-              "A sudden increase in temperature only",
-              "An electric voltage",
-              "A permanent change in chemical composition",
-              "A visible colour change"
+              "Reaches the speed of light",
+              "Travels faster than the speed of sound in the medium",
+              "Vibrates at its natural resonant frequency",
+              "Emits a Doppler-shifted sound wave"
             ],
             "answer": 1
           },
           {
-            "q": "What three optical processes combine to produce a rainbow within a raindrop?",
+            "q": "The Photoelectric Effect demonstrated that light:",
             "options": [
-              "Only absorption, with no reflection or refraction involved",
-              "Only diffraction, with no other optical process",
-              "Only polarization, with no colour separation",
-              "Refraction, internal reflection, and dispersion of sunlight"
+              "Travels only as a continuous wave",
+              "Can eject electrons from a metal only above a threshold frequency",
+              "Has no measurable momentum",
+              "Always accelerates through a vacuum"
             ],
-            "answer": 3
+            "answer": 1
           }
-        ],
-        "videoUrl": "https://www.youtube.com/watch?v=V4PFQpCCqzk"
+        ]
       }
     ]
   },
@@ -33823,58 +33798,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Chemistry: Le Chatelier’s Principle",
-        "summary": "Grade 10 Science strand: Le Chatelier’s principle states that when a system at equilibrium is disturbed, it shifts to counteract the disturbance and establish a new equilibrium.",
-        "resourceLabel": "YouTube: Chemistry: Le Chatelier’s Principle",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Le%20Chatelier%E2%80%99s%20Principle%20grade%2012%20educational",
+        "title": "Magnetic Force on a Moving Charge: F = qvB",
+        "summary": "Students learn to calculate the magnetic force on a charged particle moving through a magnetic field using F = qvB and use the right-hand rule to determine the direction of that force for various charge and velocity orientations.",
+        "resourceLabel": "YouTube: Magnetic Force on a Moving Charge: F = qvB",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Magnetic%20Force%20on%20a%20Moving%20Charge%3A%20F%20%3D%20qvB%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does Le Chatelier’s principle describe?",
+            "q": "A proton (q = 1.6 × 10⁻¹⁹ C) moves at 2.0 × 10⁶ m/s perpendicular to a 0.50 T magnetic field. What is the magnitude of the magnetic force on it?",
             "options": [
-              "How light travels through a vacuum",
-              "A concept unrelated to chemistry",
-              "How atoms are structured inside a nucleus",
-              "How a system at equilibrium shifts to counteract a disturbance"
+              "1.6 × 10⁻¹³ N",
+              "3.2 × 10⁻¹³ N",
+              "6.4 × 10⁻¹⁴ N",
+              "1.6 × 10⁻¹⁴ N"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Does a system at equilibrium respond to a disturbance by shifting to a new equilibrium?",
+            "q": "For a positive charge moving to the right through a magnetic field pointing into the page, the right-hand rule predicts a magnetic force that points:",
             "options": [
-              "No, systems at equilibrium never respond to any disturbance",
-              "A concept unrelated to Le Chatelier’s principle",
-              "Yes",
-              "Equilibrium always remains completely unchanged no matter what happens"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If more reactant is added to a reaction at equilibrium, which direction does the reaction shift?",
-            "options": [
-              "Toward the reactants, away from the products",
-              "The reaction does not shift in any direction",
-              "Toward the products, to use up the added reactant",
-              "A concept unrelated to equilibrium"
+              "into the page",
+              "out of the page",
+              "upward",
+              "downward"
             ],
             "answer": 2
           },
           {
-            "q": "Why might increasing the temperature of an exothermic reaction at equilibrium shift it toward the reactants?",
+            "q": "If a charged particle moves parallel to the magnetic field lines, the magnetic force on it is:",
             "options": [
-              "This concept has no connection to chemistry",
-              "Exothermic reactions never reach any state of equilibrium",
-              "Added heat acts like an extra product, so the system shifts to counteract that increase",
-              "Temperature changes never have any effect on a reaction at equilibrium"
+              "at its maximum value",
+              "zero",
+              "equal to qvB regardless of angle",
+              "dependent only on the particle's mass"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why is Le Chatelier’s principle useful for industrial chemists producing a specific chemical?",
+            "q": "A charged particle moving through a uniform magnetic field at constant speed follows a circular path because the magnetic force:",
             "options": [
-              "It helps them adjust conditions like pressure and temperature to maximize the yield of a desired product",
-              "Le Chatelier’s principle has no practical industrial application",
-              "Industrial processes never rely on chemical equilibrium at all",
-              "This concept has no relevance to chemistry"
+              "acts parallel to the velocity, increasing speed",
+              "acts perpendicular to the velocity, changing only direction",
+              "acts opposite to velocity, slowing the particle",
+              "has no effect on the particle's path"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An electron moves at 3.0 × 10⁵ m/s at right angles to a magnetic field, experiencing a force of 2.4 × 10⁻¹⁴ N. What is the magnitude of the magnetic field (q = 1.6 × 10⁻¹⁹ C)?",
+            "options": [
+              "0.50 T",
+              "0.80 T",
+              "1.25 T",
+              "0.25 T"
             ],
             "answer": 0
           }
@@ -34800,60 +34775,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Optics, Thermal Effects, and Relativistic Applications",
-        "summary": "Grade 12 Physics strand review: students revisit stimulated emission and the laser, Rayleigh scattering, Wiens displacement law, the Seebeck effect, the Joule-Thomson effect, the Sagnac effect, Chladni patterns, the physics of lightning, and GPS relativistic corrections.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Physics Review: Light, Heat, and Relativistic Corrections",
+        "summary": "This review covers Days 131-139, revisiting stimulated emission and the laser, Rayleigh scattering and the colour of the sky, Wien's Displacement Law, the Seebeck Effect, the Joule-Thomson Effect, magnetic force on a moving charge, Chladni patterns, the physics of lightning, and GPS relativistic time corrections.",
+        "resourceLabel": "YouTube: Physics Review: Light, Heat, and Relativistic Corrections",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Light%2C%20Heat%2C%20and%20Relativistic%20Corrections%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What process underlies the operation of a laser?",
+            "q": "Rayleigh scattering explains why the sky appears blue because:",
             "options": [
-              "The complete absorption of all light with no emission",
-              "Radioactive decay of atomic nuclei",
-              "Stimulated emission, in which a photon triggers an excited atom to emit an identical second photon",
-              "Spontaneous emission with no external trigger of any kind"
+              "Blue light is absorbed less than red light by the atmosphere",
+              "Shorter wavelengths of light scatter more strongly than longer wavelengths",
+              "The atmosphere reflects only blue light directly from the sun",
+              "Ozone molecules emit blue light"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What does Rayleigh scattering describe?",
+            "q": "Wien's Displacement Law relates a blackbody's temperature to:",
             "options": [
-              "The refraction of light through a lens",
-              "The complete absorption of all wavelengths of light equally",
-              "The scattering of electromagnetic radiation by particles much smaller than its wavelength",
-              "The scattering of sound waves in a solid material"
+              "Its total radiated power",
+              "The wavelength at which it emits most intensely",
+              "Its electrical resistance",
+              "Its magnetic field strength"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What does Wiens displacement law relate?",
+            "q": "The Seebeck Effect describes the generation of:",
             "options": [
-              "The volume of a gas to its pressure alone",
-              "The mass of an object to its electric charge",
-              "The wavelength of peak blackbody radiation to the objects temperature",
-              "The colour of an object to its chemical composition only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does the Seebeck effect describe?",
-            "options": [
-              "A temperature difference across a junction of two dissimilar conductors generating an electric voltage",
-              "A mechanical stress generating an electric voltage",
-              "An electric current generating a magnetic field",
-              "A voltage generating mechanical deformation in a crystal"
+              "A voltage from a temperature difference across a material",
+              "Light from an applied electric field",
+              "Sound from a vibrating plate",
+              "Magnetism from a rotating disk"
             ],
             "answer": 0
           },
           {
-            "q": "What does the Joule-Thomson effect describe?",
+            "q": "The magnetic force on a moving charge (F = qvB) is always directed:",
             "options": [
-              "The colour change of a gas as it is compressed",
-              "The temperature change of a real gas as it expands through a valve without exchanging heat with its surroundings",
-              "The pressure change of a liquid at constant temperature",
-              "The temperature change of an ideal gas under constant volume"
+              "Parallel to the charge's velocity",
+              "Opposite to the magnetic field",
+              "Perpendicular to both the velocity and the magnetic field",
+              "Toward the nearest magnetic pole"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "GPS satellites require relativistic time corrections mainly because of:",
+            "options": [
+              "Their high speed and weaker gravitational field compared to Earth's surface",
+              "Interference from solar wind",
+              "The curvature of light near the Moon",
+              "Fluctuations in Earth's magnetic field"
+            ],
+            "answer": 0
           }
         ]
       }
@@ -36264,63 +36239,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Biology: Photosynthesis in Depth: Light and Dark Reactions",
-        "summary": "Grade 10 Science strand: photosynthesis consists of two stages, the light-dependent reactions that capture solar energy, and the light-independent (dark) reactions that use that energy to build sugars.",
-        "resourceLabel": "YouTube: Biology: Photosynthesis in Depth: Light and Dark Reactions",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Photosynthesis%20in%20Depth%3A%20Light%20and%20Dark%20Reactions%20grade%2012%20educational",
+        "title": "The Bohr Model of the Hydrogen Atom and Energy Level Transitions",
+        "summary": "Students learn how Bohr's model describes electrons occupying quantized energy levels in the hydrogen atom and apply the model to calculate the energy and frequency of photons absorbed or emitted during electron transitions between levels.",
+        "resourceLabel": "YouTube: The Bohr Model of the Hydrogen Atom and Energy Level Transitions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Bohr%20Model%20of%20the%20Hydrogen%20Atom%20and%20Energy%20Level%20Transitions%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "How many main stages does photosynthesis consist of?",
+            "q": "In the Bohr model, an electron emits a photon when it:",
             "options": [
-              "One",
-              "Two",
-              "Five",
-              "A concept unrelated to biology"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What do the light-dependent reactions of photosynthesis capture?",
-            "options": [
-              "Solar energy",
-              "Nothing at all related to energy",
-              "A concept unrelated to photosynthesis",
-              "Only carbon dioxide from the air"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Do the light-independent, or dark, reactions use energy captured earlier to build sugars?",
-            "options": [
-              "A concept unrelated to photosynthesis",
-              "Sugars are never produced during photosynthesis",
-              "Yes",
-              "No, the dark reactions never use any captured energy"
+              "moves to a higher energy level",
+              "remains in the same energy level",
+              "moves to a lower energy level",
+              "escapes the atom entirely"
             ],
             "answer": 2
           },
           {
-            "q": "Why are the light-independent reactions sometimes called dark reactions, even though they can occur during the day?",
+            "q": "An electron in a hydrogen atom transitions from n = 3 (E = −1.51 eV) to n = 2 (E = −3.40 eV). What is the energy of the emitted photon?",
             "options": [
-              "The dark reactions only ever occur at night, never during the day",
-              "This concept has no connection to photosynthesis",
-              "Dark reactions require intense direct sunlight at all times",
-              "They do not directly require light, unlike the light-dependent reactions"
+              "1.89 eV",
+              "4.91 eV",
+              "1.51 eV",
+              "3.40 eV"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why is understanding both stages of photosynthesis important for understanding plant growth?",
+            "q": "According to Bohr's model, electrons can only occupy orbits with specific:",
             "options": [
-              "The two stages of photosynthesis have no connection to how plants grow",
-              "Only one of the two stages actually contributes to a plant’s growth",
-              "This concept has no relevance to biology",
-              "Both stages work together to convert light energy into the chemical energy plants use to grow"
+              "velocities determined by the nucleus's charge",
+              "continuous ranges of energy",
+              "quantized, discrete energy levels",
+              "random energies depending on temperature"
             ],
-            "answer": 3
+            "answer": 2
+          },
+          {
+            "q": "When an electron absorbs a photon and jumps from n = 1 to n = 2 in hydrogen, the atom is said to be in a(n):",
+            "options": [
+              "ground state",
+              "excited state",
+              "ionized state",
+              "neutral state"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A hydrogen atom's electron drops from n = 4 to n = 1, releasing a photon of energy 12.75 eV. Using E = hf, what is the approximate frequency of this photon (h = 4.14 × 10⁻¹⁵ eV·s)?",
+            "options": [
+              "3.08 × 10¹⁵ Hz",
+              "5.28 × 10¹⁴ Hz",
+              "1.24 × 10¹⁶ Hz",
+              "6.16 × 10¹⁵ Hz"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Light & Sound"
+        ]
       }
     ]
   },
@@ -36510,58 +36484,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Torque and Rotational Equilibrium",
-        "summary": "Grade 10 Science strand: torque measures the turning effect of a force around a pivot point, and an object is in rotational equilibrium when the net torque acting on it is zero.",
-        "resourceLabel": "YouTube: Physics: Torque and Rotational Equilibrium",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Torque%20and%20Rotational%20Equilibrium%20grade%2012%20educational",
+        "title": "Electric Potential Energy and Electric Potential Difference",
+        "summary": "Students learn how work done against an electric field is stored as electric potential energy, and how potential difference (voltage) describes the energy per unit charge between two points in a field. They apply the relationships V = E_p/q and, for uniform fields, V = Ed, to solve problems involving charges moving between points at different potentials.",
+        "resourceLabel": "YouTube: Electric Potential Energy and Electric Potential Difference",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electric%20Potential%20Energy%20and%20Electric%20Potential%20Difference%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does torque measure?",
+            "q": "What quantity represents the electric potential energy per unit charge between two points in a field?",
             "options": [
-              "A concept unrelated to physics",
-              "The turning effect of a force around a pivot point",
-              "The temperature of an object",
-              "The total mass of an object"
+              "Electric field strength",
+              "Electric potential difference",
+              "Coulomb force",
+              "Capacitance"
             ],
             "answer": 1
           },
           {
-            "q": "When is an object in rotational equilibrium?",
+            "q": "A charge of 2.0 C is moved between two points with a potential difference of 12 V. How much work is done?",
             "options": [
-              "When it is moving at a constant speed in a straight line",
-              "When the net torque acting on it is zero",
-              "When no force acts on it at all",
-              "A concept unrelated to torque"
+              "6.0 J",
+              "0.17 J",
+              "24 J",
+              "14 J"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a uniform electric field, the relationship between potential difference V, field strength E, and separation d is:",
+            "options": [
+              "V = E/d",
+              "V = Ed",
+              "V = E + d",
+              "V = d/E"
             ],
             "answer": 1
           },
           {
-            "q": "Does increasing the distance from the pivot point increase the torque produced by a given force?",
+            "q": "As a positive charge moves in the direction of an electric field, its electric potential energy:",
             "options": [
-              "No, distance from the pivot has no effect on torque",
-              "Torque only depends on the mass of an object",
-              "A concept unrelated to torque",
-              "Yes"
+              "Increases, since it moves toward higher potential",
+              "Decreases, since it moves toward lower potential",
+              "Stays exactly the same because charge is conserved",
+              "Becomes negative regardless of starting position"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why might a longer wrench make it easier to loosen a tight bolt compared to a shorter one?",
+            "q": "Two parallel plates are 0.050 m apart with a potential difference of 200 V between them. What is the electric field strength between the plates?",
             "options": [
-              "This concept has no connection to physics",
-              "Wrench length never has any effect on the torque applied to a bolt",
-              "A shorter wrench always produces more torque than a longer one",
-              "A longer wrench increases the distance from the pivot, producing greater torque for the same applied force"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is understanding rotational equilibrium important when designing a seesaw or balance scale?",
-            "options": [
-              "This concept has no relevance to physics",
-              "It helps ensure the torques on each side balance so the object remains stable and level",
-              "Rotational equilibrium has no connection to how a seesaw or balance scale works",
-              "Seesaws and balance scales never rely on any torque balance"
+              "10 V/m",
+              "4000 V/m",
+              "0.00025 V/m",
+              "250 V/m"
             ],
             "answer": 1
           }
@@ -37242,60 +37216,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Fluid, Optical, and Electromagnetic Effects",
-        "summary": "Grade 12 Physics strand review: students revisit the Magnus effect, the Venturi effect and Bernoullis principle, total internal reflection, Newtons rings, and the Tyndall effect.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Physics Review: Fluids, Optics, and Atomic Structure",
+        "summary": "This review covers Days 141-149, revisiting the Magnus Effect, the Venturi Effect and Bernoulli's Principle, total internal reflection and fibre optics, Newton's Rings, the Tyndall Effect, the Bohr Model of the hydrogen atom, electric potential energy and potential difference, the Rayleigh Criterion, and the Thomson Effect.",
+        "resourceLabel": "YouTube: Physics Review: Fluids, Optics, and Atomic Structure",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Fluids%2C%20Optics%2C%20and%20Atomic%20Structure%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What is the Magnus effect?",
+            "q": "The Magnus Effect explains:",
             "options": [
-              "The complete absence of drag on a spinning object",
-              "The tendency of an object to fall in a perfectly straight line",
-              "The curved path taken by a spinning object moving through a fluid, caused by a sideways lift force",
-              "A magnetic force acting on any moving object"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does the Venturi effect describe?",
-            "options": [
-              "A drop in fluid pressure as the fluid speeds up through a constricted section of a pipe",
-              "The complete stopping of fluid flow at a constriction",
-              "A rise in fluid pressure whenever a pipe widens",
-              "A change in fluid temperature with no change in pressure"
+              "The curved flight path of a spinning object moving through a fluid",
+              "The rise of a hot air balloon",
+              "The formation of rainbows",
+              "The pull of a magnet on iron filings"
             ],
             "answer": 0
           },
           {
-            "q": "What is total internal reflection?",
+            "q": "Total internal reflection in fibre optics occurs when light hits a boundary at an angle:",
             "options": [
-              "A phenomenon that only occurs with sound waves",
-              "Light reflecting entirely back into a denser medium when it strikes a boundary at an angle greater than the critical angle",
-              "The complete absorption of light at any surface",
-              "Light passing completely unaffected through any boundary"
+              "Smaller than the critical angle, from a denser to less dense medium",
+              "Greater than the critical angle, travelling from a denser to less dense medium",
+              "Exactly perpendicular to the boundary",
+              "Greater than the critical angle, travelling from a less dense to denser medium"
             ],
             "answer": 1
           },
           {
-            "q": "What pattern do Newtons rings form?",
+            "q": "The Bohr Model of the hydrogen atom proposed that electrons:",
             "options": [
-              "Concentric bright and dark circular fringes",
-              "A uniform, unchanging field of one colour",
-              "A random, non-repeating scatter of colour",
-              "A single straight bright line with no pattern"
+              "Move in fixed, quantized circular orbits around the nucleus",
+              "Exist as a continuous charge cloud with no defined position",
+              "Orbit the nucleus at the speed of light",
+              "Are shared equally among all atoms in a molecule"
             ],
             "answer": 0
           },
           {
-            "q": "What is the Tyndall effect?",
+            "q": "The Tyndall Effect refers to:",
             "options": [
-              "The scattering of light by particles suspended in a colloid, making a beam of light visible from the side",
-              "The complete absorption of all light by a transparent solution",
-              "The bending of light as it passes through a single flat pane of glass",
-              "A phenomenon that only occurs in a perfect vacuum"
+              "The bending of light as it passes through a lens",
+              "The scattering of light by particles suspended in a colloid",
+              "The absorption of light by a black body",
+              "The polarization of light by a crystal"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "The Rayleigh Criterion is used to determine:",
+            "options": [
+              "The maximum speed of a wave in a medium",
+              "The minimum angular separation for two sources to be resolved as distinct",
+              "The energy released in nuclear fission",
+              "The critical angle for total internal reflection"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -37976,60 +37950,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Science: Introduction to Quantum Physics",
-        "summary": "Grade 8 Science strand: quantum physics studies the behaviour of extremely small particles, such as electrons, which can behave differently than larger objects described by everyday physics.",
-        "resourceLabel": "YouTube: Science: Introduction to Quantum Physics",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Introduction%20to%20Quantum%20Physics%20grade%2012%20educational",
+        "title": "de Broglie Wavelength and Wave-Particle Duality of Matter",
+        "summary": "Students learn that all matter has an associated wavelength given by de Broglie's relation λ = h/p, extending wave-particle duality from light to particles such as electrons. They apply this formula to calculate the de Broglie wavelength of moving objects and explain why wave effects are only observable for very small masses.",
+        "resourceLabel": "YouTube: de Broglie Wavelength and Wave-Particle Duality of Matter",
+        "resourceUrl": "https://www.youtube.com/results?search_query=de%20Broglie%20Wavelength%20and%20Wave-Particle%20Duality%20of%20Matter%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does quantum physics study?",
+            "q": "According to de Broglie's hypothesis, the wavelength of a moving particle is related to its:",
             "options": [
-              "Only objects that are visible to the naked eye",
-              "The behaviour of extremely small particles",
-              "A concept unrelated to science",
-              "The behaviour of extremely large objects only"
+              "Kinetic energy only",
+              "Momentum",
+              "Electric charge",
+              "Rest mass only"
             ],
             "answer": 1
           },
           {
-            "q": "Name one example of a particle studied in quantum physics, such as an electron.",
+            "q": "What is the de Broglie wavelength of an electron (mass 9.11 × 10⁻³¹ kg) moving at 2.0 × 10⁶ m/s? (h = 6.63 × 10⁻³⁴ J·s)",
             "options": [
-              "A planet",
-              "A concept unrelated to quantum physics",
-              "A mountain",
-              "An electron"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Can extremely small particles behave differently than larger, everyday objects?",
-            "options": [
-              "A concept unrelated to quantum physics",
-              "Particles never behave in any predictable pattern",
-              "No, small particles always behave exactly like large objects",
-              "Yes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why do scientists need special theories, like quantum physics, to describe particles like electrons?",
-            "options": [
-              "The rules that govern everyday large objects do not fully apply at such a tiny scale",
-              "Everyday physics fully explains the behaviour of every particle",
-              "This concept has no connection to quantum physics",
-              "Electrons behave in exactly the same way as basketballs or cars"
+              "3.6 × 10⁻¹⁰ m",
+              "7.3 × 10⁻¹⁰ m",
+              "1.8 × 10⁻⁹ m",
+              "3.6 × 10⁻¹³ m"
             ],
             "answer": 0
           },
           {
-            "q": "Why is quantum physics considered important for modern technology, like computer chips?",
+            "q": "Why don't everyday objects like a thrown ball show observable wave behaviour?",
             "options": [
-              "Understanding particle behaviour at this scale has enabled advances in electronics and computing",
-              "Quantum physics has no connection to modern technology",
-              "This concept has no relevance to science",
-              "Computer chips are built with no reliance on quantum physics concepts"
+              "Their charge is too small to interact with matter waves",
+              "Their de Broglie wavelength is far too small to be detected",
+              "They move too slowly for waves to form",
+              "Only charged particles can have a de Broglie wavelength"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "The de Broglie hypothesis was experimentally confirmed by observing which phenomenon with electrons?",
+            "options": [
+              "Photoelectric emission",
+              "Diffraction and interference patterns",
+              "Blackbody radiation curves",
+              "Compton scattering only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a particle's momentum doubles, its de Broglie wavelength:",
+            "options": [
+              "Doubles",
+              "Is halved",
+              "Quadruples",
+              "Remains unchanged"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -38711,60 +38685,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Science: The Science of Vaccines and Immunology",
-        "summary": "Grade 8 Science strand: immunology studies how the immune system protects the body, and vaccines work by training this system to recognize specific pathogens before a real infection occurs.",
-        "resourceLabel": "YouTube: Science: The Science of Vaccines and Immunology",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20The%20Science%20of%20Vaccines%20and%20Immunology%20grade%2012%20educational",
+        "title": "Special Relativity: Einstein's Postulates, Time Dilation, and Length Contraction",
+        "summary": "Students learn Einstein's two postulates of special relativity, that the laws of physics are the same in all inertial frames and that the speed of light in a vacuum is constant for all observers, and use them to explain why moving clocks run slow and moving objects appear contracted along the direction of motion. They apply the time dilation and length contraction equations to calculate how measurements differ between a stationary observer and one moving at relativistic speeds.",
+        "resourceLabel": "YouTube: Special Relativity: Einstein's Postulates, Time Dilation, and Length Contraction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Special%20Relativity%3A%20Einstein%27s%20Postulates%2C%20Time%20Dilation%2C%20and%20Length%20Contraction%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does immunology study?",
+            "q": "Which of the following is one of Einstein's two postulates of special relativity?",
             "options": [
-              "How the immune system protects the body",
-              "How rocks are formed over time",
-              "How plants create their own food",
-              "A concept unrelated to biology"
+              "Mass increases without limit at low speeds",
+              "The speed of light in a vacuum is the same for all inertial observers",
+              "Time is absolute and identical for all observers",
+              "Length contraction only occurs in accelerating frames"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What do vaccines train the immune system to do?",
+            "q": "A spaceship travels at a speed where the Lorentz factor γ = 2.0. If 10 years pass on Earth, how much time passes for the astronaut according to Earth observers?",
             "options": [
-              "Become permanently weaker",
-              "A concept unrelated to vaccines",
-              "Ignore all pathogens completely",
-              "Recognize specific pathogens"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Do vaccines typically work before a real infection occurs?",
-            "options": [
-              "Vaccines have no connection to timing at all",
-              "A concept unrelated to vaccines",
-              "Yes",
-              "No, vaccines only work after a person is already sick"
+              "20 years",
+              "10 years",
+              "5 years",
+              "2.5 years"
             ],
             "answer": 2
           },
           {
-            "q": "Why might a vaccine include a small, harmless piece of a pathogen rather than the full, dangerous version?",
+            "q": "Length contraction predicts that an object moving at relativistic speed relative to an observer will appear:",
             "options": [
-              "It allows the immune system to learn and respond safely, without causing the actual illness",
-              "Vaccines always include the full, dangerous version of a pathogen",
-              "A harmless piece of a pathogen provides no useful immune response",
-              "This concept has no connection to immunology"
+              "Longer in the direction of motion",
+              "Shorter in the direction of motion",
+              "Unchanged in length but heavier",
+              "Shorter in all three dimensions equally"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why is community-wide vaccination sometimes described as helping protect vulnerable individuals through herd immunity?",
+            "q": "As an object's speed approaches the speed of light, its Lorentz factor (γ) approaches:",
             "options": [
-              "Herd immunity has no connection to vaccination at all",
-              "This concept has no relevance to science",
-              "When enough people are immune, it becomes harder for a disease to spread, protecting those who cannot be vaccinated",
-              "Vaccinating a community never has any effect on how a disease spreads"
+              "Zero",
+              "One",
+              "Infinity",
+              "A fixed value of 2"
             ],
             "answer": 2
+          },
+          {
+            "q": "A muon is created in the upper atmosphere and, due to time dilation, survives long enough to reach the ground even though its rest-frame lifetime should not allow this. This is because, from Earth's frame:",
+            "options": [
+              "The muon's mass decreases, reducing decay probability",
+              "The muon's internal clock runs slow relative to Earth's clock",
+              "The muon speeds up as it falls, outrunning decay",
+              "Earth's atmosphere slows the decay process chemically"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -38955,60 +38929,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Science: The Physics of Black Holes",
-        "summary": "Grade 8 Science strand: a black hole is a region in space with gravity so strong that nothing, not even light, can escape it, formed when a massive star collapses at the end of its life.",
-        "resourceLabel": "YouTube: Science: The Physics of Black Holes",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20The%20Physics%20of%20Black%20Holes%20grade%2012%20educational",
+        "title": "Elastic and Inelastic Collisions in Two Dimensions",
+        "summary": "Students learn to apply conservation of momentum along perpendicular x- and y-axes to analyze collisions that occur in two dimensions, and to distinguish elastic collisions, where kinetic energy is also conserved, from inelastic collisions, where it is not. They practise resolving vector components before and after a collision to find unknown speeds and directions.",
+        "resourceLabel": "YouTube: Elastic and Inelastic Collisions in Two Dimensions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Elastic%20and%20Inelastic%20Collisions%20in%20Two%20Dimensions%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What is a black hole?",
+            "q": "In any collision in two dimensions, which quantity is always conserved for the system, regardless of collision type?",
             "options": [
-              "A bright star that never changes",
-              "A region in space with gravity so strong nothing can escape it",
-              "A concept unrelated to astronomy",
-              "An empty area of space with no gravity at all"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Can light escape from a black hole?",
-            "options": [
-              "No",
-              "Only some types of light can escape",
-              "A concept unrelated to black holes",
-              "Yes, light easily escapes a black hole"
+              "Total momentum (both x and y components)",
+              "Kinetic energy only",
+              "Speed of each object individually",
+              "Total mechanical energy including heat"
             ],
             "answer": 0
           },
           {
-            "q": "How does a black hole typically form?",
+            "q": "A 2.0 kg puck moving at 4.0 m/s east strikes a stationary 2.0 kg puck. After the collision, both pucks move off at angles from the original line of motion. This scenario is best analyzed by:",
             "options": [
-              "When a planet cools down over time",
-              "A concept unrelated to black holes",
-              "When a massive star collapses at the end of its life",
-              "When a star is first formed from gas and dust"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why can’t scientists directly see a black hole, even with powerful telescopes?",
-            "options": [
-              "This concept has no connection to how black holes work",
-              "A black hole itself emits no light, since even light cannot escape its gravity",
-              "Black holes are actually very easy to see directly with the naked eye",
-              "Black holes emit extremely bright light that can always be seen"
+              "Adding the speeds directly since mass is equal",
+              "Resolving momentum into x and y components for each puck separately",
+              "Using only the total kinetic energy before the collision",
+              "Assuming both pucks move at the same final speed"
             ],
             "answer": 1
           },
           {
-            "q": "Why do scientists study the effects of black holes on nearby stars and matter?",
+            "q": "Which of the following is true only for an elastic collision, not an inelastic one?",
             "options": [
-              "Black holes have no measurable effect on their surroundings",
-              "This concept has no relevance to science",
-              "Nearby stars are never affected in any way by a black hole",
-              "Observing these effects can provide indirect evidence about black holes since they cannot be seen directly"
+              "Total momentum of the system is conserved",
+              "The objects exert equal and opposite forces on each other",
+              "The collision occurs over a finite time interval",
+              "Total kinetic energy of the system is conserved"
             ],
             "answer": 3
+          },
+          {
+            "q": "Two objects collide and stick together, moving off at a combined angle after the collision. This is an example of:",
+            "options": [
+              "A perfectly elastic collision",
+              "A perfectly inelastic collision",
+              "A collision with no momentum transfer",
+              "An explosion rather than a collision"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A 3.0 kg ball moving at 5.0 m/s north collides with a 1.0 kg ball at rest. After the collision, the 1.0 kg ball moves off at 6.0 m/s at 40° east of north. To find the 3.0 kg ball's final velocity, a student should:",
+            "options": [
+              "Assume the 3.0 kg ball stops completely",
+              "Use only conservation of kinetic energy since mass differs",
+              "Apply conservation of momentum separately in the x and y directions",
+              "Assume both balls move at equal final speeds"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -39686,60 +39660,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Relativity, Chaos, and Exotic Phenomena",
-        "summary": "Grade 12 Physics review: revisiting chaos theory, muon decay and time dilation, the Pound-Rebka experiment, the Fizeau experiment, and ferrofluids from Days 151-155.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Physics Review: Waves, Relativity, and Collisions",
+        "summary": "This review covers Days 151-159, revisiting wave interference, muon decay and time dilation, de Broglie wavelength and wave-particle duality, the Fizeau Experiment, ferrofluids, Special Relativity, elastic and inelastic collisions in two dimensions, tidal forces, and structural colour.",
+        "resourceLabel": "YouTube: Physics Review: Waves, Relativity, and Collisions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Waves%2C%20Relativity%2C%20and%20Collisions%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What defining property do chaotic systems display with respect to their starting conditions?",
+            "q": "Constructive interference occurs when two waves meet:",
             "options": [
-              "Identical long-term behaviour regardless of starting point",
-              "Extreme sensitivity, so tiny differences in initial conditions lead to wildly different outcomes",
-              "A guarantee that outcomes never change over time",
-              "Complete independence from their initial conditions"
+              "Completely out of phase, cancelling each other",
+              "In phase, with crests aligning with crests",
+              "At a 90-degree angle to each other",
+              "With different frequencies only"
             ],
             "answer": 1
           },
           {
-            "q": "What relativistic effect explains why far more muons reach the ground than classical physics predicts?",
+            "q": "The observation of muon decay at Earth's surface (despite their short lifetime) provides experimental support for:",
             "options": [
-              "Gravitational lensing bending the muons path",
-              "Time dilation, which extends the muons apparent lifetime as observed from the ground",
-              "A complete absence of any effect; the classical prediction was correct all along",
-              "The photoelectric effect converting muons into photons"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What prediction of general relativity did the Pound-Rebka experiment confirm?",
-            "options": [
-              "That mass has no relationship to gravitational fields",
-              "That light cannot travel through a gravitational field at all",
-              "That time runs slightly slower in a stronger gravitational field",
-              "That gravity has no effect on the passage of time"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What surprising result did Fizeau find about how the waters motion affected the speed of light?",
-            "options": [
-              "The waters velocity was only partially, not fully, added to the speed of light",
-              "Light stopped completely whenever the water was in motion",
-              "The waters motion had absolutely no effect on the light at all",
-              "The speed of light became slower than in a vacuum by the full velocity of the water"
+              "Time dilation predicted by Special Relativity",
+              "The wave nature of matter",
+              "Newton's Third Law",
+              "The Pauli Exclusion Principle"
             ],
             "answer": 0
           },
           {
-            "q": "What is a ferrofluid?",
+            "q": "The de Broglie wavelength relates a particle's wavelength to its:",
             "options": [
-              "A liquid with no magnetic properties whatsoever",
-              "A completely solid magnetic block with no fluid component",
-              "A colloidal suspension of nanoscale magnetic particles",
-              "A gas made entirely of iron atoms"
+              "Electric charge",
+              "Momentum",
+              "Temperature",
+              "Mass alone, independent of speed"
             ],
-            "answer": 2
+            "answer": 1
+          },
+          {
+            "q": "One of Einstein's key postulates of Special Relativity states that:",
+            "options": [
+              "Time flows at the same rate for all observers everywhere",
+              "The speed of light in a vacuum is the same for all inertial observers",
+              "Mass increases only near massive planets",
+              "Gravity bends light more than it bends matter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a perfectly inelastic collision between two objects:",
+            "options": [
+              "Kinetic energy is conserved but momentum is not",
+              "Both objects stick together after colliding",
+              "The objects bounce apart with equal and opposite speeds",
+              "Neither momentum nor energy is affected"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -41153,60 +41127,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Science: Black Holes and General Relativity Basics",
-        "summary": "Grade 9 Science strand: a black hole is a region in space with gravity so strong that nothing, not even light, can escape, and its existence is explained by Einstein’s theory of general relativity.",
-        "resourceLabel": "YouTube: Science: Black Holes and General Relativity Basics",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Black%20Holes%20and%20General%20Relativity%20Basics%20grade%2012%20educational",
+        "title": "Mass-Energy Equivalence: E = mc² and Nuclear Binding Energy",
+        "summary": "Students learn that mass and energy are equivalent through Einstein's relation E = mc², and that the binding energy holding a nucleus together corresponds to a measurable mass defect between the nucleus and its separate nucleons. They apply this relationship to calculate energy released in nuclear reactions and to explain the stability of atomic nuclei.",
+        "resourceLabel": "YouTube: Mass-Energy Equivalence: E = mc² and Nuclear Binding Energy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Mass-Energy%20Equivalence%3A%20E%20%3D%20mc%C2%B2%20and%20Nuclear%20Binding%20Energy%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What is a black hole?",
+            "q": "According to E = mc², a small amount of mass converted entirely to energy releases:",
             "options": [
-              "An empty area of space with no gravity at all",
-              "A region in space with gravity so strong nothing can escape it",
-              "A bright star that never changes",
-              "A concept unrelated to astronomy"
+              "A negligible amount of energy since mass is small",
+              "A very large amount of energy because c is squared",
+              "Energy only if the mass is electrically charged",
+              "An amount of energy equal to mc, not mc²"
             ],
             "answer": 1
           },
           {
-            "q": "Can light escape from a black hole?",
+            "q": "The mass defect of a nucleus refers to:",
             "options": [
-              "No",
-              "Yes, light easily escapes a black hole",
-              "A concept unrelated to black holes",
-              "Only some types of light can escape"
+              "The difference between the nucleus's mass and the sum of its separate nucleons' masses",
+              "The mass lost when a nucleus gains an electron",
+              "The difference between protons and neutrons in a nucleus",
+              "The mass added during radioactive decay"
             ],
             "answer": 0
           },
           {
-            "q": "Which scientific theory helps explain the existence of black holes?",
+            "q": "If a nuclear reaction converts 1.0 × 10⁻⁵ kg of mass into energy, approximately how much energy is released? (c = 3.0 × 10⁸ m/s)",
             "options": [
-              "The theory of evolution",
-              "Einstein’s theory of general relativity",
-              "A concept unrelated to black holes",
-              "The germ theory of disease"
+              "9.0 × 10⁸ J",
+              "3.0 × 10³ J",
+              "9.0 × 10¹¹ J",
+              "3.0 × 10¹⁶ J"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A nucleus with a larger binding energy per nucleon compared to another nucleus is generally:",
+            "options": [
+              "Less stable, since more energy is stored inside it",
+              "More stable, since more energy would be needed to break it apart",
+              "Unstable, because binding energy indicates excess mass",
+              "Unaffected in stability, since binding energy is unrelated to stability"
             ],
             "answer": 1
           },
           {
-            "q": "Why can’t scientists directly see a black hole, even with powerful telescopes?",
+            "q": "In a nuclear fission reaction, the total mass of the products compared to the original nucleus is:",
             "options": [
-              "A black hole itself emits no light, since even light cannot escape its gravity",
-              "Black holes are actually very easy to see directly with the naked eye",
-              "Black holes emit extremely bright light that can always be seen",
-              "This concept has no connection to how black holes work"
+              "Exactly equal, since mass is always conserved",
+              "Slightly greater, since energy is absorbed",
+              "Slightly less, since some mass is converted to released energy",
+              "Always doubled due to the splitting process"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Why do scientists study the effects of black holes on nearby stars and matter?",
-            "options": [
-              "This concept has no relevance to science",
-              "Black holes have no measurable effect on their surroundings",
-              "Nearby stars are never affected in any way by a black hole",
-              "Observing these effects can provide indirect evidence about black holes since they cannot be seen directly"
-            ],
-            "answer": 3
+            "answer": 2
           }
         ]
       }
@@ -41887,58 +41861,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Science: Epidemiology: Tracking the Spread of Disease",
-        "summary": "Grade 8 Science strand: epidemiology is the study of how diseases spread through populations, helping scientists identify patterns, causes, and effective ways to control outbreaks.",
-        "resourceLabel": "YouTube: Science: Epidemiology: Tracking the Spread of Disease",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Epidemiology%3A%20Tracking%20the%20Spread%20of%20Disease%20grade%2012%20educational",
+        "title": "Electromagnetic Waves and the Electromagnetic Spectrum",
+        "summary": "Students learn that electromagnetic waves consist of oscillating electric and magnetic fields perpendicular to each other and to the direction of travel, and that all such waves travel at the speed of light in a vacuum. They apply the relationship c = fλ to classify and compare radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays across the electromagnetic spectrum.",
+        "resourceLabel": "YouTube: Electromagnetic Waves and the Electromagnetic Spectrum",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electromagnetic%20Waves%20and%20the%20Electromagnetic%20Spectrum%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does epidemiology study?",
+            "q": "In an electromagnetic wave, the electric and magnetic field oscillations are oriented:",
             "options": [
-              "How rocks form over millions of years",
-              "How plants convert sunlight into food",
-              "A concept unrelated to science",
-              "How diseases spread through populations"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Can epidemiology help scientists identify patterns in how a disease spreads?",
-            "options": [
-              "No, epidemiology has no connection to identifying patterns",
-              "Yes",
-              "Diseases never spread in any identifiable pattern",
-              "A concept unrelated to epidemiology"
+              "Parallel to each other and to the direction of travel",
+              "Perpendicular to each other and to the direction of travel",
+              "Parallel to each other but perpendicular to the direction of travel",
+              "Randomly oriented with no fixed relationship"
             ],
             "answer": 1
           },
           {
-            "q": "Does epidemiology help find effective ways to control disease outbreaks?",
+            "q": "All electromagnetic waves travel through a vacuum at:",
             "options": [
-              "A concept unrelated to epidemiology",
-              "No, epidemiology has no connection to controlling outbreaks",
-              "Yes",
-              "Outbreaks can never be controlled in any way"
+              "Speeds that depend on their frequency",
+              "The same speed, approximately 3.0 × 10⁸ m/s",
+              "Speeds that depend on their wavelength only",
+              "Speeds that decrease as energy increases"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why might epidemiologists track how quickly a disease spreads from person to person?",
+            "q": "A radio wave has a frequency of 1.0 × 10⁶ Hz. What is its wavelength? (c = 3.0 × 10⁸ m/s)",
             "options": [
-              "This concept has no connection to epidemiology",
-              "Diseases always spread at the exact same rate in every situation",
-              "Tracking disease spread never provides any useful information",
-              "This information helps predict future spread and guide public health responses"
+              "3.0 × 10² m",
+              "3.0 × 10¹⁴ m",
+              "3.3 × 10⁻³ m",
+              "3.0 × 10⁻² m"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why is epidemiology considered an important field during a public health emergency?",
+            "q": "Ranking regions of the electromagnetic spectrum from lowest to highest energy per photon, the correct order is:",
             "options": [
-              "Epidemiology has no relevance during a public health emergency",
-              "It provides critical data to help guide decisions that protect public health",
-              "Public health emergencies never require any scientific data",
-              "This concept has no relevance to science"
+              "Gamma rays, X-rays, visible light, radio waves",
+              "Radio waves, infrared, visible light, gamma rays",
+              "Visible light, radio waves, ultraviolet, X-rays",
+              "X-rays, gamma rays, radio waves, infrared"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Compared to a wave of shorter wavelength, an electromagnetic wave of longer wavelength (in vacuum) has:",
+            "options": [
+              "Higher frequency and higher photon energy",
+              "Lower frequency and lower photon energy",
+              "The same frequency but higher energy",
+              "Higher frequency but lower energy"
             ],
             "answer": 1
           }
@@ -42130,58 +42104,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Rotation, Fields, Optics, and Quantum Confinement",
-        "summary": "Grade 12 Physics review: revisiting gyroscopic precession, rolling without slipping, the Poynting vector, LC circuits, and polarization and Malus law from Days 161-165.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Physics Review: Rotation, Induction, and Cosmic Scales",
+        "summary": "This review covers Days 161-169, revisiting gyroscopic precession, rolling without slipping, electromagnetic induction, polarization of light and Malus's Law, mass-energy equivalence and nuclear binding energy, exoplanet detection methods, Olbers' Paradox, and electromagnetic waves and the electromagnetic spectrum.",
+        "resourceLabel": "YouTube: Physics Review: Rotation, Induction, and Cosmic Scales",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Rotation%2C%20Induction%2C%20and%20Cosmic%20Scales%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What is gyroscopic precession?",
+            "q": "Gyroscopic precession refers to:",
             "options": [
-              "The instant collapse of a spinning object the moment any torque is applied",
-              "A spinning objects tendency to speed up indefinitely with no external influence",
-              "The complete absence of any motion in a spinning object",
-              "The slow sweeping of a spinning objects axis in a cone shape under an external torque"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What condition defines rolling without slipping?",
-            "options": [
-              "The object slides freely with no rotation at all",
-              "The point of contact between the object and the surface has zero relative velocity",
-              "The object spins in place with no translational motion whatsoever",
-              "The surface and the object never make contact"
+              "The slowing down of a spinning gyroscope due to friction",
+              "The slow rotation of a spinning object's axis in response to an applied torque",
+              "The wobble of a top just before it falls over completely",
+              "The increase in angular momentum with temperature"
             ],
             "answer": 1
           },
           {
-            "q": "What does the Poynting vector describe about an electromagnetic wave?",
+            "q": "Faraday's Law of electromagnetic induction states that an induced EMF is produced by:",
             "options": [
-              "The temperature of the medium the wave travels through",
-              "The direction and rate of energy flow it carries",
-              "The mass of the particles composing the wave",
-              "The exact colour of the light involved"
+              "A constant magnetic field passing through a stationary loop",
+              "A changing magnetic flux through a circuit",
+              "A steady current flowing through a straight wire",
+              "Any electric charge at rest"
             ],
             "answer": 1
           },
           {
-            "q": "What two components make up a basic LC circuit?",
+            "q": "Malus's Law describes how the intensity of polarized light changes when passed through a polarizer as a function of:",
             "options": [
-              "An inductor and a capacitor",
-              "Two capacitors with no inductor at all",
-              "Only two resistors with no other components",
-              "A battery and a light bulb only"
+              "The wavelength of the light",
+              "The distance travelled by the light",
+              "The angle between the light's polarization and the polarizer's axis",
+              "The temperature of the polarizing material"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A common method for detecting exoplanets involves:",
+            "options": [
+              "Measuring the periodic dimming of a star's light as a planet transits it",
+              "Directly photographing the planet's surface features",
+              "Detecting the planet's own radio broadcasts",
+              "Measuring the planet's magnetic field from Earth"
             ],
             "answer": 0
           },
           {
-            "q": "What does the polarization of a light wave describe?",
+            "q": "Olbers' Paradox asks why, if the universe is infinite and unchanging, the night sky is:",
             "options": [
-              "The exact colour or wavelength of the light",
-              "The orientation of the oscillations of the waves electric field",
-              "The total energy carried by the light wave",
-              "The speed at which the light wave travels through a vacuum"
+              "Uniformly red instead of black",
+              "Dark rather than uniformly bright",
+              "Filled with only visible stars and no galaxies",
+              "Brighter during a new moon"
             ],
             "answer": 1
           }
@@ -43110,60 +43084,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Science: Epidemiology and Disease Modelling",
-        "summary": "Grade 9 Science strand: epidemiology studies how diseases spread through populations, using mathematical models to predict outbreaks and help guide effective public health responses.",
-        "resourceLabel": "YouTube: Science: Epidemiology and Disease Modelling",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Epidemiology%20and%20Disease%20Modelling%20grade%2012%20educational",
+        "title": "Diffraction of Light Through a Single Slit",
+        "summary": "Students learn how light spreads out and forms a characteristic pattern of bright and dark fringes when it passes through a narrow single slit, a result of the wave nature of light. They apply the single-slit diffraction minima equation, a sinθ = mλ, to calculate the positions of dark fringes and relate slit width to the width of the central maximum.",
+        "resourceLabel": "YouTube: Diffraction of Light Through a Single Slit",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Diffraction%20of%20Light%20Through%20a%20Single%20Slit%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does epidemiology study?",
+            "q": "Single-slit diffraction produces a pattern on a screen that is characterized by:",
             "options": [
-              "How diseases spread through populations",
-              "How plants convert sunlight into food",
-              "How rocks form over millions of years",
-              "A concept unrelated to science"
+              "Evenly spaced bright fringes of equal intensity",
+              "A wide, bright central maximum with progressively dimmer fringes on either side",
+              "A single sharp line of light with no spreading",
+              "Complete darkness except at the exact centre"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The equation for the dark fringes (minima) in single-slit diffraction is:",
+            "options": [
+              "a sinθ = mλ",
+              "d sinθ = mλ",
+              "a sinθ = (m + ½)λ",
+              "λ = a/d"
             ],
             "answer": 0
           },
           {
-            "q": "Do epidemiologists use mathematical models to predict outbreaks?",
+            "q": "A slit of width 0.020 mm is illuminated with light of wavelength 600 nm. At what angle does the first dark fringe (m = 1) occur? (sinθ = mλ/a)",
             "options": [
-              "Yes",
-              "No, epidemiology never uses any mathematical models",
-              "A concept unrelated to epidemiology",
-              "Disease outbreaks can never be predicted in any way"
+              "0.030°",
+              "1.7°",
+              "0.017°",
+              "3.0°"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Can disease modelling help guide effective public health responses?",
+            "q": "If the width of a single slit is decreased while wavelength stays constant, the central diffraction maximum:",
             "options": [
-              "Yes",
-              "A concept unrelated to epidemiology",
-              "Public health responses never rely on any scientific modelling",
-              "No, disease modelling has no connection to public health decisions"
+              "Becomes narrower",
+              "Becomes wider",
+              "Disappears completely",
+              "Stays exactly the same width"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why might epidemiologists track how quickly a disease spreads from person to person?",
+            "q": "Diffraction effects become most noticeable when:",
             "options": [
-              "This concept has no connection to epidemiology",
-              "Diseases always spread at the exact same rate in every situation",
-              "Tracking disease spread never provides any useful information",
-              "This information helps predict future spread and guide public health responses"
+              "The wavelength of light is much smaller than the slit width",
+              "The wavelength of light is comparable to or larger than the slit width",
+              "The slit width is extremely large compared to the wavelength",
+              "The light source is monochromatic but very dim"
             ],
-            "answer": 3
-          },
-          {
-            "q": "Why is epidemiology considered an important field during a public health emergency?",
-            "options": [
-              "This concept has no relevance to science",
-              "Public health emergencies never require any scientific data",
-              "It provides critical data to help guide decisions that protect public health",
-              "Epidemiology has no relevance during a public health emergency"
-            ],
-            "answer": 2
+            "answer": 1
           }
         ]
       }
@@ -43597,75 +43571,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Review: Physics, Biology, and Emerging Science (Days 81-89)",
-        "summary": "Grade 9 Science strand review: students revisit epigenetics, superconductivity, coral reef bleaching, quantum mechanics, immunology, bioplastics, black holes, epidemiology, and battery technology.",
-        "resourceLabel": "YouTube: Review: Physics, Biology, and Emerging Science (Days 81-89)",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Physics%2C%20Biology%2C%20and%20Emerging%20Science%20%28Days%2081-89%29%20grade%2012%20educational",
+        "title": "Physics Review: Frames, Momentum, and Circuits",
+        "summary": "This review covers Days 171-175, revisiting non-inertial reference frames and pseudo-forces, conservation of momentum in explosions, series and parallel circuits with Ohm's Law, diffraction of light through a single slit, and lens aberrations.",
+        "resourceLabel": "YouTube: Physics Review: Frames, Momentum, and Circuits",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Frames%2C%20Momentum%2C%20and%20Circuits%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What does epigenetics study?",
+            "q": "A pseudo-force (such as the centrifugal force) appears to act on an object only when observed from:",
             "options": [
-              "How DNA sequences are physically rewritten",
-              "A concept unrelated to biology",
-              "How environmental factors influence whether genes are turned on or off",
-              "How cells divide during mitosis"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What can rising ocean temperatures cause in coral reefs?",
-            "options": [
-              "Increased coral growth with no negative effects",
-              "Coral bleaching",
-              "No change of any kind",
-              "A concept unrelated to coral reefs"
+              "Any inertial reference frame",
+              "A non-inertial (accelerating or rotating) reference frame",
+              "A frame at absolute rest",
+              "A frame moving at constant velocity"
             ],
             "answer": 1
           },
           {
-            "q": "What does quantum mechanics study?",
+            "q": "During an explosion where an object breaks into fragments, which quantity is conserved (assuming no external forces)?",
             "options": [
-              "The behaviour of extremely small particles",
-              "A concept unrelated to physics",
-              "The behaviour of extremely large objects only",
-              "Only objects visible to the naked eye"
+              "Kinetic energy",
+              "Total momentum",
+              "Individual masses of each fragment separately",
+              "Potential energy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a series circuit, the current through each resistor is:",
+            "options": [
+              "Divided unequally based on resistor size",
+              "The same through every component",
+              "Zero unless a switch is closed at each resistor",
+              "Dependent on the order of the resistors"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Diffraction of light through a single slit produces a pattern characterized by:",
+            "options": [
+              "A single sharp bright line with no spreading",
+              "A central bright maximum flanked by dimmer fringes",
+              "Complete darkness at the centre",
+              "Equally bright fringes across the entire pattern"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Chromatic aberration in a lens occurs because:",
+            "options": [
+              "Different wavelengths of light refract by different amounts, focusing at different points",
+              "The lens surface is not perfectly spherical",
+              "The lens absorbs all colours except one",
+              "Light reflects instead of refracting through the lens"
             ],
             "answer": 0
-          },
-          {
-            "q": "Which scientific theory helps explain the existence of black holes?",
-            "options": [
-              "The theory of evolution",
-              "A concept unrelated to black holes",
-              "Einstein’s theory of general relativity",
-              "The germ theory of disease"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What type of energy do batteries store?",
-            "options": [
-              "Chemical energy",
-              "A concept unrelated to batteries",
-              "Only sound energy",
-              "Only light energy"
-            ],
-            "answer": 0
-          }
-        ],
-        "videoUrl": "https://www.youtube.com/watch?v=pkzY7QfTowM",
-        "videoUrls": [
-          {
-            "label": "Electromagnetism",
-            "url": "https://www.youtube.com/watch?v=pkzY7QfTowM"
-          },
-          {
-            "label": "Organic Chemistry",
-            "url": "https://www.youtube.com/watch?v=ULiLt2rtpAg"
-          },
-          {
-            "label": "Life Cycle of Stars",
-            "url": "https://www.youtube.com/watch?v=PM9CQDlQI0A"
           }
         ]
       }
@@ -44102,60 +44061,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Chemistry: The Ideal Gas Law",
-        "summary": "Grade 10 Science strand: the ideal gas law, PV equals nRT, relates a gas’s pressure, volume, amount, and temperature, extending the individual gas laws into a single combined relationship.",
-        "resourceLabel": "YouTube: Chemistry: The Ideal Gas Law",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20The%20Ideal%20Gas%20Law%20grade%2012%20educational",
+        "title": "The Compton Effect: Photon-Electron Scattering and Conservation of Momentum",
+        "summary": "Students learn that when a photon scatters off a loosely bound electron, both energy and momentum are conserved, causing the scattered photon to have a longer wavelength than the incident photon, a result explainable only by treating light as a particle. They apply the Compton shift equation to calculate the change in wavelength as a function of scattering angle.",
+        "resourceLabel": "YouTube: The Compton Effect: Photon-Electron Scattering and Conservation of Momentum",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Compton%20Effect%3A%20Photon-Electron%20Scattering%20and%20Conservation%20of%20Momentum%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What four quantities does the ideal gas law relate?",
+            "q": "In the Compton effect, when a photon scatters off an electron, the scattered photon's wavelength compared to the incident photon's wavelength is:",
             "options": [
-              "Only mass and colour",
-              "Pressure, volume, amount of gas, and temperature",
-              "Only the size and shape of the container",
-              "A concept unrelated to chemistry"
+              "Always shorter, since the photon loses momentum",
+              "Always longer, since the photon transfers energy to the electron",
+              "Always identical, since photons cannot lose energy",
+              "Shorter or longer depending only on the electron's initial speed"
             ],
             "answer": 1
           },
           {
-            "q": "What does the letter R represent in the ideal gas law equation?",
+            "q": "The Compton effect provided strong evidence for which idea?",
             "options": [
-              "The universal gas constant",
-              "The exact temperature of the gas",
-              "The mass of the gas sample",
-              "A concept unrelated to the ideal gas law"
+              "Light behaves purely as a continuous wave",
+              "Light can behave as a particle carrying momentum",
+              "Electrons have no measurable momentum",
+              "Energy is not conserved in atomic-scale collisions"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Does the ideal gas law combine relationships found in the individual gas laws, like Boyle’s and Charles’s laws?",
+            "q": "The Compton shift equation shows that the change in wavelength depends on:",
             "options": [
-              "No, the ideal gas law has no connection to the individual gas laws",
-              "A concept unrelated to the ideal gas law",
-              "Yes",
-              "The individual gas laws are completely unrelated to pressure, volume, or temperature"
+              "The scattering angle only, not any physical constants",
+              "The scattering angle and the electron's rest mass",
+              "The incident photon's wavelength only",
+              "The electron's charge and the photon's frequency"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to the Compton shift formula, the maximum wavelength shift occurs when the photon scatters at an angle of:",
+            "options": [
+              "0°",
+              "90°",
+              "180°",
+              "45°"
             ],
             "answer": 2
           },
           {
-            "q": "Why is the ideal gas law considered more broadly useful than any single individual gas law on its own?",
+            "q": "During Compton scattering, the quantities conserved in the photon-electron interaction are:",
             "options": [
-              "The ideal gas law is never more useful than the individual gas laws",
-              "This concept has no connection to chemistry",
-              "The ideal gas law can only be applied when every variable is already known",
-              "It allows multiple variables to be related and solved for at once, rather than holding all but two quantities constant"
+              "Only momentum, since photons have no defined energy",
+              "Only energy, since photons have no mass",
+              "Both total energy and total momentum",
+              "Neither energy nor momentum, since the electron is initially free"
             ],
-            "answer": 3
-          },
-          {
-            "q": "Why might real gases behave slightly differently from what the ideal gas law predicts under very high pressure or low temperature?",
-            "options": [
-              "This concept has no relevance to chemistry",
-              "Real gas particles have volume and intermolecular forces that the ideal gas law’s simplified assumptions do not fully account for",
-              "Real gases always behave in exactly the same way the ideal gas law predicts under every condition",
-              "Pressure and temperature never have any effect on how closely a gas follows the ideal gas law"
-            ],
-            "answer": 1
+            "answer": 2
           }
         ]
       }
@@ -44591,63 +44550,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: Reference Frames, Circuits, and Optical Systems",
-        "summary": "Grade 12 Physics review: revisiting non-inertial reference frames, variable mass systems and the rocket equation, RLC circuits, Maxwells equations, and lens aberrations from Days 171-175.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Physics Review: Stars, Photons, and Molecular Charge",
+        "summary": "This review covers Days 177-179, revisiting stellar nucleosynthesis, the Compton Effect, and the electric dipole and dipole moment.",
+        "resourceLabel": "YouTube: Physics Review: Stars, Photons, and Molecular Charge",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Stars%2C%20Photons%2C%20and%20Molecular%20Charge%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What defines a non-inertial reference frame?",
+            "q": "Stellar nucleosynthesis refers to the process by which:",
             "options": [
-              "It is a reference frame with no relationship to acceleration of any kind",
-              "It is a reference frame that is always perfectly stationary",
-              "It is a reference frame that is accelerating or rotating",
-              "It is a reference frame moving at a constant velocity with no acceleration"
+              "Elements are created through nuclear fusion inside stars",
+              "Stars form from collapsing dust and gas clouds",
+              "Stars lose mass through solar wind",
+              "Black holes evaporate over time"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "What kind of physical system does the rocket equation describe?",
+            "q": "In stellar nucleosynthesis, elements heavier than iron are primarily produced during:",
             "options": [
-              "A system consisting of a single point mass with no fuel or propulsion",
-              "A system with no motion of any kind",
-              "A variable mass system, such as a rocket expelling burned fuel",
-              "A system with a perfectly constant, unchanging total mass"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What three components make up an RLC circuit?",
-            "options": [
-              "Two capacitors and a single wire with no resistor or inductor",
-              "A resistor, an inductor, and a capacitor",
-              "Only two resistors and no other component",
-              "A battery and a light bulb with no resistor, inductor, or capacitor"
+              "Normal hydrogen fusion in a star's core",
+              "Supernova explosions and neutron star mergers",
+              "The formation of a protostar",
+              "Planetary formation around the star"
             ],
             "answer": 1
           },
           {
-            "q": "How many fundamental equations make up the set known as Maxwells equations?",
+            "q": "The Compton Effect demonstrates that photons:",
             "options": [
-              "Ten",
-              "A number that changes depending on the material being studied",
-              "One",
-              "Four"
+              "Have no momentum and cannot collide with particles",
+              "Always travel in straight lines regardless of matter",
+              "Can scatter off electrons, losing energy and increasing in wavelength",
+              "Are completely absorbed whenever they strike an electron"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An electric dipole consists of:",
+            "options": [
+              "A single isolated charge at rest",
+              "Two equal and opposite charges separated by a small distance",
+              "A charge moving in a circular path",
+              "Two identical positive charges near each other"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The dipole moment of an electric dipole is a vector that points:",
+            "options": [
+              "From the positive charge toward the negative charge",
+              "Perpendicular to the line joining the two charges",
+              "In the direction of the external electric field only",
+              "From the negative charge toward the positive charge"
             ],
             "answer": 3
-          },
-          {
-            "q": "What is a lens aberration, in general terms?",
-            "options": [
-              "A term describing a lens that has no optical properties at all",
-              "A deviation from perfect image formation by a lens",
-              "A deviation that only affects the colour of the lens itself, with no effect on any image",
-              "A property that only appears in lenses with no curvature whatsoever"
-            ],
-            "answer": 1
           }
-        ],
-        "videoUrl": "https://www.youtube.com/watch?v=pkzY7QfTowM"
+        ]
       }
     ]
   },
@@ -45572,60 +45530,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Biology: Protein Synthesis",
-        "summary": "Grade 10 Science strand: protein synthesis occurs through transcription, where DNA is copied into messenger RNA, and translation, where that RNA is used to assemble a specific sequence of amino acids into a protein.",
-        "resourceLabel": "YouTube: Biology: Protein Synthesis",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Protein%20Synthesis%20grade%2012%20educational",
+        "title": "Standard Model Basics: Quarks, Leptons, and the Four Fundamental Forces",
+        "summary": "Students learn that all known matter is built from two families of fundamental particles, quarks and leptons, and that particle interactions are governed by four fundamental forces: gravity, electromagnetism, the strong nuclear force, and the weak nuclear force. They compare the relative strengths and ranges of these forces and identify which particles and force carriers are involved in familiar processes such as beta decay.",
+        "resourceLabel": "YouTube: Standard Model Basics: Quarks, Leptons, and the Four Fundamental Forces",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Standard%20Model%20Basics%3A%20Quarks%2C%20Leptons%2C%20and%20the%20Four%20Fundamental%20Forces%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "What are the two main stages of protein synthesis?",
+            "q": "According to the Standard Model, protons and neutrons are composed of:",
             "options": [
-              "Digestion and absorption",
-              "Transcription and translation",
-              "A concept unrelated to biology",
-              "Mitosis and meiosis"
+              "Leptons bound together by the weak force",
+              "Quarks bound together by the strong force",
+              "Photons bound together by electromagnetism",
+              "Electrons and neutrinos combined"
             ],
             "answer": 1
           },
           {
-            "q": "What happens during transcription?",
+            "q": "Which of the following is classified as a lepton?",
             "options": [
-              "A cell divides into two identical cells",
-              "DNA is copied into messenger RNA",
-              "A concept unrelated to protein synthesis",
-              "A protein is broken down into amino acids"
+              "Up quark",
+              "Proton",
+              "Electron",
+              "Neutron"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Does translation involve assembling amino acids into a protein based on an RNA sequence?",
+            "q": "Ranking the four fundamental forces from strongest to weakest at the scale of a nucleus, the correct order is:",
             "options": [
-              "Amino acids are assembled with no connection to RNA at all",
-              "Yes",
-              "A concept unrelated to translation",
-              "No, translation never involves assembling amino acids"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is the order of amino acids assembled during translation so important to a protein’s final function?",
-            "options": [
-              "Proteins function identically regardless of their amino acid sequence",
-              "The order of amino acids never has any effect on how a protein functions",
-              "This concept has no connection to biology",
-              "The specific sequence determines how the protein folds and functions, so errors can disrupt that function"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is understanding protein synthesis important for understanding how genetic mutations can affect an organism?",
-            "options": [
-              "A mutation in DNA can change the RNA sequence and ultimately the protein produced, potentially altering its function",
-              "Proteins are produced identically regardless of any change in the underlying DNA",
-              "Genetic mutations never have any connection to protein synthesis",
-              "This concept has no relevance to biology"
+              "Strong, electromagnetic, weak, gravity",
+              "Gravity, weak, electromagnetic, strong",
+              "Electromagnetic, strong, gravity, weak",
+              "Weak, strong, gravity, electromagnetic"
             ],
             "answer": 0
+          },
+          {
+            "q": "The force responsible for holding protons and neutrons together inside the nucleus, overcoming electromagnetic repulsion between protons, is the:",
+            "options": [
+              "Weak nuclear force",
+              "Gravitational force",
+              "Strong nuclear force",
+              "Electromagnetic force"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In beta decay, a neutron transforms into a proton, an electron, and an antineutrino. This process is governed by the:",
+            "options": [
+              "Strong nuclear force",
+              "Weak nuclear force",
+              "Force of gravity",
+              "Electromagnetic force"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -46305,58 +46263,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics Review: The Capstone Survey of Orbits, Fields, Optics, and the Cosmos",
-        "summary": "Grade 12 Physics review: revisiting Keplers laws, Gauss law, Youngs double-slit experiment, quantum decoherence, and Hubbles law from Days 181-185 -- the final Physics review of the complete 187-day Grade 12 curriculum, and the very last lesson of the full K-12 curriculum build for this grade.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Physics Review: Gravity, Fields, and the Structure of the Universe",
+        "summary": "This is the final review of the complete Grade 12 Physics course, covering Days 181-186 and revisiting Kepler's Laws of planetary motion, the electric field and electric potential of a point charge, Young's Double-Slit Experiment, Standard Model basics (quarks, leptons, and the four fundamental forces), Hubble's Law and the expanding universe, and crystal structures and unit cells.",
+        "resourceLabel": "YouTube: Physics Review: Gravity, Fields, and the Structure of the Universe",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20Review%3A%20Gravity%2C%20Fields%2C%20and%20the%20Structure%20of%20the%20Universe%20grade%2012%20physics%20educational",
         "quiz": [
           {
-            "q": "According to Keplers first law, what shape does a planets orbit take, and where is the Sun located?",
+            "q": "Kepler's Second Law states that a planet orbiting the Sun sweeps out:",
             "options": [
-              "A perfect circle, with the Sun at its exact centre",
-              "A straight line passing directly through the Sun",
-              "A shape with no defined geometric form at all",
-              "An ellipse, with the Sun at one focus"
+              "Equal areas in equal times",
+              "Equal distances in equal times",
+              "A perfectly circular path at all times",
+              "Increasing speed as it moves farther from the Sun"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What does Gauss law relate the total electric flux through a closed surface to?",
+            "q": "The electric potential due to a point charge decreases with distance according to which relationship?",
             "options": [
-              "The total surface area of the enclosing shape alone",
-              "The distance of the surface from the nearest magnet",
-              "The net electric charge enclosed within that surface",
-              "The colour and material of the surface itself"
+              "Directly proportional to distance squared",
+              "Inversely proportional to distance",
+              "Directly proportional to distance",
+              "Independent of distance"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What experimental setup does Youngs double-slit experiment use?",
+            "q": "Young's Double-Slit Experiment provided key evidence for:",
             "options": [
-              "A solid opaque barrier with no opening of any kind",
-              "Light reflected from a single flat mirror with no slits involved",
-              "Light passed through two closely spaced narrow slits",
-              "A single wide opening with no second slit present"
+              "The particle nature of light exclusively",
+              "The wave nature of light, through observed interference patterns",
+              "The existence of the photoelectric effect",
+              "The quantization of electron energy levels"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What does quantum decoherence describe happening to the superposition of states in a quantum system?",
+            "q": "In the Standard Model, quarks and leptons are classified as:",
             "options": [
-              "It becomes permanently stronger the longer the system is left undisturbed",
-              "It instantly disappears the moment a quantum system is first created",
-              "It has no relationship to any interaction with the surrounding environment",
-              "It becomes effectively lost through unavoidable interaction with the surrounding environment"
+              "Composite particles made of smaller subunits",
+              "Fundamental particles that make up matter",
+              "Force-carrying particles only",
+              "Types of nuclear radiation"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What quantity does Hubbles law relate to a distant galaxys distance from an observer?",
+            "q": "Hubble's Law relates a galaxy's recession velocity to its:",
             "options": [
-              "Its total mass compared to the observers galaxy",
-              "Its recession speed, inferred from the redshift of its light",
-              "Its exact chemical composition",
-              "Its surface temperature measured directly"
+              "Mass",
+              "Distance from the observer",
+              "Rotational speed",
+              "Surface temperature"
             ],
             "answer": 1
           }
@@ -53913,6 +53871,7 @@ const curriculum: DayContent[] = [
     ]
   }
 ]
+
 
 ;
 
