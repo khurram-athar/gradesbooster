@@ -3019,6 +3019,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 1 Social Studies strand B: students describe the roles of community helpers including firefighters, police, medical workers, and educators.",
         "resourceLabel": "YouTube: Community Helpers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Community%20Helpers%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2lc-aMgEJpQ",
         "quiz": [
           {
             "q": "Who helps put out fires?",
@@ -3644,6 +3645,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 1 Data strand: a pictograph uses pictures or symbols to represent data. A key shows what each symbol means.",
         "resourceLabel": "YouTube: Data: Pictographs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Pictographs%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=V4vijfX-3u0",
         "quiz": [
           {
             "q": "In a pictograph, each picture represents ___.",

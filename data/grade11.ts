@@ -3565,6 +3565,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise comprehensive problem-solving across all Grade 11 Functions topics.",
         "resourceLabel": "YouTube: Functions: Final Exam Preparation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Final%20Exam%20Preparation%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=A9peFTbopxY",
         "quiz": [
           {
             "q": "Solve: 2ˣ = 128",
@@ -3685,6 +3686,7 @@ const curriculum: DayContent[] = [
         "summary": "Students review key concepts across all Grade 11 Chemistry strands.",
         "resourceLabel": "YouTube: Chemistry: Final Exam Preparation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Final%20Exam%20Preparation%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cv3U2K_ES3g",
         "quiz": [
           {
             "q": "A reaction with ΔH = −200 kJ is ___.",
@@ -4310,6 +4312,7 @@ const curriculum: DayContent[] = [
         "summary": "Students investigate recursive sequences and their connection to explicit formulas, with applications including the Fibonacci sequence and financial modelling.",
         "resourceLabel": "YouTube: Discrete Functions: Patterns and Recursion",
         "resourceUrl": "https://www.youtube.com/results?search_query=Discrete%20Functions%3A%20Patterns%20and%20Recursion%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KRFiAlo7t1E",
         "quiz": [
           {
             "q": "A recursive sequence is defined by ___.",

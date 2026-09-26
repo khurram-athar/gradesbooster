@@ -1402,6 +1402,7 @@ const curriculum: DayContent[] = [
         "summary": "Pure substances have characteristic properties like melting point, boiling point, and density that can be used to identify them.",
         "resourceLabel": "YouTube: Properties of Pure Substances",
         "resourceUrl": "https://www.youtube.com/results?search_query=Properties%20of%20Pure%20Substances%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GI124g9BOzU",
         "quiz": [
           {
             "q": "Melting point is a property that helps...",
@@ -4445,6 +4446,7 @@ const curriculum: DayContent[] = [
         "summary": "The world is divided into climate regions (such as tropical, arid, temperate, and polar) based on temperature and precipitation patterns.",
         "resourceLabel": "YouTube: Climate Regions of the World",
         "resourceUrl": "https://www.youtube.com/results?search_query=Climate%20Regions%20of%20the%20World%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=DciQF8eD71E",
         "quiz": [
           {
             "q": "Climate regions are classified mainly based on...",

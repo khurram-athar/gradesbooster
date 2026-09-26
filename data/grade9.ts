@@ -817,6 +817,7 @@ const curriculum: DayContent[] = [
         "summary": "Graph linear relations using a table of values, slope, and y-intercept (MTH1W Algebra/Linear Relations strand).",
         "resourceLabel": "YouTube: Graphing Linear Relations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Graphing%20Linear%20Relations%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=r7USWiTmQdM",
         "quiz": [
           {
             "q": "In y = mx + b, what does 'b' represent?",
@@ -1313,6 +1314,7 @@ const curriculum: DayContent[] = [
         "summary": "Solve simple systems of two linear equations by graphing or substitution (MTH1W Algebra strand).",
         "resourceLabel": "YouTube: Systems of Linear Equations (Intro)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Systems%20of%20Linear%20Equations%20%28Intro%29%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SoVUECpWkKc",
         "quiz": [
           {
             "q": "A system of linear equations can be solved by...",
@@ -3425,6 +3427,7 @@ const curriculum: DayContent[] = [
         "summary": "Examine the distribution of fresh water globally, the concept of water scarcity, and geographic factors affecting water access (CGC1W).",
         "resourceLabel": "YouTube: Global Water Resources and Access Issues",
         "resourceUrl": "https://www.youtube.com/results?search_query=Global%20Water%20Resources%20and%20Access%20Issues%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IPU0S4XQGaU",
         "quiz": [
           {
             "q": "Approximately what percentage of Earth's water is fresh water?",
@@ -4165,6 +4168,7 @@ const curriculum: DayContent[] = [
         "summary": "Classify chemical reactions as synthesis, decomposition, single displacement, or double displacement, and identify examples of each (SNC1W Chemistry strand).",
         "resourceLabel": "YouTube: Types of Chemical Reactions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Types%20of%20Chemical%20Reactions%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WWJQpuv9ElE",
         "quiz": [
           {
             "q": "In a synthesis reaction...",

@@ -759,6 +759,7 @@ const curriculum: DayContent[] = [
         "summary": "Students plan and write a 1000+ word critical essay on a literary text, meeting university standards for argument, evidence, and analysis.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
+        "videoUrl": "https://www.youtube.com/watch?v=olgDaGLZXx8",
         "quiz": [
           {
             "q": "University literary essays are evaluated primarily on ___.",
@@ -1876,6 +1877,7 @@ const curriculum: DayContent[] = [
         "summary": "Practice applying the power rule to expressions with negative and fractional exponents, including rewriting radicals and reciprocals in exponent form before differentiating.",
         "resourceLabel": "YouTube: Derivatives: The Power Rule with Negative and Fractional Exponents",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20The%20Power%20Rule%20with%20Negative%20and%20Fractional%20Exponents%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=bMQOtSnNObE",
         "quiz": [
           {
             "q": "What is the derivative of f(x) = x^-3?",
@@ -2124,6 +2126,7 @@ const curriculum: DayContent[] = [
         "summary": "Learn to apply the product rule to differentiate products of two functions, including combinations of polynomials and trigonometric functions like sin x and cos x.",
         "resourceLabel": "YouTube: Derivatives: The Product Rule Applied to Polynomial and Trigonometric Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20The%20Product%20Rule%20Applied%20to%20Polynomial%20and%20Trigonometric%20Functions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=17X5g9QArTc",
         "quiz": [
           {
             "q": "What is the product rule for differentiating y = f(x)g(x)?",
@@ -2618,6 +2621,7 @@ const curriculum: DayContent[] = [
         "summary": "Learn to differentiate composite exponential functions such as e^(g(x)) and a^(g(x)) by combining the chain rule with the rules for differentiating exponentials.",
         "resourceLabel": "YouTube: Derivatives: The Chain Rule with Composite Exponential Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20The%20Chain%20Rule%20with%20Composite%20Exponential%20Functions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=L1WkNuYYyM4",
         "quiz": [
           {
             "q": "What is d/dx[e^(3x)]?",
@@ -2865,6 +2869,7 @@ const curriculum: DayContent[] = [
         "summary": "Practice differentiating composite trigonometric functions like sin(g(x)) and cos(g(x)) by pairing the chain rule with trig derivative rules.",
         "resourceLabel": "YouTube: Derivatives: The Chain Rule with Composite Trigonometric Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20The%20Chain%20Rule%20with%20Composite%20Trigonometric%20Functions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gl7HxB1WTLM",
         "quiz": [
           {
             "q": "Differentiate y = sin(4x).",
@@ -3051,6 +3056,7 @@ const curriculum: DayContent[] = [
         "summary": "Students apply all function families to real-world data — choosing, fitting, and interpreting mathematical models.",
         "resourceLabel": "Khan Academy: Mathematical Modeling",
         "resourceUrl": "https://www.youtube.com/watch?v=A3M9Ksxrd9c",
+        "videoUrl": "https://www.youtube.com/watch?v=x08fgxixyCY",
         "quiz": [
           {
             "q": "When data shows exponential growth that eventually levels off, the best model is ___.",
@@ -3110,6 +3116,7 @@ const curriculum: DayContent[] = [
         "summary": "Learn to differentiate composite logarithmic functions like ln(g(x)) using the chain rule, where the derivative is the inner function's derivative divided by the inner function itself.",
         "resourceLabel": "YouTube: Derivatives: Differentiating Composite Logarithmic Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20Differentiating%20Composite%20Logarithmic%20Functions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nE_IPKGWqt4",
         "quiz": [
           {
             "q": "What is d/dx[ln(x)]?",
@@ -3356,6 +3363,7 @@ const curriculum: DayContent[] = [
         "summary": "A review day combining multiple layers of the chain rule -- and sometimes the product or quotient rule -- within a single, more complex function.",
         "resourceLabel": "YouTube: Derivatives: Multiple Applications of the Chain Rule in One Function",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20Multiple%20Applications%20of%20the%20Chain%20Rule%20in%20One%20Function%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LMQrRgTXQYE",
         "quiz": [
           {
             "q": "Differentiate y = sin(x^3).",
@@ -3602,6 +3610,7 @@ const curriculum: DayContent[] = [
         "summary": "Students review how the derivative represents an instantaneous rate of change and connect this idea across the different function types studied this year.",
         "resourceLabel": "YouTube: Derivatives and Rates of Change: A Year-End Review",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%20and%20Rates%20of%20Change%3A%20A%20Year-End%20Review%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=q082eMlXI3Q",
         "quiz": [
           {
             "q": "The derivative of a function at a point represents ___.",
@@ -3848,6 +3857,7 @@ const curriculum: DayContent[] = [
         "summary": "Students solve multi-step related rates problems in geometry, physics, and engineering contexts.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=I9mVUo-bhM8",
+        "videoUrl": "https://www.youtube.com/watch?v=-m8RJmHEjfM",
         "quiz": [
           {
             "q": "The key step in any related rates problem is ___.",
@@ -4717,6 +4727,7 @@ const curriculum: DayContent[] = [
         "summary": "Students write and revise a fully documented research essay integrating primary texts, secondary criticism, and their own analysis.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=vtIzMaLkCaM",
+        "videoUrl": "https://www.youtube.com/watch?v=1yjWKuXafNs",
         "quiz": [
           {
             "q": "A literary research essay differs from a personal response in that ___.",
@@ -4838,6 +4849,7 @@ const curriculum: DayContent[] = [
         "summary": "Practice differentiating functions containing square roots and other radicals by rewriting them with fractional exponents and applying the chain rule together with the power rule.",
         "resourceLabel": "YouTube: Derivatives: Functions Involving Radicals (Chain Rule and Power Rule Together)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20Functions%20Involving%20Radicals%20(Chain%20Rule%20and%20Power%20Rule%20Together)%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=B1YkgNDbx5o",
         "quiz": [
           {
             "q": "Differentiate y = sqrt(x^2 + 1).",

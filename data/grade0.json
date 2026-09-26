@@ -404,6 +404,7 @@
         "summary": "Students count objects from 6 to 10, match numerals to quantities, and practise counting on from 5.",
         "resourceLabel": "YouTube: Counting 6 to 10",
         "resourceUrl": "https://www.youtube.com/results?search_query=Counting%206%20to%2010%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rTsvKlDADj4",
         "quiz": [
           {
             "q": "What number comes after 7?",
@@ -900,6 +901,7 @@
         "summary": "Students arrange numbers 1-10 in order, identify missing numbers, and understand more/fewer using a number line.",
         "resourceLabel": "YouTube: Number Order 1-10",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Order%201-10%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6g_fjnW77Fs",
         "quiz": [
           {
             "q": "What number is missing? 1, 2, ___, 4, 5",
@@ -2638,6 +2640,7 @@
         "summary": "Students add two groups with totals up to 10. They use number lines, counters, and drawings.",
         "resourceLabel": "YouTube: Addition to 10",
         "resourceUrl": "https://www.youtube.com/results?search_query=Addition%20to%2010%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tVHOBVAFjUw",
         "quiz": [
           {
             "q": "4 + 6 = ?",
@@ -3999,6 +4002,7 @@
         "summary": "Students explore the school as a community. They identify helpers such as the principal, caretaker, librarian, and office staff.",
         "resourceLabel": "YouTube: Our School Community",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Community%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Yv9GH1KS2LM",
         "quiz": [
           {
             "q": "Who is the leader of a school?",
@@ -4373,6 +4377,13 @@
         "summary": "Students identify, copy, extend, and create repeating patterns using objects, sounds, and actions.",
         "resourceLabel": "YouTube: Patterns: ABAB and AABB",
         "resourceUrl": "https://www.youtube.com/results?search_query=Patterns%3A%20ABAB%20and%20AABB%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Lh3twupvl7M",
+        "videoUrls": [
+          {
+            "label": "AABB Patterns",
+            "url": "https://www.youtube.com/watch?v=ULbLs2dqEUc"
+          }
+        ],
         "quiz": [
           {
             "q": "In an ABAB pattern, what comes after A?",
@@ -4433,6 +4444,7 @@
         "summary": "Students explore characteristics of animals. All animals move, eat, grow, and produce offspring. They are sorted by habitat and diet.",
         "resourceLabel": "YouTube: Living Things: Animals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Living%20Things%3A%20Animals%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-iO_LdNR_80",
         "quiz": [
           {
             "q": "All animals ___.",
@@ -4681,6 +4693,7 @@
         "summary": "Students explore the Sun as Earth's main source of light and heat. They observe that the sky changes from day to night.",
         "resourceLabel": "YouTube: The Sun and Sky",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Sun%20and%20Sky%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RrBtNeuDe1Y",
         "quiz": [
           {
             "q": "The Sun gives Earth ___ and ___.",

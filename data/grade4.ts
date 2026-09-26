@@ -818,6 +818,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Number strand: students divide 2-digit dividends by 1-digit divisors, understanding quotient and remainder.",
         "resourceLabel": "YouTube: Introduction to Long Division",
         "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Long%20Division%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7ydIF4UmXnE",
         "quiz": [
           {
             "q": "In division, the number being divided is the ___.",
@@ -2064,6 +2065,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Number strand: hundredths represent parts of a whole divided into 100 equal parts. 0.23 = 23/100 = 2 tenths + 3 hundredths.",
         "resourceLabel": "YouTube: Decimals: Hundredths",
         "resourceUrl": "https://www.youtube.com/results?search_query=Decimals%3A%20Hundredths%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2xGzQXn3WUQ",
         "quiz": [
           {
             "q": "0.47 means ___.",
@@ -2373,6 +2375,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science Energy strand: refraction is the bending of light as it passes from one medium to another (e.g., from air to water).",
         "resourceLabel": "YouTube: Properties of Light: Refraction",
         "resourceUrl": "https://www.youtube.com/results?search_query=Properties%20of%20Light%3A%20Refraction%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pWMOVqDdc2A",
         "quiz": [
           {
             "q": "Refraction is the ___ of light.",
@@ -3560,6 +3563,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Measurement strand: mass is measured in grams (g) and kilograms (kg). Volume is measured in litres (L) and millilitres (mL). 1 kg = 1000 g; 1 L = 1000 mL.",
         "resourceLabel": "YouTube: Mass and Volume Measurement",
         "resourceUrl": "https://www.youtube.com/results?search_query=Mass%20and%20Volume%20Measurement%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=B7K_32eZ0EM",
         "quiz": [
           {
             "q": "1 kilogram = ___ grams.",
@@ -4928,6 +4932,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies: Confederation (1867) united four provinces into the Dominion of Canada. Canadian identity includes bilingualism, multiculturalism, and respect for Indigenous peoples.",
         "resourceLabel": "YouTube: Confederation and Canadian Identity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Confederation%20and%20Canadian%20Identity%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5h5Pqgkjgws",
         "quiz": [
           {
             "q": "Confederation in 1867 united which four provinces?",

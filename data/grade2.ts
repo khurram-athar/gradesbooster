@@ -2336,6 +2336,7 @@ const curriculum: DayContent[] = [
         "summary": "Communities can be urban (city), suburban, or rural (countryside), each with different features and ways of life.",
         "resourceLabel": "YouTube: Comparing Communities",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Communities%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XINLtbiRCcw",
         "quiz": [
           {
             "q": "A city is an example of a...",
@@ -3012,6 +3013,7 @@ const curriculum: DayContent[] = [
         "summary": "We can subtract two-digit numbers by taking away the tens and the ones separately, like 57 - 23 = 34.",
         "resourceLabel": "YouTube: Subtraction Within 100 (No Regrouping)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Subtraction%20Within%20100%20%28No%20Regrouping%29%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=x3eo7rrlnEU",
         "quiz": [
           {
             "q": "57 - 23 = ?",
