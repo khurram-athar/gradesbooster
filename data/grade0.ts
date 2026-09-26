@@ -5625,6 +5625,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use non-standard units (paper clips, blocks) to measure and compare the length of objects. They use terms: longer, shorter, same.",
         "resourceLabel": "YouTube: Measurement: Length",
         "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Length%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=JXVkqu9sIyo",
         "quiz": [
           {
             "q": "Measurement tells you ___.",

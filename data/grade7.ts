@@ -5319,6 +5319,7 @@ const curriculum: DayContent[] = [
         "summary": "Mean, median, and mode summarize data sets, and the choice of measure can affect how data is interpreted, especially with outliers.",
         "resourceLabel": "YouTube: Data: Measures of Central Tendency with Real Data Sets",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Measures%20of%20Central%20Tendency%20with%20Real%20Data%20Sets%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=e3uY2LraXts",
         "quiz": [
           {
             "q": "An outlier in a data set is a value that is...",

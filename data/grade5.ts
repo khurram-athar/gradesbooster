@@ -6172,6 +6172,7 @@ const curriculum: DayContent[] = [
         "summary": "Local (municipal) governments make decisions about community services like roads, parks, libraries, and waste collection.",
         "resourceLabel": "YouTube: Local Government and Your Municipality",
         "resourceUrl": "https://www.youtube.com/results?search_query=Local%20Government%20and%20Your%20Municipality%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WpJSP2q5-M4",
         "quiz": [
           {
             "q": "Why might a municipal government be better suited than the federal government to decide on local speed limits?",

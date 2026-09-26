@@ -2374,6 +2374,7 @@ const curriculum: DayContent[] = [
         "summary": "Practice using the quotient rule to differentiate rational functions built from trigonometric expressions, such as tan x written as sin x over cos x.",
         "resourceLabel": "YouTube: Derivatives: The Quotient Rule Applied to Rational Trigonometric Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20The%20Quotient%20Rule%20Applied%20to%20Rational%20Trigonometric%20Functions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=a_4ZfIxI5AY",
         "quiz": [
           {
             "q": "State the quotient rule for y = f(x)/g(x).",
@@ -5097,6 +5098,7 @@ const curriculum: DayContent[] = [
         "summary": "Practice applying the quotient rule and then simplifying the resulting expression algebraically, including factoring out common terms from the numerator.",
         "resourceLabel": "YouTube: Derivatives: Simplifying After the Quotient Rule",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20Simplifying%20After%20the%20Quotient%20Rule%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3lUOtjkqfQo",
         "quiz": [
           {
             "q": "After applying the quotient rule to y = x^2/(x+1) and simplifying fully, what is y'?",
@@ -5346,6 +5348,7 @@ const curriculum: DayContent[] = [
         "summary": "Practice differentiating multi-term functions that combine polynomial, exponential, logarithmic, and trigonometric pieces, differentiating term by term with the sum rule.",
         "resourceLabel": "YouTube: Derivatives: Differentiating Sums of Mixed Function Types",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20Differentiating%20Sums%20of%20Mixed%20Function%20Types%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gKCuXnOcKEQ",
         "quiz": [
           {
             "q": "Differentiate y = x^3 + e^x + sin x.",
@@ -5595,6 +5598,7 @@ const curriculum: DayContent[] = [
         "summary": "Learn how velocity is the derivative of a position function with respect to time, and practice computing and interpreting velocity from given position functions.",
         "resourceLabel": "YouTube: Derivatives: Velocity as the Derivative of a Position Function",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20Velocity%20as%20the%20Derivative%20of%20a%20Position%20Function%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pFeuGMMiZWw",
         "quiz": [
           {
             "q": "A particle's position is s(t) = t^3 - 6t^2 + 9t (metres). What is its velocity function v(t)?",
@@ -5842,6 +5846,7 @@ const curriculum: DayContent[] = [
         "summary": "Learn how acceleration is the second derivative of position (or the first derivative of velocity), and practice computing acceleration functions and values from position functions.",
         "resourceLabel": "YouTube: Derivatives: Acceleration as the Second Derivative of Position",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20Acceleration%20as%20the%20Second%20Derivative%20of%20Position%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=HieFBOiqp8U",
         "quiz": [
           {
             "q": "For s(t) = t^3 - 6t^2 + 9t, find the acceleration function a(t).",
@@ -5902,6 +5907,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn how the photoelectric effect demonstrates the particle nature of light, and use Einstein's photoelectric equation to calculate the kinetic energy of ejected electrons.",
         "resourceLabel": "YouTube: The Photoelectric Effect and Einstein's Explanation",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Photoelectric%20Effect%20and%20Einstein%27s%20Explanation%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-LECEvusk8E",
         "quiz": [
           {
             "q": "What experimental observation does the photoelectric effect demonstrate that classical wave theory of light could not explain?",
@@ -6088,6 +6094,7 @@ const curriculum: DayContent[] = [
         "summary": "Practice computing repeated derivatives of a function to discover a pattern that predicts a higher-order derivative, using polynomial, trigonometric, and exponential examples.",
         "resourceLabel": "YouTube: Derivatives: Finding a Pattern in Higher-Order Derivatives",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20Finding%20a%20Pattern%20in%20Higher-Order%20Derivatives%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WaMvWIay8QQ",
         "quiz": [
           {
             "q": "For f(x) = x^5, find f''(x), the second derivative.",

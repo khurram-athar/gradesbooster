@@ -5047,6 +5047,7 @@
         "summary": "Students evaluate f(x) at specific values and interpret function notation as a preview of Grade 11 Functions.",
         "resourceLabel": "YouTube: Evaluating Function Notation for Quadratics",
         "resourceUrl": "https://www.youtube.com/results?search_query=Evaluating%20Function%20Notation%20for%20Quadratics%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UvNJTVICM7w",
         "quiz": [
           {
             "q": "If f(x) = x² − 4, evaluate f(3).",
@@ -5614,6 +5615,7 @@
         "summary": "Students learn how light bends when it passes between media of different optical densities, apply Snell's Law to predict refraction angles, and explore total internal reflection and the critical angle.",
         "resourceLabel": "YouTube: Refraction of Light: Snell's Law and Total Internal Reflection",
         "resourceUrl": "https://www.youtube.com/results?search_query=Refraction%20of%20Light%3A%20Snell%27s%20Law%20and%20Total%20Internal%20Reflection%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5bkiQob8ikc",
         "quiz": [
           {
             "q": "Refraction is best described as ___.",

@@ -5059,6 +5059,7 @@ const curriculum: DayContent[] = [
         "summary": "Students graph the reciprocal of linear and quadratic functions, identifying vertical asymptotes from the zeros of the denominator and the horizontal asymptote from the function's end behaviour.",
         "resourceLabel": "YouTube: Reciprocal Functions: Vertical and Horizontal Asymptotes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reciprocal%20Functions%3A%20Vertical%20and%20Horizontal%20Asymptotes%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MK_Cep8C3g0",
         "quiz": [
           {
             "q": "The reciprocal function f(x) = 1/(x - 3) has a vertical asymptote at ___.",
@@ -5554,6 +5555,7 @@ const curriculum: DayContent[] = [
         "summary": "Students apply function families to real-world data — choosing the appropriate model, fitting it to data, and interpreting results.",
         "resourceLabel": "YouTube: Functions: Applications and Real-World Modelling",
         "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Applications%20and%20Real-World%20Modelling%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OY8hPSps808",
         "quiz": [
           {
             "q": "Choosing a function model for data requires ___.",
@@ -5673,6 +5675,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that the enthalpy change for an overall reaction is the sum of the enthalpy changes of its individual steps, and use Hess's Law to calculate unknown enthalpy values.",
         "resourceLabel": "YouTube: Hess's Law: Calculating Enthalpy Change from Reaction Steps",
         "resourceUrl": "https://www.youtube.com/results?search_query=Hess%27s%20Law%3A%20Calculating%20Enthalpy%20Change%20from%20Reaction%20Steps%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2ixEf2zpR8E",
         "quiz": [
           {
             "q": "Hess's Law states that the enthalpy change for a reaction ___.",

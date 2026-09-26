@@ -5185,6 +5185,7 @@ const curriculum: DayContent[] = [
         "summary": "Students study 15th–17th century European exploration, key explorers (Columbus, Cabot, Champlain), the impact on Indigenous peoples, and the Columbian Exchange.",
         "resourceLabel": "YouTube: The Age of Exploration",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Age%20of%20Exploration%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wOclF9eP5uM",
         "quiz": [
           {
             "q": "The main motivations for European exploration were ___.",
@@ -5311,6 +5312,7 @@ const curriculum: DayContent[] = [
         "summary": "Students perform and describe translations (slides), reflections (flips), and rotations (turns) of 2D shapes on a coordinate plane.",
         "resourceLabel": "YouTube: Geometry: Transformations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Transformations%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GqHWdTLL8Qw",
         "quiz": [
           {
             "q": "A translation (slide) moves a shape ___.",
@@ -5498,6 +5500,7 @@ const curriculum: DayContent[] = [
         "summary": "Students participate in structured debates and discussions. They learn to present arguments clearly, listen actively, ask probing questions, and respond respectfully to opposing views.",
         "resourceLabel": "YouTube: Oral Literacy: Debate and Discussion",
         "resourceUrl": "https://www.youtube.com/results?search_query=Oral%20Literacy%3A%20Debate%20and%20Discussion%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=l5Lloki4HKA",
         "quiz": [
           {
             "q": "In a formal debate, the proposition side ___.",

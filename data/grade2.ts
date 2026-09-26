@@ -5422,6 +5422,7 @@ const curriculum: DayContent[] = [
         "summary": "Living things need food, water, air, and space to grow. They also respond to their environment and reproduce (have offspring). Non-living things do not do these things.",
         "resourceLabel": "YouTube: Living vs. Non-Living Things (Deeper Look)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Living%20vs.%20Non-Living%20Things%20%28Deeper%20Look%29%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yW5VbMEDRJk",
         "quiz": [
           {
             "q": "Which is a characteristic of ALL living things?",
@@ -6168,6 +6169,7 @@ const curriculum: DayContent[] = [
         "summary": "Scientists use all five senses to make observations — they look, listen, smell, feel, and sometimes taste (safely!) to learn about the world around them.",
         "resourceLabel": "YouTube: The Five Senses in Science Observations",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Five%20Senses%20in%20Science%20Observations%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=DF5ys_3uuuU",
         "quiz": [
           {
             "q": "What is a scientific observation?",
