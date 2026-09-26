@@ -5871,6 +5871,7 @@ const curriculum: DayContent[] = [
         "summary": "Students revisit simple machines (lever, inclined plane, wheel-and-axle, pulley, wedge, screw) and examine how they combine in compound machines.",
         "resourceLabel": "YouTube: Simple and Complex Machines",
         "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20and%20Complex%20Machines%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dM6AtIy60gQ",
         "quiz": [
           {
             "q": "A screw is essentially ___.",
@@ -6058,6 +6059,7 @@ const curriculum: DayContent[] = [
         "summary": "Students create and interpret various graphs (bar, line, circle/pie) and draw conclusions from data, considering bias and sample size.",
         "resourceLabel": "YouTube: Data: Graphing and Interpreting",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Graphing%20and%20Interpreting%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zF_dBk8EPDk",
         "quiz": [
           {
             "q": "A line graph is most useful for showing ___.",
