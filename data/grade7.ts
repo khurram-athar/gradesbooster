@@ -24358,6 +24358,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: stars form from clouds of gas and dust, spend most of their life fusing hydrogen into helium, and eventually change dramatically, ending as a white dwarf, neutron star, or black hole depending on their mass.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=BG-ukUB_sQU",
         "quiz": [
           {
             "q": "What do stars form from?",
@@ -24418,6 +24419,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: Canada has contributed to international space exploration through technologies like the Canadarm robotic arm and through Canadian astronauts who have taken part in missions to space.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=Sbf1Svw_rTY",
         "quiz": [
           {
             "q": "What is the Canadarm?",

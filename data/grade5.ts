@@ -24953,6 +24953,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: the protagonist is the main character a story follows, while the antagonist is the character or force that opposes the protagonist and creates conflict.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=PH4U_vM1a6g",
         "quiz": [
           {
             "q": "What do we call the main character a story follows?",
@@ -25013,6 +25014,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: integers can represent real-life situations, such as temperatures below zero shown as negative numbers or elevations below sea level shown as negative numbers.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=OAoLCXpao6s",
         "quiz": [
           {
             "q": "If the temperature is 5 degrees below zero, how would this be written as an integer?",
@@ -25073,6 +25075,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: many animals rely on defense mechanisms, such as camouflage that blends them into their surroundings, warning colours, or physical features like spines, to avoid predators.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=F-vRzYreZXY",
         "quiz": [
           {
             "q": "What do we call it when an animal’s colouring or pattern helps it blend into its surroundings?",
@@ -25133,6 +25136,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: Orange Shirt Day is observed each year to honour residential school survivors and remember children who were affected, supporting truth and reconciliation between Indigenous peoples and other Canadians.",
         "resourceLabel": "YouTube: Social Studies: Orange Shirt Day and Truth and Reconciliation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Orange%20Shirt%20Day%20and%20Truth%20and%20Reconciliation%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=c3q7byZhbaI",
         "quiz": [
           {
             "q": "What does Orange Shirt Day honour?",

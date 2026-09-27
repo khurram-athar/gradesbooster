@@ -30099,6 +30099,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise writing a new ending for a familiar story, using their imagination to change what happens after the storys problem while keeping the characters and setting the same.",
         "resourceLabel": "YouTube: Story Endings: Writing a New Ending for a Tale",
         "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Endings%3A%20Writing%20a%20New%20Ending%20for%20a%20Tale%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vyjBYrGEZXA",
         "quiz": [
           {
             "q": "What does it mean to write a new ending for a story?",
@@ -30181,6 +30182,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that coins of different values can be traded for an equal amount, such as trading 5 pennies for 1 nickel or 2 nickels for 1 dime.",
         "resourceLabel": "YouTube: Money: Trading Coins for Equal Value",
         "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Trading%20Coins%20for%20Equal%20Value%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZKvMb2LZXWE",
         "quiz": [
           {
             "q": "How many pennies equal the value of 1 nickel?",
@@ -30264,6 +30266,7 @@ const curriculum: DayContent[] = [
         "summary": "Students identify natural sources of light, like the sun, and human-made sources, like lamps and flashlights, and discuss why we need light.",
         "resourceLabel": "YouTube: Sources of Light: Natural and Human-Made",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sources%20of%20Light%3A%20Natural%20and%20Human-Made%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qT1KzpHgVnE",
         "topic": "Light & Sound",
         "quiz": [
           {
@@ -30324,6 +30327,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that Remembrance Day, on November 11, is a day when Canadians wear a poppy and take a moment of silence to honour those who served in the military.",
         "resourceLabel": "YouTube: Remembrance Day: Honouring Those Who Served",
         "resourceUrl": "https://www.youtube.com/results?search_query=Remembrance%20Day%3A%20Honouring%20Those%20Who%20Served%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=HkfJyOzQWC0",
         "quiz": [
           {
             "q": "What is Remembrance Day?",

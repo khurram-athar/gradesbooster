@@ -30731,6 +30731,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Data strand: students learn to collect data by asking classmates a survey question, then organize and display the results using a graph, such as a bar graph or pictograph.",
         "resourceLabel": "YouTube: Conducting a Survey and Graphing the Results",
         "resourceUrl": "https://www.youtube.com/results?search_query=Conducting%20a%20Survey%20and%20Graphing%20the%20Results%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hcgThf5mv38",
         "quiz": [
           {
             "q": "What is a survey?",
@@ -30813,6 +30814,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Life Systems strand: students learn that animals communicate with each other using sounds, body language, and signals, such as a dog wagging its tail or a bird singing a song.",
         "resourceLabel": "YouTube: How Animals Communicate: Sounds, Signals, and Body Language",
         "resourceUrl": "https://www.youtube.com/results?search_query=How%20Animals%20Communicate%3A%20Sounds%2C%20Signals%2C%20and%20Body%20Language%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RbhHTVw3r58",
         "quiz": [
           {
             "q": "Which of these is a way animals communicate?",
@@ -30894,6 +30896,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Social Studies strand: students learn that different regions of Canada grow different crops and raise different animals based on their climate and land, such as wheat on the Prairies and fruit in Ontario.",
         "resourceLabel": "YouTube: Canadian Agriculture Regions: What Grows Where",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Agriculture%20Regions%3A%20What%20Grows%20Where%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zS5J7biaHPU",
         "quiz": [
           {
             "q": "Which crop is commonly grown on the Canadian Prairies?",
