@@ -5922,6 +5922,7 @@ const curriculum: DayContent[] = [
         "summary": "Students review all Grade 11 Chemistry content for final assessment.",
         "resourceLabel": "YouTube: Chemistry: Year-End Exam Preparation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Year-End%20Exam%20Preparation%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cv3U2K_ES3g",
         "quiz": [
           {
             "q": "Balance: C₃H₈ + O₂ → CO₂ + H₂O",
@@ -7342,6 +7343,7 @@ const curriculum: DayContent[] = [
         "summary": "A final celebration of the living world and our place in it.",
         "resourceLabel": "YouTube: Grade 11 Biology: Final Day",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grade%2011%20Biology%3A%20Final%20Day%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=F5WL2lnTHME",
         "quiz": [
           {
             "q": "The central message of Grade 11 Biology is ___.",
@@ -7401,6 +7403,7 @@ const curriculum: DayContent[] = [
         "summary": "A final celebration of chemistry's place in understanding and improving the world.",
         "resourceLabel": "YouTube: Grade 11 Chemistry: Final Day",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grade%2011%20Chemistry%3A%20Final%20Day%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fPnwBITSmgU",
         "quiz": [
           {
             "q": "The most profound idea in chemistry is ___.",
@@ -23981,6 +23984,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a public service announcement uses concise, persuasive language and a clear call to action to raise awareness of a social issue and encourage a specific audience response.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=IzRR1d9xHhg",
         "quiz": [
           {
             "q": "What does a public service announcement use to raise awareness of a social issue?",
@@ -24041,6 +24045,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: the laws of exponents describe how to simplify expressions involving powers, and a rational exponent expresses a root, such as a square or cube root, using fractional notation.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=DcAUDYotcT8",
         "quiz": [
           {
             "q": "What do the laws of exponents describe?",
@@ -24101,6 +24106,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: convergent evolution occurs when unrelated species independently evolve similar traits in response to similar environmental pressures, while divergent evolution occurs when related species evolve increasingly different traits over time.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=yvSyN9ZQ-II",
         "quiz": [
           {
             "q": "What does convergent evolution describe?",
@@ -24161,6 +24167,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: an acid-base indicator is a weak acid or base that changes colour over a specific pH range because its protonated and deprotonated forms absorb different wavelengths of light.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=ZDgYWaeuwbw",
         "quiz": [
           {
             "q": "What is an acid-base indicator?",

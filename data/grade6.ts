@@ -24081,6 +24081,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: character motivation refers to the reasons behind a character’s actions and decisions in a story, which readers can infer from the character’s words, thoughts, and behaviour.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=4ZnLn5vtNVI",
         "quiz": [
           {
             "q": "What does character motivation refer to?",
@@ -24141,6 +24142,13 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: converting between units of capacity, such as millilitres and litres, and units of mass, such as grams and kilograms, requires multiplying or dividing by powers of ten, since the metric system is based on tens.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=ToGNq7Tf3GY",
+        "videoUrls": [
+          {
+            "label": "Metric Units of Mass | Convert mg, g, and kg",
+            "url": "https://www.youtube.com/watch?v=ptrKThVQwh4"
+          }
+        ],
         "quiz": [
           {
             "q": "How many millilitres are in 1 litre?",
@@ -24201,6 +24209,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: camouflage allows an animal to blend into its surroundings to avoid predators or sneak up on prey, while mimicry occurs when one species evolves to resemble another, often to gain protection.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=WczZlwf-_i4",
         "quiz": [
           {
             "q": "What does camouflage allow an animal to do?",
@@ -24261,6 +24270,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: Canada’s national parks system, including Banff, the first national park established in 1885, protects significant natural areas for conservation, recreation, and future generations to enjoy.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=85VP78Gfr8Y",
         "quiz": [
           {
             "q": "What was Canada’s first national park, established in 1885?",

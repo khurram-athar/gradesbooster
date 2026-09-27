@@ -24162,6 +24162,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: writing a scene for a play or script requires realistic dialogue and clear stage directions that tell actors how to move, speak, or express emotion.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=FgGjpXOScaM",
         "quiz": [
           {
             "q": "What do stage directions tell actors?",
@@ -24222,6 +24223,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: a linear equation can be written in slope-intercept form (y = mx + b), standard form (Ax + By = C), or point-slope form, and converting between these forms uses algebraic manipulation.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=shf4QKiAYzY",
         "quiz": [
           {
             "q": "In slope-intercept form, y = mx + b, what does the value of b represent?",
@@ -24282,6 +24284,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: an earthquake occurs when built-up stress along a fault line is suddenly released, generating seismic waves that travel through the Earth and are measured using instruments like seismographs.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=A5d77XBI4yY",
         "quiz": [
           {
             "q": "What causes an earthquake?",
@@ -24342,6 +24345,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies strand: urban agriculture involves growing food within city environments, including vertical farms that stack crops in layers to maximize food production in limited urban space.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=QT4TWbPLrN8",
         "quiz": [
           {
             "q": "What does urban agriculture involve?",

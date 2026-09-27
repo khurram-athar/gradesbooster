@@ -23980,6 +23980,7 @@
         "summary": "Grade 7 Language strand: correlative conjunctions are pairs of words that work together to connect equal parts of a sentence, such as either/or, neither/nor, and both/and.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=-8hxRH0PNxc",
         "quiz": [
           {
             "q": "What are correlative conjunctions?",
@@ -24040,6 +24041,7 @@
         "summary": "Grade 7 Math strand: a negative exponent indicates the reciprocal of the base raised to the positive version of that exponent, such as 2 to the power of negative 2 being equal to 1 over 2 squared.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=wSracfsnFI8",
         "quiz": [
           {
             "q": "What does a negative exponent indicate?",
@@ -24100,6 +24102,13 @@
         "summary": "Grade 7 Science strand: tidal energy harnesses the movement of ocean tides to generate electricity, while geothermal energy uses heat from deep within the Earth, both offering renewable alternatives to fossil fuels.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=ldfRWjUpO8M",
+        "videoUrls": [
+          {
+            "label": "Tidal Power 101",
+            "url": "https://www.youtube.com/watch?v=VkTRcTyDSyk"
+          }
+        ],
         "quiz": [
           {
             "q": "What does tidal energy harness to generate electricity?",
@@ -24160,6 +24169,7 @@
         "summary": "Grade 4 Social Studies strand: NATO is an international alliance of countries, including Canada, that agree to support and defend one another for collective security.",
         "resourceLabel": "YouTube: Social Studies: Canadas Role in NATO",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canadas%20Role%20in%20NATO%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UQNYNsxCKPA",
         "quiz": [
           {
             "q": "What does NATO stand for?",

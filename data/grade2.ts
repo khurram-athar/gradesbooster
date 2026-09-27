@@ -6720,6 +6720,7 @@ const curriculum: DayContent[] = [
         "summary": "Plants make their own food using sunlight, water, and air (carbon dioxide) — this process is called photosynthesis. Roots absorb water and nutrients; leaves capture sunlight.",
         "resourceLabel": "YouTube: What Plants Need: Deeper Exploration",
         "resourceUrl": "https://www.youtube.com/results?search_query=What%20Plants%20Need%3A%20Deeper%20Exploration%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eAtmg8IhcUs",
         "quiz": [
           {
             "q": "What is photosynthesis?",
@@ -7155,6 +7156,7 @@ const curriculum: DayContent[] = [
         "summary": "We can add different coins together to make a total. We can also figure out how much change we receive when we pay for something.",
         "resourceLabel": "YouTube: Counting Coins and Making Change",
         "resourceUrl": "https://www.youtube.com/results?search_query=Counting%20Coins%20and%20Making%20Change%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=A1V_RMGXmZc",
         "quiz": [
           {
             "q": "What is the total value of 1 quarter, 1 dime, and 1 nickel?",
@@ -7276,6 +7278,7 @@ const curriculum: DayContent[] = [
         "summary": "Communities use rules and laws to make sure everyone is treated fairly and can stay safe. Laws are made by governments, and everyone in a community must follow them.",
         "resourceLabel": "YouTube: Why Rules and Laws are Important",
         "resourceUrl": "https://www.youtube.com/results?search_query=Why%20Rules%20and%20Laws%20are%20Important%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cROwtySHqZQ",
         "quiz": [
           {
             "q": "Who creates laws for a community or country?",
@@ -30314,6 +30317,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Language strand: students learn that adding the suffix -ly to many adjectives creates an adverb, describing how an action is done, such as quiet becoming quietly and slow becoming slowly.",
         "resourceLabel": "YouTube: Suffixes: Adding -ly to Turn Adjectives into Adverbs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Suffixes%3A%20Adding%20-ly%20to%20Turn%20Adjectives%20into%20Adverbs%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MrvB9yA1X1M",
         "quiz": [
           {
             "q": "What does adding -ly to the word slow create?",
@@ -30394,6 +30398,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Number strand: students learn to solve word problems that require more than one step, such as adding two amounts together and then subtracting a third amount, to find a final answer.",
         "resourceLabel": "YouTube: Multi-Step Word Problems: Addition and Subtraction Together",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multi-Step%20Word%20Problems%3A%20Addition%20and%20Subtraction%20Together%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=efPbOfnbi7k",
         "quiz": [
           {
             "q": "A boy has 6 marbles, finds 5 more, then loses 4. How many marbles does he have now?",
@@ -30477,6 +30482,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Life Systems strand: students learn that symbiosis is a close relationship between two different living things, such as bees and flowers, where one or both living things benefit.",
         "resourceLabel": "YouTube: Symbiosis: When Living Things Help Each Other",
         "resourceUrl": "https://www.youtube.com/results?search_query=Symbiosis%3A%20When%20Living%20Things%20Help%20Each%20Other%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6pJ-Gd-4fdI",
         "quiz": [
           {
             "q": "What is symbiosis?",

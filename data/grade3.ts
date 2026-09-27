@@ -7436,6 +7436,7 @@ const curriculum: DayContent[] = [
         "summary": "Students celebrate their learning by connecting Ontario communities to communities around the world and to the future.",
         "resourceLabel": "YouTube: Grade 3 Social Studies Celebration: Our Community, Our World",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grade%203%20Social%20Studies%20Celebration%3A%20Our%20Community%2C%20Our%20World%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=a8hDKU_bAec",
         "quiz": [
           {
             "q": "What do all communities around the world have in common?",
@@ -23978,6 +23979,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: a possessive noun shows ownership, usually formed by adding an apostrophe and an -s, as in the dog’s bone, meaning the bone belongs to the dog.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=k_9HuL3_tTA",
         "quiz": [
           {
             "q": "What does a possessive noun show?",
@@ -24038,6 +24040,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: students order a set of numbers up to 10 000 from least to greatest or greatest to least, using place value to compare digits.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=syeYX3bO648",
         "quiz": [
           {
             "q": "Which of these numbers is the smallest: 4 502, 4 250, 4 025?",
@@ -24098,6 +24101,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand: insects have six legs and three body parts, while spiders (arachnids) have eight legs and two body parts, helping scientists classify them into different animal groups.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=jr5UU4r1YwU",
         "quiz": [
           {
             "q": "How many legs does an insect have?",
@@ -24158,6 +24162,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: Ontario municipalities run recycling and waste management programs, such as blue box and green bin collection, to help reduce the amount of garbage sent to landfills.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=iUDaYd-v_u0",
         "quiz": [
           {
             "q": "What do we call the coloured bin many Ontario homes use to collect recyclable materials?",

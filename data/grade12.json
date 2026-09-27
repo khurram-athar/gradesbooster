@@ -6340,6 +6340,7 @@
         "summary": "Review day: practice estimating an instantaneous rate of change from a table of values using average rate of change (difference quotients) as an approximation.",
         "resourceLabel": "YouTube: Derivatives: Estimating a Derivative from a Table of Values",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20Estimating%20a%20Derivative%20from%20a%20Table%20of%20Values%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=g3OYV_HkM1A",
         "quiz": [
           {
             "q": "A table gives f(2) = 10 and f(2.1) = 10.8. Estimate f'(2) using the average rate of change.",
@@ -6527,6 +6528,7 @@
         "summary": "Rigorous examination-level practice with full worked solutions for all Advanced Functions topics.",
         "resourceLabel": "Khan Academy",
         "resourceUrl": "https://www.youtube.com/watch?v=LkwT1GQVJP8",
+        "videoUrl": "https://www.youtube.com/watch?v=5NadGZg4lfI",
         "quiz": [
           {
             "q": "Determine all values of k for which x³ + 5x² + kx + 2 has (x+2) as a factor.",
@@ -6587,6 +6589,17 @@
         "summary": "This lesson reviews finding derivatives with the product, quotient, and chain rules, then applies them to sketch curves, solve optimization problems, and solve related-rates problems.",
         "resourceLabel": "YouTube: Derivatives Review: Curve Sketching, Optimization, and Related Rates",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%20Review%3A%20Curve%20Sketching%2C%20Optimization%2C%20and%20Related%20Rates%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WqRPFvZWF0k",
+        "videoUrls": [
+          {
+            "label": "Optimisation: Maximum and Minimum Problems",
+            "url": "https://www.youtube.com/watch?v=cUMvwG7wvzM"
+          },
+          {
+            "label": "Related Rates: Advanced Applications",
+            "url": "https://www.youtube.com/watch?v=-m8RJmHEjfM"
+          }
+        ],
         "quiz": [
           {
             "q": "Differentiate f(x) = (x² + 1)(x − 3) using the product rule.",
@@ -6646,6 +6659,7 @@
         "summary": "Comprehensive examination-level physics problems spanning all SPH4U topics.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=kKKM8Y-u7ds",
+        "videoUrl": "https://www.youtube.com/watch?v=b1t41Q3xRM8",
         "quiz": [
           {
             "q": "A 0.5 kg ball on a 1 m string moves in a horizontal circle at 3 m/s. Tension in string (ignore gravity):",
@@ -6831,6 +6845,7 @@
         "summary": "Learn the two conditions needed for a piecewise function to be differentiable at the point where its pieces meet: continuity, and matching one-sided derivatives.",
         "resourceLabel": "YouTube: Derivatives: Differentiability of a Piecewise Function at a Point",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20Differentiability%20of%20a%20Piecewise%20Function%20at%20a%20Point%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yqgrixlyiyU",
         "quiz": [
           {
             "q": "For a piecewise function to be differentiable at x = c where two pieces join, which two conditions must both hold?",
@@ -7137,6 +7152,7 @@
         "summary": "Students reflect on their Grade 12 Physics learning and its connections to university physics and modern life.",
         "resourceLabel": "Parth G: 3 Reasons Why YOU Should Study PHYSICS",
         "resourceUrl": "https://www.youtube.com/watch?v=MhZXHA4BWgk",
+        "videoUrl": "https://www.youtube.com/watch?v=MhZXHA4BWgk",
         "quiz": [
           {
             "q": "The most important conceptual development in Grade 12 Physics is ___.",
@@ -23309,6 +23325,7 @@
         "summary": "Analyze systems of two or more connected masses linked by strings over pulleys using Newton's second law, treating the whole system's shared acceleration and solving for the tension in each connecting string.",
         "resourceLabel": "YouTube: Newton's Second Law with Connected Objects: Atwood Machines and Pulley Systems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Newton%27s%20Second%20Law%20with%20Connected%20Objects%3A%20Atwood%20Machines%20and%20Pulley%20Systems%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=N6IhkTjWrd4",
         "quiz": [
           {
             "q": "An Atwood machine has masses of 3.0 kg and 5.0 kg hanging from opposite ends of a light string over a frictionless pulley. What is the magnitude of the acceleration of the system (g = 9.8 m/s²)?",
@@ -23805,6 +23822,7 @@
         "summary": "Apply the magnetic force F = qvB as the centripetal force on a charged particle to derive its circular path radius, period, and frequency in a uniform magnetic field.",
         "resourceLabel": "YouTube: Circular Motion of a Charged Particle in a Magnetic Field",
         "resourceUrl": "https://www.youtube.com/results?search_query=Circular%20Motion%20of%20a%20Charged%20Particle%20in%20a%20Magnetic%20Field%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=DSJzYExc5ks",
         "quiz": [
           {
             "q": "An electron (m = 9.11 × 10⁻³¹ kg, q = 1.6 × 10⁻¹⁹ C) moves at 2.0 × 10⁶ m/s perpendicular to a 0.50 T magnetic field. What is the radius of its circular path?",
@@ -23870,6 +23888,7 @@
         "summary": "Grade 12 English strand: New Journalism, associated with writers like Tom Wolfe and Truman Capote in the 1960s and 1970s, applies literary techniques such as scene construction and extended dialogue to factual reporting and nonfiction.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=t4I1FZmjoNQ",
         "quiz": [
           {
             "q": "What does New Journalism apply to factual reporting?",
@@ -23930,6 +23949,7 @@
         "summary": "Grade 12 Advanced Functions strand: the AM-GM inequality states that for non-negative real numbers, the arithmetic mean is always greater than or equal to the geometric mean, with equality only when all the numbers are equal, making it a useful tool for optimization.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=HFGSsPbYc-s",
         "quiz": [
           {
             "q": "What does the AM-GM inequality state about non-negative real numbers?",
@@ -23990,6 +24010,7 @@
         "summary": "Two cars pull away from the same intersection along perpendicular roads at different constant speeds. You'll use the Pythagorean theorem to find how fast the straight-line distance between them is increasing.",
         "resourceLabel": "YouTube: Related Rates: Two Cars Diverging at a Right Angle",
         "resourceUrl": "https://www.youtube.com/results?search_query=Related%20Rates%3A%20Two%20Cars%20Diverging%20at%20a%20Right%20Angle%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0CoqVNh4_DQ",
         "quiz": [
           {
             "q": "Car A leaves an intersection heading north; Car B leaves the same intersection at the same time heading east. If x is Car B's distance east, y is Car A's distance north, and z is the straight-line distance between them, which equation applies?",
@@ -24050,6 +24071,7 @@
         "summary": "Students learn to calculate centripetal acceleration and force for objects moving in circular paths and apply these concepts to analyze the ideal (frictionless) banking angle needed for a vehicle to safely navigate a curve at a given speed.",
         "resourceLabel": "YouTube: Circular Motion: Centripetal Force and Banked Curves",
         "resourceUrl": "https://www.youtube.com/results?search_query=Circular%20Motion%3A%20Centripetal%20Force%20and%20Banked%20Curves%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SyIXc6W4C6g",
         "quiz": [
           {
             "q": "A 900 kg car travels around a flat curve of radius 50 m at 15 m/s. What centripetal force is required?",
