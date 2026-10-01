@@ -30986,6 +30986,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Writing strand: students learn to write a personal narrative, a true story about something that happened to them, told in order with a beginning, middle, and end, and including their own feelings.",
         "resourceLabel": "YouTube: Personal Narrative Writing: Telling a True Story About Yourself",
         "resourceUrl": "https://www.youtube.com/results?search_query=Personal%20Narrative%20Writing%3A%20Telling%20a%20True%20Story%20About%20Yourself%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=EoaIfZxm3mU",
         "quiz": [
           {
             "q": "What is a personal narrative?",
@@ -31066,6 +31067,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Number strand: students learn to read a word problem carefully and decide whether to add, subtract, multiply, or divide based on the clues and the question being asked.",
         "resourceLabel": "YouTube: Problem Solving: Choosing the Right Operation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Problem%20Solving%3A%20Choosing%20the%20Right%20Operation%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zdG4lJHqIF8",
         "quiz": [
           {
             "q": "If a problem asks how many items are left after some are given away, which operation should you use?",
@@ -31149,6 +31151,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Earth and Space Systems strand: students learn about extreme weather events, such as thunderstorms, blizzards, and high winds, and how people can stay safe when severe weather happens.",
         "resourceLabel": "YouTube: Extreme Weather: Storms and Severe Conditions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Extreme%20Weather%3A%20Storms%20and%20Severe%20Conditions%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FUH-0htUTUU",
         "quiz": [
           {
             "q": "Which of these is an example of extreme weather?",

@@ -28773,6 +28773,17 @@ const curriculum: DayContent[] = [
         "summary": "Students compare the short \"i\" sound in words like \"pig\" with the short \"o\" sound in words like \"dog\" to sharpen vowel discrimination.",
         "resourceLabel": "YouTube: Short Vowel Sounds: Short I vs Short O",
         "resourceUrl": "https://www.youtube.com/results?search_query=Short%20Vowel%20Sounds%3A%20Short%20I%20vs%20Short%20O%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZY1ZRuEcah4",
+        "videoUrls": [
+          {
+            "label": "Short Vowel I",
+            "url": "https://www.youtube.com/watch?v=ZY1ZRuEcah4"
+          },
+          {
+            "label": "Short Vowel O",
+            "url": "https://www.youtube.com/watch?v=NFe1JXK8nT4"
+          }
+        ],
         "topic": "Phonics & Word Recognition",
         "quiz": [
           {
@@ -28833,6 +28844,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore patterns using sounds and body movements, like clap-stomp-clap-stomp, learning that patterns can be heard and felt, not just seen.",
         "resourceLabel": "YouTube: Sound and Movement Patterns: Clap, Stomp, Clap",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sound%20and%20Movement%20Patterns%3A%20Clap%2C%20Stomp%2C%20Clap%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Ifz1sE4KGAk",
         "topic": "Patterning",
         "quiz": [
           {
@@ -28893,6 +28905,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids explore the winter season, noticing colder temperatures, snow and ice, and how people, animals, and plants change during winter.",
         "resourceLabel": "YouTube: Winter Season: Snow, Ice, and Cold",
         "resourceUrl": "https://www.youtube.com/results?search_query=Winter%20Season%3A%20Snow%2C%20Ice%2C%20and%20Cold%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UvxxFsztsPg",
         "topic": "Weather, Climate & Atmosphere",
         "quiz": [
           {
@@ -28953,6 +28966,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson introduces the idea of a family tree as a simple way to show how family members like parents, grandparents, and siblings are connected.",
         "resourceLabel": "YouTube: Family Trees: How We Are Connected",
         "resourceUrl": "https://www.youtube.com/results?search_query=Family%20Trees%3A%20How%20We%20Are%20Connected%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3wdM1Rx0HdI",
         "topic": "Families & Diversity (Basic)",
         "quiz": [
           {
