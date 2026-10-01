@@ -24541,6 +24541,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: the method of finite differences uses a table of equally spaced values to determine the degree of a polynomial function, since the nth differences of an nth-degree polynomial are constant.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=4RQhjzfyUW4",
         "quiz": [
           {
             "q": "What does the method of finite differences use to determine a polynomial’s degree?",
@@ -24601,6 +24602,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: viruses replicate within a host cell through either the lytic cycle, which quickly destroys the host cell to release new viruses, or the lysogenic cycle, which integrates viral genetic material into the host genome before later becoming active.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=8FqlTslU22s",
         "quiz": [
           {
             "q": "What does the lytic cycle of viral replication do to the host cell?",

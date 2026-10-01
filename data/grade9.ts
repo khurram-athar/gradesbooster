@@ -24662,6 +24662,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: cohesion refers to how smoothly ideas connect within and between paragraphs, often achieved through transitional phrases like however, therefore, and in addition.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=Qdnw4woq07U",
         "quiz": [
           {
             "q": "What does cohesion refer to in writing?",
@@ -24722,6 +24723,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: interval notation is a concise way to represent a range of values on a number line, using brackets to show whether endpoints are included or excluded from the set.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Ww7xtG2S7IM",
         "quiz": [
           {
             "q": "What does interval notation represent?",
@@ -24783,6 +24785,17 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Biology: Nutrient Cycles - Carbon and Nitrogen",
         "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Nutrient%20Cycles%20-%20Carbon%20and%20Nitrogen%20grade%209%20educational",
         "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=uip4Q6t7yfQ",
+        "videoUrls": [
+          {
+            "label": "The Nitrogen Cycle",
+            "url": "https://www.youtube.com/watch?v=uip4Q6t7yfQ"
+          },
+          {
+            "label": "The Carbon Cycle",
+            "url": "https://www.youtube.com/watch?v=-wSqQiihf7c"
+          }
+        ],
         "quiz": [
           {
             "q": "Which process removes carbon dioxide from the atmosphere and stores carbon in plants?",
@@ -24842,6 +24855,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies strand: international aid involves the transfer of resources, funding, or expertise from wealthier countries or organizations to support development in lower-income regions, shaped by geographic need and access.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=qoXKhEDtYPg",
         "quiz": [
           {
             "q": "What does international aid involve transferring to support development?",

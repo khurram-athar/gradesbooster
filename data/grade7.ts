@@ -24486,6 +24486,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: an eyewitness news report describes an event from a firsthand perspective, focusing on factual details such as who, what, when, where, and why, while maintaining a clear and objective tone.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=xHBDmrhZBLc",
         "quiz": [
           {
             "q": "What does an eyewitness news report describe?",
@@ -24607,6 +24608,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: bacteria are single-celled living organisms that can reproduce on their own, while viruses are not considered fully alive and can only reproduce by infecting a host cell.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=YXCWBu-Tuac",
         "quiz": [
           {
             "q": "What are bacteria?",
@@ -24666,6 +24668,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the Canadian government imposed a Chinese Head Tax starting in 1885 and later passed the Chinese Exclusion Act in 1923, discriminatory policies that severely restricted Chinese immigration to Canada.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=uu-uDSS0LOg",
         "quiz": [
           {
             "q": "What was the Chinese Head Tax?",

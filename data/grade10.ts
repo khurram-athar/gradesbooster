@@ -24456,6 +24456,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: the subjunctive mood expresses wishes, hypothetical situations, or demands, often appearing after phrases like if I were or it is important that.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=dM0ZsC7PQbo",
         "quiz": [
           {
             "q": "What does the subjunctive mood typically express?",
@@ -24516,6 +24517,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand (pre-high-school extension): a tangent line touches a circle at exactly one point and is perpendicular to the radius at that point, while an inscribed angle is formed by two chords meeting at a point on the circle.",
         "resourceLabel": "YouTube: Geometry: Circle Theorems — Tangents and Inscribed Angles",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Circle%20Theorems%20%E2%80%94%20Tangents%20and%20Inscribed%20Angles%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nd46bA9DKE0",
         "quiz": [
           {
             "q": "A tangent line to a circle touches the circle at ___.",
@@ -24576,6 +24578,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: carrying capacity is the maximum population size an environment can sustainably support given the availability of resources such as food, water, and space.",
         "resourceLabel": "YouTube: Science: Population Ecology and Carrying Capacity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Population%20Ecology%20and%20Carrying%20Capacity%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qywBaecihPk",
         "quiz": [
           {
             "q": "What is carrying capacity?",
