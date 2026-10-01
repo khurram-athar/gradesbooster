@@ -24207,6 +24207,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: historical fiction blends invented characters and plot with accurate historical settings and events, requiring research to balance creativity with authenticity.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=f_daotILq_E",
         "quiz": [
           {
             "q": "What does historical fiction typically blend?",
@@ -24267,6 +24268,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Math strand: similar triangles have equal corresponding angles and proportional sides, allowing indirect measurement of heights or distances that are difficult to measure directly.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=LhEe0kB4QIs",
         "quiz": [
           {
             "q": "What is true of the corresponding angles in similar triangles?",
@@ -24327,6 +24329,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: the circulatory system moves blood through the body using the heart as a pump, carrying oxygen and nutrients to cells through arteries, veins, and capillaries.",
         "resourceLabel": "YouTube: Science: The Circulatory System and Blood Flow",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20The%20Circulatory%20System%20and%20Blood%20Flow%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_vZ0lefPg_0",
         "quiz": [
           {
             "q": "What organ pumps blood through the circulatory system?",
@@ -24387,6 +24390,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the Co-operative Commonwealth Federation, founded in 1932 and outlined in the 1933 Regina Manifesto, called for economic planning and social welfare reforms in response to the hardships of the Great Depression.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=ViudZSUKek8",
         "quiz": [
           {
             "q": "What political movement was outlined in the 1933 Regina Manifesto?",

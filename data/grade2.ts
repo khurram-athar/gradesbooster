@@ -30651,6 +30651,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Writing strand: students learn that mixing short and long sentences in a piece of writing creates sentence variety, which can make writing more interesting to read.",
         "resourceLabel": "YouTube: Sentence Variety: Combining Short and Long Sentences",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sentence%20Variety%3A%20Combining%20Short%20and%20Long%20Sentences%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=N3xkzyRAgyg",
         "quiz": [
           {
             "q": "What is sentence variety?",

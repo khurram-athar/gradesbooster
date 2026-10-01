@@ -24137,6 +24137,7 @@
         "summary": "Grade 12 English strand: borrowing its name from a manuscript reused after its original writing was scraped away, a palimpsest narrative structures a story so that an earlier text or history remains faintly present beneath a newer, overlaid narrative.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=e9_Ize7ZDwg",
         "quiz": [
           {
             "q": "What does the term palimpsest originally refer to?",
@@ -24197,6 +24198,7 @@
         "summary": "Students use the degree and sign of the leading coefficient of a polynomial function to determine and describe its end behaviour.",
         "resourceLabel": "YouTube: Polynomial Functions: End Behaviour and the Leading Coefficient Test",
         "resourceUrl": "https://www.youtube.com/results?search_query=Polynomial%20Functions%3A%20End%20Behaviour%20and%20the%20Leading%20Coefficient%20Test%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mHXVNmM8Tng",
         "topic": "Polynomials & Factoring",
         "quiz": [
           {
@@ -24257,6 +24259,7 @@
         "summary": "Grade 10 Vectors strand (extension): the dot product combines two vectors to produce a single scalar value, calculated by multiplying corresponding components and summing the results, and can be used to determine the angle between two vectors.",
         "resourceLabel": "YouTube: Vectors: The Dot Product and Applications",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20The%20Dot%20Product%20and%20Applications%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0iNrGpwZwog",
         "quiz": [
           {
             "q": "The dot product of two vectors produces a ___.",
@@ -24316,6 +24319,7 @@
         "summary": "Use conservation of mechanical energy (KE + PE = constant) to find speeds and heights in pendulums and roller-coaster systems, both with and without friction.",
         "resourceLabel": "YouTube: Conservation of Mechanical Energy: Pendulums and Roller Coasters",
         "resourceUrl": "https://www.youtube.com/results?search_query=Conservation%20of%20Mechanical%20Energy%3A%20Pendulums%20and%20Roller%20Coasters%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OTK9JrKC6EY",
         "quiz": [
           {
             "q": "A roller coaster car starts from rest at the top of a 45 m hill. Ignoring friction, what is its speed at the bottom (g = 9.8 m/s²)?",
