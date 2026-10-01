@@ -24439,7 +24439,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=5RpE8M_mWY0"
       },
       {
         "subject": "AdvancedFunctions",
@@ -24498,7 +24499,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YaU5JTe3cPU"
       },
       {
         "subject": "Calculus",
@@ -24558,7 +24560,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Calculus: Related Rates"
+        "topic": "Calculus: Related Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=cb3wZt0uJlY"
       },
       {
         "subject": "Physics",
@@ -24617,7 +24620,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=TxksKeaShRg"
       }
     ]
   },

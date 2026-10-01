@@ -29205,7 +29205,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=qaZ2CICGuL8"
       },
       {
         "subject": "SocialStudies",
@@ -29265,7 +29266,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=mzBtusg05i4"
       }
     ]
   },

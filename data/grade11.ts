@@ -24533,7 +24533,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading: Poetry"
+        "topic": "Reading: Poetry",
+        "videoUrl": "https://www.youtube.com/watch?v=9f8VcV8v2LE"
       },
       {
         "subject": "Functions",
@@ -24713,7 +24714,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=5mXS-MTjSiw"
       }
     ]
   },
