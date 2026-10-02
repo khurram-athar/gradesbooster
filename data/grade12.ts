@@ -2299,7 +2299,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The value of global and comparative literature for Canadian students is ___.",
             "options": [
-              "no connection to Canadian identity",
+              "a requirement mainly for university entrance applications",
               "only preparation for international travel",
               "it places Canada in a global conversation",
               "only useful for English majors"
@@ -2785,7 +2785,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Designing a digital portfolio involves ___.",
             "options": [
-              "no connection to writing skills",
+              "primarily about selecting a web hosting platform",
               "only choosing a colour scheme",
               "no aesthetic choices",
               "design choices like good writing"
@@ -3519,7 +3519,7 @@ const curriculum: DayContent[] = [
               "is only for people who study English",
               "is largely irrelevant after graduation",
               "sustains growth, meaning, and skill",
-              "has no connection to professional success"
+              "becomes unnecessary once formal literary analysis ends with graduation"
             ],
             "answer": 2
           },
@@ -3587,7 +3587,7 @@ const curriculum: DayContent[] = [
             "q": "The mathematicians whose work you have implicitly used in this course — Euler, Gauss, Newton — ___.",
             "options": [
               "were only interested in pure theory",
-              "had no connection to the mathematics you studied",
+              "worked only in ancient Greece, centuries before calculus existed",
               "are only important to professional mathematicians",
               "built modern science's framework"
             ],
@@ -5444,7 +5444,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The Heisenberg Uncertainty Principle states ___.",
             "options": [
-              "measurement has no effect on quantum systems",
+              "position and momentum can both be measured exactly at the same time",
               "electrons move in defined circular orbits",
               "Δx × Δp ≥ ℏ/2",
               "quantum mechanics is only approximate"
@@ -6247,7 +6247,7 @@ const curriculum: DayContent[] = [
             "q": "To advance a seminar discussion, a student should ___.",
             "options": [
               "only repeat what they prepared",
-              "introduce a new topic unrelated to the discussion",
+              "wait silently for others to volunteer their ideas first",
               "build on, extend, or challenge ideas",
               "ask for more clarification"
             ],
@@ -6485,7 +6485,7 @@ const curriculum: DayContent[] = [
             "q": "Varying sentence length in academic prose ___.",
             "options": [
               "shows inconsistent style",
-              "has no effect on the reader",
+              "is primarily a device used only in casual, conversational writing",
               "should be avoided in formal writing",
               "creates rhythm and emphasis"
             ],
@@ -7069,7 +7069,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The proof and reasoning strand in Advanced Functions ___.",
             "options": [
-              "is unrelated to the function content",
+              "applies only to geometric proofs, not algebraic functions",
               "introduces formal math reasoning",
               "is only for future mathematics students",
               "is only about mathematical induction"
@@ -7387,7 +7387,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Resurface, deepened, throughout further mathematics and science study",
               "Be replaced entirely by new methods at university",
-              "Have no connection to first-year university courses",
+              "Be fully replaced by computer algebra systems that handle all the calculations automatically",
               "Only matter for students continuing in pure mathematics"
             ],
             "answer": 0
@@ -7427,7 +7427,7 @@ const curriculum: DayContent[] = [
             "options": [
               "applications of physical principles",
               "only political issues",
-              "unrelated to physics",
+              "fields that rely only on biology and chemistry, not physics",
               "only engineering problems"
             ],
             "answer": 0
@@ -7483,7 +7483,7 @@ const curriculum: DayContent[] = [
             "options": [
               "These systems often operate in the background without an obvious explanation of their choices",
               "Users are always fully aware of every algorithmic choice made",
-              "This concept has no connection to how content feeds function",
+              "Recommendation algorithms rely solely on explicit user ratings and surveys",
               "Algorithms always clearly explain every content decision to users"
             ],
             "answer": 0
@@ -7494,14 +7494,14 @@ const curriculum: DayContent[] = [
               "This concept never affects the diversity of content a person sees",
               "Repeatedly showing similar content can reinforce a narrower range of existing views",
               "Algorithms always show a perfectly balanced range of opposing views",
-              "Echo chambers have no connection to how content is curated"
+              "Echo chambers form only when users deliberately seek out opposing viewpoints"
             ],
             "answer": 1
           },
           {
             "q": "Why is media literacy around algorithmic bias considered increasingly important?",
             "options": [
-              "This topic has no relevance to modern media consumption",
+              "Algorithmic curation affects only entertainment content, not news or information",
               "Algorithmic curation has no real impact on the information landscape",
               "So much of the information people encounter today is shaped by automated curation systems",
               "People today receive information through no automated systems at all"
@@ -7595,7 +7595,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Undefined across its entire domain",
               "Continuous on a closed interval",
-              "A concept unrelated to continuity",
+              "Differentiable at every point within the interval",
               "Discontinuous at every point within the interval"
             ],
             "answer": 1
@@ -7603,7 +7603,7 @@ const curriculum: DayContent[] = [
           {
             "q": "According to the Intermediate Value Theorem, a continuous function on a closed interval must take on ___.",
             "options": [
-              "A value entirely unrelated to its endpoints",
+              "Only values greater than both of its endpoint values",
               "Only the exact values at its two endpoints, and no values between them",
               "Every value between its endpoint values at least once",
               "No values at all within that interval"
@@ -7613,7 +7613,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is continuity a required condition for the Intermediate Value Theorem to apply?",
             "options": [
-              "Continuity has no connection to whether a function takes on all values between two points",
+              "Continuity only matters when the interval being considered is unbounded",
               "A discontinuous function could skip over a value between its endpoints",
               "Discontinuous functions always take on every value in an interval regardless",
               "The Intermediate Value Theorem applies equally well to any type of function"
@@ -7623,7 +7623,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might the Intermediate Value Theorem be useful for confirming that a function has a root (a zero) within a given interval?",
             "options": [
-              "This theorem has no connection to identifying where a function equals zero",
+              "The theorem instead requires the function to be differentiable, not merely continuous",
               "If the function changes sign between two endpoints, it must cross zero somewhere in between",
               "A function’s sign changes never provide any useful mathematical information",
               "The Intermediate Value Theorem only applies to functions with no roots at all"
@@ -7654,7 +7654,7 @@ const curriculum: DayContent[] = [
             "q": "Rotational motion describes objects that are ___.",
             "options": [
               "Completely stationary with no movement at all",
-              "A concept unrelated to motion",
+              "Translating uniformly in one direction without any rotation",
               "Moving only in a perfectly straight line",
               "Spinning around an axis"
             ],
@@ -7663,9 +7663,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Torque is best described as the rotational equivalent of ___.",
             "options": [
-              "A concept unrelated to rotational motion",
+              "The rotational equivalent of momentum",
               "Mass",
-              "Only colour, with no connection to motion",
+              "The rotational equivalent of kinetic energy",
               "Force"
             ],
             "answer": 3
@@ -7674,7 +7674,7 @@ const curriculum: DayContent[] = [
             "q": "Torque depends on both the applied force and ___.",
             "options": [
               "Only the colour of the object being rotated",
-              "A factor entirely unrelated to force or distance",
+              "The object's total mass, regardless of force",
               "The distance from the axis of rotation where the force is applied",
               "The temperature of the object exclusively"
             ],
@@ -7685,15 +7685,15 @@ const curriculum: DayContent[] = [
             "options": [
               "A greater distance from the axis increases the rotational effect of the same applied force",
               "Torque is always identical regardless of where a force is applied",
-              "Distance from the axis has no effect on the amount of torque produced",
-              "This relationship has no connection to how rotational motion works"
+              "Torque depends only on the magnitude of the force applied, not its position",
+              "Torque is determined solely by the speed of rotation, not force or distance"
             ],
             "answer": 0
           },
           {
             "q": "Why is understanding torque important in engineering applications like designing a wrench or a door handle?",
             "options": [
-              "Torque has no relevance to designing tools or mechanical devices",
+              "Torque only becomes relevant in high-speed industrial machinery, not simple hand tools",
               "This concept has no practical, real-world use",
               "It helps determine how effectively a force will produce rotational motion in a practical design",
               "Engineering applications never require any understanding of rotational motion"
@@ -7720,10 +7720,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Feminist literary criticism examines how ___ shapes a text.",
             "options": [
-              "Only the physical setting, with no connection to gender",
+              "Only the author's biography, regardless of the text's themes",
               "The publication date exclusively",
               "Gender",
-              "A factor entirely unrelated to representation or power"
+              "The novel's commercial sales figures, a measure of popularity rather than meaning"
             ],
             "answer": 2
           },
@@ -7732,7 +7732,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only grammar and punctuation choices",
               "Traditional or patriarchal narrative structures",
-              "A concept unrelated to gender or power dynamics",
+              "The chronological order in which a novel's events occur",
               "The physical formatting of a printed text"
             ],
             "answer": 1
@@ -7741,7 +7741,7 @@ const curriculum: DayContent[] = [
             "q": "Which is an example of a question a feminist literary critic might ask about a text?",
             "options": [
               "How many total pages does the book contain?",
-              "A question entirely unrelated to gender or representation",
+              "What historical period does the novel's setting depict?",
               "What font was used in the original printing?",
               "How are female characters represented in relation to power and agency?"
             ],
@@ -7750,8 +7750,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might feminist literary criticism examine whose perspective is centred in a narrative?",
             "options": [
-              "Narrative perspective is entirely unrelated to literary analysis",
-              "Perspective has no connection to how gender is represented in a text",
+              "Perspective is determined solely by the author's chosen verb tense",
+              "Narrative perspective in this analysis matters only for determining the book's genre",
               "Whose story is told, and how, can reveal underlying assumptions about gender and power",
               "This critical approach never considers whose viewpoint a story reflects"
             ],
@@ -7842,9 +7842,9 @@ const curriculum: DayContent[] = [
             "q": "Inverse trigonometric functions include functions such as ___.",
             "options": [
               "Arcsine and arctangent",
-              "A concept unrelated to trigonometry",
+              "Only functions defined for angles greater than 90 degrees",
               "Only sine and cosine, with no inverse functions involved",
-              "Functions with no connection to angles"
+              "Functions that only produce outputs measured in degrees, never radians"
             ],
             "answer": 0
           },
@@ -7854,7 +7854,7 @@ const curriculum: DayContent[] = [
               "A specific derivative formula",
               "A derivative identical to every other function",
               "No defined derivative under any circumstances",
-              "A formula entirely unrelated to differentiation"
+              "A formula identical to the derivative of the corresponding trigonometric function"
             ],
             "answer": 0
           },
@@ -7864,7 +7864,7 @@ const curriculum: DayContent[] = [
               "Inverse trigonometric functions can never contain another function as an input",
               "If the inverse trigonometric function contains another function as its input, the chain rule accounts for that inner function",
               "The chain rule is never required when differentiating inverse trigonometric functions",
-              "This combination of rules has no connection to differentiation"
+              "The chain rule is only needed when differentiating logarithmic functions, not trigonometric ones"
             ],
             "answer": 1
           },
@@ -7883,7 +7883,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Memorizing these formulas provides no benefit for solving calculus problems",
               "These formulas must always be re-derived from scratch for every single problem",
-              "This concept has no connection to solving calculus problems efficiently",
+              "These formulas only apply to first derivatives, never to higher-order derivatives",
               "It allows these derivatives to be applied directly without re-deriving them from first principles each time"
             ],
             "answer": 3
@@ -7902,9 +7902,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Angular momentum is best described as the rotational analog of ___.",
             "options": [
-              "A concept unrelated to momentum",
+              "The rotational analog of kinetic energy",
               "Electric charge",
-              "Only mass, with no connection to motion",
+              "Only moment of inertia, independent of rotational velocity",
               "Linear momentum"
             ],
             "answer": 3
@@ -7913,7 +7913,7 @@ const curriculum: DayContent[] = [
             "q": "The law of conservation of angular momentum states that it remains constant when ___.",
             "options": [
               "No external torque acts on a system",
-              "A concept unrelated to torque or motion",
+              "The net linear force acting on a system is zero",
               "An external torque is constantly applied to a system",
               "A system has no mass at all"
             ],
@@ -7924,7 +7924,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A skater who slows down for no identifiable reason",
               "A figure skater spinning faster when pulling their arms inward",
-              "A situation entirely unrelated to rotational motion",
+              "A ball rolling to a stop due to friction with the ground",
               "An object that experiences no rotational motion whatsoever"
             ],
             "answer": 1
@@ -7933,9 +7933,9 @@ const curriculum: DayContent[] = [
             "q": "Why does a figure skater spin faster when pulling their arms in close to their body?",
             "options": [
               "Reducing the distance of mass from the axis of rotation increases rotational speed to conserve angular momentum",
-              "Pulling the arms in has no effect on rotational speed",
+              "Pulling the arms in increases the skater's moment of inertia, slowing their spin",
               "This effect occurs completely randomly, with no underlying physical principle",
-              "Angular momentum conservation has no connection to a skater’s spin"
+              "The skater's own muscular effort directly increases rotational speed, independent of angular momentum"
             ],
             "answer": 0
           },
@@ -7972,7 +7972,7 @@ const curriculum: DayContent[] = [
               "Originally written in another language",
               "That have never been read in their original form",
               "Written exclusively in the reader’s native language",
-              "With no connection to any other language or culture"
+              "Works originally composed as oral folklore with no written source"
             ],
             "answer": 0
           },
@@ -7982,7 +7982,7 @@ const curriculum: DayContent[] = [
               "Meaning, tone, and cultural nuance",
               "Only the total page count",
               "The physical binding of the book",
-              "A factor entirely unrelated to language or meaning"
+              "The original author's nationality and citizenship status"
             ],
             "answer": 0
           },
@@ -7992,7 +7992,7 @@ const curriculum: DayContent[] = [
               "Translators never encounter any difficult choices when working with idioms",
               "Idioms always translate directly and perfectly into any other language",
               "A direct, literal translation might not capture the intended meaning or feeling for a new audience",
-              "Cultural nuance has no connection to how idioms are understood"
+              "Idiomatic expressions are governed by fixed, universal grammar rules shared across all languages"
             ],
             "answer": 2
           },
@@ -8002,7 +8002,7 @@ const curriculum: DayContent[] = [
               "It provides access to perspectives and stories that might otherwise be inaccessible to a reader",
               "Only literature originally written in a reader’s own language has any cultural value",
               "Literature in translation provides no meaningful access to other cultures",
-              "This type of reading has no connection to understanding global perspectives"
+              "Translated literature primarily serves as a substitute for language-learning textbooks"
             ],
             "answer": 0
           },
@@ -8033,7 +8033,7 @@ const curriculum: DayContent[] = [
               "The function’s y-intercept exclusively",
               "Only points far from any boundary",
               "Boundary points",
-              "A concept unrelated to the function’s domain"
+              "Only at points where the function is undefined"
             ],
             "answer": 2
           },
@@ -8043,7 +8043,7 @@ const curriculum: DayContent[] = [
               "Purely logarithmic, with no other classification possible",
               "Piecewise",
               "Purely exponential, with no other classification possible",
-              "A function unrelated to piecewise definitions"
+              "A single quadratic function with no piecewise definition"
             ],
             "answer": 1
           },
@@ -8052,7 +8052,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The function’s pieces can connect smoothly in value but still have a sharp corner or change in slope",
               "Continuity and differentiability are always identical properties with no distinction",
-              "This situation has no connection to how piecewise functions behave",
+              "This can only happen when both pieces of the function are linear",
               "A piecewise function can never be continuous at any of its boundary points"
             ],
             "answer": 0
@@ -8063,7 +8063,7 @@ const curriculum: DayContent[] = [
               "Boundary points have no significance in analyzing a piecewise function",
               "A function always behaves identically at every point in its domain",
               "It reveals whether the function behaves smoothly and predictably, or has abrupt changes, at those specific locations",
-              "This concept has no connection to understanding a function’s properties"
+              "It only matters for functions already known to be continuous everywhere"
             ],
             "answer": 2
           },
@@ -8091,7 +8091,7 @@ const curriculum: DayContent[] = [
             "q": "Concavity describes whether a function ___.",
             "options": [
               "Remains perfectly flat across its entire domain",
-              "A concept unrelated to how a function’s graph curves",
+              "Describes whether a function's output is positive or negative",
               "Increases at a constant, unchanging rate",
               "Curves upward or downward"
             ],
@@ -8103,7 +8103,7 @@ const curriculum: DayContent[] = [
               "Only the function’s domain restrictions",
               "Critical points as local maxima or minima",
               "The function’s y-intercept exclusively",
-              "A concept entirely unrelated to critical points"
+              "Whether a function is increasing or decreasing at a given point"
             ],
             "answer": 1
           },
@@ -8113,7 +8113,7 @@ const curriculum: DayContent[] = [
               "A local maximum",
               "A point with no special significance",
               "A local minimum",
-              "A value unrelated to concavity"
+              "A saddle point, where the function neither increases nor decreases"
             ],
             "answer": 2
           },
@@ -8123,7 +8123,7 @@ const curriculum: DayContent[] = [
               "If the second derivative equals zero at that point, the test provides no conclusive information",
               "The second derivative test always provides a definitive answer with no exceptions",
               "This test never encounters any situations where it fails to classify a point",
-              "This concept has no connection to how critical points are evaluated"
+              "The test only fails when the first derivative is also zero at that point"
             ],
             "answer": 0
           },
@@ -8133,7 +8133,7 @@ const curriculum: DayContent[] = [
               "This concept only applies to purely theoretical mathematics with no graphing application",
               "It helps identify where a curve bends upward or downward, adding important detail beyond just increasing or decreasing behaviour",
               "A graph can be fully and accurately sketched with no consideration of concavity",
-              "Concavity has no relevance to accurately sketching a function’s graph"
+              "Only affects a graph's x-intercepts, not its overall shape"
             ],
             "answer": 1
           }
@@ -8151,9 +8151,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Fluid mechanics studies the behaviour of ___.",
             "options": [
-              "Only electricity, with no connection to fluids",
-              "A field unrelated to physics",
-              "Only solid objects, with no connection to fluids",
+              "Only solids under extremely high pressure",
+              "Only plasmas found in stars and high-energy environments",
+              "Only crystalline structures at the molecular level",
               "Liquids and gases"
             ],
             "answer": 3
@@ -8161,7 +8161,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Buoyant force is related to the amount of fluid ___.",
             "options": [
-              "A factor entirely unrelated to an object’s presence in a fluid",
+              "That exerts pressure solely on the bottom of its container",
               "Displaced by an object",
               "That remains completely undisturbed by an object",
               "That evaporates from a container"
@@ -8171,7 +8171,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does pressure generally increase with depth in a fluid?",
             "options": [
-              "This concept has no connection to how fluids behave",
+              "Pressure increases with depth only in compressible fluids like gases",
               "The weight of the fluid above a given point increases as depth increases",
               "Depth has no relationship to the pressure within a fluid",
               "Pressure always remains exactly the same regardless of depth"
@@ -8182,9 +8182,9 @@ const curriculum: DayContent[] = [
             "q": "Why does an object float if the buoyant force acting on it is greater than or equal to its weight?",
             "options": [
               "The upward buoyant force is sufcient to counteract the downward pull of gravity on the object",
-              "Buoyant force has no effect on whether an object floats or sinks",
+              "An object floats only if it is less dense than air, not water",
               "An object always sinks regardless of the buoyant force acting on it",
-              "This relationship has no connection to Archimedes’ principle"
+              "Floating occurs due to surface tension rather than any buoyant force"
             ],
             "answer": 0
           },
@@ -8194,7 +8194,7 @@ const curriculum: DayContent[] = [
               "Ship design never requires any understanding of buoyancy or pressure",
               "Fluid mechanics has no practical application in engineering design",
               "It helps engineers predict how a vessel will interact with water, including whether it will float as intended",
-              "This field of physics has no connection to real-world engineering"
+              "Ship design depends only on the strength of materials used, not fluid behaviour"
             ],
             "answer": 2
           }
@@ -8217,7 +8217,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Analyzing a film adaptation involves examining creative choices made in translating a story from prose to ___.",
             "options": [
-              "A format entirely unrelated to storytelling",
+              "A simplified summary intended only for younger readers",
               "A purely audio format with no visual elements",
               "An identical, unchanged text with no adaptation involved",
               "A visual medium"
@@ -8230,7 +8230,7 @@ const curriculum: DayContent[] = [
               "The complete absence of any creative interpretation",
               "An element that always remains perfectly identical between mediums",
               "The pacing or structure of the plot",
-              "A factor entirely unrelated to storytelling choices"
+              "The font and typesetting used in the printed screenplay"
             ],
             "answer": 2
           },
@@ -8239,7 +8239,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Film adaptations never involve any creative interpretation or changes",
               "Visual storytelling has different constraints and strengths than written prose",
-              "This concept has no connection to how different mediums function",
+              "Studios alter details primarily to reduce production costs regardless of story",
               "Filmmakers are always required to keep every detail of a text completely unchanged"
             ],
             "answer": 1
@@ -8258,7 +8258,7 @@ const curriculum: DayContent[] = [
             "q": "Why is evaluating an adaptation’s creative choices different from simply judging whether it is “faithful” to the original text?",
             "options": [
               "It considers whether the adaptation achieves its own artistic goals within its medium, not just literal accuracy",
-              "This distinction has no relevance to analyzing an adaptation",
+              "This distinction matters only for adaptations based on nonfiction source material",
               "Creative choices in an adaptation are never worth evaluating on their own terms",
               "A film adaptation should always be judged solely on how literally it matches the original text"
             ],
@@ -8281,14 +8281,14 @@ const curriculum: DayContent[] = [
               "Always equal to exactly zero",
               "Positive or negative, as specified by the inequality",
               "Undefined across its entire domain",
-              "A concept unrelated to the expression’s sign"
+              "Equal to the degree of the numerator"
             ],
             "answer": 1
           },
           {
             "q": "Critical values for a rational inequality typically come from ___.",
             "options": [
-              "A concept unrelated to the rational expression",
+              "The leading coefficients of the numerator and denominator",
               "The y-intercept of the expression exclusively",
               "Only where the numerator equals a specific positive number",
               "Where the numerator or denominator equals zero"
@@ -8298,9 +8298,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why must values that make the denominator of a rational inequality equal to zero always be excluded from the solution?",
             "options": [
-              "This concept has no connection to solving rational inequalities",
+              "These values only need to be excluded when the inequality is strict",
               "These values should always be included as valid solutions",
-              "The denominator has no effect on which values are valid solutions",
+              "The denominator only affects the function's y-intercept, not its solution set",
               "The expression is undefined at those values, so they cannot satisfy the inequality"
             ],
             "answer": 3
@@ -8311,14 +8311,14 @@ const curriculum: DayContent[] = [
               "Rational inequalities can never be solved using an interval-based approach",
               "It allows you to systematically determine whether the expression is positive or negative within each interval created by the critical values",
               "A sign analysis provides no useful information for solving inequalities",
-              "This method has no connection to determining an expression’s sign"
+              "It only works when the rational expression has exactly one critical value"
             ],
             "answer": 1
           },
           {
             "q": "Why might the solution to a rational inequality be represented using interval notation?",
             "options": [
-              "This notation has no connection to representing mathematical solutions",
+              "It is only used when the solution set contains a single value",
               "Interval notation provides no useful way to represent a solution set",
               "Rational inequalities never have a solution that can be expressed as a range of values",
               "It concisely and clearly represents a range or set of ranges of values that satisfy the inequality"
@@ -8401,7 +8401,7 @@ const curriculum: DayContent[] = [
             "q": "The first law of thermodynamics states that energy ___.",
             "options": [
               "Cannot be created or destroyed, only transformed",
-              "Has no connection to how physical systems behave",
+              "Can be created under high-pressure conditions but not destroyed",
               "Can be permanently destroyed with no trace remaining",
               "Is constantly created from nothing"
             ],
@@ -8411,7 +8411,7 @@ const curriculum: DayContent[] = [
             "q": "The second law of thermodynamics relates to the tendency of natural processes to increase overall ___.",
             "options": [
               "Mass",
-              "A factor entirely unrelated to energy or disorder",
+              "Pressure",
               "Colour",
               "Entropy"
             ],
@@ -8421,19 +8421,19 @@ const curriculum: DayContent[] = [
             "q": "Why is a perpetual motion machine (one that runs forever with no energy input) considered impossible according to the laws of thermodynamics?",
             "options": [
               "It would violate the principle that energy cannot be created and that some energy is always lost as heat in real processes",
-              "This concept has no relevance to how physical systems actually operate",
+              "Perpetual motion machines are possible if all moving parts are frictionless",
               "Perpetual motion machines are fully consistent with all known laws of thermodynamics",
-              "The laws of thermodynamics have no connection to energy conservation"
+              "The laws of thermodynamics apply only to systems involving heat engines"
             ],
             "answer": 0
           },
           {
             "q": "Which is an example of a real-world application of thermodynamic principles?",
             "options": [
-              "A process entirely unrelated to energy transformation",
+              "A refrigerator that cools its contents without any energy input",
               "A situation where no energy transfer occurs whatsoever",
               "The design of an engine that converts fuel into usable mechanical energy",
-              "An application with no connection to thermodynamics"
+              "A closed system in which entropy continuously decreases over time"
             ],
             "answer": 2
           },
@@ -8441,9 +8441,9 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding thermodynamics important for engineers designing energy-efficient systems?",
             "options": [
               "Engineers never need to consider energy transformation when designing systems",
-              "Energy efficiency has no connection to the laws of thermodynamics",
+              "Energy efficiency depends only on the materials used, not thermodynamic limits",
               "It helps them understand the fundamental limits and losses involved in converting and transferring energy",
-              "Thermodynamics has no relevance to designing energy-efficient systems"
+              "Thermodynamics applies only to steam engines, not modern electronic systems"
             ],
             "answer": 2
           }
@@ -8470,15 +8470,15 @@ const curriculum: DayContent[] = [
               "Improvisation with no preparation whatsoever",
               "Research",
               "Avoidance of any factual support",
-              "A concept unrelated to argumentation"
+              "Rigorous memorization of prepared speeches with no ability to adapt"
             ],
             "answer": 1
           },
           {
             "q": "Why is structured argumentation important in a formal debate setting?",
             "options": [
-              "Structure has no effect on how an argument is received in a debate",
-              "This concept has no connection to effective persuasive communication",
+              "Structure is useful only for written arguments, not spoken ones",
+              "Judges in formal debate evaluate solely on speaking volume and confidence",
               "Formal debates should always avoid any clear organization",
               "It helps ensure the argument is clear, logical, and easy for the audience and judges to follow"
             ],
@@ -8487,7 +8487,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why must debaters be able to respond persuasively to complex counterarguments?",
             "options": [
-              "This skill has no connection to effective debating",
+              "This skill matters only in casual conversation, not competitive debate",
               "Counterarguments have no role in a formal debate format",
               "Debaters should always ignore any counterarguments presented by the opposing side",
               "A strong debate requires directly and effectively addressing points raised by the opposing side"
@@ -8500,14 +8500,14 @@ const curriculum: DayContent[] = [
               "Debaters should always respond to opponents in a hostile or dismissive manner",
               "It maintains the integrity and credibility of the debate as a serious, respectful exchange of ideas",
               "Respectful communication has no value in a competitive debate setting",
-              "This concept has no connection to effective or credible argumentation"
+              "Respectful tone is required only when addressing judges, not opponents"
             ],
             "answer": 1
           },
           {
             "q": "Why are formal debate skills considered valuable preparation for university-level academic work?",
             "options": [
-              "Debate skills have no connection to success in university-level academic work",
+              "These skills transfer only to careers specifically in law or politics",
               "University-level work never requires any of these particular skills",
               "They build the ability to research thoroughly, think critically, and communicate persuasively under pressure",
               "These skills are only useful within a formal debate competition setting"
@@ -8651,7 +8651,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only non-conductive, insulating materials with no charge storage",
               "A single, isolated point with no surrounding structure",
-              "A concept unrelated to electric charge",
+              "A single charged sphere suspended in a vacuum",
               "Two conductive plates"
             ],
             "answer": 3
@@ -8659,19 +8659,19 @@ const curriculum: DayContent[] = [
           {
             "q": "The amount of energy stored in a capacitor is related to its capacitance and ___.",
             "options": [
-              "Only its physical colour, with no connection to voltage",
+              "Only the plates' surface area, independent of voltage",
               "The voltage applied",
               "The temperature of the surrounding room exclusively",
-              "A factor entirely unrelated to electric charge"
+              "The resistance of the wires connecting the capacitor"
             ],
             "answer": 1
           },
           {
             "q": "Which is an example of a device that commonly uses capacitors?",
             "options": [
-              "A device with no connection to electrical energy storage",
+              "A simple incandescent light bulb filament",
               "An object that stores no charge or energy whatsoever",
-              "A tool entirely unrelated to electric circuits",
+              "A basic resistor used only to limit current flow",
               "A camera flash"
             ],
             "answer": 3
@@ -8680,7 +8680,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a capacitor be useful in a circuit that requires a quick burst of energy, like a camera flash?",
             "options": [
               "Capacitors can release their stored energy very rapidly compared to some other energy storage methods",
-              "This application has no connection to how capacitors store and release energy",
+              "Capacitors release their stored energy only slowly, over several hours",
               "Capacitors are never able to release energy quickly",
               "A camera flash never involves any electrical energy storage"
             ],
@@ -8692,7 +8692,7 @@ const curriculum: DayContent[] = [
               "Electronic devices never require any form of energy storage components",
               "Capacitors have no role in modern electronic device design",
               "Capacitors play a key role in managing and storing electrical energy within many circuits",
-              "This concept has no relevance to practical circuit design"
+              "Capacitors are only used in circuits that never need rapid energy storage"
             ],
             "answer": 2
           }
@@ -8719,7 +8719,7 @@ const curriculum: DayContent[] = [
               "Only a character’s physical appearance",
               "Memory and identity",
               "Grammar and sentence structure exclusively",
-              "A topic entirely unrelated to personal experience"
+              "A character's socioeconomic status exclusively, with no psychological dimension"
             ],
             "answer": 1
           },
@@ -8729,7 +8729,7 @@ const curriculum: DayContent[] = [
               "A fragmented or nonlinear narrative structure",
               "A strictly chronological structure with absolutely no variation",
               "The complete avoidance of any narrative structure at all",
-              "A technique entirely unrelated to storytelling structure"
+              "An unreliable, omniscient third-person narrator used consistently throughout"
             ],
             "answer": 0
           },
@@ -8739,7 +8739,7 @@ const curriculum: DayContent[] = [
               "Memory related to trauma often does not follow a clear, linear order, and this structure can mirror that experience",
               "This narrative technique is never used to explore psychological themes",
               "Trauma always results in a perfectly clear and linear memory of events",
-              "A nonlinear timeline has no connection to representing memory or trauma"
+              "Nonlinear timelines are used primarily to shorten a novel's overall length"
             ],
             "answer": 0
           },
@@ -8748,7 +8748,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Exploring difficult subject matter in fiction has no value for readers",
               "It can offer readers insight into difficult human experiences and foster empathy and understanding",
-              "Trauma has no connection to meaningful literary exploration",
+              "Exploring trauma in fiction is valuable only for memoir writers, not novelists",
               "This topic should always be avoided entirely in contemporary fiction"
             ],
             "answer": 1
@@ -8759,7 +8759,7 @@ const curriculum: DayContent[] = [
               "This type of analysis provides no additional insight into a text",
               "The techniques themselves shape how a reader experiences and understands the depicted trauma",
               "Only the subject matter of a text is ever worth analyzing",
-              "Literary technique has no connection to how a reader experiences a text’s themes"
+              "Literary technique matters only in poetry, not in prose fiction"
             ],
             "answer": 1
           }
@@ -8898,8 +8898,8 @@ const curriculum: DayContent[] = [
           {
             "q": "An RC circuit contains a resistor and a ___.",
             "options": [
-              "Component entirely unrelated to electric circuits",
-              "Magnet, with no connection to resistors",
+              "Transformer exclusively, with no capacitor present",
+              "Diode, which allows current to flow in only one direction",
               "Light bulb exclusively, with no other components",
               "Capacitor"
             ],
@@ -8908,7 +8908,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The time constant of an RC circuit describes how quickly the capacitor ___.",
             "options": [
-              "A process entirely unrelated to charge or discharge",
+              "Permanently increases its own capacitance value over time",
               "Permanently loses all electrical properties",
               "Changes colour during circuit operation",
               "Charges or discharges through the resistor"
@@ -8919,16 +8919,16 @@ const curriculum: DayContent[] = [
             "q": "Why does the resistor in an RC circuit affect how quickly the capacitor charges?",
             "options": [
               "The resistor limits the current flow, which directly affects the rate of charge accumulation on the capacitor",
-              "This concept has no connection to how RC circuits behave",
+              "A larger resistor always causes the capacitor to charge more quickly",
               "Resistors and capacitors have no functional relationship within a circuit",
-              "The resistor has no effect on how quickly a capacitor charges"
+              "A smaller resistor always causes the capacitor to charge more slowly"
             ],
             "answer": 0
           },
           {
             "q": "Why might RC circuits be used in timing applications, such as a simple flashing light circuit?",
             "options": [
-              "This concept has no connection to real-world circuit design",
+              "RC circuit timing is only useful in high-power industrial systems",
               "The predictable charging and discharging behaviour can be used to control precise time delays",
               "RC circuits have no practical application in timing-related devices",
               "Timing applications never rely on any predictable circuit behaviour"
@@ -8938,7 +8938,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding the time constant important when designing an RC circuit for a specific application?",
             "options": [
-              "This concept has no relevance to practical engineering applications",
+              "The time constant is only relevant when designing circuits for low-voltage applications",
               "The time constant provides no useful information for circuit design",
               "It allows engineers to predict and control how quickly the circuit responds to changes in voltage",
               "RC circuits never behave in any predictable or calculable way"
@@ -8965,7 +8965,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Narrative perspective shapes how a story is ___.",
             "options": [
-              "A concept unrelated to storytelling",
+              "Assigned a specific literary genre and nothing else",
               "Physically printed and bound",
               "Marketed to potential readers only",
               "Told and understood"
@@ -8976,8 +8976,8 @@ const curriculum: DayContent[] = [
             "q": "An unreliable narrator is one whose ___ is compromised.",
             "options": [
               "Physical description",
-              "Name, with no connection to the accuracy of their account",
-              "Age, with no connection to trustworthiness",
+              "Vocabulary, which determines whether a story is considered literary fiction",
+              "Gender, which determines how a character's dialogue is written",
               "Credibility"
             ],
             "answer": 3
@@ -8988,16 +8988,16 @@ const curriculum: DayContent[] = [
               "Unreliable narrators always present a completely accurate account of events",
               "The narrator’s version of events may be biased, incomplete, or intentionally misleading",
               "Readers never need to question a narrator’s reliability",
-              "This type of narration has no effect on how a story should be read"
+              "Unreliable narration only appears in nonfiction memoirs, not in novels"
             ],
             "answer": 1
           },
           {
             "q": "Why might an author choose a first-person perspective specifically to create narrative unreliability?",
             "options": [
-              "This narrative choice has no effect on how a reader interprets a story",
+              "This narrative choice only affects a story's pacing, not its trustworthiness",
               "First-person narration always guarantees complete objectivity and reliability",
-              "Perspective has no connection to whether a narrator can be considered reliable",
+              "Perspective is determined by the publisher rather than the author's creative choice",
               "A first-person narrator’s limited, subjective viewpoint can naturally create doubt about the full accuracy of events"
             ],
             "answer": 3
@@ -9006,7 +9006,7 @@ const curriculum: DayContent[] = [
             "q": "Why is analyzing narrative perspective considered an advanced literary analysis skill?",
             "options": [
               "It requires recognizing how the chosen point of view shapes, limits, or biases the information a reader receives",
-              "Narrative perspective has no connection to how a text’s meaning is constructed",
+              "Narrative perspective only matters for first-person narratives, not third-person ones",
               "This type of analysis provides no additional insight into a text",
               "Perspective is never worth considering when analyzing a work of literature"
             ],
@@ -9028,8 +9028,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Only a single, specific number",
               "Natural numbers",
-              "Irrational numbers exclusively, with no connection to natural numbers",
-              "A concept unrelated to numbers"
+              "All real numbers, without exception",
+              "Even integers only, skipping every odd number"
             ],
             "answer": 1
           },
@@ -9039,7 +9039,7 @@ const curriculum: DayContent[] = [
               "An inductive step",
               "A random, unrelated mathematical statement",
               "No further steps beyond the base case",
-              "A completely unrelated final conclusion with no connection to the base case"
+              "A separate proof by contradiction"
             ],
             "answer": 0
           },
@@ -9049,7 +9049,7 @@ const curriculum: DayContent[] = [
               "Every single possible value all at once",
               "The first (or smallest) relevant value",
               "No specific value at all",
-              "A value entirely unrelated to the statement being proven"
+              "The largest value in the domain, working backward from there"
             ],
             "answer": 1
           },
@@ -9058,7 +9058,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A proof by induction never requires demonstrating any logical connection between values",
               "The inductive step provides no meaningful logical connection between values",
-              "This step has no connection to proving a statement for all natural numbers",
+              "It proves the statement for every natural number directly, without a base case",
               "It shows that if the statement holds for one value, it must also hold for the next value, creating a chain of truth"
             ],
             "answer": 3
@@ -9066,7 +9066,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is mathematical induction a particularly useful proof technique for statements involving patterns across an infinite set of numbers?",
             "options": [
-              "This concept has no connection to proving patterns in mathematics",
+              "It requires testing every case up to a very large number instead of proving it generally",
               "It provides a rigorous way to confirm a pattern holds for every case without needing to check each one individually",
               "This technique provides no advantage over checking every single case individually",
               "Mathematical induction can never be used for statements involving an infinite set of numbers"
@@ -9148,7 +9148,7 @@ const curriculum: DayContent[] = [
             "q": "Diffraction describes the bending and spreading of light waves around ___.",
             "options": [
               "Obstacles or through narrow openings",
-              "A concept unrelated to the behaviour of light",
+              "Only through perfectly transparent, uniform media with no edges",
               "A completely opaque, solid surface with no gaps",
               "Only a perfectly straight, unobstructed path"
             ],
@@ -9157,8 +9157,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does diffraction become more noticeable when light passes through a narrower opening?",
             "options": [
-              "This concept has no connection to how light waves interact with obstacles",
-              "The width of an opening has no effect on the amount of diffraction that occurs",
+              "Diffraction becomes more noticeable only when the opening is wider than the wavelength",
+              "A wider opening always produces greater diffraction than a narrow one",
               "A narrower opening causes a greater relative bending of the light wave around its edges",
               "Diffraction never becomes more or less noticeable regardless of opening size"
             ],
@@ -9168,8 +9168,8 @@ const curriculum: DayContent[] = [
             "q": "Diffraction is closely related to which other wave phenomenon, where overlapping waves combine to strengthen or cancel each other?",
             "options": [
               "Interference",
-              "A phenomenon unrelated to how waves combine",
-              "Only reflection, with no connection to overlapping waves",
+              "Refraction, the bending of light as it passes between different media",
+              "Polarization, the alignment of a wave's oscillation direction",
               "Total internal reflection exclusively"
             ],
             "answer": 0
@@ -9178,16 +9178,16 @@ const curriculum: DayContent[] = [
             "q": "Which is an example of a real-world situation where diffraction of light is observable?",
             "options": [
               "Light bending slightly as it passes through a narrow slit or around a thin edge",
-              "A situation with no connection to wave behaviour",
+              "Light reflecting directly off a smooth, flat mirror",
               "Light travelling through a vacuum with no obstacles at all",
-              "A process entirely unrelated to how light waves propagate"
+              "A rainbow produced by the dispersion of sunlight through raindrops"
             ],
             "answer": 0
           },
           {
             "q": "Why is understanding diffraction important in fields like optics and photography?",
             "options": [
-              "Diffraction has no relevance to optics or photography",
+              "Diffraction is only significant for radio waves, not visible light",
               "This wave property of light directly affects how lenses and optical instruments perform, especially at narrow apertures",
               "Optical instruments never need to account for the wave properties of light",
               "This concept has no practical, real-world application"
@@ -9214,8 +9214,8 @@ const curriculum: DayContent[] = [
           {
             "q": "An op-ed for a national publication requires a clear argument on an issue of ___.",
             "options": [
-              "No relevance to the general public",
-              "A concept unrelated to current events",
+              "Interest primarily to industry specialists and no one else",
+              "A purely hypothetical scenario with no real-world basis",
               "Broad public interest",
               "Interest to only a single individual reader"
             ],
@@ -9226,8 +9226,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Op-eds should always avoid any connection to current events",
               "Op-eds often respond to current events, so relevance to the present moment increases their impact",
-              "This quality has no relevance to persuasive writing intended for publication",
-              "Timeliness has no connection to how an op-ed is received"
+              "Timeliness matters only for breaking news reporting, not opinion writing",
+              "Readers of national publications prefer historical retrospectives over current issues"
             ],
             "answer": 1
           },
@@ -9246,8 +9246,8 @@ const curriculum: DayContent[] = [
             "options": [
               "An op-ed for a national audience should always sound completely generic and impersonal",
               "It helps the piece stand out and establishes the writer’s credibility on a widely relevant issue",
-              "Voice has no connection to how persuasive a piece of writing is",
-              "A distinctive voice has no effect on how an op-ed is received by a large audience"
+              "Voice matters only in fiction writing, not journalism or opinion pieces",
+              "A distinctive voice is valued only in op-eds written by celebrities"
             ],
             "answer": 1
           },
@@ -9255,8 +9255,8 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding a national publication’s specific audience important when writing an op-ed for it?",
             "options": [
               "Op-eds should always be written identically regardless of the specific publication",
-              "This factor has no connection to effective persuasive writing",
-              "The audience of a publication has no effect on how an op-ed should be written",
+              "Audience only matters for advertising copy, not persuasive essays",
+              "A publication's readership affects only its visual layout, not its written content",
               "Tailoring the argument and tone to the audience increases the likelihood the piece will resonate and be published"
             ],
             "answer": 3
@@ -9276,9 +9276,9 @@ const curriculum: DayContent[] = [
             "q": "A unified approach to transformations applies the same general rules across ___.",
             "options": [
               "Only a single, specific type of function",
-              "A concept unrelated to function behaviour",
+              "Only functions that share the same degree",
               "All major function families",
-              "Numbers with no connection to graphing"
+              "Only linear and quadratic functions, excluding other families"
             ],
             "answer": 2
           },
@@ -9288,7 +9288,7 @@ const curriculum: DayContent[] = [
               "Steepness or rate of change",
               "Only its horizontal position",
               "Colour",
-              "A property unrelated to the graph’s shape"
+              "Its domain, restricting which x-values are valid"
             ],
             "answer": 0
           },
@@ -9297,7 +9297,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Transformation rules are always completely different and unrelated for each individual type of function",
               "Transformations can never be meaningfully generalized across different function types",
-              "This concept has no connection to understanding function behaviour more broadly",
+              "It only applies when comparing functions from the exact same family",
               "It allows previously learned transformation skills to be applied efficiently to any new function encountered"
             ],
             "answer": 3
@@ -9308,7 +9308,7 @@ const curriculum: DayContent[] = [
               "Multiple transformations can never be combined and applied to the same function",
               "The order of transformations never has any effect on the final resulting graph",
               "Applying transformations in a different order can sometimes produce a different final graph",
-              "This concept has no connection to accurately predicting a transformed graph"
+              "It only matters when both transformations are reflections"
             ],
             "answer": 2
           },
@@ -9317,7 +9317,7 @@ const curriculum: DayContent[] = [
             "options": [
               "This concept has no practical value beyond a single specific course",
               "It builds a flexible, generalizable skill that applies to the wide variety of functions encountered in more advanced study",
-              "This understanding has no connection to success in future mathematics courses",
+              "It only helps with standardized test questions, not actual coursework",
               "University-level mathematics never involves any further study of function transformations"
             ],
             "answer": 1
@@ -9398,7 +9398,7 @@ const curriculum: DayContent[] = [
             "q": "Particle accelerators use electric and magnetic fields to propel charged particles to ___.",
             "options": [
               "Very high speeds",
-              "A concept unrelated to particle physics",
+              "Speeds exactly equal to the speed of light",
               "A state of complete rest, with no motion involved",
               "Speeds that always remain constant and unchanging"
             ],
@@ -9410,7 +9410,7 @@ const curriculum: DayContent[] = [
               "Only visual observation, with no experimental interaction involved",
               "Collisions that produce no measurable, detectable data",
               "High-energy collisions",
-              "A process entirely unrelated to particle interactions"
+              "Observations made exclusively through optical telescopes"
             ],
             "answer": 2
           },
@@ -9419,7 +9419,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Magnetic fields can steer and control the path of fast-moving charged particles",
               "Magnetic fields have no role in the operation of a particle accelerator",
-              "This concept has no connection to how accelerators function",
+              "Only electric fields, not magnetic fields, are needed to steer particles",
               "Charged particles are never affected by magnetic fields in any way"
             ],
             "answer": 0
@@ -9428,7 +9428,7 @@ const curriculum: DayContent[] = [
             "q": "Why do scientists analyze the debris produced by high-energy particle collisions?",
             "options": [
               "Particle collisions never produce any detectable byproducts",
-              "This concept has no connection to studying fundamental particles",
+              "Only the particles' momentum before collision, never their decay products",
               "The resulting particles and their behaviour can reveal information about fundamental physical processes",
               "The debris from these collisions provides no useful scientific information"
             ],
@@ -9437,8 +9437,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why are particle accelerators considered valuable tools for testing theoretical models in physics?",
             "options": [
-              "Particle accelerators have no connection to testing theoretical physics models",
-              "This concept has no relevance to advancing scientific understanding",
+              "Particle accelerators can only confirm existing theories, never challenge them",
+              "Theoretical predictions can only be validated through computer simulations, not experiments",
               "They allow scientists to create experimental conditions that can confirm or challenge predictions made by theoretical physics",
               "Theoretical physics predictions can never be tested through experimentation"
             ],
@@ -9464,7 +9464,7 @@ const curriculum: DayContent[] = [
             "q": "The Theatre of the Absurd presents ___ to reflect a perceived lack of inherent purpose.",
             "options": [
               "Dialogue that always follows conventional, expected patterns",
-              "A concept unrelated to human existence or meaning",
+              "Elaborate, realistic stage sets meant to ground the action in everyday life",
               "Only perfectly logical, straightforward events",
               "Illogical situations and meaningless dialogue"
             ],
@@ -9475,7 +9475,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No established artistic conventions whatsoever",
               "Only the physical staging of a play, with no thematic challenge",
-              "A concept entirely unrelated to theatre or drama",
+              "Only the use of a live orchestra during performances",
               "Traditional dramatic conventions"
             ],
             "answer": 3
@@ -9485,7 +9485,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Illogical dialogue always removes any philosophical meaning from a play",
               "Nonsensical dialogue is never used intentionally for thematic purposes",
-              "This technique has no connection to exploring ideas about human existence",
+              "This technique is used mainly to shorten the length of a theatrical production",
               "The absence of clear logic can mirror a broader sense of meaninglessness or confusion in the human condition"
             ],
             "answer": 3
@@ -9493,7 +9493,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might audiences initially find works from the Theatre of the Absurd disorienting or confusing?",
             "options": [
-              "This genre has no connection to challenging typical audience expectations",
+              "This genre relies on elaborate special effects unfamiliar to theatre audiences",
               "These works intentionally depart from familiar logical structure and conventional storytelling expectations",
               "Audiences never experience any disorientation when engaging with this type of theatre",
               "These works are always presented in a perfectly clear, conventional format"
@@ -9506,7 +9506,7 @@ const curriculum: DayContent[] = [
               "This movement had no lasting influence on the history or development of drama",
               "The Theatre of the Absurd never actually challenged any existing theatrical conventions",
               "It fundamentally challenged traditional ideas about narrative structure, meaning, and purpose in theatre",
-              "This genre has no connection to broader developments in dramatic art"
+              "This genre is significant only for its influence on film, not theatre"
             ],
             "answer": 2
           }
@@ -9535,15 +9535,15 @@ const curriculum: DayContent[] = [
             "options": [
               "Third variable, called a parameter",
               "Single, fixed constant with no variation",
-              "Concept entirely unrelated to coordinates",
-              "Colour, with no connection to numerical values"
+              "A second dependent variable that replaces y entirely",
+              "The slope of the tangent line at each point"
             ],
             "answer": 0
           },
           {
             "q": "Polar coordinates locate a point using ___.",
             "options": [
-              "A concept entirely unrelated to location or position",
+              "Two distances measured along perpendicular axes",
               "A distance from the origin and an angle from a reference direction",
               "A single number with no other defining information",
               "Only two perpendicular distances, with no angle involved"
@@ -9555,7 +9555,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A random, unrelated mathematical statement",
               "An inductive step",
-              "A completely unrelated final conclusion with no connection to the base case",
+              "A separate case-by-case check for small numbers only",
               "No further steps beyond the base case"
             ],
             "answer": 1
@@ -9565,7 +9565,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Review is never useful in math",
               "Each topic must be learned in complete isolation",
-              "These topics have no connection to each other",
+              "These topics use entirely different notation systems that cannot be compared",
               "These related math concepts reinforce each other for stronger overall understanding"
             ],
             "answer": 3
@@ -9584,7 +9584,7 @@ const curriculum: DayContent[] = [
             "q": "In economics, marginal cost represents the rate of change in total cost with respect to ___.",
             "options": [
               "The colour of the product being manufactured",
-              "A concept unrelated to production or cost",
+              "The total fixed costs of running the business, regardless of output",
               "The total number of years a business has operated",
               "Producing one additional unit"
             ],
@@ -9593,7 +9593,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Marginal revenue can be found by taking the ___ of the total revenue function.",
             "options": [
-              "A calculation entirely unrelated to derivatives",
+              "Second derivative",
               "Sum",
               "Derivative",
               "Product"
@@ -9605,7 +9605,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Comparing these rates of change can help identify the production level where profit is maximized",
               "Marginal cost and marginal revenue provide no useful information for business decisions",
-              "This concept has no connection to real-world economic decision-making",
+              "Marginal cost and revenue only apply to non-profit organizations, not for-profit businesses",
               "Businesses never use any mathematical analysis when determining production levels"
             ],
             "answer": 0
@@ -9623,8 +9623,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a company aim to produce at the point where marginal cost equals marginal revenue?",
             "options": [
-              "This condition has no connection to a company’s profit",
-              "This concept has no relevance to economic decision-making",
+              "This condition only applies when marginal cost is decreasing, never increasing",
+              "This is the point where total cost equals total revenue, not where profit is maximized",
               "Companies should always aim to produce as much as physically possible with no other consideration",
               "This is often the production level associated with maximizing overall profit"
             ],
@@ -9644,7 +9644,7 @@ const curriculum: DayContent[] = [
             "q": "Dark matter and dark energy are largely inferred from their ___.",
             "options": [
               "Direct visual observation through a standard telescope",
-              "A concept unrelated to the study of the universe",
+              "Direct detection through particle collisions in accelerators",
               "Gravitational effects",
               "Complete absence of any detectable influence"
             ],
@@ -9656,7 +9656,7 @@ const curriculum: DayContent[] = [
               "Steady, unchanging size with no expansion or contraction",
               "Accelerating expansion",
               "Complete lack of any expansion whatsoever",
-              "A concept entirely unrelated to cosmology"
+              "A gradual slowing of its rate of expansion over time"
             ],
             "answer": 1
           },
@@ -9665,7 +9665,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Scientists have never found any evidence suggesting the existence of dark matter",
               "Its gravitational influence on visible matter, such as galaxy rotation, suggests the presence of additional unseen mass",
-              "This concept has no connection to observations made in astrophysics",
+              "Measurements of the cosmic microwave background temperature alone",
               "Dark matter has no measurable or inferred effect on the observable universe"
             ],
             "answer": 1
@@ -9675,8 +9675,8 @@ const curriculum: DayContent[] = [
             "options": [
               "It appears to be driving the accelerating expansion, which has major implications for how the universe will evolve over time",
               "The fate of the universe has no relationship to any form of energy",
-              "This concept has no relevance to modern cosmological studies",
-              "Dark energy has no connection to the universe’s long-term expansion or evolution"
+              "Dark energy's existence is purely theoretical, with no observable effects",
+              "Dark energy causes the universe's expansion to gradually slow and reverse"
             ],
             "answer": 0
           },
@@ -9685,7 +9685,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Dark matter and dark energy have no real significance to the field of physics",
               "Despite strong indirect evidence for their existence, their fundamental nature is not yet well understood",
-              "This concept has no connection to ongoing scientific research",
+              "These questions were fully resolved by the discovery of the Higgs boson",
               "These topics have already been completely explained with no remaining scientific questions"
             ],
             "answer": 1
@@ -9709,7 +9709,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Revising a personal essay for depth involves moving beyond ___.",
             "options": [
-              "A concept unrelated to a writer’s reflection",
+              "Only lengthening the essay to meet a word count requirement",
               "Only correcting spelling and punctuation errors",
               "Surface-level description",
               "Adding random, unrelated details with no clear purpose"
@@ -9720,7 +9720,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a writer cut certain sentences or details during revision, even if they are well-written?",
             "options": [
               "Well-written sentences should always be kept regardless of their relevance to the essay’s focus",
-              "This concept has no connection to effective revision practices",
+              "Writers should cut content only when an editor explicitly demands it",
               "Removing content that does not serve the essay’s central meaning can sharpen its overall focus and impact",
               "Cutting content during revision never improves a piece of writing"
             ],
@@ -9730,19 +9730,19 @@ const curriculum: DayContent[] = [
             "q": "Why is precision in word choice particularly important during the revision of a personal essay?",
             "options": [
               "Precise language can more accurately and powerfully convey the specific nuance of a writer’s reflection",
-              "This concept has no connection to strengthening a piece of personal writing",
+              "Precision matters only in technical or scientific writing, not personal essays",
               "Vague, imprecise language is always just as effective as precise language",
-              "Word choice has no effect on how clearly or powerfully an essay communicates its meaning"
+              "Word choice affects only an essay's length, not its clarity or meaning"
             ],
             "answer": 0
           },
           {
             "q": "Why might a writer benefit from stepping away from a draft before revising it for depth and precision?",
             "options": [
-              "Stepping away from a draft has no effect on the quality of the eventual revision",
+              "Stepping away from a draft is useful only for essays longer than ten pages",
               "A writer should always revise immediately with no time between drafting and revising",
               "Returning with fresh perspective can make it easier to notice what is unclear, unnecessary, or underdeveloped",
-              "This concept has no connection to effective revision strategies"
+              "Fresh perspective matters only when writing collaboratively, not individually"
             ],
             "answer": 2
           },
@@ -9752,7 +9752,7 @@ const curriculum: DayContent[] = [
               "A first draft is always already as strong as a fully revised piece of writing",
               "It transforms an initial draft into a more polished, meaningful piece that fully communicates the writer’s intended reflection",
               "This stage of the writing process provides no meaningful improvement to a personal essay",
-              "This concept has no relevance to producing a strong final personal essay"
+              "This stage matters only for essays submitted for publication, not school assignments"
             ],
             "answer": 1
           }
@@ -9788,7 +9788,7 @@ const curriculum: DayContent[] = [
               "Undefined across its entire domain",
               "Positive or negative, as specified by the inequality",
               "Always equal to exactly zero",
-              "A concept unrelated to the expression’s sign"
+              "Equal to the sum of the numerator's coefficients"
             ],
             "answer": 1
           },
@@ -9797,7 +9797,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Purely logarithmic, with no other classification possible",
               "Purely exponential, with no other classification possible",
-              "A function unrelated to piecewise definitions",
+              "A single cubic function with no breaks in its graph",
               "Piecewise"
             ],
             "answer": 3
@@ -9805,7 +9805,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A vertical stretch of a function’s graph affects its ___.",
             "options": [
-              "A property unrelated to the graph’s shape",
+              "Its x-intercepts, shifting them horizontally",
               "Colour",
               "Only its horizontal position",
               "Steepness or rate of change"
@@ -9815,9 +9815,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why must values that make the denominator of a rational inequality equal to zero always be excluded from the solution?",
             "options": [
-              "This concept has no connection to solving rational inequalities",
+              "This only matters when solving quadratic inequalities, not rational ones",
               "These values should always be included as valid solutions",
-              "The denominator has no effect on which values are valid solutions",
+              "The denominator only determines the function's horizontal asymptote",
               "The expression is undefined at those values, so they cannot satisfy the inequality"
             ],
             "answer": 3
@@ -9826,8 +9826,8 @@ const curriculum: DayContent[] = [
             "q": "Why is it valuable to review rational inequalities, piecewise functions, and transformations together?",
             "options": [
               "Review is never useful in math",
-              "These topics have no connection to each other",
-              "Each topic must be studied with no connection to the others",
+              "These topics are only related through sharing the same variable names",
+              "Piecewise functions and transformations apply only to polynomial functions",
               "It reinforces how these related function concepts connect to and build upon one another"
             ],
             "answer": 3
@@ -9920,9 +9920,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Torque is best described as the rotational equivalent of ___.",
             "options": [
-              "A concept unrelated to rotational motion",
+              "The rotational equivalent of momentum",
               "Force",
-              "Only colour, with no connection to motion",
+              "The rotational equivalent of kinetic energy",
               "Mass"
             ],
             "answer": 1
@@ -9933,7 +9933,7 @@ const curriculum: DayContent[] = [
               "Entropy",
               "Colour",
               "Mass",
-              "A factor entirely unrelated to energy or disorder"
+              "Pressure"
             ],
             "answer": 0
           },
@@ -9943,14 +9943,14 @@ const curriculum: DayContent[] = [
               "Permanently loses all electrical properties",
               "Changes colour during circuit operation",
               "Charges or discharges through the resistor",
-              "A process entirely unrelated to charge or discharge"
+              "Increases its own capacitance value permanently over time"
             ],
             "answer": 2
           },
           {
             "q": "Dark energy is associated with the universe’s ___.",
             "options": [
-              "A concept entirely unrelated to cosmology",
+              "A steady contraction rather than expansion",
               "Steady, unchanging size with no expansion or contraction",
               "Complete lack of any expansion whatsoever",
               "Accelerating expansion"
@@ -9961,9 +9961,9 @@ const curriculum: DayContent[] = [
             "q": "Why is it valuable to review these physics topics together at the end of the unit?",
             "options": [
               "Review is never useful in physics",
-              "These topics have no connection to each other",
+              "Mechanics and electromagnetism rely on entirely separate mathematical frameworks",
               "It reinforces how these physical principles connect across mechanics, thermodynamics, and modern physics",
-              "Each topic must be studied with no connection to the others"
+              "Each topic is best studied in isolation, without connecting it to others"
             ],
             "answer": 2
           }
@@ -9998,7 +9998,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A sustained comparison can make an abstract idea feel more vivid and persuasive through cumulative imagery",
               "Direct claims are always more effective than any use of metaphor",
-              "Figurative language has no connection to persuasive writing",
+              "Figurative language is effective only in poetry, never in essays or speeches",
               "Extended metaphors always make an argument less clear to readers"
             ],
             "answer": 0
@@ -10016,9 +10016,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does maintaining consistency in an extended metaphor’s details strengthen its effectiveness?",
             "options": [
-              "Consistency has no effect on how an extended metaphor is understood",
+              "Consistency matters only when the metaphor is used in a formal speech",
               "An effective extended metaphor should always change its central comparison partway through",
-              "This concept has no connection to strong persuasive writing",
+              "An extended metaphor's effectiveness depends only on its length, not its coherence",
               "Consistency allows the comparison to build meaning cumulatively rather than confusing the reader with shifting imagery"
             ],
             "answer": 3
@@ -10029,7 +10029,7 @@ const curriculum: DayContent[] = [
               "This technique requires no particular skill or planning to execute effectively",
               "It requires sustaining a coherent comparison while still developing a clear, persuasive argument",
               "Extended metaphors are never considered a sophisticated literary or rhetorical technique",
-              "This concept has no connection to advanced argumentative writing"
+              "This technique is considered advanced only when used in legal or academic writing"
             ],
             "answer": 1
           }
@@ -10110,24 +10110,24 @@ const curriculum: DayContent[] = [
               "Only the colour of the three-dimensional object involved",
               "A completely fixed, unchanging value with no relationship to time",
               "The rate of change of another quantity over time",
-              "A concept unrelated to rates of change"
+              "A quantity that remains completely independent of time in every case"
             ],
             "answer": 2
           },
           {
             "q": "Which is an example of a three-dimensional related rates problem?",
             "options": [
-              "A problem with no connection to changing quantities",
+              "Finding the fixed volume of a container that never changes size",
               "Finding how quickly the volume of a balloon changes as its radius increases",
               "A situation involving no three-dimensional shapes whatsoever",
-              "A calculation entirely unrelated to calculus"
+              "A problem that can be solved using only the Pythagorean theorem, without any derivatives"
             ],
             "answer": 1
           },
           {
             "q": "Why is implicit differentiation typically used when solving a related rates problem?",
             "options": [
-              "This concept has no connection to solving related rates problems",
+              "Implicit differentiation is only needed when the equation involves trigonometric functions",
               "Implicit differentiation is never used in related rates problems",
               "Multiple quantities are changing with respect to time, requiring differentiation of an equation relating them",
               "These problems can always be solved using only basic algebra with no calculus involved"
@@ -10137,7 +10137,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is drawing a clear diagram often a helpful first step in solving a three-dimensional related rates problem?",
             "options": [
-              "This step has no connection to accurately solving the problem",
+              "Diagrams are only needed for two-dimensional problems, not three-dimensional ones",
               "Related rates problems never involve any relationships that can be visualized",
               "Diagrams provide no useful benefit when solving these types of problems",
               "It helps visualize the relationships between the changing quantities before setting up the necessary equation"
@@ -10170,15 +10170,15 @@ const curriculum: DayContent[] = [
             "options": [
               "Frequency",
               "Mass",
-              "Colour, with no connection to sound or wave frequency",
-              "A property entirely unrelated to waves"
+              "Amplitude, which depends on the wave's energy rather than its relative motion",
+              "Speed, which always remains exactly constant regardless of motion"
             ],
             "answer": 0
           },
           {
             "q": "The Doppler effect occurs when a wave’s source and observer are ___.",
             "options": [
-              "A concept unrelated to motion or waves",
+              "Separated by a vacuum that completely blocks the wave",
               "Both completely stationary with no relative motion",
               "Located an infinite distance apart with no possible interaction",
               "Moving relative to each other"
@@ -10188,7 +10188,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which is a classic everyday example of the Doppler effect?",
             "options": [
-              "A situation entirely unrelated to sound waves",
+              "A bridge vibrating at its natural frequency during high winds",
               "A sound that always remains at exactly the same pitch regardless of motion",
               "An event where no sound is produced or heard at all",
               "A siren’s pitch appearing to change as an ambulance passes by"
@@ -10198,8 +10198,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does the frequency of a wave appear higher as its source approaches an observer?",
             "options": [
-              "The source’s motion has no effect on the frequency perceived by an observer",
-              "This concept has no connection to how sound waves are perceived",
+              "Only the observer's own motion affects the perceived frequency, not the source's",
+              "The temperature of the air alone determines the perceived frequency change",
               "Frequency always remains exactly the same regardless of relative motion",
               "The source moving closer causes successive wave crests to reach the observer more frequently"
             ],
@@ -10210,7 +10210,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The Doppler effect has no application outside of everyday sound phenomena",
               "Shifts in the frequency of light from distant objects can reveal whether they are moving toward or away from Earth",
-              "This concept has no connection to studying the universe",
+              "Redshift and blueshift occur only in sound waves, never in light",
               "Astronomers never use wave phenomena to study the motion of distant objects"
             ],
             "answer": 1
@@ -10236,7 +10236,7 @@ const curriculum: DayContent[] = [
             "q": "Metafiction is a technique in which a work draws attention to its own status as ___.",
             "options": [
               "A completely factual, non-fictional account",
-              "A concept unrelated to storytelling",
+              "A completely autobiographical account of the author's own life",
               "Fiction",
               "A physical object with no narrative content"
             ],
@@ -10247,7 +10247,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A completely unrelated external event",
               "The reader’s personal, private life",
-              "A concept unrelated to narrative technique",
+              "A completely separate story published by a different author",
               "Its own construction"
             ],
             "answer": 3
@@ -10256,7 +10256,7 @@ const curriculum: DayContent[] = [
             "q": "Which is an example of a metafictional technique?",
             "options": [
               "A character acknowledging that they are aware they exist within a novel",
-              "A technique entirely unrelated to narrative self-reference",
+              "An author inserting footnotes that cite real academic sources",
               "A story told in a completely straightforward, traditional manner with no self-awareness",
               "A plot that never draws attention to its own fictional nature"
             ],
@@ -10265,7 +10265,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might an author use metafiction to explore questions about the nature of storytelling itself?",
             "options": [
-              "This technique has no connection to exploring the nature of fiction",
+              "Metafiction is used primarily to simplify a story for younger readers",
               "Metafiction never engages with any deeper questions about storytelling",
               "Drawing attention to a text’s construction can prompt readers to reflect on how narratives shape meaning and truth",
               "Readers never reflect on a text’s construction when metafiction is used"
@@ -10297,7 +10297,7 @@ const curriculum: DayContent[] = [
             "q": "Iterating a function means repeatedly applying it to ___.",
             "options": [
               "Its own output",
-              "A concept unrelated to functions",
+              "Its derivative at each step, rather than its value",
               "Only its original input value, with no repetition involved",
               "A completely different, unrelated function"
             ],
@@ -10307,7 +10307,7 @@ const curriculum: DayContent[] = [
             "q": "A fixed point of a function is a value that ___.",
             "options": [
               "Always changes dramatically every time the function is applied",
-              "A concept unrelated to how a function behaves",
+              "Doubles in value every time the function is applied",
               "Can never be found for any type of function",
               "Remains unchanged when the function is applied to it"
             ],
@@ -10318,7 +10318,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Always equal to zero, with no other possible value",
               "A fixed point of the function f",
-              "Unrelated to the concept of a fixed point",
+              "A root of the function f",
               "A value that can never satisfy any function"
             ],
             "answer": 1
@@ -10326,7 +10326,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might repeatedly iterating a function sometimes cause its output to approach a fixed point?",
             "options": [
-              "Fixed points have no connection to the process of iterating a function",
+              "This only occurs for linear functions with a slope of exactly one",
               "For certain functions, each application can move the value closer to a value that satisfies the fixed point condition",
               "Iteration never causes a function’s output to approach any particular value",
               "This concept only applies to functions with no real-world or mathematical significance"
@@ -10417,7 +10417,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A blackbody is an idealized object that absorbs ___.",
             "options": [
-              "A concept unrelated to the absorption of radiation",
+              "Only wavelengths within the visible spectrum, reflecting the rest",
               "All incoming radiation",
               "Only visible light, with no other wavelengths absorbed",
               "No radiation whatsoever"
@@ -10428,26 +10428,26 @@ const curriculum: DayContent[] = [
             "q": "Planck’s Law describes how the intensity of radiation emitted by a blackbody depends on wavelength and ___.",
             "options": [
               "Temperature",
-              "Colour, with no connection to any physical property",
+              "The object's surface colour, independent of its temperature",
               "Mass",
-              "A factor entirely unrelated to radiation"
+              "The physical size of the object, independent of temperature"
             ],
             "answer": 0
           },
           {
             "q": "Why does a hotter blackbody emit radiation with a shorter peak wavelength compared to a cooler one?",
             "options": [
-              "Temperature has no effect on the wavelength of radiation emitted by a blackbody",
+              "Temperature affects only the total radiated energy, not the peak wavelength",
               "Higher temperatures shift the distribution of emitted energy toward shorter, higher-energy wavelengths",
               "Cooler objects always emit radiation at shorter wavelengths than hotter objects",
-              "This concept has no connection to how blackbody radiation behaves"
+              "Peak wavelength depends only on the object's material composition, not its temperature"
             ],
             "answer": 1
           },
           {
             "q": "Why was Planck’s Law historically significant in the development of physics?",
             "options": [
-              "This law has no connection to the historical development of quantum theory",
+              "Planck's Law was derived entirely within the framework of classical physics, introducing no new ideas",
               "Planck’s Law had no significant impact on the development of modern physics",
               "Blackbody radiation was never a significant area of study in physics",
               "It helped resolve a major problem in classical physics and laid groundwork for the development of quantum theory"
@@ -10458,8 +10458,8 @@ const curriculum: DayContent[] = [
             "q": "Why is blackbody radiation relevant to understanding the light emitted by stars?",
             "options": [
               "The light emitted by stars provides no useful information about their physical characteristics",
-              "This concept has no relevance to astrophysics",
-              "Blackbody radiation has no connection to understanding the properties of stars",
+              "Stellar temperatures can only be measured by sending probes directly to a star",
+              "Stars emit light randomly, following no predictable spectral pattern",
               "Stars approximately behave like blackbodies, so their emitted light can reveal information about their temperature"
             ],
             "answer": 3
@@ -10486,7 +10486,7 @@ const curriculum: DayContent[] = [
               "Provide a completely neutral, unbiased description of a product",
               "Persuade consumers and shape brand perception",
               "Avoid influencing consumer opinion or behaviour in any way",
-              "A purpose entirely unrelated to persuasion"
+              "Comply with government-mandated product labeling requirements"
             ],
             "answer": 1
           },
@@ -10495,7 +10495,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Providing only a plain list of technical specifications with no persuasive framing",
               "Aspirational imagery suggesting a desirable lifestyle",
-              "A strategy entirely unrelated to influencing consumer perception",
+              "Citing independent laboratory test results exclusively",
               "Avoiding any emotional appeal whatsoever"
             ],
             "answer": 1
@@ -10505,8 +10505,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Repeated exposure can increase familiarity and recognition, which can influence consumer preference",
               "Advertisers always avoid using repetition in their campaigns",
-              "Repetition has no effect on how consumers perceive or remember a brand",
-              "This concept has no connection to marketing or persuasion"
+              "Repetition is effective only in television ads, not print or digital media",
+              "Brand recognition depends only on logo design, not slogan repetition"
             ],
             "answer": 0
           },
@@ -10515,7 +10515,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It helps consumers recognize how persuasive techniques are shaping their perceptions and purchasing decisions",
               "Advertising rhetoric has no real influence on consumer behaviour",
-              "Media literacy has no connection to understanding advertising techniques",
+              "Media literacy applies only to news broadcasts, not commercial advertising",
               "This type of analysis provides no useful insight into media messages"
             ],
             "answer": 0
@@ -10523,7 +10523,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might an advertisement use emotional appeal rather than purely factual information about a product?",
             "options": [
-              "This concept has no connection to how consumers make purchasing decisions",
+              "Emotional appeals are used only when a product lacks measurable technical advantages",
               "Advertisements always rely exclusively on factual, technical information",
               "Emotional connections can be a powerful motivator for purchasing decisions, sometimes more so than facts alone",
               "Emotional appeal is never used as a strategy in product advertising"
@@ -10607,25 +10607,25 @@ const curriculum: DayContent[] = [
               "A vector",
               "Only a single, unrelated integer",
               "A purely qualitative description with no numerical value",
-              "A concept unrelated to functions"
+              "A single scalar quantity with magnitude but no direction"
             ],
             "answer": 0
           },
           {
             "q": "Vector-valued functions are often used to describe an object’s ___ over time.",
             "options": [
-              "A factor entirely unrelated to motion",
+              "An object's mass and density, which stay constant whether or not it moves",
               "Colour and physical appearance only",
               "Position, velocity, and acceleration",
-              "Temperature exclusively, with no connection to movement"
+              "The object's color and texture, changing only how it looks, not how it moves"
             ],
             "answer": 2
           },
           {
             "q": "Why might differentiating a vector-valued function describing position produce a function describing velocity?",
             "options": [
-              "This concept has no relevance to understanding motion",
-              "Differentiation has no connection to finding an object’s velocity from its position",
+              "The second derivative of position, which represents acceleration rather than velocity",
+              "Integrating the position function with respect to time, rather than differentiating it",
               "A vector-valued function can never be differentiated using standard calculus techniques",
               "The derivative of a position vector with respect to time represents the rate of change of position, which is velocity"
             ],
@@ -10636,7 +10636,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Vector-valued functions can only ever describe motion along a single straight line",
               "This mathematical tool has no advantage over standard single-output functions for describing motion",
-              "This concept only applies to purely theoretical mathematics with no connection to real motion",
+              "This concept only applies to objects moving at a constant speed in a single direction",
               "They can simultaneously represent multiple components of motion, such as horizontal and vertical movement"
             ],
             "answer": 3
@@ -10667,7 +10667,7 @@ const curriculum: DayContent[] = [
               "Identical to that of a perfect insulator",
               "Between that of a conductor and an insulator",
               "Identical to that of a perfect conductor",
-              "A property entirely unrelated to electrical conductivity"
+              "Dependent only on the material's colour, not its atomic structure"
             ],
             "answer": 1
           },
@@ -10677,16 +10677,16 @@ const curriculum: DayContent[] = [
               "Only simple, non-electronic mechanical tools",
               "Devices that involve no electrical components whatsoever",
               "Transistors and diodes",
-              "A category entirely unrelated to electronics"
+              "Vacuum tubes used in early analog computers"
             ],
             "answer": 2
           },
           {
             "q": "Why can the conductivity of a semiconductor be precisely controlled, unlike that of a typical conductor or insulator?",
             "options": [
-              "Doping has no effect on a semiconductor’s electrical behaviour",
+              "Doping changes only a semiconductor's colour, not its electrical behaviour",
               "Semiconductor conductivity can never be adjusted or controlled in any way",
-              "This property has no connection to how semiconductors are used in electronics",
+              "Doping is a process used only to strengthen a semiconductor physically, not electrically",
               "Semiconductors can be modified through a process called doping, which adjusts their electrical properties"
             ],
             "answer": 3
@@ -10697,16 +10697,16 @@ const curriculum: DayContent[] = [
               "They act as tiny switches that control the flow of electric current, forming the basis of digital logic circuits",
               "Transistors have no functional role in modern computing devices",
               "Computing devices never rely on any semiconductor-based components",
-              "This concept has no connection to how electronic devices process information"
+              "Transistors function only as light-emitting components within a circuit"
             ],
             "answer": 0
           },
           {
             "q": "Why is understanding semiconductor physics important for continued advancements in electronic technology?",
             "options": [
-              "Semiconductor physics has no connection to advancements in electronic technology",
+              "Semiconductor physics is only relevant to decorative lighting applications",
               "It enables engineers to develop smaller, more efficient, and more powerful electronic components",
-              "This concept has no relevance to the development of modern technology",
+              "Advances in electronic technology depend only on manufacturing techniques, not physics",
               "Electronic devices never benefit from advances in materials science or physics"
             ],
             "answer": 1
@@ -10733,7 +10733,7 @@ const curriculum: DayContent[] = [
               "Only the total number of printed pages",
               "Narrative pacing",
               "The book’s physical cover design exclusively",
-              "A factor entirely unrelated to storytelling technique"
+              "The publisher's marketing budget for the release"
             ],
             "answer": 1
           },
@@ -10743,7 +10743,7 @@ const curriculum: DayContent[] = [
               "This form of storytelling is always considered less complex than traditional prose",
               "Graphic novels never require any meaningful interpretation from readers",
               "It requires interpreting complex interactions between text and image to construct meaning",
-              "This concept has no connection to how literary sophistication is evaluated"
+              "Sophistication in this form depends only on the number of illustrations included"
             ],
             "answer": 2
           },
@@ -10752,7 +10752,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A technique identical to those used exclusively in traditional prose novels",
               "Using panel size and layout to control pacing and emphasis",
-              "A method entirely unrelated to visual storytelling",
+              "Using footnotes to cite the artist's academic sources",
               "Avoiding any use of images throughout the entire work"
             ],
             "answer": 1
@@ -10761,7 +10761,7 @@ const curriculum: DayContent[] = [
             "q": "Why might symbolism in a graphic novel be conveyed differently than in a traditional prose novel?",
             "options": [
               "Visual elements, like recurring imagery or colour choices, can convey symbolic meaning without relying solely on written description",
-              "This concept has no connection to how meaning is constructed in different literary forms",
+              "Symbolism in graphic novels depends only on the color of the book's cover",
               "Symbolism can never be conveyed through visual elements in any medium",
               "Graphic novels never make use of any symbolic or thematic elements"
             ],
@@ -10914,17 +10914,17 @@ const curriculum: DayContent[] = [
             "options": [
               "Sunlight",
               "Sound waves",
-              "A source unrelated to light energy",
-              "Only heat, with no connection to light"
+              "Geothermal heat stored deep within the Earth's crust",
+              "Chemical energy already stored within soil nutrients"
             ],
             "answer": 0
           },
           {
             "q": "Cellular respiration releases energy stored in ___.",
             "options": [
-              "A source unrelated to stored chemical energy",
+              "Kinetic energy generated directly by muscle contraction",
               "Glucose",
-              "Only water, with no connection to glucose",
+              "Carbon dioxide absorbed directly from the surrounding air",
               "Oxygen alone, with no other molecules involved"
             ],
             "answer": 1
@@ -10942,7 +10942,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which gas is released during photosynthesis and used during cellular respiration?",
             "options": [
-              "A gas unrelated to either process",
+              "Methane",
               "Helium",
               "Oxygen",
               "Nitrogen"
@@ -10952,7 +10952,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding the relationship between these two processes important in biology?",
             "options": [
-              "These processes have no connection to energy flow in ecosystems",
+              "These processes apply only to plants, not to animals or ecosystems",
               "It helps explain how energy flows through living systems, from producers to consumers",
               "This relationship has no scientific significance",
               "Only one of these processes is relevant to understanding energy flow"
@@ -11009,7 +11009,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a writer use the pathetic fallacy rather than directly stating a character's emotions?",
             "options": [
-              "It has no effect on how a scene is experienced by the reader",
+              "It is used primarily to lengthen a scene's physical description",
               "It can create mood and atmosphere indirectly, letting setting reflect feeling",
               "Direct statements of emotion are always considered better writing",
               "This device removes all emotional content from a scene"
@@ -11164,8 +11164,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Away from the centre of the circle",
               "Toward the centre of the circle",
-              "In a direction unrelated to the object’s motion",
-              "In a straight line with no connection to the circle"
+              "Tangent to the circular path, in the direction of travel",
+              "Outward, away from the centre, opposing gravity"
             ],
             "answer": 1
           },
@@ -11174,7 +11174,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Objects with mass",
               "Only objects with no mass",
-              "A force unrelated to mass",
+              "Electrically charged particles only, regardless of their mass",
               "Objects that repel each other, never attract"
             ],
             "answer": 0
@@ -11184,7 +11184,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Circular motion requires no force to be maintained",
               "Objects naturally curve without any applied force",
-              "Centripetal force has no connection to circular motion",
+              "Centripetal force is only required at very high rotational speeds",
               "Without it, the object would move in a straight line rather than curve around the circle"
             ],
             "answer": 3
@@ -11195,17 +11195,17 @@ const curriculum: DayContent[] = [
               "An object at complete rest with no motion",
               "A planet orbiting the Sun",
               "A ball rolling in a straight line on flat ground",
-              "A situation with no connection to gravity"
+              "A pendulum swinging back and forth under gravity"
             ],
             "answer": 1
           },
           {
             "q": "Why is understanding gravitation important for explaining planetary orbits?",
             "options": [
-              "Gravitation has no connection to planetary motion",
+              "Gravitation explains only the Moon's orbit, not the orbits of planets",
               "Gravitational attraction between the Sun and planets provides the force that keeps them in orbit",
               "Planets orbit with no force acting upon them",
-              "This concept has no relevance to astronomy or physics"
+              "Planetary orbits are maintained by the planets' own rotational inertia alone"
             ],
             "answer": 1
           }
@@ -11230,7 +11230,7 @@ const curriculum: DayContent[] = [
             "q": "A eulogy or occasional speech is written for a specific ___ purpose.",
             "options": [
               "A purpose disconnected from any audience or context",
-              "Entirely unrelated to any occasion or event",
+              "Entirely comedic, with humor as the primary goal regardless of tone",
               "Purely technical, with no ceremonial element at all",
               "Ceremonial"
             ],
@@ -11240,7 +11240,7 @@ const curriculum: DayContent[] = [
             "q": "This type of speech requires a tone that is appropriate to ___.",
             "options": [
               "The occasion",
-              "A factor entirely unrelated to the purpose of the speech",
+              "The length of time allotted for the speech alone",
               "Only the speaker’s personal preference, with no consideration of the audience",
               "No specific context or audience whatsoever"
             ],
@@ -11252,7 +11252,7 @@ const curriculum: DayContent[] = [
               "It helps an audience relate the specific memories being shared to universal themes like loss, love, or legacy",
               "Personal reflection and broader meaning are always completely unrelated in this type of speech",
               "A eulogy should never attempt to connect with a shared audience experience",
-              "This concept has no connection to effective occasional speech writing"
+              "This concept applies only to eulogies for public figures, not private individuals"
             ],
             "answer": 0
           },
@@ -11260,8 +11260,8 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding the specific occasion important when writing a speech like a eulogy or a wedding toast?",
             "options": [
               "The purpose and tone required can differ significantly depending on the specific ceremonial context",
-              "The occasion has no effect on how this type of speech should be written",
-              "This concept has no connection to effective speech writing",
+              "The occasion affects only the speech's length, not its tone or content",
+              "Tone requirements apply only to religious ceremonies, not secular ones",
               "All occasional speeches should always be written in an identical way regardless of context"
             ],
             "answer": 0
@@ -11272,7 +11272,7 @@ const curriculum: DayContent[] = [
               "The language needs to convey genuine emotion and respect appropriate to a sensitive and significant occasion",
               "Word choice has no particular significance in this specific type of writing",
               "A eulogy should always use the most casual, informal language possible",
-              "This concept has no connection to writing an effective ceremonial speech"
+              "Word choice matters only when the eulogy will be published afterward"
             ],
             "answer": 0
           }
@@ -11293,7 +11293,7 @@ const curriculum: DayContent[] = [
               "Only positive, with no other classification possible",
               "Neither",
               "Only negative, with no other classification possible",
-              "A category unrelated to function symmetry"
+              "Periodic, a classification based on repeating patterns rather than symmetry"
             ],
             "answer": 1
           },
@@ -11301,19 +11301,19 @@ const curriculum: DayContent[] = [
             "q": "An even function’s graph is symmetric with respect to the ___.",
             "options": [
               "y-axis",
-              "x-axis exclusively, with no connection to the y-axis",
-              "A concept unrelated to any axis of symmetry",
-              "Origin exclusively, with no connection to the y-axis"
+              "The origin, since the graph repeats after a half rotation",
+              "The line y = x, reflecting the graph across the diagonal",
+              "Both axes simultaneously, by definition"
             ],
             "answer": 0
           },
           {
             "q": "An odd function’s graph is symmetric with respect to the ___.",
             "options": [
-              "y-axis exclusively, with no connection to the origin",
-              "x-axis exclusively, with no connection to the origin",
+              "The y-axis, the same symmetry an even function has",
+              "The line y = -x, reflecting the graph diagonally downward",
               "Origin",
-              "A concept unrelated to any point of symmetry"
+              "No axis or point, since odd functions have no symmetry at all"
             ],
             "answer": 2
           },
@@ -11322,7 +11322,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Every function must always be treated identically regardless of any symmetry it has",
               "This classification provides no useful information about a function’s behaviour",
-              "This concept has no connection to understanding or graphing a function",
+              "This only matters for polynomial functions, not other function types",
               "It reveals a structural property that can simplify calculations or predictions about the function’s behaviour"
             ],
             "answer": 3
@@ -11331,7 +11331,7 @@ const curriculum: DayContent[] = [
             "q": "Why might recognizing a function as odd be particularly useful when evaluating a definite integral over a symmetric interval?",
             "options": [
               "This concept only applies to purely abstract mathematics with no practical calculation benefit",
-              "Symmetry classification has no connection to evaluating definite integrals",
+              "An odd function's integral over a symmetric interval is always undefined",
               "An odd function’s symmetry can allow certain integrals over a symmetric interval to be simplified or determined without full calculation",
               "Odd functions can never be integrated using any simplified method"
             ],
@@ -11354,24 +11354,24 @@ const curriculum: DayContent[] = [
               "Slows",
               "Immediately drops to zero with no gradual change",
               "Continues increasing at an unlimited, ever-accelerating rate",
-              "A concept unrelated to how the quantity changes over time"
+              "Grows in a straight line pattern once it nears the maximum value"
             ],
             "answer": 0
           },
           {
             "q": "The maximum sustainable value in a logistic growth model is called the ___.",
             "options": [
-              "Initial value exclusively, with no connection to a maximum",
-              "A concept unrelated to sustainable growth",
+              "Growth rate constant, which determines how quickly the maximum is approached",
+              "Inflection point, where the growth rate is at its highest",
               "Carrying capacity",
-              "Growth rate, with no connection to a maximum value"
+              "Initial population size, before any growth has occurred"
             ],
             "answer": 2
           },
           {
             "q": "Why is a logistic growth model often more realistic than a simple exponential growth model for describing a population over a long period of time?",
             "options": [
-              "This concept has no connection to how populations actually behave over time",
+              "Logistic models eventually predict unlimited growth too, just over a longer timeframe",
               "Logistic models are always identical to purely exponential growth models",
               "Exponential growth always provides a perfectly accurate long-term prediction for real populations",
               "Real populations are usually limited by factors like resources, unlike the unlimited growth assumed by a purely exponential model"
@@ -11381,8 +11381,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does a logistic growth curve have an S-shape (or sigmoid shape) when graphed?",
             "options": [
-              "This concept has no relevance to how the model is graphed or interpreted",
-              "The S-shape has no connection to how logistic growth is mathematically defined",
+              "The S-shape only appears when the carrying capacity is very small",
+              "The curve's shape is determined only by the initial population size, independent of growth rate",
               "Growth starts slowly, accelerates, and then levels off as the quantity approaches its carrying capacity",
               "A logistic growth curve is always a perfectly straight line with no curvature"
             ],
@@ -11413,7 +11413,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Resistance that increases continuously over time with no limit",
               "Zero electrical resistance",
-              "A property entirely unrelated to electrical resistance",
+              "Resistance that fluctuates randomly with the applied current",
               "Extremely high electrical resistance"
             ],
             "answer": 1
@@ -11422,9 +11422,9 @@ const curriculum: DayContent[] = [
             "q": "Superconductivity occurs when a material is cooled below its ___.",
             "options": [
               "Critical temperature",
-              "Boiling point exclusively, with no connection to a critical temperature",
-              "A factor entirely unrelated to temperature",
-              "Melting point exclusively, with no connection to a critical temperature"
+              "Room temperature, requiring no additional cooling",
+              "Atomic number exclusively, with no dependence on temperature",
+              "Debye temperature exclusively, a separate property from critical temperature"
             ],
             "answer": 0
           },
@@ -11434,7 +11434,7 @@ const curriculum: DayContent[] = [
               "Zero resistance has no meaningful benefit compared to typical conductors",
               "Ordinary conductors already have zero electrical resistance under normal conditions",
               "It allows electric current to flow without any energy loss due to resistance, unlike ordinary conductors",
-              "This property has no connection to how electric current flows through a material"
+              "Zero resistance only reduces energy loss partially, not completely"
             ],
             "answer": 2
           },
@@ -11442,8 +11442,8 @@ const curriculum: DayContent[] = [
             "q": "Which is an example of a practical application that relies on superconductivity?",
             "options": [
               "Powerful electromagnets used in MRI machines",
-              "A technology entirely unrelated to electricity or magnetism",
-              "An application that has no connection to cooling materials",
+              "High-speed maglev trains powered solely by permanent magnets",
+              "Standard household wiring operating at room temperature",
               "A device that requires high electrical resistance to function"
             ],
             "answer": 0
@@ -11451,9 +11451,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does the need for extremely low temperatures currently limit the widespread practical use of many superconducting materials?",
             "options": [
-              "Temperature has no effect on whether a material exhibits superconductivity",
+              "Superconductivity becomes easier to achieve as temperature increases",
               "Maintaining such low temperatures requires significant energy and specialized equipment, adding cost and complexity",
-              "This concept has no connection to the practical challenges of using superconductors",
+              "Cooling costs are negligible compared to the energy savings gained",
               "Superconducting materials can maintain their properties at any temperature with no special conditions required"
             ],
             "answer": 1
@@ -11480,14 +11480,14 @@ const curriculum: DayContent[] = [
               "A single compelling idea",
               "As many unrelated ideas as possible within the given time",
               "A purely technical report with no central idea",
-              "A concept unrelated to focused, structured communication"
+              "A comprehensive literature review of the speaker's entire field"
             ],
             "answer": 0
           },
           {
             "q": "Why might a TED-style talk begin with a personal narrative hook?",
             "options": [
-              "This concept has no connection to engaging an audience from the outset",
+              "This technique works only for talks on scientific topics",
               "This structure never appears in an effective TED-style presentation",
               "A relatable, personal opening can quickly capture audience interest and establish an emotional connection",
               "A personal narrative hook always weakens the impact of this type of talk"
@@ -11498,9 +11498,9 @@ const curriculum: DayContent[] = [
             "q": "Why is having a clear structure especially important for a concise talk with a strict time limit?",
             "options": [
               "A clear structure helps ensure the core idea is communicated efficiently and memorably within limited time",
-              "Structure has no effect on how well a concise talk communicates its main idea",
+              "Structure matters only for talks longer than twenty minutes",
               "A time limit has no influence on how a talk should be structured",
-              "This concept has no connection to effective public speaking within a constrained format"
+              "This concept applies only to written speeches, not live presentations"
             ],
             "answer": 0
           },
@@ -11509,7 +11509,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The closing statement has no particular importance in this type of talk",
               "A memorable ending always distracts from the main message of the talk",
-              "This concept has no connection to effective persuasive or informative speaking",
+              "A memorable closing matters only in competitive debate, not public talks",
               "A strong closing can reinforce the central idea and leave a lasting impression on the audience"
             ],
             "answer": 3
@@ -11518,7 +11518,7 @@ const curriculum: DayContent[] = [
             "q": "Why is focusing on a single compelling idea, rather than several unrelated ones, considered an effective approach for this speaking format?",
             "options": [
               "A single focused idea is easier for an audience to understand, remember, and be moved by within a short time frame",
-              "This concept has no connection to how audiences process and retain information",
+              "Audiences retain multiple ideas as easily as a single focused one",
               "Focusing on a single idea always makes a talk less interesting to an audience",
               "Multiple unrelated ideas are always more effective than a single focused one"
             ],
@@ -11538,7 +11538,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Advanced recursive sequences apply a defining rule repeatedly to model ___.",
             "options": [
-              "A concept entirely unrelated to real-world modelling",
+              "Only sequences with a constant difference between consecutive terms",
               "Complex real-world processes",
               "Only purely abstract patterns with no practical application",
               "A single, isolated calculation with no repeated process involved"
@@ -11550,7 +11550,7 @@ const curriculum: DayContent[] = [
             "options": [
               "More than one",
               "Only a single previous term, in every possible case",
-              "A concept unrelated to how recursive sequences are defined",
+              "The sequence's limit, rather than any prior term",
               "Exactly zero, with no dependence on any prior term"
             ],
             "answer": 0
@@ -11558,7 +11558,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which is an example of a sequence where each term depends on the two previous terms?",
             "options": [
-              "A sequence unrelated to recursive definitions",
+              "The sequence of perfect squares",
               "A sequence with no defined recursive pattern whatsoever",
               "The Fibonacci sequence",
               "Any sequence with a constant, unchanging value throughout"
@@ -11569,7 +11569,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a recursive sequence be a natural way to model a population that grows based on both current and previous population data?",
             "options": [
               "Population growth can never depend on more than a single prior data point",
-              "This concept has no connection to how recursive sequences function",
+              "This only applies to populations that grow exponentially, never otherwise",
               "Recursive sequences have no useful application for modelling population growth",
               "A recursive definition can directly capture how a term’s value depends on one or more earlier terms in the sequence"
             ],
@@ -11580,7 +11580,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Computer science algorithms never rely on any form of recursive structure",
               "This concept only applies to purely theoretical mathematics with no application to computing",
-              "Recursive sequences have no connection to how algorithms are designed",
+              "Recursive algorithms are always less efficient than iterative ones",
               "Many algorithms are designed using a recursive structure, where a solution depends on solutions to smaller, related instances of the same problem"
             ],
             "answer": 3
@@ -11661,7 +11661,7 @@ const curriculum: DayContent[] = [
             "q": "Resonance occurs when a system is driven to oscillate at its ___ with increased amplitude.",
             "options": [
               "Natural frequency",
-              "A concept unrelated to oscillation",
+              "Its lowest possible amplitude, regardless of the driving frequency",
               "Slowest possible frequency, regardless of its natural properties",
               "Maximum possible temperature"
             ],
@@ -11670,20 +11670,20 @@ const curriculum: DayContent[] = [
           {
             "q": "Resonance is a principle central to ___ and the design of musical instruments.",
             "options": [
-              "Only visual art, with no connection to sound",
-              "A field entirely unrelated to sound",
+              "Only percussion instruments, not strings or wind instruments",
+              "Thermodynamics, a field focused on heat transfer rather than vibration",
               "Acoustics",
-              "A concept unrelated to oscillating systems"
+              "A phenomenon limited strictly to electrical circuits, not mechanical systems"
             ],
             "answer": 2
           },
           {
             "q": "Why might a wine glass shatter when exposed to a sound at exactly its natural frequency?",
             "options": [
-              "Resonance has no effect on the vibration of a physical object like a glass",
+              "The glass shatters only because of the sound's loudness, not its frequency",
               "Sound waves never have any physical effect on solid objects",
               "The resonant vibration can build up amplitude until it exceeds the structural limits of the glass",
-              "This concept has no connection to how resonance and vibration function"
+              "Glass can only break from direct physical impact, never from sound alone"
             ],
             "answer": 2
           },
@@ -11691,8 +11691,8 @@ const curriculum: DayContent[] = [
             "q": "Why do musical instrument designers carefully consider the shape and material of an instrument’s body?",
             "options": [
               "The shape and material of an instrument have no effect on the sound it produces",
-              "Resonance has no connection to how musical instruments are designed",
-              "This concept has no relevance to acoustics or instrument design",
+              "An instrument's shape affects only its appearance, not the sound it produces",
+              "Acoustic design principles apply only to electronic instruments, not acoustic ones",
               "These factors influence the instrument’s resonant properties, shaping the sound quality it produces"
             ],
             "answer": 3
@@ -11701,8 +11701,8 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding resonance important for engineers designing structures like bridges?",
             "options": [
               "Structures need to be designed to avoid dangerous resonant vibrations caused by factors like wind or foot traffic",
-              "This concept has no connection to structural safety or engineering design",
-              "Resonance has no relevance to the structural design of bridges or buildings",
+              "Bridges can be designed to withstand any vibration regardless of its frequency",
+              "Resonance effects are only a concern for tall buildings, never bridges",
               "Engineers never need to consider natural frequency when designing large structures"
             ],
             "answer": 0
@@ -11729,7 +11729,7 @@ const curriculum: DayContent[] = [
               "A textbook with no audience",
               "Live performance and voice",
               "Silent reading only",
-              "A format with no connection to sound"
+              "A written transcript distributed before the performance begins"
             ],
             "answer": 1
           },
@@ -11739,7 +11739,7 @@ const curriculum: DayContent[] = [
               "Rhythm, tone, and body language",
               "Footnotes and citations only",
               "A completely monotone, unchanging voice",
-              "Elements with no connection to the poem's meaning"
+              "Elaborate costumes and stage props exclusively"
             ],
             "answer": 0
           },
@@ -11749,7 +11749,7 @@ const curriculum: DayContent[] = [
               "Performance adds no new dimension to a poem's meaning",
               "To use their voice and presence to intensify the audience's emotional connection to the words",
               "Written poetry is always more powerful than performed poetry",
-              "Spoken word has no connection to poetic tradition"
+              "Spoken word performance is primarily a way to avoid copyright issues"
             ],
             "answer": 1
           },
@@ -11757,8 +11757,8 @@ const curriculum: DayContent[] = [
             "q": "A poet's 'voice' in this context refers to ___.",
             "options": [
               "Only the literal volume of their speaking voice",
-              "A quality unrelated to word choice or delivery",
-              "A concept with no relevance to poetry",
+              "Only the specific dialect or accent of the performer's hometown",
+              "The number of poems a poet has published in their career",
               "Their distinctive way of expressing ideas through language, tone, and delivery"
             ],
             "answer": 3
@@ -11766,10 +11766,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is spoken word poetry often considered a bridge between literary and oral traditions?",
             "options": [
-              "It has no connection to either literary or oral traditions",
+              "Spoken word poetry is defined entirely by its written punctuation choices",
               "Oral tradition and written literature have never intersected",
               "It combines the crafted language of written poetry with the immediacy of live oral performance",
-              "Spoken word poetry is unrelated to any tradition of storytelling"
+              "This form belongs exclusively to contemporary slam poetry competitions"
             ],
             "answer": 2
           }
@@ -11803,8 +11803,8 @@ const curriculum: DayContent[] = [
           {
             "q": "A complex number in polar form is expressed using magnitude and ___.",
             "options": [
-              "A factor entirely unrelated to magnitude",
-              "Colour, with no connection to complex numbers",
+              "Monotonic, meaning it always increases or always decreases",
+              "Only functions with a degree of two or higher",
               "Angle",
               "Only its real component, with no angle involved"
             ],
@@ -11813,7 +11813,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Constrained optimization involves finding a maximum or minimum value while satisfying ___.",
             "options": [
-              "A concept entirely unrelated to limiting factors",
+              "A second magnitude measured along the imaginary axis",
               "One or more limiting conditions",
               "No conditions whatsoever",
               "Only conditions involving a single variable, with no others considered"
@@ -11823,10 +11823,10 @@ const curriculum: DayContent[] = [
           {
             "q": "An even function’s graph is symmetric with respect to the ___.",
             "options": [
-              "Origin exclusively, with no connection to the y-axis",
+              "The line y = x, reflecting the graph across the diagonal",
               "y-axis",
-              "A concept unrelated to any axis of symmetry",
-              "x-axis exclusively, with no connection to the y-axis"
+              "The origin, since the graph repeats after a half rotation",
+              "Both axes simultaneously, by definition"
             ],
             "answer": 1
           },
@@ -11834,7 +11834,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful to review logarithmic growth, complex numbers, and optimization together?",
             "options": [
               "Review is never useful in math",
-              "These topics have no connection to each other",
+              "These topics are only related through sharing the same variable names",
               "Each topic must be learned in complete isolation",
               "These related math concepts reinforce each other for stronger overall understanding"
             ],
@@ -11915,8 +11915,8 @@ const curriculum: DayContent[] = [
             "q": "Satellites remain in orbit through a balance between gravitational pull and their ___.",
             "options": [
               "Forward velocity",
-              "A factor entirely unrelated to orbital mechanics",
-              "Internal temperature, with no connection to motion",
+              "Internal magnetic field strength",
+              "Rotational spin around their own axis",
               "Complete lack of any motion whatsoever"
             ],
             "answer": 0
@@ -11925,9 +11925,9 @@ const curriculum: DayContent[] = [
             "q": "Orbital mechanics helps determine factors like orbital period and ___.",
             "options": [
               "The material used to construct the satellite exclusively",
-              "Colour, with no connection to a satellite’s orbit",
+              "Mass, a quantity that stays fixed regardless of orbital altitude",
               "Altitude",
-              "A factor entirely unrelated to a satellite’s position"
+              "Fuel capacity exclusively, a resource unaffected by orbital geometry"
             ],
             "answer": 2
           },
@@ -11936,17 +11936,17 @@ const curriculum: DayContent[] = [
             "options": [
               "A larger orbit requires travelling a greater distance, and gravitational pull is weaker farther from Earth, both factors that affect this relationship",
               "All satellites, regardless of altitude, always have exactly the same orbital period",
-              "This concept has no connection to how orbital mechanics functions",
-              "Altitude has no effect on how long a satellite takes to complete one orbit"
+              "Orbital period depends only on a satellite's mass, not its altitude",
+              "Lower altitude always results in a longer orbital period"
             ],
             "answer": 0
           },
           {
             "q": "Why is precise calculation important when placing a satellite into a stable orbit?",
             "options": [
-              "This concept has no relevance to the practical challenges of satellite deployment",
+              "Precise calculation only matters during launch, not once in orbit",
               "Even small errors in velocity or altitude can prevent a satellite from maintaining a stable, sustained orbit",
-              "Precision has no effect on whether a satellite can maintain a stable orbit",
+              "A stable orbit can be achieved at any velocity, regardless of altitude",
               "Satellites can be placed into orbit with no consideration of gravitational or velocity factors"
             ],
             "answer": 1
@@ -11957,7 +11957,7 @@ const curriculum: DayContent[] = [
               "It ensures satellites are placed at altitudes and orbits appropriate for their specific intended function",
               "Communication and weather satellites never require any specific orbital placement",
               "This concept has no practical application in modern satellite technology",
-              "Orbital mechanics has no connection to how satellite networks are planned or designed"
+              "All satellites use identical orbits regardless of their intended purpose"
             ],
             "answer": 0
           }
@@ -11982,7 +11982,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A series of completely separate, disconnected summaries",
               "A cohesive, original argument",
-              "A concept unrelated to using multiple sources",
+              "A direct quotation of the most authoritative source available",
               "An argument based entirely on a single source, with no others considered"
             ],
             "answer": 1
@@ -11993,7 +11993,7 @@ const curriculum: DayContent[] = [
               "Synthesis never involves comparing or connecting ideas from multiple sources",
               "Synthesis actively connects and compares ideas across sources to build a new, unified argument",
               "Synthesis and summarizing sources one at a time are always identical processes",
-              "This concept has no connection to constructing an academic argument"
+              "Synthesis is required only in scientific writing, not in the humanities"
             ],
             "answer": 1
           },
@@ -12003,7 +12003,7 @@ const curriculum: DayContent[] = [
               "Directly comparing differing viewpoints can help develop a more nuanced and well-supported original argument",
               "Comparing differing viewpoints never strengthens an academic argument",
               "Sources with differing perspectives should always be discussed in complete isolation from one another",
-              "This concept has no connection to effective source synthesis"
+              "Differing perspectives should be presented only in a bibliography, not the body text"
             ],
             "answer": 0
           },
@@ -12012,7 +12012,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Synthesis requires no more skill or critical thinking than a simple summary",
               "Summary is always considered a more advanced skill than synthesis",
-              "This concept has no connection to the development of academic writing skills",
+              "Synthesis is considered advanced only when applied to primary historical sources",
               "It requires critical thinking to identify meaningful connections, patterns, or tensions across multiple sources"
             ],
             "answer": 3
@@ -12022,7 +12022,7 @@ const curriculum: DayContent[] = [
             "options": [
               "University research writing never involves engaging with multiple existing sources",
               "University-level research often requires building an original argument informed by a wide range of existing scholarship",
-              "This concept has no connection to succeeding in advanced academic writing",
+              "This skill is valuable only for literature courses, not other academic disciplines",
               "Synthesis has no particular relevance to university-level academic work"
             ],
             "answer": 1
@@ -12055,7 +12055,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The limit of a sequence describes the value its terms approach as the sequence ___.",
             "options": [
-              "A concept unrelated to how a sequence behaves",
+              "The average of its first and last terms",
               "Remains completely undefined at every term",
               "Stops after exactly two terms",
               "Continues indefinitely"
@@ -12065,7 +12065,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A function can be classified as even, odd, or ___.",
             "options": [
-              "A category unrelated to function symmetry",
+              "Periodic, a classification based on repeating patterns rather than symmetry",
               "Only negative, with no other classification possible",
               "Neither",
               "Only positive, with no other classification possible"
@@ -12077,7 +12077,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Complex real-world processes",
               "Only purely abstract patterns with no practical application",
-              "A concept entirely unrelated to real-world modelling",
+              "Only sequences with a constant difference between consecutive terms",
               "A single, isolated calculation with no repeated process involved"
             ],
             "answer": 0
@@ -12086,7 +12086,7 @@ const curriculum: DayContent[] = [
             "q": "A sequence is said to converge if ___.",
             "options": [
               "Its limit exists",
-              "A condition entirely unrelated to limits",
+              "Its terms eventually repeat in a fixed cycle",
               "It has no defined terms whatsoever",
               "Its terms become increasingly unpredictable with no discernible pattern"
             ],
@@ -12098,7 +12098,7 @@ const curriculum: DayContent[] = [
               "Review is never useful in math",
               "Each topic must be learned in complete isolation",
               "These related math concepts reinforce each other for stronger overall understanding",
-              "These topics have no connection to each other"
+              "These topics use entirely different notation systems that cannot be compared"
             ],
             "answer": 2
           }
@@ -12176,7 +12176,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Renewable energy technologies apply fundamental physics principles to convert natural sources of energy into ___.",
             "options": [
-              "A concept unrelated to energy conversion",
+              "Entirely new forms of matter not found in nature",
               "Usable electrical power",
               "A form of energy with no practical application",
               "Heat that is immediately released with no further use"
@@ -12187,7 +12187,7 @@ const curriculum: DayContent[] = [
             "q": "Which is an example of a renewable energy technology?",
             "options": [
               "A solar panel",
-              "A device entirely unrelated to energy generation",
+              "A diesel generator burning fossil fuels",
               "A technology that relies exclusively on non-renewable fuel sources",
               "A tool that generates no usable energy whatsoever"
             ],
@@ -12197,27 +12197,27 @@ const curriculum: DayContent[] = [
             "q": "Why do solar panels rely on the photoelectric effect to generate electricity?",
             "options": [
               "Light striking the solar panel’s material can release electrons, creating an electric current",
-              "Solar panels have no connection to the physics of light and electrons",
+              "Solar panels generate electricity through the thermal expansion of their materials",
               "The photoelectric effect has no practical application in renewable energy",
-              "This concept has no relevance to how solar panels function"
+              "The photoelectric effect applies only to ultraviolet light, not visible sunlight"
             ],
             "answer": 0
           },
           {
             "q": "Why does a wind turbine’s design take into account principles of rotational motion and torque?",
             "options": [
-              "This concept has no relevance to renewable energy technology design",
+              "Turbine blade shape is chosen only for appearance, not efficiency",
               "Efficiently converting wind’s kinetic energy into rotational motion is essential for generating usable electrical power",
               "Wind turbines generate electricity with no reliance on any physical principles",
-              "Rotational motion and torque have no connection to how a wind turbine operates"
+              "A turbine's power output depends only on blade material, not its rotational dynamics"
             ],
             "answer": 1
           },
           {
             "q": "Why is understanding the underlying physics of renewable energy technologies important for improving their efficiency?",
             "options": [
-              "Physics has no connection to improving the efficiency of renewable energy systems",
-              "This concept has no relevance to ongoing renewable energy research and development",
+              "Efficiency improvements come only from using costlier materials, not physics",
+              "Renewable energy research focuses only on reducing cost, not underlying physics",
               "A deeper understanding of these principles can guide innovations that capture and convert energy more effectively",
               "Renewable energy technologies cannot be improved through any scientific understanding"
             ],
@@ -12245,7 +12245,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Traditional heroic qualities, such as clear moral virtue",
               "Any role or presence within the narrative whatsoever",
-              "A concept unrelated to a story’s central character",
+              "A clearly defined narrative arc or character development",
               "A name or any other form of identity within the story"
             ],
             "answer": 0
@@ -12253,7 +12253,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The anti-hero complicates a reader’s sense of ___.",
             "options": [
-              "A concept unrelated to a reader’s engagement with a character",
+              "The grammatical tense used throughout the narrative",
               "Who to root for",
               "The physical setting of the story",
               "The story’s exact publication date"
@@ -12265,15 +12265,15 @@ const curriculum: DayContent[] = [
             "options": [
               "Anti-heroes always make a narrative simpler and less morally complex",
               "It disrupts the traditional clear divide between hero and villain, prompting more complex moral reflection from the reader",
-              "This concept has no connection to challenging typical storytelling conventions",
-              "This character type has no effect on how a reader engages with a story’s themes"
+              "Anti-heroes are used primarily to simplify a story's moral lessons for younger readers",
+              "This character type affects only a story's pacing, not its themes"
             ],
             "answer": 1
           },
           {
             "q": "Which is an example of a trait an anti-hero might possess?",
             "options": [
-              "A trait entirely unrelated to a character’s moral complexity",
+              "A character whose only flaw is excessive physical cowardice in combat",
               "A character defined entirely by unwavering moral virtue with no flaws",
               "A character who has no discernible motivations of any kind",
               "A protagonist who acts primarily out of self-interest rather than clear moral conviction"
@@ -12284,7 +12284,7 @@ const curriculum: DayContent[] = [
             "q": "Why might readers find anti-heroes compelling despite, or because of, their moral ambiguity?",
             "options": [
               "Anti-heroes always make a narrative less engaging or interesting to readers",
-              "This concept has no connection to how audiences respond to complex characters",
+              "Moral ambiguity is compelling only in visual media like film, not literature",
               "Readers never find morally ambiguous characters compelling in any way",
               "Their complexity can feel more psychologically realistic and prompt deeper engagement with questions of morality"
             ],
@@ -12328,7 +12328,7 @@ const curriculum: DayContent[] = [
           {
             "q": "De Moivre’s Theorem provides an efficient method for ___.",
             "options": [
-              "A concept unrelated to complex number operations",
+              "Only adding the real parts of two complex numbers together",
               "Only adding two complex numbers together",
               "Raising a complex number to a power",
               "Converting a complex number into a purely real number"
@@ -12348,10 +12348,10 @@ const curriculum: DayContent[] = [
           {
             "q": "An odd function’s graph is symmetric with respect to the ___.",
             "options": [
-              "A concept unrelated to any point of symmetry",
-              "y-axis exclusively, with no connection to the origin",
+              "The line y = -x, reflecting the graph diagonally downward",
+              "The y-axis, the same symmetry an even function has",
               "Origin",
-              "x-axis exclusively, with no connection to the origin"
+              "No axis or point, since odd functions have no symmetry at all"
             ],
             "answer": 2
           },
@@ -12360,7 +12360,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Comprehensive review provides no benefit at the end of a unit",
               "It reinforces how rates of change, complex numbers, sequences, and function properties connect as tools for advanced problem-solving",
-              "Each topic must be understood with absolutely no connection to the others",
+              "Each topic belongs to a separate branch of mathematics with no shared tools",
               "These topics have no meaningful connections to each other"
             ],
             "answer": 1
@@ -12453,8 +12453,8 @@ const curriculum: DayContent[] = [
           {
             "q": "The Doppler effect describes a change in observed ___ of a wave.",
             "options": [
-              "A property entirely unrelated to waves",
-              "Colour, with no connection to sound or wave frequency",
+              "Amplitude, a measure of loudness rather than perceived pitch",
+              "Wavelength only, independent of any change in frequency",
               "Mass",
               "Frequency"
             ],
@@ -12464,9 +12464,9 @@ const curriculum: DayContent[] = [
             "q": "General relativity describes gravity as ___.",
             "options": [
               "A force that behaves identically to electromagnetism in every way",
-              "A completely separate, unrelated force with no connection to mass",
+              "A force transmitted instantaneously between masses, regardless of distance",
               "The curvature of spacetime caused by mass",
-              "A concept entirely unrelated to the structure of the universe"
+              "An effect that only applies at subatomic scales, not to large masses"
             ],
             "answer": 2
           },
@@ -12474,7 +12474,7 @@ const curriculum: DayContent[] = [
             "q": "Superconductivity occurs when certain materials conduct electric current with ___.",
             "options": [
               "Resistance that increases continuously over time with no limit",
-              "A property entirely unrelated to electrical resistance",
+              "Resistance that gradually decreases but never fully reaches zero",
               "Extremely high electrical resistance",
               "Zero electrical resistance"
             ],
@@ -12485,8 +12485,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Complete lack of any motion whatsoever",
               "Forward velocity",
-              "Internal temperature, with no connection to motion",
-              "A factor entirely unrelated to orbital mechanics"
+              "Magnetic field alignment with Earth's poles",
+              "Surface reflectivity, a property affecting visibility rather than orbital motion"
             ],
             "answer": 1
           },
@@ -12496,7 +12496,7 @@ const curriculum: DayContent[] = [
               "It reinforces how these advanced physics principles connect across waves, modern physics, and applied technology",
               "These topics have no meaningful connections to each other",
               "Comprehensive review provides no benefit at the end of a unit",
-              "Each topic must be understood with absolutely no connection to the others"
+              "Only the most mathematically complex topics are worth reviewing"
             ],
             "answer": 0
           }
@@ -12521,7 +12521,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Meaning",
               "Wealth and material success exclusively",
-              "A concept unrelated to existentialist philosophy",
+              "A rigid moral code dictated by religious doctrine",
               "A fixed, predetermined destiny with no room for individual choice"
             ],
             "answer": 0
@@ -12531,7 +12531,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A destiny fully determined by fate or divine will",
               "Rules imposed entirely by external authorities, with no personal input",
-              "A concept unrelated to existentialist thought",
+              "Their inherited social class and family reputation",
               "Their own choices and actions"
             ],
             "answer": 3
@@ -12542,7 +12542,7 @@ const curriculum: DayContent[] = [
               "A story that avoids any exploration of a character’s inner life",
               "A protagonist whose life is entirely controlled by fate with no capacity for choice",
               "A protagonist confronting the absence of inherent meaning and choosing how to respond",
-              "A theme entirely unrelated to questions of freedom or meaning"
+              "A protagonist who achieves wealth through inherited family fortune"
             ],
             "answer": 2
           },
@@ -12550,9 +12550,9 @@ const curriculum: DayContent[] = [
             "q": "Why might an existentialist novel emphasize a character’s anxiety when facing a significant decision?",
             "options": [
               "Existentialist characters never face any significant decisions",
-              "This concept has no relevance to how existentialist themes are portrayed",
+              "Anxiety in these novels is used only for comic relief, not philosophical weight",
               "The weight of radical freedom and responsibility for one’s choices can provoke genuine existential anxiety",
-              "Anxiety has no connection to existentialist philosophy or literature"
+              "This anxiety reflects only a character's physical danger, not existential concerns"
             ],
             "answer": 2
           },
@@ -12561,8 +12561,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Modern literature never engages with questions of meaning or personal responsibility",
               "It reflects modern uncertainties about meaning, identity, and moral responsibility in a rapidly changing world",
-              "This philosophical movement has no relevance to how contemporary authors explore identity",
-              "Existentialist philosophy has no connection to literature written after the nineteenth century"
+              "Existentialist themes apply only to French literature, not other national traditions",
+              "Existentialist philosophy influenced only philosophy texts, never works of fiction"
             ],
             "answer": 1
           }
@@ -12640,8 +12640,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Elasticity of demand measures how sensitive the quantity demanded of a good is to a change in its ___.",
             "options": [
-              "A concept unrelated to consumer demand",
-              "Colour or packaging design, with no connection to price",
+              "The competitor's pricing strategy exclusively, regardless of the good's own price",
+              "The number of competing brands available in the market",
               "The manufacturer’s total production costs exclusively",
               "Price"
             ],
@@ -12653,7 +12653,7 @@ const curriculum: DayContent[] = [
               "Constant term only, with no derivative involved",
               "Second antiderivative exclusively, with no first derivative involved",
               "Derivative",
-              "A concept unrelated to calculus"
+              "Integral, representing total revenue accumulated over a price range"
             ],
             "answer": 2
           },
@@ -12662,7 +12662,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A relatively large change in quantity demanded",
               "No change whatsoever in quantity demanded",
-              "A concept unrelated to elasticity",
+              "An increase in price that always raises total revenue regardless of elasticity",
               "An identical, proportionally smaller change in every case"
             ],
             "answer": 0
@@ -12673,7 +12673,7 @@ const curriculum: DayContent[] = [
               "Understanding how sensitive demand is to price changes can help predict the effect of a price change on total revenue",
               "Businesses never need to consider how demand responds to price changes",
               "This concept only applies to purely abstract mathematics with no economic use",
-              "Elasticity of demand has no connection to setting prices or predicting revenue"
+              "Elasticity only matters for luxury goods, not everyday necessities"
             ],
             "answer": 0
           },
@@ -12682,7 +12682,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Elasticity of demand can never be modelled using any calculus-based method",
               "Calculus captures the instantaneous rate of change in demand at a specific price point, offering more precise insight than an average rate",
-              "This concept has no connection to how economists analyze market behaviour",
+              "Static calculations always provide the same precision as calculus-based methods",
               "Calculus provides no additional precision compared to simple average calculations"
             ],
             "answer": 1
@@ -12702,7 +12702,7 @@ const curriculum: DayContent[] = [
             "q": "The Bohr model describes electrons orbiting the nucleus in ___.",
             "options": [
               "Fixed energy levels",
-              "A concept unrelated to atomic structure",
+              "A continuous range of energies with no fixed levels",
               "Random, unpredictable positions with no defined structure at all",
               "A single continuous, unrestricted path with no defined levels"
             ],
@@ -12714,16 +12714,16 @@ const curriculum: DayContent[] = [
               "Merge directly with the nucleus of the atom",
               "Drop to a lower energy level",
               "Remain permanently fixed at the same energy level with no movement",
-              "A concept unrelated to atomic structure"
+              "Absorb additional energy from an external magnetic field"
             ],
             "answer": 1
           },
           {
             "q": "Each element produces a ___ emission spectrum.",
             "options": [
-              "Identical, with no connection to which element is involved",
+              "The same spectrum as every other element in its periodic table group",
               "Completely random pattern that changes unpredictably each time",
-              "A concept unrelated to atomic emission",
+              "A spectrum identical to the Sun's, regardless of the element",
               "Unique, identifiable"
             ],
             "answer": 3
@@ -12733,8 +12733,8 @@ const curriculum: DayContent[] = [
             "options": [
               "The energy released by an electron is always identical, regardless of which energy levels are involved",
               "The energy released exactly matches the difference between the two specific, fixed energy levels involved",
-              "This concept has no relevance to how atomic emission spectra are produced",
-              "Photon energy has no connection to the difference between an atom’s energy levels"
+              "The photon's energy depends only on the electron's speed, not the energy levels involved",
+              "Photon energy is always the same fixed value, regardless of which transition occurs"
             ],
             "answer": 1
           },
@@ -12743,7 +12743,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Emission spectra provide no useful information about the composition of distant objects",
               "The unique spectral pattern of light from a star can reveal which elements are present in its composition",
-              "This concept has no connection to studying objects outside our solar system",
+              "Spectral analysis can only identify elements within our own solar system",
               "Astronomers never use light analysis to study the composition of stars"
             ],
             "answer": 1
@@ -12769,7 +12769,7 @@ const curriculum: DayContent[] = [
             "q": "A rhetorical device is best described as ___.",
             "options": [
               "A grammar error writers should always avoid",
-              "A concept unrelated to persuasive writing",
+              "A formal citation style required in academic essays",
               "A technique used deliberately to create a specific effect on the reader or listener",
               "A random word choice with no persuasive purpose"
             ],
@@ -12779,7 +12779,7 @@ const curriculum: DayContent[] = [
             "q": "Anaphora specifically refers to ___.",
             "options": [
               "Repeating a word or phrase at the start of successive clauses or sentences",
-              "A concept unrelated to rhetorical repetition",
+              "Repeating a word or phrase at the end of successive clauses",
               "Never repeating any word within a passage",
               "Repeating an entire paragraph word for word at random points"
             ],
@@ -12789,7 +12789,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a speaker or writer use repetition in a persuasive piece?",
             "options": [
               "Repetition always weakens a persuasive argument",
-              "A reason unrelated to persuasive technique",
+              "Repetition is effective only in written essays, never in spoken speeches",
               "Repetition builds emphasis, rhythm, and makes key ideas more memorable",
               "Repeating words is only ever accidental, never intentional"
             ],
@@ -12798,7 +12798,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In Martin Luther King Jr.'s speech, the repeated phrase \"I have a dream\" at the start of several sentences is an example of ___.",
             "options": [
-              "A concept unrelated to rhetorical devices",
+              "Epistrophe, repeating a phrase at the end of clauses",
               "Anaphora",
               "A grammar mistake",
               "A phrase used only once, with no repetition"
@@ -12809,7 +12809,7 @@ const curriculum: DayContent[] = [
             "q": "Why is rhetorical repetition especially effective in persuasive speeches meant to be heard aloud?",
             "options": [
               "Listeners never notice repeated phrases in spoken language",
-              "This concept has no connection to spoken persuasive language",
+              "Repetition is effective only when combined with written visual aids",
               "A repeated phrase can anchor listeners and build emotional momentum as the speech builds toward its point",
               "Repetition only works in written text, never in speech"
             ],
@@ -12831,7 +12831,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No equations whatsoever",
               "Only a single equation, with no other equations involved",
-              "A concept unrelated to systems of equations",
+              "Only a single variable, with the others held constant",
               "Two or more equations"
             ],
             "answer": 3
@@ -12842,14 +12842,14 @@ const curriculum: DayContent[] = [
               "Zero, one, or two, depending on the specific equations",
               "Always exactly one solution, with no other possibility",
               "An infinite number of solutions in every single case",
-              "A concept unrelated to solving these systems"
+              "Always equal to the sum of their degrees"
             ],
             "answer": 0
           },
           {
             "q": "Which is a common method for solving a system of non-linear equations?",
             "options": [
-              "A method entirely unrelated to solving equation systems",
+              "Graphing both equations and estimating the intersection by eye alone",
               "Ignoring one of the equations entirely",
               "Substitution, replacing one variable using an expression from the other equation",
               "Assuming a solution exists with no calculation required"
@@ -12860,9 +12860,9 @@ const curriculum: DayContent[] = [
             "q": "Why might a system involving a circle and a line have zero, one, or two points of intersection?",
             "options": [
               "Depending on the line’s position, it may miss the circle entirely, be tangent to it, or cross through it at two points",
-              "The number of intersection points has no connection to the geometric relationship between the curves",
+              "A line can intersect a circle at a third point if extended far enough",
               "A line and a circle can never intersect at more than one point under any circumstances",
-              "This concept has no relevance to solving non-linear systems"
+              "Always exactly one point, regardless of the line's position"
             ],
             "answer": 0
           },
@@ -12872,7 +12872,7 @@ const curriculum: DayContent[] = [
               "Non-linear systems can never be represented or understood graphically",
               "Graphing provides no useful information when solving a system of equations",
               "A graph can reveal the approximate number and location of solutions, helping check the reasonableness of an algebraic answer",
-              "This concept has no connection to solving systems of equations effectively"
+              "It only works once the algebraic solution has already been found"
             ],
             "answer": 2
           }
@@ -12890,17 +12890,17 @@ const curriculum: DayContent[] = [
           {
             "q": "The Squeeze Theorem determines the limit of a function by trapping it between ___.",
             "options": [
-              "A single unrelated function with no connection to the original limit",
+              "A single function raised to increasingly higher powers",
               "An infinite number of unrelated functions with no shared limit",
               "Two other functions with the same known limit at a given point",
-              "A concept unrelated to evaluating limits"
+              "Evaluating the limit by directly substituting the value into the original function"
             ],
             "answer": 2
           },
           {
             "q": "The Squeeze Theorem is especially useful for functions that are ___.",
             "options": [
-              "A concept unrelated to the Squeeze Theorem",
+              "Defined only at a single isolated point, with no surrounding interval",
               "Undefined at every single point in their domain",
               "Difficult to evaluate directly",
               "Already fully simplified, requiring no further evaluation"
@@ -12910,7 +12910,7 @@ const curriculum: DayContent[] = [
           {
             "q": "For the Squeeze Theorem to apply, the two bounding functions must approach ___ at the point in question.",
             "options": [
-              "A concept unrelated to how the Squeeze Theorem works",
+              "Different values, as long as both are close to the original function's values",
               "Two completely different, unrelated values",
               "The same limiting value",
               "Infinity in every single case, with no other possibility"
@@ -12923,7 +12923,7 @@ const curriculum: DayContent[] = [
               "The Squeeze Theorem has no application to trigonometric limits",
               "This expression cannot be evaluated by direct substitution, but it can be trapped between two simpler functions with a known common limit",
               "This type of limit can always be evaluated using direct substitution, so no special theorem is needed",
-              "This concept has no connection to evaluating limits involving trigonometric functions"
+              "This limit is always undefined because dividing by a value approaching zero is impossible"
             ],
             "answer": 1
           },
@@ -12950,9 +12950,9 @@ const curriculum: DayContent[] = [
           {
             "q": "The Compton effect describes a change in ___ of a photon after it scatters off a charged particle.",
             "options": [
-              "Colour of the particle it scatters from, with no connection to the photon itself",
+              "The polarization of the particle it scatters from",
               "Mass, which photons do not possess",
-              "A concept unrelated to photon behaviour",
+              "The photon's speed, which increases after the collision",
               "Wavelength"
             ],
             "answer": 3
@@ -12963,7 +12963,7 @@ const curriculum: DayContent[] = [
               "Momentum",
               "Mass, in every measurable interaction",
               "Electric charge, which photons do not carry",
-              "A property entirely unrelated to photon behaviour"
+              "Electric charge, acquired temporarily during the scattering event"
             ],
             "answer": 0
           },
@@ -12972,7 +12972,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A particle with no measurable properties whatsoever",
               "Charged particle, such as an electron",
-              "A concept unrelated to photon scattering",
+              "A neutral particle with no charge, such as a neutrino",
               "An empty region of space with no particles present"
             ],
             "answer": 1
@@ -12980,9 +12980,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does a scattered photon in the Compton effect have a longer wavelength than the incoming photon?",
             "options": [
-              "This concept has no relevance to how photons interact with charged particles",
+              "The scattering angle alone determines the wavelength shift, independent of energy transfer",
               "The photon transfers some of its energy and momentum to the particle it collides with, reducing its own energy and increasing its wavelength",
-              "Wavelength has no connection to a photon’s energy or momentum",
+              "Wavelength change depends only on the photon's original frequency, not the collision itself",
               "A scattered photon always has exactly the same wavelength as the incoming photon"
             ],
             "answer": 1
@@ -13050,14 +13050,14 @@ const curriculum: DayContent[] = [
               "Omniscient narration is never used in serious fiction",
               "Third-person omniscient allows the narrator to reveal the thoughts of multiple characters rather than being limited to one character's perspective",
               "First-person narration always provides more information than omniscient narration",
-              "Point of view has no effect on what information a reader can access"
+              "Omniscient narration is used only in children's literature, not literary fiction"
             ],
             "answer": 1
           },
           {
             "q": "Why is understanding point of view and narrative distance important for Grade 12-level literary analysis?",
             "options": [
-              "These concepts have no relevance to how a story is interpreted",
+              "These concepts matter only when analyzing poetry, not prose fiction",
               "Point of view never changes how a reader interprets a character's reliability or motives",
               "Recognizing shifts in distance and perspective helps readers evaluate a narrator's reliability and a story's deeper meaning",
               "Every narrator is equally reliable regardless of point of view"
@@ -13080,18 +13080,18 @@ const curriculum: DayContent[] = [
             "options": [
               "A single scalar value",
               "Two separate scalar values, with no single result",
-              "A completely new vector unrelated to the original two",
-              "A concept unrelated to vector operations"
+              "A completely new vector perpendicular to the original two",
+              "The sum of the two vectors' magnitudes"
             ],
             "answer": 0
           },
           {
             "q": "The dot product of two vectors is related to their magnitudes and the ___ between them.",
             "options": [
-              "Colour, with no connection to either vector",
+              "Their individual x-components only",
               "Angle",
-              "Total combined length, with no connection to angle",
-              "A factor entirely unrelated to their geometric relationship"
+              "Total combined length, regardless of their directions",
+              "The determinant of the two vectors"
             ],
             "answer": 1
           },
@@ -13100,17 +13100,17 @@ const curriculum: DayContent[] = [
             "options": [
               "Determinant, which applies only to matrices",
               "Projection",
-              "A concept unrelated to vector operations",
-              "Cross product exclusively, with no connection to projection"
+              "The cross product of the two vectors",
+              "The sum of the two vectors"
             ],
             "answer": 1
           },
           {
             "q": "Why does a dot product of zero indicate that two vectors are perpendicular?",
             "options": [
-              "This concept has no relevance to understanding perpendicular vectors",
+              "It indicates the vectors point in exactly the same direction",
               "A dot product of zero means the angle between the vectors is ninety degrees, since cosine of that angle is zero",
-              "The value of a dot product has no connection to the angle between two vectors",
+              "It indicates the vectors have equal magnitude",
               "A dot product of zero always indicates the vectors point in exactly the same direction"
             ],
             "answer": 1
@@ -13139,7 +13139,7 @@ const curriculum: DayContent[] = [
             "q": "Linear approximation uses a function’s tangent line at a known point to estimate ___.",
             "options": [
               "Only the exact value at that single known point, with no estimation involved",
-              "A concept unrelated to tangent lines",
+              "The exact value of the function at every point along its entire domain",
               "Nearby values of the function",
               "Values infinitely far from the known point"
             ],
@@ -13148,10 +13148,10 @@ const curriculum: DayContent[] = [
           {
             "q": "The differential of a function expresses the small resulting change in output for a small change in ___.",
             "options": [
-              "Colour, with no connection to the function’s input or output",
+              "The function's derivative value itself, rather than a change in output",
               "Input",
-              "The function’s name, with no connection to its numerical behaviour",
-              "A concept unrelated to differentials"
+              "The second derivative, rather than the first derivative",
+              "The average rate of change over the function's entire domain"
             ],
             "answer": 1
           },
@@ -13160,7 +13160,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Located at a completely different, unrelated function",
               "Close to",
-              "A concept unrelated to how accurate this approximation is",
+              "Exactly equal to the known point, with no other nearby values considered",
               "Extremely far from"
             ],
             "answer": 1
@@ -13171,7 +13171,7 @@ const curriculum: DayContent[] = [
               "Tangent lines have no relationship to a function’s actual behaviour at nearby points",
               "A tangent line always provides an equally accurate estimate no matter how far from the point of tangency",
               "Near that point, the tangent line closely follows the curve’s actual behaviour before the curve diverges more noticeably",
-              "This concept has no connection to how linear approximation works"
+              "A tangent line's accuracy actually improves the farther the estimated point is from the point of tangency"
             ],
             "answer": 2
           },
@@ -13198,9 +13198,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Electromagnetic waves consist of oscillating electric and ___ fields.",
             "options": [
-              "Nuclear, with no connection to oscillating fields",
-              "A concept unrelated to electromagnetic waves",
-              "Gravitational, with no connection to electric fields",
+              "Gravitational, in equal proportion to the electric field",
+              "Thermal, generated by the vibration of charged particles",
+              "Nuclear, released during the decay of unstable atoms",
               "Magnetic"
             ],
             "answer": 3
@@ -13209,8 +13209,8 @@ const curriculum: DayContent[] = [
             "q": "The electromagnetic spectrum organizes waves by wavelength and ___.",
             "options": [
               "Mass, which electromagnetic waves do not possess",
-              "Colour exclusively, with no connection to any other property",
-              "A concept unrelated to the electromagnetic spectrum",
+              "Amplitude exclusively, a property that varies independently of wavelength",
+              "Particle mass, since all electromagnetic waves carry equal mass",
               "Frequency"
             ],
             "answer": 3
@@ -13220,7 +13220,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Sound waves, which are not electromagnetic at all",
               "Gamma rays",
-              "A type of radiation unrelated to the electromagnetic spectrum",
+              "Infrared waves, which have relatively long wavelengths",
               "Radio waves, which have very long wavelengths"
             ],
             "answer": 1
@@ -13229,7 +13229,7 @@ const curriculum: DayContent[] = [
             "q": "Why do all types of electromagnetic waves travel at the same speed in a vacuum, despite having different wavelengths and frequencies?",
             "options": [
               "The speed of light in a vacuum is a fundamental constant that applies to all electromagnetic radiation, regardless of wavelength",
-              "This concept has no connection to how electromagnetic waves behave",
+              "The speed of electromagnetic waves depends on their frequency in a vacuum",
               "The speed of electromagnetic waves has no defined relationship to physical constants",
               "Different types of electromagnetic waves always travel at significantly different speeds in a vacuum"
             ],
@@ -13238,10 +13238,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding the electromagnetic spectrum important for technologies like medical imaging and wireless communication?",
             "options": [
-              "The electromagnetic spectrum has no connection to modern technology",
+              "Only radio waves are used in modern technology, not other parts of the spectrum",
               "All parts of the electromagnetic spectrum behave identically for every possible application",
               "Different parts of the spectrum have distinct properties that make them suited to specific practical applications",
-              "This concept has no relevance to medical imaging or communication technology"
+              "Medical imaging relies only on sound waves, not electromagnetic radiation"
             ],
             "answer": 2
           }
@@ -13266,7 +13266,7 @@ const curriculum: DayContent[] = [
             "q": "Deepfakes and synthetic media use artificial intelligence to create convincingly fabricated ___.",
             "options": [
               "Images, audio, or video",
-              "A concept unrelated to media technology",
+              "Physical documents such as forged signatures and paper records",
               "Content that is always clearly and obviously fake to any viewer",
               "Only printed text, with no visual or audio component"
             ],
@@ -13275,9 +13275,9 @@ const curriculum: DayContent[] = [
           {
             "q": "The rise of synthetic media raises urgent questions about trust and ___.",
             "options": [
-              "Printing costs exclusively, with no connection to content itself",
-              "File size, with no connection to the truthfulness of content",
-              "A concept entirely unrelated to how media is evaluated",
+              "The file compression format used to store digital media",
+              "The speed of internet download times for video content",
+              "The copyright ownership of the original unaltered footage",
               "Authenticity"
             ],
             "answer": 3
@@ -13288,7 +13288,7 @@ const curriculum: DayContent[] = [
               "Assuming every video encountered online is automatically authentic",
               "Ignoring the context in which the media was shared",
               "Checking for a credible original source or cross-referencing with other reporting",
-              "A strategy entirely unrelated to evaluating synthetic media"
+              "Relying solely on the video's view count and social media engagement"
             ],
             "answer": 2
           },
@@ -13296,8 +13296,8 @@ const curriculum: DayContent[] = [
             "q": "Why might deepfakes pose a significant challenge to how people evaluate the credibility of visual evidence?",
             "options": [
               "Deepfakes never appear convincing enough to be mistaken for real footage",
-              "Visual evidence has no connection to how people evaluate credibility",
-              "This concept has no relevance to media literacy or critical evaluation",
+              "Visual evidence has always been considered inherently unreliable, even before deepfakes existed",
+              "This concern applies only to video content, never to photographs or audio",
               "They can convincingly mimic real people and events, undermining the assumption that seeing is the same as verifying"
             ],
             "answer": 3
@@ -13305,10 +13305,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is developing skills to critically evaluate synthetic media especially important for students today?",
             "options": [
-              "This concept has no relevance to contemporary media literacy education",
+              "These skills matter only for professional journalists, not ordinary students",
               "Synthetic media has no real-world consequences worth understanding",
               "As this technology becomes more accessible and realistic, distinguishing authentic from fabricated media is increasingly essential for informed citizenship",
-              "These evaluation skills have no connection to being an informed member of society"
+              "Synthetic media evaluation is a concern only for older generations, not students"
             ],
             "answer": 2
           }
@@ -13326,10 +13326,10 @@ const curriculum: DayContent[] = [
           {
             "q": "The Rational Root Theorem lists the possible ___ of a polynomial with integer coefficients.",
             "options": [
-              "A concept unrelated to polynomial equations",
               "Complex, non-real roots exclusively",
+              "Irrational roots exclusively, a category the theorem does not predict",
               "Rational roots",
-              "Irrational roots exclusively, with no connection to rational values"
+              "The derivative's roots, rather than the polynomial's own roots"
             ],
             "answer": 2
           },
@@ -13337,7 +13337,7 @@ const curriculum: DayContent[] = [
             "q": "The Rational Root Theorem is especially useful for narrowing the search when factoring or solving ___ polynomial equations.",
             "options": [
               "Higher-degree",
-              "A concept unrelated to solving polynomial equations",
+              "Only quadratic equations with a leading coefficient of one",
               "Only first-degree, linear equations",
               "Equations with no variable terms whatsoever"
             ],
@@ -13346,9 +13346,9 @@ const curriculum: DayContent[] = [
           {
             "q": "According to the Rational Root Theorem, a possible rational root is formed by dividing a factor of the constant term by a factor of the ___.",
             "options": [
-              "Exponent of the variable, with no connection to any coefficient",
+              "Exponent of the variable with the highest degree",
               "Number of terms in the polynomial exclusively",
-              "A concept unrelated to the Rational Root Theorem",
+              "Sum of all the coefficients in the polynomial",
               "Leading coefficient"
             ],
             "answer": 3
@@ -13359,7 +13359,7 @@ const curriculum: DayContent[] = [
               "Every polynomial always has the same set of rational roots, regardless of its coefficients",
               "Testing possible rational roots never helps narrow the search for actual roots",
               "It narrows an otherwise unlimited search down to a specific, finite list of candidates worth testing",
-              "This concept has no connection to factoring higher-degree polynomials"
+              "Every polynomial has the exact same list of rational roots regardless of degree"
             ],
             "answer": 2
           },
@@ -13368,7 +13368,7 @@ const curriculum: DayContent[] = [
             "options": [
               "This theorem always identifies every root of any given polynomial without exception",
               "Every polynomial with integer coefficients is guaranteed to have at least one rational root",
-              "This concept has no connection to the nature of a polynomial’s actual roots",
+              "A polynomial can only have as many roots as its number of terms",
               "A polynomial with integer coefficients can have roots that are irrational or complex rather than rational"
             ],
             "answer": 3
@@ -13449,7 +13449,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Supernova",
               "A minor, gradual cooling process with no dramatic collapse",
-              "A concept unrelated to the life cycle of a star",
+              "A gradual accumulation of interstellar dust over billions of years",
               "A completely stable, unchanging period with no collapse involved"
             ],
             "answer": 0
@@ -13459,7 +13459,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Millimetres, an enormously smaller distance",
               "Light-years, an enormously larger distance",
-              "A unit entirely unrelated to describing a neutron star’s size",
+              "Astronomical units, a distance scale used for planetary orbits",
               "Kilometres"
             ],
             "answer": 3
@@ -13469,7 +13469,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Empty space, with no particles present at all",
               "Free electrons exclusively, with no other particles present",
-              "A type of particle unrelated to neutron star composition",
+              "Protons exclusively, with no neutrons present",
               "Neutrons"
             ],
             "answer": 3
@@ -13478,19 +13478,19 @@ const curriculum: DayContent[] = [
             "q": "Why does a neutron star’s extreme density result in such an intense gravitational field at its surface?",
             "options": [
               "Gravitational field strength is always identical for every type of stellar remnant",
-              "This concept has no relevance to understanding the physics of neutron stars",
+              "Gravitational field strength depends only on an object's volume, not its mass",
               "Gravitational field strength depends on how much mass is concentrated within a given volume, and a neutron star packs enormous mass into a very small space",
-              "A neutron star’s density has no connection to the strength of its gravitational field"
+              "Gravitational field strength is determined solely by surface temperature"
             ],
             "answer": 2
           },
           {
             "q": "Why do astrophysicists study neutron stars to test predictions of general relativity?",
             "options": [
-              "Neutron stars have no connection to testing theories of gravity",
+              "General relativity has already been fully disproven by neutron star observations",
               "Their extreme density and gravity create conditions where relativistic effects become especially pronounced and measurable",
               "General relativity makes no distinctive predictions about extremely dense objects",
-              "This concept has no relevance to modern astrophysics research"
+              "Relativistic effects are only measurable in laboratory settings, never in space"
             ],
             "answer": 1
           }
@@ -13515,15 +13515,15 @@ const curriculum: DayContent[] = [
             "options": [
               "Ancestral homeland",
               "Empty, unpopulated location with no cultural history",
-              "Entirely fictional setting with no connection to any real place",
-              "A concept unrelated to migration or identity"
+              "A fictional country invented solely for satirical purposes",
+              "A specific university campus where the characters studied"
             ],
             "answer": 0
           },
           {
             "q": "Diasporic literature often examines themes of displacement and ___ identity.",
             "options": [
-              "A concept unrelated to diasporic experience",
+              "A fixed national identity unaffected by migration experiences",
               "Hybrid",
               "Completely erased, with no cultural connection remaining",
               "Entirely singular, with no blending of cultural influences"
@@ -13533,9 +13533,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A recurring tension in diasporic narratives is often between memory and ___.",
             "options": [
-              "A concept entirely unrelated to identity or place",
-              "Only geography, with no connection to a character’s inner life",
-              "Financial success exclusively, with no connection to identity",
+              "A fixed, unchanging sense of language with no evolution over time",
+              "Only climate, a physical setting detail rather than an identity theme",
+              "Athletic achievement exclusively, a personal accomplishment separate from questions of displacement",
               "Belonging"
             ],
             "answer": 3
@@ -13545,8 +13545,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Diasporic narratives never depict characters engaging with more than one culture",
               "This reflects the lived reality of many diasporic individuals, who often draw on and reconcile multiple cultural influences",
-              "This concept has no connection to how diasporic identity is portrayed in literature",
-              "Cultural influence has no relevance to a character’s sense of identity"
+              "This reflects a narrative technique used only in historical fiction, not contemporary stories",
+              "Cultural navigation is relevant only to immigrant characters, never their descendants"
             ],
             "answer": 1
           },
@@ -13554,8 +13554,8 @@ const curriculum: DayContent[] = [
             "q": "Why is diasporic literature an important area of study within a broader survey of contemporary world literature?",
             "options": [
               "Migration and displacement are not meaningful subjects for literary exploration",
-              "Diasporic literature has no connection to broader patterns in contemporary world literature",
-              "This concept has no relevance to studying literature from a global perspective",
+              "This genre is significant only within national literature courses, not global surveys",
+              "Diasporic literature is relevant only to readers who have personally migrated",
               "It offers vital perspectives on migration, identity, and belonging that reflect significant global realities"
             ],
             "answer": 3
@@ -13574,7 +13574,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The normal distribution is a symmetric, ___ probability distribution.",
             "options": [
-              "A concept unrelated to probability distributions",
+              "Skewed heavily toward one tail",
               "Bell-shaped",
               "Rectangular, with equal probability across the entire range",
               "Sharply spiked at only a single possible value"
@@ -13587,7 +13587,7 @@ const curriculum: DayContent[] = [
               "Total number of data points collected",
               "Minimum possible value in the entire data set",
               "Mean",
-              "A concept unrelated to standard deviation"
+              "The median of the data set"
             ],
             "answer": 2
           },
@@ -13595,7 +13595,7 @@ const curriculum: DayContent[] = [
             "q": "In a normal distribution, most data values cluster ___ the mean.",
             "options": [
               "Close to",
-              "A concept unrelated to how a normal distribution is shaped",
+              "Far from, with almost no values near the mean",
               "Extremely far from, with almost no values near it",
               "Exclusively at, with no values anywhere else"
             ],
@@ -13605,8 +13605,8 @@ const curriculum: DayContent[] = [
             "q": "Why is a z-score useful for comparing values that come from data sets with different means and standard deviations?",
             "options": [
               "A z-score standardizes a value, expressing its relative position within its own distribution so different data sets can be meaningfully compared",
-              "This concept has no relevance to comparing data across different distributions",
-              "A z-score has no connection to how far a value lies from its data set’s mean",
+              "A z-score only works when the mean is exactly zero",
+              "A z-score only applies to data sets with the same sample size",
               "Z-scores can never be used to compare values from different data sets"
             ],
             "answer": 0
@@ -13614,7 +13614,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the normal distribution considered a foundational model in statistics, appearing in fields from psychology to quality control?",
             "options": [
-              "This concept has no relevance to fields outside of mathematics",
+              "It applies only to data collected in controlled laboratory experiments",
               "Real-world data sets never resemble a bell-shaped distribution",
               "The normal distribution has no practical application outside of pure mathematics",
               "Many natural and measured phenomena approximately follow this bell-shaped pattern, making it broadly applicable for analysis and prediction"
@@ -13696,8 +13696,8 @@ const curriculum: DayContent[] = [
             "q": "The mass defect of a nucleus is the difference between the total mass of its separate protons and neutrons and the actual mass of the ___.",
             "options": [
               "Bound nucleus",
-              "Surrounding electron cloud exclusively, with no connection to the nucleus",
-              "A concept unrelated to nuclear structure",
+              "The surrounding electron cloud alone, excluding the nucleus",
+              "The average mass of similar nuclei found elsewhere in nature",
               "Entire atom’s outermost electron shell only"
             ],
             "answer": 0
@@ -13706,9 +13706,9 @@ const curriculum: DayContent[] = [
             "q": "The missing mass in a nucleus corresponds to its ___.",
             "options": [
               "Binding energy",
-              "A concept unrelated to nuclear stability",
-              "Electric charge exclusively, with no connection to energy",
-              "Total number of protons, with no connection to energy"
+              "Half-life, the time required for half the nuclei to decay",
+              "Atomic number exclusively, a count of protons rather than a measure of energy",
+              "Total number of neutrons exclusively, a count that does not by itself measure energy"
             ],
             "answer": 0
           },
@@ -13716,17 +13716,17 @@ const curriculum: DayContent[] = [
             "q": "Binding energy can be understood using Einstein’s famous relationship between ___.",
             "options": [
               "Mass and energy",
-              "A concept unrelated to nuclear physics",
-              "Force and acceleration exclusively, with no connection to mass or energy",
-              "Voltage and current, with no connection to nuclear structure"
+              "Force and distance exclusively, quantities used to define work rather than mass-energy equivalence",
+              "Charge and magnetic field strength, quantities used in electromagnetism rather than mass-energy equivalence",
+              "Wavelength and frequency, quantities describing waves rather than mass-energy equivalence"
             ],
             "answer": 0
           },
           {
             "q": "Why does a nucleus with a larger binding energy per nucleon tend to be more stable?",
             "options": [
-              "Binding energy per nucleon has no connection to how stable a nucleus is",
-              "This concept has no relevance to understanding nuclear stability",
+              "Binding energy per nucleon only matters for radioactive nuclei, not stable ones",
+              "Nuclear stability depends solely on the total number of nucleons, not binding energy",
               "A larger binding energy per nucleon always makes a nucleus less stable",
               "A greater binding energy per nucleon means more energy would be required to break the nucleus apart into its individual particles"
             ],
@@ -13736,9 +13736,9 @@ const curriculum: DayContent[] = [
             "q": "Why is the concept of mass defect and binding energy essential to understanding both nuclear fission and fusion?",
             "options": [
               "Both processes release energy because the resulting nuclei have a different total binding energy than the starting nuclei",
-              "Mass defect and binding energy have no connection to how fission or fusion release energy",
-              "Fission and fusion release energy through a process entirely unrelated to nuclear mass or binding",
-              "This concept has no relevance to understanding nuclear reactions"
+              "Mass defect accounts for energy absorbed during a reaction, rather than energy released",
+              "Fission and fusion release energy through the breaking of chemical bonds between atoms",
+              "Energy release in both processes comes from electron transitions, not changes in nuclear binding energy"
             ],
             "answer": 0
           }
@@ -13763,18 +13763,18 @@ const curriculum: DayContent[] = [
             "q": "An academic book review summarizes a text’s central ___.",
             "options": [
               "Cover design and page count exclusively",
-              "Author’s personal biography only, with no connection to the text’s content",
+              "The publisher's marketing summary printed on the book jacket",
               "Argument",
-              "A concept unrelated to reviewing a text"
+              "The number of citations included in the text's bibliography"
             ],
             "answer": 2
           },
           {
             "q": "An academic book review evaluates a text’s evidence and ___.",
             "options": [
-              "A concept unrelated to academic evaluation",
-              "Number of chapters exclusively, with no connection to content",
-              "Font choice, with no connection to the quality of the work",
+              "The book's retail price and sales performance",
+              "The total number of chapters, regardless of their content",
+              "The typeface used in the printed edition",
               "Methodology"
             ],
             "answer": 3
@@ -13784,7 +13784,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Scholarship",
               "Unrelated entertainment media exclusively",
-              "A concept entirely unrelated to how a text connects to other work",
+              "The author's personal social media following",
               "The author’s personal finances"
             ],
             "answer": 0
@@ -13793,7 +13793,7 @@ const curriculum: DayContent[] = [
             "q": "Why does an academic book review go beyond a simple summary or personal opinion of a text?",
             "options": [
               "It critically assesses the strength of the argument and evidence, offering an informed evaluation grounded in the wider field",
-              "This concept has no connection to how academic texts are assessed",
+              "This type of writing is evaluated only on grammatical correctness",
               "Critical evaluation has no role in this type of writing",
               "An academic book review is identical in every way to a simple personal opinion"
             ],
@@ -13804,8 +13804,8 @@ const curriculum: DayContent[] = [
             "options": [
               "It builds skills in critical reading, evaluating evidence, and engaging with existing scholarship, all central to academic writing",
               "Academic book reviews require no critical thinking or evaluation skills",
-              "This concept has no relevance to preparing for post-secondary academic work",
-              "This type of writing has no connection to skills needed in university coursework"
+              "This skill matters only for students pursuing a literature degree specifically",
+              "Book reviews are valued in university coursework only as extra credit assignments"
             ],
             "answer": 0
           }
@@ -13945,7 +13945,7 @@ const curriculum: DayContent[] = [
             "q": "Lenses form images by ___ light.",
             "options": [
               "Reflecting exclusively, with no refraction involved",
-              "A concept unrelated to how lenses function",
+              "Diffracting, bending light only as it passes around sharp edges or narrow openings",
               "Refracting",
               "Completely absorbing, with no light passing through"
             ],
@@ -13956,7 +13956,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Magnify",
               "Completely hide from view, with no image produced",
-              "A concept unrelated to optical instruments",
+              "Diffract light by the same amount regardless of how many lenses are combined",
               "Shrink to an unusable, indistinguishable size"
             ],
             "answer": 0
@@ -13966,7 +13966,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A telescope",
               "A mirror with no lens involved at all",
-              "A device entirely unrelated to viewing distant objects",
+              "A prism, which splits light into its spectrum rather than forming a magnified image",
               "A flashlight, which produces light rather than forming an image"
             ],
             "answer": 0
@@ -13974,9 +13974,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does a microscope typically use two separate lenses, an objective lens and an eyepiece, rather than a single lens?",
             "options": [
-              "A microscope’s design has no connection to how its lenses work together",
+              "A single lens could achieve the same overall magnification without any loss of image quality",
               "Combining two lenses allows the image formed by the first lens to be magnified further by the second, achieving much greater overall magnification",
-              "This concept has no relevance to how optical instruments achieve magnification",
+              "The eyepiece lens mainly protects the objective lens rather than adding further magnification",
               "Using two lenses always produces exactly the same magnification as using only one"
             ],
             "answer": 1
@@ -13984,8 +13984,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding lens behaviour important for designing optical instruments used in scientific research, such as advanced telescopes?",
             "options": [
-              "Lens behaviour has no connection to the design of scientific optical instruments",
-              "This concept has no relevance to producing clear, magnified images",
+              "Lens behaviour only matters for simple instruments, not advanced research telescopes",
+              "Only the size of a telescope's mirror determines image clarity, regardless of lens quality",
               "Precisely controlling how lenses refract and focus light is essential for achieving clear, accurately magnified images",
               "Optical instruments used in research never rely on any understanding of lenses"
             ],
@@ -14011,7 +14011,7 @@ const curriculum: DayContent[] = [
             "q": "Facilitating a panel discussion involves guiding multiple speakers through a ___ conversation.",
             "options": [
               "Completely unplanned, with no guidance from a facilitator",
-              "A concept unrelated to oral communication",
+              "A conversation conducted entirely through written notes passed between panelists",
               "Silent, with no spoken conversation at all",
               "Structured"
             ],
@@ -14020,9 +14020,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A skilled facilitator balances ___ among panelists.",
             "options": [
-              "A concept unrelated to facilitating group discussion",
+              "The panelists' personal opinions on unrelated political topics",
               "Only the opinions of a single panelist, ignoring all others",
-              "Background noise, with no connection to speaker participation",
+              "The room's lighting and temperature settings",
               "Airtime"
             ],
             "answer": 3
@@ -14030,9 +14030,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A facilitator often asks ___ questions to help the audience better understand a panelist’s point.",
             "options": [
-              "A concept unrelated to facilitating discussion",
+              "Rhetorical questions meant only for dramatic effect, not understanding",
               "Deliberately confusing, with no intent to aid understanding",
-              "Entirely unrelated, with no connection to the discussion topic",
+              "Questions borrowed directly from a pre-written audience survey",
               "Clarifying"
             ],
             "answer": 3
@@ -14040,7 +14040,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a facilitator need to gently redirect a panel discussion back to its central topic?",
             "options": [
-              "This concept has no connection to effectively facilitating a group conversation",
+              "Redirecting is necessary only when panelists explicitly request it",
               "A facilitator should never attempt to guide the direction of a panel discussion",
               "Conversations can naturally drift, and redirection helps ensure the discussion remains valuable and focused for the audience",
               "Panel discussions never drift away from their intended topic"
@@ -14050,9 +14050,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is facilitating a panel discussion considered a valuable oral communication skill to develop at the Grade 12 level?",
             "options": [
-              "This skill has no connection to future academic or professional communication",
+              "This skill is useful only for students planning careers in broadcasting",
               "It requires active listening, quick thinking, and the ability to manage group dynamics, all skills valuable in academic and professional settings",
-              "This concept has no relevance to developing strong oral communication abilities",
+              "Panel facilitation matters only in extracurricular settings, not coursework",
               "Facilitating a panel discussion requires no particular skill or preparation"
             ],
             "answer": 1
@@ -14071,19 +14071,19 @@ const curriculum: DayContent[] = [
           {
             "q": "Modular arithmetic describes a system where numbers wrap around after reaching a fixed value called the ___.",
             "options": [
-              "Coefficient, with no connection to how numbers wrap around",
-              "A concept unrelated to this number system",
+              "Coefficient, a term describing a number multiplying a variable",
+              "Exponent, a value describing repeated multiplication",
               "Modulus",
-              "Determinant, a concept unrelated to modular arithmetic"
+              "Determinant, a value calculated from a matrix"
             ],
             "answer": 2
           },
           {
             "q": "Modular arithmetic has wide applications in areas such as cryptography and ___.",
             "options": [
-              "A field entirely unrelated to any practical application",
+              "Only pure number theory with no outside applications",
               "Scheduling",
-              "A concept unrelated to modular arithmetic’s uses",
+              "Only computer graphics rendering, with no other use",
               "Only purely decorative art, with no mathematical or practical use"
             ],
             "answer": 1
@@ -14092,7 +14092,7 @@ const curriculum: DayContent[] = [
             "q": "In modulo 5 arithmetic, what is 12 mod 5?",
             "options": [
               "12",
-              "A value unrelated to the calculation",
+              "60, an inaccurate result for this calculation",
               "5",
               "2"
             ],
@@ -14101,8 +14101,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is a standard analog clock often used as an everyday example of modular arithmetic?",
             "options": [
-              "This concept has no relevance to understanding modular systems",
-              "A clock has no connection to how modular arithmetic functions",
+              "A clock only resets after running for exactly one full year",
+              "A clock counts upward indefinitely with no repeating pattern",
               "The hours wrap back around to 1 after reaching 12, mirroring how modular arithmetic wraps around after reaching the modulus",
               "Clocks always count upward with no repeating or wrapping pattern"
             ],
@@ -14112,8 +14112,8 @@ const curriculum: DayContent[] = [
             "q": "Why is modular arithmetic considered essential to modern cryptographic systems that protect digital information?",
             "options": [
               "Many encryption methods rely on the mathematical properties of numbers within a modular system to securely encode and decode information",
-              "Modular arithmetic has no connection to how digital information is secured",
-              "This concept has no relevance to digital security or encryption",
+              "Modern encryption relies only on the length of the key, not on modular structure",
+              "Modular arithmetic is only used in theoretical mathematics, not in computing",
               "Cryptography never relies on any mathematical structure or system"
             ],
             "answer": 0
@@ -14194,18 +14194,18 @@ const curriculum: DayContent[] = [
             "q": "A simple machine, such as a lever or pulley, changes the size or ___ of an applied force.",
             "options": [
               "Direction",
-              "Colour, with no connection to how force is applied",
-              "Chemical composition, with no connection to mechanical force",
-              "A concept unrelated to simple machines"
+              "Amount of energy, since machines are sometimes mistakenly believed to add extra energy to the input",
+              "Point of application only, without changing its size or direction",
+              "Speed at which the force moves, independent of its magnitude or direction"
             ],
             "answer": 0
           },
           {
             "q": "Mechanical advantage describes the ratio between the output force and the ___ force.",
             "options": [
-              "A completely unrelated, external force with no connection to the machine",
+              "Frictional force acting within the machine's own moving parts",
               "Gravitational force exclusively, regardless of the machine involved",
-              "A concept unrelated to mechanical advantage",
+              "Weight of the machine itself, regardless of the forces applied to it",
               "Input"
             ],
             "answer": 3
@@ -14215,7 +14215,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A thermometer, which measures temperature rather than force",
               "A lever",
-              "A device entirely unrelated to mechanical force",
+              "An electric motor, which converts electrical energy into motion rather than redirecting force",
               "A battery, which stores electrical energy rather than transmitting mechanical force"
             ],
             "answer": 1
@@ -14223,9 +14223,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why can a lever allow a person to lift a heavy object using less applied force than lifting it directly?",
             "options": [
-              "Mechanical advantage has no connection to how a lever functions",
+              "A lever increases the total work done, allowing energy to be created rather than conserved",
               "A lever can trade a smaller input force over a greater distance for a larger output force over a shorter distance",
-              "This concept has no relevance to understanding simple machines",
+              "The heavier object's weight decreases simply by resting on the lever",
               "A lever always requires exactly the same force as lifting an object directly, with no advantage at all"
             ],
             "answer": 1
@@ -14260,7 +14260,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Nineteen Eighty-Four imagines a dystopia primarily built on ___.",
             "options": [
-              "A concept unrelated to Orwell's novel",
+              "Economic collapse and widespread famine caused by war",
               "Government surveillance, propaganda, and control of information",
               "Unlimited personal freedom with no government presence",
               "A society with no leadership of any kind"
@@ -14270,7 +14270,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Brave New World imagines a dystopia primarily built on ___.",
             "options": [
-              "A concept unrelated to Huxley's novel",
+              "Strict religious doctrine enforced by a theocratic government",
               "Open rebellion against a corrupt government",
               "Engineered pleasure, consumerism, and distraction rather than fear",
               "The complete absence of technology"
@@ -14280,9 +14280,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do critics often argue Nineteen Eighty-Four feels newly relevant in the era of state surveillance and 'fake news'?",
             "options": [
-              "The novel has no connection to contemporary concerns about surveillance or misinformation",
+              "The novel predicted specific technologies like smartphones in exact detail",
               "Orwell's imagined control of information and truth echoes real debates about propaganda and surveillance today",
-              "This concept has no relevance to how the novel is read today",
+              "Critics consider the novel relevant only to totalitarian regimes, not democracies",
               "Nineteen Eighty-Four is set entirely in the past with no future-facing themes"
             ],
             "answer": 1
@@ -14291,8 +14291,8 @@ const curriculum: DayContent[] = [
             "q": "Why do critics often argue Brave New World feels newly relevant in an era of consumerism and engineered distraction?",
             "options": [
               "Huxley's vision of comfort, entertainment, and consumerism as tools of control echoes concerns about modern media and technology",
-              "The novel has no connection to modern consumer culture",
-              "This concept has no relevance to how the novel is read today",
+              "The novel is considered relevant only to discussions of genetic engineering",
+              "Critics view its relevance as limited strictly to economic policy debates",
               "Brave New World predicted no aspect of technological or social change"
             ],
             "answer": 0
@@ -14302,7 +14302,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only one vision of dystopia has ever been considered valid",
               "Control over a society can take very different forms — through fear and force, or through comfort and distraction",
-              "Dystopian fiction has no relevance to understanding real societies",
+              "Dystopias in literature always arise from external invasion rather than internal social control",
               "Brave New World and Nineteen Eighty-Four describe identical societies"
             ],
             "answer": 1
@@ -14321,30 +14321,30 @@ const curriculum: DayContent[] = [
           {
             "q": "Rational exponents express roots and powers together in a single ___.",
             "options": [
-              "A concept entirely unrelated to exponents or radicals",
-              "Geometric shape, with no connection to numerical expressions",
+              "A geometric construction representing area, not an algebraic expression",
+              "A ratio comparing two separate quantities",
               "Notation",
-              "Physical measurement, with no connection to algebraic notation"
+              "A statistical measure of data spread"
             ],
             "answer": 2
           },
           {
             "q": "Rational exponents allow radical expressions to be simplified using the same rules that apply to ___ exponents.",
             "options": [
-              "Only negative exponents, with no connection to positive integer exponents",
+              "Only fractional exponents less than one",
               "Integer",
               "Undefined exponents, with no consistent rules at all",
-              "A concept unrelated to simplifying expressions"
+              "Only exponents equal to exactly one"
             ],
             "answer": 1
           },
           {
             "q": "The expression x^(1/2) is equivalent to ___.",
             "options": [
-              "Negative x, with no connection to roots at all",
+              "X to the negative first power",
               "The square root of x",
               "X squared, an entirely different operation",
-              "A value unrelated to square roots"
+              "The reciprocal of x"
             ],
             "answer": 1
           },
@@ -14353,7 +14353,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Rational exponent notation makes simplifying expressions involving roots significantly more difficult",
               "Radical expressions can never be rewritten using exponent notation",
-              "This concept has no connection to simplifying algebraic expressions",
+              "It only simplifies expressions that already have no radicals",
               "Rational exponent notation allows familiar exponent rules, such as multiplying powers, to be applied directly to expressions involving roots"
             ],
             "answer": 3
@@ -14361,7 +14361,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is fluency with rational exponents and radical simplification considered important preparation for university-level mathematics and science courses?",
             "options": [
-              "This concept has no connection to preparing for advanced academic study",
+              "Only algebra courses, never calculus or physics courses",
               "These techniques appear frequently in advanced algebra, calculus, and scientific formulas, so fluency supports success in more advanced coursework",
               "University-level mathematics and science never involve expressions with roots or rational exponents",
               "Rational exponents and radicals have no further relevance beyond an introductory Grade 12 course"
@@ -14443,7 +14443,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The uncertainty principle states that certain pairs of properties cannot both be known with ___ at the same time.",
             "options": [
-              "A concept unrelated to measurement in quantum physics",
+              "Absolute certainty, provided sufficiently advanced instruments are used",
               "Complete inaccuracy, with no meaningful information available at all",
               "Any degree of precision whatsoever, under any circumstances",
               "Arbitrary precision"
@@ -14454,7 +14454,7 @@ const curriculum: DayContent[] = [
             "q": "A classic pair of properties limited by the uncertainty principle is a particle’s position and ___.",
             "options": [
               "Colour, a property that particles at this scale do not possess",
-              "A concept unrelated to the uncertainty principle",
+              "Energy, a quantity not paired with position in the standard uncertainty relation",
               "Name, which has no physical or measurable meaning",
               "Momentum"
             ],
@@ -14463,7 +14463,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The limit described by the uncertainty principle is considered ___ rather than a flaw in measurement technique.",
             "options": [
-              "A concept unrelated to the nature of this physical limit",
+              "A statistical artifact arising from limitations in current experimental apparatus",
               "Completely avoidable with sufficiently advanced instruments",
               "Irrelevant to how particles actually behave",
               "Fundamental"
@@ -14476,7 +14476,7 @@ const curriculum: DayContent[] = [
               "According to the uncertainty principle, the product of the uncertainties in these two properties cannot fall below a fundamental limit",
               "Position and momentum have no established mathematical relationship at the quantum scale",
               "Measuring position more precisely always has no effect whatsoever on how precisely momentum can be known",
-              "This concept has no relevance to how quantum measurement works"
+              "The uncertainty arises purely from calibration errors in the position-measuring instrument"
             ],
             "answer": 0
           },
@@ -14486,7 +14486,7 @@ const curriculum: DayContent[] = [
               "It revealed a fundamental limit to what can be simultaneously known about a system, challenging the classical assumption of unlimited measurement precision",
               "Classical physics already assumed inherent limits on measurement precision at every scale",
               "The uncertainty principle made no meaningful change to how physicists understood measurement",
-              "This concept has no relevance to the historical development of quantum theory"
+              "Classical physics already predicted inherent uncertainty limits for atomic-scale measurements"
             ],
             "answer": 0
           }
@@ -14509,10 +14509,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Skilled use of the semicolon and colon shapes the rhythm and ___ of a sentence.",
             "options": [
-              "A concept unrelated to sentence-level style",
+              "The grammatical tense of the surrounding verbs",
               "Emphasis",
-              "Total word count exclusively, with no connection to meaning",
-              "Font size, with no connection to punctuation"
+              "The total number of words permitted in a formal essay",
+              "The paragraph's indentation style in a manuscript"
             ],
             "answer": 1
           },
@@ -14520,17 +14520,17 @@ const curriculum: DayContent[] = [
             "q": "A semicolon can be used to connect ___ ideas within a single sentence.",
             "options": [
               "Completely unrelated, disconnected",
-              "Only single words, with no connection to full clauses",
+              "Only dependent clauses that cannot stand alone as sentences",
               "Closely related independent",
-              "A concept unrelated to how a semicolon functions"
+              "Ideas that belong in entirely separate paragraphs"
             ],
             "answer": 2
           },
           {
             "q": "A colon can be used to build toward a ___ point in a sentence.",
             "options": [
-              "Entirely irrelevant, with no connection to the sentence’s meaning",
-              "A concept unrelated to how a colon functions stylistically",
+              "An entirely parenthetical point that could be removed without changing the sentence's meaning",
+              "A grammatically subordinate point requiring a comma instead",
               "Grammatically incorrect, with no stylistic purpose",
               "Climactic"
             ],
@@ -14542,14 +14542,14 @@ const curriculum: DayContent[] = [
               "Semicolons have no effect on how closely two ideas feel connected",
               "A semicolon can signal a closer, more immediate relationship between the two ideas than a full stop would suggest",
               "A semicolon always creates a greater sense of separation between two ideas than a period",
-              "This concept has no connection to shaping a sentence’s rhythm or meaning"
+              "This choice matters only in academic writing, never in creative prose"
             ],
             "answer": 1
           },
           {
             "q": "Why is deliberate, purposeful punctuation considered a mark of sophisticated prose style at the Grade 12 level?",
             "options": [
-              "This concept has no relevance to developing an advanced prose style",
+              "Sophisticated prose style depends only on vocabulary, not punctuation",
               "It shows a writer’s control over pacing and emphasis, shaping how a reader experiences the rhythm and meaning of a sentence",
               "Punctuation choices have no meaningful effect on how a reader experiences a piece of writing",
               "Sophisticated writing never requires any deliberate attention to punctuation"
@@ -14571,9 +14571,9 @@ const curriculum: DayContent[] = [
             "q": "A graph in discrete mathematics is a structure made up of vertices connected by ___.",
             "options": [
               "Edges",
-              "Colours, with no connection to how vertices are linked",
-              "A concept unrelated to graph structures",
-              "Determinants, a concept unrelated to graph theory"
+              "Faces, a term that applies to three-dimensional solids",
+              "Nodes connected only by straight, non-intersecting lines",
+              "Weighted values assigned only to the vertices, not the edges"
             ],
             "answer": 0
           },
@@ -14581,18 +14581,18 @@ const curriculum: DayContent[] = [
             "q": "Graphs are used to model relationships or connections between objects in networks, maps, and ___ problems.",
             "options": [
               "Scheduling",
-              "A category entirely unrelated to practical applications of graph theory",
-              "Only physical distance, with no connection to abstract relationships",
-              "Purely decorative art, with no connection to relationships or networks"
+              "Only problems involving physical distances between fixed points",
+              "Only situations with exactly two objects being compared",
+              "Only abstract puzzles with no real-world scheduling applications"
             ],
             "answer": 0
           },
           {
             "q": "In graph theory, a vertex represents ___.",
             "options": [
-              "A specific numerical value with no connection to a point or object",
+              "The total number of edges connected to the entire graph",
               "The total number of connections in the entire graph",
-              "A concept unrelated to graph theory",
+              "A fixed numerical weight assigned to every connection",
               "An individual object or point in the structure"
             ],
             "answer": 3
@@ -14600,7 +14600,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a graph be a useful way to represent a network of cities connected by direct flight routes?",
             "options": [
-              "This concept has no relevance to representing real-world networks",
+              "Airports are better modeled as edges and flight routes as vertices",
               "A graph provides no useful way to represent connections between different locations",
               "Cities and flight routes have no relationship that can be modelled using vertices and edges",
               "The cities can be represented as vertices and the flight routes as edges, capturing the connections between them clearly"
@@ -14692,10 +14692,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Cosmic rays are high-energy particles originating from ___.",
             "options": [
-              "The centre of the Earth exclusively, with no connection to space",
+              "The Sun's corona exclusively, excluding any more distant astrophysical sources",
               "Outer space",
               "Only man-made sources located on Earth’s surface",
-              "A concept unrelated to high-energy particles"
+              "Radioactive decay occurring within Earth's own crust"
             ],
             "answer": 1
           },
@@ -14703,7 +14703,7 @@ const curriculum: DayContent[] = [
             "q": "When cosmic rays collide with molecules in Earth’s atmosphere, they produce cascades of ___ particles.",
             "options": [
               "Particles that immediately disappear with no detectable trace at all",
-              "A concept unrelated to particle collisions",
+              "Antiparticles exclusively, formed only through pair production in the upper atmosphere",
               "Entirely identical, unchanged original particles with no new particles produced",
               "Secondary"
             ],
@@ -14714,7 +14714,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only from within the source star itself, with no detection possible on Earth",
               "The ground",
-              "A concept unrelated to studying cosmic rays",
+              "High-altitude weather balloons exclusively, since ground-based detection is not possible",
               "Nowhere; these cascades can never be detected in any way"
             ],
             "answer": 1
@@ -14722,9 +14722,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do cosmic rays colliding with the atmosphere produce a cascade of many secondary particles rather than a single resulting particle?",
             "options": [
-              "Cosmic ray collisions have no connection to producing additional particles",
+              "Each cosmic ray collision releases a single secondary particle that is immediately absorbed",
               "The initial high-energy collision can trigger a chain of further collisions and particle interactions as energy is distributed through the atmosphere",
-              "This concept has no relevance to understanding particle behaviour in the atmosphere",
+              "The atmosphere acts as a shield that completely stops all particles from the initial collision",
               "A cosmic ray collision always produces exactly one resulting particle, with no further interactions"
             ],
             "answer": 1
@@ -14732,7 +14732,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do physicists study cosmic ray cascades using ground-based particle detectors?",
             "options": [
-              "This concept has no relevance to modern astrophysics or particle physics research",
+              "Ground-based detectors mainly measure atmospheric temperature, not particle properties",
               "Ground-based detectors have no ability to detect or study particle cascades",
               "Cosmic ray cascades provide no useful scientific information about particles or astrophysical processes",
               "These cascades provide valuable information about high-energy particles and astrophysical processes that would be difficult to study directly"
@@ -14773,7 +14773,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Existentialist literature explores themes of individual freedom and the necessity of creating ___ in a universe without inherent purpose.",
             "options": [
-              "A concept unrelated to existentialist philosophy",
+              "A rigid moral code dictated by religious doctrine",
               "Wealth and material success exclusively",
               "A fixed, predetermined destiny with no room for individual choice",
               "Meaning"
@@ -14785,7 +14785,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Content that is always clearly and obviously fake to any viewer",
               "Only printed text, with no visual or audio component",
-              "A concept unrelated to media technology",
+              "Audio recordings exclusively, with no visual component",
               "Images, audio, or video"
             ],
             "answer": 3
@@ -14793,8 +14793,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Diasporic literature explores the experiences of individuals and communities living away from an ___.",
             "options": [
-              "Entirely fictional setting with no connection to any real place",
-              "A concept unrelated to migration or identity",
+              "A fictional country invented solely for satirical purposes",
+              "A specific workplace environment, a setting detail rather than a place of origin",
               "Ancestral homeland",
               "Empty, unpopulated location with no cultural history"
             ],
@@ -14803,10 +14803,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Skilled use of the semicolon and colon shapes the rhythm and ___ of a sentence.",
             "options": [
-              "Font size, with no connection to punctuation",
+              "The paragraph's indentation style in a manuscript",
               "Emphasis",
-              "Total word count exclusively, with no connection to meaning",
-              "A concept unrelated to sentence-level style"
+              "The total number of syllables in each clause, regardless of meaning",
+              "The grammatical tense of the surrounding verbs"
             ],
             "answer": 1
           },
@@ -14816,7 +14816,7 @@ const curriculum: DayContent[] = [
               "Review is never useful in English",
               "Each topic must be learned in complete isolation",
               "These related English concepts reinforce each other for stronger overall understanding",
-              "These topics have no connection to each other"
+              "These topics are useful to review only before a national standardized test"
             ],
             "answer": 2
           }
@@ -14860,15 +14860,15 @@ const curriculum: DayContent[] = [
               "Rectangular, with equal probability across the entire range",
               "Bell-shaped",
               "Sharply spiked at only a single possible value",
-              "A concept unrelated to probability distributions"
+              "Skewed heavily toward one tail"
             ],
             "answer": 1
           },
           {
             "q": "The expression x^(1/2) is equivalent to ___.",
             "options": [
-              "A value unrelated to square roots",
-              "Negative x, with no connection to roots at all",
+              "X to the negative first power",
+              "The reciprocal of x",
               "X squared, an entirely different operation",
               "The square root of x"
             ],
@@ -14877,10 +14877,10 @@ const curriculum: DayContent[] = [
           {
             "q": "A graph in discrete mathematics is a structure made up of vertices connected by ___.",
             "options": [
-              "Colours, with no connection to how vertices are linked",
+              "Faces, a term that applies to three-dimensional solids",
               "Edges",
               "Weighted paths, a structure that exists only in graphs where every edge carries a value",
-              "A concept unrelated to graph structures"
+              "Weighted values assigned only to the vertices, not the edges"
             ],
             "answer": 1
           },
@@ -14889,7 +14889,7 @@ const curriculum: DayContent[] = [
             "options": [
               "These related math concepts reinforce each other for stronger overall understanding",
               "Review is never useful in math",
-              "These topics have no connection to each other",
+              "Each topic belongs to a separate branch of mathematics with no shared tools",
               "Each topic must be learned in complete isolation"
             ],
             "answer": 0
@@ -14982,7 +14982,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The Bohr model describes electrons orbiting the nucleus in ___.",
             "options": [
-              "A concept unrelated to atomic structure",
+              "Elliptical orbits identical to planetary motion, with continuously varying energy",
               "A single continuous, unrestricted path with no defined levels",
               "Fixed energy levels",
               "Random, unpredictable positions with no defined structure at all"
@@ -14993,7 +14993,7 @@ const curriculum: DayContent[] = [
             "q": "A neutron star is an extremely dense stellar remnant formed when a massive star’s core collapses after a ___.",
             "options": [
               "Supernova",
-              "A concept unrelated to the life cycle of a star",
+              "A gradual accumulation of interstellar dust over billions of years",
               "A completely stable, unchanging period with no collapse involved",
               "A minor, gradual cooling process with no dramatic collapse"
             ],
@@ -15002,10 +15002,10 @@ const curriculum: DayContent[] = [
           {
             "q": "A simple machine, such as a lever or pulley, changes the size or ___ of an applied force.",
             "options": [
-              "Chemical composition, with no connection to mechanical force",
+              "Mass of the object being moved, independent of the applied force",
               "Direction",
-              "A concept unrelated to simple machines",
-              "Colour, with no connection to how force is applied"
+              "Duration over which the force is applied, without altering its magnitude",
+              "Temperature of the machine's components, a byproduct of friction rather than a property of the force"
             ],
             "answer": 1
           },
@@ -15014,7 +15014,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Arbitrary precision",
               "Complete inaccuracy, with no meaningful information available at all",
-              "A concept unrelated to measurement in quantum physics",
+              "Exact simultaneous values, achievable only through advanced calibration techniques",
               "Any degree of precision whatsoever, under any circumstances"
             ],
             "answer": 0
@@ -15023,8 +15023,8 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful to review the Bohr model, neutron stars, simple machines, and the uncertainty principle together?",
             "options": [
               "These related physics concepts reinforce each other for stronger overall understanding",
-              "These topics have no connection to each other",
-              "Each topic must be studied with no connection to the others",
+              "These topics belong to entirely separate branches of science taught in different courses",
+              "Only the most recently studied topic is worth reviewing, since earlier ones fade in relevance",
               "Review is never useful in physics"
             ],
             "answer": 0
@@ -15050,8 +15050,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Realistic",
               "Purely scientific, with no room for the impossible",
-              "Entirely fictional, with no connection to any recognizable world",
-              "A concept unrelated to literary mode"
+              "A setting confined strictly to historical, documented events",
+              "A purely symbolic setting with no physical description at all"
             ],
             "answer": 0
           },
@@ -15061,14 +15061,14 @@ const curriculum: DayContent[] = [
               "An unremarkable part of everyday life",
               "A shocking impossibility that halts the entire narrative",
               "Something that never actually occurs within the story",
-              "A concept unrelated to how characters respond to events"
+              "A sign of divine punishment requiring formal religious ritual"
             ],
             "answer": 0
           },
           {
             "q": "Magical realism is often used by authors to explore cultural, political, or ___ truths.",
             "options": [
-              "Only mathematical truths, with no connection to culture",
+              "Only scientific truths verifiable through empirical experimentation",
               "Historical",
               "Concepts entirely disconnected from any lived reality",
               "Truths that have no bearing on any real-world context"
@@ -15078,7 +15078,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might an author choose magical realism, rather than strict realism, to depict a community’s history of trauma or upheaval?",
             "options": [
-              "This concept has no connection to how authors represent difficult histories",
+              "This technique is used primarily to make a story more suitable for children",
               "The blending of the fantastical and the real can capture emotional and historical truths that literal description alone might not fully convey",
               "Magical realism always removes any emotional weight from a story’s historical content",
               "This mode has no capacity to reflect real cultural or political experience"
@@ -15091,7 +15091,7 @@ const curriculum: DayContent[] = [
               "Magical realism and fantasy are entirely identical, with no meaningful distinction between them",
               "This mode never engages with any real-world setting or social context",
               "Its supernatural elements remain fully embedded within a recognizably real world and social context, rather than constructing an entirely separate fantastical universe",
-              "This concept has no relevance to categorizing different literary modes"
+              "This distinction matters only to literary critics, not general readers"
             ],
             "answer": 2
           }
@@ -15232,7 +15232,7 @@ const curriculum: DayContent[] = [
             "q": "The de Broglie hypothesis proposes that all matter exhibits ___ properties, not only light.",
             "options": [
               "Only particle-like properties, with no wave component at all",
-              "A concept unrelated to the behaviour of matter",
+              "Exclusively electromagnetic properties, regardless of the particle's mass",
               "Purely solid, with no wave-like behaviour whatsoever",
               "Wave-like"
             ],
@@ -15244,7 +15244,7 @@ const curriculum: DayContent[] = [
               "Colour, a property that particles at this scale do not possess",
               "Electric charge, which has no defined relationship to wavelength",
               "Momentum",
-              "A concept unrelated to describing a particle’s wave nature"
+              "Temperature, a thermodynamic quantity not featured in the de Broglie relation"
             ],
             "answer": 2
           },
@@ -15253,7 +15253,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only massless particles, excluding matter with mass",
               "All matter",
-              "A concept unrelated to wave-particle duality",
+              "Only subatomic particles with zero rest mass, excluding atoms and larger objects",
               "Only extremely large, macroscopic objects exclusively"
             ],
             "answer": 1
@@ -15263,7 +15263,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The de Broglie hypothesis applies only to light and has no bearing on matter with mass",
               "Macroscopic objects never possess any momentum, so no wavelength can be calculated",
-              "This concept has no relevance to understanding wave-particle duality",
+              "Macroscopic objects obey entirely different physical laws that exclude any wave description",
               "The de Broglie wavelength of an object with significant mass and momentum is extraordinarily small compared to any observable scale"
             ],
             "answer": 3
@@ -15272,7 +15272,7 @@ const curriculum: DayContent[] = [
             "q": "Why was the de Broglie hypothesis a significant conceptual step in the development of quantum mechanics?",
             "options": [
               "It suggested that the wave-particle duality already observed in light might be a universal feature of matter itself, reshaping how physicists understood particles",
-              "This concept has no relevance to the historical development of quantum mechanics",
+              "It merely restated conclusions that were already fully accepted within classical mechanics",
               "The de Broglie hypothesis had no meaningful influence on the development of quantum theory",
               "This hypothesis contradicted no prior assumptions about the nature of particles"
             ],
@@ -15298,7 +15298,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An epistolary or archival narrative tells a story through documents such as letters, diary entries, or ___.",
             "options": [
-              "A concept unrelated to this narrative form",
+              "A single omniscient narrator summarizing events after the fact",
               "A single, continuous third-person account with no documents involved",
               "Illustrations exclusively, with no written text at all",
               "Records"
@@ -15308,17 +15308,17 @@ const curriculum: DayContent[] = [
           {
             "q": "This narrative form requires readers to piece together plot, character, and ___ from fragmented, first-person sources.",
             "options": [
-              "Font style, with no connection to narrative content",
-              "Only page numbers, with no connection to meaning",
+              "Chronology",
+              "Authorial intent",
               "Reliability",
-              "A concept entirely unrelated to interpreting fragmented documents"
+              "Setting"
             ],
             "answer": 2
           },
           {
             "q": "Which is an example of a document that might appear in an epistolary narrative?",
             "options": [
-              "A document entirely unrelated to this narrative form",
+              "A playwright's stage directions",
               "A form with no written or recorded content whatsoever",
               "A series of letters exchanged between characters",
               "A single, omniscient narrator’s uninterrupted account"
@@ -15328,10 +15328,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might an author use an epistolary or archival structure to tell a story rather than a conventional single narrator?",
             "options": [
-              "This concept has no connection to how narrative structure shapes meaning",
+              "Because epistolary narratives are easier to adapt into films",
               "Presenting multiple documents from different sources can create dramatic irony, gaps in knowledge, and questions about each writer’s reliability",
               "An epistolary structure always simplifies a story compared to a conventional single narrator",
-              "This narrative form has no effect on how a reader experiences gaps in knowledge or perspective"
+              "Because this narrative form eliminates the need for character development"
             ],
             "answer": 1
           },
@@ -15341,7 +15341,7 @@ const curriculum: DayContent[] = [
               "The reader must infer connections, timelines, and truths that are not explicitly stated by any single authoritative narrator",
               "Fragmented documents always present a single, unambiguous version of events",
               "This narrative form requires no interpretation, since every document explains itself completely",
-              "This concept has no relevance to how readers engage with unconventional narrative structures"
+              "Because readers only need to track the speech patterns of a single narrator"
             ],
             "answer": 0
           }
@@ -15433,7 +15433,7 @@ const curriculum: DayContent[] = [
               "A value the graph approaches but never actually reaches",
               "A point where the graph always crosses the x-axis",
               "The exact centre of the graph",
-              "A value unrelated to the function’s behaviour"
+              "A point where the function always equals zero"
             ],
             "answer": 0
           },
@@ -15452,7 +15452,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The graph always crosses through a vertical asymptote",
               "The function becomes undefined at that x-value, causing the graph to approach infinity",
-              "This feature has no connection to the denominator",
+              "The function having a zero in its numerator at that same x-value",
               "Vertical asymptotes never occur in rational functions"
             ],
             "answer": 1
@@ -15483,7 +15483,7 @@ const curriculum: DayContent[] = [
             "options": [
               "How quickly a chemical reaction occurs",
               "The exact colour of a chemical reaction",
-              "A concept unrelated to chemical reactions",
+              "The total energy released once a reaction reaches completion",
               "The total mass of reactants only"
             ],
             "answer": 0
@@ -15494,7 +15494,7 @@ const curriculum: DayContent[] = [
               "A reaction stops completely with no further activity",
               "The rates of the forward and reverse reactions become equal",
               "Only the forward reaction occurs, with no reverse reaction",
-              "A concept unrelated to reaction rates"
+              "The point at which all reactants have been completely converted into products"
             ],
             "answer": 1
           },
@@ -15503,7 +15503,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Removing all reactants from the reaction",
               "Increasing the temperature",
-              "A factor unrelated to reaction conditions",
+              "Lowering the pressure of a gaseous reaction mixture",
               "Decreasing the concentration of reactants to zero"
             ],
             "answer": 1
@@ -15549,7 +15549,7 @@ const curriculum: DayContent[] = [
             "q": "A bildungsroman traces a protagonist’s psychological and moral development from youth to ___.",
             "options": [
               "A state of complete stagnation, with no development at all",
-              "A concept unrelated to this literary form",
+              "Enlightenment",
               "Maturity",
               "Infancy, a reversal of typical development"
             ],
@@ -15561,7 +15561,7 @@ const curriculum: DayContent[] = [
               "Formative",
               "Entirely inconsequential, with no lasting impact on the protagonist",
               "Repetitive, with no meaningful change or growth involved",
-              "A concept unrelated to how this literary form is structured"
+              "Picaresque"
             ],
             "answer": 0
           },
@@ -15571,7 +15571,7 @@ const curriculum: DayContent[] = [
               "Only external events, with no internal change in the protagonist",
               "A complete absence of self-reflection throughout the entire narrative",
               "Realizations",
-              "A concept unrelated to this genre’s typical structure"
+              "Reversals"
             ],
             "answer": 2
           },
@@ -15581,7 +15581,7 @@ const curriculum: DayContent[] = [
               "Confronting failure or a loss of illusion often catalyzes the deeper self-understanding central to the genre’s focus on maturation",
               "A bildungsroman never includes any failure or disillusionment experienced by its protagonist",
               "Setbacks have no meaningful role in a protagonist’s psychological or moral development",
-              "This concept has no connection to how coming-of-age narratives are typically structured"
+              "Because tragic flaws are more central to epic poetry than to the bildungsroman"
             ],
             "answer": 0
           },
@@ -15589,7 +15589,7 @@ const curriculum: DayContent[] = [
             "q": "Why does the bildungsroman remain a widely studied and adapted literary form across different cultures and time periods?",
             "options": [
               "This literary form has no lasting relevance to readers from different cultures or eras",
-              "This concept has no connection to why certain literary forms endure over time",
+              "Because translation into English guarantees canonical status",
               "The universal experience of growing into adult identity resonates across diverse cultural and historical contexts, allowing endless variation on a shared structure",
               "Coming-of-age narratives are never studied or adapted across different literary traditions"
             ],
@@ -15609,7 +15609,7 @@ const curriculum: DayContent[] = [
             "q": "An oblique asymptote occurs when the degree of a rational function’s numerator exceeds the degree of its denominator by exactly ___.",
             "options": [
               "One",
-              "A concept unrelated to rational function behaviour",
+              "Two, an incorrect difference for an oblique asymptote",
               "Zero, meaning the degrees would instead be equal",
               "Three, an incorrect difference for an oblique asymptote"
             ],
@@ -15618,7 +15618,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Polynomial division of a rational function reveals the ___ function that the curve approaches as an oblique asymptote.",
             "options": [
-              "A concept unrelated to finding an oblique asymptote",
+              "Cubic, an incorrect degree for an oblique asymptote",
               "Constant, which describes a horizontal asymptote instead",
               "Linear",
               "Quadratic, an incorrect degree for an oblique asymptote"
@@ -15628,10 +15628,10 @@ const curriculum: DayContent[] = [
           {
             "q": "A rational function can approach an oblique asymptote as x approaches ___.",
             "options": [
-              "Only a single specific finite value, with no connection to infinity",
+              "Only a single specific finite value where the function is undefined",
               "Positive or negative infinity",
-              "Zero exclusively, with no connection to infinite behaviour",
-              "A concept unrelated to asymptotic behaviour"
+              "A value equal to the degree of the denominator only",
+              "Only negative infinity, never positive infinity"
             ],
             "answer": 1
           },
@@ -15639,8 +15639,8 @@ const curriculum: DayContent[] = [
             "q": "Why does performing polynomial long division on a rational function help identify its oblique asymptote?",
             "options": [
               "The quotient from the division represents the linear function the curve approaches, while the remainder term shrinks toward zero as x grows large",
-              "Polynomial long division has no connection to finding a rational function’s asymptotic behaviour",
-              "This concept has no relevance to analyzing a rational function’s graph",
+              "The quotient only reveals a horizontal asymptote, never an oblique one",
+              "The remainder term grows without bound as x increases",
               "The remainder from polynomial division always grows larger as x increases, contradicting the asymptote’s definition"
             ],
             "answer": 0
@@ -15648,7 +15648,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why can a rational function never have both an oblique asymptote and a horizontal asymptote at the same time?",
             "options": [
-              "This concept has no relevance to understanding the end behaviour of rational functions",
+              "A function can have an oblique asymptote only if it also has a horizontal one",
               "A rational function can freely have both an oblique and a horizontal asymptote simultaneously in every case",
               "The degrees of the numerator and denominator have no bearing on the type of asymptote a function has",
               "These two types of asymptotes depend on different, mutually exclusive relationships between the numerator’s and denominator’s degrees"
@@ -15669,10 +15669,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Finding the absolute maximum and minimum of a continuous function on a closed interval requires comparing its value at all critical points to its value at both ___.",
             "options": [
-              "A concept unrelated to this optimization method",
+              "The function's y-intercept, since it represents where the graph begins",
               "Endpoints",
-              "Local minima exclusively, with no connection to the interval’s boundaries",
-              "Inflection points exclusively, with no connection to the endpoints"
+              "Points where the function is discontinuous, since those produce extreme values",
+              "The midpoint of the interval, since extrema often occur equidistant from both ends"
             ],
             "answer": 1
           },
@@ -15680,7 +15680,7 @@ const curriculum: DayContent[] = [
             "q": "A critical point of a function occurs where its derivative is zero or ___.",
             "options": [
               "Equal to the function’s own value at that point",
-              "A concept unrelated to identifying critical points",
+              "Always equal to the function's second derivative at that point",
               "Always positive, with no other possible value",
               "Undefined"
             ],
@@ -15691,7 +15691,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Mean value, a related but distinct calculus concept",
               "Extreme value",
-              "A concept unrelated to finding absolute extrema",
+              "Rolle's, a related but distinct calculus concept",
               "Intermediate value, a related but distinct calculus concept"
             ],
             "answer": 1
@@ -15700,7 +15700,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it necessary to check the function’s value at the endpoints of a closed interval, even if a critical point exists within that interval?",
             "options": [
               "The absolute maximum or minimum on a closed interval could occur at an endpoint rather than at any interior critical point",
-              "This concept has no relevance to solving optimization problems on a closed interval",
+              "Endpoints only need to be checked if no critical points exist within the interval",
               "The endpoints of a closed interval never need to be checked when searching for an absolute extremum",
               "A function’s value at its endpoints has no bearing on identifying its absolute maximum or minimum"
             ],
@@ -15709,7 +15709,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does the Extreme Value Theorem guarantee that a continuous function on a closed interval has both an absolute maximum and an absolute minimum?",
             "options": [
-              "This concept has no relevance to solving closed-interval optimization problems",
+              "The theorem only guarantees a maximum, not a minimum, on a closed interval",
               "A continuous function on a closed interval is never guaranteed to reach an absolute maximum or minimum value",
               "The Extreme Value Theorem applies only to functions that are not continuous",
               "Continuity on a closed, bounded interval ensures the function’s values do not escape to infinity or leave gaps, guaranteeing these extreme values are attained"
@@ -15730,9 +15730,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Biotechnology involves using biological systems to ___.",
             "options": [
-              "A field unrelated to any practical application",
+              "Permanently eliminate all genetic variation within a population",
               "Develop products and technologies",
-              "A process entirely unrelated to biology",
+              "Replace the need for any chemical or physical processes in manufacturing",
               "Only artistic creation, with no scientific basis"
             ],
             "answer": 1
@@ -15740,19 +15740,19 @@ const curriculum: DayContent[] = [
           {
             "q": "Genetic engineering involves the direct manipulation of an organism’s ___.",
             "options": [
-              "Diet, with no connection to genetics",
+              "An organism's behaviour directly, without altering any underlying biological material",
               "External appearance only, with no genetic changes",
               "DNA",
-              "A factor unrelated to biology"
+              "The surrounding ecosystem rather than the organism itself"
             ],
             "answer": 2
           },
           {
             "q": "Which is an example of a real-world application of biotechnology?",
             "options": [
-              "A concept unrelated to agriculture or medicine",
+              "Manufacturing synthetic fabrics from petroleum-based polymers",
               "Developing crops with improved resistance to pests",
-              "Technology that has no connection to biological organisms",
+              "Designing mechanical irrigation systems for farmland",
               "A field with no real-world applications"
             ],
             "answer": 1
@@ -15760,7 +15760,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does genetic engineering raise ethical considerations?",
             "options": [
-              "This technology has no connection to living organisms",
+              "Ethical concerns apply only to animal research, never to plant or microbial engineering",
               "Ethical considerations are irrelevant to scientific research",
               "It has the potential to significantly alter living organisms, raising questions about appropriate use",
               "Genetic engineering has no ethical implications at all"
@@ -15771,7 +15771,7 @@ const curriculum: DayContent[] = [
             "q": "Why is biotechnology considered an important and growing field?",
             "options": [
               "It has the potential to address challenges in medicine, agriculture, and other industries",
-              "This field has no connection to modern science",
+              "Biotechnology has already solved all major challenges in medicine and agriculture",
               "Biotechnology only applies to a single, narrow application",
               "Biotechnology has no real-world significance"
             ],
@@ -15797,10 +15797,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Political speechwriting relies on deliberate rhetorical techniques, including repetition and parallel ___.",
             "options": [
-              "A concept entirely unrelated to persuasive rhetorical technique",
-              "Punctuation exclusively, with no connection to sentence structure",
+              "Diction",
+              "Meter, borrowed from poetic verse forms",
               "Structure",
-              "Silence, with no connection to spoken rhetorical devices"
+              "Allegory, a narrative device suited to fiction rather than oratory"
             ],
             "answer": 2
           },
@@ -15808,8 +15808,8 @@ const curriculum: DayContent[] = [
             "q": "Political speeches often use carefully chosen ___ to build emotional resonance with an audience.",
             "options": [
               "Imagery",
-              "A concept unrelated to persuasive speechwriting",
-              "Statistics exclusively, with no connection to emotional appeal",
+              "Legal precedent",
+              "Syllogism, a technique associated with formal logical argument",
               "Only technical jargon, with no emotional resonance intended"
             ],
             "answer": 0
@@ -15819,7 +15819,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Avoiding any form of repetition throughout the entire speech",
               "Using a completely different sentence structure in every single sentence",
-              "A technique entirely unrelated to speechwriting",
+              "Citing statistical data to support a claim",
               "Repeating the same grammatical pattern across a series of related phrases"
             ],
             "answer": 3
@@ -15827,10 +15827,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a speechwriter use the rhetorical device of repetition, such as repeating a key phrase throughout a speech?",
             "options": [
-              "This rhetorical device has no connection to how an audience experiences a speech",
+              "Because repetition is required by parliamentary procedure in formal debate",
               "Repetition reinforces a central idea, making it more memorable and emotionally resonant for the audience",
               "Repetition always weakens the persuasive impact of a political speech",
-              "This concept has no relevance to analyzing political rhetoric"
+              "Because repeated phrases primarily serve to pad a speech's length for broadcast time slots"
             ],
             "answer": 1
           },
@@ -15838,9 +15838,9 @@ const curriculum: DayContent[] = [
             "q": "Why is analyzing the rhetorical techniques of political speeches a valuable media literacy skill for Grade 12 students?",
             "options": [
               "Political speeches never rely on any deliberate persuasive technique",
-              "This concept has no relevance to media literacy education",
+              "Because it primarily helps students memorize historical speech dates",
               "It builds the critical awareness needed to recognize how persuasive language shapes public opinion, supporting more informed civic engagement",
-              "Analyzing political rhetoric has no connection to developing informed, critical citizens"
+              "Because rhetorical analysis is mainly useful for improving spelling and grammar"
             ],
             "answer": 2
           }
@@ -15918,9 +15918,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Jerk is the rate of change of acceleration with respect to ___.",
             "options": [
-              "Position exclusively, with no connection to how acceleration changes over time",
+              "Velocity, since jerk measures the same rate of change as acceleration itself",
               "Velocity exclusively, rather than acceleration",
-              "A concept unrelated to describing motion",
+              "Distance travelled, independent of how quickly the object is accelerating",
               "Time"
             ],
             "answer": 3
@@ -15931,7 +15931,7 @@ const curriculum: DayContent[] = [
               "Differentiating",
               "Multiplying by a constant, with no calculus operation involved",
               "Integrating, the opposite calculus operation",
-              "A concept unrelated to relating jerk to acceleration"
+              "Squaring the acceleration function at each point in time"
             ],
             "answer": 0
           },
@@ -15939,8 +15939,8 @@ const curriculum: DayContent[] = [
             "q": "Jerk describes how abruptly ___ itself is changing.",
             "options": [
               "Acceleration",
-              "A concept unrelated to describing changes in motion",
-              "Position exclusively, with no connection to acceleration",
+              "Velocity, which is actually the second derivative of position, not the third",
+              "The object's mass, which determines how much force is needed to change its acceleration",
               "Time itself, which does not change in this context"
             ],
             "answer": 0
@@ -15948,8 +15948,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might engineers designing an elevator or a roller coaster be concerned with minimizing jerk, not just controlling acceleration?",
             "options": [
-              "This concept has no relevance to designing vehicles or mechanical systems",
-              "Jerk has no connection to how passengers physically experience a ride’s motion",
+              "Jerk only matters in aerospace engineering, not in elevators or roller coasters",
+              "Passengers only notice changes in velocity, never changes in acceleration",
               "A sudden, large jerk can feel physically uncomfortable or jarring to passengers, even if the acceleration itself stays within a reasonable range",
               "Minimizing acceleration alone always guarantees a smooth, comfortable ride with no further consideration needed"
             ],
@@ -15958,10 +15958,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does jerk represent the third derivative of an object’s position function with respect to time?",
             "options": [
-              "This concept has no relevance to understanding rates of change in the study of motion",
+              "Jerk is actually the second derivative of position, the same as acceleration",
               "Velocity is the first derivative of position, acceleration is the second derivative, and jerk, being the derivative of acceleration, is therefore the third",
-              "Jerk is unrelated to position, velocity, or acceleration in any mathematical sense",
-              "The relationship between position, velocity, acceleration, and jerk has no connection to derivatives"
+              "Jerk is found by integrating position three times, not by differentiating",
+              "Each derivative in this sequence actually represents the same physical quantity, just measured differently"
             ],
             "answer": 1
           }
@@ -15979,17 +15979,17 @@ const curriculum: DayContent[] = [
           {
             "q": "Ferromagnetic materials contain regions called magnetic ___, in which atomic magnetic moments align in the same direction.",
             "options": [
-              "Circuits, a concept unrelated to describing atomic-level magnetic alignment",
+              "Dipoles, individual atomic-scale magnets rather than larger aligned regions",
               "Voids, regions with no atomic magnetic moments present at all",
               "Domains",
-              "A concept unrelated to ferromagnetism"
+              "Moments, a term for a single atom's magnetic strength rather than an aligned region"
             ],
             "answer": 2
           },
           {
             "q": "A ferromagnetic material becomes strongly magnetized when an external field aligns its magnetic domains ___.",
             "options": [
-              "A concept unrelated to how ferromagnetism works",
+              "In alternating directions, cancelling out the material's net magnetization",
               "Into a completely random, disordered arrangement",
               "Together",
               "In directions that oppose the external field at every point"
@@ -16000,7 +16000,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these is an example of a common ferromagnetic material?",
             "options": [
               "Glass, which is not a ferromagnetic material",
-              "A material entirely unrelated to magnetism",
+              "Aluminum, a metal that is only weakly paramagnetic rather than ferromagnetic",
               "Wood, which is not a ferromagnetic material",
               "Iron"
             ],
@@ -16011,8 +16011,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Its magnetic domains typically point in many different, randomly oriented directions, causing their individual magnetic effects to cancel out overall",
               "An unmagnetized ferromagnetic material always has all of its domains already perfectly aligned",
-              "This concept has no relevance to understanding why some materials are magnetic and others are not",
-              "Magnetic domains have no connection to whether a ferromagnetic material exhibits an overall external field"
+              "The iron atoms themselves possess no magnetic moment until an external field is applied",
+              "Magnetic domains only form once a material is heated above its Curie temperature"
             ],
             "answer": 0
           },
@@ -16021,7 +16021,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Temperature has no established relationship to the magnetic properties of a ferromagnetic material",
               "Heating a ferromagnetic material always strengthens the alignment of its magnetic domains",
-              "This concept has no relevance to understanding the behaviour of magnetic materials",
+              "Above the Curie temperature, the material's atoms permanently lose their magnetic moment",
               "Sufficient thermal energy disrupts the alignment of magnetic domains, randomizing their orientation and eliminating the material’s net magnetic effect"
             ],
             "answer": 3
@@ -16045,9 +16045,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A strong college application essay uses a specific, personal story mainly to reveal the writer’s ___.",
             "options": [
-              "A concept unrelated to this type of essay",
+              "A comprehensive list of academic accomplishments and awards",
               "Character and voice",
-              "Exam scores exclusively, with no connection to personal story",
+              "The applicant's standardized test scores and class rank",
               "A generic list of extracurricular activities with no reflection"
             ],
             "answer": 1
@@ -16065,7 +16065,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A college application essay typically avoids simply listing achievements, favouring ___ instead.",
             "options": [
-              "A concept unrelated to how this essay is typically structured",
+              "A polished list of standardized test scores and GPA figures",
               "A title, which has no bearing on the essay’s central content",
               "A resume-style format with no narrative at all",
               "A genuine, reflective story that shows growth or insight"
@@ -16075,19 +16075,19 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a writer choose to revise an essay opening so it starts in the middle of a specific scene rather than with a general statement?",
             "options": [
-              "This concept has no relevance to writing an effective application essay",
+              "Because admissions officers primarily skim only the essay's final paragraph",
               "A general statement always makes for a stronger opening than a specific scene",
               "Starting in a specific scene draws the reader in immediately and makes the essay feel authentic rather than generic",
-              "The opening of an essay has no effect on how a reader responds to it"
+              "Because college essays are evaluated solely on grammatical accuracy"
             ],
             "answer": 2
           },
           {
             "q": "Why is drafting and revising a personal, reflective essay considered valuable preparation for writing beyond high school?",
             "options": [
-              "This type of essay has no connection to skills needed for future writing",
-              "This concept has no relevance to developing a personal writing voice",
-              "Reflective personal writing has no relevance to any future academic or professional context",
+              "Because it trains students to format a resume according to professional standards",
+              "Because it primarily teaches templates for business correspondence",
+              "Because reflective essays are mainly useful for meeting a school's community-service requirement",
               "It develops the ability to reflect honestly and specifically on one’s own experience, a skill valued in both admissions writing and future academic or professional writing"
             ],
             "answer": 3
@@ -16107,9 +16107,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A continued fraction expresses a number as a whole number plus a fraction whose denominator is itself a sum involving another ___.",
             "options": [
-              "A concept unrelated to this method of representing numbers",
+              "A decimal expansion exclusively, with no further fraction involved",
               "Whole number exclusively, with no further fraction involved",
-              "Radical expression exclusively, with no connection to fractions",
+              "An exponent exclusively, applied to the whole number term",
               "Fraction"
             ],
             "answer": 3
@@ -16119,7 +16119,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Permanently erase, with no way to recover the original value",
               "Approximate",
-              "A concept unrelated to continued fractions",
+              "Multiply each term by a fixed constant factor",
               "Ignore, with no meaningful mathematical use"
             ],
             "answer": 1
@@ -16129,8 +16129,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Irrational, a type of number requiring an infinite continued fraction",
               "Rational",
-              "A concept unrelated to continued fractions",
-              "Imaginary, a type of number unrelated to continued fraction representation"
+              "A number requiring an infinitely repeating decimal expansion",
+              "Complex, a type of number requiring two separate continued fractions"
             ],
             "answer": 1
           },
@@ -16138,8 +16138,8 @@ const curriculum: DayContent[] = [
             "q": "Why might a continued fraction provide a particularly good rational approximation of an irrational number like pi?",
             "options": [
               "Continued fractions never provide any useful approximation of an irrational number",
-              "This concept has no relevance to approximating real numbers",
-              "Rational approximations of irrational numbers have no connection to continued fraction representation",
+              "Continued fractions only approximate rational numbers, never irrational ones",
+              "Truncating a continued fraction always produces a less accurate result than a decimal",
               "Truncating a continued fraction at successive stages tends to produce increasingly accurate rational approximations compared to many other approximation methods"
             ],
             "answer": 3
@@ -16147,7 +16147,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is exploring continued fractions a valuable extension of a Grade 12 student’s understanding of how numbers can be represented?",
             "options": [
-              "This concept has no relevance to broadening a student’s mathematical understanding",
+              "Decimal notation is always a more precise representation than a continued fraction",
               "Decimal representation is the only meaningful way any real number can ever be expressed",
               "Continued fractions have no meaningful connection to understanding the properties of numbers",
               "It reveals an alternative structure to the familiar decimal system, deepening insight into the properties of rational and irrational numbers"
@@ -16230,7 +16230,7 @@ const curriculum: DayContent[] = [
             "q": "In beta decay, a neutron transforms into a proton, releasing an electron and an ___.",
             "options": [
               "Additional proton, an inaccurate description of the particles released",
-              "A concept unrelated to beta decay",
+              "Gamma ray, a form of electromagnetic radiation rather than a particle released in beta decay",
               "Antineutrino",
               "Alpha particle, a particle released in a different type of radioactive decay"
             ],
@@ -16240,7 +16240,7 @@ const curriculum: DayContent[] = [
             "q": "Beta decay is a process mediated by the ___ nuclear force.",
             "options": [
               "Weak",
-              "A concept unrelated to beta decay",
+              "Electromagnetic, the force generally responsible for interactions between charged particles",
               "Strong, the force primarily responsible for holding the nucleus together",
               "Gravitational, a force with no meaningful role at the nuclear scale"
             ],
@@ -16251,7 +16251,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The same number of, with no change at all",
               "One fewer, an inaccurate description of the change",
-              "A concept unrelated to the outcome of beta decay",
+              "Two fewer protons, an inaccurate description of the change in beta decay",
               "One more"
             ],
             "answer": 3
@@ -16259,20 +16259,20 @@ const curriculum: DayContent[] = [
           {
             "q": "Why was the existence of the antineutrino originally proposed to explain observations in beta decay, even before it was directly detected?",
             "options": [
-              "The antineutrino was proposed with no connection to any experimental observation or conservation principle",
+              "The antineutrino was proposed solely to balance electric charge, not energy or momentum",
               "Beta decay was always fully explained without needing to propose any additional particle",
               "Without an additional particle carrying away some energy and momentum, the observed beta decay events appeared to violate the conservation of energy and momentum",
-              "This concept has no relevance to the historical development of nuclear and particle physics"
+              "Beta decay was already known to conserve energy and momentum without any missing particle"
             ],
             "answer": 2
           },
           {
             "q": "Why is beta decay classified separately from alpha decay in terms of the fundamental force responsible for the process?",
             "options": [
-              "The classification of decay types has no connection to which fundamental force is responsible",
+              "Alpha decay is also mediated by the weak nuclear force, identical to beta decay",
               "Beta decay results from the weak nuclear force transforming a neutron into a proton, while alpha decay results primarily from the strong force and Coulomb repulsion ejecting a nuclear fragment",
               "Beta decay and alpha decay are governed by exactly the same fundamental force with no meaningful distinction",
-              "This concept has no relevance to understanding different types of radioactive decay"
+              "Both alpha and beta decay result entirely from electromagnetic repulsion within the nucleus"
             ],
             "answer": 1
           }
@@ -16298,7 +16298,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A reader has reason to doubt",
               "Is always completely trustworthy with no exceptions",
-              "A concept unrelated to narrative technique",
+              "Shifts between first and third person without explanation",
               "Can never be questioned by a careful reader"
             ],
             "answer": 0
@@ -16306,9 +16306,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A narrator may become unreliable due to ___.",
             "options": [
-              "Page numbering conventions, unrelated to narration",
+              "An omniscient point of view that reveals every character's thoughts",
               "Limited knowledge, personal bias, or a deliberate intent to deceive",
-              "A concept unrelated to how narrators function",
+              "A strictly chronological retelling of events",
               "The font used to print the text"
             ],
             "answer": 1
@@ -16317,8 +16317,8 @@ const curriculum: DayContent[] = [
             "q": "When reading an unreliable narrator's account, a careful reader must ___.",
             "options": [
               "Accept every statement in the text at face value with no further thought",
-              "Punctuation exclusively, with no connection to narrative technique",
-              "A concept unrelated to how narration functions",
+              "Assume the narrator shares the author's own political views",
+              "Rely solely on footnotes provided by the editor",
               "Read between the lines to reconstruct a more accurate version of events"
             ],
             "answer": 3
@@ -16327,9 +16327,9 @@ const curriculum: DayContent[] = [
             "q": "Why might an author choose to tell a story through an unreliable narrator rather than a trustworthy one?",
             "options": [
               "An unreliable narrator always makes a story easier for readers to follow",
-              "This narrative choice has no effect on how a reader perceives the story",
+              "Because it simplifies the plot for younger readers",
               "It can create dramatic irony and invite readers to actively question and interpret events themselves",
-              "This concept has no connection to how narrative choices shape reader response"
+              "Because unreliable narration is required in all first-person fiction"
             ],
             "answer": 2
           },
@@ -16337,7 +16337,7 @@ const curriculum: DayContent[] = [
             "q": "Why is identifying the signs of an unreliable narrator considered a sophisticated literary skill at the Grade 12 level?",
             "options": [
               "A narrator's reliability never has any meaningful effect on how a story should be interpreted",
-              "This concept has no relevance to advanced literary analysis",
+              "Because it mainly tests a reader's ability to recall publication dates",
               "It requires tracking inconsistencies, gaps, and biases in the text to judge how much of the narrator's account to trust",
               "This type of analysis requires no attention to a narrator's perspective or credibility"
             ],
@@ -16357,10 +16357,10 @@ const curriculum: DayContent[] = [
           {
             "q": "The logistic function models growth that starts nearly exponential but slows and levels off as it approaches a maximum sustainable ___.",
             "options": [
-              "Rate of change exclusively, with no connection to an upper limit",
+              "Growth rate exclusively, measured independently of any upper limit",
               "Value",
               "Starting point, a value that does not represent the growth ceiling",
-              "A concept unrelated to logistic growth"
+              "Minimum sustainable value, the floor rather than the ceiling of growth"
             ],
             "answer": 1
           },
@@ -16369,7 +16369,7 @@ const curriculum: DayContent[] = [
             "options": [
               "U, an inaccurate description of the logistic curve’s shape",
               "S",
-              "A concept unrelated to describing the logistic function’s graph",
+              "A straight, linear line with a constant slope",
               "V, an inaccurate description of the logistic curve’s shape"
             ],
             "answer": 1
@@ -16377,8 +16377,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Unlike a purely exponential function, the logistic function includes a built-in ___ that growth approaches but does not exceed.",
             "options": [
-              "Starting value exclusively, with no connection to an eventual ceiling",
-              "A concept unrelated to how the logistic function differs from exponential growth",
+              "Growth rate exclusively, with no fixed ceiling involved",
+              "A starting value exclusively, with no eventual ceiling",
               "Upper limit",
               "Negative boundary exclusively, an inaccurate description of this limit"
             ],
@@ -16390,17 +16390,17 @@ const curriculum: DayContent[] = [
               "A population’s growth is eventually constrained by limited resources, and the logistic function captures this slowing and levelling off as the population nears the environment’s capacity",
               "An exponential function always provides a more realistic long-term model of population growth than a logistic function",
               "A population’s growth is never affected or limited by the resources available in its environment",
-              "This concept has no relevance to modelling real-world growth processes"
+              "A logistic function grows without bound just like an exponential function"
             ],
             "answer": 0
           },
           {
             "q": "Why is the transition from near-exponential growth to a levelling plateau a defining mathematical feature of the logistic function?",
             "options": [
-              "This concept has no relevance to distinguishing logistic growth from other growth models",
+              "The function grows at a constant rate throughout its entire domain",
               "This shift reflects the function’s built-in maximum value, which increasingly slows the rate of growth as the function’s value approaches that ceiling",
               "The logistic function grows at a constant, unchanging rate throughout its entire domain",
-              "A levelling plateau has no connection to how the logistic function is mathematically defined"
+              "A levelling plateau only occurs in functions with a negative leading coefficient"
             ],
             "answer": 1
           }
@@ -16479,10 +16479,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Thermodynamics primarily studies ___.",
             "options": [
-              "Only light, with no connection to thermal energy",
-              "A field unrelated to energy",
+              "Only the motion of charged particles, a topic belonging to electromagnetism rather than heat transfer",
+              "The structure of atomic nuclei and their radioactive decay",
               "Heat and energy transfer",
-              "Only sound waves, with no connection to heat"
+              "Only the propagation of electromagnetic waves through space"
             ],
             "answer": 2
           },
@@ -16490,7 +16490,7 @@ const curriculum: DayContent[] = [
             "q": "Entropy describes ___.",
             "options": [
               "A process where energy always becomes more concentrated over time",
-              "A concept unrelated to energy or disorder",
+              "The total kinetic energy stored within a system's moving particles",
               "The tendency of energy to spread out and become more disordered",
               "The complete absence of any energy transfer"
             ],
@@ -16500,7 +16500,7 @@ const curriculum: DayContent[] = [
             "q": "Heat transfer generally occurs from ___.",
             "options": [
               "An area of higher temperature to an area of lower temperature",
-              "A process unrelated to temperature differences",
+              "Regions of higher pressure to regions of lower pressure exclusively",
               "An area of lower temperature to an area of higher temperature, with no exceptions",
               "No particular direction, occurring completely randomly"
             ],
@@ -16510,7 +16510,7 @@ const curriculum: DayContent[] = [
             "q": "Which is an everyday example of heat transfer?",
             "options": [
               "An object that never changes temperature under any conditions",
-              "A process unrelated to thermal energy",
+              "A perfectly insulated thermos that maintains its contents at constant temperature indefinitely",
               "A hot cup of coffee cooling down as it sits on a table",
               "A situation where heat transfer never actually occurs"
             ],
@@ -16519,8 +16519,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding thermodynamics important in engineering, such as designing engines?",
             "options": [
-              "This field of physics has no connection to energy efficiency",
-              "Heat transfer has no relevance to engine design",
+              "Engine design relies solely on mechanical tolerances, with efficiency determined by chemistry alone",
+              "Heat transfer only matters for engines that operate at extremely low temperatures",
               "Thermodynamics has no real-world engineering applications",
               "It helps engineers understand how energy can be transferred and used efficiently"
             ],
@@ -16546,10 +16546,10 @@ const curriculum: DayContent[] = [
           {
             "q": "An extended definition essay explores the meaning of an abstract concept, such as justice or ___.",
             "options": [
-              "A specific date, a detail unrelated to defining an abstract concept",
+              "A specific historical battle",
               "A concrete physical object, unlike the abstract concepts typically explored",
               "Courage",
-              "A concept unrelated to this type of essay"
+              "A particular country's legal code"
             ],
             "answer": 2
           },
@@ -16557,8 +16557,8 @@ const curriculum: DayContent[] = [
             "q": "An extended definition essay examines a concept’s various dimensions through examples and ___.",
             "options": [
               "Only a single, brief dictionary quotation, with no further development",
-              "A concept entirely unrelated to how this essay develops its definition",
-              "Random, disconnected facts with no relevance to the concept",
+              "Statistical regression analysis",
+              "Footnoted citations from legal textbooks exclusively",
               "Comparisons"
             ],
             "answer": 3
@@ -16568,15 +16568,15 @@ const curriculum: DayContent[] = [
             "options": [
               "Looks like physically, a strategy suited to concrete rather than abstract concepts",
               "Is not",
-              "A concept unrelated to this essay’s typical strategies",
-              "Costs, a detail unrelated to defining most abstract concepts"
+              "Originated etymologically in Latin",
+              "Translates to in other major languages"
             ],
             "answer": 1
           },
           {
             "q": "Why might an extended definition essay use a specific narrative example to illustrate an abstract concept like courage?",
             "options": [
-              "This concept has no relevance to how an extended definition essay is typically structured",
+              "Because narrative examples are required by MLA citation format",
               "A concrete example always makes an abstract concept harder for a reader to understand",
               "Narrative examples have no useful role in developing an extended definition",
               "A concrete example grounds an abstract idea in a relatable, vivid situation, helping the reader understand the concept’s nuance beyond a simple dictionary definition"
@@ -16587,7 +16587,7 @@ const curriculum: DayContent[] = [
             "q": "Why is defining an abstract concept through multiple approaches, rather than a single dictionary definition, considered more intellectually rigorous?",
             "options": [
               "Abstract concepts often carry nuanced, sometimes contested meanings that a single brief definition cannot fully capture, so multiple approaches reveal a fuller understanding",
-              "This concept has no relevance to writing a sophisticated definition essay",
+              "Because dictionaries are typically not permitted as sources in academic essays",
               "Abstract concepts never have multiple dimensions or nuanced meanings worth exploring",
               "A single dictionary definition always fully and adequately captures the meaning of any abstract concept"
             ],
@@ -16680,7 +16680,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Volume, subject to a given constraint",
               "A completely random, unrelated value",
-              "Only colour, with no connection to measurement",
+              "Only the number of sides a shape has, regardless of its dimensions",
               "Nothing measurable at all"
             ],
             "answer": 0
@@ -16691,7 +16691,7 @@ const curriculum: DayContent[] = [
               "Minimizing surface area always increases the volume needed",
               "Minimizing surface area can reduce material costs while still holding the required amount of product",
               "This type of optimization has no real-world application",
-              "Surface area has no connection to packaging material costs"
+              "Surface area and material cost are always directly proportional to volume, regardless of shape"
             ],
             "answer": 1
           },
@@ -16699,7 +16699,7 @@ const curriculum: DayContent[] = [
             "q": "Solving a 3D optimization problem typically involves ___.",
             "options": [
               "Ignoring all mathematical relationships between dimensions",
-              "A process unrelated to measurement or geometry",
+              "Finding a solution using only integer values for each dimension",
               "Guessing dimensions with no calculation involved",
               "Setting up an equation relating the dimensions and then finding a maximum or minimum value"
             ],
@@ -16719,7 +16719,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding 3D optimization valuable for engineers and designers?",
             "options": [
               "3D optimization has no practical value for engineering or design",
-              "This mathematical skill has no connection to design work",
+              "Optimization is only useful during final testing, not during the initial design stage",
               "Engineers never need to consider efficient use of materials",
               "It helps them make efficient use of materials and space in real-world designs"
             ],
@@ -16739,7 +16739,7 @@ const curriculum: DayContent[] = [
             "q": "Nuclear fission involves ___.",
             "options": [
               "No release of energy whatsoever",
-              "A process unrelated to atomic nuclei",
+              "A chain reaction driven purely by the chemical combustion of fuel",
               "Splitting a large atomic nucleus into smaller parts",
               "Combining small nuclei into a larger one"
             ],
@@ -16749,7 +16749,7 @@ const curriculum: DayContent[] = [
             "q": "Nuclear fusion involves ___.",
             "options": [
               "Combining small nuclei into a larger one",
-              "A process unrelated to nuclear reactions",
+              "The ejection of alpha particles from a heavy, unstable nucleus",
               "Splitting a large nucleus into smaller parts",
               "No release of energy whatsoever"
             ],
@@ -16759,7 +16759,7 @@ const curriculum: DayContent[] = [
             "q": "Which process powers the Sun?",
             "options": [
               "Nuclear fission",
-              "A process unrelated to nuclear reactions",
+              "Gravitational contraction alone, without any nuclear reactions occurring",
               "Nuclear fusion",
               "Simple chemical combustion"
             ],
@@ -16769,7 +16769,7 @@ const curriculum: DayContent[] = [
             "q": "Which process is used in traditional nuclear power plants to generate electricity?",
             "options": [
               "Nuclear fusion",
-              "A process unrelated to nuclear reactions",
+              "Controlled fusion reactions occurring within a magnetically confined plasma",
               "Simple chemical combustion",
               "Nuclear fission"
             ],
@@ -16778,7 +16778,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do both fission and fusion release significant amounts of energy?",
             "options": [
-              "These processes have no connection to energy production",
+              "Energy is released only because of electrostatic repulsion between protons, not mass-energy conversion",
               "Changes in the nucleus can convert a small amount of mass into a large amount of energy",
               "Neither process actually releases any energy",
               "Only chemical reactions can release significant energy"
@@ -16805,10 +16805,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Confessional literature presents deeply personal, often taboo or painful material with a directness that challenges earlier conventions of poetic and narrative ___.",
             "options": [
-              "Punctuation, a technical concern unrelated to this literary mode’s defining feature",
+              "Allegory, a narrative technique more associated with earlier moral fiction",
               "Restraint",
-              "A concept unrelated to the confessional mode",
-              "Rhyme scheme exclusively, a formal feature unrelated to confessional content"
+              "Satire exclusively, a comedic mode aimed at mockery rather than candid self-disclosure",
+              "Travel writing conventions, a genre centred on place rather than personal disclosure"
             ],
             "answer": 1
           },
@@ -16816,8 +16816,8 @@ const curriculum: DayContent[] = [
             "q": "Which is an example of subject matter commonly explored in confessional literature?",
             "options": [
               "Only cheerful, uncomplicated everyday events with no emotional weight",
-              "A subject entirely unrelated to personal experience",
-              "Purely fictional events with no connection to the author’s own life",
+              "Nature imagery drawn primarily from the pastoral tradition",
+              "Historical battles recounted in epic form",
               "Mental illness, trauma, or family conflict"
             ],
             "answer": 3
@@ -16828,7 +16828,7 @@ const curriculum: DayContent[] = [
               "Punctuation exclusively, a technical rather than thematic convention",
               "Restraint",
               "Grammar exclusively, a technical rather than thematic convention",
-              "A concept unrelated to how this mode differs from earlier writing"
+              "Allegory, a mode more associated with moralizing fiction than personal confession"
             ],
             "answer": 1
           },
@@ -16836,7 +16836,7 @@ const curriculum: DayContent[] = [
             "q": "Why might confessional literature have been considered controversial or boundary-pushing when it first gained prominence?",
             "options": [
               "Confessional literature has never addressed any subject matter previously considered private or taboo",
-              "This concept has no relevance to understanding the historical reception of confessional writing",
+              "Because confessional writers were typically unpublished until decades after their deaths",
               "It directly addressed personal and often painful subject matter that had previously been considered too private or taboo for public literary expression",
               "This literary mode was always immediately accepted with no controversy of any kind"
             ],
@@ -16848,7 +16848,7 @@ const curriculum: DayContent[] = [
               "Without craft, deeply personal material can feel unshaped or self-indulgent, while skilled shaping transforms raw experience into work with broader resonance and meaning",
               "Literary craft and personal honesty are always entirely incompatible with one another",
               "Confessional writing requires no literary craft whatsoever, relying only on raw, unshaped honesty",
-              "This concept has no relevance to understanding how confessional literature achieves its effects"
+              "Because literary prizes exclusively reward technical complexity over personal content"
             ],
             "answer": 0
           }
@@ -16868,7 +16868,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Leading",
               "Middle, an inaccurate description of the digit position described by Benford’s Law",
-              "A concept unrelated to this statistical pattern",
+              "Second, an inaccurate description of the digit position described by Benford's Law",
               "Final, an inaccurate description of the digit position described by Benford’s Law"
             ],
             "answer": 0
@@ -16879,7 +16879,7 @@ const curriculum: DayContent[] = [
               "Logarithms",
               "Only simple addition, with no logarithmic relationship involved",
               "Basic multiplication exclusively, with no logarithmic component",
-              "A concept unrelated to how Benford’s Law is mathematically defined"
+              "Exponential growth rates exclusively, with no logarithmic component"
             ],
             "answer": 0
           },
@@ -16889,7 +16889,7 @@ const curriculum: DayContent[] = [
               "1",
               "5, a digit with only a moderate predicted frequency under Benford’s Law",
               "9, the digit predicted to appear least frequently under Benford’s Law",
-              "A concept unrelated to the specific predictions of Benford’s Law"
+              "0, a digit that cannot appear as a leading digit at all"
             ],
             "answer": 0
           },
@@ -16897,7 +16897,7 @@ const curriculum: DayContent[] = [
             "q": "Why is Benford’s Law sometimes used by forensic accountants and auditors to help detect potentially fabricated financial data?",
             "options": [
               "Fabricated numbers always naturally follow the exact same leading-digit pattern as genuinely occurring data",
-              "This concept has no relevance to any real-world application of mathematics",
+              "Benford's Law only applies to randomly generated numbers, not real data",
               "Genuinely occurring data sets tend to follow the predictable, non-uniform pattern of leading digits described by Benford’s Law, so significant deviations can raise suspicion about how numbers were generated",
               "Benford’s Law has no practical application in detecting unusual patterns in financial data"
             ],
@@ -16907,8 +16907,8 @@ const curriculum: DayContent[] = [
             "q": "Why is Benford’s Law considered a surprising result to many people encountering it for the first time?",
             "options": [
               "Intuition might suggest each leading digit from 1 to 9 should appear with roughly equal frequency, but the actual observed pattern is strikingly uneven and logarithmic in structure",
-              "This law has no connection to how digits are distributed in any real numerical data",
-              "This concept has no relevance to understanding surprising results in mathematics",
+              "Benford's Law predicts a uniform distribution across all ten digits",
+              "This pattern only applies to extremely large data sets with millions of entries",
               "Benford’s Law confirms the intuitive expectation that each leading digit occurs with exactly equal frequency"
             ],
             "answer": 0
@@ -16987,10 +16987,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Electrochemistry studies the relationship between ___.",
             "options": [
-              "Only light, with no connection to chemistry",
-              "Only sound and chemistry, with no connection to electricity",
+              "Only the motion of mechanical gears and chemical catalysts",
+              "Only temperature changes and the colour of a solution",
               "Chemical reactions and electricity",
-              "A field unrelated to chemical reactions"
+              "Only the pressure and volume of a gaseous reaction mixture"
             ],
             "answer": 2
           },
@@ -16999,7 +16999,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only mechanical movement, with no chemical involvement",
               "A method that requires no chemical reaction at all",
-              "A process entirely unrelated to chemistry",
+              "A continuous mechanical rotation of an internal magnet, as in a generator",
               "Controlled chemical reactions"
             ],
             "answer": 3
@@ -17007,18 +17007,18 @@ const curriculum: DayContent[] = [
           {
             "q": "Which is an example of a device that relies on electrochemistry?",
             "options": [
-              "A tool unrelated to electricity or chemistry",
+              "A mechanical clock powered entirely by a wound spring",
               "A battery",
               "An object that generates no electric current",
-              "A device with no connection to chemical reactions"
+              "A solar panel, which converts light directly into electricity without any chemical reaction"
             ],
             "answer": 1
           },
           {
             "q": "Why is electrochemistry considered a practical application of chemistry?",
             "options": [
-              "This field of chemistry has no connection to everyday technology",
-              "Batteries have no connection to chemical reactions",
+              "Electrochemistry is a purely theoretical field with no commercial devices built on it",
+              "Batteries generate current through purely mechanical means, such as spring tension, rather than chemical reactions",
               "Electrochemistry has no real-world applications",
               "It underlies technologies like batteries that are essential to modern life"
             ],
@@ -17028,7 +17028,7 @@ const curriculum: DayContent[] = [
             "q": "Why might scientists research new electrochemical technologies, such as improved batteries?",
             "options": [
               "Electrochemical research provides no benefit to energy technology",
-              "This research has no connection to energy storage",
+              "Battery research focuses solely on reducing manufacturing costs, not energy storage efficiency",
               "Improved batteries have no real-world significance",
               "To develop more efficient and sustainable ways to store and use energy"
             ],
@@ -17055,7 +17055,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Identical, single-person readership with no broader audience at all",
               "Nonexistent, since a public letter reaches no one beyond its named recipient",
-              "A concept unrelated to how a public letter functions",
+              "Academic, a readership limited strictly to scholarly experts",
               "Wider"
             ],
             "answer": 3
@@ -17063,10 +17063,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Writing an effective public letter requires balancing direct address with broader ___ appeal.",
             "options": [
-              "A concept entirely unrelated to the purpose of a public letter",
+              "Comedic",
               "Persuasive",
-              "Financial, a concern unrelated to the letter’s persuasive purpose",
-              "Purely decorative, with no connection to convincing any reader"
+              "Legal, a technical concern distinct from persuasive civic appeal",
+              "Satirical, a tone generally unsuited to formal public address"
             ],
             "answer": 1
           },
@@ -17075,7 +17075,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A government official or organization",
               "No recipient at all, since a public letter requires no named audience",
-              "A recipient entirely unrelated to the concept of a public letter",
+              "An anonymous online commenter with no formal title",
               "A close personal friend, in an entirely private context"
             ],
             "answer": 0
@@ -17083,7 +17083,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a writer use formal, precise language when addressing a specific official in a public letter, even while writing partly for a broader audience?",
             "options": [
-              "This concept has no relevance to writing an effective public letter",
+              "Because formal language is a legal requirement for all public correspondence",
               "The tone and precision of language have no bearing on how a public letter is received",
               "Formal language always alienates a public letter’s broader intended readership",
               "Formal precision signals credibility and seriousness to the named recipient, while remaining accessible and persuasive enough to resonate with a broader public readership"
@@ -17095,7 +17095,7 @@ const curriculum: DayContent[] = [
             "options": [
               "This form of writing has no persuasive function beyond its single named recipient",
               "It has repeatedly allowed writers to hold specific figures or institutions publicly accountable while simultaneously shaping broader public opinion on an issue",
-              "This concept has no relevance to understanding the history of persuasive writing",
+              "Because public letters are typically ghostwritten by professional speechwriters",
               "Public letters have never played any meaningful role in civic or political discourse"
             ],
             "answer": 1
@@ -17249,7 +17249,7 @@ const curriculum: DayContent[] = [
               "The temperature of a solution only",
               "How much solute is dissolved in a given amount of solvent",
               "The exact colour of a solution",
-              "A property unrelated to dissolved substances"
+              "The total volume of solvent present, regardless of how much solute is dissolved"
             ],
             "answer": 1
           },
@@ -17258,15 +17258,15 @@ const curriculum: DayContent[] = [
             "options": [
               "Away from the centre of the circle",
               "Toward the centre of the circle",
-              "In a straight line with no connection to the circle",
-              "In a direction unrelated to the object’s motion"
+              "Tangent to the circle, in the direction of the object's instantaneous velocity",
+              "Away from the circle's centre, in the same direction as centrifugal force"
             ],
             "answer": 1
           },
           {
             "q": "Entropy describes ___.",
             "options": [
-              "A concept unrelated to energy or disorder",
+              "A measure of the total mass contained within a closed system",
               "The complete absence of any energy transfer",
               "The tendency of energy to spread out and become more disordered",
               "A process where energy always becomes more concentrated over time"
@@ -17287,7 +17287,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it valuable to review chemistry, physics, and biology applications together?",
             "options": [
               "It helps connect and reinforce related science concepts learned across recent lessons",
-              "These topics are entirely unrelated to each other",
+              "Only physics concepts are useful to review; chemistry and biology rarely connect to them",
               "Each topic must always be studied in isolation",
               "Review provides no benefit in science"
             ],
@@ -17330,10 +17330,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Magical realism presents fantastical or supernatural events within an otherwise ___ setting.",
             "options": [
-              "A concept unrelated to literary mode",
+              "Dystopian, a setting defined by invented future societies",
               "Purely scientific, with no room for the impossible",
               "Realistic",
-              "Entirely fictional, with no connection to any recognizable world"
+              "Allegorical, a setting defined by symbolic rather than everyday elements"
             ],
             "answer": 2
           },
@@ -17343,7 +17343,7 @@ const curriculum: DayContent[] = [
               "Illustrations exclusively, with no written text at all",
               "A single, continuous third-person account with no documents involved",
               "Records",
-              "A concept unrelated to this narrative form"
+              "Dramatic stage dialogue formatted as a script"
             ],
             "answer": 2
           },
@@ -17353,7 +17353,7 @@ const curriculum: DayContent[] = [
               "Maturity",
               "A state of complete stagnation, with no development at all",
               "Infancy, a reversal of typical development",
-              "A concept unrelated to this literary form"
+              "A state of heroic apotheosis typical of epic literature"
             ],
             "answer": 0
           },
@@ -17361,16 +17361,16 @@ const curriculum: DayContent[] = [
             "q": "Confessional literature presents deeply personal, often taboo or painful material with a directness that challenges earlier conventions of poetic and narrative ___.",
             "options": [
               "Restraint",
-              "Punctuation, a technical concern unrelated to this literary mode’s defining feature",
-              "A concept unrelated to the confessional mode",
-              "Rhyme scheme exclusively, a formal feature unrelated to confessional content"
+              "Meter, a formal element describing rhythm rather than the directness of disclosed content",
+              "Allegory, a narrative technique more associated with earlier moral fiction",
+              "Travel writing conventions, a genre centred on place description rather than personal disclosure"
             ],
             "answer": 0
           },
           {
             "q": "Why is it useful to review magical realism, epistolary narrative, the bildungsroman, and confessional writing together?",
             "options": [
-              "These topics have no connection to each other",
+              "These four literary forms must each be assessed using entirely separate grading rubrics",
               "These related English concepts reinforce each other for stronger overall understanding",
               "Each topic must be learned in complete isolation",
               "Review is never useful in English"
@@ -17513,7 +17513,7 @@ const curriculum: DayContent[] = [
             "q": "Titration is used to determine ___.",
             "options": [
               "The temperature of a solution only",
-              "A property unrelated to concentration",
+              "The boiling point of a solution at standard atmospheric pressure",
               "The colour of a solution only",
               "The concentration of an unknown solution"
             ],
@@ -17524,8 +17524,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Another solution of exactly the same known concentration",
               "A solution of unknown concentration",
-              "A gas unrelated to the titration process",
-              "A solid with no connection to the reaction"
+              "A catalyst that speeds up the reaction without being consumed",
+              "An indicator compound that only changes colour, without reacting chemically"
             ],
             "answer": 1
           },
@@ -17534,7 +17534,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It provides precise, measurable data about a solution’s concentration",
               "Titration provides no measurable or precise data",
-              "This technique has no connection to quantitative measurement",
+              "Titration relies on visual estimation alone, without any measurable volume data",
               "Quantitative analysis never involves laboratory techniques like titration"
             ],
             "answer": 0
@@ -17545,14 +17545,14 @@ const curriculum: DayContent[] = [
               "A burette",
               "A thermometer",
               "A microscope",
-              "A tool unrelated to measuring volume"
+              "A balance used to measure the mass of a solid reactant"
             ],
             "answer": 0
           },
           {
             "q": "Why is titration considered a valuable skill in fields like pharmaceuticals or environmental testing?",
             "options": [
-              "This technique has no connection to real-world applications",
+              "These fields rely exclusively on qualitative colour observations rather than precise measurements",
               "These fields never require precise concentration measurements",
               "Titration has no practical use outside of a classroom setting",
               "Accurately determining concentration is essential for safety and quality in these fields"
@@ -17578,9 +17578,9 @@ const curriculum: DayContent[] = [
             "q": "A verse novel tells an extended narrative using ___ form, most often free verse.",
             "options": [
               "Poetic",
-              "A concept unrelated to this literary form",
-              "Purely journalistic, with no connection to imaginative narrative",
-              "Strictly legal, a form unrelated to storytelling"
+              "Epistolary, a form built on exchanged letters rather than sustained verse",
+              "Journalistic, a form centred on factual reporting rather than imaginative verse",
+              "Dramatic, a form built around staged dialogue rather than narrated verse"
             ],
             "answer": 0
           },
@@ -17588,9 +17588,9 @@ const curriculum: DayContent[] = [
             "q": "A verse novel combines the emotional compression and imagery of poetry with a novel’s sustained plot and ___ development.",
             "options": [
               "Character",
-              "A concept unrelated to how a verse novel is built",
-              "Font, a formatting detail unrelated to narrative content",
-              "Currency, a concept unrelated to literary structure"
+              "Thematic, development focused on abstract ideas rather than individuals",
+              "Plot-only development that excludes a character's inner life",
+              "Setting-based development centred on physical environment rather than character"
             ],
             "answer": 0
           },
@@ -17598,8 +17598,8 @@ const curriculum: DayContent[] = [
             "q": "A verse novel often unfolds through multiple first-person ___.",
             "options": [
               "Blank pages, with no narrative content presented at all",
-              "Footnotes exclusively, with no connection to first-person narration",
-              "A concept unrelated to how a verse novel is narrated",
+              "Epigraphs quoted from unrelated external texts",
+              "Third-person omniscient summaries interspersed between chapters",
               "Voices"
             ],
             "answer": 3
@@ -17610,7 +17610,7 @@ const curriculum: DayContent[] = [
               "Poetic form always removes any emotional content from a narrative",
               "The compressed, image-rich language of poetry can convey heightened emotion and interiority with an intensity that extended prose description sometimes dilutes",
               "Verse novels have no capacity to develop character or plot over an extended narrative",
-              "This concept has no connection to how literary form shapes emotional impact"
+              "Because verse novels are exclusively intended for elementary-level readers"
             ],
             "answer": 1
           },
@@ -17619,7 +17619,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A verse novel with multiple voices always presents an identical, unified perspective with no variation between speakers",
               "Each voice offers a different, partial perspective on shared events, requiring the reader to assemble a fuller picture of the story’s truth from fragments of subjective experience",
-              "This concept has no relevance to understanding how narrative voice shapes a reader’s experience",
+              "Because alternating voices function identically to footnotes in a critical edition",
               "Multiple first-person voices have no effect on how a reader interprets a narrative’s events"
             ],
             "answer": 1
@@ -17730,7 +17730,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might standard deviation be useful when analyzing test scores across a large group?",
             "options": [
-              "Standard deviation has no connection to analyzing test scores",
+              "Standard deviation only applies when scores follow a perfectly symmetric distribution",
               "It shows how consistent or varied the scores are relative to the average",
               "It always equals the mean, providing no new information",
               "This statistic should never be used with test score data"
@@ -17762,9 +17762,9 @@ const curriculum: DayContent[] = [
             "q": "Plate tectonics describes the movement of ___.",
             "options": [
               "Large sections of Earth’s crust",
-              "Only ocean currents, with no connection to the crust",
-              "Only the atmosphere, with no connection to the crust",
-              "A concept unrelated to Earth’s structure"
+              "Only the molten material deep within Earth's outer core",
+              "Only large masses of ice within the polar ice caps",
+              "Weather systems circulating through the troposphere"
             ],
             "answer": 0
           },
@@ -17772,7 +17772,7 @@ const curriculum: DayContent[] = [
             "q": "Which natural hazard is commonly associated with plate boundaries?",
             "options": [
               "Tornadoes",
-              "A hazard unrelated to Earth’s crust",
+              "Hurricanes, which form over warm ocean water rather than along plate boundaries",
               "Blizzards",
               "Earthquakes"
             ],
@@ -17784,15 +17784,15 @@ const curriculum: DayContent[] = [
               "This hazard has no scientific explanation",
               "Stress builds up as plates interact, and its release causes the ground to shake",
               "Plate boundaries have no relationship to earthquake activity",
-              "Earthquakes occur completely randomly with no connection to plate boundaries"
+              "Earthquakes result primarily from variations in atmospheric pressure above the fault line"
             ],
             "answer": 1
           },
           {
             "q": "Volcanic eruptions are often associated with ___.",
             "options": [
-              "A process entirely unrelated to Earth’s crust",
-              "Locations with no connection to plate tectonics",
+              "Erosion caused by wind and water acting on surface rock over long periods",
+              "Regions experiencing unusually high rainfall and humidity",
               "Certain types of plate boundaries where magma can reach the surface",
               "Areas with no geological activity at all"
             ],
@@ -17802,8 +17802,8 @@ const curriculum: DayContent[] = [
             "q": "Why is studying plate tectonics important for understanding and preparing for natural hazards?",
             "options": [
               "This field of study provides no useful information for hazard preparedness",
-              "Natural hazards occur with no connection to geological activity",
-              "Plate tectonics has no connection to natural hazards",
+              "Natural hazards are equally likely to occur in any location, regardless of geological setting",
+              "Plate boundaries are static features that play no role in triggering earthquakes or volcanoes",
               "It helps identify regions at higher risk, informing safety and preparedness efforts"
             ],
             "answer": 3
@@ -17831,17 +17831,17 @@ const curriculum: DayContent[] = [
               "Entirely ignores, with no attempt made to influence any reader",
               "Persuades",
               "Silences, an inaccurate description of a persuasive text’s purpose",
-              "A concept unrelated to this type of essay"
+              "Translates for"
             ],
             "answer": 1
           },
           {
             "q": "A rhetorical analysis essay breaks down a writer’s use of ethos, pathos, and ___.",
             "options": [
-              "Font size exclusively, with no connection to persuasive appeal",
-              "Only page length, a detail unrelated to rhetorical technique",
+              "Kairos, a classical rhetorical concept concerned with timing rather than logical appeal",
+              "Telos, a philosophical term referring to ultimate purpose rather than rhetorical appeal",
               "Logos",
-              "A concept entirely unrelated to classical rhetorical appeals"
+              "Mimesis, a concept from dramatic theory rather than classical rhetoric"
             ],
             "answer": 2
           },
@@ -17849,9 +17849,9 @@ const curriculum: DayContent[] = [
             "q": "A rhetorical analysis essay explains how persuasive techniques work rather than whether the argument itself is ___.",
             "options": [
               "Correct",
-              "Written, a detail unrelated to the essay’s analytical focus",
-              "Illustrated, a detail unrelated to the essay’s analytical focus",
-              "A concept unrelated to the purpose of rhetorical analysis"
+              "Persuasive, a judgment the essay deliberately sets aside to focus on technique",
+              "Original, a quality concerned with novelty rather than the mechanics of persuasion",
+              "Popular, a measure of reception rather than argumentative validity"
             ],
             "answer": 0
           },
@@ -17859,9 +17859,9 @@ const curriculum: DayContent[] = [
             "q": "Why does a rhetorical analysis essay focus on how a text persuades rather than on agreeing or disagreeing with its argument?",
             "options": [
               "A rhetorical analysis essay always requires the writer to state personal agreement with the text under analysis",
-              "This type of essay has no connection to examining an author’s persuasive technique",
+              "Because rhetorical analysis essays are typically shorter than argumentative essays",
               "The goal is to understand and explain the techniques an author uses to influence an audience, a distinct analytical task from evaluating the argument’s truth or merit",
-              "This concept has no relevance to analyzing how texts are constructed to influence readers"
+              "Because evaluating persuasive technique is only relevant to legal argumentation"
             ],
             "answer": 2
           },
@@ -17869,9 +17869,9 @@ const curriculum: DayContent[] = [
             "q": "Why might identifying a text’s appeals to ethos, pathos, and logos help a reader become a more critical consumer of persuasive writing, such as advertising or political rhetoric?",
             "options": [
               "Identifying rhetorical appeals never affects how critically a reader engages with a persuasive text",
-              "This concept has no connection to developing critical reading skills",
+              "Because ethos, pathos, and logos apply only to spoken, not written, rhetoric",
               "Recognizing these techniques in action makes their persuasive mechanisms visible, allowing a reader to evaluate a message’s effect rather than simply absorbing it uncritically",
-              "Ethos, pathos, and logos have no relevance to any real-world persuasive writing"
+              "Because recognizing rhetorical appeals mainly improves a reader's vocabulary test scores"
             ],
             "answer": 2
           }
@@ -17890,7 +17890,7 @@ const curriculum: DayContent[] = [
             "q": "The Euclidean algorithm finds the greatest common divisor of two integers by repeatedly replacing the larger number with the ___ of dividing it by the smaller.",
             "options": [
               "Product, an inaccurate description of the operation used at each step",
-              "A concept unrelated to how this algorithm works",
+              "Sum, an inaccurate description of the operation used at each step",
               "Square root, an inaccurate description of the operation used at each step",
               "Remainder"
             ],
@@ -17899,7 +17899,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The Euclidean algorithm continues until a remainder of ___ is reached.",
             "options": [
-              "A concept unrelated to the algorithm’s stopping condition",
+              "The same number repeated indefinitely, an inaccurate stopping condition",
               "Zero",
               "One, an inaccurate stopping condition for this algorithm",
               "Negative one, an inaccurate stopping condition for this algorithm"
@@ -17910,9 +17910,9 @@ const curriculum: DayContent[] = [
             "q": "The Euclidean algorithm efficiently finds the greatest common ___ of two integers.",
             "options": [
               "Divisor",
-              "A concept unrelated to this algorithm’s purpose",
-              "Sum, a concept unrelated to finding a shared divisor",
-              "Multiple, a related but distinct number theory concept"
+              "Multiple, a related but distinct number theory concept",
+              "Factor, a concept describing a divisor rather than the algorithm's goal",
+              "Prime factor, a related but distinct number theory concept"
             ],
             "answer": 0
           },
@@ -17922,7 +17922,7 @@ const curriculum: DayContent[] = [
               "It reduces the problem through a small number of division steps rather than requiring an exhaustive search through every possible divisor, especially as the numbers involved grow very large",
               "The Euclidean algorithm has no advantage over any other method of finding a greatest common divisor",
               "Listing all divisors of two numbers is always faster than using the Euclidean algorithm",
-              "This concept has no relevance to solving number theory problems efficiently"
+              "Listing all divisors is always faster once a computer performs the search"
             ],
             "answer": 0
           },
@@ -17930,8 +17930,8 @@ const curriculum: DayContent[] = [
             "q": "Why is the Euclidean algorithm considered foundational to modern applications such as cryptography?",
             "options": [
               "Efficiently computing relationships between large integers, including greatest common divisors, underlies key steps in several encryption and security algorithms used in modern computing",
-              "This concept has no relevance to understanding real-world applications of number theory",
-              "The Euclidean algorithm has no connection to any modern computational or security application",
+              "Encryption algorithms rely only on prime factorization, never on divisor relationships",
+              "The Euclidean algorithm is only used in textbooks, never in real systems",
               "Cryptography never requires any calculation involving the relationships between large integers"
             ],
             "answer": 0
@@ -17950,7 +17950,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A logarithm answers the question of ___.",
             "options": [
-              "A question unrelated to exponents",
+              "What number must be added to the base to reach a given value",
               "What number multiplied by itself equals zero",
               "What the sum of two numbers equals",
               "What exponent a base must be raised to in order to produce a given number"
@@ -17961,7 +17961,7 @@ const curriculum: DayContent[] = [
             "q": "A logarithm is the inverse operation of ___.",
             "options": [
               "Addition",
-              "An operation unrelated to exponents",
+              "Multiplication, since both involve repeated operations",
               "Exponentiation",
               "Subtraction"
             ],
@@ -17970,7 +17970,7 @@ const curriculum: DayContent[] = [
           {
             "q": "If log base 2 of 8 equals 3, this means ___.",
             "options": [
-              "A relationship unrelated to exponents",
+              "2 added to itself 3 times equals 8",
               "2 raised to the power of 3 equals 8",
               "2 multiplied by 3 equals 8",
               "8 divided by 2 equals 3"
@@ -18014,15 +18014,15 @@ const curriculum: DayContent[] = [
               "Molecules that contain no carbon at all",
               "Carbon-based molecules",
               "Only inorganic minerals",
-              "A category unrelated to chemistry"
+              "Compounds defined solely by their solubility in water"
             ],
             "answer": 1
           },
           {
             "q": "A functional group is best described as ___.",
             "options": [
-              "A concept unrelated to chemical structure",
-              "A term with no connection to reactivity",
+              "A classification based solely on a molecule's overall size or molecular weight",
+              "A term describing only the physical state of a compound, such as solid or liquid",
               "A group of unrelated molecules with no shared structure",
               "A specific arrangement of atoms that determines a molecule’s chemical properties"
             ],
@@ -18032,7 +18032,7 @@ const curriculum: DayContent[] = [
             "q": "Why do different functional groups give organic compounds different chemical properties?",
             "options": [
               "The specific arrangement of atoms in a functional group influences how a molecule reacts",
-              "This concept has no connection to chemical reactivity",
+              "Chemical reactivity depends only on a molecule's total number of atoms, not their arrangement",
               "All organic compounds behave in an identical way regardless of structure",
               "Functional groups have no effect on a molecule’s properties"
             ],
@@ -18044,7 +18044,7 @@ const curriculum: DayContent[] = [
               "A pure metal with no carbon content",
               "A mineral with no organic origin",
               "A sugar molecule",
-              "A substance entirely unrelated to carbon chemistry"
+              "Table salt, an ionic compound composed of sodium and chlorine"
             ],
             "answer": 2
           },
@@ -18052,8 +18052,8 @@ const curriculum: DayContent[] = [
             "q": "Why is the study of organic compounds and functional groups important in fields like medicine?",
             "options": [
               "This field of study has no practical, real-world applications",
-              "Organic chemistry has no connection to medicine",
-              "Functional groups have no relevance to how medications work",
+              "Medications are classified solely by their physical appearance, not their chemical structure",
+              "Drug effectiveness depends only on dosage amount, regardless of molecular structure",
               "Many medications are organic compounds whose function depends on specific functional groups"
             ],
             "answer": 3
@@ -18078,9 +18078,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Historiographic metafiction self-consciously blends invented narrative with documented ___ events.",
             "options": [
-              "Scientific, a category of event unrelated to this literary mode’s defining focus",
-              "A concept unrelated to this literary mode",
-              "Entirely fictional, with no connection to any real historical record",
+              "Mythological, events drawn from legend rather than documented record",
+              "Biographical, a focus on individual lives rather than broader documented events",
+              "Autobiographical, events drawn strictly from the author's own life",
               "Historical"
             ],
             "answer": 3
@@ -18088,7 +18088,7 @@ const curriculum: DayContent[] = [
           {
             "q": "This literary mode draws attention to its own ___ nature.",
             "options": [
-              "A concept unrelated to how this mode functions",
+              "Objective, a description inconsistent with a self-conscious literary mode",
               "Constructed",
               "Purely factual, a description inconsistent with a self-conscious blend of fiction and history",
               "Accidental, an inaccurate description of a deliberate literary technique"
@@ -18101,7 +18101,7 @@ const curriculum: DayContent[] = [
               "Behind, an inaccurate description of this literary mode’s focus",
               "In, an incomplete description of the concern with exclusion",
               "Out",
-              "A concept unrelated to this mode’s central questions"
+              "Unexamined, a term that understates this mode's active exclusion of certain voices"
             ],
             "answer": 2
           },
@@ -18109,7 +18109,7 @@ const curriculum: DayContent[] = [
             "q": "Why might an author use historiographic metafiction to tell the story of a historical event from a marginalized perspective largely absent from traditional historical records?",
             "options": [
               "Blending fiction with historical material allows the author to imagine and foreground perspectives that official records often failed to preserve, while still engaging directly with documented events",
-              "This concept has no relevance to how fiction can engage with the writing of history",
+              "Because historiographic metafiction is primarily concerned with correcting factual errors in textbooks",
               "This literary mode has no capacity to address whose perspectives are represented in historical accounts",
               "Historiographic metafiction always avoids any engagement with real historical events"
             ],
@@ -18118,7 +18118,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is drawing attention to its own fictional construction a defining feature of historiographic metafiction, rather than an incidental stylistic choice?",
             "options": [
-              "This concept has no relevance to understanding this literary mode’s purpose",
+              "Because readers of historical fiction generally prefer dense footnoting over narrative immersion",
               "A text’s self-awareness about its own construction has no bearing on how a reader might view historical narratives generally",
               "Historiographic metafiction never draws any attention to its own fictional or narrative nature",
               "By foregrounding its own artifice, the text invites readers to question the similarly constructed, selective nature of official historical narratives themselves"
@@ -18271,17 +18271,17 @@ const curriculum: DayContent[] = [
           {
             "q": "Antimatter consists of particles with the same mass as their ordinary matter counterparts but opposite electric ___.",
             "options": [
-              "A concept unrelated to how antimatter is defined",
+              "Mass, a property that is actually identical between matter and antimatter",
               "Charge",
-              "Temperature, a property unrelated to the defining distinction between matter and antimatter",
-              "Colour, a property unrelated to the defining distinction between matter and antimatter"
+              "Spin, a property that remains the same between a particle and its antiparticle",
+              "Magnetic moment, a property not emphasized in this basic definition of antimatter"
             ],
             "answer": 1
           },
           {
             "q": "Pair production is a process in which a sufficiently energetic photon converts into a particle-___ pair.",
             "options": [
-              "A concept unrelated to what is produced during pair production",
+              "Photon, which would simply reproduce the original energy carrier rather than forming matter",
               "Antiparticle",
               "Proton, an inaccurate description of what a photon converts into during pair production",
               "Neutron, an inaccurate description of what a photon converts into during pair production"
@@ -18292,7 +18292,7 @@ const curriculum: DayContent[] = [
             "q": "Pair production directly demonstrates the equivalence of energy and ___.",
             "options": [
               "Electric charge, a property not directly demonstrated by this specific process",
-              "A concept unrelated to what pair production demonstrates",
+              "Momentum, a quantity conserved in the process but not the one demonstrated by this equivalence",
               "Colour, a property not directly demonstrated by this specific process",
               "Mass"
             ],
@@ -18301,7 +18301,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why must a photon undergoing pair production possess a minimum threshold amount of energy before this process can occur?",
             "options": [
-              "This concept has no relevance to understanding the conditions required for pair production to occur",
+              "The threshold energy relates only to the photon's wavelength, not the rest mass of the particles produced",
               "Pair production has no established connection to the energy carried by the converting photon",
               "The photon’s energy must be at least sufficient to account for the combined rest mass energy of both the particle and antiparticle produced, following the equivalence of energy and mass",
               "A photon can undergo pair production regardless of how little energy it carries"
@@ -18313,7 +18313,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A photon can never be converted into any particle possessing rest mass",
               "Pair production has no established connection to the relationship between energy and mass proposed in special relativity",
-              "This concept has no relevance to understanding experimental support for special relativity",
+              "Pair production demonstrates the conservation of charge, rather than the equivalence of energy and mass",
               "It shows pure electromagnetic energy, in the form of a photon, directly transforming into particles possessing rest mass, a vivid physical demonstration of energy converting into mass and vice versa"
             ],
             "answer": 3
@@ -18340,7 +18340,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Episodes",
               "Chapters printed exclusively on paper, with no audio component at all",
-              "A concept unrelated to this media form",
+              "Broadcasts, a term more associated with live radio transmission than serial audio releases",
               "Advertisements exclusively, with no narrative content involved"
             ],
             "answer": 0
@@ -18349,8 +18349,8 @@ const curriculum: DayContent[] = [
             "q": "Serial podcasts rely on techniques such as cliffhangers, host narration, and intimate sound ___ to sustain listener engagement.",
             "options": [
               "Design",
-              "Illustration, a visual technique unrelated to an audio-only medium",
-              "A concept entirely unrelated to how a podcast maintains audience interest",
+              "Effects limited strictly to musical scoring",
+              "Scripts written collaboratively by an uncredited writers' room",
               "Only silence, with no auditory elements used at all"
             ],
             "answer": 0
@@ -18359,7 +18359,7 @@ const curriculum: DayContent[] = [
             "q": "Serial podcasts are released across an extended, deliberately paced release ___.",
             "options": [
               "Single instant, with no episodes distributed over any period of time",
-              "A concept unrelated to how serial podcasts are distributed",
+              "Archive, a term describing stored episodes rather than their timed release",
               "Schedule",
               "Silence, an inaccurate description of a podcast’s release pattern"
             ],
@@ -18368,9 +18368,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a podcast’s use of a cliffhanger at the end of an episode be an effective technique for sustaining audience engagement over a serialized release schedule?",
             "options": [
-              "This technique has no established connection to sustaining audience interest across episodes",
+              "Because cliffhangers are a technique unique to podcasting with no precedent in other media",
               "Leaving a central question unresolved motivates listeners to return for the next episode, mirroring the suspense techniques long used in serialized print and broadcast fiction",
-              "This concept has no relevance to understanding how serial audio narrative is structured",
+              "Because cliffhangers function primarily to shorten overall episode length",
               "A cliffhanger always causes listeners to abandon a serialized podcast rather than continue with it"
             ],
             "answer": 1
@@ -18378,7 +18378,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does the intimacy of audio, heard often through headphones directly into a listener’s ears, make sound design a particularly powerful storytelling tool in podcasting?",
             "options": [
-              "This concept has no relevance to analyzing podcasts as a modern narrative medium",
+              "Because headphone listening is primarily a technique for blocking outside noise during commutes",
               "Audio storytelling always creates more emotional distance between the audience and the narrative than visual media does",
               "The close, private listening experience can create a strong sense of immediacy and personal connection to the narrator or story that is distinct from how audiences typically experience visual or printed media",
               "Sound design has no meaningful effect on how a listener experiences an audio narrative"
@@ -18399,9 +18399,9 @@ const curriculum: DayContent[] = [
             "q": "Hypothesis testing evaluates whether observed data provide enough evidence to reject an assumed default ___.",
             "options": [
               "Claim",
-              "Location, a concept unrelated to statistical evidence",
-              "A concept unrelated to hypothesis testing",
-              "Colour, a concept unrelated to statistical evidence"
+              "Sample size, the number of observations rather than the claim itself",
+              "Variance, a measure of spread rather than the claim itself",
+              "Correlation, a measure of relationship rather than the claim itself"
             ],
             "answer": 0
           },
@@ -18409,7 +18409,7 @@ const curriculum: DayContent[] = [
             "q": "A p-value quantifies how likely observed data would be if the default claim were actually ___.",
             "options": [
               "True",
-              "A concept unrelated to what a p-value represents",
+              "Only partially true, an inaccurate description of this assumption",
               "Irrelevant, an inaccurate description of the default claim’s role in this calculation",
               "False, an inaccurate description of what a p-value assumes when it is calculated"
             ],
@@ -18421,7 +18421,7 @@ const curriculum: DayContent[] = [
               "Reject",
               "Confirm with absolute certainty, an overstatement of what a small p-value establishes",
               "Ignore entirely, an inaccurate description of how a small p-value is used",
-              "A concept unrelated to how a p-value is interpreted"
+              "Accept with full certainty, an overstatement of what a small p-value establishes"
             ],
             "answer": 0
           },
@@ -18430,7 +18430,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The size of a p-value has no bearing on how much evidence the data provide against a default claim",
               "A small p-value indicates the observed data would be quite unlikely if the default claim were true, suggesting the data are better explained by some alternative explanation",
-              "This concept has no relevance to interpreting the results of a statistical hypothesis test",
+              "A small p-value simply reflects a larger sample size, not stronger evidence",
               "A small p-value indicates the observed data are exactly what would be expected under the default claim"
             ],
             "answer": 1
@@ -18440,7 +18440,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A small p-value always provides complete, absolute mathematical proof that a default claim is false",
               "A p-value only measures how unlikely the observed data would be under the default claim, not the probability that the claim itself is true or false, so it should be interpreted as evidence rather than absolute proof",
-              "This concept has no relevance to correctly interpreting statistical results",
+              "A small p-value establishes the exact probability that the claim is true",
               "P-values have no established role in evaluating statistical evidence"
             ],
             "answer": 1
@@ -18519,10 +18519,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Cherenkov radiation is a faint blue glow emitted when a charged particle travels through a transparent medium at a speed exceeding the speed of ___ within that specific medium.",
             "options": [
-              "Sound, a type of wave unrelated to the defining condition for Cherenkov radiation",
+              "Sound, mistaking this optical phenomenon for an analogous acoustic shockwave effect",
               "Light",
-              "Heat, a concept unrelated to the defining condition for Cherenkov radiation",
-              "A concept unrelated to the condition producing Cherenkov radiation"
+              "Heat, confusing the thermal radiation emitted by the particle with this optical glow",
+              "Radio waves, an unrelated part of the electromagnetic spectrum from visible light"
             ],
             "answer": 1
           },
@@ -18531,7 +18531,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Solid medium exclusively, an inaccurate description that misrepresents this phenomenon’s defining speed comparison",
               "Charged medium exclusively, an inaccurate and overly narrow description",
-              "A concept unrelated to the speed comparison relevant to Cherenkov radiation",
+              "Plasma, a state of matter not relevant to the standard statement of this comparison",
               "Vacuum"
             ],
             "answer": 3
@@ -18539,7 +18539,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Cherenkov radiation is commonly observed as a faint ___ glow.",
             "options": [
-              "A concept unrelated to describing the appearance of Cherenkov radiation",
+              "Violet, a colour often confused with the pale blue actually characteristic of this radiation",
               "Green, an inaccurate description of the characteristic colour of this radiation",
               "Blue",
               "Red, an inaccurate description of the characteristic colour of this radiation"
@@ -18550,7 +18550,7 @@ const curriculum: DayContent[] = [
             "q": "Why can a charged particle travel faster than light within a transparent medium such as water without violating the universal speed limit established by special relativity?",
             "options": [
               "Special relativity’s speed limit applies to light’s speed in a vacuum, while light travels more slowly through a medium such as water, leaving room for a particle to exceed that reduced, medium-specific speed without ever exceeding light’s vacuum speed",
-              "This concept has no relevance to understanding how Cherenkov radiation can occur without contradicting relativity",
+              "Special relativity's speed limit applies equally to light's speed within any medium, not just vacuum",
               "Special relativity places no limit on how fast any particle can travel under any circumstances",
               "A charged particle producing Cherenkov radiation always travels faster than light’s speed in a vacuum"
             ],
@@ -18559,7 +18559,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is Cherenkov radiation useful to physicists as a practical tool for detecting high-energy charged particles, such as in large particle detectors?",
             "options": [
-              "This concept has no relevance to modern experimental particle physics techniques",
+              "Cherenkov detectors primarily measure a particle's mass by its magnetic deflection, not its speed",
               "Cherenkov radiation has no practical application to detecting or studying high-energy charged particles",
               "Charged particles moving through a detector medium never produce any observable or useful signal",
               "The characteristic glow produced when a fast-moving charged particle exceeds light’s speed in a detector’s medium provides a directly observable signal that reveals the particle’s presence, speed, and direction of travel"
@@ -18585,10 +18585,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Stream of consciousness attempts to capture the continuous flow of a character’s thoughts, sensations, and ___ as they occur.",
             "options": [
-              "Physical measurements exclusively, with no connection to a character’s inner experience",
+              "Dialogue exchanges recorded verbatim between characters",
               "Impressions",
-              "Financial transactions exclusively, with no connection to a character’s inner life",
-              "A concept unrelated to this narrative technique"
+              "Plot events recounted in strict chronological order",
+              "Footnoted historical commentary inserted by the author"
             ],
             "answer": 1
           },
@@ -18598,14 +18598,14 @@ const curriculum: DayContent[] = [
               "Alphabetical, an order not typically relevant to narrative sequence",
               "Numerical, an order not typically relevant to narrative sequence",
               "Chronological",
-              "A concept entirely unrelated to how this technique departs from convention"
+              "Hierarchical, an order not typically associated with narrative sequencing"
             ],
             "answer": 2
           },
           {
             "q": "Stream of consciousness aims to mimic the mind’s actual ___.",
             "options": [
-              "A concept unrelated to the purpose of this technique",
+              "Logic, a quality this technique often deliberately subverts",
               "Movement",
               "Silence, an inaccurate description of the flow of thought this technique tries to capture",
               "Complete stillness, an inaccurate description of the mind’s constant activity"
@@ -18615,17 +18615,17 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a writer abandon conventional punctuation and linear syntax when using stream of consciousness to depict a character’s inner experience?",
             "options": [
-              "Abandoning grammatical convention has no connection to representing a character’s inner thoughts",
+              "Because publishers historically required unconventional punctuation for experimental fiction",
               "Thought rarely unfolds in tidy, grammatically complete sentences, so unconventional form can more accurately mirror the associative, fragmented way the mind actually moves between ideas",
               "Conventional punctuation and syntax always represent the mind’s actual thought process more accurately than any alternative structure",
-              "This concept has no relevance to how narrative technique can shape the reader’s access to a character’s mind"
+              "Because this technique is primarily used to shorten the overall length of a novel"
             ],
             "answer": 1
           },
           {
             "q": "Why does stream of consciousness often require more active interpretive effort from a reader than a conventionally narrated passage of interior thought?",
             "options": [
-              "This concept has no relevance to understanding how narrative technique affects a reader’s experience",
+              "Because stream of consciousness passages are typically written in simple, repetitive vocabulary",
               "Stream of consciousness passages are always easier to follow than conventionally structured narration",
               "Without the usual signposts of clear syntax and logical transitions, the reader must actively piece together meaning, associations, and emotional undercurrents from a less structured presentation of thought",
               "This technique requires no interpretive effort, since every thought is presented with complete clarity"
@@ -18646,7 +18646,7 @@ const curriculum: DayContent[] = [
             "q": "The golden ratio is an irrational number arising as the positive solution to a specific ___ equation.",
             "options": [
               "Quadratic",
-              "A concept unrelated to how the golden ratio is defined",
+              "Linear, an inaccurate description of the type of equation defining the golden ratio",
               "Trigonometric, an inaccurate description of the type of equation defining the golden ratio",
               "Logarithmic, an inaccurate description of the type of equation defining the golden ratio"
             ],
@@ -18655,7 +18655,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The golden ratio has the defining algebraic property that it equals one plus its own ___.",
             "options": [
-              "A concept unrelated to the golden ratio’s key algebraic property",
+              "Square root, an inaccurate description of this defining algebraic relationship",
               "Negative, an inaccurate description of this defining algebraic relationship",
               "Square, an inaccurate description of this defining algebraic relationship",
               "Reciprocal"
@@ -18665,18 +18665,18 @@ const curriculum: DayContent[] = [
           {
             "q": "The golden ratio appears repeatedly in geometric and ___ contexts.",
             "options": [
-              "A concept entirely unrelated to where the golden ratio commonly appears",
-              "Only chemical, a context unrelated to the golden ratio’s typical mathematical appearances",
+              "Only in purely abstract algebra, with no geometric appearances",
+              "Only in biological growth patterns, with no geometric appearances",
               "Recursive",
-              "Purely financial, a context unrelated to the golden ratio’s typical mathematical appearances"
+              "Only in financial modelling, with no geometric appearances"
             ],
             "answer": 2
           },
           {
             "q": "Why does the golden ratio’s defining property, that it equals one plus its own reciprocal, connect it closely to continued fraction representations?",
             "options": [
-              "This algebraic property has no connection to how the golden ratio can be expressed in other mathematical forms",
-              "This concept has no relevance to understanding the golden ratio’s mathematical properties",
+              "This property only applies to the golden ratio's decimal approximation, not its exact value",
+              "Continued fractions can only represent rational numbers, excluding the golden ratio",
               "Substituting this self-referential relationship repeatedly into itself generates an infinite continued fraction made entirely of ones, reflecting the golden ratio’s uniquely simple recursive structure",
               "The golden ratio has no defined relationship to continued fraction representations of any kind"
             ],
@@ -18686,7 +18686,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the golden ratio often cited as connecting algebra, geometry, and sequences such as the Fibonacci numbers?",
             "options": [
               "Algebra, geometry, and recursive sequences have no meaningful mathematical relationship to one another",
-              "This concept has no relevance to understanding connections across different branches of mathematics",
+              "The golden ratio only appears in the Fibonacci sequence, not in geometry",
               "The golden ratio has no established connection to geometry or to any recursively defined sequence",
               "It emerges from a simple quadratic equation, appears in constructions such as the golden rectangle, and is the limiting ratio of consecutive terms in the Fibonacci sequence, linking several distinct areas of mathematics"
             ],
@@ -18769,8 +18769,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Equatorial, an inaccurate description of where these charged particles are typically funnelled",
               "Polar",
-              "Oceanic, a description unrelated to the magnetic funnelling that produces the aurora",
-              "A concept unrelated to where the aurora is typically observed"
+              "Coastal, where atmospheric density changes due to proximity to oceans",
+              "Stratospheric, regions defined by altitude rather than magnetic latitude"
             ],
             "answer": 1
           },
@@ -18780,7 +18780,7 @@ const curriculum: DayContent[] = [
               "Protons, particles within the nucleus rather than the ones directly excited in this process",
               "Neutrons, particles within the nucleus rather than the ones directly excited in this process",
               "Electrons",
-              "A concept unrelated to what is excited within atmospheric gas atoms"
+              "Nuclei, which absorb energy and re-emit it as visible light"
             ],
             "answer": 2
           },
@@ -18788,7 +18788,7 @@ const curriculum: DayContent[] = [
             "q": "Excited electrons in atmospheric gas atoms emit visible light as they return to a ___ energy state.",
             "options": [
               "Higher, an inaccurate description of the direction of this energy transition",
-              "A concept unrelated to how visible light is emitted during this process",
+              "An ionized state, in which the electron has been completely removed from the atom",
               "Lower",
               "Identical, an inaccurate description that would produce no emitted light at all"
             ],
@@ -18799,7 +18799,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Earth’s magnetic field lines funnel incoming charged particles from the solar wind toward the magnetic poles, concentrating the resulting atmospheric collisions and light emission in those polar regions",
               "The aurora is produced with no connection whatsoever to Earth’s magnetic field",
-              "This concept has no relevance to understanding why the aurora is typically observed near polar latitudes",
+              "Earth's atmosphere is simply thinner near the poles, allowing more light to escape",
               "Earth’s magnetic field has no influence on where charged particles from the solar wind travel within the atmosphere"
             ],
             "answer": 0
@@ -18808,9 +18808,9 @@ const curriculum: DayContent[] = [
             "q": "Why do different gases in the atmosphere produce different colours of auroral light?",
             "options": [
               "Each type of gas atom has its own characteristic set of energy levels, so the specific wavelengths of light emitted as its excited electrons return to lower energy states depend on which gas is involved",
-              "The colour of light emitted during the aurora has no connection to which specific gas atoms are involved in the collisions",
+              "All atmospheric collisions release energy as heat rather than light, regardless of the gas involved",
               "Every type of atmospheric gas atom produces exactly the same colour of light when its electrons are excited",
-              "This concept has no relevance to understanding the range of colours observed in the aurora"
+              "Colour differences arise only from the altitude at which collisions occur, not the gas species"
             ],
             "answer": 0
           }
@@ -18837,7 +18837,7 @@ const curriculum: DayContent[] = [
               "Open-ended",
               "Yes-or-no exclusively, a format inconsistent with open inquiry",
               "Entirely rhetorical, with no expectation of any genuine response",
-              "A concept unrelated to how a Socratic seminar functions"
+              "Leading, questions that steer participants toward a predetermined conclusion"
             ],
             "answer": 0
           },
@@ -18847,7 +18847,7 @@ const curriculum: DayContent[] = [
               "Win",
               "Agree immediately, without any exploration of differing ideas",
               "Listen, an action the format actively encourages rather than discourages",
-              "A concept unrelated to the seminar’s collaborative purpose"
+              "Conclude, an aim more associated with formal debate than open-ended seminar discussion"
             ],
             "answer": 0
           },
@@ -18857,15 +18857,15 @@ const curriculum: DayContent[] = [
               "Directs",
               "Silences, an inaccurate description of the facilitator’s intended role",
               "Ignores, an inaccurate description of the facilitator’s active but non-dominant role",
-              "A concept unrelated to the facilitator’s role"
+              "Grades, an evaluative role inconsistent with a facilitator's function in this format"
             ],
             "answer": 0
           },
           {
             "q": "Why might a Socratic seminar prioritize open-ended questions over questions with a single correct answer?",
             "options": [
-              "This concept has no relevance to understanding how structured discussion can deepen textual analysis",
-              "This questioning style has no connection to the goals of a Socratic seminar",
+              "Because open-ended questions are primarily used to test memorization of plot details",
+              "Because Socratic seminars are structured to reach unanimous agreement by the discussion's end",
               "Open-ended questions always shut down further discussion among participants",
               "Open-ended questions invite multiple interpretations and sustained exploration of a text’s ideas, encouraging genuine collaborative inquiry rather than a search for one predetermined answer"
             ],
@@ -18874,10 +18874,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is a Socratic seminar considered valuable preparation for university-level academic discussion?",
             "options": [
-              "A Socratic seminar has no connection to the kinds of discussion expected in university courses",
+              "Because Socratic seminars primarily train students in formal public speaking competitions",
               "It builds the skills of listening carefully, building on others’ ideas, and articulating textual evidence in real time, all central to seminar-style discussion common in post-secondary study",
               "This format discourages any engagement with a shared text’s ideas",
-              "This concept has no relevance to developing oral communication skills for further study"
+              "Because this format is mainly used to assess a student's handwriting and note-taking speed"
             ],
             "answer": 1
           }
@@ -18960,7 +18960,7 @@ const curriculum: DayContent[] = [
               "A linear function",
               "A quadratic function",
               "An exponential function",
-              "A function unrelated to exponents"
+              "A quadratic function, since both produce curved graphs"
             ],
             "answer": 2
           },
@@ -18970,7 +18970,7 @@ const curriculum: DayContent[] = [
               "x equals one",
               "y equals zero",
               "x equals zero",
-              "A point unrelated to the origin"
+              "x equals negative one"
             ],
             "answer": 2
           },
@@ -19018,8 +19018,8 @@ const curriculum: DayContent[] = [
             "q": "Radioactive dating estimates the age of a material by measuring the remaining proportion of a radioactive isotope compared to its stable ___ product.",
             "options": [
               "Decay",
-              "Magnetic, a property unrelated to the isotopic comparison used in radioactive dating",
-              "A concept unrelated to how radioactive dating is performed",
+              "Isotopic, a term describing the parent material rather than the resulting stable product",
+              "Volume, a physical quantity not used as the basis for this comparison",
               "Original, an inaccurate description of the comparison used in radioactive dating"
             ],
             "answer": 0
@@ -19027,10 +19027,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Radioactive dating uses an isotope’s known ___ to calculate how much time has elapsed since a material formed.",
             "options": [
-              "A concept unrelated to how elapsed time is calculated in radioactive dating",
-              "Colour, a property unrelated to calculating elapsed time in radioactive dating",
+              "Atomic mass, a fixed property that does not change with elapsed time",
+              "Melting point, a physical property that stays the same regardless of how much the isotope has decayed",
               "Half-life",
-              "Electric charge, a property unrelated to calculating elapsed time in radioactive dating"
+              "Density, a physical property that does not indicate how quickly an isotope decays"
             ],
             "answer": 2
           },
@@ -19039,15 +19039,15 @@ const curriculum: DayContent[] = [
             "options": [
               "Volume exclusively, an inaccurate description of the primary measurement used in radioactive dating",
               "Isotope",
-              "Colour, a property unrelated to the measurement used in radioactive dating",
-              "A concept unrelated to what is measured in radioactive dating"
+              "Mineral content, a broader category not specific to the radioactive element being measured",
+              "Chemical compound, since radioactive dating tracks the element itself rather than its compounds"
             ],
             "answer": 1
           },
           {
             "q": "Why does knowing an isotope’s half-life allow scientists to calculate the age of a material containing that isotope, rather than only describing how quickly it decays in general?",
             "options": [
-              "This concept has no relevance to how radioactive dating methods are used to estimate age",
+              "Half-life only describes decay in a laboratory setting, not in naturally formed materials",
               "An isotope’s half-life provides no information relevant to calculating how much time has passed since a material formed",
               "The proportion of a radioactive isotope remaining in a material has no established mathematical relationship to elapsed time",
               "Since a fixed proportion of a radioactive isotope decays over each successive half-life, measuring how much of the isotope remains allows the number of elapsed half-lives, and therefore the material’s age, to be calculated"
@@ -19059,7 +19059,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Radioactive dating has no meaningful application to estimating the age of materials studied in archaeology or geology",
               "It provides a quantitative method for estimating the age of certain materials based on measurable, well-understood decay processes, offering evidence about timescales that cannot be directly observed or witnessed",
-              "This concept has no relevance to understanding how physics principles are applied in other scientific fields",
+              "Archaeologists and geologists rely on written records rather than decay measurements for dating",
               "The decay of radioactive isotopes provides no measurable or useful information about elapsed time"
             ],
             "answer": 1
@@ -19084,20 +19084,20 @@ const curriculum: DayContent[] = [
           {
             "q": "Testimonio is a first-person narrative form in which a speaker recounts direct experience of collective trauma, oppression, or ___.",
             "options": [
-              "Leisure, a category of experience unrelated to this narrative form’s typical subject matter",
-              "Entertainment, a category of experience unrelated to this narrative form’s central concerns",
+              "Routine domestic life largely disconnected from political conflict",
+              "Personal romantic relationships unconnected to collective hardship",
               "Struggle",
-              "A concept unrelated to testimonio"
+              "Individual academic achievement within a formal institution"
             ],
             "answer": 2
           },
           {
             "q": "A testimonio often involves collaboration with a writer or ___ to transform lived witness into a text.",
             "options": [
-              "Illustrator exclusively, with no connection to the transcription or shaping of spoken testimony",
-              "A concept entirely unrelated to how a testimonio is typically produced",
+              "Translator exclusively, a role limited to converting the text between languages",
+              "Publisher's marketing department, a role focused on promotion rather than shaping the text",
               "Editor",
-              "Composer exclusively, a role unrelated to producing a written testimonio"
+              "Literary agent exclusively, a role concerned with rights rather than shaping the narrative"
             ],
             "answer": 2
           },
@@ -19105,7 +19105,7 @@ const curriculum: DayContent[] = [
             "q": "A testimonio speaks for a broader community rather than an individual ___.",
             "options": [
               "Only briefly, a description that misrepresents this form’s sustained collective focus",
-              "A concept unrelated to the purpose of this narrative form",
+              "Narrator, a term that understates the form's emphasis on collective rather than singular voice",
               "Exclusively, an inaccurate description of testimonio’s collective purpose",
               "Alone"
             ],
@@ -19116,8 +19116,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Collaboration between a witness and a writer always removes the witness’s own voice entirely from the resulting text",
               "The person bearing witness may lack access to publishing resources or writing training, so collaboration can help transform an oral account into a text while preserving the witness’s direct voice and authority",
-              "Testimonio has no connection to the collaborative production of a written narrative",
-              "This concept has no relevance to understanding how this literature of witness is typically created"
+              "Because testimonio is legally required to be transcribed by a court-certified stenographer",
+              "Because publishers mandate co-authorship for all first-person political narratives"
             ],
             "answer": 1
           },
@@ -19125,7 +19125,7 @@ const curriculum: DayContent[] = [
             "q": "Why is testimonio often studied as distinct from both memoir and journalism, even though it shares features with each?",
             "options": [
               "Testimonio is entirely identical to memoir and journalism, with no meaningful distinction between the three forms",
-              "This concept has no relevance to classifying different forms of first-person and documentary writing",
+              "Because testimonio is exclusively a product of twentieth-century Latin American publishing houses",
               "Testimonio centres explicitly on speaking for a broader collective experience of oppression or struggle, a communal purpose that distinguishes it from memoir’s individual focus and journalism’s claim to detached objectivity",
               "This narrative form has no distinct purpose or defining features of its own"
             ],
@@ -19145,7 +19145,7 @@ const curriculum: DayContent[] = [
             "q": "A Diophantine equation is a polynomial equation for which only ___ solutions are sought.",
             "options": [
               "Integer",
-              "A concept unrelated to this type of equation",
+              "Rational, a type of solution broader than what a Diophantine equation seeks",
               "Irrational, a type of solution excluded rather than sought in a Diophantine equation",
               "Purely imaginary, a type of solution not the focus of a Diophantine equation"
             ],
@@ -19156,7 +19156,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Infinitely many, an inaccurate description of how restricting to integers typically affects the solution set",
               "Exactly one, an overly specific and inaccurate description of every possible outcome",
-              "A concept unrelated to how this restriction affects an equation’s solutions",
+              "Exactly two, an overly specific and inaccurate description of every possible outcome",
               "None"
             ],
             "answer": 3
@@ -19164,9 +19164,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Diophantine equations are named after an ancient mathematician who studied equations restricted to ___ solutions.",
             "options": [
-              "Purely geometric, a description unrelated to the algebraic focus of these equations",
-              "A concept unrelated to the historical origin of this equation type",
-              "Random, a description unrelated to the deliberate restriction defining these equations",
+              "Purely numerical, with no restriction to a specific number type",
+              "Rational, a broader category than the one these equations are named for",
+              "Prime, a narrower category than the integer restriction defining these equations",
               "Integer"
             ],
             "answer": 3
@@ -19177,7 +19177,7 @@ const curriculum: DayContent[] = [
               "Restricting solutions to integers never changes how many solutions a polynomial equation has",
               "Many equations with a smooth, continuous range of real solutions have only isolated integer points, if any, satisfying the equation exactly, so integer restriction transforms a continuous problem into a much more constrained, discrete one",
               "Diophantine equations always have exactly the same number of solutions as their real-number counterparts",
-              "This concept has no relevance to understanding how solution restrictions affect an equation’s difficulty"
+              "Integer restriction only matters for linear equations, never for higher-degree polynomial equations"
             ],
             "answer": 1
           },
@@ -19185,7 +19185,7 @@ const curriculum: DayContent[] = [
             "q": "Why are Diophantine equations considered a significant area of study within number theory, despite sometimes appearing deceptively simple to state?",
             "options": [
               "Diophantine equations are always trivially easy to solve once they are correctly stated",
-              "This concept has no relevance to understanding open or historically significant problems in number theory",
+              "Diophantine equations matter only for equations of degree one or two, never for higher-degree polynomials",
               "Many Diophantine equations that look elementary have proven extraordinarily difficult to solve or have required centuries of mathematical development to fully understand, revealing deep structure hidden behind a simple-looking statement",
               "This area of study has no significant history or connection to other developments in mathematics"
             ],
@@ -19215,7 +19215,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which is an example of a quantity that could be represented as a vector?",
             "options": [
-              "A quantity unrelated to direction",
+              "Distance travelled, since it only describes how far something has moved",
               "Temperature",
               "Mass",
               "Velocity"
@@ -19227,7 +19227,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A scalar and a vector are always identical to one another",
               "Vectors never involve any directional component",
-              "Direction has no relevance to how a vector is used",
+              "Direction only matters when comparing two vectors of equal magnitude",
               "It provides essential information about which way a quantity is acting, not just how much"
             ],
             "answer": 3
@@ -19236,7 +19236,7 @@ const curriculum: DayContent[] = [
             "q": "In two-dimensional space, a vector can be described using ___.",
             "options": [
               "Only a single number with no components",
-              "A description unrelated to direction or magnitude",
+              "A single angle measurement only, with no length component",
               "Three components instead of two",
               "Horizontal and vertical components"
             ],
@@ -19267,7 +19267,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Random, unpredictable behaviour with no scientific basis",
               "Complete lack of any measurable properties",
-              "Properties unrelated to radioactivity",
+              "Their ability to permanently bond with soft tissue in the body",
               "Predictable decay properties"
             ],
             "answer": 3
@@ -19275,9 +19275,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Which is an example of a medical use of radioactivity?",
             "options": [
-              "A process with no connection to isotopes",
+              "Carbon dating of ancient biological samples",
               "Diagnostic imaging",
-              "A use entirely unrelated to medicine",
+              "Sterilizing laboratory glassware through chemical treatment",
               "Only agricultural applications, with no medical use"
             ],
             "answer": 1
@@ -19285,9 +19285,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why must medical professionals carefully control the dosage of radioactive materials used in treatment?",
             "options": [
-              "Dosage has no effect on how radioactive materials interact with the body",
+              "Dosage affects only the cost of treatment, not its biological impact",
               "Radioactive materials can be harmful in excessive amounts, so careful control ensures patient safety",
-              "This factor has no connection to medical safety practices",
+              "Radioactive materials behave identically to non-radioactive materials once ingested",
               "Radioactive materials are always completely safe regardless of dosage"
             ],
             "answer": 1
@@ -19296,7 +19296,7 @@ const curriculum: DayContent[] = [
             "q": "Why are radioactive isotopes useful for diagnostic imaging in medicine?",
             "options": [
               "Diagnostic imaging never involves the use of radioactive materials",
-              "This application has no connection to how isotopes decay",
+              "Radioactive isotopes are chosen because they permanently alter the tissues they pass through",
               "They can be tracked within the body, helping visualize internal structures or processes",
               "Radioactive isotopes have no useful medical applications"
             ],
@@ -19307,8 +19307,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Medical professionals never need to understand radioactivity",
               "It helps ensure the safe and effective use of these technologies for patient care",
-              "This field has no connection to patient safety",
-              "This scientific understanding has no relevance to medical imaging"
+              "Medical imaging technology functions independently of any radioactive decay process",
+              "Understanding radioactivity is relevant only to nuclear power, not to medical fields"
             ],
             "answer": 1
           }
@@ -19331,19 +19331,19 @@ const curriculum: DayContent[] = [
           {
             "q": "A literary parody closely imitates the style, structure, or conventions of an existing text or ___.",
             "options": [
-              "Currency, a concept unrelated to literary imitation",
+              "Author's biography exclusively, with no reference to the text's own conventions",
               "Genre",
-              "A concept unrelated to this form of writing",
-              "Weather pattern, a concept unrelated to literary imitation"
+              "Publication date exclusively, a detail with no bearing on a text's literary style",
+              "Translation history exclusively, a publishing detail rather than a stylistic convention"
             ],
             "answer": 1
           },
           {
             "q": "A literary parody exaggerates or distorts an original text’s conventions for comic or ___ effect.",
             "options": [
-              "Financial, an effect unrelated to a literary text’s purpose",
+              "Nostalgic, an effect more associated with homage than critique",
               "Critical",
-              "A concept entirely unrelated to the purpose of parody",
+              "Educational, an effect more associated with instructional writing than parody",
               "Purely accidental, an inaccurate description of a deliberate literary technique"
             ],
             "answer": 1
@@ -19351,17 +19351,17 @@ const curriculum: DayContent[] = [
           {
             "q": "Writing an effective parody requires understanding the original deeply enough to reproduce its ___ before subverting it.",
             "options": [
-              "A concept unrelated to how parody is constructed",
-              "Publication date exclusively, a detail unrelated to a text’s stylistic voice",
+              "Sales figures, a commercial detail rather than a stylistic feature of the text",
+              "Cover design exclusively, a visual detail rather than a feature of the writing itself",
               "Voice",
-              "Price, a detail entirely unrelated to a text’s literary qualities"
+              "Print run size, a publishing detail rather than a feature of the writing itself"
             ],
             "answer": 2
           },
           {
             "q": "Why must a writer understand an original text or genre in considerable depth before successfully parodying it?",
             "options": [
-              "This concept has no relevance to how literary parody is constructed",
+              "Because copyright law requires written permission before parodying any text",
               "Effective parody depends on precisely reproducing recognizable features of the original, so its exaggerations and distortions land as intentional and pointed rather than as simple misunderstanding",
               "A writer can successfully parody a text without any familiarity with its style or conventions",
               "Understanding an original text has no bearing on a writer’s ability to imitate or exaggerate its features"
@@ -19374,7 +19374,7 @@ const curriculum: DayContent[] = [
               "Comic exaggeration always removes any critical content from a piece of writing",
               "By exaggerating a text’s or genre’s conventions to the point of absurdity, a parody can expose underlying assumptions, clichés, or weaknesses that a straightforward critique might not make as vivid or memorable",
               "Parody can never function as a meaningful form of literary or cultural criticism",
-              "This concept has no relevance to understanding the purposes literary parody can serve"
+              "Because literary critics generally dismiss parody as an illegitimate critical form"
             ],
             "answer": 1
           }
@@ -19393,7 +19393,7 @@ const curriculum: DayContent[] = [
             "q": "A Bézier curve is a smooth curve defined parametrically using a set of ___ points.",
             "options": [
               "Control",
-              "A concept unrelated to how a Bézier curve is defined",
+              "Tangent, a term describing direction at a point rather than the points used to define the curve",
               "Terminal, an incomplete description that omits the interior points shaping the curve",
               "Random, an inaccurate description of the deliberately placed points shaping a Bézier curve"
             ],
@@ -19403,19 +19403,19 @@ const curriculum: DayContent[] = [
             "q": "A Bézier curve typically does not pass through its interior control points but is shaped by their ___.",
             "options": [
               "Influence",
-              "A concept unrelated to the role of interior control points",
-              "Colour, a property unrelated to how control points shape a Bézier curve",
-              "Weight in kilograms, a physical property unrelated to this mathematical construction"
+              "Slope at the endpoints, a property that only describes the curve's direction at its ends",
+              "Length, a measurement that doesn't account for how control points shape the curve's path",
+              "Order, referring to the polynomial degree used rather than how control points shape the curve's path"
             ],
             "answer": 0
           },
           {
             "q": "Bézier curves are widely used in computer graphics and ___ design.",
             "options": [
-              "Currency, a field unrelated to typical applications of Bézier curves",
+              "Audio compression, a field that instead relies on frequency-domain transforms rather than geometric curve design",
               "Font",
-              "Weather, a field unrelated to typical applications of Bézier curves",
-              "A concept unrelated to common real-world applications of this curve type"
+              "Database indexing, a field that relies on tree structures rather than geometric curve design",
+              "Cryptography, a field built on number theory rather than geometric curve design"
             ],
             "answer": 1
           },
@@ -19424,7 +19424,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Bézier curves have no practical advantage over any other method of drawing a curved shape",
               "Manually plotting individual points always produces a smoother, more easily editable curve than using control points",
-              "This concept has no relevance to how curves are constructed in digital design applications",
+              "Bézier curves require more memory to store than a list of individually plotted points of the same curve",
               "Moving just a few control points reshapes the entire curve smoothly and predictably, making a Bézier curve far more efficient and flexible to edit than manually repositioning many individual plotted points"
             ],
             "answer": 3
@@ -19433,7 +19433,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the parametric definition of a Bézier curve, rather than a direct equation relating x and y, particularly well suited to representing complex curved shapes such as letters in a font?",
             "options": [
               "A direct equation relating x and y can represent every possible curved shape just as effectively as a parametric definition",
-              "This concept has no relevance to understanding why certain curve representations are chosen for specific design applications",
+              "A direct equation relating x and y is always more memory-efficient to compute than a parametric representation",
               "Parametric equations have no particular advantage in representing complex or looping curved shapes",
               "A parametric definition can represent shapes, including ones that loop back on themselves or are not functions of x, more flexibly than a single equation directly relating x and y"
             ],
@@ -19470,7 +19470,7 @@ const curriculum: DayContent[] = [
               "What exponent a base must be raised to in order to produce a given number",
               "What number multiplied by itself equals zero",
               "What the sum of two numbers equals",
-              "A question unrelated to exponents"
+              "What the difference between two numbers equals"
             ],
             "answer": 0
           },
@@ -19488,7 +19488,7 @@ const curriculum: DayContent[] = [
             "q": "A composite function applies ___.",
             "options": [
               "Only a single function, with no combination involved",
-              "A method unrelated to functions",
+              "Both functions simultaneously to the same input value",
               "One function to the result of another function",
               "Two completely unrelated, separate functions with no connection"
             ],
@@ -19510,7 +19510,7 @@ const curriculum: DayContent[] = [
               "Each topic must be learned in complete isolation",
               "These related math concepts reinforce each other for stronger overall understanding",
               "Review is never useful in math",
-              "These topics have no connection to each other"
+              "These three topics must be studied in strict sequential order, never together"
             ],
             "answer": 1
           }
@@ -19527,10 +19527,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Stress describes the internal force per unit ___ within a material under load.",
             "options": [
-              "Colour, a quantity unrelated to how stress within a material is defined",
-              "Time, a quantity unrelated to how stress within a material is defined",
+              "Volume, a three-dimensional measure not used in the standard definition of stress",
+              "Length, a one-dimensional measure not used in the standard definition of stress",
               "Area",
-              "A concept unrelated to the definition of stress"
+              "Mass, a quantity that does not describe how force is distributed across a surface"
             ],
             "answer": 2
           },
@@ -19538,8 +19538,8 @@ const curriculum: DayContent[] = [
             "q": "Strain describes the resulting proportional ___ of a material under load.",
             "options": [
               "Temperature increase exclusively, an inaccurate description of what strain measures",
-              "Electric charge, a quantity unrelated to the definition of strain",
-              "A concept unrelated to the definition of strain",
+              "Resistance, a property describing opposition to current flow rather than mechanical change",
+              "Density, a property describing mass per unit volume rather than shape change",
               "Deformation"
             ],
             "answer": 3
@@ -19548,8 +19548,8 @@ const curriculum: DayContent[] = [
             "q": "A material’s tensile strength is the maximum ___ it can withstand before failing.",
             "options": [
               "Stress",
-              "A concept unrelated to the definition of tensile strength",
-              "Temperature, a quantity unrelated to the definition of tensile strength",
+              "Strain, the proportional deformation rather than the force causing it",
+              "Density, a measure of mass per volume rather than load-bearing capacity",
               "Weight measured in kilograms alone, an incomplete description that does not account for the material’s cross-sectional area"
             ],
             "answer": 0
@@ -19559,7 +19559,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The total applied force alone always provides a complete and sufficient description of how a material will respond to a load",
               "Defining stress relative to a material’s cross-sectional area allows meaningful comparisons between materials or objects of different sizes, since the same total force can produce very different internal effects depending on how it is distributed",
-              "This concept has no relevance to understanding how stress is defined and applied in materials physics",
+              "Total applied force already accounts for an object's size and shape without needing area",
               "Cross-sectional area has no bearing on how a material internally responds to an applied force"
             ],
             "answer": 1
@@ -19567,7 +19567,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding a material’s tensile strength important in fields such as structural engineering?",
             "options": [
-              "This concept has no relevance to applying physics principles to real-world material selection",
+              "Tensile strength is only relevant to materials used in aerospace, not general structural engineering",
               "Structural engineering never requires any consideration of how much stress a material can safely withstand",
               "A material’s tensile strength has no practical relevance to how it is selected or used in engineering design",
               "Knowing the maximum stress a material can withstand before failing allows engineers to select materials and dimensions that keep expected loads safely below that failure threshold"
@@ -19595,8 +19595,8 @@ const curriculum: DayContent[] = [
             "q": "Verse drama is a play written substantially or entirely in poetic ___ rather than prose dialogue.",
             "options": [
               "Silence, an inaccurate description of a play built around spoken language",
-              "Stage directions exclusively, with no connection to a character’s spoken dialogue",
-              "A concept unrelated to this dramatic form",
+              "Soliloquy exclusively, a dramatic device distinct from verse form itself",
+              "Dialect, a feature of regional speech rather than poetic form",
               "Metre"
             ],
             "answer": 3
@@ -19604,10 +19604,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Verse drama uses the heightened rhythm and compression of verse to intensify emotional ___.",
             "options": [
-              "A concept entirely unrelated to the effect of poetic dialogue in drama",
+              "Comic relief, an effect more associated with prose farce than heightened verse",
               "Stakes",
-              "Set dimensions, a production detail unrelated to a play’s dialogue",
-              "Costume budgets, a production detail unrelated to a play’s dialogue"
+              "Scene changes, a staging detail that shifts setting rather than intensifying language",
+              "Lighting cues, a technical detail controlling visibility rather than language"
             ],
             "answer": 1
           },
@@ -19616,8 +19616,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Language",
               "Silence, an inaccurate description of a form built on spoken poetic dialogue",
-              "A concept unrelated to how verse drama functions",
-              "Stage lighting, a technical element unrelated to a character’s spoken lines"
+              "Dialect, a feature of regional speech rather than poetic elevation",
+              "Blocking, a staging element governing movement rather than spoken language"
             ],
             "answer": 0
           },
@@ -19626,7 +19626,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Verse dialogue always makes a character’s emotional or philosophical moments feel less significant than prose would",
               "Poetic metre has no established effect on how a dramatic moment is experienced by an audience",
-              "This concept has no relevance to understanding the dramatic function of verse",
+              "Because verse dialogue is required by convention in all tragic drama",
               "The compressed rhythm and heightened diction of verse can lend such moments a weight and intensity that ordinary conversational prose might not achieve as effectively"
             ],
             "answer": 3
@@ -19637,7 +19637,7 @@ const curriculum: DayContent[] = [
               "The underlying poetic structure carries meaning and emotional emphasis of its own, so honouring the metre’s rhythm while still sounding natural is a distinct performance challenge compared to conversational prose delivery",
               "Rhythm and metre have no bearing on how a line of verse drama should be performed",
               "Verse drama places no additional demand on actors beyond what naturalistic prose dialogue requires",
-              "This concept has no relevance to understanding the performance challenges specific to verse drama"
+              "Because actors performing verse drama are exempt from memorizing exact lines"
             ],
             "answer": 0
           }
@@ -19716,8 +19716,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Solving a logarithmic equation often involves rewriting it in ___.",
             "options": [
-              "Fraction form with no connection to exponents",
-              "A form unrelated to exponents",
+              "Factored form, by treating the logarithm like a polynomial expression",
+              "Decimal form, by converting the logarithm to an approximate numerical value",
               "Exponential form",
               "Linear form only, with no other conversion possible"
             ],
@@ -19727,7 +19727,7 @@ const curriculum: DayContent[] = [
             "q": "If log base 2 of x equals 5, what is x?",
             "options": [
               "25",
-              "A value unrelated to the equation",
+              "10, since log base 2 of x equals 5 means x divided by 2 equals 5",
               "32",
               "10"
             ],
@@ -19738,7 +19738,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They can combine multiple logarithmic terms into a single term, simplifying the equation",
               "This step always makes an equation more difficult to solve",
-              "Logarithm properties have no connection to solving equations",
+              "These properties only apply after the equation has already been solved",
               "These properties never simplify a logarithmic equation"
             ],
             "answer": 0
@@ -19748,7 +19748,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Checking a solution never affects whether it is valid",
               "A logarithm is only defined for positive arguments, so some solutions may be extraneous",
-              "This step has no connection to solving logarithmic equations",
+              "Checking is only necessary when the base of the logarithm is greater than 10",
               "Logarithms are defined for every possible number, so no checking is required"
             ],
             "answer": 1
@@ -19778,7 +19778,7 @@ const curriculum: DayContent[] = [
             "q": "The twin paradox is a thought experiment in special relativity in which one twin travels at high speed on a round trip while the other remains on ___.",
             "options": [
               "A distant, unspecified location with no meaningful comparison point",
-              "A concept unrelated to how this thought experiment is set up",
+              "A space station orbiting at the same high speed as the travelling twin",
               "Earth",
               "A spacecraft identical to the travelling twin’s, an inaccurate description of the stationary twin’s situation"
             ],
@@ -19788,7 +19788,7 @@ const curriculum: DayContent[] = [
             "q": "In the twin paradox, the travelling twin ages ___ than the twin who remained on Earth.",
             "options": [
               "Less",
-              "A concept unrelated to the predicted outcome of this thought experiment",
+              "Identically to how they would age without any travel at all, since motion has no effect",
               "Exactly the same amount as, an inaccurate description that would eliminate the paradox’s central result",
               "More, an inaccurate description of the outcome predicted for the travelling twin"
             ],
@@ -19799,8 +19799,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Time dilation",
               "Only ordinary gravity, a concept not central to this particular thought experiment",
-              "Electric charge, a concept unrelated to the physical effect responsible for this outcome",
-              "A concept unrelated to the physical effect responsible for this outcome"
+              "Length contraction, which affects measured distances rather than elapsed time",
+              "Gravitational lensing, an effect involving the bending of light rather than elapsed time"
             ],
             "answer": 0
           },
@@ -19808,7 +19808,7 @@ const curriculum: DayContent[] = [
             "q": "Why does the travelling twin in this thought experiment experience less elapsed time than the twin who remains on Earth, according to special relativity?",
             "options": [
               "Time dilation predicts that a clock moving at high speed relative to an observer runs more slowly from that observer’s perspective, so the high-speed round trip results in less elapsed time for the travelling twin",
-              "This concept has no relevance to understanding how relative motion affects elapsed time in special relativity",
+              "The travelling twin ages less because of increased gravitational attraction during the journey",
               "Time dilation has no established connection to the outcome of the twin paradox thought experiment",
               "Special relativity predicts that both twins must always experience exactly the same amount of elapsed time regardless of their relative motion"
             ],
@@ -19817,7 +19817,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the twin paradox useful for illustrating the counterintuitive predictions of special relativity, even though extreme relativistic speeds are far beyond ordinary human experience?",
             "options": [
-              "This concept has no relevance to understanding how thought experiments are used to illustrate physical theories",
+              "The twin paradox is useful only for calculating exact relativistic speeds, not for building conceptual understanding",
               "The twin paradox has no meaningful connection to any prediction made by special relativity",
               "It translates an abstract mathematical prediction about time dilation into a vivid, concrete scenario involving two comparable observers, making the theory’s striking implications easier to grasp than the underlying equations alone",
               "Special relativity makes no predictions that differ from ordinary, everyday human experience of time"
@@ -19861,10 +19861,10 @@ const curriculum: DayContent[] = [
           {
             "q": "A verse novel tells an extended narrative using ___ form, most often free verse.",
             "options": [
-              "Strictly legal, a form unrelated to storytelling",
+              "Dramatic, a form built around staged dialogue rather than narrated verse",
               "Poetic",
-              "Purely journalistic, with no connection to imaginative narrative",
-              "A concept unrelated to this literary form"
+              "Epistolary, a form built on exchanged letters rather than sustained verse",
+              "Encyclopedic, a form organized by reference entries rather than narrative verse"
             ],
             "answer": 1
           },
@@ -19873,7 +19873,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Persuades",
               "Entirely ignores, with no attempt made to influence any reader",
-              "A concept unrelated to this type of essay",
+              "Translates, a function concerned with language conversion rather than persuasion",
               "Silences, an inaccurate description of a persuasive text’s purpose"
             ],
             "answer": 0
@@ -19881,20 +19881,20 @@ const curriculum: DayContent[] = [
           {
             "q": "Historiographic metafiction self-consciously blends invented narrative with documented ___ events.",
             "options": [
-              "Scientific, a category of event unrelated to this literary mode’s defining focus",
+              "Mythological, events drawn from legend rather than documented record",
               "Historical",
-              "Entirely fictional, with no connection to any real historical record",
-              "A concept unrelated to this literary mode"
+              "Autobiographical, events drawn strictly from the author's own life",
+              "Biographical, a focus on individual lives rather than broader documented events"
             ],
             "answer": 1
           },
           {
             "q": "Stream of consciousness attempts to capture the continuous flow of a character’s thoughts, sensations, and ___ as they occur.",
             "options": [
-              "Financial transactions exclusively, with no connection to a character’s inner life",
+              "Dialogue exchanges recorded verbatim between characters",
               "Impressions",
-              "A concept unrelated to this narrative technique",
-              "Physical measurements exclusively, with no connection to a character’s inner experience"
+              "Footnoted historical commentary inserted by the author",
+              "Plot events recounted in strict chronological order"
             ],
             "answer": 1
           },
@@ -19904,7 +19904,7 @@ const curriculum: DayContent[] = [
               "Each topic must be learned in complete isolation",
               "These related English concepts reinforce each other for stronger overall understanding",
               "Review is never useful in English",
-              "These topics have no connection to each other"
+              "These four literary techniques must each be evaluated using unrelated, incompatible critical frameworks"
             ],
             "answer": 1
           }
@@ -19982,7 +19982,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A vertical asymptote of a rational function typically occurs where ___.",
             "options": [
-              "A location unrelated to the function’s denominator",
+              "Where the numerator and denominator are both equal to the same nonzero constant",
               "The denominator equals zero",
               "The numerator equals zero",
               "The function crosses the x-axis"
@@ -19994,7 +19994,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Always reaches and crosses repeatedly",
               "Approaches but never reaches",
-              "A concept unrelated to rational functions",
+              "Reaches exactly once before levelling off permanently",
               "Reaches only at a single specific point and no other"
             ],
             "answer": 1
@@ -20005,7 +20005,7 @@ const curriculum: DayContent[] = [
               "x = 0",
               "x = -3",
               "x = 3",
-              "A location unrelated to this function"
+              "x = 1/3, since the asymptote occurs at the reciprocal of the constant"
             ],
             "answer": 2
           },
@@ -20045,26 +20045,26 @@ const curriculum: DayContent[] = [
               "Only ordinary matter, an inaccurate description of what gravitational waves ripple through",
               "Spacetime",
               "The electromagnetic spectrum exclusively, an inaccurate description of what gravitational waves are",
-              "A concept unrelated to this predicted phenomenon"
+              "The electromagnetic field, rather than the geometry of space and time itself"
             ],
             "answer": 1
           },
           {
             "q": "The Higgs boson is a particle associated with the Higgs ___, a field theorized to permeate all of space.",
             "options": [
-              "Orbit, a concept unrelated to the theoretical framework surrounding the Higgs boson",
+              "Wave, a term describing oscillation rather than the field that gives particles mass",
               "Field",
-              "A concept unrelated to the Higgs boson’s theoretical basis",
-              "Circuit, a concept unrelated to the theoretical framework surrounding the Higgs boson"
+              "Lattice, a term describing a repeating crystal structure rather than a field permeating space",
+              "Resonance, a term describing periodic oscillation rather than a field permeating space"
             ],
             "answer": 1
           },
           {
             "q": "Antimatter consists of particles with the same mass as their ordinary matter counterparts but opposite electric ___.",
             "options": [
-              "Temperature, a property unrelated to the defining distinction between matter and antimatter",
-              "Colour, a property unrelated to the defining distinction between matter and antimatter",
-              "A concept unrelated to how antimatter is defined",
+              "Spin, a property that remains identical between a particle and its antiparticle",
+              "Mass, a property that is actually the same for matter and antimatter",
+              "Colour charge, a property specific to quarks rather than the basic matter-antimatter distinction",
               "Charge"
             ],
             "answer": 3
@@ -20074,16 +20074,16 @@ const curriculum: DayContent[] = [
             "options": [
               "Polar",
               "Equatorial, an inaccurate description of where these charged particles are typically funnelled",
-              "Oceanic, a description unrelated to the magnetic funnelling that produces the aurora",
-              "A concept unrelated to where the aurora is typically observed"
+              "Tropical, regions near the equator where magnetic field lines are least concentrated",
+              "Oceanic, a classification based on surface geography rather than magnetic latitude"
             ],
             "answer": 0
           },
           {
             "q": "Why is it useful to review gravitational waves, the Higgs boson, antimatter, and the aurora borealis together?",
             "options": [
-              "These topics have no connection to each other",
-              "Each topic must be studied with no connection to the others",
+              "These four phenomena belong to completely separate, unrelated branches of physics",
+              "Reviewing multiple topics together only causes confusion rather than reinforcing understanding",
               "These related physics concepts reinforce each other for stronger overall understanding",
               "Review is never useful in physics"
             ],
@@ -20125,7 +20125,7 @@ const curriculum: DayContent[] = [
               "A textbook’s worth of unrelated facts",
               "Only entirely invented, fantastical worlds",
               "Real people and events",
-              "A concept unrelated to literature"
+              "A purely allegorical moral lesson with no basis in real individuals"
             ],
             "answer": 2
           },
@@ -20133,7 +20133,7 @@ const curriculum: DayContent[] = [
             "q": "Does reading a roman a clef often require recognizing the reality behind invented names?",
             "options": [
               "Invented names are never used in this literary form",
-              "A concept unrelated to the roman a clef",
+              "Sometimes, though most romans a clef avoid referencing real individuals entirely",
               "No, this genre never draws on any real people or events",
               "Yes"
             ],
@@ -20142,9 +20142,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might an author choose to write a roman a clef instead of a straightforward memoir?",
             "options": [
-              "This concept has no connection to literature",
+              "Because publishers require all memoirs to be rewritten as fiction before release",
               "Authors never have any reason to disguise real events as fiction",
-              "A roman a clef is always completely unrelated to any real event",
+              "Because fiction sells better than memoir regardless of subject matter",
               "Fictional disguise can offer legal protection or creative freedom while still commenting on real events"
             ],
             "answer": 3
@@ -20165,7 +20165,7 @@ const curriculum: DayContent[] = [
               "Prior knowledge of real events never changes how a reader experiences this type of novel",
               "Recognizing the real-world parallels can add an additional layer of meaning and interpretation to the story",
               "A roman a clef reads identically regardless of a reader’s background knowledge",
-              "This concept has no relevance to literature"
+              "Because a roman a clef's plot changes depending on which edition a reader owns"
             ],
             "answer": 1
           }
@@ -20315,10 +20315,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Electromagnetism describes the relationship between ___.",
             "options": [
-              "Only sound and light, with no connection to electricity",
+              "Only heat and pressure within a conducting material",
               "Electricity and magnetism",
-              "Only heat, with no connection to magnetism",
-              "A concept unrelated to physics"
+              "Only magnetic materials and gravity, with no role for electric charge",
+              "Only the motion of fluids and the forces acting upon them"
             ],
             "answer": 1
           },
@@ -20326,8 +20326,8 @@ const curriculum: DayContent[] = [
             "q": "Electromagnetic induction occurs when ___.",
             "options": [
               "A changing magnetic field induces an electric current",
-              "A concept unrelated to magnetism or electricity",
-              "A magnetic field has no effect on electric current",
+              "A steady, unchanging magnetic field surrounds a stationary conductor",
+              "An electric current flows through a wire with no magnetic field present at all",
               "Electric current always exists with no external cause"
             ],
             "answer": 0
@@ -20336,7 +20336,7 @@ const curriculum: DayContent[] = [
             "q": "Which technology relies on the principle of electromagnetic induction?",
             "options": [
               "A simple hand tool with no electrical components",
-              "An object with no connection to electricity or magnetism",
+              "A battery, which produces current through chemical reactions rather than changing magnetic fields",
               "A generator",
               "A purely mechanical device with no electromagnetic components"
             ],
@@ -20346,7 +20346,7 @@ const curriculum: DayContent[] = [
             "q": "Why is electromagnetism considered an important concept in physics and engineering?",
             "options": [
               "Electromagnetism has no real-world applications",
-              "This concept has no connection to technology or engineering",
+              "Electricity and magnetism are governed by completely separate, non-interacting physical laws",
               "Electricity and magnetism have no relationship to each other",
               "It underlies many technologies that generate or use electricity"
             ],
@@ -20382,7 +20382,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What form is a prose poem written in?",
             "options": [
-              "A concept unrelated to writing",
+              "A strict fourteen-line sonnet structure",
               "A formal legal contract format",
               "Paragraph form without line breaks",
               "Only traditional poetic stanzas with strict rhyme"
@@ -20392,9 +20392,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Does a prose poem typically retain compressed imagery and rhythm associated with poetry?",
             "options": [
-              "Imagery has no connection to how a prose poem is written",
+              "No, a prose poem relies exclusively on strict metrical rhyme instead of imagery",
               "No, a prose poem never uses any poetic qualities",
-              "A concept unrelated to prose poems",
+              "Only when the prose poem is translated from another language",
               "Yes"
             ],
             "answer": 3
@@ -20402,7 +20402,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a writer choose the prose poem form to blur the boundary between poetry and prose?",
             "options": [
-              "This concept has no connection to writing",
+              "Because prose poems are required reading in most standardized testing",
               "Prose poems are always identical in structure to a traditional short story",
               "The prose poem form never blurs any distinction between poetry and prose",
               "It allows them to explore poetic techniques while working within a continuous, paragraph-based structure"
@@ -20422,10 +20422,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might studying the prose poem help students think more flexibly about genre and literary form?",
             "options": [
-              "This concept has no relevance to writing",
+              "Because prose poems are primarily used to teach proper paragraph formatting",
               "Genre boundaries in literature are always fixed and can never be challenged",
               "It challenges the assumption that poetry must always follow a fixed set of structural rules",
-              "The prose poem has no connection to how genre or literary form is understood"
+              "Because genre classifications are determined solely by a work's publication format"
             ],
             "answer": 2
           }
@@ -20565,7 +20565,7 @@ const curriculum: DayContent[] = [
             "options": [
               "How particles disappear permanently upon striking a barrier",
               "How a particle can pass through an energy barrier it classically should not overcome",
-              "A concept unrelated to physics",
+              "A particle gaining enough energy to classically overcome a barrier before crossing it",
               "How particles always bounce off every barrier with no exception"
             ],
             "answer": 1
@@ -20575,7 +20575,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes, classical physics predicts it can always pass through easily",
               "Classical physics makes no prediction about this situation",
-              "A concept unrelated to quantum tunneling",
+              "Classical physics predicts particles can tunnel through barriers with low probability",
               "No"
             ],
             "answer": 3
@@ -20583,20 +20583,20 @@ const curriculum: DayContent[] = [
           {
             "q": "Is quantum tunneling a phenomenon explained by quantum mechanics rather than classical physics?",
             "options": [
-              "A concept unrelated to quantum tunneling",
+              "It only occurs at relativistic speeds very close to the speed of light",
               "No, quantum tunneling is fully explained by classical physics alone",
               "Yes",
-              "Quantum mechanics has no connection to tunneling behaviour"
+              "Tunneling happens when a particle gains enough extra energy to classically clear the barrier"
             ],
             "answer": 2
           },
           {
             "q": "Why is quantum tunneling important for understanding how the sun generates energy through nuclear fusion?",
             "options": [
-              "Quantum tunneling has no connection to the process of nuclear fusion",
+              "It allows particles to gain the extra kinetic energy needed to classically exceed the Coulomb barrier",
               "Nuclear fusion in the sun occurs with no reliance on any quantum phenomenon",
               "It allows particles to overcome repulsive forces and fuse together even without classically sufficient energy",
-              "This concept has no connection to physics"
+              "Fusion in the sun's core relies entirely on gravitational compression, with no quantum effects involved"
             ],
             "answer": 2
           },
@@ -20605,7 +20605,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Quantum tunneling has no practical application in modern electronic devices",
               "Electronic devices never rely on any quantum mechanical effect",
-              "This concept has no relevance to physics",
+              "Tunneling in these devices is actually a classical thermionic emission effect, not a quantum one",
               "Engineers can exploit tunneling behaviour to create devices that operate based on this quantum effect"
             ],
             "answer": 3
@@ -20632,7 +20632,7 @@ const curriculum: DayContent[] = [
               "Fictional storytelling with no factual basis",
               "Statistical analysis and visual infographics",
               "Only handwritten personal opinions with no data",
-              "A concept unrelated to media analysis"
+              "Exclusively anonymous, unverified eyewitness testimony"
             ],
             "answer": 1
           },
@@ -20640,8 +20640,8 @@ const curriculum: DayContent[] = [
             "q": "Is data journalism intended to present complex information in an accessible form?",
             "options": [
               "Yes",
-              "Accessibility has no connection to how data journalism is presented",
-              "A concept unrelated to data journalism",
+              "Only when the data concerns scientific research rather than public policy",
+              "Rarely, since most data journalism targets specialist academic audiences",
               "No, data journalism intentionally makes information as confusing as possible"
             ],
             "answer": 0
@@ -20649,8 +20649,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a poorly designed infographic mislead readers even if the underlying data is accurate?",
             "options": [
-              "Infographic design never has any effect on how data is perceived",
-              "This concept has no connection to media analysis",
+              "Because readers always verify an infographic's data against the original source before interpreting it",
+              "Because misleading infographics are illegal under most journalism standards boards",
               "Accurate data can never be presented in a misleading way visually",
               "Visual choices like scale, colour, or omitted context can distort how accurate data is perceived"
             ],
@@ -20660,7 +20660,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important for readers to critically evaluate the source of data used in a piece of data journalism?",
             "options": [
               "All data sources used in journalism are always equally reliable",
-              "This concept has no connection to media analysis",
+              "Because data sources are standardized and identical across all news outlets",
               "Understanding where data comes from helps readers assess its reliability and any potential bias",
               "The source of data used in journalism is never relevant to evaluating an article"
             ],
@@ -20671,7 +20671,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Complex issues can only ever be communicated through lengthy written text",
               "Data journalism never makes complex issues any easier to understand",
-              "This concept has no relevance to media analysis",
+              "Because climate data is typically too specialized to be presented visually",
               "Well-designed visualizations can make large or complex data sets easier to interpret at a glance"
             ],
             "answer": 3
@@ -20752,7 +20752,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A single polynomial with no denominator",
               "A function that never includes a fraction",
-              "A concept unrelated to algebra",
+              "A polynomial that has already been fully factored into linear terms",
               "A ratio of two polynomials"
             ],
             "answer": 3
@@ -20760,7 +20760,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A vertical asymptote of a rational function occurs where ___.",
             "options": [
-              "A concept unrelated to rational functions",
+              "Where the numerator equals the denominator",
               "The numerator equals zero",
               "The function’s value is always exactly one",
               "The denominator equals zero"
@@ -20771,7 +20771,7 @@ const curriculum: DayContent[] = [
             "q": "A horizontal asymptote of a rational function describes ___.",
             "options": [
               "The function’s end behaviour as x becomes very large or very small",
-              "A concept unrelated to graphing",
+              "The exact slope of the function as x approaches zero",
               "The function’s single highest point",
               "The exact value of the function at x equals zero only"
             ],
@@ -20793,7 +20793,7 @@ const curriculum: DayContent[] = [
               "Asymptotes only apply to linear functions, not rational ones",
               "They reveal values the graph approaches but never actually reaches, shaping its overall behaviour",
               "A rational function’s graph never approaches any particular value",
-              "Asymptotes have no connection to graphing rational functions"
+              "Asymptotes only need to be identified when a function has no vertical intercepts"
             ],
             "answer": 1
           }
@@ -20814,7 +20814,7 @@ const curriculum: DayContent[] = [
               "Oxygen only",
               "Carbon",
               "Helium",
-              "A concept unrelated to any specific element"
+              "Nitrogen"
             ],
             "answer": 1
           },
@@ -20823,8 +20823,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Nothing of scientific significance",
               "Living organisms",
-              "A topic unrelated to biology or chemistry",
-              "Only non-living materials, with no connection to life"
+              "Only inorganic minerals found in rocks",
+              "Synthetic polymers manufactured in a lab, never found in nature"
             ],
             "answer": 1
           },
@@ -20833,7 +20833,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Pure water, with no carbon involved",
               "Carbohydrates",
-              "A molecule with no connection to carbon",
+              "Table salt (sodium chloride)",
               "Pure oxygen gas"
             ],
             "answer": 1
@@ -20841,7 +20841,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is carbon particularly well-suited to forming a wide variety of complex molecules?",
             "options": [
-              "This property has no connection to carbon’s chemical behaviour",
+              "Carbon's unusually high atomic mass, which stabilizes large molecules",
               "Carbon cannot form bonds with other elements",
               "Carbon is incapable of forming complex molecular structures",
               "Carbon atoms can form multiple stable bonds with other atoms, including other carbon atoms"
@@ -20852,8 +20852,8 @@ const curriculum: DayContent[] = [
             "q": "Why is organic chemistry considered foundational to understanding biology?",
             "options": [
               "Many biological molecules and processes are based on carbon chemistry",
-              "This field of study has no relevance to living organisms",
-              "Organic chemistry has no connection to biological processes",
+              "Organic chemistry only applies to synthetic, lab-made compounds, not natural ones",
+              "Biological molecules are better explained by physics than by chemistry",
               "Biology never involves any carbon-based compounds"
             ],
             "answer": 0
@@ -20880,7 +20880,7 @@ const curriculum: DayContent[] = [
               "A visual artwork",
               "A weather pattern occurring in a specific season",
               "A mathematical proof with no artistic content",
-              "A concept unrelated to literature"
+              "A musical composition performed live"
             ],
             "answer": 0
           },
@@ -20888,8 +20888,8 @@ const curriculum: DayContent[] = [
             "q": "Does ekphrasis use vivid language to interpret a visual artwork?",
             "options": [
               "No, ekphrasis never uses any vivid or descriptive language",
-              "A concept unrelated to ekphrasis",
-              "Interpretation has no connection to how ekphrasis is written",
+              "Only when describing sculpture rather than painting",
+              "Rarely, since ekphrastic writing favors purely objective, catalog-style description",
               "Yes"
             ],
             "answer": 3
@@ -20898,7 +20898,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a poet write an ekphrastic poem about a specific painting rather than simply describing it literally?",
             "options": [
               "An ekphrastic poem can interpret the emotional or symbolic meaning of the artwork, not just its literal appearance",
-              "This concept has no connection to literature",
+              "Because ekphrastic poems are required to quote the artist's own statements verbatim",
               "Ekphrastic poems never interpret any deeper meaning within an artwork",
               "Ekphrasis only ever provides a literal, objective description with no interpretation"
             ],
@@ -20918,8 +20918,8 @@ const curriculum: DayContent[] = [
             "q": "Why might studying ekphrasis help students think about the relationship between different art forms?",
             "options": [
               "Visual art and written literature are never connected in any meaningful way",
-              "This concept has no relevance to literature",
-              "Ekphrasis has no connection to the relationship between visual art and literature",
+              "Because ekphrasis primarily trains students in formal art history dating techniques",
+              "Because visual art and literature are governed by entirely separate critical traditions with no overlap",
               "It highlights how written language can respond to and reinterpret meaning found in a visual medium"
             ],
             "answer": 3
@@ -21062,7 +21062,7 @@ const curriculum: DayContent[] = [
               "Only ordinary reflections off a mirror-like surface",
               "The gravity of a massive object bending light from a distant source",
               "Sound waves travelling through empty space",
-              "A concept unrelated to physics"
+              "The diffraction of light around small particles in interstellar dust clouds"
             ],
             "answer": 1
           },
@@ -21072,16 +21072,16 @@ const curriculum: DayContent[] = [
               "No, gravitational lensing never affects the appearance of an image",
               "Yes",
               "Multiple images are never produced by this phenomenon",
-              "A concept unrelated to gravitational lensing"
+              "The refraction of starlight passing through Earth's own atmosphere"
             ],
             "answer": 1
           },
           {
             "q": "Does gravitational lensing rely on the bending of light by a massive object’s gravity?",
             "options": [
-              "No, light bending has no connection to gravitational lensing",
-              "Gravity has no effect on the path light travels",
-              "A concept unrelated to gravitational lensing",
+              "No, lensing instead occurs when light scatters off interstellar dust and gas",
+              "No, lensing results from the refraction of light through a star's outer atmosphere",
+              "No, lensing is caused by diffraction of light around a massive object's edge",
               "Yes"
             ],
             "answer": 3
@@ -21089,20 +21089,20 @@ const curriculum: DayContent[] = [
           {
             "q": "Why can gravitational lensing be used by astronomers to detect the presence of dark matter?",
             "options": [
-              "This concept has no connection to physics",
+              "Dark matter completely blocks light rather than bending it gravitationally",
               "Dark matter can always be observed directly without needing any indirect method",
               "Dark matter’s gravitational effects can bend light in ways that reveal its presence, even though it cannot be seen directly",
-              "Gravitational lensing has no connection to detecting dark matter"
+              "Dark matter can be identified directly by the radio emissions it produces"
             ],
             "answer": 2
           },
           {
             "q": "Why is gravitational lensing considered strong evidence supporting Einstein’s general theory of relativity?",
             "options": [
-              "Gravitational lensing has no connection to any prediction made by general relativity",
+              "General relativity predicted light would always travel in perfectly straight lines",
               "The bending of light by massive objects was a key prediction of general relativity that has since been confirmed through observation",
               "General relativity makes no prediction whatsoever about the behaviour of light",
-              "This concept has no relevance to physics"
+              "The bending of light by massive objects was already fully explained by Newtonian mechanics"
             ],
             "answer": 1
           }
@@ -21128,15 +21128,15 @@ const curriculum: DayContent[] = [
               "Speaking for as long as possible with no clear structure",
               "Organizing thoughts quickly and structuring a clear response",
               "Memorizing an entire prepared script in advance",
-              "A concept unrelated to oral communication"
+              "Reciting a fully memorized response prepared days in advance"
             ],
             "answer": 1
           },
           {
             "q": "Is staying on topic important when responding to an unplanned question?",
             "options": [
-              "Topic relevance has no connection to academic discourse",
-              "A concept unrelated to impromptu responses",
+              "Only during formal debate competitions, not academic discussion",
+              "Rarely, since audiences generally prefer tangential anecdotes",
               "No, staying on topic is never important in this situation",
               "Yes"
             ],
@@ -21146,7 +21146,7 @@ const curriculum: DayContent[] = [
             "q": "Why might briefly pausing before responding to an unexpected question actually improve the quality of an answer?",
             "options": [
               "Immediate, unplanned responses are always more effective than a brief pause",
-              "This concept has no connection to oral communication",
+              "Because pausing signals to listeners that the speaker is unprepared and should stop speaking",
               "Pausing before responding always makes an answer less clear and organized",
               "A short pause allows time to organize a coherent response rather than speaking without a clear structure"
             ],
@@ -21156,7 +21156,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these best demonstrates an effective impromptu response?",
             "options": [
               "Briefly organizing key points before clearly answering an unexpected question during a discussion.",
-              "Speaking without pausing about an unrelated topic instead of answering the question.",
+              "Immediately answering with the first idea that comes to mind, without any organization",
               "Repeating the exact same rehearsed statement regardless of the question asked.",
               "Refusing to answer any question that was not planned in advance."
             ],
@@ -21166,8 +21166,8 @@ const curriculum: DayContent[] = [
             "q": "Why is developing strong impromptu response skills valuable for academic settings like seminars or oral examinations?",
             "options": [
               "Academic discourse never requires responding to any unplanned question",
-              "This concept has no relevance to oral communication",
-              "Impromptu response skills have no connection to academic seminars or oral examinations",
+              "Because these settings primarily reward the longest possible response",
+              "Because seminars and oral examinations are typically scored only on written submissions beforehand",
               "These settings often require thinking clearly and communicating effectively without extensive advance preparation"
             ],
             "answer": 3
@@ -21311,7 +21311,7 @@ const curriculum: DayContent[] = [
               "The maximum mass a white dwarf star can have before further collapse",
               "The exact colour every white dwarf star must appear",
               "The minimum temperature required for a star to form",
-              "A concept unrelated to physics"
+              "The precise orbital period of a white dwarf around its companion star"
             ],
             "answer": 0
           },
@@ -21319,17 +21319,17 @@ const curriculum: DayContent[] = [
             "q": "Does a white dwarf’s stability depend on electron degeneracy pressure resisting gravitational collapse?",
             "options": [
               "Yes",
-              "No, electron degeneracy pressure has no connection to a white dwarf’s stability",
-              "Gravity has no effect on a white dwarf star of any mass",
-              "A concept unrelated to the Chandrasekhar limit"
+              "No, a white dwarf's stability depends entirely on nuclear fusion occurring in its core",
+              "A white dwarf remains stable no matter how much additional mass it gains",
+              "The temperature at which hydrogen fusion ignites in a main-sequence star"
             ],
             "answer": 0
           },
           {
             "q": "Could a white dwarf that exceeds the Chandrasekhar limit undergo further gravitational collapse?",
             "options": [
-              "A concept unrelated to the Chandrasekhar limit",
-              "No, exceeding this limit has no effect on a white dwarf’s stability",
+              "The rate at which a white dwarf gradually cools and fades over billions of years",
+              "No, a white dwarf can accumulate unlimited mass without ever collapsing further",
               "Yes",
               "White dwarfs can never exceed any mass limit under any circumstances"
             ],
@@ -21339,8 +21339,8 @@ const curriculum: DayContent[] = [
             "q": "Why is the Chandrasekhar limit important for understanding the different possible end stages of a dying star?",
             "options": [
               "A star’s mass relative to this limit helps determine whether it becomes a stable white dwarf or continues collapsing further",
-              "This concept has no connection to physics",
-              "The Chandrasekhar limit has no connection to the different possible fates of a dying star",
+              "Every dying star's fate is determined solely by its chemical composition, not its mass",
+              "The Chandrasekhar limit only applies to stars that never lose or gain any mass",
               "Every dying star follows exactly the same evolutionary path regardless of its mass"
             ],
             "answer": 0
@@ -21349,7 +21349,7 @@ const curriculum: DayContent[] = [
             "q": "Why might exceeding the Chandrasekhar limit in certain binary star systems potentially lead to a type of supernova explosion?",
             "options": [
               "White dwarfs in binary systems are never affected by mass gained from a companion star",
-              "This concept has no relevance to physics",
+              "A white dwarf can only gain mass by merging with a black hole, never a companion star",
               "If a white dwarf accumulates enough mass from a companion star to exceed the limit, it can become unstable and detonate",
               "Exceeding this limit in a binary system never leads to any dramatic astronomical event"
             ],
@@ -21374,8 +21374,8 @@ const curriculum: DayContent[] = [
           {
             "q": "What does an annotated bibliography include for each source, beyond a simple citation?",
             "options": [
-              "A concept unrelated to writing",
-              "A random unrelated quotation with no connection to the source",
+              "A full reprint of the source's original text",
+              "A detailed biography of the source's author",
               "A brief summary and evaluation",
               "Only the exact page count of the source"
             ],
@@ -21385,9 +21385,9 @@ const curriculum: DayContent[] = [
             "q": "Can an annotated bibliography help a writer organize research before drafting a longer paper?",
             "options": [
               "No, an annotated bibliography never helps organize any research",
-              "Research organization has no connection to this type of writing",
+              "It only lists sources without offering any guidance on how to structure an argument",
               "Yes",
-              "A concept unrelated to annotated bibliographies"
+              "It is useful solely for meeting a course's citation formatting requirement"
             ],
             "answer": 2
           },
@@ -21397,7 +21397,7 @@ const curriculum: DayContent[] = [
               "Assessing credibility helps determine which sources are strong enough to support a future argument",
               "Evaluating credibility never matters when compiling an annotated bibliography",
               "Every possible source is always considered equally credible with no evaluation needed",
-              "This concept has no connection to writing"
+              "Credibility only matters once the final draft has already been submitted"
             ],
             "answer": 0
           },
@@ -21417,7 +21417,7 @@ const curriculum: DayContent[] = [
               "Longer research papers are always written with no reference to any collected sources",
               "An annotated bibliography never contributes anything useful to the research writing process",
               "It helps a writer synthesize and evaluate multiple sources, clarifying how each one supports the overall argument",
-              "This concept has no relevance to writing"
+              "It mainly helps a writer meet the assignment's required page count"
             ],
             "answer": 2
           }
@@ -21499,7 +21499,7 @@ const curriculum: DayContent[] = [
               "An entirely new type of number system",
               "A third component",
               "A fourth and fifth component simultaneously",
-              "A concept unrelated to vectors"
+              "A fourth dimension that cannot be visualized or measured"
             ],
             "answer": 1
           },
@@ -21509,7 +21509,7 @@ const curriculum: DayContent[] = [
               "Only two axes, identical to a 2D vector",
               "x, y, and z axes",
               "x-axis only, with no other components",
-              "A description unrelated to spatial direction"
+              "Only the magnitude, since direction is not needed in three dimensions"
             ],
             "answer": 1
           },
@@ -21527,7 +21527,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful to calculate the magnitude of a three-dimensional vector?",
             "options": [
               "It provides the overall length or size of the vector, regardless of its individual components",
-              "This calculation has no connection to describing vectors",
+              "Magnitude can only be calculated for two-dimensional vectors, not three-dimensional ones",
               "Three-dimensional vectors never have a measurable magnitude",
               "Magnitude has no meaning for a three-dimensional vector"
             ],
@@ -21557,7 +21557,7 @@ const curriculum: DayContent[] = [
             "q": "Stars form from clouds of ___.",
             "options": [
               "Pure water vapour",
-              "A material unrelated to space",
+              "Pure crystallized salt deposits",
               "Only solid rock, with no gas involved",
               "Gas and dust"
             ],
@@ -21569,17 +21569,17 @@ const curriculum: DayContent[] = [
               "In a constant state of explosive change",
               "Stable",
               "Completely inactive, with no processes occurring",
-              "A phase unrelated to a star’s life cycle"
+              "The brief, unstable phase right after a star forms, before fusion ignites"
             ],
             "answer": 1
           },
           {
             "q": "A star’s eventual end stage largely depends on its ___.",
             "options": [
-              "Colour, with no connection to any other factor",
+              "Surface temperature alone, regardless of its mass",
               "Distance from Earth only",
               "Original mass",
-              "A factor unrelated to the star itself"
+              "The star's rotational speed at the time of formation"
             ],
             "answer": 2
           },
@@ -21587,19 +21587,19 @@ const curriculum: DayContent[] = [
             "q": "Which is a possible end stage for a very massive star?",
             "options": [
               "A supernova explosion",
-              "An outcome unrelated to the star’s mass",
+              "A gradual, gentle fade into a brown dwarf",
               "A process identical to how all stars end, with no variation",
-              "A stage with no connection to a star’s life cycle"
+              "A permanent transformation into a red giant that never changes further"
             ],
             "answer": 0
           },
           {
             "q": "Why is studying the life cycle of stars important for understanding the broader universe?",
             "options": [
-              "This topic has no relevance to astronomy",
+              "Stars' life cycles mainly help predict weather patterns on Earth",
               "It helps explain the formation of elements and the ongoing evolution of galaxies",
               "Stars have no meaningful life cycle to study",
-              "The life cycle of stars has no connection to understanding the universe"
+              "All heavy elements were created during the Big Bang, not inside stars"
             ],
             "answer": 1
           }
@@ -21622,7 +21622,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What might call into question the accuracy of an unreliable chronicle?",
             "options": [
-              "A concept unrelated to literature",
+              "The number of chapters the chronicle is divided into",
               "Only the exact publication date of the text",
               "A narrator’s biases, gaps in memory, or hidden motives",
               "The font used in the printed edition"
@@ -21633,7 +21633,7 @@ const curriculum: DayContent[] = [
             "q": "Does an unreliable chronicle present historical events through the perspective of a specific narrator?",
             "options": [
               "Yes",
-              "A concept unrelated to unreliable chronicles",
+              "Only when the chronicle is written in the third person",
               "Historical events are never presented through any narrator’s viewpoint",
               "No, this narrative form never uses any particular narrator’s perspective"
             ],
@@ -21642,7 +21642,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might an author choose to tell a historical story through a narrator whose account may not be entirely trustworthy?",
             "options": [
-              "This concept has no connection to literature",
+              "Because publishers require historical fiction to include a narrator of some kind",
               "Unreliable narration never reveals anything meaningful about how history is understood",
               "Historical fiction always presents events with complete, unquestionable accuracy",
               "It can highlight how historical understanding is often shaped by subjective perspective rather than pure objective fact"
@@ -21664,7 +21664,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It encourages readers to consider multiple perspectives and question a single narrative’s claim to objective truth",
               "Historical accounts are always completely objective with no room for critical questioning",
-              "This concept has no relevance to literature",
+              "Because it teaches readers to identify the exact dates referenced in a text",
               "This type of narrative never encourages any critical thinking about history"
             ],
             "answer": 0
@@ -21686,7 +21686,7 @@ const curriculum: DayContent[] = [
               "A flat, straight line with no curvature at all",
               "A dome, curving downward",
               "A bowl, curving upward",
-              "A concept unrelated to functions"
+              "A wave, alternating between curving upward and downward"
             ],
             "answer": 2
           },
@@ -21696,7 +21696,7 @@ const curriculum: DayContent[] = [
               "A dome, curving downward",
               "A perfectly straight, unchanging line",
               "A bowl, curving upward",
-              "A concept unrelated to functions"
+              "A spiral, curving around a central point"
             ],
             "answer": 0
           },
@@ -21704,9 +21704,9 @@ const curriculum: DayContent[] = [
             "q": "Is the distinction between convex and concave functions formally connected to the sign of the second derivative?",
             "options": [
               "Yes",
-              "No, the second derivative has no connection to this distinction",
+              "Only the first derivative's sign determines whether a function is convex or concave, not the second",
               "The second derivative is never used to classify a function this way",
-              "A concept unrelated to convex and concave functions"
+              "This distinction only applies to linear functions, which have no curvature to classify"
             ],
             "answer": 0
           },
@@ -21716,17 +21716,17 @@ const curriculum: DayContent[] = [
               "The second derivative has no relationship to whether a function is convex or concave",
               "A positive second derivative shows the function’s slope is increasing, producing the upward, bowl-like curve characteristic of convexity",
               "A positive second derivative always indicates a function is concave, not convex",
-              "This concept has no connection to functions"
+              "This relationship only holds for trigonometric functions, not polynomials"
             ],
             "answer": 1
           },
           {
             "q": "Why is understanding convexity useful in fields like economics when analyzing cost or utility functions?",
             "options": [
-              "Convexity has no relevance to analyzing cost or utility in economics",
+              "Convex functions in economics only describe situations with constant, unchanging marginal costs",
               "Convex functions often model situations with increasing marginal costs, an important concept for economic decision-making",
               "Economic cost functions are never analyzed using concepts like convexity or concavity",
-              "This concept has no relevance to functions"
+              "This concept applies only to functions with negative first derivatives, never to cost or utility functions"
             ],
             "answer": 1
           }
@@ -21744,7 +21744,7 @@ const curriculum: DayContent[] = [
             "q": "The binomial theorem provides a method for expanding expressions like ___.",
             "options": [
               "Only expressions involving subtraction, with no addition",
-              "A concept unrelated to algebraic expansion",
+              "Only expressions that are already fully expanded, with nothing left to calculate",
               "(a + b) raised to a power",
               "A single variable with no exponent at all"
             ],
@@ -21755,8 +21755,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Coefficients used in a binomial expansion",
               "Exact roots of any polynomial equation",
-              "A concept unrelated to binomial expansion",
-              "Only the exponents in an expression, with no connection to coefficients"
+              "The exact value of a raised to any power alone",
+              "The number of terms in an expansion, but not their numerical coefficients"
             ],
             "answer": 0
           },
@@ -21766,7 +21766,7 @@ const curriculum: DayContent[] = [
               "Multiplying the two numbers directly above it",
               "Subtracting the row number from itself",
               "Adding the two numbers directly above it",
-              "A method unrelated to Pascal’s triangle"
+              "Multiplying the row number by the column number"
             ],
             "answer": 2
           },
@@ -21776,7 +21776,7 @@ const curriculum: DayContent[] = [
               "1, 2, 1",
               "1, 1, 1",
               "2, 2, 2",
-              "A set of values unrelated to this expansion"
+              "1, 3, 3, 1, the coefficients for a cubed expansion instead"
             ],
             "answer": 0
           },
@@ -21784,7 +21784,7 @@ const curriculum: DayContent[] = [
             "q": "Why might the binomial theorem be useful in fields like probability?",
             "options": [
               "This theorem only applies to purely abstract algebra with no other use",
-              "The binomial theorem has no connection to probability",
+              "The binomial theorem only applies to expanding algebraic expressions, never to counting outcomes",
               "It can help efficiently calculate the number of ways certain outcomes can occur",
               "Probability calculations never involve expanding expressions"
             ],
@@ -21819,10 +21819,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Plate tectonics describes the movement of ___.",
             "options": [
-              "A concept unrelated to Earth’s structure",
+              "The rotation of Earth's molten outer core alone",
               "Large sections of Earth’s crust",
-              "Only ocean currents, with no connection to the crust",
-              "Only the atmosphere, with no connection to the crust"
+              "The gradual erosion of mountains by wind and rain",
+              "The cyclical flow of the jet stream in the upper atmosphere"
             ],
             "answer": 1
           },
@@ -21832,16 +21832,16 @@ const curriculum: DayContent[] = [
               "Only inorganic minerals",
               "Molecules that contain no carbon at all",
               "Carbon-based molecules",
-              "A category unrelated to chemistry"
+              "Compounds formed exclusively through nuclear reactions"
             ],
             "answer": 2
           },
           {
             "q": "A star’s eventual end stage largely depends on its ___.",
             "options": [
-              "Colour, with no connection to any other factor",
+              "Surface temperature alone, independent of its mass",
               "Distance from Earth only",
-              "A factor unrelated to the star itself",
+              "The star's distance from the galactic center",
               "Original mass"
             ],
             "answer": 3
@@ -21850,7 +21850,7 @@ const curriculum: DayContent[] = [
             "q": "Stoichiometric calculations are based on ___.",
             "options": [
               "Random guesses with no mathematical basis",
-              "A method unrelated to chemical equations",
+              "The physical volume of the container the reaction occurs in",
               "Only the mass of the reactants, with no other consideration",
               "Mole ratios from the balanced equation"
             ],
@@ -21859,9 +21859,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it valuable to review these connected science concepts together at the end of a unit?",
             "options": [
-              "These concepts have no connection to each other",
+              "These topics are tested separately and never actually overlap",
               "Review is never useful at the end of a unit",
-              "Each concept must be understood with no connection to the others",
+              "Physics concepts always take precedence over chemistry ones when they overlap",
               "It reinforces how these scientific ideas relate to and build on one another"
             ],
             "answer": 3
@@ -21888,7 +21888,7 @@ const curriculum: DayContent[] = [
               "At the very end of the sentence",
               "A periodic sentence never actually contains any main point",
               "At the very beginning of the sentence",
-              "A concept unrelated to grammar"
+              "Only when the sentence is written in the passive voice"
             ],
             "answer": 0
           },
@@ -21898,7 +21898,7 @@ const curriculum: DayContent[] = [
               "A cumulative sentence never contains a clear main point",
               "Early in the sentence",
               "Only at the very end of the sentence",
-              "A concept unrelated to cumulative sentences"
+              "Only when the sentence uses a series of rhetorical questions"
             ],
             "answer": 1
           },
@@ -21915,7 +21915,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a writer use a periodic sentence to build suspense before revealing a key idea?",
             "options": [
-              "This concept has no connection to grammar",
+              "Because periodic sentences are required in all formal academic writing",
               "Delaying the main point can create anticipation and emphasize its importance once it is finally revealed",
               "Periodic sentences never create any sense of suspense or anticipation",
               "The main point is always more effective when placed at the very beginning"
@@ -21925,7 +21925,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a writer choose a cumulative sentence structure when providing additional supporting detail after a main point?",
             "options": [
-              "This concept has no connection to grammar",
+              "Because cumulative sentences must always begin with a subordinate clause",
               "The main point in a cumulative sentence is always saved until the very end",
               "Cumulative sentences never add any supporting detail after the main point",
               "It allows the core idea to be established first, then expanded upon with layered, additional description"
@@ -22009,7 +22009,7 @@ const curriculum: DayContent[] = [
               "Only a single item is being arranged",
               "Order matters",
               "Order does not matter at all",
-              "A concept unrelated to counting arrangements"
+              "Only two items are available to be arranged, regardless of order"
             ],
             "answer": 1
           },
@@ -22017,7 +22017,7 @@ const curriculum: DayContent[] = [
             "q": "A combination counts the number of ways items can be selected when ___.",
             "options": [
               "Order does not matter",
-              "A concept unrelated to counting selections",
+              "Every item must be arranged in a specific sequence",
               "Order always matters",
               "No items are actually being selected"
             ],
@@ -22028,7 +22028,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Arranging 3 different trophies in a specific order on a shelf",
               "Selecting 3 students for a committee from a group of 10, with no distinct roles",
-              "A situation unrelated to counting outcomes",
+              "Determining the number of different passwords possible using 4 distinct letters in order",
               "Assigning first, second, and third place in a race"
             ],
             "answer": 1
@@ -22038,7 +22038,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Order never affects which counting method should be used",
               "Permutations and combinations always produce identical results",
-              "This distinction has no relevance to solving counting problems",
+              "Order only matters when the number of items being chosen equals the total available",
               "It determines whether a permutation or combination formula should be used, which can produce very different results"
             ],
             "answer": 3
@@ -22070,15 +22070,15 @@ const curriculum: DayContent[] = [
               "Sound waves causing tiny gas bubbles to collapse rapidly",
               "Light shining directly onto a solid metal surface",
               "A completely silent, unrelated chemical reaction",
-              "A concept unrelated to physics"
+              "A chemical reaction between the liquid and dissolved gases that releases light"
             ],
             "answer": 0
           },
           {
             "q": "Does sonoluminescence involve gas bubbles emitting brief flashes of light?",
             "options": [
-              "A concept unrelated to sonoluminescence",
-              "Gas bubbles have no connection to this phenomenon",
+              "A gradual heating of the entire liquid sample rather than a brief flash",
+              "Light is emitted only from the liquid's surface, not from inside bubbles",
               "No, sonoluminescence never produces any visible light",
               "Yes"
             ],
@@ -22089,8 +22089,8 @@ const curriculum: DayContent[] = [
             "options": [
               "This phenomenon occurs only in a completely dry, gas-free environment",
               "Yes",
-              "A concept unrelated to sonoluminescence",
-              "No, bubble collapse has no connection to sonoluminescence"
+              "It occurs only when the liquid has been frozen into a solid",
+              "No, the light is produced by friction between the sound wave and the container walls"
             ],
             "answer": 1
           },
@@ -22099,7 +22099,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The brief but intense compression of the collapsing bubble can generate temperatures far higher than the surrounding liquid",
               "Sonoluminescence occurs at exactly the same temperature as the surrounding liquid at all times",
-              "This concept has no connection to physics",
+              "The temperatures involved are always lower than room temperature",
               "Bubble collapse never generates any significant increase in temperature"
             ],
             "answer": 0
@@ -22110,7 +22110,7 @@ const curriculum: DayContent[] = [
               "Sonoluminescence provides no useful information about extreme physical conditions",
               "Extreme temperatures and pressures can never be studied using this type of phenomenon",
               "It offers a rare, accessible way to observe extremely high temperatures and pressures within a small, controlled laboratory setting",
-              "This concept has no relevance to physics"
+              "Such extreme conditions can only be studied using large particle accelerators"
             ],
             "answer": 2
           }
@@ -22135,7 +22135,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Alternative worlds or futures",
               "A single unchanging present-day setting",
-              "A concept unrelated to literature",
+              "A literal transcript of a real historical event with no invented elements",
               "Only strictly factual historical events"
             ],
             "answer": 0
@@ -22143,9 +22143,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Can speculative fiction raise ethical questions about the societies an author constructs?",
             "options": [
-              "A concept unrelated to speculative fiction",
+              "Only when the story is explicitly labeled as a fable or parable",
               "No, speculative fiction never raises any ethical questions",
-              "Ethics has no connection to how fictional worlds are built",
+              "Ethical questions arise only in realist fiction, never in speculative or fantastical settings",
               "Yes"
             ],
             "answer": 3
@@ -22155,7 +22155,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Fictional settings always completely disconnect a story from any real-world relevance",
               "A fictional, distanced setting can allow readers to consider difficult issues without the immediate defensiveness a direct discussion might provoke",
-              "This concept has no connection to literature",
+              "Because publishers require speculative fiction to avoid any serious thematic content",
               "Speculative fiction never provides any useful way to explore real-world ethical concerns"
             ],
             "answer": 1
@@ -22174,8 +22174,8 @@ const curriculum: DayContent[] = [
             "q": "Why is examining the ethics of world-building considered valuable when studying speculative fiction critically?",
             "options": [
               "Speculative fiction worlds are always constructed with no underlying assumptions or implications",
-              "The ethics of world-building has no connection to critically studying speculative fiction",
-              "This concept has no relevance to literature",
+              "Because world-building is evaluated only on its internal consistency, never its ethical implications",
+              "Because speculative fiction is studied only for its entertainment value, not its ideas",
               "It encourages readers to consider the implications and assumptions embedded within an author’s imagined world"
             ],
             "answer": 3
@@ -22256,20 +22256,20 @@ const curriculum: DayContent[] = [
           {
             "q": "Polynomial division follows a process similar to ___.",
             "options": [
-              "Simple multiplication with no connection to division",
+              "Factoring, since both break an expression into simpler parts",
               "Long division with numbers",
               "A process that only applies to single-term expressions",
-              "A method entirely unrelated to division"
+              "Finding the greatest common factor of two polynomials"
             ],
             "answer": 1
           },
           {
             "q": "The remainder theorem states that dividing a polynomial by (x - a) gives a remainder equal to ___.",
             "options": [
-              "A concept unrelated to polynomial division",
+              "The quotient's leading coefficient, rather than a function value",
               "The polynomial evaluated at a",
               "Zero, in every possible case",
-              "The value of a alone, with no connection to the polynomial"
+              "Zero, as long as the polynomial has an even degree"
             ],
             "answer": 1
           },
@@ -22278,7 +22278,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The remainder must be a very large number",
               "The division is impossible to carry out",
-              "A conclusion unrelated to the remainder theorem",
+              "The polynomial has a zero at x = -2 instead of x = 2",
               "There is no remainder, meaning (x - 2) is a factor of the polynomial"
             ],
             "answer": 3
@@ -22286,7 +22286,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the remainder theorem a useful shortcut compared to performing full polynomial long division?",
             "options": [
-              "This theorem has no connection to polynomial division",
+              "The remainder theorem only works for polynomials of degree 2 or lower",
               "The remainder theorem never provides a shortcut for finding a remainder",
               "It allows the remainder to be found quickly by substituting a single value, without completing the entire division process",
               "Full long division is always faster than using the remainder theorem"
@@ -22319,7 +22319,7 @@ const curriculum: DayContent[] = [
               "The probability of extraterrestrial civilizations and the lack of confirmed evidence of them",
               "The exact number of planets in our solar system",
               "The distance between Earth and the moon",
-              "A concept unrelated to physics"
+              "The precise chemical composition of Martian soil"
             ],
             "answer": 0
           },
@@ -22327,8 +22327,8 @@ const curriculum: DayContent[] = [
             "q": "Has any confirmed evidence of extraterrestrial civilizations been found, according to the Fermi paradox?",
             "options": [
               "No",
-              "A concept unrelated to the Fermi paradox",
-              "Evidence of extraterrestrial life has no connection to this paradox",
+              "The exact number of exoplanets discovered so far",
+              "Radio signals from other galaxies have already confirmed alien civilizations",
               "Yes, extraterrestrial civilizations have already been definitively confirmed"
             ],
             "answer": 0
@@ -22336,18 +22336,18 @@ const curriculum: DayContent[] = [
           {
             "q": "Does the Fermi paradox consider the vast number of stars and potentially habitable planets in the universe?",
             "options": [
-              "A concept unrelated to the Fermi paradox",
+              "The paradox only considers planets within our own solar system",
               "Yes",
               "The scale of the universe is never considered relevant to this question",
-              "No, the number of stars and planets has no connection to this paradox"
+              "No, the paradox assumes only a handful of stars could ever host life"
             ],
             "answer": 1
           },
           {
             "q": "Why might astrophysical constraints, like the vast distances between stars, help explain the Fermi paradox?",
             "options": [
-              "This concept has no connection to physics",
-              "Distance between stars has no connection to any possible explanation for the Fermi paradox",
+              "The paradox is resolved simply by assuming life has never existed anywhere else",
+              "Interstellar travel is assumed to take only days regardless of distance",
               "Travel between stars is already known to be simple and instantaneous for any civilization",
               "Enormous distances could make travel or communication between civilizations extremely difficult, even if such civilizations exist"
             ],
@@ -22356,10 +22356,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the Fermi paradox considered a valuable topic for connecting physics with broader questions about life in the universe?",
             "options": [
-              "This concept has no relevance to physics",
-              "Questions about extraterrestrial life have no connection to any principle of physics or astronomy",
+              "The paradox is purely a matter of biology with no astrophysical component",
+              "The search for extraterrestrial life relies solely on philosophy, not observation",
               "It combines astrophysical reasoning about the scale of the universe with deep philosophical questions about the likelihood of other civilizations",
-              "The Fermi paradox has no connection to any broader philosophical or scientific question"
+              "The paradox has already been fully resolved and is no longer debated"
             ],
             "answer": 2
           }
@@ -22385,7 +22385,7 @@ const curriculum: DayContent[] = [
               "A textbook’s worth of unrelated facts",
               "Real people and events",
               "Only entirely invented, fantastical worlds",
-              "A concept unrelated to literature"
+              "A strictly chronological record with no fictional elements whatsoever"
             ],
             "answer": 1
           },
@@ -22395,7 +22395,7 @@ const curriculum: DayContent[] = [
               "Only traditional poetic stanzas with strict rhyme",
               "A formal legal contract format",
               "Paragraph form without line breaks",
-              "A concept unrelated to writing"
+              "A form that must always include numbered verse lines"
             ],
             "answer": 2
           },
@@ -22403,7 +22403,7 @@ const curriculum: DayContent[] = [
             "q": "What does ekphrasis describe?",
             "options": [
               "A mathematical proof with no artistic content",
-              "A concept unrelated to literature",
+              "A detailed description of a musical composition's chord progression",
               "A weather pattern occurring in a specific season",
               "A visual artwork"
             ],
@@ -22415,14 +22415,14 @@ const curriculum: DayContent[] = [
               "At the very beginning of the sentence",
               "At the very end of the sentence",
               "A periodic sentence never actually contains any main point",
-              "A concept unrelated to grammar"
+              "Only when the sentence contains no subordinate clauses at all"
             ],
             "answer": 1
           },
           {
             "q": "What does speculative fiction imagine?",
             "options": [
-              "A concept unrelated to literature",
+              "A detailed record of verified scientific experiments",
               "A single unchanging present-day setting",
               "Alternative worlds or futures",
               "Only strictly factual historical events"
@@ -22506,7 +22506,7 @@ const curriculum: DayContent[] = [
             "options": [
               "At a single specific point only",
               "Over an interval",
-              "A concept unrelated to functions",
+              "At a single instant, with no reference to an interval",
               "Only when the quantity remains completely constant"
             ],
             "answer": 1
@@ -22514,9 +22514,9 @@ const curriculum: DayContent[] = [
           {
             "q": "The instantaneous rate of change estimates how a quantity is changing ___.",
             "options": [
-              "A concept unrelated to rates of change",
+              "Across the average of several widely spaced intervals",
               "Over an extremely long, unspecified interval",
-              "Only across the entire domain of the function, with no connection to a specific point",
+              "Over the same fixed interval used for average rate of change, just measured differently",
               "At a single specific point"
             ],
             "answer": 3
@@ -22526,7 +22526,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only the y-coordinate of a single point",
               "The slope of the line connecting those two points",
-              "A method unrelated to average rate of change",
+              "The difference between the two y-coordinates alone, without considering x",
               "The sum of both x-coordinates alone"
             ],
             "answer": 1
@@ -22534,7 +22534,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might the instantaneous rate of change be approximated using very small intervals around a point?",
             "options": [
-              "This method has no connection to estimating instantaneous rate of change",
+              "Smaller intervals only improve accuracy when the function is a straight line",
               "Smaller intervals never improve the accuracy of this type of estimate",
               "Using increasingly smaller intervals can give a closer estimate of the rate of change at that exact point",
               "Instantaneous rate of change can only ever be measured using a very large interval"
@@ -22546,8 +22546,8 @@ const curriculum: DayContent[] = [
             "options": [
               "They introduce the core idea of analyzing how a quantity changes, which calculus builds upon in greater depth",
               "Calculus never involves analyzing rates of change",
-              "This topic has no relevance to higher-level mathematics",
-              "These concepts have no connection to calculus"
+              "These concepts only apply to introductory courses and are never used again later",
+              "Calculus replaces these ideas entirely rather than building upon them"
             ],
             "answer": 0
           }
@@ -22565,9 +22565,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Colligative properties depend primarily on ___.",
             "options": [
-              "The exact identity of the solute alone, with no connection to particle count",
+              "The specific molar mass of the dissolved solute",
               "The specific colour of the solute",
-              "A factor unrelated to dissolved particles",
+              "The temperature at which the solution was originally prepared",
               "The number of dissolved particles in a solution"
             ],
             "answer": 3
@@ -22578,14 +22578,14 @@ const curriculum: DayContent[] = [
               "A property that never changes when a solute is added",
               "A decrease in a solution’s boiling point caused by a dissolved solute",
               "An increase in a solution’s boiling point caused by a dissolved solute",
-              "A concept unrelated to colligative properties"
+              "A change in the solution's color when it is heated"
             ],
             "answer": 2
           },
           {
             "q": "Freezing point depression refers to ___.",
             "options": [
-              "A concept unrelated to colligative properties",
+              "A change in a solution's density at room temperature",
               "An increase in a solution’s freezing point caused by a dissolved solute",
               "A property unaffected by dissolved particles",
               "A decrease in a solution’s freezing point caused by a dissolved solute"
@@ -22596,8 +22596,8 @@ const curriculum: DayContent[] = [
             "q": "Which is a real-world application of freezing point depression?",
             "options": [
               "Boiling water at a consistently higher temperature at high altitude",
-              "Cooling a liquid with no connection to any dissolved substance",
-              "An application unrelated to colligative properties",
+              "Using pure water instead of antifreeze to protect car engines",
+              "Boiling pasta water faster by adding more salt",
               "Spreading salt on icy roads to lower the freezing point of water"
             ],
             "answer": 3
@@ -22608,7 +22608,7 @@ const curriculum: DayContent[] = [
               "Colligative properties provide no information about a solution’s concentration",
               "Measurable changes like boiling or freezing point shifts can be related back to the amount of dissolved particles",
               "Concentration can never be estimated using any physical property",
-              "A reason unrelated to solution chemistry"
+              "Colligative properties can only be measured using a mass spectrometer"
             ],
             "answer": 1
           }
@@ -22632,8 +22632,8 @@ const curriculum: DayContent[] = [
           {
             "q": "A college-style personal essay is centred on ___.",
             "options": [
-              "A concept unrelated to personal reflection",
-              "A fictional story with no connection to the writer",
+              "A hypothetical scenario the writer has never actually experienced",
+              "A biography of a historical figure unconnected to the writer's own life",
               "A meaningful experience or moment of personal growth",
               "A purely factual, impersonal report"
             ],
@@ -22654,7 +22654,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The day my bike broke down miles from home, I learned something about asking for help.",
               "Some things are difficult sometimes.",
-              "A sentence with no connection to a specific challenge.",
+              "Challenges can teach us many valuable lessons in life.",
               "This essay is about a challenge."
             ],
             "answer": 0
@@ -22696,7 +22696,7 @@ const curriculum: DayContent[] = [
               "The polynomial’s graph to its colour when plotted",
               "Only the polynomial’s degree to its number of terms",
               "The polynomial’s coefficients to sums and products of its roots",
-              "A concept unrelated to functions"
+              "The polynomial's number of real roots to the sign of its discriminant alone"
             ],
             "answer": 2
           },
@@ -22733,7 +22733,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is verifying Vieta’s formulas useful as a check after solving a polynomial equation for its roots?",
             "options": [
-              "This concept has no connection to functions",
+              "Vieta's formulas can only verify roots for quadratic equations, never for higher-degree polynomials",
               "It provides an independent numerical check that the found roots are consistent with the original coefficients",
               "Vieta’s formulas can never be used to check any solved polynomial equation",
               "Checking roots against coefficients is never a useful step after solving an equation"
@@ -22767,8 +22767,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Solving a logarithmic equation often involves rewriting it in ___.",
             "options": [
-              "A form unrelated to exponents",
-              "Fraction form with no connection to exponents",
+              "A form involving only addition and subtraction, with no exponents",
+              "Decimal form, by approximating the logarithm numerically first",
               "Exponential form",
               "Linear form only, with no other conversion possible"
             ],
@@ -22777,7 +22777,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A vertical asymptote of a rational function typically occurs where ___.",
             "options": [
-              "A location unrelated to the function’s denominator",
+              "Where the numerator and denominator share a common factor that cancels out",
               "The numerator equals zero",
               "The denominator equals zero",
               "The function crosses the x-axis"
@@ -22787,8 +22787,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Pascal’s triangle can be used to determine the ___.",
             "options": [
-              "A concept unrelated to binomial expansion",
-              "Only the exponents in an expression, with no connection to coefficients",
+              "The exact roots of the corresponding quadratic equation",
+              "The number of terms only, without indicating their coefficients",
               "Exact roots of any polynomial equation",
               "Coefficients used in a binomial expansion"
             ],
@@ -22797,7 +22797,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A permutation counts the number of ways items can be arranged when ___.",
             "options": [
-              "A concept unrelated to counting arrangements",
+              "Only when every item being arranged is identical",
               "Order matters",
               "Only a single item is being arranged",
               "Order does not matter at all"
@@ -22807,8 +22807,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it valuable to review these connected mathematical concepts together?",
             "options": [
-              "These concepts have no connection to each other",
-              "Each concept must be understood with no connection to the others",
+              "Each of these topics belongs to a completely separate branch of mathematics",
+              "These concepts can only be applied in isolation, never combined in a single problem",
               "Review is never useful in math",
               "It reinforces how these skills build on and relate to one another"
             ],
@@ -22830,7 +22830,7 @@ const curriculum: DayContent[] = [
               "The temperature of the surface of the sun",
               "Earth’s motion through a hypothetical medium called the luminiferous ether",
               "The exact mass of a single electron",
-              "A concept unrelated to physics"
+              "The exact chemical composition of distant stars' atmospheres"
             ],
             "answer": 1
           },
@@ -22838,7 +22838,7 @@ const curriculum: DayContent[] = [
             "q": "What was the surprising result of the Michelson-Morley experiment?",
             "options": [
               "No significant difference in the speed of light was detected in any direction (a null result)",
-              "A concept unrelated to the Michelson-Morley experiment",
+              "A consistent variation in light speed matching Earth's orbital direction",
               "A very large difference in the speed of light was detected in every direction tested",
               "The experiment detected sound waves rather than light waves"
             ],
@@ -22847,7 +22847,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What device did Michelson and Morley use to precisely compare the speed of light along two perpendicular paths?",
             "options": [
-              "A concept unrelated to this experiment",
+              "A spectrometer used to analyze the chemical makeup of starlight",
               "A voltmeter",
               "An interferometer",
               "A telescope"
@@ -22858,9 +22858,9 @@ const curriculum: DayContent[] = [
             "q": "Why was the null result of the Michelson-Morley experiment significant for the development of special relativity?",
             "options": [
               "It provided strong experimental support for the idea that the speed of light is constant for all observers, regardless of relative motion",
-              "The null result had no connection to any later development in physics",
+              "Special relativity was developed entirely independently of any experimental evidence",
               "Special relativity was developed with no reference to any experimental result",
-              "This concept has no connection to physics"
+              "The ether was later confirmed to exist through separate experiments"
             ],
             "answer": 0
           },
@@ -22868,7 +22868,7 @@ const curriculum: DayContent[] = [
             "q": "If Earth were moving through a stationary ether, why would scientists have expected light travelling parallel to Earth’s motion to take a measurably different time than light travelling perpendicular to it?",
             "options": [
               "The direction of travel was never expected to have any effect on the measured speed of light",
-              "This concept has no relevance to physics",
+              "The ether was assumed to move along with Earth, eliminating any relative motion",
               "An ether wind would be expected to add to or subtract from light’s speed depending on its direction of travel relative to the ether",
               "Light was assumed to travel at a different constant speed in every possible direction with no underlying reason"
             ],
@@ -22893,7 +22893,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a Künstlerroman a specific subtype of?",
             "options": [
-              "A concept unrelated to literature",
+              "The epistolary novel, told through letters or documents",
               "The annotated bibliography",
               "The bildungsroman, or novel of formation",
               "The prose poem"
@@ -22905,7 +22905,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A nation’s complete political history",
               "A detective’s investigation of a single crime",
-              "A concept unrelated to the Künstlerroman",
+              "A monarch's rise and fall from power",
               "An artist’s growth toward creative and artistic maturity"
             ],
             "answer": 3
@@ -22923,7 +22923,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a Künstlerroman be distinguished from a more general bildungsroman even though both track a protagonist’s development?",
             "options": [
-              "This concept has no connection to literature",
+              "Because a Künstlerroman is always written in verse rather than prose",
               "The bildungsroman and Künstlerroman are always completely identical with no meaningful distinction",
               "A Künstlerroman never focuses on any protagonist’s development in any way",
               "A Künstlerroman specifically centers on the tensions and choices involved in becoming an artist, such as balancing art with social expectation"
@@ -22933,8 +22933,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might tension between an artist-protagonist and their surrounding society be a recurring theme within the Künstlerroman genre?",
             "options": [
-              "This concept has no relevance to literature",
-              "Social expectations have no connection to how an artist’s development is portrayed",
+              "Because artist-protagonists in this genre are always wealthy aristocrats",
+              "Because the genre focuses exclusively on an artist's technical training, not their social conflicts",
               "The artist’s unconventional perspective or ambitions often puts them at odds with more conventional social expectations",
               "Artist-protagonists in this genre are never in any tension with their surrounding society"
             ],
@@ -23143,7 +23143,7 @@ const curriculum: DayContent[] = [
               "A completely unrelated series of disconnected facts",
               "Radical compression and careful implication rather than full explanation",
               "An extremely detailed, chapter-by-chapter plot outline",
-              "A concept unrelated to writing"
+              "A cast of at least a dozen fully developed characters"
             ],
             "answer": 1
           },
@@ -23152,7 +23152,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Often under 1000 words, sometimes far fewer",
               "Exactly 50,000 words with no variation",
-              "A concept unrelated to flash fiction",
+              "Precisely 500 words, never more and never fewer",
               "Always over 100,000 words"
             ],
             "answer": 0
@@ -23161,7 +23161,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a flash fiction writer rely heavily on implication rather than direct explanation of events?",
             "options": [
               "Implication is never used in any short narrative form",
-              "This concept has no connection to writing",
+              "Because implication is a technique reserved exclusively for poetry, not prose",
               "Flash fiction always explains every detail of the story explicitly and at length",
               "Limited space means many details must be suggested rather than fully stated, trusting the reader to infer meaning"
             ],
@@ -23182,7 +23182,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Precision in prose is never developed through practising a short narrative form",
               "Flash fiction never requires any particular precision in a writer’s word choice",
-              "This concept has no relevance to writing",
+              "Because flash fiction is graded only on word count, not on craft",
               "It forces a writer to eliminate anything unnecessary, sharpening word choice and structural economy"
             ],
             "answer": 3
@@ -23201,7 +23201,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does the pigeonhole principle guarantee when more items are placed into containers than there are containers?",
             "options": [
-              "A concept unrelated to discrete math",
+              "Every item will be placed into a unique container with none left over",
               "Every container will always hold exactly one item",
               "At least one container must hold more than one item",
               "No container will ever hold any item at all"
@@ -23214,7 +23214,7 @@ const curriculum: DayContent[] = [
               "At least 13",
               "At least 2",
               "Exactly 12, no more and no fewer",
-              "A concept unrelated to the pigeonhole principle"
+              "At least 12, one for each month represented"
             ],
             "answer": 1
           },
@@ -23231,7 +23231,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In a group of 367 people, why must at least two people share the same birthday, according to the pigeonhole principle?",
             "options": [
-              "This concept has no connection to functions",
+              "This only works if all 367 people were born in the same calendar year",
               "The pigeonhole principle only ever applies to groups smaller than 100 people",
               "367 people can never share any birthday under any circumstances",
               "There are only 366 possible birthdays (including February 29), so with 367 people at least one date must repeat"
@@ -23242,7 +23242,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the pigeonhole principle useful for proving that something must exist, without needing to explicitly construct an example of it?",
             "options": [
               "It shows that a certain outcome is unavoidable purely from counting, even without identifying the specific case that satisfies it",
-              "This concept has no relevance to functions",
+              "It can only be used when the exact object satisfying the condition is already known in advance",
               "The pigeonhole principle can never be used to prove that anything exists",
               "Proving existence always requires explicitly constructing every possible example first"
             ],
@@ -23271,9 +23271,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A probability distribution shows ___.",
             "options": [
-              "The total number of trials conducted, with no connection to outcomes",
+              "The exact outcome that will occur in every single trial",
               "Only the single most likely outcome, with no other information",
-              "A concept unrelated to probability",
+              "Only the total number of possible outcomes, without their individual probabilities",
               "All possible outcomes of an event along with their probabilities"
             ],
             "answer": 3
@@ -23284,7 +23284,7 @@ const curriculum: DayContent[] = [
               "Choosing the outcome with the highest individual probability only",
               "Weighting each possible outcome by its probability and summing the results",
               "Adding all outcomes together with no consideration of probability",
-              "A concept unrelated to probability distributions"
+              "Multiplying all possible outcomes together regardless of their probability"
             ],
             "answer": 1
           },
@@ -23293,7 +23293,7 @@ const curriculum: DayContent[] = [
             "options": [
               "0 dollars",
               "10 dollars",
-              "A value unrelated to this probability distribution",
+              "7.50 dollars, by averaging the two dollar amounts without weighting them",
               "5 dollars"
             ],
             "answer": 3
@@ -23304,14 +23304,14 @@ const curriculum: DayContent[] = [
               "A single trial always matches the calculated expected value exactly",
               "Expected value always guarantees the exact same result every single time",
               "Expected value predicts the average result over many repeated trials, not any one specific outcome",
-              "This concept has no connection to probability"
+              "Expected value only applies to games of chance, not real-world decisions"
             ],
             "answer": 2
           },
           {
             "q": "Why might a business use expected value when deciding whether a risky investment is worthwhile?",
             "options": [
-              "This concept has no connection to evaluating risk",
+              "Expected value only accounts for the best-case scenario, not the full range of outcomes",
               "Expected value has no practical application in business decisions",
               "It helps estimate the average financial outcome across many possible scenarios",
               "Businesses never use probability when making financial decisions"
@@ -23401,7 +23401,7 @@ const curriculum: DayContent[] = [
               "Existing non-poetic text that is rearranged into a poem",
               "A completely original composition with no source material",
               "A musical score with no accompanying words",
-              "A concept unrelated to literature"
+              "A translation of a poem from a language the poet does not speak"
             ],
             "answer": 0
           },
@@ -23409,7 +23409,7 @@ const curriculum: DayContent[] = [
             "q": "What techniques might a poet use to transform found text into a found poem?",
             "options": [
               "Rewriting every single word of the source text from scratch",
-              "A concept unrelated to the found poem",
+              "Adding an entirely new, invented storyline that replaces the source material altogether",
               "Translating the source text into an entirely different, unrelated language",
               "Selective omission and the addition of line breaks to reshape rhythm and emphasis"
             ],
@@ -23431,7 +23431,7 @@ const curriculum: DayContent[] = [
               "Line breaks and structure have no effect on how any text is experienced by a reader",
               "Rearranging a text into a found poem never changes how a reader experiences it",
               "The new line breaks and structure can draw attention to particular words or phrases and highlight unintended ironies or rhythms",
-              "This concept has no connection to literature"
+              "Because legal documents are always rewritten entirely before becoming poems"
             ],
             "answer": 2
           },
@@ -23439,7 +23439,7 @@ const curriculum: DayContent[] = [
             "q": "Why does the found poem tradition raise interesting questions about authorship and originality?",
             "options": [
               "Questions of authorship and originality never arise in relation to any literary form",
-              "This concept has no relevance to literature",
+              "Because found poems are legally required to credit only the original source's author",
               "Found poems are always considered entirely unoriginal with no creative contribution whatsoever",
               "The poet does not invent the words but transforms an existing text’s presentation and context, raising the question of how much of this counts as original creation"
             ],
@@ -23650,7 +23650,7 @@ const curriculum: DayContent[] = [
               "To ensure the audience never thinks critically about the events on stage",
               "To prevent the audience from becoming emotionally absorbed, encouraging critical reflection instead",
               "To make the audience forget entirely that they are watching a performance",
-              "A concept unrelated to drama"
+              "To guarantee that every performance follows an identical, unchanging script"
             ],
             "answer": 1
           },
@@ -23658,7 +23658,7 @@ const curriculum: DayContent[] = [
             "q": "Which theatrical technique might a director use to create a Verfremdungseffekt?",
             "options": [
               "Ensuring the lighting never changes throughout the entire performance",
-              "A concept unrelated to the Verfremdungseffekt",
+              "Using elaborate, realistic sets designed to fully immerse the audience",
               "Hiding the entire stage crew and every technical element from view at all times",
               "Having actors directly address the audience, breaking the illusion of the fourth wall"
             ],
@@ -23667,8 +23667,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Does Brechtian theatre generally aim for the audience to lose themselves emotionally in the story, forgetting they are watching a performance?",
             "options": [
-              "Emotional immersion has no connection to how Brechtian theatre is staged",
-              "A concept unrelated to Brechtian theatre",
+              "Yes, but only during the play's final act",
+              "A concept Brecht borrowed directly and unchanged from Aristotelian tragedy",
               "Yes, complete emotional immersion is the primary goal of Brechtian theatre",
               "No, it deliberately works against this kind of complete emotional immersion"
             ],
@@ -23679,7 +23679,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Maintaining critical distance was intended to keep audiences thinking analytically about the social and political issues being staged, rather than being swept up in emotion alone",
               "Critical distance was never a goal of any theatrical technique Brecht developed",
-              "This concept has no connection to drama",
+              "Because Brecht believed realistic illusion was the only way to teach political lessons",
               "Brecht wanted audiences to be completely unaware that they were watching a performance"
             ],
             "answer": 0
@@ -23688,7 +23688,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the Verfremdungseffekt considered a significant departure from more traditional, immersive theatrical approaches?",
             "options": [
               "Traditional theatrical approaches never attempt to create any kind of illusion for the audience",
-              "This concept has no relevance to drama",
+              "Because it was first developed by ancient Greek tragedians, not by Brecht",
               "The Verfremdungseffekt is identical in every way to traditional, immersive theatrical staging",
               "It intentionally works against theatrical conventions designed to create a convincing illusion, prioritizing intellectual engagement instead"
             ],
@@ -23709,7 +23709,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Problems counting valid arrangements like balanced parentheses or binary tree shapes",
               "Problems involving only simple, one-step addition",
-              "A concept unrelated to discrete math",
+              "Problems counting the number of ways to arrange n distinct objects in a row (ordinary permutations)",
               "Problems that have no possible numerical solution"
             ],
             "answer": 0
@@ -23718,7 +23718,7 @@ const curriculum: DayContent[] = [
             "q": "What is the formula for the nth Catalan number?",
             "options": [
               "The square root of n, rounded to the nearest whole number",
-              "A concept unrelated to Catalan numbers",
+              "n! divided by 2, giving half the total number of permutations",
               "1/(n+1) multiplied by the binomial coefficient (2n choose n)",
               "n multiplied by (n − 1) with no further terms"
             ],
@@ -23747,7 +23747,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do Catalan numbers appear in such a wide variety of seemingly unrelated combinatorial problems?",
             "options": [
-              "This concept has no relevance to functions",
+              "Catalan numbers are simply a renamed version of the Fibonacci sequence",
               "Combinatorial problems never share any underlying mathematical pattern with one another",
               "Many different structures, such as tree shapes, lattice paths, and bracket sequences, share the same underlying recursive counting pattern",
               "Catalan numbers never actually appear in more than a single specific type of counting problem"
@@ -23771,7 +23771,7 @@ const curriculum: DayContent[] = [
               "Order matters",
               "Order does not matter at all",
               "Only one item is available to arrange",
-              "A concept unrelated to counting methods"
+              "Only two items are available to be arranged at a time"
             ],
             "answer": 0
           },
@@ -23781,7 +23781,7 @@ const curriculum: DayContent[] = [
               "Order always matters",
               "Every possible item must be selected",
               "Order does not matter",
-              "A concept unrelated to counting methods"
+              "Items are selected one at a time and then returned before the next selection"
             ],
             "answer": 2
           },
@@ -23790,7 +23790,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A probability distribution",
               "Combination",
-              "A concept unrelated to this scenario",
+              "A permutation, since each student is still a distinct individual",
               "Permutation"
             ],
             "answer": 1
@@ -23799,7 +23799,7 @@ const curriculum: DayContent[] = [
             "q": "Arranging 3 different books in a specific order on a shelf is an example of a ___.",
             "options": [
               "Combination",
-              "A concept unrelated to this scenario",
+              "A combination, since the books are still being chosen from a larger collection",
               "Permutation",
               "An expected value calculation"
             ],
@@ -23808,7 +23808,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does choosing a class president, vice-president, and treasurer from a group of students involve permutations rather than combinations?",
             "options": [
-              "This concept has no connection to permutations or combinations",
+              "Permutations only apply when choosing from a group smaller than the number of positions",
               "The order in which students are assigned to roles never matters",
               "Selecting students for distinct roles is always a combination, never a permutation",
               "Each role is distinct, so the order in which students are assigned to positions matters"
@@ -23895,7 +23895,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does New Journalism apply to factual reporting?",
             "options": [
-              "A concept unrelated to media analysis",
+              "Only the inverted-pyramid structure used in traditional wire reporting",
               "A completely invented, fictional storyline with no factual basis",
               "Literary techniques typically associated with fiction, such as scene construction and extended dialogue",
               "Only strict statistical tables with no accompanying narrative text"
@@ -23908,7 +23908,7 @@ const curriculum: DayContent[] = [
               "Listing only the date and location of an event with no further detail",
               "Citing exclusively official government statistics with no narrative elements",
               "Rendering a subject’s inner thoughts or extended dialogue in a novelistic style",
-              "A concept unrelated to New Journalism"
+              "Including a formal citation list at the end of the article"
             ],
             "answer": 2
           },
@@ -23918,7 +23918,7 @@ const curriculum: DayContent[] = [
               "The 1960s and 1970s",
               "The 1920s and 1930s",
               "The 2010s and 2020s",
-              "A concept unrelated to New Journalism"
+              "The 1980s, during the rise of twenty-four-hour cable news"
             ],
             "answer": 0
           },
@@ -23928,7 +23928,7 @@ const curriculum: DayContent[] = [
               "Its novelistic techniques, like a chosen narrative perspective and selective scene-building, shape the reader’s experience in ways closer to fiction",
               "Narrative perspective and scene-building have no effect on how a reader experiences a nonfiction text",
               "New Journalism pieces are always considered exactly as objective as a traditional wire report",
-              "This concept has no connection to media analysis"
+              "Because New Journalism articles are always fact-checked less rigorously than wire reports"
             ],
             "answer": 0
           },
@@ -23938,7 +23938,7 @@ const curriculum: DayContent[] = [
               "The boundary between fiction and nonfiction has never been a subject of any debate in journalism",
               "New Journalism never used any technique that could be associated with fiction writing",
               "Its heavy use of scene, dialogue, and narrative shaping raised questions about how much creative license a factual account should allow",
-              "This concept has no relevance to media analysis"
+              "Because New Journalism was banned from most major newspapers at the time"
             ],
             "answer": 2
           }
@@ -23958,7 +23958,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Their arithmetic mean is always less than their geometric mean",
               "Their arithmetic mean and geometric mean are never mathematically related in any way",
-              "A concept unrelated to functions",
+              "Their geometric mean is always exactly double their arithmetic mean",
               "Their arithmetic mean is always greater than or equal to their geometric mean"
             ],
             "answer": 3
@@ -23986,7 +23986,7 @@ const curriculum: DayContent[] = [
           {
             "q": "According to AM-GM, when does equality between the arithmetic mean and the geometric mean occur?",
             "options": [
-              "A concept unrelated to the AM-GM inequality",
+              "Only when the numbers being averaged form a geometric sequence with common ratio 2",
               "Only when all the numbers being averaged are equal",
               "Equality never occurs under any circumstances between these two means",
               "Only when all the numbers being averaged are negative"
@@ -23996,7 +23996,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the AM-GM inequality a useful tool for solving optimization problems, such as minimizing x + 1/x for x greater than 0?",
             "options": [
-              "This concept has no relevance to functions",
+              "AM-GM can only be applied when optimizing functions that are already known to be convex",
               "It provides a lower bound for a sum whose product is fixed, achieved when the terms are equal",
               "The AM-GM inequality has no application to any optimization problem",
               "Optimization problems can never make use of any inequality between two averages"
@@ -24144,7 +24144,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does the term palimpsest originally refer to?",
             "options": [
-              "A concept unrelated to literature",
+              "A type of ancient scroll that could never be reused once written on",
               "A brand-new, never-before-used sheet of paper",
               "A manuscript whose original writing was scraped away and reused, though faint traces remain",
               "A digital file that has never been edited"
@@ -24155,7 +24155,7 @@ const curriculum: DayContent[] = [
             "q": "What structural quality defines a palimpsest narrative in literature?",
             "options": [
               "An earlier story or history remains faintly present beneath a newer, overlaid narrative",
-              "A concept unrelated to the palimpsest narrative",
+              "A narrative told entirely in reverse chronological order",
               "Every trace of an earlier story is always completely and permanently erased",
               "The story is told using only a single, isolated timeline with no layering"
             ],
@@ -24176,7 +24176,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A palimpsest structure never has any connection to themes of memory or history",
               "Earlier histories are always completely irrelevant to any present-day narrative",
-              "This concept has no connection to literature",
+              "Because palimpsest structures are required by convention in postcolonial fiction",
               "It can visually and structurally represent how earlier histories continue to shape and show through a present-day narrative, even when suppressed"
             ],
             "answer": 3
@@ -24186,8 +24186,8 @@ const curriculum: DayContent[] = [
             "options": [
               "It captures how a dominant later narrative can partially overwrite an earlier one without ever fully erasing its traces",
               "Postcolonial literature never engages with the idea of layered or overwritten histories",
-              "This concept has no relevance to literature",
-              "The palimpsest metaphor has no relevance to postcolonial literature of any kind"
+              "Because postcolonial literature always rejects any reference to earlier colonial narratives",
+              "The metaphor applies only to European literature, never to postcolonial contexts"
             ],
             "answer": 0
           }
@@ -24266,9 +24266,9 @@ const curriculum: DayContent[] = [
           {
             "q": "The dot product of two vectors produces a ___.",
             "options": [
-              "A new vector, with no connection to a scalar",
-              "A concept unrelated to vectors",
-              "A matrix, with no connection to scalars",
+              "A new vector pointing in the direction of the larger original vector",
+              "The sum of the two vectors' magnitudes only, ignoring direction entirely",
+              "A matrix representing the transformation between the two vectors",
               "Single scalar value"
             ],
             "answer": 3
@@ -24278,7 +24278,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Subtracting corresponding components from one another",
               "Multiplying only the magnitudes of the two vectors, ignoring direction",
-              "A method unrelated to the dot product",
+              "Adding corresponding components together instead of multiplying them",
               "Multiplying corresponding components and summing the results"
             ],
             "answer": 3
@@ -24287,7 +24287,7 @@ const curriculum: DayContent[] = [
             "q": "If the dot product of two non-zero vectors equals zero, the vectors are ___.",
             "options": [
               "Perpendicular to each other",
-              "A relationship unrelated to the dot product",
+              "Equal in magnitude but opposite in direction",
               "Parallel to each other",
               "Identical in both magnitude and direction"
             ],
@@ -24297,9 +24297,9 @@ const curriculum: DayContent[] = [
             "q": "Why can the dot product be used to determine the angle between two vectors?",
             "options": [
               "The dot product formula directly relates the vectors’ magnitudes and the cosine of the angle between them",
-              "A reason unrelated to vector operations",
+              "The dot product only works for vectors of equal magnitude, not any two vectors",
               "The angle between two vectors can never be calculated using any vector operation",
-              "The dot product has no connection to the angle between two vectors"
+              "The angle between two vectors can only be found using the cross product, not the dot product"
             ],
             "answer": 0
           },
@@ -24308,7 +24308,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Work done by a force never involves any relationship between two vectors",
               "The dot product has no real-world applications",
-              "A reason unrelated to vector operations",
+              "Work is calculated by adding the force and displacement vectors together, not multiplying them",
               "It captures how much one vector, like a force, acts in the direction of another, like displacement"
             ],
             "answer": 3
@@ -24394,7 +24394,7 @@ const curriculum: DayContent[] = [
               "Mourning and reflection on death or loss",
               "A set of technical instructions for a household task",
               "A humorous account of an everyday inconvenience",
-              "A concept unrelated to writing"
+              "A celebratory ode composed for a wedding or other joyful occasion"
             ],
             "answer": 0
           },
@@ -24404,7 +24404,7 @@ const curriculum: DayContent[] = [
               "A strict requirement that no emotion of any kind ever be expressed",
               "A movement from grief toward eventual consolation or acceptance",
               "A structure that begins and ends with identical, unchanging language",
-              "A concept unrelated to the elegy"
+              "A fixed requirement of exactly fourteen rhymed lines"
             ],
             "answer": 1
           },
@@ -24421,7 +24421,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a poet writing an elegy include praise for the qualities of the person being mourned?",
             "options": [
-              "This concept has no connection to writing",
+              "Because elegies are legally required to list the deceased's full biography",
               "Celebrating the deceased’s virtues can honour their memory and help articulate the significance of the loss",
               "Praise for the deceased is never included in any traditional elegy",
               "An elegy is required to avoid any positive description of the person being mourned"
@@ -24431,7 +24431,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might the elegy be considered a form that balances deeply personal emotion with a more universal meditation on mortality?",
             "options": [
-              "This concept has no relevance to writing",
+              "Because elegies are always commissioned specifically for public monuments",
               "Mortality is never a subject that an elegy engages with in any way",
               "Elegies are always confined strictly to personal detail with no broader reflection whatsoever",
               "While rooted in a specific loss, elegies often extend into broader reflections on death and the human condition that resonate with any reader"
@@ -24452,7 +24452,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does Descartes’ rule of signs help determine about a polynomial equation?",
             "options": [
-              "A concept unrelated to functions",
+              "The exact number of negative real roots, without needing any substitution",
               "An upper bound on the number of positive real roots, based on sign changes in the coefficients",
               "The exact value of every root of the polynomial",
               "The polynomial’s degree, based on its leading coefficient alone"
@@ -24483,7 +24483,7 @@ const curriculum: DayContent[] = [
             "q": "To find the possible number of negative real roots of p(x), which substitution does Descartes’ rule require?",
             "options": [
               "Set the entire polynomial equal to zero with no further substitution",
-              "A concept unrelated to Descartes’ rule",
+              "Replace x with 1/x and count the resulting sign changes",
               "Replace x with −x and count the sign changes in the resulting polynomial",
               "Replace every coefficient with its absolute value before counting sign changes"
             ],
@@ -24493,7 +24493,7 @@ const curriculum: DayContent[] = [
             "q": "Why is Descartes’ rule of signs useful before attempting to fully solve a higher-degree polynomial equation?",
             "options": [
               "It quickly narrows down how many real roots of each sign to expect, guiding the search for actual solutions",
-              "This concept has no relevance to functions",
+              "It only applies to polynomials of even degree, never odd degree ones",
               "It has no practical use before attempting to solve a polynomial equation",
               "It always determines the exact roots of the polynomial without any further work"
             ],
@@ -24641,7 +24641,7 @@ const curriculum: DayContent[] = [
             "options": [
               "You",
               "They, used exclusively in the plural",
-              "A concept unrelated to literature",
+              "I, used to suggest the narrator and protagonist are the same person",
               "He or she"
             ],
             "answer": 0
@@ -24649,8 +24649,8 @@ const curriculum: DayContent[] = [
           {
             "q": "What effect can second-person narration create by directly addressing you as the protagonist?",
             "options": [
-              "A concept unrelated to second-person narration",
-              "A sense of complete emotional distance with no connection to the reader at all",
+              "A formal, detached tone typical of academic writing",
+              "A comedic effect achieved only in satirical writing",
               "An effect identical in every way to a purely factual, impersonal report",
               "A sense of intimacy or implication, positioning the reader as a participant in the events"
             ],
@@ -24669,7 +24669,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might second-person narration feel unusually immersive or even uncomfortable to some readers compared to first- or third-person narration?",
             "options": [
-              "This concept has no connection to literature",
+              "Because second-person narration was banned from literary fiction until recently",
               "First-, second-, and third-person narration always produce exactly the same effect on a reader",
               "Being directly addressed as the story’s subject can blur the line between the reader’s own identity and that of the narrated character",
               "Second-person narration never creates any sense of immersion for a reader"
@@ -24681,7 +24681,7 @@ const curriculum: DayContent[] = [
             "options": [
               "There is no meaningful stylistic difference between second-person and third-person narration",
               "Second-person narration is the single most common narrative point of view used in fiction",
-              "This concept has no relevance to literature",
+              "Because second-person narration is reserved exclusively for instructional manuals",
               "Sustaining direct address to you across an entire narrative is technically challenging and can feel unconventional, making it a notable stylistic departure"
             ],
             "answer": 3
@@ -24886,7 +24886,7 @@ const curriculum: DayContent[] = [
               "The font and page layout of the printed edition",
               "The binary oppositions and internal contradictions within the text",
               "Only the exact publication date of the text",
-              "A concept unrelated to literary theory"
+              "The author's stated intentions as described in interviews"
             ],
             "answer": 1
           },
@@ -24896,7 +24896,7 @@ const curriculum: DayContent[] = [
               "An extremely detailed, chapter-by-chapter plot outline",
               "A completely unrelated series of disconnected facts",
               "Radical compression and careful implication rather than full explanation",
-              "A concept unrelated to writing"
+              "A minimum requirement of several distinct subplots"
             ],
             "answer": 2
           },
@@ -24904,7 +24904,7 @@ const curriculum: DayContent[] = [
             "q": "What is the primary purpose of the Verfremdungseffekt in Brechtian theatre?",
             "options": [
               "To ensure the audience never thinks critically about the events on stage",
-              "A concept unrelated to drama",
+              "To create a seamless illusion that fully absorbs the audience",
               "To make the audience forget entirely that they are watching a performance",
               "To prevent the audience from becoming emotionally absorbed, encouraging critical reflection instead"
             ],
@@ -24916,14 +24916,14 @@ const curriculum: DayContent[] = [
               "A brand-new, never-before-used sheet of paper",
               "A manuscript whose original writing was scraped away and reused, though faint traces remain",
               "A digital file that has never been edited",
-              "A concept unrelated to literature"
+              "A type of medieval illuminated manuscript cover"
             ],
             "answer": 1
           },
           {
             "q": "What pronoun does second-person narration primarily use to refer to its protagonist?",
             "options": [
-              "A concept unrelated to literature",
+              "We, used to merge narrator and reader into a single collective voice",
               "They, used exclusively in the plural",
               "You",
               "He or she"
@@ -25129,7 +25129,7 @@ const curriculum: DayContent[] = [
             "q": "What does a bildungsroman trace?",
             "options": [
               "The complete history of a fictional nation",
-              "A concept unrelated to writing",
+              "A detective's systematic investigation of an unsolved crime",
               "A detailed scientific report",
               "A young protagonist’s psychological and moral growth from youth to maturity"
             ],
@@ -25138,9 +25138,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Does a bildungsroman typically follow a formative experience or journey?",
             "options": [
-              "A concept unrelated to bildungsroman",
+              "Only when the protagonist travels to a foreign country",
               "No, a bildungsroman never involves any kind of journey or experience",
-              "Formative experiences have no connection to this narrative form",
+              "Formative experiences appear only in autobiographical writing, not in the bildungsroman",
               "Yes"
             ],
             "answer": 3
@@ -25149,7 +25149,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these best describes a bildungsroman’s central protagonist?",
             "options": [
               "A young character who grows and changes significantly over the story",
-              "A concept unrelated to writing",
+              "An omniscient narrator who never appears as a character",
               "A fully mature adult who never changes throughout the story",
               "A minor character with no role in the plot"
             ],
@@ -25161,7 +25161,7 @@ const curriculum: DayContent[] = [
               "Mentor figures never appear in coming-of-age stories",
               "Mentors can provide wisdom or challenges that support the protagonist’s growth and self-discovery",
               "A mentor always prevents a protagonist from growing or changing",
-              "This concept has no connection to writing"
+              "Because mentors are required by publishing convention to die by the story's end"
             ],
             "answer": 1
           },
@@ -25170,7 +25170,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It typically reveals how the character has matured or changed compared to who they were at the beginning",
               "The ending of a bildungsroman never reflects any character growth",
-              "This concept has no relevance to writing",
+              "Because the ending must always reveal the mentor's fate rather than the protagonist's",
               "A bildungsroman’s protagonist is always exactly the same at the end as at the beginning"
             ],
             "answer": 0
@@ -25311,7 +25311,7 @@ const curriculum: DayContent[] = [
               "A stream of liquid water",
               "A beam of alpha particles",
               "A beam of visible light photons",
-              "A concept unrelated to physics"
+              "A beam of high-energy electrons"
             ],
             "answer": 1
           },
@@ -25319,7 +25319,7 @@ const curriculum: DayContent[] = [
             "q": "What was the unexpected observation that led Rutherford to propose the nuclear model of the atom?",
             "options": [
               "A small fraction of alpha particles were deflected at large angles, some almost straight back",
-              "A concept unrelated to this experiment",
+              "The gold foil melted completely on contact with the particle beam",
               "Every single alpha particle passed straight through with absolutely no deflection at all",
               "The gold foil completely absorbed all of the alpha particles"
             ],
@@ -25328,7 +25328,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What did the large-angle scattering of alpha particles indicate about the structure of the atom?",
             "options": [
-              "A concept unrelated to atomic structure",
+              "Atoms are mostly solid matter with positive charge spread evenly throughout",
               "Atoms contain no charged particles of any kind",
               "The atom’s positive charge and most of its mass are concentrated in a tiny, dense nucleus",
               "The atom’s positive charge is spread evenly throughout its entire volume, as in the earlier plum pudding model"
@@ -25341,7 +25341,7 @@ const curriculum: DayContent[] = [
               "A spread-out, weak positive charge could not exert enough concentrated force to strongly deflect a fast-moving alpha particle",
               "The plum pudding model actually predicted large-angle scattering more accurately than the nuclear model",
               "Alpha particles were expected to pass through completely unaffected regardless of the atom’s internal structure",
-              "This concept has no connection to physics"
+              "The plum pudding model was never actually tested against experimental data"
             ],
             "answer": 0
           },
@@ -25349,7 +25349,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the fact that only a small fraction of alpha particles were deflected at large angles consistent with a nucleus occupying a tiny fraction of the atom’s total volume?",
             "options": [
               "Every alpha particle was expected to collide directly with a nucleus, regardless of the nucleus’s size",
-              "This concept has no relevance to physics",
+              "The nucleus occupies almost the entire volume of the atom",
               "Most alpha particles pass through the mostly empty space of the atom, only occasionally coming close enough to the small nucleus to be strongly deflected",
               "The size of the nucleus has no bearing on how many alpha particles are deflected"
             ],
@@ -25373,7 +25373,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which setting is most closely associated with the Gothic novel tradition?",
             "options": [
-              "A concept unrelated to literature",
+              "A bustling, well-lit Renaissance marketplace",
               "A modern, minimalist corporate office building",
               "A crumbling castle or decaying ancestral estate shrouded in atmosphere and mystery",
               "A brightly lit, cheerful suburban shopping mall"
@@ -25383,9 +25383,9 @@ const curriculum: DayContent[] = [
           {
             "q": "What does Freud’s concept of the uncanny describe?",
             "options": [
-              "A purely comedic effect with no connection to fear",
+              "A sense of nostalgic comfort evoked by childhood memories",
               "Something entirely unfamiliar that provokes no emotional response whatsoever",
-              "A concept unrelated to the Gothic novel",
+              "A term describing only architectural features of Gothic buildings",
               "Something strangely familiar that becomes unsettling or frightening precisely because of that familiarity"
             ],
             "answer": 3
@@ -25403,7 +25403,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a Gothic novel use a decaying, labyrinthine setting rather than a familiar, orderly one?",
             "options": [
-              "This concept has no connection to literature",
+              "Because Gothic novels are required to be set in a specific historical century",
               "Setting has no bearing on how a Gothic novel creates its effect on a reader",
               "Gothic novels always use only cheerful, brightly lit settings with no atmosphere of unease",
               "A disorienting, decaying space can mirror characters’ psychological unease and heighten a sense of hidden danger or transgression"
@@ -25413,7 +25413,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the uncanny — the strangely familiar rendered frightening — considered a particularly apt concept for analyzing Gothic fiction?",
             "options": [
-              "This concept has no relevance to literature",
+              "Because Gothic fiction relies only on entirely invented, nonhuman monsters",
               "Gothic fiction never features anything familiar becoming a source of unease",
               "Gothic fiction often destabilizes the ordinary and familiar, such as a family home or a loved one, turning it into a source of dread",
               "The uncanny describes only things that are entirely unfamiliar to a reader, with nothing familiar involved"
@@ -25434,7 +25434,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Always exactly zero, regardless of the polynomial",
               "The polynomial’s leading coefficient, with no reference to a",
-              "A concept unrelated to functions",
+              "The quotient polynomial's constant term, regardless of the value of a",
               "P(a), the value of the polynomial evaluated at x = a"
             ],
             "answer": 3
@@ -25454,7 +25454,7 @@ const curriculum: DayContent[] = [
             "options": [
               "1, 2, 3",
               "1, 0, 3 (giving quotient x² + 3)",
-              "A concept unrelated to synthetic division",
+              "1, −4, −5",
               "1, −2, 3"
             ],
             "answer": 1
@@ -25463,7 +25463,7 @@ const curriculum: DayContent[] = [
             "q": "Why does obtaining a remainder of zero when dividing P(x) by (x − a) tell us that a is a root of P(x)?",
             "options": [
               "A zero remainder means P(a) = 0 by the remainder theorem, which is exactly the definition of a being a root",
-              "This concept has no connection to functions",
+              "A zero remainder only confirms that (x − a) divides evenly, but says nothing about whether P(a) equals zero",
               "A zero remainder never has any connection to whether a is a root of the polynomial",
               "a is only a root if the remainder is a large positive number"
             ],
@@ -25472,7 +25472,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is synthetic division often preferred over long division when dividing a polynomial by a simple linear factor like (x − a)?",
             "options": [
-              "This concept has no relevance to functions",
+              "Synthetic division can only be used when the divisor has a leading coefficient greater than one",
               "It uses only the coefficients in a compact, efficient array, avoiding the more cumbersome bookkeeping of long division",
               "Synthetic division can only be used when dividing by polynomials of degree three or higher",
               "Synthetic division always produces a different, incorrect answer compared to long division"
@@ -25554,7 +25554,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The force of sound waves and the force of light pressure",
               "The electric force from an applied field and the force of gravity acting on the droplet",
-              "A concept unrelated to physics",
+              "The force of air resistance and the force of surface tension",
               "The magnetic force and the force of friction alone"
             ],
             "answer": 1
@@ -25564,7 +25564,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The measured charges varied completely randomly with no discernible pattern whatsoever",
               "Every droplet carried exactly the same, identical amount of charge with no multiples involved",
-              "A concept unrelated to this experiment",
+              "The charge measured depended only on a droplet's size, not on multiples of a base unit",
               "Every measured charge was a whole-number multiple of a single smallest unit of charge"
             ],
             "answer": 3
@@ -25572,7 +25572,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What fundamental physical quantity did the smallest common unit of charge found in Millikan’s experiment correspond to?",
             "options": [
-              "A concept unrelated to the oil drop experiment",
+              "The average mass of an oil droplet used in the trials",
               "The exact mass of a single proton",
               "The elementary charge, the magnitude of the charge on a single electron",
               "The total charge of an entire uncharged atom"
@@ -25585,7 +25585,7 @@ const curriculum: DayContent[] = [
               "A suspended droplet indicates that it has no charge at all",
               "The strength of the electric field has no relationship to whether a droplet remains suspended",
               "At that balance point, the upward electric force exactly equals the downward gravitational force, allowing the droplet’s charge to be calculated from the known field and weight",
-              "This concept has no connection to physics"
+              "A suspended droplet means the electric field has been turned off entirely"
             ],
             "answer": 2
           },
@@ -25593,8 +25593,8 @@ const curriculum: DayContent[] = [
             "q": "Why was the discovery that charge is quantized, always appearing as whole-number multiples of the elementary charge, significant for atomic physics?",
             "options": [
               "It showed that electric charge can take on absolutely any continuous value with no smallest unit",
-              "Quantization of charge has no connection to how atoms are understood to be structured",
-              "This concept has no relevance to physics",
+              "Quantized charge only applies to oil droplets, not to atoms in general",
+              "Charge quantization was later shown to be an experimental artifact, not a real effect",
               "It showed that electric charge is not continuously divisible but comes in discrete fundamental units, informing later models of atomic structure"
             ],
             "answer": 3
@@ -25677,7 +25677,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does a chi-squared goodness-of-fit test compare?",
             "options": [
-              "A concept unrelated to statistics",
+              "The mean and standard deviation of two independent samples",
               "The exact height of two randomly chosen individuals",
               "Observed category counts against the counts expected under a hypothesized distribution",
               "The colour of a graph representing a single data point"
@@ -25690,7 +25690,7 @@ const curriculum: DayContent[] = [
               "The sum of O plus E, across all categories",
               "The sum of (O − E)² divided by E, across all categories",
               "The largest single observed count, with no reference to E",
-              "A concept unrelated to the chi-squared test"
+              "The sum of O divided by E, across all categories, with no squaring"
             ],
             "answer": 1
           },
@@ -25707,7 +25707,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does a large chi-squared statistic suggest that the observed data does not fit the hypothesized distribution well?",
             "options": [
-              "This concept has no connection to statistics",
+              "A large chi-squared statistic only matters when the sample size is below thirty",
               "The size of the chi-squared statistic has no relationship to how well the data fits the hypothesis",
               "A large chi-squared statistic always indicates a perfect match between observed and expected counts",
               "A large statistic means the observed counts deviate substantially from the expected counts across the categories"
@@ -25718,7 +25718,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the chi-squared goodness-of-fit test useful for checking whether a die, coin, or spinner behaves as expected over many trials?",
             "options": [
               "It provides a systematic numerical way to judge whether the difference between observed and expected outcomes is likely due to chance or suggests real bias",
-              "This concept has no relevance to statistics",
+              "It can only be applied to data involving exactly two possible outcomes, like a coin flip",
               "It has no application to testing whether a physical device like a die or coin is fair",
               "Chance variation between observed and expected counts is never something that a statistical test can address"
             ],
@@ -25865,7 +25865,7 @@ const curriculum: DayContent[] = [
               "A single speaker distinct from the poet, adopting a persona rather than expressing the poet’s own direct viewpoint",
               "The poet always speaks in their own unmediated voice, with no separate persona involved",
               "A chorus of multiple, simultaneous speakers with no single dominant voice",
-              "A concept unrelated to literature"
+              "A narrator identical in every belief to the poem's original audience"
             ],
             "answer": 0
           },
@@ -25873,7 +25873,7 @@ const curriculum: DayContent[] = [
             "q": "What role does the silent listener typically play in a dramatic monologue?",
             "options": [
               "A second speaker who alternates lines equally with the first speaker",
-              "A concept unrelated to the dramatic monologue",
+              "A character who later publishes a written rebuttal to the speaker",
               "A narrator who interrupts to comment on the speaker’s words",
               "An implied audience within the poem, addressed by the speaker but never directly heard responding"
             ],
@@ -25883,7 +25883,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a poet use a dramatic monologue to reveal a speaker’s unreliability or flawed self-perception?",
             "options": [
               "What a speaker unintentionally discloses, beyond what they consciously intend to reveal, can expose gaps between their self-image and reality",
-              "This concept has no connection to literature",
+              "Because dramatic monologues are always narrated in the third person",
               "A dramatic monologue can never reveal anything a speaker did not consciously intend to say",
               "Every dramatic monologue speaker is always presented as completely trustworthy and self-aware"
             ],
@@ -25903,7 +25903,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the dramatic monologue considered a distinctive achievement of Victorian poets like Robert Browning?",
             "options": [
               "Victorian poets never experimented with any form involving a distinct speaking persona",
-              "This concept has no relevance to literature",
+              "Because Browning was the first poet to write exclusively in free verse",
               "The dramatic monologue was invented after the Victorian period had already ended",
               "It combined the psychological depth of characterization found in fiction with the compressed, musical form of poetry"
             ],
@@ -25981,7 +25981,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The zeros of a polynomial function are the x-values where the function’s output equals ___.",
             "options": [
-              "A value unrelated to finding zeros",
+              "The function's leading coefficient, not zero",
               "0",
               "1",
               "The function’s leading coefficient"
@@ -25994,17 +25994,17 @@ const curriculum: DayContent[] = [
               "x = 3",
               "x = 0",
               "x = -3",
-              "A value unrelated to this factor"
+              "x = -3, since the sign in the factor is flipped for the zero"
             ],
             "answer": 0
           },
           {
             "q": "The end behaviour of a polynomial function is primarily determined by its ___.",
             "options": [
-              "A concept unrelated to polynomial functions",
+              "Its constant term and the number of real roots it has",
               "Degree and leading coefficient",
-              "Y-intercept only, with no connection to degree",
-              "Constant term only, with no connection to degree"
+              "The sign of its constant term alone, regardless of degree",
+              "The number of terms in the polynomial, regardless of their degree"
             ],
             "answer": 1
           },
@@ -26012,8 +26012,8 @@ const curriculum: DayContent[] = [
             "q": "Why does an even-degree polynomial function with a positive leading coefficient rise on both ends of its graph?",
             "options": [
               "As x approaches positive or negative infinity, an even power always produces a large positive result, multiplied by the positive coefficient",
-              "The leading coefficient has no effect on a polynomial’s end behaviour",
-              "A reason unrelated to end behaviour",
+              "A negative leading coefficient would also cause the polynomial to rise on both ends",
+              "Even-degree polynomials behave identically regardless of their leading coefficient's sign",
               "Even-degree polynomials always fall on both ends of the graph regardless of their leading coefficient"
             ],
             "answer": 0
@@ -26024,7 +26024,7 @@ const curriculum: DayContent[] = [
               "Zeros and factors provide no useful information for graphing a polynomial function",
               "The zeros indicate where the graph crosses or touches the x-axis, helping outline the overall shape of the curve",
               "A polynomial’s graph can never be sketched using its zeros or factors",
-              "A reason unrelated to polynomial functions"
+              "Zeros only reveal information about a polynomial's y-intercept, not its x-intercepts"
             ],
             "answer": 1
           }
@@ -26168,7 +26168,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It eliminates the multiples of each successive prime from a list of integers, leaving only primes remaining",
               "It randomly selects numbers and guesses whether each one is prime",
-              "A concept unrelated to number theory",
+              "It tests each number individually for primality using trial division by every smaller integer",
               "It multiplies every integer in the list by itself"
             ],
             "answer": 0
@@ -26187,7 +26187,7 @@ const curriculum: DayContent[] = [
             "q": "When sieving up to a bound N, why is it sufficient to cross out multiples of primes only up to the square root of N?",
             "options": [
               "Any composite number less than or equal to N must have at least one prime factor no larger than the square root of N",
-              "A concept unrelated to the sieve of Eratosthenes",
+              "Crossing out multiples beyond the square root of N would eliminate every remaining prime as well",
               "Composite numbers below N never have any prime factors smaller than N itself",
               "The square root of N always equals exactly half of N"
             ],
@@ -26199,14 +26199,14 @@ const curriculum: DayContent[] = [
               "As more and larger primes contribute their multiples to be crossed out, an increasingly large share of each successive range of integers gets eliminated",
               "The sieve shows that every single integer past a certain point is always prime with no exceptions",
               "The density of primes has no relationship to how many multiples get crossed out",
-              "This concept has no connection to number theory"
+              "The density of primes increases as numbers grow larger, the opposite of what the sieve shows"
             ],
             "answer": 0
           },
           {
             "q": "Why is the sieve of Eratosthenes considered an efficient method for generating a complete list of small primes, compared to individually testing each number for primality?",
             "options": [
-              "This concept has no relevance to number theory",
+              "The sieve is only efficient for finding primes below 100, and becomes slower than trial division beyond that",
               "Generating a complete list of primes is impossible using any systematic method",
               "It processes an entire range of numbers at once, crossing out many composite numbers simultaneously rather than testing each candidate independently",
               "The sieve is never more efficient than testing each individual number one at a time for primality"
@@ -26226,7 +26226,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A vector is best described as a quantity that has ___.",
             "options": [
-              "A concept unrelated to geometry or algebra",
+              "A fixed starting point only, with no length or orientation",
               "Magnitude only, with no direction",
               "Both magnitude and direction",
               "Direction only, with no magnitude"
@@ -26238,7 +26238,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A single point with no length or orientation",
               "A circle with no defined direction",
-              "A concept unrelated to vectors",
+              "A dashed line with no defined starting or ending point",
               "An arrow, where length indicates magnitude and orientation indicates direction"
             ],
             "answer": 3
@@ -26248,7 +26248,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The temperature of a room",
               "The total mass of an object",
-              "A quantity unrelated to vectors",
+              "The total distance covered by a runner during a race",
               "A car travelling 60 kilometres per hour due north"
             ],
             "answer": 3
@@ -26259,7 +26259,7 @@ const curriculum: DayContent[] = [
               "Velocity and speed are identical concepts with no meaningful difference",
               "Velocity includes both a magnitude (speed) and a specific direction, while speed only describes magnitude",
               "Speed always includes a specific direction, unlike velocity",
-              "This concept has no connection to vectors"
+              "Speed and velocity always have identical numerical values in every situation"
             ],
             "answer": 1
           },
@@ -26268,8 +26268,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Components allow a vector’s magnitude and direction to be broken down and calculated using coordinate geometry",
               "Vectors can only ever be represented graphically, never algebraically",
-              "This concept has no relevance to working with vectors",
-              "Ordered pairs have no connection to representing a vector’s magnitude or direction"
+              "Ordered pairs can only represent a vector's direction, never its magnitude",
+              "Components must always be equal to each other for the ordered pair to be valid"
             ],
             "answer": 0
           }
@@ -26350,7 +26350,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How many lines does a traditional villanelle contain?",
             "options": [
-              "A concept unrelated to literature",
+              "Twenty-six",
               "Thirty-one",
               "Nineteen",
               "Fourteen"
@@ -26363,7 +26363,7 @@ const curriculum: DayContent[] = [
               "A single unrhymed line that never repeats at all",
               "A strict requirement that every line be exactly one word long",
               "Two alternating refrain lines that repeat throughout the poem",
-              "A concept unrelated to the villanelle"
+              "A strict requirement that the poem contain no rhyme at all"
             ],
             "answer": 2
           },
@@ -26373,7 +26373,7 @@ const curriculum: DayContent[] = [
               "They come together as the final two lines, interlocking after having alternated throughout the earlier stanzas",
               "They are entirely omitted from the final stanza",
               "They appear as the very first two lines of the entire poem, and nowhere else",
-              "A concept unrelated to this poetic form"
+              "They are replaced by an entirely new, previously unseen couplet"
             ],
             "answer": 0
           },
@@ -26383,7 +26383,7 @@ const curriculum: DayContent[] = [
               "The recurring lines can mirror a mind circling back to the same thought, deepening emotional resonance with each repetition",
               "The villanelle’s form has no relationship to the themes a poet might choose to explore",
               "Repetition in a villanelle is always intended to feel emotionally flat and meaningless",
-              "This concept has no connection to literature"
+              "Because the villanelle form was invented specifically to depict comic subjects"
             ],
             "answer": 0
           },
@@ -26393,7 +26393,7 @@ const curriculum: DayContent[] = [
               "A villanelle’s length makes it the longest and most flexible of all traditional poetic forms",
               "The villanelle form requires no particular skill because it contains no repeated elements at all",
               "The fixed rhyme scheme and repeated refrains must feel natural and gain new resonance each time, rather than becoming mechanical or forced",
-              "This concept has no relevance to literature"
+              "Because villanelles must be composed entirely without punctuation"
             ],
             "answer": 2
           }
@@ -26412,7 +26412,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It must be equal to zero somewhere on every possible interval",
               "It never takes on any value between f(a) and f(b)",
-              "A concept unrelated to functions",
+              "It guarantees the function is differentiable everywhere on the interval",
               "It takes on every value between f(a) and f(b) at least once somewhere on that interval"
             ],
             "answer": 3
@@ -26423,14 +26423,14 @@ const curriculum: DayContent[] = [
               "There is at least one real root of f(x) somewhere between x = 1 and x = 2",
               "There is no root of f(x) anywhere on this interval",
               "f(x) must remain negative throughout this entire interval",
-              "A concept unrelated to this polynomial"
+              "f(x) must be increasing throughout the entire interval [1, 2]"
             ],
             "answer": 0
           },
           {
             "q": "Why can the Intermediate Value Theorem be applied to any polynomial function on any closed interval [a, b]?",
             "options": [
-              "A concept unrelated to the Intermediate Value Theorem",
+              "The theorem only applies to polynomials whose leading coefficient is positive",
               "Every polynomial function is continuous everywhere, satisfying the theorem’s key requirement",
               "Polynomials are never continuous on any closed interval",
               "The theorem only applies to functions with a degree lower than two"
@@ -26440,7 +26440,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does the Intermediate Value Theorem alone not tell us the exact value of the root it guarantees exists, only that one exists?",
             "options": [
-              "This concept has no connection to functions",
+              "The theorem only fails to give an exact value when the interval is larger than one unit",
               "The theorem is an existence result based on continuity and a sign change, not a formula for computing the root’s precise value",
               "The theorem never actually guarantees the existence of any root under any circumstances",
               "The Intermediate Value Theorem always provides the exact value of every root it identifies"
@@ -26450,9 +26450,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the Intermediate Value Theorem a useful starting point before applying a numerical root-finding method, such as the bisection method, to a polynomial?",
             "options": [
-              "This concept has no relevance to functions",
+              "It guarantees the bisection method will find the root in exactly one step",
               "It confirms that a root genuinely exists within a chosen interval before time is spent narrowing down its approximate location",
-              "It has no relevance to justifying the use of a numerical root-finding method",
+              "It is only useful after a numerical method has already located the approximate root",
               "Numerical root-finding methods never require any confirmation that a root exists beforehand"
             ],
             "answer": 1
@@ -26628,7 +26628,7 @@ const curriculum: DayContent[] = [
               "It is always the main character driving the plot",
               "It only appears in the very last line of a story",
               "It comments on events from outside the main action rather than participating directly",
-              "It has no connection to the story whatsoever"
+              "It replaces the protagonist entirely for the second half of the play"
             ],
             "answer": 2
           },
@@ -26717,7 +26717,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only whole, undivided numbers",
               "Remainders after division",
-              "A concept unrelated to math",
+              "Only prime numbers and their multiples",
               "Only negative numbers"
             ],
             "answer": 1
@@ -26726,8 +26726,8 @@ const curriculum: DayContent[] = [
             "q": "Why is modular arithmetic sometimes called clock arithmetic?",
             "options": [
               "Clocks and modular arithmetic have never been compared to each other",
-              "Modular arithmetic has no connection to clocks or wrapping numbers",
-              "This concept has no connection to math",
+              "Clocks only use modular arithmetic when counting minutes, not hours",
+              "Modular arithmetic applies exclusively to measuring angles, not time",
               "Numbers wrap around after reaching a fixed value, similar to how a clock resets after 12"
             ],
             "answer": 3
@@ -26755,9 +26755,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might modular arithmetic be useful for solving problems involving repeating cycles, like days of the week?",
             "options": [
-              "Days of the week have no connection to modular arithmetic",
+              "Days of the week follow a linear pattern rather than a repeating cycle",
               "It naturally models patterns that repeat after a fixed number of steps",
-              "This concept has no connection to math",
+              "Modular arithmetic can only model cycles with exactly seven steps, like a week",
               "Modular arithmetic never applies to any repeating or cyclical pattern"
             ],
             "answer": 1
@@ -26842,7 +26842,7 @@ const curriculum: DayContent[] = [
               "The material surrounding the main text, such as titles, prefaces, footnotes, and epigraphs",
               "A completely separate work with no relationship to the original text",
               "Only the exact final sentence of the work",
-              "A concept unrelated to literature"
+              "The translator's version of a text published in another language"
             ],
             "answer": 0
           },
@@ -26852,7 +26852,7 @@ const curriculum: DayContent[] = [
               "A footnote that appears at the very end of the entire text",
               "A quotation placed at the opening of a text or chapter that frames the reader’s expectations",
               "The very last line spoken by the protagonist",
-              "A concept unrelated to paratext"
+              "A dedication page naming the people the author wishes to thank"
             ],
             "answer": 1
           },
@@ -26862,7 +26862,7 @@ const curriculum: DayContent[] = [
               "The chosen quotation can hint at central themes or an interpretive lens before the reader even begins the main narrative",
               "An epigraph’s content is required to have no relationship whatsoever to what follows",
               "Epigraphs are always selected completely at random with no thematic connection to the following text",
-              "This concept has no connection to literature"
+              "Because publishers require every novel to open with a quotation from Shakespeare"
             ],
             "answer": 0
           },
@@ -26879,7 +26879,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might scholars argue that paratextual elements, like an epigraph or preface, actively shape a reader’s interpretation rather than existing as neutral, purely decorative additions?",
             "options": [
-              "This concept has no relevance to literature",
+              "Because paratextual elements are added only after a book has gone out of print",
               "A preface or epigraph is always required to be physically removed before a text can be properly interpreted",
               "Paratextual elements are universally agreed to have absolutely no influence on how a reader interprets a text",
               "These framing elements can establish expectations, tone, or thematic emphasis that colour how the reader subsequently approaches the main text"
@@ -27085,7 +27085,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It is competitive and performance-based, emphasizing rhythm, voice, and direct engagement with a live audience",
               "It follows an unchanging, fixed rhyme scheme identical to the sonnet",
-              "A concept unrelated to literature",
+              "Its requirement that every poem rhyme in strict iambic pentameter",
               "It is intended to be read silently and never performed aloud under any circumstances"
             ],
             "answer": 0
@@ -27093,7 +27093,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In the oral poetic tradition that informs slam poetry, what is emphasized alongside the literal words of a poem?",
             "options": [
-              "A concept unrelated to the oral poetic tradition",
+              "The poem's eventual translation into multiple written languages",
               "Only the poem’s exact appearance on a printed page",
               "The specific font used when the poem is eventually published",
               "Sound, rhythm, and delivery, which are treated as central to the poem’s meaning"
@@ -27113,7 +27113,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a slam poet make deliberate choices about vocal pacing, volume, and emphasis that would not be captured by simply reading the poem’s text on a page?",
             "options": [
-              "This concept has no connection to literature",
+              "Because competition rules require poets to recite from a printed page",
               "A poem’s meaning is always completely unaffected by any choices made in its live performance",
               "Performance elements like pacing and emphasis actively shape how the audience experiences meaning and emotion in the moment of delivery",
               "Vocal delivery is considered entirely irrelevant to how a slam poem communicates its meaning"
@@ -27125,7 +27125,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Oral poetic traditions never placed any importance on how a poem was performed aloud",
               "Slam poetry has no meaningful connection to any earlier oral tradition of poetry",
-              "This concept has no relevance to literature",
+              "Because slam poetry competitions were first held in ancient Greece",
               "Like ancient oral poetry, it prioritizes live voice, memory, and immediate audience connection over a poem’s existence as a fixed printed text"
             ],
             "answer": 3
@@ -27146,7 +27146,7 @@ const curriculum: DayContent[] = [
               "It has no proper divisors of any kind other than 1",
               "It is always an odd number with exactly three divisors",
               "The sum of its proper divisors equals the number itself",
-              "A concept unrelated to number theory"
+              "It is always a prime number with exactly two divisors"
             ],
             "answer": 2
           },
@@ -27154,7 +27154,7 @@ const curriculum: DayContent[] = [
             "q": "What are the proper divisors of 6, and what do they sum to, confirming that 6 is a perfect number?",
             "options": [
               "1, 2, 3, and 6, which sum to 12",
-              "A concept unrelated to perfect numbers",
+              "1, 2, 3, and 4, which sum to 10",
               "Only 1 and 6, which sum to 7",
               "1, 2, and 3, which sum to 6"
             ],
@@ -27165,7 +27165,7 @@ const curriculum: DayContent[] = [
             "options": [
               "32, and it is not prime",
               "31, and it is not prime",
-              "A concept unrelated to Mersenne primes",
+              "33, and it is not prime",
               "31, and it is prime"
             ],
             "answer": 3
@@ -27184,7 +27184,7 @@ const curriculum: DayContent[] = [
             "q": "Why does the Euclid-Euler theorem establish such a tight link between even perfect numbers and Mersenne primes?",
             "options": [
               "The Euclid-Euler theorem shows that even perfect numbers have no relationship whatsoever to Mersenne primes",
-              "This concept has no relevance to number theory",
+              "Euclid-Euler theorem applies only to odd perfect numbers, which remain undiscovered",
               "Perfect numbers and Mersenne primes were proven to be completely unrelated concepts",
               "It proves that every even perfect number must arise from a Mersenne prime in this exact form, and conversely that every Mersenne prime generates an even perfect number this way"
             ],
@@ -27266,7 +27266,7 @@ const curriculum: DayContent[] = [
               "The electric field inside the enclosure becomes zero",
               "The electric field inside becomes far stronger than the field outside",
               "The electric field inside remains completely unaffected by the external field",
-              "A concept unrelated to physics"
+              "The magnetic field inside the enclosure becomes far stronger than outside"
             ],
             "answer": 0
           },
@@ -27274,7 +27274,7 @@ const curriculum: DayContent[] = [
             "q": "What allows the free charges within a conductor forming a Faraday cage to cancel an external electric field on the inside?",
             "options": [
               "The free charges redistribute themselves on the conductor’s surface until their own field exactly cancels the external field within the enclosure",
-              "A concept unrelated to the Faraday cage",
+              "The conductor's temperature rises enough to repel the external field",
               "The conductor absorbs and permanently destroys the external electric field",
               "The conductor’s atoms physically rearrange themselves into an entirely different material"
             ],
@@ -27293,7 +27293,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does a Faraday cage need to be made of a conducting material, such as metal, rather than an insulator, to effectively shield its interior?",
             "options": [
-              "This concept has no connection to physics",
+              "Insulators allow charges to move and redistribute just as freely as conductors",
               "Insulating materials are always more effective at shielding electric fields than conductors",
               "The material used has no effect whatsoever on whether shielding occurs",
               "Only a conductor allows free charges to move and redistribute quickly enough to cancel the external field within the enclosure"
@@ -27303,7 +27303,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why can a Faraday cage still provide meaningful shielding even if it is built as a mesh or grid rather than a completely solid, sealed enclosure?",
             "options": [
-              "This concept has no relevance to physics",
+              "A mesh enclosure only shields fields whose gaps are larger than the wavelength involved",
               "Shielding effectiveness has no relationship to the size of any gaps in the enclosure",
               "As long as the gaps in the mesh are small compared to the wavelength of the interfering field, the mesh behaves similarly to a solid conducting surface for shielding purposes",
               "A mesh or grid enclosure never provides any shielding at all, regardless of the size of its gaps"
@@ -27330,7 +27330,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A strict, chronological summary of an entire plot",
               "Only a characters physical actions with no inner thought at all",
-              "A list of unrelated facts with no connection to any character",
+              "A character's exact dialogue transcribed word for word with no interpretation",
               "A characters continuous flow of thoughts and impressions as they occur"
             ],
             "answer": 3
@@ -27391,7 +27391,7 @@ const curriculum: DayContent[] = [
               "It counts only the elements that belong to none of the sets involved",
               "It corrects for elements counted more than once because they belong to more than one set",
               "It ignores every set except for the single largest one",
-              "A concept unrelated to discrete math"
+              "It counts each element in the union exactly as many times as the number of sets it belongs to"
             ],
             "answer": 1
           },
@@ -27400,7 +27400,7 @@ const curriculum: DayContent[] = [
             "options": [
               "|A| × |B|, with no subtraction involved",
               "|A| + |B| + |A ∩ B|",
-              "A concept unrelated to inclusion-exclusion",
+              "|A| + |B| − 2|A ∩ B|",
               "|A| + |B| − |A ∩ B|"
             ],
             "answer": 3
@@ -27419,7 +27419,7 @@ const curriculum: DayContent[] = [
             "q": "Why does simply adding |A| + |B| overcount the number of elements in the union of two overlapping sets A and B?",
             "options": [
               "Elements belonging to both sets get counted once within |A| and again within |B|, so they are counted twice instead of once",
-              "This concept has no connection to discrete math",
+              "Adding |A| + |B| only overcounts when A and B are disjoint sets",
               "Overlapping sets never contain any elements that would be counted more than once",
               "Adding |A| + |B| always undercounts the true size of the union, never overcounts it"
             ],
@@ -27431,7 +27431,7 @@ const curriculum: DayContent[] = [
               "The triple intersection term is always irrelevant and never needs to be included in any inclusion-exclusion calculation",
               "Extending inclusion-exclusion to three sets requires subtracting the triple intersection twice more, not adding it back",
               "Elements belonging to all three sets get subtracted three times during the pairwise-intersection step, so they must be added back once to be counted correctly overall",
-              "This concept has no relevance to discrete math"
+              "The triple intersection should be subtracted a second time, not added back"
             ],
             "answer": 2
           }
@@ -27447,7 +27447,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does the double-angle formula for sine express?",
             "options": [
-              "A concept unrelated to trigonometry",
+              "The sum of sin(x) and cos(x) directly, without any multiplication",
               "The area of a triangle",
               "Only the value of x itself",
               "sin(2x) in terms of sin(x) and cos(x)"
@@ -27469,7 +27469,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Double-angle formulas only apply to angles smaller than 2x",
               "No, double-angle formulas never simplify any expression",
-              "A concept unrelated to trigonometric identities",
+              "Double-angle formulas apply only to cosine, never to sine",
               "Yes"
             ],
             "answer": 3
@@ -27479,7 +27479,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Double-angle formulas never help when solving equations with multiple angle measures",
               "Equations with sin(2x) can never be simplified using any identity",
-              "This concept has no connection to math",
+              "sin(2x) can only be simplified if x is a special angle like 30 or 45 degrees",
               "Rewriting sin(2x) in terms of sin(x) and cos(x) allows the whole equation to be expressed using a single angle"
             ],
             "answer": 3
@@ -27489,7 +27489,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Trigonometric identities have no application outside of pure geometry problems",
               "Calculus and physics never involve any trigonometric expressions",
-              "This concept has no relevance to trigonometry",
+              "Double-angle formulas are only useful for proving identities, not for solving equations",
               "They allow complex trigonometric expressions to be rewritten in simpler, more manageable forms"
             ],
             "answer": 3
@@ -27510,7 +27510,7 @@ const curriculum: DayContent[] = [
               "Swirling loops of induced electric current within the conductor",
               "A type of mechanical wave travelling through the conductor’s surface",
               "A steady, unchanging flow of current in a single straight line",
-              "A concept unrelated to physics"
+              "A permanent magnetic field frozen into the conductor's structure"
             ],
             "answer": 0
           },
@@ -27518,8 +27518,8 @@ const curriculum: DayContent[] = [
             "q": "According to Lenz’s law, in what direction do induced eddy currents flow relative to the change in magnetic flux that produces them?",
             "options": [
               "In a direction that always reinforces and strengthens the change producing them",
-              "A concept unrelated to Lenz’s law",
-              "In a completely random direction unrelated to the change producing them",
+              "In a direction determined solely by the conductor's temperature",
+              "In the same direction as the current that would increase the original flux",
               "In a direction that opposes the change producing them"
             ],
             "answer": 3
@@ -27528,7 +27528,7 @@ const curriculum: DayContent[] = [
             "q": "Why does a strong magnet dropped down a thick copper pipe fall noticeably slower than it would in free fall, even though copper is not magnetic?",
             "options": [
               "The magnet’s changing flux induces eddy currents in the copper, and by Lenz’s law those currents create a magnetic force opposing the magnet’s motion",
-              "A concept unrelated to this scenario",
+              "The copper pipe heats up and expands, physically gripping the magnet",
               "Copper is actually magnetic and directly attracts the falling magnet, slowing it down",
               "The magnet’s speed has no relationship to any electric current induced within the pipe"
             ],
@@ -27537,7 +27537,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do many high-speed trains and roller coasters use eddy current brakes instead of relying solely on traditional friction brakes?",
             "options": [
-              "This concept has no connection to physics",
+              "Eddy current brakes work by pressing brake pads directly against a rotor",
               "Eddy current brakes function by directly attracting the vehicle backward using a permanent, unchanging magnetic force",
               "Eddy current braking is contactless, reducing mechanical wear while still converting kinetic energy into heat through induced currents opposing motion",
               "Eddy current braking requires direct physical contact and causes more wear than a friction brake"
@@ -27550,7 +27550,7 @@ const curriculum: DayContent[] = [
               "Lamination breaks up the paths available for eddy currents to circulate, reducing the energy wasted as heat within the core",
               "Lamination is used purely to reduce the transformer’s overall weight, with no effect on eddy currents",
               "A solid metal core always produces fewer eddy currents than a laminated one",
-              "This concept has no relevance to physics"
+              "Lamination increases the core's magnetic permeability, with no effect on eddy currents"
             ],
             "answer": 0
           }
@@ -27584,7 +27584,7 @@ const curriculum: DayContent[] = [
             "options": [
               "An unrelated list of personal hobbies",
               "The final answer before any research occurs",
-              "A summary of an entirely unrelated topic",
+              "A detailed bibliography with no accompanying explanation of its purpose",
               "A specific, focused research question"
             ],
             "answer": 3
@@ -27692,7 +27692,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In the composition f(g(x)), which function is evaluated first?",
             "options": [
-              "A concept unrelated to function composition",
+              "Both functions are evaluated at the exact same time, simultaneously",
               "f(x)",
               "g(x)",
               "Neither function is ever evaluated"
@@ -27714,7 +27714,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes",
               "Composition always adds the two functions together instead",
-              "A concept unrelated to function composition",
+              "Composition always multiplies the outputs of the two functions together",
               "No, function composition never uses one function’s output as another’s input"
             ],
             "answer": 0
@@ -27723,7 +27723,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the order of functions important when evaluating a composition like f(g(x))?",
             "options": [
               "f(g(x)) and g(f(x)) always produce exactly the same result",
-              "This concept has no connection to math",
+              "f(g(x)) and g(f(x)) differ only when the functions involved are trigonometric",
               "The order of functions never affects the result of a composition",
               "Changing the order can produce a completely different result, since g(x) is evaluated before applying f"
             ],
@@ -27733,7 +27733,7 @@ const curriculum: DayContent[] = [
             "q": "Why might function composition be useful for modelling a real-world process with multiple sequential steps, such as a discount followed by a tax?",
             "options": [
               "Function composition has no application to modelling multi-step real-world processes",
-              "This concept has no connection to functions",
+              "Function composition can only model two-step processes, never more",
               "Each function can represent one step, and composing them models applying the steps in the correct sequential order",
               "Multi-step processes can never be represented using function composition"
             ],
@@ -27781,7 +27781,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why was the Davisson-Germer experiment significant for quantum physics?",
             "options": [
-              "It had no connection to quantum theory",
+              "It confirmed that electrons always travel along fixed, well-defined trajectories",
               "It showed that electrons behave purely as classical particles with no wave nature",
               "It provided direct experimental confirmation that particles can behave like waves",
               "It disproved the existence of electrons entirely"
@@ -27846,7 +27846,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a New Critic focus so closely on the words of a text itself?",
             "options": [
-              "Because words in a text have no connection to meaning",
+              "Because a text's meaning depends entirely on the author's biography",
               "To understand meaning as something built directly within the language of the work",
               "To avoid reading the text at all",
               "Because close reading is considered unnecessary in literary study"
@@ -27938,7 +27938,7 @@ const curriculum: DayContent[] = [
               "Always assuming the answer is zero",
               "Ignoring the exponents completely",
               "Matching bases and setting the exponents equal",
-              "A concept unrelated to exponential equations"
+              "Taking the square root of both sides of the equation"
             ],
             "answer": 2
           },
@@ -27958,14 +27958,14 @@ const curriculum: DayContent[] = [
               "Rewriting it in exponential form",
               "Ignoring the logarithm entirely",
               "Always assuming x equals one",
-              "A concept unrelated to logarithmic equations"
+              "Squaring both sides of the equation before solving"
             ],
             "answer": 0
           },
           {
             "q": "Why might applying a logarithm to both sides of an exponential equation be useful when the bases cannot easily be matched?",
             "options": [
-              "This concept has no connection to math",
+              "Applying a logarithm only works when the exponent is already a whole number",
               "Applying a logarithm never helps solve an exponential equation",
               "Logarithms allow the variable exponent to be brought down and solved using regular algebraic steps",
               "Exponential equations can only ever be solved by guessing and checking"
@@ -27975,7 +27975,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is checking a solution important after solving a logarithmic equation?",
             "options": [
-              "This concept has no connection to logarithms",
+              "Checking is only necessary when the equation contains more than one logarithm term",
               "Every possible numerical solution is always valid for a logarithmic equation",
               "Logarithms are undefined for zero or negative values, so a solution must be checked to ensure it is valid",
               "Solutions to logarithmic equations never need to be checked for validity"
@@ -28327,7 +28327,7 @@ const curriculum: DayContent[] = [
             "q": "What effect does meter give to a poem?",
             "options": [
               "It only affects the poems visual appearance on a page",
-              "It has no effect on how the poem sounds",
+              "A strictly visual pattern with no audible effect when read aloud",
               "An underlying musical or rhythmic structure",
               "It removes any sense of rhythm entirely"
             ],
@@ -28570,7 +28570,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How does the sublime differ from simple beauty in Romantic aesthetics?",
             "options": [
-              "The sublime has no connection to emotion at all",
+              "The sublime refers exclusively to religious or spiritual experiences",
               "The sublime combines beauty with an overwhelming or even terrifying vastness",
               "The sublime refers only to small, delicate objects",
               "The sublime is identical to simple beauty with no distinction"
@@ -28670,7 +28670,7 @@ const curriculum: DayContent[] = [
             "q": "What do sum and difference identities express?",
             "options": [
               "Only the value of a single angle",
-              "A concept unrelated to trigonometry",
+              "The product of two trigonometric functions evaluated separately",
               "Trigonometric functions of the sum or difference of two angles",
               "The area of a triangle"
             ],
@@ -28689,7 +28689,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Can sum and difference identities help evaluate the exact trigonometric value of an angle like 75 degrees, using 45 and 30 degrees?",
             "options": [
-              "A concept unrelated to sum and difference identities",
+              "Only if 75 degrees is first converted into radians before applying any formula",
               "Yes",
               "Only a calculator can ever find such a value, with no formula available",
               "No, sum and difference identities never help evaluate exact trigonometric values"
@@ -28701,7 +28701,7 @@ const curriculum: DayContent[] = [
             "options": [
               "These identities never help simplify equations involving uncommon angles",
               "They allow an uncommon angle to be rewritten as a sum or difference of angles with known exact trigonometric values",
-              "This concept has no connection to math",
+              "These identities only work for angles measured in degrees, not radians",
               "Every angle already has a memorized exact trigonometric value without needing any identity"
             ],
             "answer": 1
@@ -28709,9 +28709,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why are sum and difference identities considered a foundation for deriving other identities, such as the double-angle formulas?",
             "options": [
-              "Double-angle formulas were developed with no connection to any other identity",
+              "Double-angle formulas were derived from scratch using only the Pythagorean identity, long before sum and difference identities were known",
               "Sum and difference identities have no mathematical connection to double-angle formulas",
-              "This concept has no relevance to trigonometry",
+              "Sum and difference identities only apply when angles are measured in degrees, never radians",
               "Setting the two angles equal to each other in a sum identity directly produces the corresponding double-angle formula"
             ],
             "answer": 3
@@ -28915,7 +28915,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A relationship between two unrelated variables",
               "The average of a single continuous measurement",
-              "A concept unrelated to probability",
+              "The probability that two completely independent, unconnected events both occur at once",
               "The number of successes in a fixed number of independent trials"
             ],
             "answer": 3
@@ -28926,7 +28926,7 @@ const curriculum: DayContent[] = [
               "No, each trial’s probability of success is always different",
               "Probability of success never applies to a binomial trial",
               "Yes",
-              "A concept unrelated to binomial distributions"
+              "No, the probability of success only needs to match on the very first and very last trial"
             ],
             "answer": 2
           },
@@ -28934,7 +28934,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these is a classic example of a binomial experiment?",
             "options": [
               "Flipping a fair coin 10 times and counting the number of heads",
-              "A concept unrelated to binomial distributions",
+              "Drawing cards one at a time from a deck without replacement until a particular card is drawn",
               "Measuring the exact height of every student in a class",
               "Recording the colour of a single object one time only"
             ],
@@ -28944,8 +28944,8 @@ const curriculum: DayContent[] = [
             "q": "Why must the trials in a binomial distribution be independent of one another?",
             "options": [
               "Independence ensures the outcome of one trial does not change the probability of success on another trial, keeping the model accurate",
-              "This concept has no connection to math",
-              "Independence between trials has no effect on whether a binomial model applies",
+              "Independence only matters once the number of trials exceeds thirty",
+              "Trials count as independent as long as they are all carried out on the same day",
               "A binomial distribution can be applied even when one trial always determines the outcome of the next"
             ],
             "answer": 0
@@ -28954,7 +28954,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the binomial distribution useful for quality control, such as estimating the number of defective items in a batch?",
             "options": [
               "The binomial distribution has no application to quality control processes",
-              "This concept has no relevance to probability",
+              "It only works when the defect rate is exactly fifty percent, since that maximizes the variance",
               "Defect rates can never be modelled using any probability distribution",
               "It allows a company to estimate the probability of a certain number of defects, given a known defect rate and sample size"
             ],
@@ -29314,7 +29314,7 @@ const curriculum: DayContent[] = [
             "options": [
               "These narratives are considered entirely irrelevant to literary study",
               "They can offer authentic perspectives often missing from mainstream portrayals",
-              "Authorship has no connection to how disability is represented",
+              "Authorship matters only when the author has received formal literary training",
               "Disabled authors are never interested in writing about disability"
             ],
             "answer": 1
@@ -29323,7 +29323,7 @@ const curriculum: DayContent[] = [
             "q": "Disability studies in literature connects to broader questions of ___.",
             "options": [
               "Representation, identity, and social inclusion",
-              "Only unrelated topics in mathematics",
+              "Only the technical classification of medical diagnoses",
               "Only historical weather patterns",
               "Only the physical construction of buildings"
             ],
@@ -29405,14 +29405,14 @@ const curriculum: DayContent[] = [
               "Its instantaneous rate of change",
               "The total area under its graph",
               "The exact value of the function at x equals zero only",
-              "A concept unrelated to calculus"
+              "The slope of the line connecting the first and last points on the graph"
             ],
             "answer": 0
           },
           {
             "q": "According to the power rule, what is the derivative of x cubed?",
             "options": [
-              "A concept unrelated to the power rule",
+              "3x to the fourth power",
               "3x squared",
               "3x",
               "x squared"
@@ -29422,9 +29422,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Does the power rule provide a shortcut for finding derivatives of functions like x to the power of n?",
             "options": [
-              "No, the power rule has no connection to finding derivatives",
+              "No, the power rule only works for polynomials with an even degree",
               "The power rule only applies to functions with no exponents at all",
-              "A concept unrelated to derivatives",
+              "Yes, but only when the exponent n is negative",
               "Yes"
             ],
             "answer": 3
@@ -29433,9 +29433,9 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding instantaneous rate of change useful for describing the speed of a moving object at a single exact moment?",
             "options": [
               "The derivative gives the exact rate of change at one instant, unlike an average rate calculated over an interval of time",
-              "This concept has no connection to math",
+              "Average rate of change already accounts for the function's behaviour at every instant in the interval",
               "Average rate of change and instantaneous rate of change always give identical results",
-              "Instantaneous rate of change has no connection to describing the motion of an object"
+              "Instantaneous rate of change only applies to objects moving in a straight line at constant speed"
             ],
             "answer": 0
           },
@@ -29444,7 +29444,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The power rule has no practical use in later calculus topics",
               "Polynomial functions can never be differentiated using any consistent rule",
-              "This concept has no relevance to calculus",
+              "It only works for polynomials of degree two or lower",
               "It provides an efficient, reliable method for differentiating a wide range of polynomial functions used throughout calculus"
             ],
             "answer": 3
@@ -29649,7 +29649,7 @@ const curriculum: DayContent[] = [
               "The exact sum of the two original vectors",
               "A new vector perpendicular to both original vectors",
               "A single scalar number with no direction",
-              "A concept unrelated to vectors"
+              "A new vector that lies in the same plane as both original vectors"
             ],
             "answer": 1
           },
@@ -29657,7 +29657,7 @@ const curriculum: DayContent[] = [
             "q": "Does the cross product apply to two-dimensional or three-dimensional vectors?",
             "options": [
               "Only vectors with a magnitude of exactly one",
-              "A concept unrelated to cross products",
+              "Only vectors expressed using polar coordinates",
               "Only zero-dimensional points",
               "Three-dimensional vectors"
             ],
@@ -29669,14 +29669,14 @@ const curriculum: DayContent[] = [
               "No, the magnitude of the cross product has no geometric meaning at all",
               "The cross product is always exactly zero regardless of the vectors used",
               "Yes",
-              "A concept unrelated to the cross product"
+              "No, the magnitude of the cross product equals the perimeter of the parallelogram, not its area"
             ],
             "answer": 2
           },
           {
             "q": "Why is the cross product useful for finding a vector that is perpendicular to a surface defined by two other vectors?",
             "options": [
-              "This concept has no connection to math",
+              "The cross product produces a vector that lies within the surface itself rather than perpendicular to it",
               "The cross product never produces a vector that is perpendicular to anything",
               "Perpendicular vectors can never be found using vector operations",
               "Since the cross product is always perpendicular to both input vectors, it directly identifies a normal direction to that surface"
@@ -29686,7 +29686,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might the cross product be a useful tool in physics for calculating torque, given a force applied at a distance from a pivot point?",
             "options": [
-              "This concept has no relevance to vectors",
+              "Torque can be found by simply adding the force vector and the position vector together",
               "Torque can never be calculated using any vector operation",
               "The cross product has no application to calculating torque in physics",
               "Torque depends on both the magnitude of the force and its perpendicular relationship to the position vector, which the cross product captures"
@@ -29870,7 +29870,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which best describes how average rate of change relates to a polynomial's degree?",
             "options": [
-              "Average rate of change is unrelated to degree",
+              "Average rate of change always equals the polynomial's leading coefficient, regardless of degree",
               "For a degree-n polynomial, the average rate of change over unit intervals behaves like a degree-(n-1) polynomial in x",
               "Average rate of change is always degree n",
               "Average rate of change is always constant regardless of degree"
@@ -30135,7 +30135,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A type of algebraic expression with no geometric meaning",
               "Only straight lines drawn on a graph",
-              "A concept unrelated to geometry",
+              "Only shapes formed by slicing a cylinder, never a cone",
               "Curves formed by slicing a cone, including circles, ellipses, parabolas, and hyperbolas"
             ],
             "answer": 3
@@ -30143,10 +30143,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a sample in statistics?",
             "options": [
-              "A single number with no connection to a population",
+              "The average value calculated from an entire population",
               "The entire population being studied",
               "A subset of a population used to make inferences about the whole",
-              "A concept unrelated to statistics"
+              "A graphical display that can only be used for categorical data"
             ],
             "answer": 2
           },
@@ -30156,7 +30156,7 @@ const curriculum: DayContent[] = [
               "The exact value of the function at x equals zero only",
               "Its instantaneous rate of change",
               "The total area under its graph",
-              "A concept unrelated to calculus"
+              "The total displacement of an object over a fixed time interval"
             ],
             "answer": 1
           },
@@ -30164,7 +30164,7 @@ const curriculum: DayContent[] = [
             "q": "What does the cross product of two vectors produce?",
             "options": [
               "A new vector perpendicular to both original vectors",
-              "A concept unrelated to vectors",
+              "A scalar quantity representing the angle between the two vectors",
               "A single scalar number with no direction",
               "The exact sum of the two original vectors"
             ],
@@ -30176,7 +30176,7 @@ const curriculum: DayContent[] = [
               "Numbers wrapping around after reaching a fixed value called the modulus",
               "A system with no repeating pattern at all",
               "Numbers that always increase without any limit",
-              "A concept unrelated to number theory"
+              "A system where every number is rounded to the nearest multiple of ten"
             ],
             "answer": 0
           }
@@ -30632,7 +30632,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They only apply to whole numbers",
               "They are used to formally define the derivative",
-              "They have no connection to any other calculus concept",
+              "Limits are only used to test continuity and play no role in defining the derivative",
               "They eliminate the need to study functions"
             ],
             "answer": 1
@@ -30651,7 +30651,7 @@ const curriculum: DayContent[] = [
             "q": "Can a limit exist at a point even if the function is undefined there?",
             "options": [
               "Yes, a limit can exist even if the function itself is undefined at that point",
-              "Limits are unrelated to function values",
+              "A limit can only exist if it is computed using L'Hopital's rule",
               "No, a limit only exists where the function is defined",
               "Limits never exist for undefined functions under any circumstance"
             ],
@@ -31254,7 +31254,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How does Kabuki differ from Noh in its general style?",
             "options": [
-              "Kabuki has no connection to Japanese performance tradition",
+              "Kabuki relies on masked performers exclusively, as Noh does",
               "Kabuki and Noh are identical in every respect",
               "Kabuki rejects the use of any makeup or costume",
               "Kabuki favours bold makeup, dynamic staging, and broader popular appeal"
@@ -31722,7 +31722,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What distinguishes video game narrative from traditional linear storytelling?",
             "options": [
-              "Player choice has no effect on interactive narrative",
+              "A fixed ending that remains the same no matter what the player does",
               "Video game narrative never involves any storytelling at all",
               "Player choice and interactivity can shape how the story unfolds",
               "Video games are identical in structure to printed novels"
@@ -31733,7 +31733,7 @@ const curriculum: DayContent[] = [
             "q": "What is branching structure in interactive storytelling?",
             "options": [
               "A narrative design where different choices lead to different story paths",
-              "A term unrelated to interactive media",
+              "A structure in which every choice eventually leads back to the same single ending",
               "A structure used only in poetry, never in games",
               "A narrative that always follows exactly one fixed path"
             ],
@@ -32837,7 +32837,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the derivative considered a foundational concept in calculus?",
             "options": [
-              "It has no connection to any other mathematical concept",
+              "It is only used to calculate the area under a curve",
               "It only applies to whole numbers",
               "It provides a way to analyze how functions change at any given instant",
               "It eliminates the need to study functions"
@@ -32974,7 +32974,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The events are shaped and simplified specifically to illustrate the lesson clearly",
               "A fable never states or implies a moral",
-              "The moral has no connection to the events of the story",
+              "The moral is added by editors only after the fable has been published",
               "The events always contradict the stated moral"
             ],
             "answer": 0
@@ -33188,7 +33188,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The grand style and conventions of classical epic poetry",
               "A completely plain, unadorned style with no formal elements",
-              "A style with no connection to poetry at all",
+              "A style borrowed directly from courtroom legal argument",
               "A strictly factual, journalistic style"
             ],
             "answer": 0
@@ -33473,7 +33473,7 @@ const curriculum: DayContent[] = [
               "Silent, unstaged private reading only",
               "Strict, invisible fourth-wall realism with no self-awareness",
               "The Theatre of Cruelty and other avant-garde staging traditions",
-              "A tradition with no connection to performance at all"
+              "Kitchen sink realism, with its emphasis on domestic authenticity"
             ],
             "answer": 2
           }
@@ -33677,7 +33677,7 @@ const curriculum: DayContent[] = [
               "Purely historical events with no relation to the environment",
               "Only the technical science of weather forecasting",
               "The human and social consequences of environmental change",
-              "A world with no connection to climate at all"
+              "A purely fantastical world governed by magic rather than natural law"
             ],
             "answer": 2
           },
@@ -33697,7 +33697,7 @@ const curriculum: DayContent[] = [
               "Exclusively themes of ancient mythology",
               "Only comedic misunderstandings between characters",
               "Loss, adaptation, and responsibility in the face of environmental change",
-              "Themes entirely unrelated to the environment"
+              "Themes centered entirely on technological innovation in medicine"
             ],
             "answer": 2
           },
@@ -33887,7 +33887,7 @@ const curriculum: DayContent[] = [
               "acts parallel to the velocity, increasing speed",
               "acts perpendicular to the velocity, changing only direction",
               "acts opposite to velocity, slowing the particle",
-              "has no effect on the particle's path"
+              "acts parallel to the magnetic field, producing no deflection"
             ],
             "answer": 1
           },
@@ -33961,7 +33961,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Travel writing is considered purely fictional",
               "It shares techniques of narrative and reflection with forms such as the personal essay and documentary",
-              "Travel writing has no connection to any other nonfiction form",
+              "Travel writing is studied only for its usefulness as a tourism guide",
               "Nonfiction forms cannot be meaningfully compared"
             ],
             "answer": 1
@@ -34255,7 +34255,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The number of possible pairs of people grows much faster than the number of people itself",
               "Only exact matches of triplets are ever counted",
-              "Group size has no effect on the number of possible pairs",
+              "The number of possible pairs grows at exactly the same rate as the number of people",
               "The number of possible pairs grows more slowly than the number of people"
             ],
             "answer": 0
@@ -34264,7 +34264,7 @@ const curriculum: DayContent[] = [
             "q": "How does the birthday problem relate to the broader study of probability and counting in this course?",
             "options": [
               "It applies combinatorial counting of pairs to a surprising, easily testable probability question",
-              "It has no connection to combinatorics or counting",
+              "It belongs to calculus rather than to combinatorics or probability",
               "It is purely a geography question with no mathematics",
               "It contradicts the basic principles of probability"
             ],
@@ -34596,7 +34596,7 @@ const curriculum: DayContent[] = [
           {
             "q": "According to special relativity, how does a satellites high orbital speed affect its clock compared to a clock on Earths surface?",
             "options": [
-              "Speed has no effect on a clocks rate according to special relativity",
+              "Speed causes a clock to run faster, not slower, according to special relativity",
               "The satellites clock runs faster due to its speed alone",
               "The satellites clock stops completely due to its speed",
               "The satellites clock runs slower due to time dilation from its speed"
@@ -34609,7 +34609,7 @@ const curriculum: DayContent[] = [
               "The satellites clock runs slower due to the weaker gravitational field",
               "Gravity only affects the colour of light, never the rate of a clock",
               "The satellites clock runs faster than a clock deeper in Earths gravitational field",
-              "The weaker gravitational field has no effect on clock rate"
+              "A weaker gravitational field causes a clock to run slower, matching the speed effect"
             ],
             "answer": 2
           },
@@ -35392,7 +35392,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What convention often closes a golden age detective novel?",
             "options": [
-              "A chapter with no connection to the mystery at all",
+              "A courtroom trial scene depicting the culprit's eventual sentencing",
               "A formal revelation scene that identifies the culprit",
               "An ending that leaves the crime permanently unexplained",
               "A scene describing only the weather"
@@ -35405,7 +35405,7 @@ const curriculum: DayContent[] = [
               "Be made available to the reader before the solution is revealed",
               "Be invented only in the final chapter",
               "Remain hidden from the reader until after the story ends",
-              "Have no connection to the eventual solution"
+              "Point toward a culprit different from the one eventually revealed"
             ],
             "answer": 0
           },
@@ -35573,7 +35573,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The angle must be measured from a less dense to a denser medium",
               "The angle of incidence must be exactly zero degrees",
-              "The angle of incidence has no effect on the outcome",
+              "The angle of incidence must be less than the critical angle",
               "The angle of incidence must be greater than the critical angle"
             ],
             "answer": 3
@@ -35581,7 +35581,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What technology exploits total internal reflection to transmit signals over long distances?",
             "options": [
-              "A device with no connection to light at all",
+              "Conventional coaxial copper cables",
               "Fiber-optic cables",
               "A simple glass window with no coating",
               "Ordinary copper telephone wire"
@@ -35726,7 +35726,7 @@ const curriculum: DayContent[] = [
             "q": "Why is Boolean algebra considered foundational to modern computing?",
             "options": [
               "It only applies to purely abstract, unused mathematics",
-              "It has no connection to computers or digital devices",
+              "It is used only in designing analog circuits, not digital ones",
               "It was replaced entirely by a different number system in modern computers",
               "It underlies the design of digital circuits and the logic gates used inside computers"
             ],
@@ -35765,7 +35765,7 @@ const curriculum: DayContent[] = [
             "q": "Can a function have a limit at a point even if it is undefined at that exact point?",
             "options": [
               "Yes, a limit can exist even if the function itself is undefined there",
-              "Limits are unrelated to whether a function is defined",
+              "A limit exists only when the function is also differentiable at that point",
               "A function can never have any limit under any circumstance",
               "No, a limit only exists if the function is defined at that exact point"
             ],
@@ -35787,7 +35787,7 @@ const curriculum: DayContent[] = [
               "They eliminate the need to study functions entirely",
               "They only apply to whole numbers with no fractions",
               "They provide a precise way to describe behaviour near a point without requiring the function be defined there",
-              "They have no connection to any other calculus concept"
+              "They are only useful for evaluating polynomial functions"
             ],
             "answer": 2
           }
@@ -36368,7 +36368,7 @@ const curriculum: DayContent[] = [
             "q": "How does the visual shape of a concrete poem typically relate to its meaning?",
             "options": [
               "It always contradicts and undermines the poems stated subject",
-              "It has no connection to the poems meaning whatsoever",
+              "The shape is determined solely by typesetting constraints, not by meaning",
               "It exists purely by accident with no intended effect",
               "It contributes directly to and reinforces the poems meaning"
             ],
@@ -36399,7 +36399,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Abstract ideas cannot be represented through any visual arrangement",
               "Visual form can mirror or enact the poems subject in ways plain text alone cannot",
-              "Typography has no effect on how a poem is interpreted",
+              "Because concrete poetry is judged only on the complexity of its vocabulary",
               "Visual form always obscures a poems meaning entirely"
             ],
             "answer": 1
@@ -36704,7 +36704,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It replaces the normal distribution with the Poisson distribution entirely",
               "It shows that sample means tend toward that same normal distribution as sample size grows",
-              "It has no connection to the normal distribution at all",
+              "It shows that sample means only follow a normal distribution when the population itself is already normal",
               "It shows the normal distribution can never describe sample means"
             ],
             "answer": 1
@@ -37413,7 +37413,7 @@ const curriculum: DayContent[] = [
             "q": "What generally happens to a confidence intervals width as the sample size increases?",
             "options": [
               "The interval always widens without exception",
-              "The interval size is unrelated to sample size",
+              "The interval width depends only on the confidence level chosen, never on sample size",
               "The interval collapses to a single value at any sample size",
               "The interval tends to narrow, reflecting more precise estimation"
             ],
@@ -37787,7 +37787,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the muon decay experiment considered strong evidence for special relativity?",
             "options": [
-              "It has no connection to relativity and is explained entirely by classical mechanics",
+              "Muon decay rates are identical whether the muon is moving or at rest, as classical physics predicts",
               "It disproves time dilation rather than supporting it",
               "It provides a directly observable, quantitative confirmation of time dilation using naturally occurring particles",
               "It only applies to particles at rest with no motion involved"
@@ -38130,7 +38130,7 @@ const curriculum: DayContent[] = [
               "The exact sum of an infinite series only",
               "Each term in terms of one or more earlier terms",
               "A single fixed constant with no sequence involved",
-              "A term with no connection to any earlier term"
+              "A formula that computes a term directly from its position n, with no reference to other terms"
             ],
             "answer": 1
           },
@@ -38147,7 +38147,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which earlier-studied type of sequence is a special case of a linear recurrence?",
             "options": [
-              "A sequence unrelated to any earlier terms",
+              "The sequence of prime numbers, each generated from the one before it",
               "Fibonacci-style sequences defined by earlier terms",
               "A sequence containing only the number zero",
               "A sequence with no defined pattern whatsoever"
@@ -38169,7 +38169,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They can only model quantities that never change over time",
               "They have no application outside of pure abstract mathematics",
-              "They require the quantity being modelled to be unrelated to its own past",
+              "They can only model processes that reach a fixed value after exactly one step",
               "They can capture how a quantity today depends in a fixed way on its recent past values"
             ],
             "answer": 3
@@ -38402,7 +38402,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Continued fractions eliminate any need for the Euclidean algorithm",
               "The Euclidean algorithm can only be applied to irrational numbers",
-              "The two concepts are entirely unrelated to one another",
+              "Continued fractions only apply to irrational numbers, while the Euclidean algorithm only applies to integers",
               "The steps of the Euclidean algorithm on two integers directly generate the terms of a continued fraction"
             ],
             "answer": 3
@@ -38556,7 +38556,7 @@ const curriculum: DayContent[] = [
             "q": "What does fan fiction typically borrow from an existing work?",
             "options": [
               "The original authors personal biography exclusively",
-              "Nothing at all; it must be entirely unrelated to any existing work",
+              "Only the cover art and title, with no use of characters or plot",
               "Characters, settings, or premises",
               "Only the exact page count of the original work"
             ],
@@ -38568,7 +38568,7 @@ const curriculum: DayContent[] = [
               "Questions only about grammar and spelling",
               "Questions limited strictly to publishing formats",
               "Questions about authorship, intellectual property, and the boundary between original and transformative work",
-              "Questions with no connection to authorship or creativity at all"
+              "Questions concerning only the typography used in self-published editions"
             ],
             "answer": 2
           },
@@ -38705,7 +38705,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does the expression below the sigma symbol typically represent?",
             "options": [
-              "A constant that has no connection to the sum",
+              "The number of terms to skip before the summation begins",
               "The variable and starting value of the summation index",
               "An unrelated geometric shape",
               "The final answer to the entire summation"
@@ -38900,7 +38900,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How does exponential growth, studied earlier in this course, relate to the logarithmic spirals defining property?",
             "options": [
-              "Exponential growth has no connection to the logarithmic spiral whatsoever",
+              "The logarithmic spiral's radius grows linearly with the rotation angle, not exponentially",
               "The logarithmic spiral involves only linear growth, not exponential growth",
               "Exponential functions can only be applied to straight lines, never curves",
               "The spirals radius grows exponentially as a function of the rotation angle, directly applying exponential growth to a geometric curve"
@@ -39133,7 +39133,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How does simple linear regression build on the Pearson correlation coefficient studied in an earlier batch?",
             "options": [
-              "The two concepts are entirely unrelated to one another",
+              "Regression and correlation both produce the same predictive equation for a data set",
               "Regression fits an actual predictive line, while correlation only measures the strength and direction of a linear relationship",
               "Correlation always produces a predictive equation, unlike regression",
               "Regression cannot be used on any data that has a defined correlation"
@@ -39175,7 +39175,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Zero, regardless of the function",
               "The largest value the function ever reaches",
-              "A value chosen at random with no connection to the function",
+              "The average of the function's values at nearby points",
               "The actual value of the function at that point"
             ],
             "answer": 3
@@ -39288,7 +39288,7 @@ const curriculum: DayContent[] = [
             "q": "What setting typically defines a campus novel?",
             "options": [
               "A spaceship travelling between planets",
-              "A courtroom with no connection to education",
+              "A traveling circus moving from town to town",
               "A university or college community",
               "A rural farming village with no institutional setting"
             ],
@@ -39307,7 +39307,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What broader questions can the closed, hierarchical world of academia allow a campus novel to explore?",
             "options": [
-              "Questions entirely unrelated to any human social experience",
+              "Questions concerning only a university's annual fundraising campaigns",
               "Questions limited strictly to campus architecture",
               "Only questions about specific course grading policies",
               "Status, identity, and belonging"
@@ -39389,7 +39389,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It justifies using observed long-run frequencies to estimate true underlying probabilities for pricing and risk models",
               "It proves that insurance pricing can never rely on probability at all",
-              "It has no relevance to any field involving risk or probability",
+              "It applies only to games of chance, never to real-world risk pricing such as insurance",
               "It shows that individual claims can be predicted with total certainty"
             ],
             "answer": 0
@@ -39774,7 +39774,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What kind of characters typically populate a morality play?",
             "options": [
-              "Animals with no connection to human conduct",
+              "Kings and queens drawn from documented English royal history",
               "Historical figures with no symbolic meaning at all",
               "Personifications of abstract qualities, such as Virtue or Vice",
               "Characters drawn entirely from ancient myth with no allegory involved"
@@ -39856,7 +39856,7 @@ const curriculum: DayContent[] = [
               "It becomes flatter and wider without bound",
               "It approaches the shape of the normal distribution",
               "It collapses to a single fixed point regardless of sample size",
-              "It becomes completely unrelated to the normal distribution"
+              "It becomes increasingly skewed rather than approaching any symmetric distribution"
             ],
             "answer": 1
           },
@@ -39866,7 +39866,7 @@ const curriculum: DayContent[] = [
               "The travelling salesman problem",
               "The normal distribution and z-scores",
               "The pigeonhole principle",
-              "The binomial distribution alone, with no connection to the normal distribution"
+              "The chi-squared distribution, adapted for use with small sample sizes"
             ],
             "answer": 1
           },
@@ -39915,7 +39915,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The angle between the two vectors measured in radians",
               "The area of the parallelogram formed by the two vectors",
-              "The volume of a sphere with no connection to the vectors",
+              "The circumference of a circle inscribed within the parallelogram",
               "The length of a single straight line segment only"
             ],
             "answer": 1
@@ -40031,7 +40031,7 @@ const curriculum: DayContent[] = [
               "Modern absurdist theatre only",
               "The Elizabethan and Jacobean stage",
               "Ancient Greek comic theatre exclusively",
-              "A tradition with no connection to English drama"
+              "The Restoration comedy of manners tradition"
             ],
             "answer": 1
           },
@@ -40160,7 +40160,7 @@ const curriculum: DayContent[] = [
               "The confidence interval becomes narrower",
               "The confidence interval disappears entirely",
               "The confidence interval becomes wider with no exceptions",
-              "Sample size has no effect on a confidence interval at all"
+              "A confidence interval only narrows once the sample size exceeds the population size"
             ],
             "answer": 0
           },
@@ -40284,7 +40284,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The very form of intellectual seriousness or pedantry it examines",
               "Menippean satire never engages with its own form in any way",
-              "Only visual art, with no connection to written form",
+              "Only visual caricature published in satirical newspapers",
               "A structure with no relationship to its satirical target"
             ],
             "answer": 0
@@ -40596,7 +40596,7 @@ const curriculum: DayContent[] = [
             "q": "How does Dijkstras algorithm relate to the network flow and max-flow min-cut ideas studied in an earlier batch?",
             "options": [
               "Both operate on weighted or capacitated graphs, though Dijkstras algorithm optimizes shortest distance rather than maximum flow",
-              "The two concepts are entirely unrelated to graph theory",
+              "Dijkstra's algorithm only works on unweighted graphs, unlike network flow problems",
               "Network flow ignores edge weights entirely, unlike Dijkstras algorithm",
               "Dijkstras algorithm and max-flow min-cut solve exactly the same problem"
             ],
@@ -41209,7 +41209,7 @@ const curriculum: DayContent[] = [
               "Less stable, since more energy is stored inside it",
               "More stable, since more energy would be needed to break it apart",
               "Unstable, because binding energy indicates excess mass",
-              "Unaffected in stability, since binding energy is unrelated to stability"
+              "Equally stable regardless of its binding energy, since mass alone determines stability"
             ],
             "answer": 1
           },
@@ -41251,8 +41251,8 @@ const curriculum: DayContent[] = [
           {
             "q": "After which figure is the jeremiad named?",
             "options": [
-              "A Roman emperor with no connection to prophecy",
-              "An ancient Greek dramatist unrelated to biblical tradition",
+              "The Roman statesman Cicero, known for his political orations",
+              "The ancient Greek orator Demosthenes",
               "The biblical prophet Jeremiah",
               "A modern political theorist with no historical prophetic tradition"
             ],
@@ -41273,7 +41273,7 @@ const curriculum: DayContent[] = [
             "options": [
               "An op-ed can never contain any critical or persuasive content",
               "Both can argue publicly for change, but the jeremiad specifically follows a lament-and-warning structure rooted in a longstanding rhetorical and prophetic tradition",
-              "The jeremiad has no connection to persuasive or rhetorical purpose at all",
+              "The jeremiad is simply an older term for the modern op-ed, with no real difference",
               "The two forms are identical in structure, audience, and historical origin"
             ],
             "answer": 1
@@ -41646,7 +41646,7 @@ const curriculum: DayContent[] = [
             "q": "Why are vector equations useful for describing lines and planes?",
             "options": [
               "They can only describe objects in exactly two dimensions",
-              "They have no connection to points or directions at all",
+              "They require converting every direction vector into a matrix before they can be used",
               "They eliminate the need to ever graph a line or plane",
               "They allow geometric objects in space to be represented and manipulated algebraically"
             ],
@@ -41976,7 +41976,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Characters drawn entirely from ancient myth with no allegory involved",
               "Historical figures with no symbolic meaning at all",
-              "Animals with no connection to human conduct",
+              "Kings and queens drawn from documented English royal history",
               "Personifications of abstract qualities, such as Virtue or Vice"
             ],
             "answer": 3
@@ -42103,7 +42103,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What mathematical tool is used to relate the rates of change of two connected quantities over time?",
             "options": [
-              "Graphing a single point with no connection to any rate",
+              "Finding the limit of the equation as time approaches infinity",
               "Factoring a polynomial with no variables representing time",
               "Differentiating an equation that relates the quantities, with respect to time",
               "Simplifying a radical expression with no reference to time"
@@ -42220,7 +42220,7 @@ const curriculum: DayContent[] = [
               "A single characters private, interior thoughts with no external action",
               "Purely comic misunderstandings with no serious consequences",
               "The lives, feuds, and voyages of legendary or historical families and heroes",
-              "An entirely fictional world with no connection to genealogy or history"
+              "A purely satirical account mocking the Icelandic legal system"
             ],
             "answer": 2
           },
@@ -42249,7 +42249,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The two forms are identical in every respect",
               "Both recount heroic deeds, but the saga is a prose form rooted in specific Icelandic family and historical material rather than the oral, often mythic verse composition of epic",
-              "The epic tradition has no connection to heroic material of any kind",
+              "The epic tradition is simply a later imitation of the Icelandic saga",
               "Sagas are always composed in verse exactly like epic"
             ],
             "answer": 1
@@ -42310,7 +42310,7 @@ const curriculum: DayContent[] = [
               "Simpsons paradox always produces the same correlation coefficient regardless of grouping",
               "Correlation analysis is immune to any influence from underlying subgroups",
               "Both concern how relationships in data can be interpreted or misinterpreted, though Simpsons paradox specifically shows how grouping structure can reverse an apparent trend",
-              "The two concepts are entirely unrelated to interpreting data"
+              "Simpson's paradox only occurs when the Pearson correlation coefficient equals exactly zero"
             ],
             "answer": 2
           },
@@ -42319,7 +42319,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Simpsons paradox proves that aggregated data can never be analyzed meaningfully",
               "It highlights the importance of examining subgroup structure before drawing conclusions from combined data",
-              "It has no relevance to interpreting real-world data sets",
+              "It matters only for categorical data, never for continuous numerical measurements",
               "It shows that subgroup structure never needs to be considered in any statistical analysis"
             ],
             "answer": 1
@@ -42464,7 +42464,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A historical event from many centuries earlier with no contemporary relevance",
               "A specific contemporary social issue, often within a realistic domestic setting",
-              "A purely fantastical conflict with no connection to real social life",
+              "A purely personal dispute with no wider social implications",
               "A conflict resolved entirely offstage before the play begins"
             ],
             "answer": 1
@@ -42473,7 +42473,7 @@ const curriculum: DayContent[] = [
             "q": "With which dramatist is the problem play especially associated?",
             "options": [
               "A purely comic playwright with no interest in social issues",
-              "A dramatist with no connection to realistic social drama",
+              "Oscar Wilde, known primarily for his comedies of manners",
               "Henrik Ibsen",
               "A writer exclusively of ancient Greek tragedy"
             ],
@@ -42952,7 +42952,7 @@ const curriculum: DayContent[] = [
             "q": "What subject matter does a georgic poem typically treat?",
             "options": [
               "Warfare and heroic combat exclusively",
-              "Purely urban settings with no connection to land or agriculture",
+              "The glamorous life of the aristocratic court",
               "Abstract philosophical argument with no reference to physical labour",
               "The practical labour of farming, land, and rural life"
             ],
@@ -42963,7 +42963,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Virgil",
               "A purely modern poet writing after the twentieth century",
-              "A poet with no connection to classical Rome",
+              "Ovid, known chiefly for his mythological narrative poetry",
               "A dramatist rather than a poet of rural life"
             ],
             "answer": 0
@@ -43114,7 +43114,7 @@ const curriculum: DayContent[] = [
               "It eliminates the need to ever use a cross product",
               "It provides a way to calculate volume and test whether vectors are coplanar",
               "It can only be used to measure angles in two dimensions",
-              "It has no connection to volume or coplanarity of any kind"
+              "It only works correctly when all three vectors are identical to one another"
             ],
             "answer": 1
           }
@@ -43480,7 +43480,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might understanding meme rhetoric be considered a relevant media literacy skill?",
             "options": [
-              "Media literacy has no connection to visual or internet culture",
+              "Media literacy applies only to traditional print journalism, not internet content",
               "Memes always convey their full meaning literally with no need for interpretation",
               "Memes can shape public opinion and cultural conversation rapidly, so recognizing how they compress and mutate meaning helps a reader interpret them critically",
               "Memes have no influence on public opinion or cultural conversation"
@@ -43530,7 +43530,7 @@ const curriculum: DayContent[] = [
             "q": "How does the Monty Hall problem relate to conditional probability and independence, studied in an earlier batch?",
             "options": [
               "It provides a concrete, famous example of how revealing new information changes a conditional probability",
-              "The Monty Hall problem has no connection to conditional probability of any kind",
+              "The Monty Hall problem only applies when there are exactly two doors instead of three",
               "The Monty Hall problem shows that new information can never affect any probability",
               "Conditional probability, once studied, can never apply to a game-based scenario"
             ],
@@ -43684,7 +43684,7 @@ const curriculum: DayContent[] = [
             "q": "What kind of setting and characters does kitchen sink realism typically depict?",
             "options": [
               "Abstract, plotless scenes with no characters at all",
-              "A purely fantastical setting with no connection to everyday life",
+              "The glamorous lives of Hollywood celebrities",
               "The everyday domestic lives of working-class characters in gritty, unglamorous detail",
               "The lavish lives of royalty in a distant historical era"
             ],
@@ -43724,7 +43724,7 @@ const curriculum: DayContent[] = [
             "q": "Why might frustration with established social convention have driven writers toward gritty, realistic domestic drama?",
             "options": [
               "Depicting ordinary working-class life honestly could challenge idealized or sanitized depictions of society found in earlier, more conventional drama",
-              "Frustration with convention has no connection to the choice of dramatic subject matter",
+              "Because gritty domestic drama was required by state censorship boards",
               "Realistic domestic drama is incapable of expressing any social frustration",
               "Kitchen sink realism was created to celebrate established social convention"
             ],
@@ -43824,7 +43824,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The graph is always increasing without any curvature",
               "The graph is concave down, curving downward like an upside-down cup",
-              "The second derivative has no effect on the shape of a graph",
+              "A negative second derivative only indicates the function is decreasing, not how it curves",
               "The graph is concave up, curving upward like a cup"
             ],
             "answer": 1
@@ -43968,7 +43968,7 @@ const curriculum: DayContent[] = [
             "q": "Why can the rhetorical question be an especially effective device in a persuasive speech or essay?",
             "options": [
               "A rhetorical question removes any persuasive force from an argument",
-              "The device has no effect on how an audience perceives a writers conclusion",
+              "A rhetorical question functions only as a transition between paragraphs",
               "It always confuses an audience about the writers actual position",
               "It can make an audience feel they have arrived at the writers conclusion themselves, strengthening their sense of agreement"
             ],
@@ -44078,7 +44078,7 @@ const curriculum: DayContent[] = [
             "q": "How does this method build on the vector equation of a line studied earlier in this course?",
             "options": [
               "This method requires an entirely different, unrelated equation for the line",
-              "This method has no connection to the vector equation of a line",
+              "This method requires deriving a completely new, unrelated formula for the line each time",
               "The vector equation of a line cannot be used to calculate any distance",
               "It uses the same known point and direction vector that define the line to calculate distance from an external point"
             ],
@@ -44417,7 +44417,7 @@ const curriculum: DayContent[] = [
             "q": "What kind of subject matter does a typical Icelandic saga recount?",
             "options": [
               "A single characters private, interior thoughts with no external action",
-              "An entirely fictional world with no connection to genealogy or history",
+              "A purely satirical account mocking the Icelandic legal system",
               "Purely comic misunderstandings with no serious consequences",
               "The lives, feuds, and voyages of legendary or historical families and heroes"
             ],
@@ -44426,7 +44426,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What kind of issue does a problem play typically stage?",
             "options": [
-              "A purely fantastical conflict with no connection to real social life",
+              "A purely personal dispute with no wider social implications",
               "A conflict resolved entirely offstage before the play begins",
               "A specific contemporary social issue, often within a realistic domestic setting",
               "A historical event from many centuries earlier with no contemporary relevance"
@@ -44446,7 +44446,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What subject matter does a georgic poem typically treat?",
             "options": [
-              "Purely urban settings with no connection to land or agriculture",
+              "The glamorous life of the aristocratic court",
               "Abstract philosophical argument with no reference to physical labour",
               "Warfare and heroic combat exclusively",
               "The practical labour of farming, land, and rural life"
@@ -44578,7 +44578,7 @@ const curriculum: DayContent[] = [
               "The mean is always the best choice regardless of skewness",
               "A skewed distribution can make the mean a misleading measure of a typical value",
               "Skewed data sets cannot have a mean or a median calculated",
-              "Skewness has no effect on which measure best describes a data set"
+              "Skewness only matters when the data set has fewer than ten values"
             ],
             "answer": 1
           }
@@ -44672,7 +44672,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only paid professional actors, with no courtier participation",
               "No performers ever wore masks in a masque",
-              "Exclusively foreign ambassadors with no connection to the court",
+              "Visiting clergy invited specifically to bless the performance",
               "Courtiers themselves, appearing among the masked performers"
             ],
             "answer": 3
@@ -44882,7 +44882,7 @@ const curriculum: DayContent[] = [
               "Keplers laws were derived entirely from Newtons law of gravitation and added no new information",
               "They provided an accurate, purely geometric description of planetary motion that later motivated Newtons law of universal gravitation",
               "They describe only the motion of stars and have no application to planets",
-              "They have no connection to the later development of gravitational theory"
+              "They were proposed after Newton's law and merely restated it in different terms"
             ],
             "answer": 1
           }
@@ -45170,7 +45170,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What tension is often central to a cyberpunk narrative?",
             "options": [
-              "A tension with no connection to technology or its consequences",
+              "A tension between rival royal families competing for a throne",
               "A world where technology has outpaced its ethical or political control",
               "A perfectly ordered society with no social decay of any kind",
               "A world where technology has never developed beyond the most basic tools"
@@ -45182,7 +45182,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Both are speculative genres imagining near-future consequences of present-day forces, though cyberpunk centres on technology and corporate power while cli-fi centres on environmental change",
               "The two genres are identical in setting, theme, and central concern",
-              "Cyberpunk has no connection to imagining any kind of future society",
+              "Cyberpunk is simply an earlier name for what is now called climate fiction",
               "Climate fiction always depicts a high-tech-low-life urban setting dominated by corporations"
             ],
             "answer": 0
@@ -45190,7 +45190,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might cyberpunk be considered a genre well suited to critiquing contemporary anxieties about technology and corporate power?",
             "options": [
-              "Corporate power and technology have no relevance to the genres central concerns",
+              "Because cyberpunk stories are always set in a pre-industrial historical period",
               "The genre avoids any commentary on real-world technological or social concerns",
               "Cyberpunk narratives are set so far in the past that they cannot reflect on modern technology",
               "Its exaggerated near-future setting allows writers to dramatize present-day concerns about surveillance, inequality, and unchecked technological growth"
@@ -46026,7 +46026,7 @@ const curriculum: DayContent[] = [
               "Random fluctuations tend to average out over a greater number of trials",
               "Small samples always produce more accurate results than large samples",
               "Large samples always eliminate the need for any probability calculation",
-              "Sample size has no effect on the reliability of an estimate"
+              "Sample size only matters when the population being studied is infinite"
             ],
             "answer": 0
           },
@@ -46046,7 +46046,7 @@ const curriculum: DayContent[] = [
               "It only applies to a single trial and no more",
               "It guarantees an individual outcome with complete certainty every time",
               "It helps explain why outcomes become more predictable in aggregate over many repeated trials",
-              "It has no relevance to any real-world application"
+              "It only applies to games of chance, not to insurance or other real-world risk"
             ],
             "answer": 2
           }
@@ -46383,10 +46383,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Feminist literary criticism examines how ___ shapes a text.",
             "options": [
-              "Only the physical setting, with no connection to gender",
+              "Only the publication's marketing and cover design, decisions made after the text itself is written",
               "The publication date exclusively",
               "Gender",
-              "A factor entirely unrelated to representation or power"
+              "Only the length of a novel, regardless of its subject matter"
             ],
             "answer": 2
           },
@@ -46405,7 +46405,7 @@ const curriculum: DayContent[] = [
             "options": [
               "How narrative elements are reimagined or altered across different mediums",
               "Only the total runtime of the film compared to the reading time of the novel",
-              "A factor entirely unrelated to storytelling choices",
+              "Only how faithfully the film reproduces the book's cover illustration",
               "Whether the film uses more special effects than the book describes"
             ],
             "answer": 0
@@ -46454,7 +46454,7 @@ const curriculum: DayContent[] = [
             "options": [
               "x is equal to zero only",
               "x is greater than zero",
-              "A condition unrelated to the sign of x",
+              "x is greater than or equal to zero",
               "x is less than zero"
             ],
             "answer": 3
@@ -46473,7 +46473,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Undefined across its entire domain",
               "Continuous on a closed interval",
-              "A concept unrelated to continuity",
+              "A function that is differentiable everywhere but not necessarily continuous",
               "Discontinuous at every point within the interval"
             ],
             "answer": 1
@@ -46482,9 +46482,9 @@ const curriculum: DayContent[] = [
             "q": "Inverse trigonometric functions include functions such as ___.",
             "options": [
               "Arcsine and arctangent",
-              "A concept unrelated to trigonometry",
+              "Secant and cosecant, since they are the reciprocal trigonometric functions",
               "Only sine and cosine, with no inverse functions involved",
-              "Functions with no connection to angles"
+              "Functions whose output is always restricted to values between negative one and one"
             ],
             "answer": 0
           },
@@ -46494,7 +46494,7 @@ const curriculum: DayContent[] = [
               "Local minimum",
               "Local maximum",
               "Point of inflection with no extremum",
-              "Value entirely unrelated to concavity"
+              "A saddle point, since the second derivative test only applies to multivariable functions"
             ],
             "answer": 0
           },
@@ -46521,7 +46521,7 @@ const curriculum: DayContent[] = [
             "q": "Rotational motion describes objects that are ___.",
             "options": [
               "Completely stationary with no movement at all",
-              "A concept unrelated to motion",
+              "Accelerating uniformly along a straight path",
               "Moving only in a perfectly straight line",
               "Spinning around an axis"
             ],
@@ -46530,9 +46530,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Angular momentum is best described as the rotational analog of ___.",
             "options": [
-              "A concept unrelated to momentum",
+              "Kinetic energy, since both depend on an object's speed",
               "Electric charge",
-              "Only mass, with no connection to motion",
+              "Moment of inertia alone, independent of angular velocity",
               "Linear momentum"
             ],
             "answer": 3
@@ -46541,7 +46541,7 @@ const curriculum: DayContent[] = [
             "q": "According to Archimedes' principle, the buoyant force on a submerged object equals ___.",
             "options": [
               "The object's own weight, regardless of the fluid",
-              "A force entirely unrelated to the surrounding fluid",
+              "The object's own volume multiplied by atmospheric pressure",
               "Zero, since buoyancy is negligible in liquids",
               "The weight of the fluid displaced by the object"
             ],
@@ -46550,7 +46550,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The First Law of Thermodynamics states that the change in a system's internal energy equals ___.",
             "options": [
-              "A quantity entirely unrelated to heat or work",
+              "The temperature change of the surroundings only",
               "The heat added to the system minus the work done by the system",
               "Only the work done on the system, with no heat involved",
               "Zero in every physical process, without exception"
@@ -46580,7 +46580,7 @@ const curriculum: DayContent[] = [
               "Improvisation with no preparation whatsoever",
               "Research",
               "Avoidance of any factual support",
-              "A concept unrelated to argumentation"
+              "Memorization of a single pre-written script regardless of the topic"
             ],
             "answer": 1
           },
@@ -46590,7 +46590,7 @@ const curriculum: DayContent[] = [
               "Only a character’s physical appearance",
               "Memory and identity",
               "Grammar and sentence structure exclusively",
-              "A topic entirely unrelated to personal experience"
+              "Only a character's choice of career later in life"
             ],
             "answer": 1
           },
@@ -46598,7 +46598,7 @@ const curriculum: DayContent[] = [
             "q": "An unreliable narrator is one whose account of events is ___, prompting readers to question its accuracy.",
             "options": [
               "Entirely objective and beyond question",
-              "A feature entirely unrelated to a story's credibility",
+              "Written exclusively in the third person, never the first",
               "Compromised by bias, limited knowledge, or deliberate deception",
               "Always corrected immediately by a second, trustworthy narrator"
             ],
@@ -46608,7 +46608,7 @@ const curriculum: DayContent[] = [
             "q": "An op-ed written for a national publication must quickly establish ___ to persuade a broad and diverse readership.",
             "options": [
               "A clear, well-supported argumentative stance",
-              "A factor entirely unrelated to persuading readers",
+              "A detailed footnoted bibliography of academic sources",
               "An intentionally vague position that commits to nothing",
               "Only personal anecdotes, with no supporting evidence"
             ],
@@ -46726,7 +46726,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only non-conductive, insulating materials with no charge storage",
               "A single, isolated point with no surrounding structure",
-              "A concept unrelated to electric charge",
+              "A single conductive wire coiled into a spiral",
               "Two conductive plates"
             ],
             "answer": 3
@@ -46734,8 +46734,8 @@ const curriculum: DayContent[] = [
           {
             "q": "An RC circuit contains a resistor and a ___.",
             "options": [
-              "Component entirely unrelated to electric circuits",
-              "Magnet, with no connection to resistors",
+              "Inductor, forming an RL circuit instead",
+              "Diode, allowing current to flow in only one direction",
               "Light bulb exclusively, with no other components",
               "Capacitor"
             ],
@@ -46745,7 +46745,7 @@ const curriculum: DayContent[] = [
             "q": "Diffraction of light becomes most noticeable when a wave passes through an aperture or around an obstacle whose size is ___.",
             "options": [
               "Far larger than the wavelength of the light",
-              "A factor entirely unrelated to the light's wavelength",
+              "Measured only in terms of the light's intensity",
               "Measured only in units of electric charge",
               "Comparable to the wavelength of the light"
             ],
@@ -46756,7 +46756,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Cool to near absolute zero temperature",
               "Accelerate to very high speeds and energies",
-              "A purpose entirely unrelated to particle motion",
+              "Cool the particles to minimize their thermal motion before collision",
               "Permanently trap in a fixed, stationary position"
             ],
             "answer": 1
@@ -46782,7 +46782,7 @@ const curriculum: DayContent[] = [
             "q": "The Theatre of the Absurd presents ___ to reflect a perceived lack of inherent purpose.",
             "options": [
               "Dialogue that always follows conventional, expected patterns",
-              "A concept unrelated to human existence or meaning",
+              "A tightly plotted mystery with a clear resolution",
               "Only perfectly logical, straightforward events",
               "Illogical situations and meaningless dialogue"
             ],
@@ -46791,7 +46791,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Revising a personal essay for depth involves moving beyond ___.",
             "options": [
-              "A concept unrelated to a writer’s reflection",
+              "A strict five-paragraph structure imposed by the assignment",
               "Only correcting spelling and punctuation errors",
               "Surface-level description",
               "Adding random, unrelated details with no clear purpose"
@@ -46803,7 +46803,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Multiple sentences, paragraphs, or an entire piece of writing",
               "A single word, with no further development",
-              "A comparison entirely unrelated to the essay's argument",
+              "A comparison that changes to a completely different image every paragraph",
               "Exactly one sentence before being abandoned"
             ],
             "answer": 0
@@ -46812,7 +46812,7 @@ const curriculum: DayContent[] = [
             "q": "Postmodern metafiction draws deliberate attention to ___, reminding readers they are engaging with a constructed narrative.",
             "options": [
               "The physical weight of the printed book",
-              "A feature entirely unrelated to the reading experience",
+              "The precise historical accuracy of its setting",
               "The author's personal biography exclusively",
               "The text's own fictional and constructed nature"
             ],
@@ -46843,7 +46843,7 @@ const curriculum: DayContent[] = [
               "Undefined across its entire domain",
               "Positive or negative, as specified by the inequality",
               "Always equal to exactly zero",
-              "A concept unrelated to the expression’s sign"
+              "Equal to the inequality's boundary value only"
             ],
             "answer": 1
           },
@@ -46862,7 +46862,7 @@ const curriculum: DayContent[] = [
             "options": [
               "f(x) = x",
               "f(x) = 0",
-              "A condition entirely unrelated to the function's output",
+              "f(x) = x², a condition specific to quadratic functions only",
               "f(x) = -x"
             ],
             "answer": 0
@@ -46929,7 +46929,7 @@ const curriculum: DayContent[] = [
             "q": "Dark matter and dark energy are largely inferred from their ___.",
             "options": [
               "Direct visual observation through a standard telescope",
-              "A concept unrelated to the study of the universe",
+              "Their emission of strong radio signals detected by telescopes",
               "Gravitational effects",
               "Complete absence of any detectable influence"
             ],
@@ -46938,9 +46938,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Torque is best described as the rotational equivalent of ___.",
             "options": [
-              "A concept unrelated to rotational motion",
+              "Linear momentum, since both describe motion through space",
               "Force",
-              "Only colour, with no connection to motion",
+              "Angular velocity alone, independent of any applied force",
               "Mass"
             ],
             "answer": 1
@@ -46949,8 +46949,8 @@ const curriculum: DayContent[] = [
             "q": "The Doppler Effect describes how the observed frequency of a wave shifts due to relative ___ between the source and the observer.",
             "options": [
               "Motion",
-              "A factor entirely unrelated to frequency",
-              "Colour, with no connection to wave motion",
+              "Temperature difference between the source and the observer",
+              "Amplitude, rather than the relative motion of source and observer",
               "Temperature alone, independent of movement"
             ],
             "answer": 0
@@ -46959,7 +46959,7 @@ const curriculum: DayContent[] = [
             "q": "According to Planck's Law, the spectrum of radiation emitted by a blackbody depends primarily on its ___.",
             "options": [
               "Chemical composition",
-              "A property entirely unrelated to radiation",
+              "Its exact physical size, regardless of temperature",
               "Temperature",
               "Physical size alone, regardless of heat"
             ],
@@ -46988,7 +46988,7 @@ const curriculum: DayContent[] = [
               "Provide a completely neutral, unbiased description of a product",
               "Persuade consumers and shape brand perception",
               "Avoid influencing consumer opinion or behaviour in any way",
-              "A purpose entirely unrelated to persuasion"
+              "Only to comply with government labeling regulations"
             ],
             "answer": 1
           },
@@ -46998,7 +46998,7 @@ const curriculum: DayContent[] = [
               "Only the total number of printed pages",
               "Narrative pacing",
               "The book’s physical cover design exclusively",
-              "A factor entirely unrelated to storytelling technique"
+              "Only the publisher's marketing budget for the release"
             ],
             "answer": 1
           },
@@ -47007,7 +47007,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only dialogue spoken between characters",
               "Nature or inanimate objects",
-              "A device entirely unrelated to a character's emotions",
+              "Only secondary characters who never speak",
               "Statistical data presented in the text"
             ],
             "answer": 1
@@ -47016,7 +47016,7 @@ const curriculum: DayContent[] = [
             "q": "A TED-style talk is typically structured around a single, clearly defined ___ delivered within a strict time limit.",
             "options": [
               "List of unrelated anecdotes with no unifying thread",
-              "A structure entirely unrelated to public speaking",
+              "A detailed technical appendix distributed to the audience afterward",
               "Series of rebuttals to an opposing speaker",
               "Central idea or message"
             ],
@@ -47086,7 +47086,7 @@ const curriculum: DayContent[] = [
               "A vector",
               "Only a single, unrelated integer",
               "A purely qualitative description with no numerical value",
-              "A concept unrelated to functions"
+              "A single rate of change evaluated at just one instant"
             ],
             "answer": 0
           },
@@ -47114,7 +47114,7 @@ const curriculum: DayContent[] = [
             "q": "A logistic growth model differs from an exponential growth model because it includes a ___ that limits growth as the population nears capacity.",
             "options": [
               "Carrying-capacity term",
-              "A term entirely unrelated to population size",
+              "A term that doubles the population after every fixed time interval",
               "Constant growth rate with no upper limit",
               "Negative time variable"
             ],
@@ -47135,7 +47135,7 @@ const curriculum: DayContent[] = [
               "Identical to that of a perfect insulator",
               "Between that of a conductor and an insulator",
               "Identical to that of a perfect conductor",
-              "A property entirely unrelated to electrical conductivity"
+              "Identical to that of a superconductor at room temperature"
             ],
             "answer": 1
           },
@@ -47144,8 +47144,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Sunlight",
               "Sound waves",
-              "A source unrelated to light energy",
-              "Only heat, with no connection to light"
+              "Carbon dioxide molecules absorbed directly from the air",
+              "Geothermal heat rising from the soil"
             ],
             "answer": 0
           },
@@ -47153,7 +47153,7 @@ const curriculum: DayContent[] = [
             "q": "In uniform circular motion, the centripetal acceleration of an object points ___.",
             "options": [
               "Tangent to the circular path",
-              "A direction entirely unrelated to the object's path",
+              "Parallel to the object's instantaneous velocity",
               "Away from the center of the circular path",
               "Toward the center of the circular path"
             ],
@@ -47164,7 +47164,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Maximum possible resistance",
               "Zero electrical resistance",
-              "A property entirely unrelated to electrical resistance",
+              "Resistance that decreases gradually but never reaches zero",
               "Resistance equal to that of a typical conductor"
             ],
             "answer": 1
@@ -47192,7 +47192,7 @@ const curriculum: DayContent[] = [
               "A textbook with no audience",
               "Live performance and voice",
               "Silent reading only",
-              "A format with no connection to sound"
+              "A printed anthology distributed before the performance begins"
             ],
             "answer": 1
           },
@@ -47201,7 +47201,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A series of completely separate, disconnected summaries",
               "A cohesive, original argument",
-              "A concept unrelated to using multiple sources",
+              "A direct quotation of the longest available source, left unanalyzed",
               "An argument based entirely on a single source, with no others considered"
             ],
             "answer": 1
@@ -47337,8 +47337,8 @@ const curriculum: DayContent[] = [
             "q": "Satellites remain in orbit through a balance between gravitational pull and their ___.",
             "options": [
               "Forward velocity",
-              "A factor entirely unrelated to orbital mechanics",
-              "Internal temperature, with no connection to motion",
+              "The satellite's internal fuel reserves",
+              "Angular momentum alone, independent of velocity",
               "Complete lack of any motion whatsoever"
             ],
             "answer": 0
@@ -47346,7 +47346,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Renewable energy technologies apply fundamental physics principles to convert natural sources of energy into ___.",
             "options": [
-              "A concept unrelated to energy conversion",
+              "Raw fossil fuels stored for later combustion",
               "Usable electrical power",
               "A form of energy with no practical application",
               "Heat that is immediately released with no further use"
@@ -47394,7 +47394,7 @@ const curriculum: DayContent[] = [
             "q": "A rhetorical device is best described as ___.",
             "options": [
               "A grammar error writers should always avoid",
-              "A concept unrelated to persuasive writing",
+              "A formal citation style required in academic essays",
               "A technique used deliberately to create a specific effect on the reader or listener",
               "A random word choice with no persuasive purpose"
             ],
@@ -47444,7 +47444,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No equations whatsoever",
               "Only a single equation, with no other equations involved",
-              "A concept unrelated to systems of equations",
+              "Exactly three equations, no more and no fewer",
               "Two or more equations"
             ],
             "answer": 3
@@ -47454,8 +47454,8 @@ const curriculum: DayContent[] = [
             "options": [
               "A single scalar value",
               "Two separate scalar values, with no single result",
-              "A completely new vector unrelated to the original two",
-              "A concept unrelated to vector operations"
+              "A vector perpendicular to both of the original two",
+              "The angle between the two vectors, measured in degrees"
             ],
             "answer": 0
           },
@@ -47540,9 +47540,9 @@ const curriculum: DayContent[] = [
           {
             "q": "The Compton effect describes a change in ___ of a photon after it scatters off a charged particle.",
             "options": [
-              "Colour of the particle it scatters from, with no connection to the photon itself",
+              "Frequency of the charged particle's own orbital motion",
               "Mass, which photons do not possess",
-              "A concept unrelated to photon behaviour",
+              "Polarization, rather than wavelength, of the scattered photon",
               "Wavelength"
             ],
             "answer": 3
@@ -47550,9 +47550,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Electromagnetic waves consist of oscillating electric and ___ fields.",
             "options": [
-              "Nuclear, with no connection to oscillating fields",
-              "A concept unrelated to electromagnetic waves",
-              "Gravitational, with no connection to electric fields",
+              "Sound, propagating alongside the electric field",
+              "Thermal fields generated by the wave's own energy",
+              "Strong nuclear fields binding the wave together",
               "Magnetic"
             ],
             "answer": 3
@@ -47598,9 +47598,9 @@ const curriculum: DayContent[] = [
             "q": "An academic book review summarizes a text’s central ___.",
             "options": [
               "Cover design and page count exclusively",
-              "Author’s personal biography only, with no connection to the text’s content",
+              "The publisher's marketing summary printed on the back cover",
               "Argument",
-              "A concept unrelated to reviewing a text"
+              "Only the number of citations included in its footnotes"
             ],
             "answer": 2
           },
@@ -47608,7 +47608,7 @@ const curriculum: DayContent[] = [
             "q": "Facilitating a panel discussion involves guiding multiple speakers through a ___ conversation.",
             "options": [
               "Completely unplanned, with no guidance from a facilitator",
-              "A concept unrelated to oral communication",
+              "A conversation conducted entirely through written notes passed between speakers",
               "Silent, with no spoken conversation at all",
               "Structured"
             ],
@@ -47656,8 +47656,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Modular arithmetic describes a system where numbers wrap around after reaching a fixed value called the ___.",
             "options": [
-              "Coefficient, with no connection to how numbers wrap around",
-              "A concept unrelated to this number system",
+              "Base, the number of digits used in a positional number system",
+              "Remainder, the leftover value after a single division, not the wrap-around point",
               "Modulus",
               "Quotient, the result of a different arithmetic operation entirely"
             ],
@@ -47745,7 +47745,7 @@ const curriculum: DayContent[] = [
             "q": "Lenses form images by ___ light.",
             "options": [
               "Reflecting exclusively, with no refraction involved",
-              "A concept unrelated to how lenses function",
+              "Diffracting light only around their curved edges",
               "Refracting",
               "Completely absorbing, with no light passing through"
             ],
@@ -47755,9 +47755,9 @@ const curriculum: DayContent[] = [
             "q": "A simple machine, such as a lever or pulley, changes the size or ___ of an applied force.",
             "options": [
               "Direction",
-              "Colour, with no connection to how force is applied",
-              "Chemical composition, with no connection to mechanical force",
-              "A concept unrelated to simple machines"
+              "Temperature, through friction generated at the pivot point",
+              "Electrical conductivity of the materials involved",
+              "The total mass of the object being moved"
             ],
             "answer": 0
           },
@@ -47803,15 +47803,15 @@ const curriculum: DayContent[] = [
             "options": [
               "Realistic",
               "Purely scientific, with no room for the impossible",
-              "Entirely fictional, with no connection to any recognizable world",
-              "A concept unrelated to literary mode"
+              "A dream sequence clearly marked off as separate from the main narrative",
+              "A setting defined entirely by its historical accuracy, free of symbolism"
             ],
             "answer": 0
           },
           {
             "q": "An epistolary or archival narrative tells a story through documents such as letters, diary entries, or ___.",
             "options": [
-              "A concept unrelated to this narrative form",
+              "Live, uninterrupted dialogue transcribed exactly as spoken",
               "A single, continuous third-person account with no documents involved",
               "Illustrations exclusively, with no written text at all",
               "Records"
@@ -47949,7 +47949,7 @@ const curriculum: DayContent[] = [
             "q": "The de Broglie hypothesis proposes that all matter exhibits ___ properties, not only light.",
             "options": [
               "Only particle-like properties, with no wave component at all",
-              "A concept unrelated to the behaviour of matter",
+              "Only electromagnetic properties, not mechanical ones",
               "Purely solid, with no wave-like behaviour whatsoever",
               "Wave-like"
             ],
@@ -47960,7 +47960,7 @@ const curriculum: DayContent[] = [
             "options": [
               "How quickly a chemical reaction occurs",
               "The exact colour of a chemical reaction",
-              "A concept unrelated to chemical reactions",
+              "The exact temperature at which a reaction becomes exothermic",
               "The total mass of reactants only"
             ],
             "answer": 0
@@ -48007,7 +48007,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A reader has reason to doubt",
               "Is always completely trustworthy with no exceptions",
-              "A concept unrelated to narrative technique",
+              "Written using an omniscient, all-knowing point of view",
               "Can never be questioned by a careful reader"
             ],
             "answer": 0
@@ -48015,10 +48015,10 @@ const curriculum: DayContent[] = [
           {
             "q": "An extended definition essay explores the meaning of an abstract concept, such as justice or ___.",
             "options": [
-              "A specific date, a detail unrelated to defining an abstract concept",
+              "A specific brand name used only in advertising copy",
               "A concrete physical object, unlike the abstract concepts typically explored",
               "Courage",
-              "A concept unrelated to this type of essay"
+              "A step-by-step technical instruction manual"
             ],
             "answer": 2
           },
@@ -48054,10 +48054,10 @@ const curriculum: DayContent[] = [
           {
             "q": "The logistic function models growth that starts nearly exponential but slows and levels off as it approaches a maximum sustainable ___.",
             "options": [
-              "Rate of change exclusively, with no connection to an upper limit",
+              "Growth rate, which stays constant throughout rather than defining the ceiling",
               "Value",
               "Starting point, a value that does not represent the growth ceiling",
-              "A concept unrelated to logistic growth"
+              "Inflection point, the location where the curve's concavity changes rather than its ceiling"
             ],
             "answer": 1
           },
@@ -48115,7 +48115,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Volume, subject to a given constraint",
               "A completely random, unrelated value",
-              "Only colour, with no connection to measurement",
+              "Surface area only, since volume cannot be optimized using three-dimensional methods",
               "Nothing measurable at all"
             ],
             "answer": 0
@@ -48152,10 +48152,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Thermodynamics primarily studies ___.",
             "options": [
-              "Only light, with no connection to thermal energy",
-              "A field unrelated to energy",
+              "Only the chemical composition of reacting substances",
+              "The classification of subatomic particles",
               "Heat and energy transfer",
-              "Only sound waves, with no connection to heat"
+              "Only the motion of charged particles in a circuit"
             ],
             "answer": 2
           },
@@ -48163,7 +48163,7 @@ const curriculum: DayContent[] = [
             "q": "Nuclear fission involves ___.",
             "options": [
               "No release of energy whatsoever",
-              "A process unrelated to atomic nuclei",
+              "A chemical reaction between two different elements",
               "Splitting a large atomic nucleus into smaller parts",
               "Combining small nuclei into a larger one"
             ],
@@ -48220,9 +48220,9 @@ const curriculum: DayContent[] = [
             "q": "A verse novel tells an extended narrative using ___ form, most often free verse.",
             "options": [
               "Poetic",
-              "A concept unrelated to this literary form",
-              "Purely journalistic, with no connection to imaginative narrative",
-              "Strictly legal, a form unrelated to storytelling"
+              "A rigid, textbook-style outline divided into numbered sections",
+              "A strictly academic form used only for literary criticism",
+              "A format reserved exclusively for courtroom transcripts"
             ],
             "answer": 0
           },
@@ -48357,7 +48357,7 @@ const curriculum: DayContent[] = [
             "q": "Titration is used to determine ___.",
             "options": [
               "The temperature of a solution only",
-              "A property unrelated to concentration",
+              "The exact pH of a solution at the start of the experiment",
               "The colour of a solution only",
               "The concentration of an unknown solution"
             ],
@@ -48367,9 +48367,9 @@ const curriculum: DayContent[] = [
             "q": "Plate tectonics describes the movement of ___.",
             "options": [
               "Large sections of Earth’s crust",
-              "Only ocean currents, with no connection to the crust",
-              "Only the atmosphere, with no connection to the crust",
-              "A concept unrelated to Earth’s structure"
+              "The gradual erosion of mountains by wind and rain",
+              "The cyclical flow of the jet stream in the upper atmosphere",
+              "The rotation of Earth's molten outer core alone"
             ],
             "answer": 0
           },
@@ -48415,7 +48415,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Episodes",
               "Chapters printed exclusively on paper, with no audio component at all",
-              "A concept unrelated to this media form",
+              "Live call-in segments with no pre-recorded content",
               "Advertisements exclusively, with no narrative content involved"
             ],
             "answer": 0
@@ -48423,10 +48423,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Stream of consciousness attempts to capture the continuous flow of a character’s thoughts, sensations, and ___ as they occur.",
             "options": [
-              "Physical measurements exclusively, with no connection to a character’s inner experience",
+              "Footnoted citations referencing the character's prior statements",
               "Impressions",
-              "Financial transactions exclusively, with no connection to a character’s inner life",
-              "A concept unrelated to this narrative technique"
+              "A strictly chronological summary of plot events only",
+              "A strict timeline of externally verifiable events"
             ],
             "answer": 1
           },
@@ -48445,7 +48445,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Purely imaginary events with no basis in lived experience",
               "Injustice or historical trauma the narrator has lived through or witnessed",
-              "Fictional characters unrelated to real history",
+              "A fictional courtroom drama with invented witnesses",
               "Abstract mathematical concepts"
             ],
             "answer": 1
@@ -48463,9 +48463,9 @@ const curriculum: DayContent[] = [
             "q": "Hypothesis testing evaluates whether observed data provide enough evidence to reject an assumed default ___.",
             "options": [
               "Claim",
-              "Location, a concept unrelated to statistical evidence",
-              "A concept unrelated to hypothesis testing",
-              "Colour, a concept unrelated to statistical evidence"
+              "Sample, a collection of data points rather than a statistical assumption being tested",
+              "Significance level, the threshold used to judge evidence rather than the assumption itself",
+              "Estimator, a rule for calculating a statistic rather than the assumption being tested"
             ],
             "answer": 0
           },
@@ -48473,7 +48473,7 @@ const curriculum: DayContent[] = [
             "q": "The golden ratio is an irrational number arising as the positive solution to a specific ___ equation.",
             "options": [
               "Quadratic",
-              "A concept unrelated to how the golden ratio is defined",
+              "Cubic, an inaccurate description of the type of equation defining the golden ratio",
               "Trigonometric, an inaccurate description of the type of equation defining the golden ratio",
               "Logarithmic, an inaccurate description of the type of equation defining the golden ratio"
             ],
@@ -48560,10 +48560,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Cherenkov radiation is a faint blue glow emitted when a charged particle travels through a transparent medium at a speed exceeding the speed of ___ within that specific medium.",
             "options": [
-              "Sound, a type of wave unrelated to the defining condition for Cherenkov radiation",
+              "Sound, since Cherenkov radiation is fundamentally an acoustic phenomenon",
               "Light",
-              "Heat, a concept unrelated to the defining condition for Cherenkov radiation",
-              "A concept unrelated to the condition producing Cherenkov radiation"
+              "Heat, since the glow is produced by thermal radiation from the particle",
+              "Gravity, since the particle's speed relative to gravitational pull causes the glow"
             ],
             "answer": 1
           },
@@ -48572,8 +48572,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Equatorial, an inaccurate description of where these charged particles are typically funnelled",
               "Polar",
-              "Oceanic, a description unrelated to the magnetic funnelling that produces the aurora",
-              "A concept unrelated to where the aurora is typically observed"
+              "Tropical latitudes, where solar radiation is most direct",
+              "Mid-latitude regions, where magnetic field lines are weakest"
             ],
             "answer": 1
           },
@@ -48617,10 +48617,10 @@ const curriculum: DayContent[] = [
           {
             "q": "A literary parody closely imitates the style, structure, or conventions of an existing text or ___.",
             "options": [
-              "Currency, a concept unrelated to literary imitation",
+              "A set of grammatical rules unique to a specific regional dialect",
               "Genre",
-              "A concept unrelated to this form of writing",
-              "Weather pattern, a concept unrelated to literary imitation"
+              "A new, entirely invented form with no precedent in existing writing",
+              "A musical genre performed only in live concert settings"
             ],
             "answer": 1
           },
@@ -48628,8 +48628,8 @@ const curriculum: DayContent[] = [
             "q": "Verse drama is a play written substantially or entirely in poetic ___ rather than prose dialogue.",
             "options": [
               "Silence, an inaccurate description of a play built around spoken language",
-              "Stage directions exclusively, with no connection to a character’s spoken dialogue",
-              "A concept unrelated to this dramatic form",
+              "A series of lengthy prose monologues delivered without any dialogue",
+              "A form reserved exclusively for closet drama never meant to be staged",
               "Metre"
             ],
             "answer": 3
@@ -48764,10 +48764,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Stress describes the internal force per unit ___ within a material under load.",
             "options": [
-              "Colour, a quantity unrelated to how stress within a material is defined",
-              "Time, a quantity unrelated to how stress within a material is defined",
+              "Volume, since stress depends on the total amount of material present",
+              "Length, measured along the direction of the applied load",
               "Area",
-              "A concept unrelated to the definition of stress"
+              "Mass, since heavier materials inherently experience more internal stress"
             ],
             "answer": 2
           },
@@ -48775,7 +48775,7 @@ const curriculum: DayContent[] = [
             "q": "The twin paradox is a thought experiment in special relativity in which one twin travels at high speed on a round trip while the other remains on ___.",
             "options": [
               "A distant, unspecified location with no meaningful comparison point",
-              "A concept unrelated to how this thought experiment is set up",
+              "A space station orbiting at a constant, unchanging velocity",
               "Earth",
               "A spacecraft identical to the travelling twin’s, an inaccurate description of the stationary twin’s situation"
             ],
@@ -48824,7 +48824,7 @@ const curriculum: DayContent[] = [
               "Fictional storytelling with no factual basis",
               "Statistical analysis and visual infographics",
               "Only handwritten personal opinions with no data",
-              "A concept unrelated to media analysis"
+              "Only anonymous eyewitness testimony with no supporting data"
             ],
             "answer": 1
           },
@@ -48834,7 +48834,7 @@ const curriculum: DayContent[] = [
               "A visual artwork",
               "A weather pattern occurring in a specific season",
               "A mathematical proof with no artistic content",
-              "A concept unrelated to literature"
+              "A musical composition's rhythmic structure"
             ],
             "answer": 0
           },
@@ -48971,7 +48971,7 @@ const curriculum: DayContent[] = [
               "Oxygen only",
               "Carbon",
               "Helium",
-              "A concept unrelated to any specific element"
+              "Nitrogen"
             ],
             "answer": 1
           },
@@ -48981,7 +48981,7 @@ const curriculum: DayContent[] = [
               "Only ordinary reflections off a mirror-like surface",
               "The gravity of a massive object bending light from a distant source",
               "Sound waves travelling through empty space",
-              "A concept unrelated to physics"
+              "The diffraction of light around small particles in interstellar dust clouds"
             ],
             "answer": 1
           },
@@ -49025,8 +49025,8 @@ const curriculum: DayContent[] = [
           {
             "q": "What does an annotated bibliography include for each source, beyond a simple citation?",
             "options": [
-              "A concept unrelated to writing",
-              "A random unrelated quotation with no connection to the source",
+              "A complete reprint of the source's full text",
+              "A list of the source's publisher and print run numbers",
               "A brief summary and evaluation",
               "Only the exact page count of the source"
             ],
@@ -49035,7 +49035,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What might call into question the accuracy of an unreliable chronicle?",
             "options": [
-              "A concept unrelated to literature",
+              "The number of chapters into which the text is divided",
               "Only the exact publication date of the text",
               "A narrator’s biases, gaps in memory, or hidden motives",
               "The font used in the printed edition"
@@ -49126,7 +49126,7 @@ const curriculum: DayContent[] = [
               "An entirely new type of number system",
               "A third component",
               "A fourth and fifth component simultaneously",
-              "A concept unrelated to vectors"
+              "A single unit vector that replaces both of the original two components"
             ],
             "answer": 1
           },
@@ -49134,7 +49134,7 @@ const curriculum: DayContent[] = [
             "q": "The binomial theorem provides a method for expanding expressions like ___.",
             "options": [
               "Only expressions involving subtraction, with no addition",
-              "A concept unrelated to algebraic expansion",
+              "A method for finding the roots of any polynomial equation",
               "(a + b) raised to a power",
               "A single variable with no exponent at all"
             ],
@@ -49173,7 +49173,7 @@ const curriculum: DayContent[] = [
             "q": "Stars form from clouds of ___.",
             "options": [
               "Pure water vapour",
-              "A material unrelated to space",
+              "Pure crystallized salt deposits",
               "Only solid rock, with no gas involved",
               "Gas and dust"
             ],
@@ -49232,15 +49232,15 @@ const curriculum: DayContent[] = [
               "A textbook’s worth of unrelated facts",
               "Real people and events",
               "Only entirely invented, fantastical worlds",
-              "A concept unrelated to literature"
+              "A single historical event retold with strict factual accuracy"
             ],
             "answer": 1
           },
           {
             "q": "A college-style personal essay is centred on ___.",
             "options": [
-              "A concept unrelated to personal reflection",
-              "A fictional story with no connection to the writer",
+              "A detailed critical analysis of a work of literature assigned in class",
+              "A comprehensive list of academic achievements and awards",
               "A meaningful experience or moment of personal growth",
               "A purely factual, impersonal report"
             ],
@@ -49329,7 +49329,7 @@ const curriculum: DayContent[] = [
             "options": [
               "At a single specific point only",
               "Over an interval",
-              "A concept unrelated to functions",
+              "The instantaneous slope evaluated only at the interval's midpoint",
               "Only when the quantity remains completely constant"
             ],
             "answer": 1
@@ -49436,7 +49436,7 @@ const curriculum: DayContent[] = [
               "Existing non-poetic text that is rearranged into a poem",
               "A completely original composition with no source material",
               "A musical score with no accompanying words",
-              "A concept unrelated to literature"
+              "A direct, word-for-word transcription of another already-published poem"
             ],
             "answer": 0
           },
@@ -49446,7 +49446,7 @@ const curriculum: DayContent[] = [
               "To ensure the audience never thinks critically about the events on stage",
               "To prevent the audience from becoming emotionally absorbed, encouraging critical reflection instead",
               "To make the audience forget entirely that they are watching a performance",
-              "A concept unrelated to drama"
+              "To provide comic relief between otherwise serious dramatic scenes"
             ],
             "answer": 1
           },
@@ -49456,7 +49456,7 @@ const curriculum: DayContent[] = [
               "Applying novelistic techniques such as scene construction, extended dialogue, and interior voice to factual reporting",
               "Eliminating all use of factual information from journalism",
               "Restricting journalists to strictly distanced, third-person objectivity",
-              "A concept unrelated to media analysis"
+              "Restricting coverage exclusively to celebrity profiles and entertainment news"
             ],
             "answer": 0
           },
@@ -49466,7 +49466,7 @@ const curriculum: DayContent[] = [
               "They are permanently erased and never referenced again",
               "They remain partially visible beneath, and intertwined with, later layers of narrative",
               "They are told in a completely separate, unrelated book",
-              "A concept unrelated to literature"
+              "They are presented only through footnotes rather than within the main narrative"
             ],
             "answer": 1
           }
@@ -49494,7 +49494,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Problems counting valid arrangements like balanced parentheses or binary tree shapes",
               "Problems involving only simple, one-step addition",
-              "A concept unrelated to discrete math",
+              "Problems counting the number of ways to arrange n distinct objects in a row (ordinary permutations)",
               "Problems that have no possible numerical solution"
             ],
             "answer": 0
@@ -49505,7 +49505,7 @@ const curriculum: DayContent[] = [
               "(a+b)/2 ≥ √(ab)",
               "(a+b)/2 ≤ √(ab), with equality never possible",
               "a + b = ab for all non-negative a and b",
-              "A concept unrelated to functions"
+              "(a+b)/2 = √(ab) only when a and b are both zero"
             ],
             "answer": 0
           },
@@ -49515,7 +49515,7 @@ const curriculum: DayContent[] = [
               "The graph rises to +∞ on both ends",
               "The graph falls to -∞ on both ends",
               "The graph rises on the left and falls on the right",
-              "A concept unrelated to functions"
+              "The graph rises to +∞ on the left and falls to −∞ on the right"
             ],
             "answer": 1
           }
@@ -49544,7 +49544,7 @@ const curriculum: DayContent[] = [
               "Order matters",
               "Order does not matter at all",
               "Only one item is available to arrange",
-              "A concept unrelated to counting methods"
+              "Only situations where repeated items are allowed in the arrangement"
             ],
             "answer": 0
           },
@@ -49564,7 +49564,7 @@ const curriculum: DayContent[] = [
               "The area of the parallelogram they form",
               "A vector perpendicular to both u and v",
               "The angle between the two vectors",
-              "A concept unrelated to vectors"
+              "The cross product of the same two vectors"
             ],
             "answer": 2
           }
@@ -49640,7 +49640,7 @@ const curriculum: DayContent[] = [
               "Mourning and reflection on death or loss",
               "A set of technical instructions for a household task",
               "A humorous account of an everyday inconvenience",
-              "A concept unrelated to writing"
+              "A celebration of a military victory or political triumph"
             ],
             "answer": 0
           },
@@ -49649,7 +49649,7 @@ const curriculum: DayContent[] = [
             "options": [
               "You",
               "They, used exclusively in the plural",
-              "A concept unrelated to literature",
+              "We, used to merge narrator and reader into one collective viewpoint",
               "He or she"
             ],
             "answer": 0
@@ -49660,7 +49660,7 @@ const curriculum: DayContent[] = [
               "The moral and psychological growth of a protagonist from youth to maturity",
               "A single day in the life of an elderly protagonist, with no character change",
               "A collection of unrelated short anecdotes with no central character",
-              "A concept unrelated to writing"
+              "The rise and fall of a political dynasty across several generations"
             ],
             "answer": 0
           },
@@ -49670,7 +49670,7 @@ const curriculum: DayContent[] = [
               "The volume level at which a text should be read aloud",
               "A synonym for the physical typeface used in a printed edition",
               "A narrator's or author's distinctive style, tone, and perspective",
-              "A concept unrelated to literature"
+              "The grammatical person—first, second, or third—in which a story is told"
             ],
             "answer": 2
           }
@@ -49686,7 +49686,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does Descartes’ rule of signs help determine about a polynomial equation?",
             "options": [
-              "A concept unrelated to functions",
+              "The exact number of negative real roots, without needing any substitution",
               "An upper bound on the number of positive real roots, based on sign changes in the coefficients",
               "The exact value of every root of the polynomial",
               "The polynomial’s degree, based on its leading coefficient alone"
@@ -49709,7 +49709,7 @@ const curriculum: DayContent[] = [
               "The graph crosses the x-axis at x=2",
               "The graph has a vertical asymptote at x=2",
               "The graph touches the x-axis at x=2 and turns back without crossing, due to the even multiplicity",
-              "A concept unrelated to functions"
+              "The graph crosses the x-axis at x=2 with a change in sign"
             ],
             "answer": 2
           },
@@ -49719,7 +49719,7 @@ const curriculum: DayContent[] = [
               "p(a) = 0 and q(a) = 0 simultaneously",
               "q(a) = 0 and p(a) ≠ 0",
               "p(a) = 0 and q(a) ≠ 0",
-              "A concept unrelated to functions"
+              "p(a) = 0 and q(a) = 0, canceling to leave a removable discontinuity instead"
             ],
             "answer": 1
           }
@@ -49841,7 +49841,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which setting is most closely associated with the Gothic novel tradition?",
             "options": [
-              "A concept unrelated to literature",
+              "A sun-drenched Mediterranean villa overlooking the sea",
               "A modern, minimalist corporate office building",
               "A crumbling castle or decaying ancestral estate shrouded in atmosphere and mystery",
               "A brightly lit, cheerful suburban shopping mall"
@@ -49864,7 +49864,7 @@ const curriculum: DayContent[] = [
               "A single speaker addressing a silent listener, revealing character through their own words",
               "Multiple narrators alternating chapters with no unifying voice",
               "The complete absence of any addressee or audience",
-              "A concept unrelated to poetry"
+              "A conversation between two equal speakers who alternate lines evenly"
             ],
             "answer": 0
           },
@@ -49874,7 +49874,7 @@ const curriculum: DayContent[] = [
               "Strictly avoids any reference to its own fictional or constructed nature",
               "Self-consciously draws attention to its own status as a fictional, constructed work",
               "Can only be written in strict chronological order",
-              "A concept unrelated to literature"
+              "A narrative technique limited exclusively to graphic novels and comics"
             ],
             "answer": 1
           }
@@ -49962,7 +49962,7 @@ const curriculum: DayContent[] = [
               "(x − a) is a factor of P(x)",
               "a is the only zero of P(x)",
               "P(x) has no real zeros elsewhere",
-              "A concept unrelated to calculus"
+              "The degree of P(x) must be exactly one"
             ],
             "answer": 0
           },
@@ -49972,7 +49972,7 @@ const curriculum: DayContent[] = [
               "Magnitude only, with direction being irrelevant",
               "Both magnitude and direction",
               "Direction only, with no defined magnitude",
-              "A concept unrelated to vectors"
+              "A quantity that can only take on negative values, never positive ones"
             ],
             "answer": 1
           }
@@ -50045,7 +50045,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How many lines does a traditional villanelle contain?",
             "options": [
-              "A concept unrelated to literature",
+              "Twenty-six",
               "Thirty-one",
               "Nineteen",
               "Fourteen"
@@ -50096,7 +50096,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It must be equal to zero somewhere on every possible interval",
               "It never takes on any value between f(a) and f(b)",
-              "A concept unrelated to functions",
+              "It guarantees the function is differentiable everywhere on the interval",
               "It takes on every value between f(a) and f(b) at least once somewhere on that interval"
             ],
             "answer": 3
@@ -50155,7 +50155,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only whole, undivided numbers",
               "Remainders after division",
-              "A concept unrelated to math",
+              "Only prime numbers and their multiples",
               "Only negative numbers"
             ],
             "answer": 1
@@ -50251,7 +50251,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A strict, chronological summary of an entire plot",
               "Only a characters physical actions with no inner thought at all",
-              "A list of unrelated facts with no connection to any character",
+              "A rigid formal structure requiring iambic pentameter throughout",
               "A characters continuous flow of thoughts and impressions as they occur"
             ],
             "answer": 3
@@ -50301,7 +50301,7 @@ const curriculum: DayContent[] = [
               "It counts only the elements that belong to none of the sets involved",
               "It corrects for elements counted more than once because they belong to more than one set",
               "It ignores every set except for the single largest one",
-              "A concept unrelated to discrete math"
+              "It counts each element in the union exactly as many times as the number of sets it belongs to"
             ],
             "answer": 1
           },
@@ -50347,7 +50347,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does the double-angle formula for sine express?",
             "options": [
-              "A concept unrelated to trigonometry",
+              "The sum of sin(x) and cos(x) with no multiplication involved",
               "The area of a triangle",
               "Only the value of x itself",
               "sin(2x) in terms of sin(x) and cos(x)"
@@ -50357,7 +50357,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In the composition f(g(x)), which function is evaluated first?",
             "options": [
-              "A concept unrelated to function composition",
+              "Both functions are evaluated at the same time, then multiplied together",
               "f(x)",
               "g(x)",
               "Neither function is ever evaluated"
@@ -50399,7 +50399,7 @@ const curriculum: DayContent[] = [
               "Swirling loops of induced electric current within the conductor",
               "A type of mechanical wave travelling through the conductor’s surface",
               "A steady, unchanging flow of current in a single straight line",
-              "A concept unrelated to physics"
+              "A permanent magnetic field frozen into the conductor's structure"
             ],
             "answer": 0
           },
@@ -50835,7 +50835,7 @@ const curriculum: DayContent[] = [
             "q": "What structural consequence does the Pauli exclusion principle have for the electron configuration of multi-electron atoms?",
             "options": [
               "It forces all electrons into a single shared orbital",
-              "It has no effect on how electrons are distributed among orbitals",
+              "It only applies to electrons in the outermost shell, not inner ones",
               "It requires electrons to fill successive orbitals and shells rather than all collapsing into the lowest energy state",
               "It causes electrons to be emitted from the atom entirely"
             ],
@@ -51476,7 +51476,7 @@ const curriculum: DayContent[] = [
               "Purely historical events with no relation to the environment",
               "Only the technical science of weather forecasting",
               "The human and social consequences of environmental change",
-              "A world with no connection to climate at all"
+              "A utopian future where technology has fully eliminated environmental concerns"
             ],
             "answer": 2
           },
@@ -52351,7 +52351,7 @@ const curriculum: DayContent[] = [
               "The exact sum of an infinite series only",
               "Each term in terms of one or more earlier terms",
               "A single fixed constant with no sequence involved",
-              "A term with no connection to any earlier term"
+              "A formula that computes a term directly from its position n, with no reference to other terms"
             ],
             "answer": 1
           },
@@ -52697,7 +52697,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What kind of characters typically populate a morality play?",
             "options": [
-              "Animals with no connection to human conduct",
+              "Ordinary townsfolk engaged in realistic domestic disputes",
               "Historical figures with no symbolic meaning at all",
               "Personifications of abstract qualities, such as Virtue or Vice",
               "Characters drawn entirely from ancient myth with no allegory involved"
@@ -53108,7 +53108,7 @@ const curriculum: DayContent[] = [
               "A single characters private, interior thoughts with no external action",
               "Purely comic misunderstandings with no serious consequences",
               "The lives, feuds, and voyages of legendary or historical families and heroes",
-              "An entirely fictional world with no connection to genealogy or history"
+              "A tightly plotted courtroom drama focused on a single trial"
             ],
             "answer": 2
           },
@@ -53117,7 +53117,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A historical event from many centuries earlier with no contemporary relevance",
               "A specific contemporary social issue, often within a realistic domestic setting",
-              "A purely fantastical conflict with no connection to real social life",
+              "A timeless mythological conflict between gods and mortals",
               "A conflict resolved entirely offstage before the play begins"
             ],
             "answer": 1
