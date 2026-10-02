@@ -32041,7 +32041,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=6thm0FCDGL4"
       },
       {
         "subject": "Math",
@@ -32101,7 +32102,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Multiplication & Division",
+        "videoUrl": "https://www.youtube.com/watch?v=DfN8e6ZX8Sw",
+        "videoUrls": [
+          {
+            "label": "Multiply by 10",
+            "url": "https://www.youtube.com/watch?v=8g6EJX_qLSU"
+          }
+        ]
       },
       {
         "subject": "Science",
@@ -32161,7 +32169,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=mQAOe-0vxdc"
       },
       {
         "subject": "SocialStudies",
@@ -32221,7 +32230,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Canadian Identity & Symbols"
+        "topic": "Canadian Identity & Symbols",
+        "videoUrl": "https://www.youtube.com/watch?v=70WbeqNOJQs"
       }
     ]
   },

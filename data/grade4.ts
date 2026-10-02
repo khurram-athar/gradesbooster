@@ -25687,8 +25687,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Writing: Writing an Interview",
         "summary": "Grade 4 Language strand: writing an interview involves preparing clear questions in advance and recording a person’s answers accurately, often used in non-fiction writing like newspaper articles.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "resourceLabel": "YouTube: Writing: Writing an Interview",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20an%20Interview%20grade%204%20educational",
         "quiz": [
           {
             "q": "What should a writer prepare in advance before conducting an interview?",
@@ -25741,7 +25741,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=zl0TZt4ODIs"
       },
       {
         "subject": "Math",
@@ -26230,8 +26231,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Types of Nouns — Common, Proper, Collective, and Abstract",
         "summary": "Grade 4 Language strand: nouns can be common (a general name like city), proper (a specific name like Toronto, always capitalized), collective (a name for a group like team or flock), or abstract (a name for an idea or feeling like happiness).",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "resourceLabel": "YouTube: Grammar: Types of Nouns — Common, Proper, Collective, and Abstract",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Types%20of%20Nouns%20%E2%80%94%20Common%2C%20Proper%2C%20Collective%2C%20and%20Abstract%20grade%204%20educational",
         "quiz": [
           {
             "q": "What do we call a noun that names a specific person, place, or thing and starts with a capital letter?",
@@ -26284,14 +26285,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=vGkcIMTpy30"
       },
       {
         "subject": "Math",
         "title": "Number Sense: Even and Odd Numbers and Their Properties",
         "summary": "Grade 4 Math strand: even numbers can be split into two equal groups and end in 0, 2, 4, 6, or 8, while odd numbers cannot be split evenly and end in 1, 3, 5, 7, or 9.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "resourceLabel": "YouTube: Number Sense: Even and Odd Numbers and Their Properties",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Even%20and%20Odd%20Numbers%20and%20Their%20Properties%20grade%204%20educational",
         "quiz": [
           {
             "q": "Which digit endings always make a number even?",
@@ -26344,14 +26346,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Number Sense: Basic Counting"
+        "topic": "Number Sense: Basic Counting",
+        "videoUrl": "https://www.youtube.com/watch?v=3iQqmmG8wQQ"
       },
       {
         "subject": "Science",
         "title": "Science: Structures: Forces Acting on Structures — Tension and Compression",
         "summary": "Grade 4 Science strand: structures experience tension, a pulling or stretching force, and compression, a pushing or squeezing force, and engineers design structures to withstand both.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "resourceLabel": "YouTube: Science: Structures: Forces Acting on Structures — Tension and Compression",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Structures%3A%20Forces%20Acting%20on%20Structures%20%E2%80%94%20Tension%20and%20Compression%20grade%204%20educational",
         "quiz": [
           {
             "q": "What do we call a pulling or stretching force on a structure?",
@@ -26404,7 +26407,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Forces & Motion"
+        "topic": "Forces & Motion",
+        "videoUrl": "https://www.youtube.com/watch?v=C20gplgvBUY"
       },
       {
         "subject": "SocialStudies",

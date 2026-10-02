@@ -25220,8 +25220,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Commas in Dates and Addresses",
         "summary": "Grade 3 Language strand: commas are used to separate the day and year in a date, and to separate parts of an address, such as a city and province.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Grammar: Commas in Dates and Addresses",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Commas%20in%20Dates%20and%20Addresses%20grade%203%20educational",
         "quiz": [
           {
             "q": "In the date July 22, 2026, where should the comma be placed?",
@@ -25274,14 +25274,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=cwOJTlyTdjM"
       },
       {
         "subject": "Math",
         "title": "Number: Rounding to the Nearest 1000",
         "summary": "Grade 3 Math strand: to round a number to the nearest 1000, look at the hundreds digit -- if it is 5 or more, round up to the next 1000; if it is less than 5, round down.",
-        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "resourceLabel": "YouTube: Number: Rounding to the Nearest 1000",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%3A%20Rounding%20to%20the%20Nearest%201000%20grade%203%20educational",
         "quiz": [
           {
             "q": "Which digit do you look at to round a number to the nearest 1000?",
@@ -25334,14 +25335,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Place Value & Number Sense",
+        "videoUrl": "https://www.youtube.com/watch?v=DUyLQJXqytI"
       },
       {
         "subject": "Science",
         "title": "Science: Bird Adaptations for Flight",
         "summary": "Grade 3 Science strand: birds have special adaptations for flight, such as lightweight hollow bones, feathers, and strong wing muscles, that help them fly efficiently.",
-        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "resourceLabel": "YouTube: Science: Bird Adaptations for Flight",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Bird%20Adaptations%20for%20Flight%20grade%203%20educational",
         "quiz": [
           {
             "q": "What kind of bones do birds have that help them fly?",
@@ -25394,7 +25396,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Evolution"
+        "topic": "Evolution",
+        "videoUrl": "https://www.youtube.com/watch?v=cgO07y9JIIE"
       },
       {
         "subject": "SocialStudies",

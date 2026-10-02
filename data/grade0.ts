@@ -29593,7 +29593,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=sn6GLgaTY0M"
       },
       {
         "subject": "Math",
@@ -29653,7 +29654,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=CzFLDtvN_Xk"
       },
       {
         "subject": "Science",
@@ -29735,7 +29737,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Human Body (Basic)"
+        "topic": "Human Body (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=v7Or809TTRU"
       },
       {
         "subject": "SocialStudies",
@@ -29795,7 +29798,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=fJ7oGJRU9A8"
       }
     ]
   },

@@ -31412,7 +31412,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=uwmM1Zub0hI"
       },
       {
         "subject": "Math",
@@ -31495,7 +31496,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Place Value & Number Sense",
+        "videoUrl": "https://www.youtube.com/watch?v=a4FXl4zb3E4"
       },
       {
         "subject": "Science",
@@ -31555,7 +31557,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=vQSECrMIygg"
       },
       {
         "subject": "SocialStudies",

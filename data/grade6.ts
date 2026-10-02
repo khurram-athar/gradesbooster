@@ -25339,8 +25339,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Direct and Indirect (Reported) Speech",
         "summary": "Grade 6 Language strand: direct speech reports a speaker’s exact words, usually set off by quotation marks, while indirect (reported) speech restates what was said without quotation marks and typically shifts the pronouns and verb tense.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Grammar: Direct and Indirect (Reported) Speech",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Direct%20and%20Indirect%20%28Reported%29%20Speech%20grade%206%20educational",
         "quiz": [
           {
             "q": "What does direct speech do?",
@@ -25393,7 +25393,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=HnHYkIS-Eds"
       },
       {
         "subject": "Math",

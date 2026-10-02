@@ -25947,8 +25947,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Oral Communication: Active Listening and Effective Speaking",
         "summary": "Grade 5 Language strand: active listening means giving full attention, avoiding interruptions, and asking clarifying questions, while effective speaking includes clear volume, appropriate pacing, and eye contact with an audience.",
-        "resourceLabel": "TVO Learn: Grade 5 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "resourceLabel": "YouTube: Oral Communication: Active Listening and Effective Speaking",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Active%20Listening%20and%20Effective%20Speaking%20grade%205%20educational",
         "quiz": [
           {
             "q": "What is one key habit of an active listener during a conversation?",
@@ -26001,14 +26001,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Oral Communication & Presentation"
+        "topic": "Oral Communication & Presentation",
+        "videoUrl": "https://www.youtube.com/watch?v=e-CVjJFKd1A"
       },
       {
         "subject": "Math",
         "title": "Number Sense: Reading and Writing Numbers to One Million",
         "summary": "Grade 5 Math strand: students read, write, and represent whole numbers up to one million, understanding that each digit’s place value, from ones to hundred thousands, determines its worth.",
-        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "resourceLabel": "YouTube: Number Sense: Reading and Writing Numbers to One Million",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Reading%20and%20Writing%20Numbers%20to%20One%20Million%20grade%205%20educational",
         "quiz": [
           {
             "q": "In the number 452,367, what is the value of the digit 4?",
@@ -26061,7 +26062,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Number Sense: Place Value & Operations"
+        "topic": "Number Sense: Place Value & Operations",
+        "videoUrl": "https://www.youtube.com/watch?v=mILmsk5jsFg"
       },
       {
         "subject": "Science",
@@ -26127,8 +26129,8 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Provincial Flags, Coats of Arms, and Emblems Across Canada",
         "summary": "Grade 5 Social Studies strand: each Canadian province and territory has its own flag, coat of arms, and emblems, such as an official flower or bird, that reflect its unique history and identity.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "resourceLabel": "YouTube: Provincial Flags, Coats of Arms, and Emblems Across Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Provincial%20Flags%2C%20Coats%20of%20Arms%2C%20and%20Emblems%20Across%20Canada%20grade%205%20educational",
         "quiz": [
           {
             "q": "Does each Canadian province have its own official flag?",
@@ -26180,7 +26182,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=CtfaCcBRttY"
       }
     ]
   },
