@@ -24786,7 +24786,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=F0EFPWV4d1g"
       },
       {
         "subject": "Math",
@@ -24846,7 +24847,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=E91bGT9BjYk"
       },
       {
         "subject": "Science",
@@ -24906,7 +24908,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=Dd-Bslj_bOI"
       },
       {
         "subject": "SocialStudies",
@@ -24966,7 +24969,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Government & Civics"
+        "topic": "Government & Civics",
+        "videoUrl": "https://www.youtube.com/watch?v=kkfsctBcVzU"
       }
     ]
   },
@@ -25031,7 +25035,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=F0EFPWV4d1g"
       },
       {
         "subject": "Math",
@@ -25164,7 +25169,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Dd-Bslj_bOI"
       },
       {
         "subject": "SocialStudies",

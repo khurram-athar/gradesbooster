@@ -24686,7 +24686,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=B5vEfuLS2Qc"
       },
       {
         "subject": "AdvancedFunctions",
@@ -24746,7 +24747,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=zAGP46nR6-0"
       },
       {
         "subject": "Calculus",
@@ -24806,7 +24808,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Calculus: Related Rates"
+        "topic": "Calculus: Related Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=JkKr1hDYDBQ"
       },
       {
         "subject": "Physics",
@@ -24865,7 +24868,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=TQKELOE9eY4"
       }
     ]
   },
@@ -24991,7 +24995,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=G5tOhaBEWJ0"
       },
       {
         "subject": "Calculus",
@@ -25051,7 +25056,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Calculus: Related Rates"
+        "topic": "Calculus: Related Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=-En2IABPR0I"
       },
       {
         "subject": "Physics",
@@ -25110,7 +25116,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=TQKELOE9eY4"
       }
     ]
   },

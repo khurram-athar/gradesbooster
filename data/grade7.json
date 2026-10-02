@@ -24784,7 +24784,8 @@
             "answer": 3
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=F0EFPWV4d1g"
       },
       {
         "subject": "Math",
@@ -24844,7 +24845,8 @@
             "answer": 2
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=E91bGT9BjYk"
       },
       {
         "subject": "Science",
@@ -24904,7 +24906,8 @@
             "answer": 0
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=Dd-Bslj_bOI"
       },
       {
         "subject": "SocialStudies",
@@ -24964,7 +24967,8 @@
             "answer": 3
           }
         ],
-        "topic": "Government & Civics"
+        "topic": "Government & Civics",
+        "videoUrl": "https://www.youtube.com/watch?v=kkfsctBcVzU"
       }
     ]
   },
@@ -25029,7 +25033,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=F0EFPWV4d1g"
       },
       {
         "subject": "Math",
@@ -25162,7 +25167,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Dd-Bslj_bOI"
       },
       {
         "subject": "SocialStudies",

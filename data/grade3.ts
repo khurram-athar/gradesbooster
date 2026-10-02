@@ -24779,7 +24779,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading: Non-Fiction & Informational Text"
+        "topic": "Reading: Non-Fiction & Informational Text",
+        "videoUrl": "https://www.youtube.com/watch?v=n4FGe8cnEU8"
       },
       {
         "subject": "Math",
@@ -24839,7 +24840,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=6mopAgqjkVM"
       },
       {
         "subject": "Science",
@@ -24898,7 +24900,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=v6YhghG7mzQ"
       },
       {
         "subject": "SocialStudies",
@@ -24958,7 +24961,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Population & Urbanization"
+        "topic": "Population & Urbanization",
+        "videoUrl": "https://www.youtube.com/watch?v=cX02bJ1pyw4"
       }
     ]
   },
@@ -25023,7 +25027,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=n4FGe8cnEU8"
       },
       {
         "subject": "Math",
@@ -25082,7 +25087,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=6mopAgqjkVM"
       },
       {
         "subject": "Science",
@@ -25141,7 +25147,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=v6YhghG7mzQ"
       },
       {
         "subject": "SocialStudies",
@@ -25200,7 +25207,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=cX02bJ1pyw4"
       }
     ]
   },

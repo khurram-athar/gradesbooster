@@ -25504,7 +25504,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=KcfrRmB9ao0"
       },
       {
         "subject": "Math",
@@ -25564,7 +25565,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=dAKAfcqi3x4"
       },
       {
         "subject": "Science",
@@ -25624,7 +25626,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Human Body Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=3MN-M4gsDX0"
       },
       {
         "subject": "SocialStudies",
@@ -25684,7 +25687,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Celebrations & Traditions (Basic)"
+        "topic": "Celebrations & Traditions (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=wBjPIXcZBF8"
       }
     ]
   },
@@ -25749,7 +25753,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=KcfrRmB9ao0"
       },
       {
         "subject": "Math",
@@ -25808,7 +25813,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dAKAfcqi3x4"
       },
       {
         "subject": "Science",
@@ -25868,7 +25874,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Human Body Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=uyqt7ekkP2E"
       },
       {
         "subject": "SocialStudies",
@@ -25927,7 +25934,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=DLVckli72CY"
       }
     ]
   },

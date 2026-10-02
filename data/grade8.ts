@@ -24844,7 +24844,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=isBKoIORntI"
       },
       {
         "subject": "Math",
@@ -24904,7 +24905,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=RAKwouL-lTc"
       },
       {
         "subject": "Science",
@@ -24963,7 +24965,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=HuOzbxaaVOo"
       },
       {
         "subject": "History",
@@ -25022,7 +25025,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=BCCA1n-AoPs"
       }
     ]
   },
@@ -25087,7 +25091,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=isBKoIORntI"
       },
       {
         "subject": "Math",
@@ -25147,7 +25152,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=IuUpcCKTJBk"
       },
       {
         "subject": "Science",
@@ -25206,7 +25212,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=HuOzbxaaVOo"
       },
       {
         "subject": "History",
@@ -25266,7 +25273,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Culture, Diversity & Multiculturalism"
+        "topic": "Culture, Diversity & Multiculturalism",
+        "videoUrl": "https://www.youtube.com/watch?v=lIVMh97mHxw"
       }
     ]
   },

@@ -31392,7 +31392,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=e_UE1hOh7Z0"
       },
       {
         "subject": "Math",
@@ -31475,7 +31476,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=efPbOfnbi7k"
       },
       {
         "subject": "Science",
@@ -31557,7 +31559,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=SNF8b7KKJ2I"
       },
       {
         "subject": "SocialStudies",
@@ -31639,7 +31642,8 @@ const curriculum: DayContent[] = [
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=cYx5R7fTQAo"
       }
     ]
   },
@@ -31725,7 +31729,8 @@ const curriculum: DayContent[] = [
               "a conclusion using clues"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=e_UE1hOh7Z0"
       },
       {
         "subject": "Math",
@@ -31886,7 +31891,8 @@ const curriculum: DayContent[] = [
               "symbiosis"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=SNF8b7KKJ2I"
       },
       {
         "subject": "SocialStudies",
@@ -31968,7 +31974,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=v7azUjcUlzg"
       }
     ]
   },

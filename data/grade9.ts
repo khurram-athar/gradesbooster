@@ -24974,6 +24974,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=G6xEh-v9Pjs",
+        "videoUrls": [
+          {
+            "label": "Collective Nouns",
+            "url": "https://www.youtube.com/watch?v=G6xEh-v9Pjs"
+          },
+          {
+            "label": "Indefinite Pronouns",
+            "url": "https://www.youtube.com/watch?v=XiWhqTn1E20"
+          }
         ]
       },
       {
@@ -25034,7 +25045,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Equations & Inequalities",
+        "videoUrl": "https://www.youtube.com/watch?v=Pd4hwS8qHms"
       },
       {
         "subject": "Science",
@@ -25094,7 +25106,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=gBLQUplzZZo"
       },
       {
         "subject": "SocialStudies",
@@ -25154,7 +25167,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "World Geography & Cultures"
+        "topic": "World Geography & Cultures",
+        "videoUrl": "https://www.youtube.com/watch?v=tSEkJMm9Gdg"
       }
     ]
   },
@@ -25219,7 +25233,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=G6xEh-v9Pjs"
       },
       {
         "subject": "Math",
@@ -25278,7 +25293,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Pd4hwS8qHms"
       },
       {
         "subject": "Science",
@@ -25337,7 +25353,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=gBLQUplzZZo"
       },
       {
         "subject": "SocialStudies",
@@ -25396,7 +25413,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=tSEkJMm9Gdg"
       }
     ]
   },

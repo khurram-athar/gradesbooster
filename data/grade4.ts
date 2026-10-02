@@ -25801,7 +25801,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Number Sense: Place Value & Operations"
+        "topic": "Number Sense: Place Value & Operations",
+        "videoUrl": "https://www.youtube.com/watch?v=0qOmmHxqX5M"
       },
       {
         "subject": "Science",
@@ -25884,7 +25885,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Human Body (Basic)"
+        "topic": "Human Body (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=mptjEoHF2aI"
       },
       {
         "subject": "SocialStudies",
@@ -25944,7 +25946,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Natural Resources & Industry",
+        "videoUrl": "https://www.youtube.com/watch?v=po3fu_T14xo"
       }
     ]
   },
@@ -26009,7 +26012,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dvxEoW2waac"
       },
       {
         "subject": "Math",
@@ -26068,7 +26072,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=0qOmmHxqX5M"
       },
       {
         "subject": "Science",
@@ -26152,7 +26157,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=dJ1oI3xvqag"
       },
       {
         "subject": "SocialStudies",

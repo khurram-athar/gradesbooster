@@ -30782,7 +30782,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=s0U_CaZeuw8"
       },
       {
         "subject": "Math",
@@ -30864,7 +30865,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Addition & Subtraction"
+        "topic": "Addition & Subtraction",
+        "videoUrl": "https://www.youtube.com/watch?v=LSeL6tPBjug"
       },
       {
         "subject": "Science",
@@ -30924,7 +30926,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=mptjEoHF2aI"
       },
       {
         "subject": "SocialStudies",
@@ -31006,7 +31009,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Environment & Sustainability (Social Studies)"
+        "topic": "Environment & Sustainability (Social Studies)",
+        "videoUrl": "https://www.youtube.com/watch?v=Fex-wvrOZf4"
       }
     ]
   },
@@ -31236,7 +31240,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=mWeTqNdSQlE"
       },
       {
         "subject": "SocialStudies",
@@ -31316,7 +31321,8 @@ const curriculum: DayContent[] = [
               "reduce reuse recycle"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Fex-wvrOZf4"
       }
     ]
   },

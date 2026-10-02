@@ -24756,7 +24756,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=4EBBq3p_7T4"
       },
       {
         "subject": "Math",
@@ -24816,7 +24817,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=-5cw1xc8pTw"
       },
       {
         "subject": "Science",
@@ -24876,7 +24878,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=Mp29NF9jQqg"
       },
       {
         "subject": "History",
@@ -24935,7 +24938,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=KEzjieGNV0I"
       }
     ]
   },
@@ -25000,7 +25004,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=4EBBq3p_7T4"
       },
       {
         "subject": "Math",
@@ -25060,7 +25065,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Patterning"
+        "topic": "Patterning",
+        "videoUrl": "https://www.youtube.com/watch?v=KRFiAlo7t1E"
       },
       {
         "subject": "Science",
@@ -25119,7 +25125,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Mp29NF9jQqg"
       },
       {
         "subject": "History",
@@ -25178,7 +25185,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=KEzjieGNV0I"
       }
     ]
   },

@@ -24781,7 +24781,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=xn9zfTiSdeQ"
       },
       {
         "subject": "Functions",
@@ -24902,7 +24903,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Human Body & Health"
+        "topic": "Human Body & Health",
+        "videoUrl": "https://www.youtube.com/watch?v=Ie2j7GpC4JU"
       },
       {
         "subject": "Chemistry",
@@ -24962,7 +24964,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Earth Materials & Land (Basic)"
+        "topic": "Earth Materials & Land (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=yErahy6Pnuo"
       }
     ]
   },
@@ -25027,7 +25030,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=xn9zfTiSdeQ"
       },
       {
         "subject": "Functions",
@@ -25160,7 +25164,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Ie2j7GpC4JU"
       },
       {
         "subject": "Chemistry",

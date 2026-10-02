@@ -24888,7 +24888,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=0ZYX6giCkM4"
       },
       {
         "subject": "Math",
@@ -24948,7 +24949,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Patterning"
+        "topic": "Patterning",
+        "videoUrl": "https://www.youtube.com/watch?v=qii94Rut4S0"
       },
       {
         "subject": "Science",
@@ -25008,7 +25010,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Structures, Materials & Engineering"
+        "topic": "Structures, Materials & Engineering",
+        "videoUrl": "https://www.youtube.com/watch?v=sB4BhHya_SU"
       },
       {
         "subject": "SocialStudies",
@@ -25067,7 +25070,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ROZp6EEMASg"
       }
     ]
   },
@@ -25132,7 +25136,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=0ZYX6giCkM4"
       },
       {
         "subject": "Math",
@@ -25191,7 +25196,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=qii94Rut4S0"
       },
       {
         "subject": "Science",
@@ -25250,7 +25256,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=sB4BhHya_SU"
       },
       {
         "subject": "SocialStudies",
