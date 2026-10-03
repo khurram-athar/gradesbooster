@@ -26071,6 +26071,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: structures experience tension, a pulling or stretching force, and compression, a pushing or squeezing force, and engineers design structures to withstand both.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=jGvCaobmYYw",
         "quiz": [
           {
             "q": "What do we call a force that pulls or stretches a material?",
@@ -26197,6 +26198,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: an apostrophe can show possession, as in the dog’s bone, or form a contraction by replacing missing letters, as in do not becoming don’t.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=w4ViVqhHDL0",
         "quiz": [
           {
             "q": "What does an apostrophe show in the phrase the cat’s toy?",
@@ -26257,6 +26259,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: the range of a data set is the difference between its greatest and least values, and an outlier is a value that is much higher or lower than the rest of the data.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=EghHoLXzMhs",
         "quiz": [
           {
             "q": "How do you calculate the range of a data set?",
@@ -26317,6 +26320,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: the screw is a simple machine made of an inclined plane wrapped around a cylinder, and the wedge is two inclined planes joined together, both used to make work easier.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=uIUfdcyrNzg",
+        "videoUrls": [
+          {
+            "label": "The Screw",
+            "url": "https://www.youtube.com/watch?v=uIUfdcyrNzg"
+          },
+          {
+            "label": "The Wedge",
+            "url": "https://www.youtube.com/watch?v=4Jbpf0Fd4jg"
+          }
+        ],
         "quiz": [
           {
             "q": "What simple machine is made of an inclined plane wrapped around a cylinder?",
@@ -26377,6 +26391,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: a farmers market is a place where local farmers sell fresh produce and other goods directly to community members, supporting local food systems and the local economy.",
         "resourceLabel": "YouTube: Social Studies: Farmers Markets and Local Food Systems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Farmers%20Markets%20and%20Local%20Food%20Systems%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WazK8e88axE",
         "quiz": [
           {
             "q": "What is a farmers market?",

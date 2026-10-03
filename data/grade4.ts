@@ -26482,6 +26482,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: drawing conclusions means using clues from the text along with what you already know to figure out something the author does not state directly.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=Z_S1pkkN81s",
         "quiz": [
           {
             "q": "What do we call using text clues and prior knowledge to figure out something an author does not state directly?",
@@ -26542,6 +26543,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: some word problems require more than one step, such as multiplying to find a total and then adding another amount to solve the problem.",
         "resourceLabel": "YouTube: Multi-Step Word Problems: Multiplication and Addition Together",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multi-Step%20Word%20Problems%3A%20Multiplication%20and%20Addition%20Together%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Zc2pSgzvRcY",
         "quiz": [
           {
             "q": "If you buy 3 bags of 4 apples, then get 2 more apples, how many apples in all?",
@@ -26602,6 +26604,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: ocean tides are the regular rising and falling of sea water along the shore, happening a few times each day.",
         "resourceLabel": "YouTube: Ocean Tides: The Rise and Fall of the Sea",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ocean%20Tides%3A%20The%20Rise%20and%20Fall%20of%20the%20Sea%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=o4tVKeLimng",
         "quiz": [
           {
             "q": "What are ocean tides?",
@@ -26685,6 +26688,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: a land acknowledgement is a respectful statement recognizing that a place was, and often still is, the traditional territory of Indigenous peoples.",
         "resourceLabel": "YouTube: Land Acknowledgements: Respecting Indigenous Territory",
         "resourceUrl": "https://www.youtube.com/results?search_query=Land%20Acknowledgements%3A%20Respecting%20Indigenous%20Territory%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rP3cTLWzCJ0",
         "quiz": [
           {
             "q": "What is a land acknowledgement?",

@@ -25129,6 +25129,7 @@
         "summary": "Grade 9 Language strand: a bildungsroman is a coming-of-age narrative that traces a young protagonist’s psychological and moral growth from youth to maturity, often through a formative experience or journey.",
         "resourceLabel": "YouTube: Writing: The Bildungsroman — Coming-of-Age Narrative Elements",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Bildungsroman%20%E2%80%94%20Coming-of-Age%20Narrative%20Elements%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eyIkfDeiZK4",
         "quiz": [
           {
             "q": "What does a bildungsroman trace?",
@@ -25189,6 +25190,7 @@
         "summary": "Students determine the vertical and horizontal asymptotes of rational functions by analyzing the factored numerator and denominator and comparing their degrees.",
         "resourceLabel": "YouTube: Rational Functions: Vertical and Horizontal Asymptotes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Vertical%20and%20Horizontal%20Asymptotes%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WKwc0sxLRTs",
         "topic": "Ratios & Rates",
         "quiz": [
           {
@@ -25249,6 +25251,7 @@
         "summary": "Water is pumped into a trough with a triangular cross-section at a constant rate. You'll use similar triangles to express the water's surface width in terms of its depth, then find how fast the depth is rising.",
         "resourceLabel": "YouTube: Related Rates: Water Filling a Triangular Trough",
         "resourceUrl": "https://www.youtube.com/results?search_query=Related%20Rates%3A%20Water%20Filling%20a%20Triangular%20Trough%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ze1SMLx6XiE",
         "quiz": [
           {
             "q": "A trough is a triangular prism, 10 m long, with a triangular cross-section that has a top width of 4 m when full to a depth of 3 m (vertex pointing down). At water depth h, the surface width w satisfies which relationship (by similar triangles)?",
@@ -25309,6 +25312,7 @@
         "summary": "Grade 12 Physics strand: Rutherford’s gold foil experiment fired alpha particles at thin gold foil and found that a small fraction scattered at large angles, revealing that an atom’s positive charge and mass are concentrated in a tiny, dense nucleus rather than spread throughout the atom.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=dNp-vP17asI",
         "quiz": [
           {
             "q": "What did Rutherford’s gold foil experiment fire at a thin sheet of gold foil?",
@@ -25374,6 +25378,7 @@
         "summary": "Grade 12 English strand: the Gothic novel, emerging in the late eighteenth century, uses settings like crumbling castles and unsettling atmosphere, along with Freud’s later concept of the uncanny — the strangely familiar made frightening — to explore fear, transgression, and the boundaries of reason.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=4IHvGHGVAM0",
         "quiz": [
           {
             "q": "Which setting is most closely associated with the Gothic novel tradition?",
@@ -25433,6 +25438,7 @@
         "summary": "Grade 12 Advanced Functions strand: the remainder theorem states that dividing a polynomial P(x) by (x − a) leaves a remainder equal to P(a), and synthetic division provides a fast, compact method for carrying out that division and locating roots.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=pKjFVFJgpCw",
         "quiz": [
           {
             "q": "According to the remainder theorem, what is the remainder when a polynomial P(x) is divided by (x − a)?",
@@ -25493,6 +25499,7 @@
         "summary": "A soap bubble expands with its radius growing at a constant rate. You'll differentiate both the volume and surface area formulas for a sphere and compare how the two rates relate to each other.",
         "resourceLabel": "YouTube: Related Rates: An Expanding Spherical Bubble",
         "resourceUrl": "https://www.youtube.com/results?search_query=Related%20Rates%3A%20An%20Expanding%20Spherical%20Bubble%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FrkrYOUgPxE",
         "quiz": [
           {
             "q": "Which formula gives the surface area S of a spherical bubble in terms of its radius r?",
@@ -25553,6 +25560,7 @@
         "summary": "Grade 12 Physics strand: Millikan’s oil drop experiment balanced the electric force on charged oil droplets against gravity to measure their charge, finding that charge always occurs in whole-number multiples of a fundamental unit, the elementary charge of a single electron.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=2HhaQtvICe8",
         "quiz": [
           {
             "q": "What forces did Millikan balance against each other in the oil drop experiment to determine a droplet’s charge?",

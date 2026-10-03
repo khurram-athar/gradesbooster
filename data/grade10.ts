@@ -25200,6 +25200,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: an archetype is a recurring character, symbol, or pattern found across literature and cultures, and the hero’s journey traces a protagonist’s call to adventure, trials, and eventual transformation.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=RaVzk2YzA2Q",
         "quiz": [
           {
             "q": "What is an archetype?",
@@ -25260,6 +25261,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: a mortgage is a long-term loan used to purchase property, and amortization describes the schedule of regular payments that gradually pay down both the interest owed and the original amount borrowed.",
         "resourceLabel": "YouTube: Financial Literacy: Mortgages and Amortization (Intro)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Mortgages%20and%20Amortization%20%28Intro%29%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Mwdpt1FMuz8",
         "quiz": [
           {
             "q": "What is a mortgage?",
@@ -25320,6 +25322,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: the limiting reagent in a reaction is used up first and determines the maximum possible product, while percent yield compares the actual product obtained to the theoretical amount predicted.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=dodsvTfqWNc",
         "quiz": [
           {
             "q": "What does the limiting reagent in a chemical reaction determine?",
@@ -25379,6 +25382,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the War of 1812 between the United States and Britain, fought partly on Canadian soil from 1812 to 1814, involved British, Canadian militia, and Indigenous allies defending British North America from American invasion.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=TyY0sDvoi9c",
         "quiz": [
           {
             "q": "Between which two countries was the War of 1812 primarily fought?",
@@ -25445,6 +25449,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: Gothic fiction combines elements of horror, romance, and the supernatural, typically featuring dark or decaying settings, mystery, and a mood of dread or suspense.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=1wCmZoljqqU",
         "quiz": [
           {
             "q": "What mood does Gothic fiction typically create?",
@@ -25505,6 +25510,7 @@ const curriculum: DayContent[] = [
         "summary": "Students combine the Pythagorean theorem and trigonometric ratios to solve multi-step problems involving right triangles, such as finding a missing side and then an angle.",
         "resourceLabel": "YouTube: Solving Multi-Step Right Triangle Problems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Multi-Step%20Right%20Triangle%20Problems%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5Bdy9nZF-cM",
         "quiz": [
           {
             "q": "A ladder leans against a wall, reaching 8 m up the wall with its base 6 m from the wall. How long is the ladder?",
@@ -25564,6 +25570,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: the skeletal system provides structure, protection, and support through bones and joints, while the muscular system works with the skeleton to produce movement through contraction.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=656ZfzFD-ec",
         "quiz": [
           {
             "q": "What does the skeletal system provide the body?",
@@ -25624,6 +25631,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the Rebellions of 1837-38, led by figures such as William Lyon Mackenzie in Upper Canada and Louis-Joseph Papineau in Lower Canada, protested against the undemocratic control of colonial government by a small elite.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=unZGJKNQR8I",
         "quiz": [
           {
             "q": "Who led the rebellion in Upper Canada in 1837?",

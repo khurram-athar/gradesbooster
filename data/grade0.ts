@@ -29813,6 +29813,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to compare sizes using big, bigger, and biggest, choosing the right word to describe how things stack up against each other.",
         "resourceLabel": "YouTube: Vocabulary: Comparing Size Words (Big, Bigger, Biggest)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Comparing%20Size%20Words%20%28Big%2C%20Bigger%2C%20Biggest%29%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=EvKFxv3iYHI",
         "topic": "Vocabulary",
         "quiz": [
           {
@@ -29873,6 +29874,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids practice the \"joining\" idea of addition by combining two small separate groups of objects (up to 5 each) into one total group.",
         "resourceLabel": "YouTube: Addition: Combining Two Small Groups (Joining)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Addition%3A%20Combining%20Two%20Small%20Groups%20%28Joining%29%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QhG4TKrhmV0",
         "topic": "Addition & Subtraction",
         "quiz": [
           {
@@ -29933,6 +29935,7 @@ const curriculum: DayContent[] = [
         "summary": "Children learn about animals like rabbits, moles, and ants that dig burrows and tunnels underground to live in and stay safe.",
         "resourceLabel": "YouTube: Animal Homes: Underground Burrows",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Homes%3A%20Underground%20Burrows%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LoEqmnNI3AI",
         "topic": "Ecosystems & Environment",
         "quiz": [
           {
@@ -29993,6 +29996,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson introduces the crossing guard, a helper who assists children in crossing the street safely on their way to and from school.",
         "resourceLabel": "YouTube: Our Crossing Guard: Helping Us Cross Safely",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Crossing%20Guard%3A%20Helping%20Us%20Cross%20Safely%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=9dd5Ve5t42U",
         "topic": "Safety Rules (Basic)",
         "quiz": [
           {

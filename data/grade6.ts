@@ -25402,6 +25402,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: a prime number has exactly two factors, 1 and itself, while a composite number has more than two factors; the number 1 is neither prime nor composite.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=exuf4cHnAlA",
         "quiz": [
           {
             "q": "What is a prime number?",
@@ -25462,6 +25463,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: the lymphatic system is a network of vessels and nodes that collects excess fluid from body tissues, filters out harmful substances, and helps the immune system fight infection.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=C_Bii6TfwuY",
         "quiz": [
           {
             "q": "What does the lymphatic system collect from body tissues?",
@@ -25521,6 +25523,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: a credit union is a cooperative financial institution owned by its members, offering banking services such as savings accounts and loans, with profits often returned to members rather than outside shareholders.",
         "resourceLabel": "YouTube: Social Studies: Credit Unions and Cooperative Banking in Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Credit%20Unions%20and%20Cooperative%20Banking%20in%20Canada%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ND2VfjtQWEQ",
         "quiz": [
           {
             "q": "What is a credit union?",
@@ -25587,6 +25590,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: the main idea is the central point a text is making, while supporting details are the facts, examples, and explanations that develop and prove that main idea.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=mkZo2zVKJR4",
         "quiz": [
           {
             "q": "What is the main idea of a text?",
@@ -25647,6 +25651,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: rounding a decimal to a given place value means finding the closest value at that place, using the digit to the right to decide whether to round up or keep the digit the same.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=P7ozJW8LSxw",
         "quiz": [
           {
             "q": "When rounding, if the digit to the right is 5 or greater, what do you do to the digit being rounded?",
@@ -25707,6 +25712,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: tides are the regular rise and fall of ocean water levels, caused mainly by the gravitational pull of the Moon, with the Sun also playing a smaller role.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=tcGEjzt_4is",
         "quiz": [
           {
             "q": "What are tides?",
@@ -25767,6 +25773,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: a land acknowledgement is a statement recognizing the traditional Indigenous territory on which an event or activity takes place, intended to honour Indigenous peoples’ historic and ongoing connection to the land.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=i7juFo9nKmM",
         "quiz": [
           {
             "q": "What is a land acknowledgement?",

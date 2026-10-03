@@ -25288,6 +25288,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: a round character is complex and multidimensional with a fully developed personality, while a flat character is simple, one-dimensional, and often defined by a single trait or role.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=hK6UbWTUyDs",
         "quiz": [
           {
             "q": "What defines a round character?",
@@ -25348,6 +25349,7 @@ const curriculum: DayContent[] = [
         "summary": "Students express ratios in simplest form and calculate unit rates to compare prices, speeds, and other quantities.",
         "resourceLabel": "YouTube: Ratios and Unit Rates",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ratios%20and%20Unit%20Rates%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=K507fqrqGbw",
         "topic": "Ratios & Rates",
         "quiz": [
           {
@@ -25408,6 +25410,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: fermentation is a process in which microorganisms such as yeast or bacteria break down sugars, producing gases or acids that change food, as seen in bread rising or yogurt forming.",
         "resourceLabel": "YouTube: Science: Fermentation — How Microorganisms Transform Food",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Fermentation%20%E2%80%94%20How%20Microorganisms%20Transform%20Food%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mhwUc84xBZA",
         "quiz": [
           {
             "q": "What is fermentation?",
@@ -25468,6 +25471,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the Battle of Vimy Ridge in 1917 saw Canadian troops fighting together as a unified force for the first time in World War I, a victory often described as a defining moment in the development of Canadian national identity.",
         "resourceLabel": "YouTube: Social Studies: The Battle of Vimy Ridge and Canadian Identity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Battle%20of%20Vimy%20Ridge%20and%20Canadian%20Identity%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-wx5zkmtDxE",
         "quiz": [
           {
             "q": "In what year did the Battle of Vimy Ridge take place?",
@@ -25533,6 +25537,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: a memoir is a nonfiction narrative in which a writer recounts personal experiences and reflects on their meaning, typically focusing on a specific period, relationship, or theme rather than an entire life.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=EQWqDUAQwGA",
         "quiz": [
           {
             "q": "What is a memoir?",
@@ -25593,6 +25598,7 @@ const curriculum: DayContent[] = [
         "summary": "Students calculate the percent of a number using multiplication and mental math strategies, applying the skill to tips, taxes, and everyday situations.",
         "resourceLabel": "YouTube: Percent of a Number",
         "resourceUrl": "https://www.youtube.com/results?search_query=Percent%20of%20a%20Number%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rR95Cbcjzus",
         "topic": "Percent",
         "quiz": [
           {
@@ -25653,6 +25659,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: a refrigerator uses a cycle of compressing and expanding a special fluid to absorb heat from inside its compartment and release that heat outside, a process similar to how a heat pump can warm or cool a building.",
         "resourceLabel": "YouTube: Science: How Refrigerators and Heat Pumps Move Heat",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20How%20Refrigerators%20and%20Heat%20Pumps%20Move%20Heat%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=EIP3pSio7-M",
         "quiz": [
           {
             "q": "What does a refrigerator remove from the inside of its compartment?",
@@ -25712,6 +25719,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: the Alaska Boundary Dispute of 1903 was a disagreement between Canada and the United States over the exact border of the Alaska Panhandle, ultimately settled by a tribunal in a decision seen as favouring American interests.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "videoUrl": "https://www.youtube.com/watch?v=DL_FFSJY8Fs",
         "quiz": [
           {
             "q": "In what year was the Alaska Boundary Dispute settled?",

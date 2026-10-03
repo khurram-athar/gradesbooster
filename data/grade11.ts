@@ -25253,6 +25253,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: Gothic fiction blends horror, romance, and the supernatural, often set in decaying architecture, to explore the uncanny — the unsettling sense of something being simultaneously familiar and strange.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=mX6QqH_mDbs",
         "quiz": [
           {
             "q": "What does Gothic fiction typically blend?",
@@ -25374,6 +25375,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: ruminant animals, such as cows, use a multi-chambered stomach and microbial fermentation to break down cellulose in plant material, while monogastric animals rely on a single-chambered stomach and enzymatic digestion.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=zAS8xuPh-9U",
         "quiz": [
           {
             "q": "What do ruminant animals use to break down cellulose in plant material?",
@@ -25434,6 +25436,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: Avogadro’s law states that equal volumes of gases at the same temperature and pressure contain equal numbers of particles, meaning one mole of any ideal gas occupies the same molar volume at standard temperature and pressure.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=4MMH49rNHss",
         "quiz": [
           {
             "q": "What does Avogadro’s law state about equal volumes of gases at the same temperature and pressure?",
@@ -25499,6 +25502,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: the villanelle is a nineteen-line poem built on two repeating refrains and an alternating rhyme scheme, illustrating how fixed poetic forms impose structural constraints that shape a poem’s meaning and emotional effect.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=-KWt3po1ISw",
         "quiz": [
           {
             "q": "How many lines does a traditional villanelle contain?",
@@ -25620,6 +25624,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: osmoconformers allow their internal osmotic concentration to match that of their surrounding seawater, while osmoregulators actively maintain a stable internal osmotic concentration that differs from their environment.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=UchspbsmK4k",
         "quiz": [
           {
             "q": "What do osmoconformers allow their internal osmotic concentration to do?",
@@ -25679,6 +25684,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: the common ion effect describes how the solubility of a slightly soluble ionic compound decreases when a solution already contains an ion identical to one produced by that compound’s dissolution.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=qawipem0LwA",
         "quiz": [
           {
             "q": "What does the common ion effect describe?",
