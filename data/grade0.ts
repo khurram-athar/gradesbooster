@@ -30063,6 +30063,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practice using the pronouns he, she, and it to take the place of a person's or thing's name in a sentence.",
         "resourceLabel": "YouTube: Grammar: Pronouns - He, She, It",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Pronouns%20-%20He%2C%20She%2C%20It%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-QEDRLN_IiI",
         "topic": "Grammar: Parts of Speech",
         "quiz": [
           {
@@ -30123,6 +30124,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn a comparison model of subtraction, figuring out how many more objects one group has than another by matching them up one-to-one.",
         "resourceLabel": "YouTube: Subtraction: How Many More? Comparing Two Groups",
         "resourceUrl": "https://www.youtube.com/results?search_query=Subtraction%3A%20How%20Many%20More%3F%20Comparing%20Two%20Groups%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Vvu-_yXnh14",
         "topic": "Addition & Subtraction",
         "quiz": [
           {
@@ -30183,6 +30185,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids learn that some animals, like bears, go into a long, deep sleep called hibernation to survive the cold winter months.",
         "resourceLabel": "YouTube: Hibernation: Animals Sleeping Through Winter",
         "resourceUrl": "https://www.youtube.com/results?search_query=Hibernation%3A%20Animals%20Sleeping%20Through%20Winter%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OhrhcsICrE8",
         "topic": "Animal Adaptations & Behaviour",
         "quiz": [
           {
@@ -30243,6 +30246,7 @@ const curriculum: DayContent[] = [
         "summary": "Children learn about the work farmers do to grow crops and raise animals that provide the food we eat.",
         "resourceLabel": "YouTube: Our Farmer: Growing Our Food",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Farmer%3A%20Growing%20Our%20Food%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gQRxCMaG6fg",
         "topic": "Money, Jobs & Economy (Basic)",
         "quiz": [
           {
