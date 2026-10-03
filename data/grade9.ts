@@ -283,7 +283,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Body paragraphs in an essay should...",
             "options": [
-              "Have no connection to the thesis",
+              "Focus only on restating the introduction in different words",
               "Contradict the thesis",
               "Be randomly ordered",
               "Support the thesis with evidence"
@@ -294,7 +294,7 @@ const curriculum: DayContent[] = [
             "q": "A conclusion paragraph should...",
             "options": [
               "Introduce a brand new argument",
-              "Have no connection to the essay",
+              "Pose several unanswered questions for the reader to resolve",
               "Summarize and reinforce the main argument",
               "Repeat the introduction word for word"
             ],
@@ -478,7 +478,7 @@ const curriculum: DayContent[] = [
               "Only sells finished products",
               "Extracts raw natural resources directly",
               "Only provides services",
-              "Has no connection to resources"
+              "Manufactures raw materials into finished products"
             ],
             "answer": 1
           },
@@ -677,7 +677,7 @@ const curriculum: DayContent[] = [
               "Is always a product",
               "Always slows a reaction",
               "Speeds up a reaction, unconsumed",
-              "Has no effect on reactions"
+              "Gets permanently used up as the reaction proceeds"
             ],
             "answer": 2
           }
@@ -1291,7 +1291,7 @@ const curriculum: DayContent[] = [
               "Is always a first-hand account",
               "Interprets or analyzes primary sources",
               "Is always fictional",
-              "Has no connection to evidence"
+              "Is always written by the same person who created the primary source"
             ],
             "answer": 1
           },
@@ -1412,7 +1412,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Water always insulates electricity",
               "It is only a myth",
-              "Water has no effect on electricity",
+              "Pure water is an excellent electrical insulator",
               "Water conducts electricity"
             ],
             "answer": 3
@@ -2706,7 +2706,7 @@ const curriculum: DayContent[] = [
             "q": "The 'Ring of Fire' is associated with high occurrences of...",
             "options": [
               "Droughts only",
-              "Tidal waves unrelated to tectonic activity",
+              "Monsoon rains caused by seasonal wind shifts",
               "Tornadoes and blizzards",
               "Volcanoes and earthquakes"
             ],
@@ -3273,7 +3273,7 @@ const curriculum: DayContent[] = [
               "Cannot be fully trusted",
               "Is written in second person",
               "Is always completely accurate",
-              "Has no effect on how we read the story"
+              "Makes a story impossible to interpret in more than one way"
             ],
             "answer": 0
           },
@@ -3537,7 +3537,7 @@ const curriculum: DayContent[] = [
               "Is written in second person",
               "Is always completely accurate",
               "Cannot be fully trusted",
-              "Has no effect on the story"
+              "Always reveals the narrator's bias directly to the reader"
             ],
             "answer": 2
           },
@@ -4247,7 +4247,7 @@ const curriculum: DayContent[] = [
               "Is located only in landlocked regions",
               "Only handles a single type of cargo",
               "Redistributes shipping to other ports",
-              "Has no connection to global trade"
+              "Only handles shipments moving within a single country"
             ],
             "answer": 2
           },
@@ -5535,7 +5535,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A push factor in migration is something that...",
             "options": [
-              "Has no effect on migration decisions",
+              "Only applies when a government forces people to relocate",
               "Motivates someone to leave home",
               "Attracts a person to a destination",
               "Only applies to international migration"
@@ -6543,7 +6543,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Genes are segments of DNA that...",
             "options": [
-              "Have no connection to physical traits",
+              "Are made entirely of protein molecules",
               "Produce energy",
               "Carry instructions for making proteins",
               "Store water"
@@ -6833,7 +6833,7 @@ const curriculum: DayContent[] = [
             "q": "Geographic factors that can influence how a disease spreads include...",
             "options": [
               "Only the temperature of a region",
-              "Only urban land use with no connection to healthcare access",
+              "Only the number of hospitals located in a region",
               "Only the political system of a country",
               "Density, transport, and climate"
             ],
@@ -6853,7 +6853,7 @@ const curriculum: DayContent[] = [
             "q": "High population density in urban areas can...",
             "options": [
               "Speed disease spread via close contact",
-              "Have no connection to disease transmission",
+              "Only increases the cost of local healthcare services",
               "Always reduce disease spread",
               "Only affect vector-borne diseases"
             ],
@@ -6864,7 +6864,7 @@ const curriculum: DayContent[] = [
             "options": [
               "People who lack access to timely medical care tend to have worse health outcomes",
               "Only wealthy areas have any disease risk",
-              "Distance from hospitals has no effect on health",
+              "Only affects emergency injuries, not chronic illnesses",
               "Healthcare access only matters for chronic diseases"
             ],
             "answer": 0
@@ -7644,7 +7644,7 @@ const curriculum: DayContent[] = [
           {
             "q": "High population density in cities can accelerate disease spread because...",
             "options": [
-              "Density has no connection to disease transmission",
+              "Only increases local pollution, not disease risk",
               "Only rural areas have infectious disease risk",
               "Dense areas always have better healthcare",
               "People are in closer contact more often, making transmission easier"
@@ -7720,7 +7720,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do archetypes appear across many different cultures and time periods?",
             "options": [
-              "Archetypes have no connection to human experience",
+              "Archetypes developed independently in each culture with no shared meaning",
               "They are unique to a single story with no broader pattern",
               "They often reflect universal human experiences and themes",
               "Archetypes only ever appear in one single culture"
@@ -7743,7 +7743,7 @@ const curriculum: DayContent[] = [
               "Recognizing archetypes replaces the need to understand plot",
               "Archetypes are irrelevant to understanding a story",
               "It helps readers see connections between different stories and understand broader patterns",
-              "This skill has no connection to literary analysis"
+              "Requires memorizing a fixed list of character names rather than patterns"
             ],
             "answer": 2
           }
@@ -7884,7 +7884,7 @@ const curriculum: DayContent[] = [
             "q": "Geopolitics examines how ___ influence political relationships between countries.",
             "options": [
               "Only music and art",
-              "A topic unrelated to political relationships",
+              "Only international trade agreements, with no political component",
               "Weather patterns exclusively, with no other factors",
               "Geography, borders, and territory"
             ],
@@ -7894,7 +7894,7 @@ const curriculum: DayContent[] = [
             "q": "A territorial dispute occurs when ___.",
             "options": [
               "All countries agree completely on every border",
-              "A dispute is unrelated to geography",
+              "Occurs only when two countries go to war",
               "Two or more parties disagree over control of a particular area of land",
               "No disagreements about land ever occur"
             ],
@@ -7906,17 +7906,17 @@ const curriculum: DayContent[] = [
               "Natural resources never cause any political tension",
               "Multiple parties may have competing interests in accessing and controlling that resource",
               "Resources located near borders have no political significance",
-              "Borders have no connection to resource access"
+              "Resource competition near a border is always settled through international courts"
             ],
             "answer": 1
           },
           {
             "q": "Why is understanding geopolitics valuable when studying world geography?",
             "options": [
-              "Geopolitics has no connection to geography",
-              "This topic has no relevance to studying the world",
+              "It mainly helps predict weather patterns across regions",
+              "It focuses only on map-reading skills, not world events",
               "It helps explain how geographic factors shape international relationships and conflicts",
-              "Political relationships between countries are unrelated to geography"
+              "It explains trade economics but not international relationships"
             ],
             "answer": 2
           },
@@ -7926,7 +7926,7 @@ const curriculum: DayContent[] = [
               "A shared border or contested territory",
               "The colour of each country’s flag",
               "An unrelated cultural tradition with no political relevance",
-              "A factor unrelated to geography or politics"
+              "The literacy rate of a country's population"
             ],
             "answer": 0
           }
@@ -7949,8 +7949,8 @@ const curriculum: DayContent[] = [
           {
             "q": "A literary response essay presents ___.",
             "options": [
-              "An interpretation with no connection to the actual text",
-              "A completely unrelated topic",
+              "A collection of unrelated facts about the author's biography",
+              "A retelling of the plot using the exact wording of the original text",
               "Only a summary of the plot with no interpretation",
               "A reader’s interpretation of a text, supported by evidence"
             ],
@@ -7989,7 +7989,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A strong literary response essay typically begins with ___.",
             "options": [
-              "A discussion unrelated to the text being analyzed",
+              "An extended summary of a different text by the same author",
               "A summary with no analytical claim",
               "A clear thesis about the writer’s interpretation of the text",
               "No clear position on the text at all"
@@ -8041,7 +8041,7 @@ const curriculum: DayContent[] = [
             "q": "Why does factoring help solve a quadratic equation?",
             "options": [
               "Factoring only applies to linear equations, not quadratics",
-              "This method has no connection to finding solutions",
+              "It changes the equation into decimal form so roots can be read directly from a calculator",
               "Factoring never helps solve any type of equation",
               "It allows the zero product property to identify the specific solutions"
             ],
@@ -8094,7 +8094,7 @@ const curriculum: DayContent[] = [
               "No reaction of any kind",
               "A reaction that is always significantly weaker",
               "An equal and opposite reaction",
-              "A reaction unrelated to the original action"
+              "A reaction that occurs only after a long time delay"
             ],
             "answer": 2
           },
@@ -8111,7 +8111,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why are Newton’s laws considered foundational to the study of physics?",
             "options": [
-              "These laws have no connection to understanding motion",
+              "They describe motion only for objects moving at constant speed",
               "They only apply to objects in outer space",
               "Newton’s laws have been proven entirely incorrect",
               "They provide a framework for understanding and predicting how objects move under various forces"
@@ -8144,7 +8144,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Case studies provide no useful information for planning",
               "Sustainable cities have never actually been studied",
-              "This research has no connection to urban planning",
+              "Case studies only apply to cities with identical climates",
               "To learn effective strategies that could be applied to other urban areas"
             ],
             "answer": 3
@@ -8162,7 +8162,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is quality of life an important consideration in sustainable urban planning?",
             "options": [
-              "Quality of life has no connection to urban planning",
+              "Quality of life is measured the same way in every city",
               "Sustainable planning ignores resident wellbeing entirely",
               "Urban planning never considers the needs of residents",
               "Well-planned cities aim to support residents’ health, wellbeing, and access to resources"
@@ -8172,7 +8172,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do rapidly growing cities face particular challenges in sustainable planning?",
             "options": [
-              "Population growth has no connection to urban planning needs",
+              "Population growth only affects housing, never infrastructure",
               "Sustainable planning is only relevant to shrinking cities",
               "Growing cities never face any planning challenges",
               "Balancing growth with resource and infrastructure needs becomes increasingly complex"
@@ -8231,7 +8231,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Complex sentences are never prone to these errors",
               "Simple sentences are always more likely to contain these errors",
-              "Sentence complexity has no connection to these grammatical issues",
+              "Fragment and run-on errors only occur in dialogue, never in narration",
               "Multiple clauses can create confusion about complete thoughts and proper punctuation"
             ],
             "answer": 3
@@ -8382,8 +8382,8 @@ const curriculum: DayContent[] = [
           {
             "q": "A climate refugee is someone forced to leave their home due to ___.",
             "options": [
-              "A voluntary choice unrelated to the environment",
-              "A factor unrelated to climate or environment",
+              "A personal decision to pursue better job opportunities abroad",
+              "A government policy requiring relocation for urban redevelopment",
               "Environmental changes, such as rising sea levels or drought",
               "A political election"
             ],
@@ -8393,7 +8393,7 @@ const curriculum: DayContent[] = [
             "q": "Which is an example of an environmental factor that could displace a population?",
             "options": [
               "Rising sea levels",
-              "A factor unrelated to climate or environment",
+              "An increase in a region's tourism industry",
               "A shift in local sports preferences",
               "A change in local fashion trends"
             ],
@@ -8402,8 +8402,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is environmental migration considered an increasingly significant global issue?",
             "options": [
-              "Environmental migration has no connection to global issues",
-              "Climate change has no effect on where people can live",
+              "It affects only a small number of remote island nations",
+              "Most environmental migration happens because of economic recessions",
               "Climate-related environmental changes are affecting more communities worldwide",
               "This type of migration never actually occurs"
             ],
@@ -8412,8 +8412,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might communities near coastlines be particularly vulnerable to climate-related displacement?",
             "options": [
-              "This vulnerability has no connection to geography",
-              "Sea level has no connection to coastal communities",
+              "Coastal flooding mainly results from heavy inland rainfall",
+              "Most coastal cities have built permanent barriers against all flooding",
               "Coastal communities are never affected by environmental changes",
               "Rising sea levels can directly threaten coastal homes and infrastructure"
             ],
@@ -8422,9 +8422,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is studying climate refugees relevant to understanding global geography?",
             "options": [
-              "This topic has no connection to global geography",
+              "Climate refugees are counted the same way as economic migrants",
               "Climate refugees have no impact on population patterns",
-              "Environmental migration is unrelated to geographic study",
+              "It mainly explains historical migration, not current patterns",
               "It highlights how environmental changes are reshaping population patterns worldwide"
             ],
             "answer": 3
@@ -8480,7 +8480,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding both denotation and connotation important when analyzing persuasive texts?",
             "options": [
               "Word choice never influences how an argument is received",
-              "Denotation and connotation have no connection to persuasion",
+              "Connotation always matches a word's literal dictionary definition exactly",
               "Only denotation matters in persuasive writing",
               "It helps readers recognize how word choice shapes the intended emotional impact"
             ],
@@ -8513,14 +8513,14 @@ const curriculum: DayContent[] = [
               "Receive money with no repayment required",
               "Avoid ever needing to repay any borrowed money",
               "Borrow money to be repaid later, often with interest",
-              "A concept unrelated to borrowing money"
+              "Borrow money only if the lender charges no interest at all"
             ],
             "answer": 2
           },
           {
             "q": "Debt generally refers to ___.",
             "options": [
-              "A concept unrelated to borrowing",
+              "Money that a bank gives to customers permanently with nothing owed back",
               "Money that is owed and must be repaid",
               "Money that has already been fully paid off with nothing owed",
               "Only money that has been saved"
@@ -8532,7 +8532,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Interest can significantly increase the total amount owed over time",
               "Understanding interest rates serves no practical purpose",
-              "Interest has no connection to credit or debt",
+              "Interest rates only apply to savings accounts, never to credit",
               "Interest rates never affect the total amount owed"
             ],
             "answer": 0
@@ -8542,7 +8542,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Minimum payments always eliminate all interest immediately",
               "Interest continues to accumulate on the remaining balance",
-              "Debt repayment time has no connection to payment amount",
+              "Making minimum payments pays off the principal first, so interest stops accumulating",
               "Interest never accumulates on unpaid balances"
             ],
             "answer": 1
@@ -8550,8 +8550,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding credit and debt considered an important financial literacy skill?",
             "options": [
-              "Financial literacy has no relevance to using credit responsibly",
-              "Credit and debt have no connection to personal finances",
+              "Financial literacy mainly teaches how to calculate sales tax at checkout",
+              "Credit and debt only matter for businesses, never for individual people",
               "This understanding has no real-world financial benefit",
               "It helps individuals make informed decisions and avoid unnecessary financial strain"
             ],
@@ -8613,7 +8613,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Ohm’s Law has no practical use in circuits",
               "It helps predict how changes in voltage or resistance affect current flow",
-              "It describes relationships unrelated to electricity",
+              "It shows that current stays the same no matter the voltage applied",
               "It only applies to circuits with no current"
             ],
             "answer": 1
@@ -8635,7 +8635,7 @@ const curriculum: DayContent[] = [
               "A group of countries that refuse to trade with each other",
               "A single country acting entirely alone",
               "A group of countries that agree to reduce trade barriers among themselves",
-              "A concept unrelated to international trade"
+              "A military alliance focused on defense cooperation"
             ],
             "answer": 2
           },
@@ -8645,7 +8645,7 @@ const curriculum: DayContent[] = [
               "To create more favourable trading conditions among member countries",
               "Trade blocs provide no economic benefit to member countries",
               "Forming a trade bloc always eliminates all trade",
-              "This arrangement has no connection to economic relationships"
+              "To standardize a single official language among members"
             ],
             "answer": 0
           },
@@ -8654,7 +8654,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Easier access to markets in other member countries",
               "The elimination of all economic activity",
-              "No connection to other member countries’ economies",
+              "Guaranteed equal income levels across all member countries",
               "Complete isolation from all other countries"
             ],
             "answer": 0
@@ -8664,7 +8664,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Trade blocs eliminate the need for any international markets",
               "They can shift where goods are produced, bought, and sold among member countries",
-              "Global markets are entirely unrelated to trade agreements",
+              "They mainly determine currency exchange rates directly",
               "Trade blocs have no effect on global markets"
             ],
             "answer": 1
@@ -8673,8 +8673,8 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding trade blocs useful when studying global economic geography?",
             "options": [
               "It helps explain patterns in international trade and economic cooperation",
-              "Trade blocs have no connection to economic geography",
-              "This topic has no relevance to understanding global markets",
+              "It explains how landforms affect a country's climate",
+              "Trade blocs are a historical topic with no current examples",
               "Economic geography never considers international agreements"
             ],
             "answer": 0
@@ -8712,7 +8712,7 @@ const curriculum: DayContent[] = [
               "To create tension, suspense, or anticipation for the audience",
               "Dramatic irony always removes tension from a story",
               "Dramatic irony is never used intentionally by authors",
-              "This technique has no effect on the audience’s experience"
+              "Dramatic irony only occurs when characters speak directly to the audience"
             ],
             "answer": 0
           },
@@ -8772,7 +8772,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Negative reciprocals of each other",
               "Always exactly zero",
-              "Unrelated to each other",
+              "Equal in value but opposite in sign only when one line is horizontal",
               "Always exactly equal"
             ],
             "answer": 0
@@ -8800,7 +8800,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding the relationship between slopes of parallel and perpendicular lines useful in geometry?",
             "options": [
-              "Slopes have no connection to whether lines are parallel or perpendicular",
+              "Slopes determine how long a line is but not its direction relative to other lines",
               "This concept only applies to curved lines, not straight ones",
               "It helps determine the relationship between lines without needing to graph them",
               "This relationship has no practical use in geometry"
@@ -8821,7 +8821,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Biomes are shaped primarily by ___.",
             "options": [
-              "A factor unrelated to environmental conditions",
+              "The migration patterns of large mammals",
               "Only the colour of the local soil",
               "Climate patterns",
               "Random chance with no identifiable pattern"
@@ -8851,7 +8851,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might studying global biome patterns help scientists understand biodiversity?",
             "options": [
-              "Biomes have no connection to biodiversity",
+              "Every biome contains the exact same number of species",
               "This study has no scientific value",
               "All biomes support identical plant and animal life",
               "Different biomes support distinct communities of organisms adapted to specific conditions"
@@ -8863,8 +8863,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Biomes never change in response to environmental shifts",
               "Shifting climate patterns can alter the conditions that define and support each biome",
-              "This topic has no connection to environmental science",
-              "Climate change has no effect on biome distribution"
+              "Biome boundaries are fixed permanently by continental plate positions",
+              "Biome boundaries shift only due to changes in soil pH, never climate"
             ],
             "answer": 1
           }
@@ -8989,7 +8989,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a feature article writer choose a strong, engaging opening?",
             "options": [
-              "The opening of a feature article has no effect on reader interest",
+              "Should always reveal the article's conclusion in the very first line",
               "To capture reader interest and draw them into exploring the topic further",
               "Engaging openings are never used in feature writing",
               "Feature articles should always have a plain, unengaging opening"
@@ -9010,7 +9010,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An optimization problem involves finding ___.",
             "options": [
-              "A measurement unrelated to area or perimeter",
+              "The total sum of every possible measurement added together",
               "Only the average of several unrelated values",
               "The maximum or minimum value of a measurement",
               "A completely random measurement with no goal"
@@ -9031,7 +9031,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a fence-building problem be considered an optimization problem?",
             "options": [
               "Fence-building problems never involve any mathematical optimization",
-              "Optimization has no connection to real-world measurement problems",
+              "Optimization only applies to abstract numbers, never to physical measurements like fencing",
               "It often involves finding the dimensions that maximize enclosed area for a given amount of fencing",
               "This type of problem only involves perimeter, never area"
             ],
@@ -9051,7 +9051,7 @@ const curriculum: DayContent[] = [
             "q": "Why are optimization problems considered useful in real-world design and planning?",
             "options": [
               "Optimization problems have no real-world applications",
-              "Efficient design has no connection to mathematical optimization",
+              "Efficient design can always be achieved without any calculation",
               "They help identify the most efficient use of available materials or space",
               "These problems only apply to theoretical, unrealistic scenarios"
             ],
@@ -9112,8 +9112,8 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding acids and bases important in chemistry?",
             "options": [
               "Acids and bases have no real-world relevance",
-              "The pH scale is unrelated to acids and bases",
-              "This topic has no connection to chemical reactions",
+              "The pH scale measures only the temperature of a solution",
+              "Acids and bases only exist in laboratory settings, not in nature",
               "They are involved in many chemical reactions and everyday substances"
             ],
             "answer": 3
@@ -9133,7 +9133,7 @@ const curriculum: DayContent[] = [
             "q": "The energy transition refers to ___.",
             "options": [
               "A complete elimination of all energy use",
-              "A concept unrelated to energy production",
+              "A government subsidy program for oil companies",
               "A shift from fossil fuel dependence toward renewable energy sources",
               "A shift toward greater fossil fuel dependence"
             ],
@@ -9144,7 +9144,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The region’s distance from the ocean, with no other relevant factors",
               "The region’s population size alone",
-              "A factor entirely unrelated to geography",
+              "The number of political parties in the national government",
               "The amount of available sunlight in that region"
             ],
             "answer": 3
@@ -9155,16 +9155,16 @@ const curriculum: DayContent[] = [
               "Energy transition occurs identically everywhere in the world",
               "Differences in geography, resources, technology, and economic priorities affect the pace of transition",
               "All countries experience the exact same energy transition process",
-              "Geography has no connection to energy production choices"
+              "All countries have identical access to fossil fuel reserves"
             ],
             "answer": 1
           },
           {
             "q": "Why is the energy transition considered a significant global geographic issue?",
             "options": [
-              "This transition has no connection to global geography",
+              "It is a concern only for countries without fossil fuel reserves",
               "The energy transition affects no aspect of global patterns",
-              "Energy use has no relevance to geographic study",
+              "It mainly affects electricity prices, not resource geography",
               "It involves major shifts in resource use, economies, and environmental impact worldwide"
             ],
             "answer": 3
@@ -9201,7 +9201,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A completely random mix of unrelated content",
               "An environment where a person mainly encounters opinions and information that reinforce their own existing views",
-              "A technical term unrelated to social media",
+              "A setting where an algorithm randomly rotates in opposing viewpoints each day",
               "A feature that exposes users only to opposing viewpoints"
             ],
             "answer": 1
@@ -9209,8 +9209,8 @@ const curriculum: DayContent[] = [
           {
             "q": "A filter bubble refers to ___.",
             "options": [
-              "Content selected with no connection to user preferences",
-              "A concept unrelated to social media",
+              "Content curated to match the opinions of a randomly chosen stranger",
+              "A setting that guarantees exposure to every possible viewpoint equally",
               "Exposure to a wide range of completely random, unrelated content",
               "A limited range of perspectives a user is exposed to based on algorithmic curation"
             ],
@@ -9220,7 +9220,7 @@ const curriculum: DayContent[] = [
             "q": "Why might echo chambers and filter bubbles reinforce existing beliefs?",
             "options": [
               "Algorithms are designed to show only random, unrelated content",
-              "This concept has no connection to belief reinforcement",
+              "Algorithms are programmed to prioritize the oldest content available",
               "Users are more likely to see content that aligns with what they already engage with",
               "They always expose users to opposing viewpoints"
             ],
@@ -9293,7 +9293,7 @@ const curriculum: DayContent[] = [
               "It has no meaning in the context of the two relations",
               "It represents the values of the variables that satisfy both relations at once",
               "It only matters for one of the two lines",
-              "Intersection points are unrelated to solving systems"
+              "The intersection point only shows where one line crosses the x-axis"
             ],
             "answer": 1
           },
@@ -9363,7 +9363,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The circulatory system brings in air directly",
               "The respiratory system pumps blood throughout the body",
-              "They function with no connection to each other",
+              "The respiratory system filters blood while the heart handles breathing",
               "Oxygen brought in by the respiratory system is transported through the body by the circulatory system"
             ],
             "answer": 3
@@ -9383,7 +9383,7 @@ const curriculum: DayContent[] = [
             "q": "Comparing developed and developing regions often involves examining differences in ___.",
             "options": [
               "Nothing measurable at all",
-              "A factor unrelated to geography or economics",
+              "The number of official public holidays each year",
               "Economic development and infrastructure",
               "Only the colour of national flags"
             ],
@@ -9395,7 +9395,7 @@ const curriculum: DayContent[] = [
               "The exact number of national holidays",
               "Access to healthcare and education",
               "Only a country’s physical size",
-              "A factor unrelated to development"
+              "The number of international borders a country shares"
             ],
             "answer": 1
           },
@@ -9404,8 +9404,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Infrastructure can significantly affect a region’s economic opportunities and quality of life",
               "Roads and utilities have no effect on economic opportunity",
-              "This factor is unrelated to comparative geography",
-              "Infrastructure has no connection to regional development"
+              "Infrastructure quality is identical in every region of the world",
+              "Roads and utilities affect tourism but not daily economic activity"
             ],
             "answer": 0
           },
@@ -9422,7 +9422,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might comparative geography be considered a valuable field of study?",
             "options": [
-              "This field has no connection to understanding global development",
+              "It focuses only on physical landforms, not human activity",
               "Comparative geography has no real-world value",
               "Regional comparisons provide no useful geographic insight",
               "It helps identify patterns, disparities, and opportunities for addressing global inequalities"
@@ -9470,7 +9470,7 @@ const curriculum: DayContent[] = [
             "q": "Why might modifier issues become more common in longer, more complex sentences?",
             "options": [
               "Simple sentences are always more likely to have these issues",
-              "Sentence length has no connection to modifier placement",
+              "Modifier placement only matters in spoken language, never in writing",
               "Complex sentences are never prone to modifier errors",
               "More clauses and phrases increase the chances of unclear placement"
             ],
@@ -9490,7 +9490,7 @@ const curriculum: DayContent[] = [
             "q": "Why is correcting modifier errors especially important in formal or academic writing?",
             "options": [
               "Clear, unambiguous sentences support the reader’s accurate understanding of complex ideas",
-              "Modifier placement has no effect on formal writing",
+              "Misplaced modifiers only cause confusion in casual text messages",
               "These corrections have no impact on academic clarity",
               "Formal writing should always contain ambiguous sentences"
             ],
@@ -9512,7 +9512,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Order matters",
               "Only one arrangement is ever possible",
-              "A concept unrelated to permutations",
+              "The total number of objects involved, regardless of their order",
               "Order does not matter at all"
             ],
             "answer": 0
@@ -9520,7 +9520,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A combination counts selections where ___.",
             "options": [
-              "A concept unrelated to combinations",
+              "Every possible arrangement, including repeated orderings of the same items",
               "Order does not matter",
               "Order always matters",
               "No selection is ever possible"
@@ -9532,7 +9532,7 @@ const curriculum: DayContent[] = [
             "options": [
               "6",
               "9",
-              "A value unrelated to the calculation",
+              "4",
               "3"
             ],
             "answer": 0
@@ -9542,7 +9542,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Ratio",
               "Combination",
-              "A concept unrelated to this scenario",
+              "Probability",
               "Permutation"
             ],
             "answer": 1
@@ -9553,7 +9553,7 @@ const curriculum: DayContent[] = [
               "Combinations always count more possibilities than permutations",
               "Permutations count every different order separately, while combinations group the same items together regardless of order",
               "Permutations and combinations always produce the exact same count",
-              "A reason unrelated to probability"
+              "Permutations only count items that differ in color or size"
             ],
             "answer": 1
           }
@@ -9602,7 +9602,7 @@ const curriculum: DayContent[] = [
             "q": "Proper nutrition can support the immune system by ___.",
             "options": [
               "Providing the body with resources needed for healthy immune function",
-              "Having no connection to immune health",
+              "Replacing white blood cells with nutrients directly",
               "Replacing the need for any immune response",
               "Weakening the immune system intentionally"
             ],
@@ -9611,9 +9611,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding disease prevention considered important for public health?",
             "options": [
-              "Preventing illness has no connection to community wellbeing",
+              "Disease prevention only matters in hospital settings, never at home",
               "Public health has no relationship to individual health practices",
-              "Disease prevention has no effect on public health",
+              "Public health improves only through new medicines, never prevention",
               "Preventive practices can help reduce the spread of illness within communities"
             ],
             "answer": 3
@@ -9635,7 +9635,7 @@ const curriculum: DayContent[] = [
               "Map affected areas and coordinate relief efforts",
               "Prevent all forms of geographic mapping",
               "Replace the need for any relief efforts",
-              "Have no connection to disaster response"
+              "Only track long-term climate trends, not immediate events"
             ],
             "answer": 0
           },
@@ -9643,7 +9643,7 @@ const curriculum: DayContent[] = [
             "q": "Why might mapping affected areas be important during a natural disaster?",
             "options": [
               "It helps responders understand the scope of damage and where resources are most needed",
-              "This information has no connection to relief efforts",
+              "It mainly helps with research after the disaster has ended",
               "GIS technology cannot be applied to disaster situations",
               "Mapping has no benefit during a disaster response"
             ],
@@ -9653,17 +9653,17 @@ const curriculum: DayContent[] = [
             "q": "Which is an example of information GIS might track during a disaster response?",
             "options": [
               "The location of damaged infrastructure",
-              "A factor unrelated to disaster response planning",
+              "The results of a regional sports tournament",
               "Only historical weather data with no current relevance",
-              "Information entirely unrelated to the disaster"
+              "The names of unaffected neighborhoods outside the disaster zone"
             ],
             "answer": 0
           },
           {
             "q": "Why is coordinating resources efficiently important during disaster relief efforts?",
             "options": [
-              "Resource coordination has no effect on the success of relief efforts",
-              "GIS technology has no connection to resource management",
+              "Coordination only matters once relief efforts are already complete",
+              "GIS can map locations but cannot help allocate resources",
               "Disaster response never requires any coordination",
               "Efficient coordination can help ensure resources reach the people who need them most quickly"
             ],
@@ -9674,7 +9674,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Emergency response never benefits from geographic data",
               "GIS technology has no practical applications",
-              "This technology has no connection to geography",
+              "It replaces the need for geographers in disaster planning",
               "It combines geographic data with practical applications for real-world decision-making"
             ],
             "answer": 3
@@ -9700,7 +9700,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Is never used in creative writing",
               "Is developed and sustained throughout a piece of writing",
-              "Has no connection to the rest of the writing",
+              "Relies on a single word substituted for its literal meaning",
               "Appears only once in a single sentence"
             ],
             "answer": 1
@@ -9729,7 +9729,7 @@ const curriculum: DayContent[] = [
             "q": "Why might an extended metaphor be considered more complex to write than a simple metaphor?",
             "options": [
               "It requires maintaining the comparison consistently across multiple parts of the writing",
-              "This technique has no connection to complexity in writing",
+              "Extended metaphors are always shorter than simple metaphors",
               "A simple metaphor is always more difficult to write",
               "Extended metaphors require no consistency or planning"
             ],
@@ -9740,7 +9740,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Extended metaphors should always avoid descriptive imagery",
               "Imagery only matters in nonfiction writing",
-              "Imagery has no connection to extended metaphors",
+              "Imagery only matters when a comparison is stated literally rather than figuratively",
               "Vivid imagery helps make the sustained comparison meaningful and engaging"
             ],
             "answer": 3
@@ -9761,7 +9761,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only addition, with no trigonometry involved",
               "The area formula for a triangle",
-              "A method unrelated to trigonometric ratios",
+              "The distance formula between two coordinate points",
               "Sine or cosine"
             ],
             "answer": 3
@@ -9770,7 +9770,7 @@ const curriculum: DayContent[] = [
             "q": "To find a missing angle when you know two side lengths of a right triangle, you would typically use ___.",
             "options": [
               "The formula for a circle’s circumference",
-              "A method with no connection to trigonometric ratios",
+              "The formula for the area of a triangle",
               "Only the Pythagorean theorem, with no trigonometry involved",
               "An inverse trigonometric function"
             ],
@@ -9782,7 +9782,7 @@ const curriculum: DayContent[] = [
               "Only the Pythagorean theorem",
               "Tangent",
               "The formula for area",
-              "A ratio unrelated to trigonometry"
+              "Sine"
             ],
             "answer": 1
           },
@@ -9791,7 +9791,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only addition, with no trigonometry involved",
               "Sine",
-              "A ratio unrelated to trigonometry",
+              "Cosine",
               "The formula for perimeter"
             ],
             "answer": 1
@@ -9821,7 +9821,7 @@ const curriculum: DayContent[] = [
             "q": "Bioaccumulation refers to ___.",
             "options": [
               "The buildup of a substance within an individual organism over time",
-              "A process unrelated to living organisms",
+              "The rapid breakdown of a substance into harmless byproducts",
               "A substance disappearing completely from an organism",
               "The rapid removal of a substance from an ecosystem"
             ],
@@ -9833,7 +9833,7 @@ const curriculum: DayContent[] = [
               "Completely eliminated at higher levels of a food chain",
               "More concentrated at higher levels of a food chain",
               "Less concentrated at higher levels of a food chain",
-              "Unrelated to food chains"
+              "Evenly distributed at every level of a food chain"
             ],
             "answer": 1
           },
@@ -9843,7 +9843,7 @@ const curriculum: DayContent[] = [
               "A top predator",
               "A primary producer, such as a plant",
               "The very first organism to consume the substance, with no further transfer",
-              "An organism with no connection to the food chain"
+              "A decomposer that breaks down dead organic matter"
             ],
             "answer": 0
           },
@@ -9852,7 +9852,7 @@ const curriculum: DayContent[] = [
             "options": [
               "These processes have no effect on ecosystems",
               "Harmful substances can become increasingly concentrated and dangerous as they move up a food chain",
-              "This topic has no connection to environmental science",
+              "These substances always break down before reaching predators",
               "Substances always become less harmful as they move through a food chain"
             ],
             "answer": 1
@@ -9881,9 +9881,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A global supply chain involves the geographic network of ___.",
             "options": [
-              "A single unrelated activity with no connection to goods",
+              "The marketing and advertising of a finished product",
               "Production, transportation, and distribution of goods",
-              "A concept unrelated to geography or economics",
+              "The legal patenting process for a new invention",
               "Only local production with no international connections"
             ],
             "answer": 1
@@ -9891,7 +9891,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a product’s components be manufactured in multiple different countries?",
             "options": [
-              "Manufacturing location has no connection to geography or economics",
+              "International law requires equal manufacturing across all countries",
               "Companies may choose locations based on resources, labour, and cost factors",
               "Products are always manufactured entirely within a single country with no exceptions",
               "Global supply chains never involve multiple countries"
@@ -9904,15 +9904,15 @@ const curriculum: DayContent[] = [
               "Supply chains are never affected by any external events",
               "A factor with no possible impact on supply chains",
               "A natural disaster affecting a key production or shipping region",
-              "A change unrelated to production or transportation"
+              "A shift in consumer fashion trends"
             ],
             "answer": 2
           },
           {
             "q": "Why is understanding global supply chains relevant to studying geography?",
             "options": [
-              "Supply chains have no connection to geographic study",
-              "This topic has no relevance to understanding global trade",
+              "It mainly explains how products are priced in stores",
+              "It focuses only on company management strategies",
               "It shows how geographic location and connections shape the movement of goods worldwide",
               "Geography never influences how goods are produced or distributed"
             ],
@@ -9923,7 +9923,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Supply chain disruptions never have any broader economic impact",
               "Many industries and consumers around the world often depend on these interconnected networks",
-              "Global supply chains have no connection to consumers",
+              "Disruptions are usually resolved within a single day",
               "Economic effects are always limited to a single country"
             ],
             "answer": 1
@@ -9949,7 +9949,7 @@ const curriculum: DayContent[] = [
             "q": "Analyzing an author’s craft involves examining ___.",
             "options": [
               "Deliberate choices in structure, language, and literary devices",
-              "A factor unrelated to how the text was written",
+              "The author's personal opinions about other writers in the genre",
               "The book’s cover design only",
               "Only a single isolated sentence from the text"
             ],
@@ -9958,10 +9958,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might an author’s choice of sentence structure affect a reader’s experience?",
             "options": [
-              "This choice has no connection to an author’s craft",
+              "Sentence structure choices matter only in poetry, never in prose",
               "All sentence structures create an identical reading experience",
               "Structure can influence pacing, emphasis, and overall tone throughout a text",
-              "Sentence structure has no effect on a reader’s experience"
+              "Readers only notice sentence structure after finishing the entire text"
             ],
             "answer": 2
           },
@@ -9978,7 +9978,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is evaluating an author’s craft considered an advanced literary analysis skill?",
             "options": [
-              "Analyzing craft has no connection to understanding a text deeply",
+              "Craft can be fully evaluated by reading only the book's title and cover",
               "It requires synthesizing multiple elements of writing to understand the author’s overall approach",
               "Only the plot needs to be considered when evaluating an author’s craft",
               "This skill requires no analysis of the text’s language or structure"
@@ -10070,7 +10070,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The main function of the digestive system is to ___.",
             "options": [
-              "A function unrelated to the digestive system",
+              "Filtering carbon dioxide out of the bloodstream",
               "Pump blood throughout the body",
               "Filter air before it reaches the lungs",
               "Break down food into nutrients the body can absorb and use"
@@ -10080,7 +10080,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which organ is primarily responsible for breaking down food using acid and enzymes?",
             "options": [
-              "An organ unrelated to digestion",
+              "The kidney",
               "The heart",
               "The lungs",
               "The stomach"
@@ -10091,7 +10091,7 @@ const curriculum: DayContent[] = [
             "q": "The small intestine plays a key role in ___.",
             "options": [
               "Absorbing nutrients into the bloodstream",
-              "A role unrelated to the small intestine",
+              "Storing bile produced by the stomach",
               "Filtering air for the lungs",
               "Pumping blood to the rest of the body"
             ],
@@ -10101,7 +10101,7 @@ const curriculum: DayContent[] = [
             "q": "The large intestine mainly functions to ___.",
             "options": [
               "Break food down using stomach acid",
-              "A function unrelated to the large intestine",
+              "Breaking down proteins using digestive enzymes",
               "Pump oxygen throughout the body",
               "Absorb water and form waste for elimination"
             ],
@@ -10110,10 +10110,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the digestive system considered essential for overall health?",
             "options": [
-              "The digestive system has no connection to the body’s overall health",
+              "The body can get all its energy directly from sunlight instead",
               "It provides the body with the nutrients and energy needed to function",
               "The body can function normally with no digestive system at all",
-              "A reason unrelated to biology"
+              "Digestion occurs entirely outside the body before food is eaten"
             ],
             "answer": 1
           }
@@ -10133,7 +10133,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A foundational agreement about land and rights",
               "A type of map projection",
-              "A modern trade agreement unrelated to land",
+              "A one-time payment with no ongoing obligations",
               "An informal conversation with no legal weight"
             ],
             "answer": 0
@@ -10161,7 +10161,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these is an example of why treaty rights are significant in Canada?",
             "options": [
-              "They have no connection to Indigenous communities",
+              "They were negotiated only between provinces and territories, not the Crown",
               "They guarantee specific rights recognized in Canada's Constitution",
               "They apply only outside of Canada",
               "They were cancelled after Confederation"
@@ -10171,9 +10171,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might understanding treaties and land claims be important for studying Canadian geography?",
             "options": [
-              "Geography has no connection to land rights or history",
+              "Treaties mainly concern cultural ceremonies, not land use",
               "Land claims and treaties directly shape how land and resources are used and governed",
-              "This topic is unrelated to how Canada's map is organized",
+              "Land claims only affect provincial boundary lines",
               "These agreements have no bearing on present-day Canada"
             ],
             "answer": 1
@@ -10211,7 +10211,7 @@ const curriculum: DayContent[] = [
               "A motif always weakens a text’s themes",
               "Motifs are never intentionally used by authors",
               "To reinforce and deepen the text’s central themes",
-              "Repetition of any kind has no effect on meaning"
+              "Repeated images are only used to pad out a text's length"
             ],
             "answer": 2
           },
@@ -10231,14 +10231,14 @@ const curriculum: DayContent[] = [
               "A motif is a recurring element, while a theme is the deeper message it helps convey",
               "A motif and a theme are always identical concepts",
               "Themes are always more specific than motifs",
-              "A motif has no connection to a text’s meaning"
+              "A motif can only appear in poetry, never in prose fiction"
             ],
             "answer": 0
           },
           {
             "q": "Why is tracking motifs considered a valuable reading strategy?",
             "options": [
-              "Motifs have no connection to a text’s meaning",
+              "Motifs can only be identified after reading a text five or more times",
               "It helps readers notice patterns that reveal deeper meaning across a text",
               "Recurring imagery should always be ignored while reading",
               "This strategy has no value for understanding a text"
@@ -10323,7 +10323,7 @@ const curriculum: DayContent[] = [
               "Structure, protection, and support",
               "The ability to digest food",
               "The ability to pump blood",
-              "A function unrelated to the skeletal system"
+              "The production of digestive enzymes"
             ],
             "answer": 0
           },
@@ -10331,7 +10331,7 @@ const curriculum: DayContent[] = [
             "q": "Muscles produce movement through the process of ___.",
             "options": [
               "Contraction and relaxation",
-              "A process unrelated to muscles",
+              "Cell division and replication",
               "Digestion and absorption",
               "Filtration and excretion"
             ],
@@ -10340,7 +10340,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which is an example of the skeletal and muscular systems working together?",
             "options": [
-              "A concept unrelated to these systems",
+              "Photosynthesis occurring in skin cells",
               "Breathing using only the lungs, with no involvement from bones or muscles",
               "Bending your arm at the elbow using both bone and muscle",
               "Digesting a meal using only the stomach"
@@ -10351,8 +10351,8 @@ const curriculum: DayContent[] = [
             "q": "Why might bones be described as providing a framework for the body?",
             "options": [
               "The body has no structure or framework at all",
-              "Bones have no connection to the body’s overall shape",
-              "A reason unrelated to the skeletal system",
+              "Bones dissolve and regenerate completely every day",
+              "Bones are made entirely of muscle tissue",
               "They give the body its overall shape and structure, supporting other systems"
             ],
             "answer": 3
@@ -10360,7 +10360,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do the skeletal and muscular systems need to work closely together?",
             "options": [
-              "A reason unrelated to body systems",
+              "Muscles generate the body's blood supply directly",
               "Movement occurs with no involvement from bones or muscles",
               "Muscles need bones to pull against in order to create controlled movement",
               "These two systems function completely independently of one another"
@@ -10384,14 +10384,14 @@ const curriculum: DayContent[] = [
               "Only cultural traditions, with no resource connection",
               "A conflict with no identifiable cause",
               "Access to or control of limited resources",
-              "A topic entirely unrelated to resources"
+              "A disagreement over which language should be official"
             ],
             "answer": 2
           },
           {
             "q": "Water scarcity can contribute to regional tension particularly when ___.",
             "options": [
-              "Scarcity has no connection to conflict",
+              "Water scarcity only occurs in desert climates",
               "Water is equally abundant everywhere with no competing access",
               "Multiple groups or countries share access to a limited water source",
               "Only a single country ever depends on any water source"
@@ -10401,9 +10401,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might climate change increase the risk of resource-related conflicts?",
             "options": [
-              "Climate change has no connection to resource availability",
+              "Climate change mainly affects temperature, not resource supply",
               "Changing conditions can further strain already limited resources like water and arable land",
-              "Resource-related conflict is entirely unrelated to environmental change",
+              "Resource conflicts are caused only by political disagreements",
               "Climate change always increases resource availability everywhere"
             ],
             "answer": 1
@@ -10414,7 +10414,7 @@ const curriculum: DayContent[] = [
               "Resource distribution never affects political relationships",
               "It highlights how geography and resource distribution can shape political relationships",
               "Global geography never considers conflict or scarcity",
-              "This topic has no connection to geography"
+              "It applies only to conflicts within a single country's borders"
             ],
             "answer": 1
           },
@@ -10450,7 +10450,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Turns it into a question",
               "Removes it from the sentence",
-              "A concept unrelated to grammar",
+              "Changes a word's tense from past to present",
               "Turns it into a noun"
             ],
             "answer": 3
@@ -10469,7 +10469,7 @@ const curriculum: DayContent[] = [
             "q": "Is nominalization often used in formal or informal writing?",
             "options": [
               "Neither formal nor informal writing",
-              "A concept unrelated to nominalization",
+              "A term that only applies to spoken conversation, never writing",
               "Formal writing",
               "Informal writing only"
             ],
@@ -10490,7 +10490,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Nominalization always makes writing simpler and less formal",
               "Academic essays never use nominalized words",
-              "This concept has no connection to writing style",
+              "Nominalized words always shorten an essay's overall length",
               "It can create a more formal, abstract, and complex tone"
             ],
             "answer": 3
@@ -10510,7 +10510,7 @@ const curriculum: DayContent[] = [
             "q": "Completing the square is a method used to ___.",
             "options": [
               "Solve for the perimeter of a shape",
-              "A method unrelated to quadratic expressions",
+              "Convert a quadratic expression into a system of linear equations",
               "Simplify a linear equation only",
               "Rewrite a quadratic expression to reveal its vertex"
             ],
@@ -10520,7 +10520,7 @@ const curriculum: DayContent[] = [
             "q": "Completing the square can help with ___.",
             "options": [
               "Solving quadratic equations or graphing parabolas",
-              "A task unrelated to quadratics",
+              "Determining the slope of a tangent line to a curve",
               "Simplifying fractions only",
               "Only measuring angles in a triangle"
             ],
@@ -10529,7 +10529,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The vertex form of a quadratic equation, revealed by completing the square, is useful for identifying the parabola’s ___.",
             "options": [
-              "A value unrelated to the graph’s shape",
+              "Only the axis of symmetry, never its minimum or maximum point",
               "Exact colour",
               "Total perimeter",
               "Minimum or maximum point"
@@ -10569,7 +10569,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The nervous system is primarily made up of the brain, spinal cord, and ___.",
             "options": [
-              "A structure unrelated to the nervous system",
+              "Cartilage",
               "Muscle fibres",
               "Neurons",
               "Red blood cells"
@@ -10581,7 +10581,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Break down food for digestion",
               "Send and receive signals to control the body’s actions and responses",
-              "A function unrelated to the nervous system",
+              "Producing hormones to regulate digestion",
               "Pump blood throughout the body"
             ],
             "answer": 1
@@ -10591,7 +10591,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Produces digestive enzymes",
               "Transmits electrical signals throughout the body",
-              "A function unrelated to neurons",
+              "Stores excess glucose as glycogen",
               "Stores fat for energy"
             ],
             "answer": 1
@@ -10602,15 +10602,15 @@ const curriculum: DayContent[] = [
               "The skin",
               "The brain",
               "The stomach",
-              "An organ unrelated to the nervous system"
+              "The liver"
             ],
             "answer": 1
           },
           {
             "q": "Why is the spinal cord considered a critical part of the nervous system?",
             "options": [
-              "The spinal cord has no connection to sending signals",
-              "A reason unrelated to the nervous system",
+              "The spinal cord mainly produces red blood cells",
+              "The spinal cord's main job is to pump blood to the brain",
               "The spinal cord only affects digestion",
               "It carries signals between the brain and the rest of the body"
             ],
@@ -10632,7 +10632,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only the colour of local buildings",
               "Population density and travel networks",
-              "A factor entirely unrelated to geography",
+              "The literacy rate of the local population",
               "Weather patterns exclusively, with no other influence"
             ],
             "answer": 1
@@ -10641,8 +10641,8 @@ const curriculum: DayContent[] = [
             "q": "Why might densely populated urban areas experience faster disease transmission?",
             "options": [
               "Closer and more frequent contact between people can make transmission easier",
-              "Population density has no connection to disease spread",
-              "Disease transmission is unrelated to human contact patterns",
+              "Density mainly affects housing costs, not health outcomes",
+              "Transmission speed depends only on a disease's country of origin",
               "Urban areas are always less affected than rural areas"
             ],
             "answer": 0
@@ -10651,7 +10651,7 @@ const curriculum: DayContent[] = [
             "q": "Global travel networks can affect pandemics by ___.",
             "options": [
               "Enabling diseases to spread more quickly across regions and countries",
-              "Having no connection to how diseases spread",
+              "Primarily affecting cargo shipments, not passenger travel",
               "Always preventing the spread of disease entirely",
               "Only affecting a single, isolated location"
             ],
@@ -10660,7 +10660,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might access to healthcare vary the impact of a pandemic across different regions?",
             "options": [
-              "Healthcare access has no effect on pandemic outcomes",
+              "Healthcare access only matters during the first week of an outbreak",
               "Regions with limited healthcare access may face greater challenges in treatment and containment",
               "Pandemics affect every region in an identical way regardless of healthcare",
               "All regions have identical access to healthcare resources"
@@ -10671,7 +10671,7 @@ const curriculum: DayContent[] = [
             "q": "Why is studying the geography of pandemics valuable for public health planning?",
             "options": [
               "Pandemic planning never considers geographic patterns",
-              "This topic has no connection to public health",
+              "It mainly helps predict stock market reactions to outbreaks",
               "Geographic factors have no influence on health outcomes",
               "It helps identify patterns and vulnerabilities that can inform more effective responses"
             ],
@@ -10738,8 +10738,8 @@ const curriculum: DayContent[] = [
             "q": "Why might understanding verb mood help a writer communicate more precisely?",
             "options": [
               "It clarifies whether a statement is a fact, command, or hypothetical situation",
-              "Precision in writing has no connection to verb mood",
-              "Verb mood has no effect on how a sentence is understood",
+              "Verb mood only changes a sentence's subject, not its meaning",
+              "Verb mood is interchangeable with verb tense in every sentence",
               "All verb moods communicate the exact same meaning"
             ],
             "answer": 0
@@ -10758,7 +10758,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In the substitution method, what do you do first with one of the equations?",
             "options": [
-              "A concept unrelated to systems of equations",
+              "Add both equations together to eliminate a variable immediately",
               "Solve it for a single variable",
               "Multiply both equations together",
               "Graph both equations immediately"
@@ -10769,7 +10769,7 @@ const curriculum: DayContent[] = [
             "q": "After solving one equation for a variable, what do you do with that expression?",
             "options": [
               "Ignore it completely",
-              "A concept unrelated to substitution",
+              "Graph it as a separate equation on its own set of axes",
               "Substitute it into the other equation",
               "Divide it by zero"
             ],
@@ -10781,7 +10781,7 @@ const curriculum: DayContent[] = [
               "Nothing at all",
               "The value of x",
               "The value of y only, ignoring x",
-              "A concept unrelated to substitution"
+              "The slope of the line y equals x plus 2"
             ],
             "answer": 1
           },
@@ -10790,7 +10790,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Substitution only works when equations have no variables at all",
               "It can turn two equations with two variables into one equation with a single variable",
-              "This concept has no connection to algebra",
+              "It only works when both equations already have the same variable isolated",
               "Substitution never simplifies a system of equations"
             ],
             "answer": 1
@@ -10819,8 +10819,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Biotechnology uses ___.",
             "options": [
-              "A concept unrelated to biotechnology",
-              "A process unrelated to living organisms",
+              "Only synthetic chemicals created in a lab, never organisms",
+              "Purely mechanical processes with no biological materials involved",
               "Living organisms or their processes to develop useful products",
               "Only non-living materials with no biological component"
             ],
@@ -10829,7 +10829,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Genetic engineering involves ___.",
             "options": [
-              "A concept unrelated to genetic engineering",
+              "Observing an organism's behavior without altering its genes",
               "Studying an organism’s DNA with no modifications at all",
               "Directly modifying an organism’s DNA for a specific purpose",
               "Removing all DNA from an organism"
@@ -10841,7 +10841,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Painting a picture of a landscape",
               "Developing crops that are more resistant to disease",
-              "A concept unrelated to biotechnology",
+              "Designing a new smartphone app",
               "Building a bridge using steel and concrete"
             ],
             "answer": 1
@@ -10849,8 +10849,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might scientists genetically engineer certain crops?",
             "options": [
-              "Genetic engineering has no effect on a crop’s traits",
-              "A reason unrelated to genetic engineering",
+              "Genetic engineering only changes a crop's color, nothing else",
+              "To make crops grow without using any sunlight",
               "To make crops less nutritious on purpose",
               "To improve traits like disease resistance or nutritional value"
             ],
@@ -10861,8 +10861,8 @@ const curriculum: DayContent[] = [
             "options": [
               "It raises both potential benefits and ethical questions about modifying living organisms",
               "Biotechnology has no real-world applications or implications",
-              "A reason unrelated to biotechnology",
-              "Biotechnology is a topic with no connection to ethics or society"
+              "Biotechnology is studied only in science fiction, not real labs",
+              "Every scientist agrees completely on all biotechnology issues"
             ],
             "answer": 0
           }
@@ -10882,7 +10882,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The rapid, spread-out expansion of a city into surrounding areas",
               "The complete elimination of all urban development",
-              "A concept unrelated to city growth",
+              "The process of converting urban land back into farmland",
               "A city that maintains a compact, unchanging size"
             ],
             "answer": 0
@@ -10892,7 +10892,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A decrease in land use",
               "Environmental protection with no development impact",
-              "No connection to transportation patterns",
+              "A decrease in the number of vehicles on the road",
               "Land use and traffic congestion"
             ],
             "answer": 3
@@ -10900,7 +10900,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might urban sprawl contribute to greater reliance on cars for transportation?",
             "options": [
-              "Sprawl has no connection to transportation patterns",
+              "Walking and transit use has stayed the same for decades regardless of city design",
               "Spread-out development can make walking or public transit less practical",
               "Urban sprawl always increases walkability and reduces car use",
               "Compact cities always require more car use than sprawling ones"
@@ -10923,7 +10923,7 @@ const curriculum: DayContent[] = [
               "Alternatives to sprawl provide no environmental or infrastructure benefits",
               "Denser development can reduce environmental impact and support more efficient infrastructure use",
               "Urban sprawl always has fewer environmental costs than denser development",
-              "Planning alternatives has no connection to environmental impact"
+              "Denser development always increases traffic congestion compared to sprawl"
             ],
             "answer": 1
           }
@@ -10950,7 +10950,7 @@ const curriculum: DayContent[] = [
               "Precise and unambiguous",
               "Vague and overly general",
               "Entirely informal with no clarity required",
-              "Unrelated to the specific topic"
+              "Chosen mainly for its poetic or emotional sound"
             ],
             "answer": 0
           },
@@ -10959,7 +10959,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It can lead to confusion or errors when readers try to follow the information",
               "Vague language always improves clarity in technical writing",
-              "Ambiguity has no effect on how instructions are understood",
+              "Ambiguity only becomes a problem in fictional storytelling",
               "Technical writing never requires precise language"
             ],
             "answer": 0
@@ -10988,7 +10988,7 @@ const curriculum: DayContent[] = [
             "q": "Why is precision in word choice especially important in fields like engineering or medicine?",
             "options": [
               "Vague language is always preferred in technical or medical writing",
-              "Word choice has no connection to safety or accuracy",
+              "Technical vocabulary is identical across every professional field",
               "Miscommunication in these fields can lead to serious errors or safety issues",
               "Precision has no importance in these professional fields"
             ],
@@ -11008,7 +11008,7 @@ const curriculum: DayContent[] = [
             "q": "Investing generally involves ___.",
             "options": [
               "Spending money with no consideration of future growth",
-              "A concept unrelated to personal finance",
+              "Lending money to a bank with a guaranteed fixed return and no risk",
               "Putting money into assets with the goal of growing wealth over time",
               "Only saving money with no potential for growth"
             ],
@@ -11020,7 +11020,7 @@ const curriculum: DayContent[] = [
               "Growth remains completely flat over time",
               "Returns are never reinvested under any circumstances",
               "Investment returns are reinvested to generate further returns",
-              "A concept unrelated to investing"
+              "Interest being calculated only once at the very end of the investment period"
             ],
             "answer": 2
           },
@@ -11028,8 +11028,8 @@ const curriculum: DayContent[] = [
             "q": "Why might starting to invest early provide a significant advantage over time?",
             "options": [
               "Compound growth allows returns to build on themselves over a longer period",
-              "Starting early has no effect on investment growth",
-              "Investment timing has no connection to overall growth",
+              "Starting early only matters when the interest rate is above ten percent",
+              "Investment timing only affects how much tax is owed, not how much is earned",
               "Compound growth only benefits investments made later in life"
             ],
             "answer": 0
@@ -11038,7 +11038,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding investment risk important when making financial decisions?",
             "options": [
               "Investment risk should never be considered when investing",
-              "Risk has no connection to investment decisions",
+              "Higher risk investments always guarantee higher returns",
               "Different investments carry different levels of potential risk and reward",
               "All investments carry identical risk with no variation"
             ],
@@ -11049,8 +11049,8 @@ const curriculum: DayContent[] = [
             "options": [
               "It helps them make informed decisions that can support long-term financial goals",
               "Investing is only relevant to older individuals",
-              "Investment knowledge has no relevance to young people",
-              "Financial literacy has no connection to long-term planning"
+              "Investment knowledge only becomes useful after retirement",
+              "Financial literacy only applies to short-term purchases, not long-term planning"
             ],
             "answer": 0
           }
@@ -11071,7 +11071,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Nails",
               "Blood vessels only",
-              "A structure unrelated to the integumentary system",
+              "Lungs",
               "Bones"
             ],
             "answer": 0
@@ -11079,7 +11079,7 @@ const curriculum: DayContent[] = [
           {
             "q": "One main function of the skin is to ___.",
             "options": [
-              "A function unrelated to the skin",
+              "Producing red blood cells",
               "Pump blood throughout the body",
               "Protect the body from injury and infection",
               "Digest food for the body"
@@ -11090,7 +11090,7 @@ const curriculum: DayContent[] = [
             "q": "The skin helps regulate body temperature through processes such as ___.",
             "options": [
               "Digesting food",
-              "A process unrelated to temperature regulation",
+              "Absorbing nutrients from digested food",
               "Filtering air for the lungs",
               "Sweating"
             ],
@@ -11100,7 +11100,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these is a function of hair on the human body?",
             "options": [
               "Providing some protection and insulation",
-              "A function unrelated to hair",
+              "Pumping blood through capillaries",
               "Breaking down food in the stomach",
               "Pumping blood through the body"
             ],
@@ -11109,7 +11109,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the integumentary system considered the body’s first line of defence?",
             "options": [
-              "A reason unrelated to the integumentary system",
+              "The skin's main role is producing digestive enzymes",
               "This system has no protective function at all",
               "It forms a protective barrier between the body and the outside environment",
               "The integumentary system is located entirely inside the body"
@@ -11131,7 +11131,7 @@ const curriculum: DayContent[] = [
             "q": "A renewable resource, such as a forest, can regenerate over time if it is ___.",
             "options": [
               "Managed sustainably",
-              "Unrelated to management practices",
+              "Harvested at a constant rate no matter the season",
               "Used with no consideration of regeneration",
               "Depleted completely with no management"
             ],
@@ -11142,7 +11142,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Current fishing activity with the fish population’s ability to reproduce and recover",
               "Complete elimination of all fishing activity",
-              "A factor unrelated to fish populations",
+              "The market price of fish in a given year",
               "Unlimited fishing with no consideration of fish populations"
             ],
             "answer": 0
@@ -11150,8 +11150,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might overharvesting a renewable resource threaten its long-term availability?",
             "options": [
-              "Overharvesting has no effect on a resource’s availability",
-              "Regeneration rates have no connection to resource management",
+              "Overharvesting mainly affects price, not actual supply",
+              "Resources regenerate at the same rate no matter how heavily used",
               "Renewable resources can never be depleted under any circumstances",
               "Resources can be depleted faster than they are able to regenerate"
             ],
@@ -11170,8 +11170,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is geographic knowledge important for managing resources like forests and fisheries?",
             "options": [
-              "This knowledge has no relevance to sustainability efforts",
-              "Geography has no connection to resource management",
+              "Sustainability is determined mainly by annual rainfall totals",
+              "Every ecosystem requires the exact same management approach",
               "Resource management never depends on geographic factors",
               "Understanding the specific geography and ecosystem helps inform effective, sustainable management"
             ],
@@ -11210,14 +11210,14 @@ const curriculum: DayContent[] = [
               "Connect the evidence to the claim being made",
               "Replace the need for any evidence",
               "Confuse the reader intentionally",
-              "Have no connection to the claim"
+              "Repeat the claim in different words without adding support"
             ],
             "answer": 0
           },
           {
             "q": "Why is analyzing an argument’s structure useful for evaluating its strength?",
             "options": [
-              "Structure has no connection to how strong an argument is",
+              "Argument structure only matters in formal debate competitions",
               "This analysis has no value for readers",
               "It helps readers assess whether the evidence and reasoning actually support the claim",
               "All arguments are equally strong regardless of their structure"
@@ -11227,7 +11227,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which is a sign of a well-supported argument?",
             "options": [
-              "Evidence with no connection to the claim being made",
+              "Evidence drawn from a source with no expertise on the topic",
               "A claim with no supporting evidence at all",
               "Reasoning that contradicts the evidence provided",
               "Evidence that is directly relevant and clearly connected to the claim"
@@ -11239,7 +11239,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A claim without sufficient evidence may be less reliable or convincing",
               "Claims never require any supporting evidence",
-              "Evidence has no connection to how convincing an argument is",
+              "The amount of evidence only affects an argument's length, not its strength",
               "Readers should accept all claims without question"
             ],
             "answer": 0
@@ -11320,7 +11320,7 @@ const curriculum: DayContent[] = [
             "q": "The Big Bang theory describes the origin of the universe as beginning from ___.",
             "options": [
               "A completely empty void with nothing present",
-              "A theory unrelated to the universe’s origin",
+              "A gradual cooling of an infinite, unchanging universe",
               "A single planet expanding outward",
               "An extremely hot, dense state"
             ],
@@ -11339,8 +11339,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Cosmology is best described as the scientific study of ___.",
             "options": [
-              "Only the solar system, with no connection to the broader universe",
-              "A field unrelated to space science",
+              "Only the chemical composition of Earth's oceans",
+              "The study of weather patterns on Earth",
               "Only Earth’s geological history",
               "The origin, structure, and evolution of the universe"
             ],
@@ -11351,7 +11351,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A complete absence of any observable evidence",
               "The observed expansion of the universe",
-              "Evidence unrelated to the universe’s origin",
+              "The consistent chemical makeup of rocks found on Earth",
               "Evidence that the universe is not expanding at all"
             ],
             "answer": 1
@@ -11360,7 +11360,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the Big Bang theory considered a foundational concept in cosmology?",
             "options": [
               "It provides a widely supported scientific explanation for the origin and expansion of the universe",
-              "Cosmology has no connection to the universe’s origin",
+              "Cosmology focuses only on predicting daily weather patterns",
               "This theory has no scientific support",
               "The Big Bang theory has been proven entirely incorrect"
             ],
@@ -11382,8 +11382,8 @@ const curriculum: DayContent[] = [
             "options": [
               "No environmental changes of any kind",
               "Climate change",
-              "A factor unrelated to climate",
-              "A process unrelated to the region’s geography"
+              "A temporary weather pattern that reverses every few years",
+              "A decrease in global greenhouse gas emissions"
             ],
             "answer": 1
           },
@@ -11392,8 +11392,8 @@ const curriculum: DayContent[] = [
             "options": [
               "A complete lack of any valuable resources",
               "Access to resources and shipping routes",
-              "No connection to international interest",
-              "A topic unrelated to geopolitics"
+              "A treaty that permanently closed the region to all nations",
+              "A dispute resolved entirely without resource considerations"
             ],
             "answer": 1
           },
@@ -11401,8 +11401,8 @@ const curriculum: DayContent[] = [
             "q": "Why might melting Arctic ice increase interest in the region’s shipping routes?",
             "options": [
               "Reduced ice coverage can make new routes more accessible for navigation",
-              "Shipping interest has no connection to ice coverage",
-              "Melting ice has no effect on shipping routes",
+              "New routes are chosen based only on fuel prices, not ice conditions",
+              "Shipping companies avoid the Arctic regardless of ice conditions",
               "Ice melting always makes shipping routes less accessible"
             ],
             "answer": 0
@@ -11412,7 +11412,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The Arctic has the slowest rate of warming globally",
               "The region is experiencing warming at a faster rate than many other parts of the world",
-              "Climate change has no connection to polar regions",
+              "Polar regions are cooling while the rest of the world warms",
               "The Arctic is entirely unaffected by climate change"
             ],
             "answer": 1
@@ -11421,7 +11421,7 @@ const curriculum: DayContent[] = [
             "q": "Why might multiple countries have interest in Arctic geopolitics?",
             "options": [
               "No countries have any interest in the Arctic region",
-              "The Arctic has no connection to international relations",
+              "Arctic resources are protected by a global ban on all extraction",
               "Several nations border or have claims related to Arctic territory and resources",
               "Only a single country has any geographic connection to the Arctic"
             ],
@@ -11489,7 +11489,7 @@ const curriculum: DayContent[] = [
               "Addressing other perspectives can strengthen the credibility of the writer’s argument",
               "Considering other viewpoints always weakens an editorial",
               "Editorials should never mention any opposing views",
-              "This consideration has no effect on persuasive writing"
+              "Addressing other viewpoints always makes an editorial longer, nothing else"
             ],
             "answer": 0
           }
@@ -11509,7 +11509,7 @@ const curriculum: DayContent[] = [
               "No variables at all",
               "Only a single, isolated variable",
               "Two variables",
-              "A concept unrelated to data"
+              "The frequency of a single category over time"
             ],
             "answer": 2
           },
@@ -11517,7 +11517,7 @@ const curriculum: DayContent[] = [
             "q": "A line of best fit is used to ___.",
             "options": [
               "Approximate the overall trend in a scatter plot’s data",
-              "Have no connection to the data shown",
+              "Show the exact value of every outlier in the data set",
               "Replace the need for any data collection",
               "Connect every single data point exactly"
             ],
@@ -11527,7 +11527,7 @@ const curriculum: DayContent[] = [
             "q": "If a scatter plot shows a line of best fit with a positive slope, this suggests ___.",
             "options": [
               "As one variable increases, the other tends to increase as well",
-              "The data is unrelated to the line of best fit",
+              "The two variables were measured using different units",
               "The two variables have no relationship at all",
               "As one variable increases, the other tends to decrease"
             ],
@@ -11547,7 +11547,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important to recognize that a line of best fit represents a general trend, not an exact match to every point?",
             "options": [
               "A line of best fit must always pass through every single data point exactly",
-              "General trends have no connection to individual data points",
+              "A general trend always predicts the value of future data points exactly",
               "Individual data points can vary above or below the general trend line",
               "Data points never vary from the line of best fit"
             ],
@@ -11570,7 +11570,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A species with no impact on its environment",
               "A native species that has always lived in that ecosystem",
-              "An organism unrelated to any specific ecosystem",
+              "A species that has gone extinct in its original habitat",
               "A non-native organism that causes harm in a new environment"
             ],
             "answer": 3
@@ -11588,7 +11588,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might an invasive species spread rapidly in a new environment?",
             "options": [
-              "Spreading rapidly has no connection to a lack of natural predators",
+              "Rapid spread happens only when a species has more predators than usual",
               "Invasive species never spread successfully in new environments",
               "Invasive species always have more natural predators than native species",
               "It may lack natural predators or competitors that would normally limit its population"
@@ -11610,7 +11610,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Native biodiversity is never affected by non-native species",
               "Invasive species have no effect on local ecosystems",
-              "This topic has no connection to environmental science",
+              "Invasive species always die out within a single season",
               "They can disrupt local ecosystems and threaten native biodiversity"
             ],
             "answer": 3
@@ -11630,8 +11630,8 @@ const curriculum: DayContent[] = [
             "q": "A food system involves the geographic network of ___.",
             "options": [
               "Growing, processing, transporting, and distributing food",
-              "A single unrelated activity with no connection to food",
-              "A concept unrelated to geography",
+              "The marketing campaigns used to sell packaged foods",
+              "The recipes and cooking techniques used in different cultures",
               "Only food consumption, with no other stages considered"
             ],
             "answer": 0
@@ -11639,8 +11639,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might the distance food travels from farm to consumer be a relevant geographic consideration?",
             "options": [
-              "Distance has no connection to food systems",
-              "Transportation has no effect on food quality or cost",
+              "Distance traveled only affects how food is packaged",
+              "Shipping method matters more than distance for freshness",
               "Food never needs to travel any distance before reaching consumers",
               "Transportation distance can affect cost, freshness, and environmental impact"
             ],
@@ -11650,7 +11650,7 @@ const curriculum: DayContent[] = [
             "q": "Which is an example of a factor that could disrupt a food system?",
             "options": [
               "A factor with no possible impact on food systems",
-              "A change unrelated to agriculture or transportation",
+              "A shift in consumer taste for a particular cuisine",
               "A drought affecting a major agricultural region",
               "Food systems are never affected by any external events"
             ],
@@ -11661,8 +11661,8 @@ const curriculum: DayContent[] = [
             "options": [
               "It shows how geographic factors shape food production, distribution, and access",
               "Geography never influences food production or distribution",
-              "Food systems have no connection to geographic study",
-              "This topic has no relevance to understanding global patterns"
+              "It mainly explains nutrition science, not production location",
+              "Food access depends only on personal income, not geography"
             ],
             "answer": 0
           },
@@ -11670,8 +11670,8 @@ const curriculum: DayContent[] = [
             "q": "Why might access to fresh, local food vary between different regions?",
             "options": [
               "Access to food is always identical in every region",
-              "Geography has no connection to food access",
-              "Food access is entirely unrelated to a region’s characteristics",
+              "Access to fresh food depends only on a household's cooking skills",
+              "Fresh food access is determined solely by a region's population size",
               "Geographic factors like climate, infrastructure, and proximity to farms can all play a role"
             ],
             "answer": 3
@@ -11718,7 +11718,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Confuse the viewer with no intended purpose",
               "Enhance the viewer's sense of setting or atmosphere",
-              "Have no connection to a film's content",
+              "Sound effects are only added after a film finishes its theatrical release",
               "Replace the need for any visual storytelling"
             ],
             "answer": 1
@@ -11728,7 +11728,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It helps viewers understand how audio techniques shape meaning and emotional persuasion",
               "This skill has no real-world application",
-              "Music has no connection to media literacy",
+              "Only a film's dialogue, never its score, can convey meaning to viewers",
               "Film scores require no critical analysis of technique"
             ],
             "answer": 0
@@ -11760,7 +11760,7 @@ const curriculum: DayContent[] = [
               "A person’s exact age",
               "How reliably a person has repaid borrowed money in the past",
               "A person’s favourite hobbies",
-              "A concept unrelated to finance"
+              "The total amount of money currently in a person's bank account"
             ],
             "answer": 1
           },
@@ -11768,8 +11768,8 @@ const curriculum: DayContent[] = [
             "q": "Can a credit score affect a person’s ability to get a loan?",
             "options": [
               "Yes",
-              "No, credit scores have no connection to loans",
-              "A concept unrelated to credit scores",
+              "Loan approval depends only on income, never on credit score",
+              "A high credit score guarantees loan approval regardless of other factors",
               "Loans are never affected by a person’s financial history"
             ],
             "answer": 0
@@ -11780,7 +11780,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "A higher credit score always leads to a higher interest rate",
               "No, interest rates are never affected by credit scores",
-              "A concept unrelated to credit scores"
+              "Interest rates are set only by the loan amount, never by credit score"
             ],
             "answer": 0
           },
@@ -11788,7 +11788,7 @@ const curriculum: DayContent[] = [
             "q": "Why might paying bills on time help build a strong credit score?",
             "options": [
               "Consistent, reliable repayment history is a key factor in calculating a credit score",
-              "This concept has no connection to financial literacy",
+              "Credit scores are based only on how much money a person earns",
               "Credit scores are calculated completely at random",
               "Paying bills on time never affects a credit score"
             ],
@@ -11797,8 +11797,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding credit scores useful knowledge for planning future major purchases, like a car?",
             "options": [
-              "This concept has no relevance to financial literacy",
-              "Credit scores have no connection to major purchases",
+              "Credit scores only matter for businesses, not for individual purchases",
+              "Major purchases are always paid for entirely in cash, so credit scores don't apply",
               "A good credit score can make it easier and cheaper to borrow money when needed",
               "Major purchases never require any borrowed money"
             ],
@@ -11821,7 +11821,7 @@ const curriculum: DayContent[] = [
               "When bacteria evolve to survive medicines designed to kill them",
               "A process where bacteria are instantly destroyed by every medicine",
               "A type of vaccine",
-              "A concept unrelated to biology"
+              "A type of surgical procedure used to remove infected tissue"
             ],
             "answer": 0
           },
@@ -11829,7 +11829,7 @@ const curriculum: DayContent[] = [
             "q": "Can antibiotic resistance make some infections harder to treat?",
             "options": [
               "No, antibiotic resistance never affects how infections are treated",
-              "A concept unrelated to antibiotic resistance",
+              "Antibiotic resistance only occurs in plants, never bacteria",
               "Yes",
               "Resistant bacteria are always easier to treat"
             ],
@@ -11840,7 +11840,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No, it has never been considered a challenge at all",
               "Antibiotic resistance was solved long ago with no remaining concern",
-              "A concept unrelated to public health",
+              "Antibiotic resistance is a problem unique to a single country",
               "Yes"
             ],
             "answer": 3
@@ -11850,17 +11850,17 @@ const curriculum: DayContent[] = [
             "options": [
               "Using antibiotics less often always increases resistance instead",
               "Frequent use gives bacteria more opportunities to evolve and survive the medicine",
-              "This concept has no connection to biology",
-              "Overusing antibiotics has no connection to resistance"
+              "Overuse only affects how a medicine tastes, not its effectiveness",
+              "Bacteria can never develop resistance no matter how antibiotics are used"
             ],
             "answer": 1
           },
           {
             "q": "Why is it important for people to finish a full course of prescribed antibiotics?",
             "options": [
-              "Finishing a course of antibiotics has no effect on resistance",
+              "Stopping early only wastes money, with no biological consequence",
               "Stopping early might allow surviving, potentially resistant bacteria to multiply",
-              "This concept has no relevance to science",
+              "Antibiotic courses are a marketing guideline, not a medical one",
               "Antibiotics work exactly the same whether or not the full course is finished"
             ],
             "answer": 1
@@ -11878,10 +11878,10 @@ const curriculum: DayContent[] = [
           {
             "q": "National symbols, such as flags and anthems, are used to represent ___.",
             "options": [
-              "A concept unrelated to community or belonging",
+              "A design intended only to be visually attractive, with no other purpose",
               "Only geographic coordinates, with no cultural significance",
               "Shared history, values, and a collective national identity",
-              "A design with no connection to identity or meaning"
+              "A legal requirement imposed by international treaty"
             ],
             "answer": 2
           },
@@ -11890,8 +11890,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Colours and symbols on a flag can be chosen to represent historical events or shared values",
               "A flag's design is never connected to a country's history",
-              "National identity is entirely unrelated to visual symbols",
-              "Flags have no connection to a country's values"
+              "Flag designs are chosen only by international committees",
+              "Most flags are completely redesigned every few decades"
             ],
             "answer": 0
           },
@@ -11911,7 +11911,7 @@ const curriculum: DayContent[] = [
               "Geography never influences cultural or political identity",
               "It helps explain how countries construct and communicate a shared sense of identity",
               "National symbols are irrelevant to understanding countries",
-              "This concept has no connection to human geography"
+              "It mainly matters for art and design classes, not geography"
             ],
             "answer": 1
           },
@@ -11948,7 +11948,7 @@ const curriculum: DayContent[] = [
               "Long or intricate sentence structures",
               "Sentences containing no punctuation at all",
               "Only very short, simple sentences",
-              "A concept unrelated to sentence structure"
+              "Sentences that always begin with a coordinating conjunction"
             ],
             "answer": 0
           },
@@ -11958,7 +11958,7 @@ const curriculum: DayContent[] = [
               "It can clarify the relationships between different ideas within the sentence",
               "Breaking sentences apart always makes them harder to understand",
               "Complex sentences never need to be broken down for comprehension",
-              "This strategy has no effect on reading comprehension"
+              "Shorter sentences always change the original meaning of a text"
             ],
             "answer": 0
           },
@@ -11976,7 +11976,7 @@ const curriculum: DayContent[] = [
             "q": "Why might authors use complex syntax in their writing?",
             "options": [
               "Complex syntax is never used intentionally by authors",
-              "Complex sentences have no connection to nuanced ideas",
+              "Complex syntax is used only to meet a minimum word count requirement",
               "To convey nuanced or interconnected ideas within a single sentence",
               "This structure always makes writing less meaningful"
             ],
@@ -11988,7 +11988,7 @@ const curriculum: DayContent[] = [
               "Advanced texts never use complex syntax",
               "Many academic and literary texts rely on intricate sentence structures to convey meaning",
               "Complex syntax only appears in overly simple texts",
-              "This skill has no connection to comprehending difficult texts"
+              "Complex syntax only appears in texts translated from other languages"
             ],
             "answer": 1
           }
@@ -12009,7 +12009,7 @@ const curriculum: DayContent[] = [
               "Always an empty collection with no elements",
               "A single isolated number",
               "A collection of distinct objects",
-              "A concept unrelated to mathematics"
+              "A sequence of numbers that must always be in increasing order"
             ],
             "answer": 2
           },
@@ -12036,10 +12036,10 @@ const curriculum: DayContent[] = [
           {
             "q": "A Venn diagram is used to ___.",
             "options": [
-              "Calculate probability with no connection to sets",
+              "Calculate the exact probability of an event without listing its outcomes",
               "Measure the exact length of a line segment",
               "Visually represent relationships between sets",
-              "A tool entirely unrelated to sets"
+              "Display data only as a labeled bar graph"
             ],
             "answer": 2
           },
@@ -12070,15 +12070,15 @@ const curriculum: DayContent[] = [
               "Differences in genes among individuals of a species",
               "A single, identical gene shared by every individual",
               "A process where genes never change at all",
-              "A concept unrelated to biology"
+              "The total number of organisms living in a single habitat"
             ],
             "answer": 0
           },
           {
             "q": "Does genetic variation contribute to biodiversity?",
             "options": [
-              "No, genetic variation has no connection to biodiversity",
-              "A concept unrelated to genetics",
+              "Genetic variation only matters for identical twins",
+              "The study of rock formations over geological time",
               "Biodiversity is only affected by habitat, never genetics",
               "Yes"
             ],
@@ -12087,7 +12087,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Can genetic variation help a population adapt to a changing environment?",
             "options": [
-              "A concept unrelated to genetic variation",
+              "A measure of how many offspring a single organism produces",
               "Yes",
               "Populations never need to adapt to any environment",
               "No, genetic variation never helps with adaptation"
@@ -12098,8 +12098,8 @@ const curriculum: DayContent[] = [
             "q": "Why might a population with high genetic variation be more likely to survive a sudden environmental change, like a new disease?",
             "options": [
               "Some individuals may already have traits that help them resist the new challenge",
-              "This concept has no connection to biology",
-              "Genetic variation has no connection to surviving environmental changes",
+              "Disease resistance depends only on a population's total size",
+              "Genetic variation only affects physical appearance, never survival traits",
               "Every individual in a population always has identical genes"
             ],
             "answer": 0
@@ -12107,8 +12107,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is protecting genetic variation important for conservation efforts?",
             "options": [
-              "This concept has no relevance to science",
-              "Genetic variation has no relevance to conservation efforts",
+              "Conservation efforts should focus only on habitat size, never genetics",
+              "Species with low genetic variation always adapt the fastest",
               "Species never actually need genetic variation to survive",
               "It helps ensure species have the best chance of adapting to future environmental changes"
             ],
@@ -12128,9 +12128,9 @@ const curriculum: DayContent[] = [
           {
             "q": "The digital divide refers to ___.",
             "options": [
-              "A divide unrelated to geography or economics",
+              "The gap between older and newer smartphone models",
               "Equal access to technology everywhere in the world",
-              "A concept unrelated to technology access",
+              "The difference between public and private internet providers",
               "Unequal access to technology and the internet across regions and populations"
             ],
             "answer": 3
@@ -12138,10 +12138,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Which factor might contribute to the digital divide in a specific region?",
             "options": [
-              "A factor entirely unrelated to infrastructure",
+              "The number of social media apps popular in that region",
               "Limited internet infrastructure in that area",
               "Universal, equal access to technology everywhere",
-              "The digital divide has no connection to infrastructure"
+              "The digital divide only exists in developing countries"
             ],
             "answer": 1
           },
@@ -12150,7 +12150,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Rural areas always have identical internet access to urban areas",
               "The digital divide only affects urban areas, never rural ones",
-              "Infrastructure development has no connection to population density",
+              "Rural areas typically have lower-cost infrastructure to build",
               "Building internet infrastructure can be more challenging and costly in less densely populated areas"
             ],
             "answer": 3
@@ -12158,17 +12158,17 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the digital divide considered a significant geographic and social issue?",
             "options": [
-              "Technology access has no connection to opportunity or education",
+              "Technology access mainly affects entertainment, not education or jobs",
               "Unequal access to technology can affect education, economic opportunity, and communication",
               "The digital divide has no real-world consequences",
-              "This issue has no relevance to geographic study"
+              "The digital divide is shrinking equally fast in every country"
             ],
             "answer": 1
           },
           {
             "q": "Which is an example of an effort to address the digital divide?",
             "options": [
-              "An effort with no connection to improving access",
+              "Lowering internet speeds to reduce costs for everyone",
               "Expanding internet infrastructure to underserved areas",
               "Ignoring disparities in technology access entirely",
               "Restricting technology access even further in underserved areas"
@@ -12205,8 +12205,8 @@ const curriculum: DayContent[] = [
           {
             "q": "A monologue often reveals a character’s ___.",
             "options": [
-              "The setting of the story, with no connection to character",
-              "Physical appearance only, with no connection to thoughts or feelings",
+              "A detailed timeline of events happening to other characters",
+              "The exact words spoken by a different character in the scene",
               "Inner thoughts, motivations, or emotional state",
               "Name and age only"
             ],
@@ -12216,7 +12216,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a playwright use a monologue at a key moment in a story?",
             "options": [
               "Monologues are only used to describe unrelated settings",
-              "This technique has no effect on audience understanding",
+              "Monologues are used only to summarize events that already happened onstage",
               "To give the audience deeper insight into a character’s internal experience",
               "Monologues never provide insight into a character"
             ],
@@ -12238,7 +12238,7 @@ const curriculum: DayContent[] = [
               "Monologues should always sound identical regardless of character",
               "This type of writing requires no consideration of character",
               "The monologue should authentically reflect that specific character’s personality and emotional state",
-              "Voice and tone have no connection to writing a monologue"
+              "Voice and tone matter only when a monologue is performed, not written"
             ],
             "answer": 2
           }
@@ -12257,7 +12257,7 @@ const curriculum: DayContent[] = [
             "q": "Precision in measurement refers to ___.",
             "options": [
               "How consistent repeated measurements are with each other",
-              "A measurement with no connection to consistency",
+              "How close a single measurement is to the true accepted value",
               "How close a measurement is to the true value",
               "The exact colour of a measured object"
             ],
@@ -12266,7 +12266,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Accuracy in measurement refers to ___.",
             "options": [
-              "A concept unrelated to true values",
+              "How many decimal places a measuring instrument can display",
               "How consistent repeated measurements are with each other",
               "How close a measurement is to the true value",
               "Only the units used in a measurement"
@@ -12287,7 +12287,7 @@ const curriculum: DayContent[] = [
             "q": "Measurement error describes ___.",
             "options": [
               "Only errors caused by faulty equipment, with no other causes",
-              "A concept unrelated to measurement",
+              "The total number of measurements taken during an experiment",
               "The difference between a measured value and the true value",
               "A value that is always exactly zero"
             ],
@@ -12298,7 +12298,7 @@ const curriculum: DayContent[] = [
             "options": [
               "These two concepts are always identical in meaning",
               "This distinction has no practical use in science",
-              "Precision and accuracy have no connection to scientific measurement",
+              "Precision and accuracy always produce exactly the same measurement result",
               "It helps scientists understand the reliability and validity of their data"
             ],
             "answer": 3
@@ -12319,7 +12319,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The movement of particles from high to low concentration",
               "The movement of particles from low to high concentration only",
-              "A concept unrelated to biology",
+              "The process by which cells divide into two identical cells",
               "A process where particles never move at all"
             ],
             "answer": 0
@@ -12329,7 +12329,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Solid particles across a wall",
               "Water across a cell membrane",
-              "A concept unrelated to osmosis",
+              "Carbon dioxide across the surface of a leaf",
               "Electricity across a wire"
             ],
             "answer": 1
@@ -12339,7 +12339,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No, diffusion never leads to an even spread of particles",
               "Yes",
-              "A concept unrelated to diffusion",
+              "A process that only happens in solid materials, never liquids",
               "Particles always stay clustered in one small area forever"
             ],
             "answer": 1
@@ -12349,7 +12349,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Salty water always causes a cell to gain water instead of losing it",
               "Water tends to move toward the area with a higher concentration of dissolved particles, like salt",
-              "This concept has no connection to biology",
+              "Salt crystals physically push water molecules out of the cell wall",
               "Water never moves in or out of a plant cell"
             ],
             "answer": 1
@@ -12358,8 +12358,8 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding osmosis important for understanding how cells stay healthy?",
             "options": [
               "Cells never need to regulate the water inside or around them",
-              "This concept has no relevance to science",
-              "Water movement has no effect on how a cell functions",
+              "Cells can survive indefinitely with no water at all",
+              "A cell's shape is determined only by its genetic code, not water",
               "Cells rely on a balanced movement of water to maintain their proper shape and function"
             ],
             "answer": 3
@@ -12379,7 +12379,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No shared matters of any kind",
               "Only unrelated cultural traditions",
-              "A concept unrelated to international relationships",
+              "Military competition between neighboring countries",
               "Economic and political matters"
             ],
             "answer": 3
@@ -12387,7 +12387,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which is an example of a regional integration organization?",
             "options": [
-              "An organization unrelated to regional cooperation",
+              "The United Nations Security Council",
               "The European Union",
               "A single, isolated country with no connections to others",
               "A concept that has never actually existed"
@@ -12407,10 +12407,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is studying regional integration case studies valuable for understanding global geography?",
             "options": [
-              "This topic has no relevance to understanding international relationships",
+              "Case studies apply only to European countries",
               "It illustrates real-world examples of how countries cooperate across a shared region",
               "Case studies provide no useful insight into global cooperation",
-              "Regional integration has no connection to geography"
+              "Regional cooperation always eliminates individual countries' borders"
             ],
             "answer": 1
           },
@@ -12443,10 +12443,10 @@ const curriculum: DayContent[] = [
           {
             "q": "A text set is best described as ___.",
             "options": [
-              "A concept unrelated to reading comprehension",
+              "A single textbook chapter divided into several short sections",
               "A collection of completely unrelated texts",
               "A group of related texts on a common topic",
-              "A single isolated text with no connection to others"
+              "A text that must be written in a foreign language to qualify"
             ],
             "answer": 2
           },
@@ -12483,7 +12483,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is synthesizing across a text set considered an advanced literacy skill?",
             "options": [
-              "Synthesizing has no connection to critical thinking",
+              "Synthesizing only requires summarizing each text separately",
               "This skill requires no understanding of any individual text",
               "It requires comparing, connecting, and combining ideas from multiple sources into a new understanding",
               "It only involves reading a single sentence from one text"
@@ -12530,7 +12530,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Simplify a linear equation only",
               "Rewrite a quadratic expression to reveal its vertex",
-              "A method unrelated to quadratic expressions",
+              "Find the greatest common factor of a polynomial",
               "Solve for the perimeter of a shape"
             ],
             "answer": 1
@@ -12558,7 +12558,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful to review quadratics, rational expressions, and non-linear relations together?",
             "options": [
-              "These topics have no connection to each other",
+              "Each topic uses a completely different number system than the others",
               "Each topic must be learned in complete isolation",
               "Review is never useful in math",
               "These related math concepts reinforce each other for stronger overall understanding"
@@ -12581,7 +12581,7 @@ const curriculum: DayContent[] = [
               "Pumping blood throughout the body",
               "Breaking down food in the stomach",
               "Filtering waste products and excess water from the blood",
-              "A concept unrelated to biology"
+              "Producing antibodies to fight infection"
             ],
             "answer": 2
           },
@@ -12590,7 +12590,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The stomach",
               "The lungs",
-              "A concept unrelated to the excretory system",
+              "The pancreas",
               "The kidneys"
             ],
             "answer": 3
@@ -12598,10 +12598,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Does the excretory system produce urine to remove waste from the body?",
             "options": [
-              "No, urine has no connection to waste removal",
+              "Urine is produced only to regulate body temperature",
               "Yes",
               "The excretory system never removes any waste from the body",
-              "A concept unrelated to the excretory system"
+              "The spleen"
             ],
             "answer": 1
           },
@@ -12611,15 +12611,15 @@ const curriculum: DayContent[] = [
               "The kidneys have no actual role in filtering the blood",
               "Buildup of waste products in the blood could become harmful to the body over time",
               "Waste products in the blood are never harmful to the body",
-              "This concept has no connection to biology"
+              "Waste buildup in the blood only affects hair growth"
             ],
             "answer": 1
           },
           {
             "q": "Why might drinking enough water each day support healthy kidney function?",
             "options": [
-              "Water intake has no effect on how the kidneys function",
-              "This concept has no relevance to science",
+              "Water intake only affects skin hydration, not kidney filtration",
+              "Kidney function is determined solely by diet, never water intake",
               "The kidneys function identically regardless of how much water a person drinks",
               "Adequate water helps the kidneys effectively filter waste and produce urine"
             ],
@@ -12650,7 +12650,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only cultural traditions, with no resource connection",
               "Access to or control of limited resources",
-              "A topic entirely unrelated to resources",
+              "A rivalry based solely on sports competition",
               "A conflict with no identifiable cause"
             ],
             "answer": 1
@@ -12658,28 +12658,28 @@ const curriculum: DayContent[] = [
           {
             "q": "The Arctic has become an area of increasing geopolitical interest partly due to ___.",
             "options": [
-              "No connection to international interest",
+              "An area closed off from all international shipping",
               "A complete lack of any valuable resources",
               "Access to resources and shipping routes",
-              "A topic unrelated to geopolitics"
+              "A dispute settled without regard to natural resources"
             ],
             "answer": 2
           },
           {
             "q": "A food system involves the geographic network of ___.",
             "options": [
-              "A single unrelated activity with no connection to food",
+              "The restaurant industry's marketing strategies",
               "Growing, processing, transporting, and distributing food",
               "Only food consumption, with no other stages considered",
-              "A concept unrelated to geography"
+              "The cultural traditions behind regional cuisines"
             ],
             "answer": 1
           },
           {
             "q": "The digital divide refers to ___.",
             "options": [
-              "A divide unrelated to geography or economics",
-              "A concept unrelated to technology access",
+              "The difference between old and new computer brands",
+              "The competition between internet service providers",
               "Unequal access to technology and the internet across regions and populations",
               "Equal access to technology everywhere in the world"
             ],
@@ -12690,7 +12690,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It helps reinforce how these interconnected issues shape global patterns and relationships",
               "Review is never useful in social studies",
-              "Each topic must be studied with no connection to the others",
+              "These topics should be memorized separately for different tests",
               "These topics have no meaningful connections"
             ],
             "answer": 0
@@ -12714,7 +12714,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A foil character is best described as ___.",
             "options": [
-              "A concept unrelated to characterization",
+              "A character who narrates the story from a first-person perspective",
               "A character whose contrasting traits highlight qualities in another character",
               "A character who is identical to the protagonist in every way",
               "A minor character who never interacts with the protagonist"
@@ -12727,7 +12727,7 @@ const curriculum: DayContent[] = [
               "To make every character seem exactly the same",
               "Foil characters are never used intentionally by authors",
               "To emphasize specific traits of another character through contrast",
-              "This technique has no effect on how readers view a character"
+              "Foil characters exist only to provide comic relief in a story"
             ],
             "answer": 2
           },
@@ -12737,7 +12737,7 @@ const curriculum: DayContent[] = [
               "A character who never appears alongside another character",
               "A cautious, careful character paired with a reckless, impulsive one",
               "Two characters with identical personalities and no differences",
-              "A concept unrelated to character contrast"
+              "Two characters who never speak to each other throughout the story"
             ],
             "answer": 1
           },
@@ -12745,7 +12745,7 @@ const curriculum: DayContent[] = [
             "q": "How does recognizing a foil character deepen a reader’s understanding of the protagonist?",
             "options": [
               "The contrast can make the protagonist’s own traits and choices stand out more clearly",
-              "Foil characters have no connection to understanding a protagonist",
+              "Foil characters are only used in plays, never in novels",
               "This technique always confuses a reader rather than clarifying",
               "A foil character removes the need to analyze the protagonist at all"
             ],
@@ -12775,7 +12775,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In the elimination method, what is added or subtracted to cancel out a variable?",
             "options": [
-              "A concept unrelated to systems of equations",
+              "The slopes of the two lines in the system",
               "The two equations in the system",
               "Only the variables, never the equations",
               "A single number chosen at random"
@@ -12798,7 +12798,7 @@ const curriculum: DayContent[] = [
               "Multiplying equations is never allowed in algebra",
               "Yes",
               "No, equations can never be multiplied in elimination",
-              "A concept unrelated to elimination"
+              "Only when the system has three or more variables"
             ],
             "answer": 1
           },
@@ -12807,7 +12807,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Elimination only works when equations have no variables at all",
               "It can remove one variable entirely, leaving a simpler equation to solve",
-              "This concept has no connection to algebra",
+              "It only works when both equations already share identical coefficients",
               "Elimination never simplifies a system of equations"
             ],
             "answer": 1
@@ -12838,15 +12838,15 @@ const curriculum: DayContent[] = [
             "options": [
               "The weight of the fluid it displaces",
               "The temperature of the fluid",
-              "The object’s own weight only, with no connection to fluid",
-              "A force unrelated to the surrounding fluid"
+              "The density of the object multiplied by its volume in air",
+              "The gravitational pull of the Earth on the object alone"
             ],
             "answer": 0
           },
           {
             "q": "An object will float in a fluid if its density is ___ the fluid’s density.",
             "options": [
-              "Unrelated to",
+              "Exactly double",
               "Exactly equal in every case to",
               "Less than",
               "Greater than"
@@ -12858,8 +12858,8 @@ const curriculum: DayContent[] = [
             "options": [
               "The ship’s overall shape displaces enough water that its average density is less than water’s",
               "Steel is always less dense than water",
-              "Buoyant force has no connection to displaced fluid",
-              "The ship’s shape has no effect on whether it floats"
+              "Buoyant force depends only on the ship's total weight, not displacement",
+              "A ship's shape only affects its speed, never its ability to float"
             ],
             "answer": 0
           },
@@ -12869,7 +12869,7 @@ const curriculum: DayContent[] = [
               "A submarine adjusting its ballast tanks to control whether it rises or sinks",
               "An object with no interaction with any surrounding fluid",
               "An object that always sinks regardless of its density",
-              "A concept unrelated to buoyancy"
+              "A rock sinking straight to the bottom of a lake"
             ],
             "answer": 0
           },
@@ -12878,7 +12878,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Buoyancy has no practical application in engineering",
               "It helps engineers design vessels and structures that float or submerge as intended",
-              "Ship design has no connection to density or displaced fluid",
+              "Ship design depends only on engine power, never water displacement",
               "This concept only applies to objects that never touch water"
             ],
             "answer": 1
@@ -12897,9 +12897,9 @@ const curriculum: DayContent[] = [
             "q": "Coastal geography examines the physical features and human activity found ___.",
             "options": [
               "Only in landlocked, inland regions",
-              "Exclusively underwater, with no connection to land",
+              "Only the deep ocean floor far from any shoreline",
               "Along coastlines",
-              "A concept unrelated to geography"
+              "The political boundaries between neighboring countries"
             ],
             "answer": 2
           },
@@ -12908,8 +12908,8 @@ const curriculum: DayContent[] = [
             "options": [
               "A decrease in the size of the world’s oceans",
               "Climate change, including melting ice and thermal expansion of water",
-              "A factor entirely unrelated to climate",
-              "A process unrelated to coastal regions"
+              "A temporary shift in ocean currents during El Niño years",
+              "A decline in the number of ships crossing the ocean"
             ],
             "answer": 1
           },
@@ -12918,7 +12918,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No risk of any kind to coastal areas",
               "A guaranteed decrease in coastal flooding",
-              "A risk unrelated to sea level or coastlines",
+              "A rise in coral reef growth along the coastline",
               "Increased flooding and erosion of coastal land"
             ],
             "answer": 3
@@ -12928,7 +12928,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Coastal vulnerability has no relationship to a region’s elevation",
               "Low-lying regions are always the least affected by sea level rise",
-              "Elevation has no connection to vulnerability from rising seas",
+              "Higher elevation areas face greater risk than low-lying ones",
               "Their limited elevation gives them little buffer against rising water levels"
             ],
             "answer": 3
@@ -12938,7 +12938,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Removing all existing coastal infrastructure with no replacement plan",
               "Building sea walls or restoring natural barriers like wetlands",
-              "A strategy unrelated to coastal adaptation",
+              "Increasing fossil fuel production to fund adaptation measures",
               "Ignoring the risk of rising sea levels entirely"
             ],
             "answer": 1
@@ -13027,7 +13027,7 @@ const curriculum: DayContent[] = [
               "Extra bonus money added to a paycheque",
               "Amounts subtracted from an employee’s gross pay",
               "A type of savings account",
-              "A concept unrelated to financial literacy"
+              "Money an employer adds to a paycheque as a yearly bonus"
             ],
             "answer": 1
           },
@@ -13036,7 +13036,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Net pay",
               "Gross pay",
-              "A concept unrelated to payroll",
+              "Gross income",
               "Overtime pay"
             ],
             "answer": 0
@@ -13045,9 +13045,9 @@ const curriculum: DayContent[] = [
             "q": "Is income tax typically one example of a payroll deduction?",
             "options": [
               "Yes",
-              "Income tax is always paid separately with no connection to payroll",
+              "Income tax is only deducted once per year, never per paycheque",
               "No, income tax is never deducted from pay",
-              "A concept unrelated to payroll deductions"
+              "Payroll deductions include only retirement contributions, never taxes"
             ],
             "answer": 0
           },
@@ -13064,7 +13064,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it important to understand the difference between gross pay and net pay when planning a budget?",
             "options": [
-              "This concept has no connection to financial literacy",
+              "Gross pay is always a smaller amount than net pay after deductions",
               "Gross pay and net pay are always exactly the same amount",
               "Net pay reflects the actual amount available to spend or save, not the full amount earned",
               "Budgeting never requires knowing the difference between these two amounts"
@@ -13116,7 +13116,7 @@ const curriculum: DayContent[] = [
             "q": "Why might lymph nodes swell when a person is sick?",
             "options": [
               "Lymph nodes cannot change size",
-              "Swelling is unrelated to illness",
+              "Lymph nodes swell at completely random times with no trigger",
               "Swelling always means the lymphatic system has failed",
               "They are actively working to fight off infection"
             ],
@@ -13145,7 +13145,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A renewable resource is best described as one that ___.",
             "options": [
-              "A concept unrelated to natural resources",
+              "A resource that is always found only underground",
               "Can be replenished naturally over a relatively short period",
               "Can never be used without immediately running out",
               "Exists in a completely fixed and unchangeable supply"
@@ -13158,7 +13158,7 @@ const curriculum: DayContent[] = [
               "Is always more abundant than renewable resources",
               "Exists in a finite supply and is not naturally replenished on a human timescale",
               "Can be replenished instantly with no limit",
-              "A concept unrelated to resource extraction"
+              "A resource used exclusively for renewable energy production"
             ],
             "answer": 1
           },
@@ -13178,17 +13178,17 @@ const curriculum: DayContent[] = [
               "Mining and drilling can alter landscapes and affect local ecosystems",
               "Extracting non-renewable resources never affects the surrounding land",
               "Fossil fuel extraction always improves the surrounding ecosystem",
-              "Non-renewable resource extraction has no connection to geography"
+              "Extraction methods are identical in every location worldwide"
             ],
             "answer": 0
           },
           {
             "q": "Why might a region rich in renewable resources, like consistent wind or sunlight, pursue that form of energy development?",
             "options": [
-              "This decision has no connection to geographic factors",
+              "Energy development decisions depend only on government budgets",
               "It can provide a sustainable, locally available energy source suited to that region’s geography",
               "Regions with abundant renewable resources should avoid using them",
-              "Renewable resources are always unrelated to a region’s specific geography"
+              "Wind and solar potential is identical in every region of the world"
             ],
             "answer": 1
           }
@@ -13215,7 +13215,7 @@ const curriculum: DayContent[] = [
               "Vocabulary level",
               "Verb tense only",
               "Attitude toward the action, such as a fact, command, or wish",
-              "A concept unrelated to grammar"
+              "The number of characters present in a scene"
             ],
             "answer": 2
           },
@@ -13254,7 +13254,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Shifts in mood always improve a sentence's clarity",
               "Mood only matters in spoken English, not in writing",
-              "Consistent mood has no effect on how a reader understands a passage",
+              "Verb mood shifts only matter in poetry, never in prose",
               "Unnecessary shifts can confuse the reader by breaking a consistent tone"
             ],
             "answer": 3
@@ -13273,7 +13273,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What can the Pythagorean theorem help find when extended into three dimensions?",
             "options": [
-              "A concept unrelated to geometry",
+              "The surface area of a sphere inscribed inside the prism",
               "The weight of a rectangular prism",
               "The colour of a rectangular prism",
               "The diagonal length of a rectangular prism"
@@ -13284,7 +13284,7 @@ const curriculum: DayContent[] = [
             "q": "What three measurements of a rectangular prism are used to find its diagonal length?",
             "options": [
               "Length, width, and height",
-              "A concept unrelated to the Pythagorean theorem",
+              "Length, width, and surface area",
               "Only the height and colour",
               "Only the length"
             ],
@@ -13293,8 +13293,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Is finding a diagonal in three dimensions related to the same principle used to find the hypotenuse of a right triangle?",
             "options": [
-              "Diagonals in three dimensions have nothing to do with right triangles",
-              "A concept unrelated to the Pythagorean theorem",
+              "Three-dimensional diagonals are calculated using circumference instead of side lengths",
+              "The diagonal of a rectangular prism is always equal to its height",
               "No, the two concepts are never related",
               "Yes"
             ],
@@ -13306,7 +13306,7 @@ const curriculum: DayContent[] = [
               "Diagonal length is never useful information for engineers",
               "Rectangular boxes never have a diagonal length at all",
               "It can help determine whether a long object will fit diagonally inside the box",
-              "This concept has no connection to geometry"
+              "Diagonal length only matters for cube-shaped boxes, never rectangular ones"
             ],
             "answer": 2
           },
@@ -13336,7 +13336,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Water vapour turns directly into ice",
               "Liquid water absorbs energy and changes into water vapour",
-              "A process unrelated to the water cycle",
+              "Water seeping directly into underground rock layers",
               "Water flows over the land's surface"
             ],
             "answer": 1
@@ -13347,7 +13347,7 @@ const curriculum: DayContent[] = [
               "Cools and changes back into liquid water droplets",
               "Freezes instantly into snow",
               "Flows underground into an aquifer",
-              "A process unrelated to the water cycle"
+              "Water breaking down into hydrogen and oxygen gas"
             ],
             "answer": 0
           },
@@ -13367,7 +13367,7 @@ const curriculum: DayContent[] = [
               "Wind",
               "The Moon's gravity",
               "The Sun",
-              "A source unrelated to the water cycle"
+              "Geothermal heat from the Earth's core"
             ],
             "answer": 2
           },
@@ -13377,7 +13377,7 @@ const curriculum: DayContent[] = [
               "Condensation",
               "Runoff",
               "Sublimation",
-              "A term unrelated to the water cycle"
+              "Transpiration"
             ],
             "answer": 1
           }
@@ -13398,7 +13398,7 @@ const curriculum: DayContent[] = [
               "Birth and death rates",
               "Only the total land area of a country",
               "The exact temperature of a country’s climate",
-              "A factor unrelated to population"
+              "The average rainfall a country receives each year"
             ],
             "answer": 0
           },
@@ -13407,7 +13407,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Average income level exclusively",
               "Total land area only",
-              "A concept unrelated to demographics",
+              "The geographic size of a country's largest city",
               "Age and sex structure"
             ],
             "answer": 3
@@ -13415,7 +13415,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A population pyramid with a wide base and narrow top typically indicates ___.",
             "options": [
-              "A concept unrelated to population structure",
+              "A population evenly split between young and old age groups",
               "A population with no children at all",
               "A high birth rate and a relatively young population",
               "A declining, aging population with very few young people"
@@ -13426,7 +13426,7 @@ const curriculum: DayContent[] = [
             "q": "Why might death rates decline before birth rates during a country’s demographic transition?",
             "options": [
               "Birth rates always decline before death rates in every country",
-              "Death rates have no connection to a country’s development",
+              "Death rates typically fall only after birth rates have already dropped",
               "Death rates and birth rates always change at exactly the same time",
               "Improvements in healthcare and sanitation often occur before significant shifts in family size"
             ],
@@ -13438,7 +13438,7 @@ const curriculum: DayContent[] = [
               "This tool only applies to countries with no population growth",
               "Population pyramids provide no useful information for planning",
               "They help predict future needs, such as schools, healthcare, or retirement services, based on age structure",
-              "Age structure has no connection to future population needs"
+              "Population pyramids mainly show a country's total land area"
             ],
             "answer": 2
           }
@@ -13463,8 +13463,8 @@ const curriculum: DayContent[] = [
             "q": "An idiom is best described as a phrase whose meaning ___.",
             "options": [
               "Cannot be understood literally from its individual words",
-              "Has no connection to how it is used in context",
-              "A concept unrelated to figurative language",
+              "Changes depending on which dictionary a reader consults",
+              "Varies randomly every time the idiom is spoken aloud",
               "Is always identical to its literal, word-for-word meaning"
             ],
             "answer": 0
@@ -13503,7 +13503,7 @@ const curriculum: DayContent[] = [
             "q": "Why is recognizing idioms and figurative language an important reading skill?",
             "options": [
               "Misreading figurative language literally can lead to significant misunderstanding of a text",
-              "This skill has no connection to reading comprehension",
+              "Idioms appear only in casual speech, never in written texts",
               "All figurative language means exactly what it literally states",
               "Figurative language never affects how a text is understood"
             ],
@@ -13585,7 +13585,7 @@ const curriculum: DayContent[] = [
             "q": "Kinetic energy is best described as ___.",
             "options": [
               "Stored energy based on an object’s position",
-              "A concept unrelated to physics",
+              "The energy stored in a stretched rubber band",
               "Energy that only exists in stationary objects",
               "The energy of motion"
             ],
@@ -13597,7 +13597,7 @@ const curriculum: DayContent[] = [
               "The energy of motion only",
               "Energy that can never be transformed into another form",
               "Stored energy based on an object’s position or condition",
-              "A concept unrelated to energy"
+              "The total mass of an object in motion"
             ],
             "answer": 2
           },
@@ -13626,7 +13626,7 @@ const curriculum: DayContent[] = [
             "options": [
               "An object that never experiences any change in position",
               "A roller coaster car descending from the top of a hill",
-              "A concept unrelated to energy transformation",
+              "A battery that never loses its charge",
               "A ball resting motionless on a flat, level surface"
             ],
             "answer": 1
@@ -13645,10 +13645,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Tourism geography examines how natural and cultural attractions ___.",
             "options": [
-              "A concept unrelated to geography",
+              "The administrative boundaries between neighboring countries",
               "Always discourage visitors from a region",
               "Draw visitors to a specific region",
-              "Have no connection to a region’s economy"
+              "The tax policies a government uses to fund public schools"
             ],
             "answer": 2
           },
@@ -13658,7 +13658,7 @@ const curriculum: DayContent[] = [
               "The complete elimination of a region’s economy",
               "Job creation in hospitality and related industries",
               "A guaranteed decrease in local employment",
-              "A concept unrelated to tourism’s economic impact"
+              "A rise in a region's agricultural exports"
             ],
             "answer": 1
           },
@@ -13667,8 +13667,8 @@ const curriculum: DayContent[] = [
             "options": [
               "A guaranteed improvement to the local environment",
               "Environmental strain on natural attractions from overuse",
-              "Tourism always has no effect on the environment",
-              "A concept unrelated to tourism’s impact"
+              "A decrease in local tax revenue from visitor spending",
+              "A rise in local manufacturing output"
             ],
             "answer": 1
           },
@@ -13677,7 +13677,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Ecotourism aims to minimize environmental impact while still generating economic benefits",
               "Ecotourism always causes more environmental harm than conventional tourism",
-              "This form of tourism has no connection to environmental considerations",
+              "Ecotourism focuses only on wildlife, never local communities",
               "Ecotourism provides no economic benefit to a region"
             ],
             "answer": 0
@@ -13685,10 +13685,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding the geography of tourism valuable when studying a region’s economy?",
             "options": [
-              "Tourism has no connection to a region’s economic activity",
+              "Tourism revenue is distributed equally among all residents",
               "It helps explain how natural and cultural features can shape economic activity and development",
               "Geography never influences where tourism develops",
-              "This topic has no relevance to studying regional economies"
+              "Tourism mainly affects a region's culture, never its economy"
             ],
             "answer": 1
           }
@@ -13774,9 +13774,9 @@ const curriculum: DayContent[] = [
             "q": "A system of a linear and a quadratic equation can be solved graphically by finding ___.",
             "options": [
               "The single point where the parabola crosses the x-axis",
-              "A concept unrelated to systems of equations",
+              "The y-intercept of the linear equation only",
               "The points where a line and a parabola intersect",
-              "Only the vertex of the parabola, with no connection to the line"
+              "The y-intercept of the parabola only"
             ],
             "answer": 2
           },
@@ -13784,7 +13784,7 @@ const curriculum: DayContent[] = [
             "q": "A common algebraic method for solving a system of a linear and quadratic equation is ___.",
             "options": [
               "Substitution",
-              "A method unrelated to solving equations",
+              "Cross-multiplication",
               "Assuming there is always exactly one solution with no calculation",
               "Ignoring one of the two equations entirely"
             ],
@@ -13805,7 +13805,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The line and the parabola may never intersect at any point",
               "Every line and parabola must intersect at least once",
-              "This outcome has no connection to the shapes of the graphs involved",
+              "Zero solutions only occurs when the quadratic has a negative leading coefficient",
               "Zero solutions is impossible for this type of system"
             ],
             "answer": 0
@@ -13845,7 +13845,7 @@ const curriculum: DayContent[] = [
             "q": "What are the main components of blood?",
             "options": [
               "Plasma, red blood cells, white blood cells, and platelets",
-              "A concept unrelated to biology",
+              "Neurons and glial cells",
               "Only bone and muscle tissue",
               "Only water and salt"
             ],
@@ -13856,7 +13856,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Fighting off infection only",
               "Carrying oxygen throughout the body",
-              "A concept unrelated to blood",
+              "Producing antibodies to fight infection",
               "Producing sound waves"
             ],
             "answer": 1
@@ -13866,7 +13866,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The colour of a persons skin",
               "Specific markers on the surface of red blood cells",
-              "A concept unrelated to blood type",
+              "The amount of iron in a person's diet",
               "The persons height and weight"
             ],
             "answer": 1
@@ -13874,7 +13874,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it important for doctors to know a patients blood type before a transfusion?",
             "options": [
-              "This concept has no connection to biology",
+              "Blood type only matters for determining eye color inheritance",
               "Blood type never matters during a transfusion",
               "Mismatched blood types can cause a dangerous immune reaction",
               "Every blood type is always compatible with every other type"
@@ -13886,7 +13886,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Helping blood clot to stop bleeding",
               "Carrying oxygen to the lungs",
-              "A concept unrelated to blood composition",
+              "Transporting carbon dioxide to the lungs",
               "Producing new bone cells"
             ],
             "answer": 0
@@ -13907,7 +13907,7 @@ const curriculum: DayContent[] = [
               "A process that only occurs underwater",
               "The planting of new forests with no removal involved",
               "The large-scale removal of forests",
-              "A concept unrelated to geography"
+              "A natural process that occurs without any human involvement"
             ],
             "answer": 2
           },
@@ -13916,7 +13916,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Agricultural land or development",
               "Increased forest protection with no land use change",
-              "A factor unrelated to land use",
+              "A decline in global timber prices",
               "A decrease in human population"
             ],
             "answer": 0
@@ -13924,7 +13924,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Land degradation refers to ___.",
             "options": [
-              "A concept unrelated to land use",
+              "A temporary condition that reverses on its own every year",
               "An improvement in soil quality with no negative causes",
               "A decline in the quality and productivity of land, often due to overuse or poor management",
               "A process that only affects bodies of water, not land"
@@ -13934,8 +13934,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might deforestation contribute to a loss of biodiversity in a region?",
             "options": [
-              "Habitat loss has no connection to deforestation",
-              "Deforestation has no effect on species living in a forest",
+              "Habitat loss mainly affects ocean species, not forest species",
+              "Most forest species can easily relocate to new areas",
               "Removing forests destroys habitats that many plant and animal species depend on",
               "Biodiversity always increases as forests are removed"
             ],
@@ -13945,7 +13945,7 @@ const curriculum: DayContent[] = [
             "q": "Which strategy might help address the effects of deforestation and land degradation?",
             "options": [
               "Ignoring land degradation entirely",
-              "A strategy unrelated to forests or land use",
+              "Expanding urban development into degraded land",
               "Increasing the rate of deforestation with no restrictions",
               "Promoting reforestation and sustainable land management practices"
             ],
@@ -14032,7 +14032,7 @@ const curriculum: DayContent[] = [
             "q": "What does conditional probability measure?",
             "options": [
               "The probability of an event that can never happen",
-              "A concept unrelated to probability",
+              "The probability of two completely independent events occurring together",
               "The probability of two events that are always identical",
               "The probability of an event given that another event has already occurred"
             ],
@@ -14044,7 +14044,7 @@ const curriculum: DayContent[] = [
               "It increases to 100 percent automatically",
               "It decreases, since one red marble and one total marble were removed",
               "It stays exactly the same as before",
-              "A concept unrelated to probability"
+              "It increases, since there are now fewer blue marbles to compete with"
             ],
             "answer": 1
           },
@@ -14054,7 +14054,7 @@ const curriculum: DayContent[] = [
               "The probability of A given B",
               "The probability of A multiplied by B with no condition",
               "The probability of A occurring before B is defined",
-              "A concept unrelated to conditional probability"
+              "The probability of A or B occurring"
             ],
             "answer": 0
           },
@@ -14064,7 +14064,7 @@ const curriculum: DayContent[] = [
               "Knowing one condition narrows down the possible outcomes being considered",
               "A face card can never also be a king",
               "Conditions never affect a probability calculation",
-              "This concept has no connection to math"
+              "Face cards and kings are always mutually exclusive categories"
             ],
             "answer": 0
           },
@@ -14092,8 +14092,8 @@ const curriculum: DayContent[] = [
           {
             "q": "What does a vaccine typically introduce into the body?",
             "options": [
-              "A random substance with no connection to disease",
-              "A concept unrelated to science",
+              "A high dose of antibiotics to kill bacteria directly",
+              "A vitamin supplement to boost general energy levels",
               "A weakened, inactivated, or partial form of a pathogen",
               "A fully active, dangerous version of a disease with no changes"
             ],
@@ -14105,14 +14105,14 @@ const curriculum: DayContent[] = [
               "The immune system has already learned to recognize the pathogen from the vaccine",
               "Vaccines have no effect on how the immune system responds",
               "The immune system forgets the vaccine immediately",
-              "A concept unrelated to vaccines"
+              "The body produces new blood cells faster after vaccination"
             ],
             "answer": 0
           },
           {
             "q": "What cells does the immune system use to remember a pathogen after vaccination?",
             "options": [
-              "A concept unrelated to the immune system",
+              "Muscle cells",
               "Memory cells",
               "Only red blood cells",
               "Only skin cells"
@@ -14125,14 +14125,14 @@ const curriculum: DayContent[] = [
               "The vaccinated persons immune system has already been trained to recognize that specific pathogen",
               "Only unvaccinated people have functioning immune systems",
               "Vaccination always makes the immune system weaker overall",
-              "This concept has no connection to biology"
+              "Vaccinated bodies simply have a higher body temperature"
             ],
             "answer": 0
           },
           {
             "q": "Why are vaccines considered an important public health tool?",
             "options": [
-              "This concept has no relevance to science",
+              "Vaccines work by permanently curing the disease in one dose",
               "Vaccines have no effect on how diseases spread through a population",
               "Vaccines only work for a single person and never affect anyone else",
               "They can reduce the spread and severity of infectious diseases within a population"
@@ -14155,7 +14155,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The complete elimination of all trade between countries",
               "Economic exchange between countries",
-              "A concept unrelated to international relationships",
+              "The internal tax laws of a single country",
               "Only cultural exchange, with no economic component"
             ],
             "answer": 1
@@ -14164,7 +14164,7 @@ const curriculum: DayContent[] = [
             "q": "Which geographic factor might influence which countries form a trade agreement together?",
             "options": [
               "The countries involved must always be on opposite sides of the world",
-              "A factor entirely unrelated to geography",
+              "The size of each country's military budget",
               "Shared borders or close regional proximity",
               "Trade agreements never consider geographic factors"
             ],
@@ -14173,9 +14173,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might trade agreements between neighbouring countries be easier to establish than those between distant countries?",
             "options": [
-              "Distance has no effect on the ease of establishing trade agreements",
+              "Distant countries always have simpler trade negotiations",
               "Neighbouring countries are always less likely to trade with each other",
-              "Trade logistics have no connection to geographic proximity",
+              "Trade logistics depend only on currency exchange rates",
               "Shorter transportation distances and existing regional ties can simplify trade logistics"
             ],
             "answer": 3
@@ -14185,7 +14185,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Trade agreements provide no benefit to any participating country",
               "Reduced trade barriers, such as tariffs, that can increase economic activity",
-              "A benefit unrelated to economic activity",
+              "Automatic approval for all visa applications",
               "Trade agreements always increase trade barriers between countries"
             ],
             "answer": 1
@@ -14195,8 +14195,8 @@ const curriculum: DayContent[] = [
             "options": [
               "It shows how geographic and economic factors shape relationships between countries and regions",
               "Geography never influences international economic relationships",
-              "Trade agreements have no connection to geography",
-              "This topic has no relevance to understanding global patterns"
+              "Trade agreements mainly reflect each country's military alliances",
+              "It mainly explains legal procedures, not economic relationships"
             ],
             "answer": 0
           }
@@ -14223,7 +14223,7 @@ const curriculum: DayContent[] = [
               "A completely unedited, original video with no alterations",
               "A term for any video shared on social media",
               "Synthetic media created using artificial intelligence to alter or fabricate content",
-              "A concept unrelated to digital media"
+              "A video that has been slowed down or sped up for comic effect"
             ],
             "answer": 2
           },
@@ -14233,7 +14233,7 @@ const curriculum: DayContent[] = [
               "Artificial intelligence techniques",
               "Traditional hand-drawn illustration",
               "Simple text editing software only",
-              "A process unrelated to technology"
+              "Basic brightness and color filters applied in a photo app"
             ],
             "answer": 0
           },
@@ -14243,7 +14243,7 @@ const curriculum: DayContent[] = [
               "Deepfakes only affect written text, not audio or video",
               "Deepfakes are always immediately obvious and easy to identify as fake",
               "They can convincingly present fabricated events or statements as if they were real",
-              "This technology has no connection to spreading false information"
+              "Deepfakes can only be created by major news organizations"
             ],
             "answer": 2
           },
@@ -14253,16 +14253,16 @@ const curriculum: DayContent[] = [
               "Ignoring the source of a video entirely",
               "Checking whether the footage can be verified through other credible sources",
               "Assuming every video seen online is automatically authentic",
-              "A method unrelated to evaluating digital media"
+              "Watching the video at a faster playback speed than normal"
             ],
             "answer": 1
           },
           {
             "q": "Why is understanding deepfakes an increasingly important media literacy skill?",
             "options": [
-              "This skill has no connection to evaluating digital content",
+              "This skill only applies to professional video editors, not everyday viewers",
               "As synthetic media becomes more realistic, distinguishing fact from fabrication becomes more challenging",
-              "Synthetic media has no effect on public trust in digital information",
+              "Synthetic media quality has stayed exactly the same for decades",
               "Deepfakes have no real-world impact on how people understand media"
             ],
             "answer": 1
@@ -14282,7 +14282,7 @@ const curriculum: DayContent[] = [
             "q": "What is depreciation?",
             "options": [
               "The gradual decrease in the value of an asset over time",
-              "A concept unrelated to financial literacy",
+              "The gradual increase in an asset's value due to inflation",
               "A fixed value that never changes for any asset",
               "The gradual increase in the value of an asset over time"
             ],
@@ -14291,7 +14291,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these items is most likely to depreciate in value over time?",
             "options": [
-              "A concept unrelated to depreciation",
+              "A rare coin collection that is well cared for",
               "A rare, well-preserved painting",
               "Land in a rapidly growing city, which often appreciates instead",
               "A used car"
@@ -14301,7 +14301,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What might cause an electronic device to lose value over time?",
             "options": [
-              "A concept unrelated to depreciation",
+              "Only a change in the device's color or exterior design",
               "Depreciation only applies to houses, never electronics",
               "Age, wear, and the release of newer models",
               "Devices always keep the exact same value forever"
@@ -14321,10 +14321,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might understanding depreciation be useful when deciding whether to buy a new or used vehicle?",
             "options": [
-              "Depreciation has no connection to buying decisions",
+              "A new vehicle never loses value during its first few years of ownership",
               "Every vehicle depreciates at exactly the same fixed rate",
               "It helps estimate how much value the vehicle may lose over time",
-              "This concept has no relevance to financial literacy"
+              "Depreciation only applies to vehicles purchased with a loan"
             ],
             "answer": 2
           }
@@ -14345,7 +14345,7 @@ const curriculum: DayContent[] = [
               "Organic matter decomposing and returning nutrients to the soil",
               "Only water moving through soil, with no nutrient involvement",
               "Nutrients disappearing permanently once used by a plant",
-              "A concept unrelated to soil health"
+              "The rotation of Earth affecting tides"
             ],
             "answer": 0
           },
@@ -14353,7 +14353,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these is an essential nutrient commonly cycled through healthy soil?",
             "options": [
               "Nitrogen",
-              "A substance unrelated to plant growth",
+              "Mercury",
               "Oxygen gas exclusively, with no other nutrients involved",
               "Helium"
             ],
@@ -14363,7 +14363,7 @@ const curriculum: DayContent[] = [
             "q": "Why is decomposition an important part of nutrient cycling in agricultural soil?",
             "options": [
               "Decomposition only affects water content, not nutrient levels",
-              "This process has no connection to soil health or plant growth",
+              "Decomposition only affects the color of the soil, not its nutrients",
               "Decomposition removes all nutrients from soil permanently",
               "It breaks down organic matter, releasing nutrients back into the soil for future plant growth"
             ],
@@ -14374,7 +14374,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Continuously removing nutrients without replacing them can deplete the soil’s fertility over time",
               "Soil nutrients are always replenished automatically with no management needed",
-              "Crop yields have no connection to soil nutrient levels",
+              "Crop yields depend only on rainfall, never on soil nutrients",
               "Overusing land always improves long-term soil fertility"
             ],
             "answer": 0
@@ -14383,7 +14383,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these is a practice farmers might use to support healthy nutrient cycling?",
             "options": [
               "Ignoring soil health entirely when farming",
-              "A practice unrelated to nutrient cycling",
+              "Paving over farmland with concrete",
               "Rotating crops or adding compost to replenish soil nutrients",
               "Removing all organic matter from farmland permanently"
             ],
@@ -14403,7 +14403,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Indigenous self-government refers to the authority of Indigenous communities to ___.",
             "options": [
-              "A concept unrelated to governance",
+              "The process of appealing a legal decision in federal court",
               "Be governed entirely by decisions made outside their communities",
               "Govern their own affairs, including matters related to their land",
               "Have no role in decisions affecting their own communities"
@@ -14413,18 +14413,18 @@ const curriculum: DayContent[] = [
           {
             "q": "Land governance in the context of Indigenous self-government often involves decisions about ___.",
             "options": [
-              "A topic entirely unrelated to land or territory",
+              "Decisions about a community's annual cultural festival calendar",
               "Only land located outside of Canada",
               "Land use and resource management within Indigenous territories",
-              "Land that has no connection to any Indigenous community"
+              "Land governed exclusively by provincial authorities"
             ],
             "answer": 2
           },
           {
             "q": "Why is Indigenous self-government significant in the context of Canadian geography and history?",
             "options": [
-              "Self-government has no connection to land or geography",
-              "This topic has no relevance to understanding Canada’s history",
+              "Self-government mainly concerns language policy, not land",
+              "It is a recent idea with no historical background in Canada",
               "Indigenous communities have never sought authority over their own affairs",
               "It reflects the recognition of Indigenous authority over decisions affecting their own land and communities"
             ],
@@ -14434,7 +14434,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these could be an outcome of an Indigenous self-government agreement?",
             "options": [
               "A complete removal of any Indigenous authority over local matters",
-              "An outcome unrelated to governance or land",
+              "A reduction in federal funding to all provinces",
               "An Indigenous community gaining greater control over local land use decisions",
               "A reduction in an Indigenous community’s decision-making authority in every case"
             ],
@@ -14443,9 +14443,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might studying Indigenous self-government be relevant to understanding geography in Canada?",
             "options": [
-              "Indigenous governance has no connection to geographic study",
+              "Governance structures are identical across all regions of Canada",
               "Governance and geography are always completely unrelated fields",
-              "This topic has no relevance to studying land use in Canada",
+              "It mainly applies to historical maps, not present-day land use",
               "It connects land, governance, and geographic territory in ways that shape how regions are managed"
             ],
             "answer": 3
@@ -14472,15 +14472,15 @@ const curriculum: DayContent[] = [
             "options": [
               "Pairs",
               "Groups of three or more only",
-              "Isolation, with no connection to other words",
-              "A concept unrelated to conjunctions"
+              "Reverse order, placing the second clause before the first",
+              "Combination with a semicolon to join two independent clauses"
             ],
             "answer": 0
           },
           {
             "q": "Which of these is an example of a correlative conjunction pair?",
             "options": [
-              "A pair unrelated to correlative conjunctions",
+              "Either…nor",
               "Either…or",
               "And…and",
               "But…but"
@@ -14493,14 +14493,14 @@ const curriculum: DayContent[] = [
               "She wanted not only to travel but also to write about her experiences.",
               "She wanted not only to travel but also writing about her experiences.",
               "She wanted not only travel but also to write about her experiences.",
-              "A sentence unrelated to correlative conjunctions."
+              "She wanted not only traveling but also to have written about her experiences."
             ],
             "answer": 0
           },
           {
             "q": "Why is grammatical balance important when using correlative conjunctions?",
             "options": [
-              "Balance has no effect on how a sentence reads",
+              "Balance only matters when conjunctions appear at the start of a sentence",
               "It ensures the two connected elements have a similar and consistent grammatical structure",
               "Grammatical balance is never necessary in these sentences",
               "Correlative conjunctions never require balanced structure"
@@ -14513,7 +14513,7 @@ const curriculum: DayContent[] = [
               "Because…since",
               "If…then, only",
               "Neither…nor",
-              "A pair unrelated to correlative conjunctions"
+              "While…meanwhile"
             ],
             "answer": 2
           }
@@ -14533,7 +14533,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The point at one of the two endpoints",
               "The point exactly halfway between its two endpoints",
-              "A concept unrelated to geometry",
+              "The point where the segment crosses the x-axis",
               "The longest possible point along the segment"
             ],
             "answer": 1
@@ -14542,7 +14542,7 @@ const curriculum: DayContent[] = [
             "q": "How is the midpoint of a segment found on the Cartesian plane?",
             "options": [
               "By multiplying the two endpoints together",
-              "A concept unrelated to midpoints",
+              "By subtracting the smaller coordinate from the larger one",
               "By averaging the x-coordinates and averaging the y-coordinates of the endpoints",
               "By adding the x-coordinates together with no division"
             ],
@@ -14563,7 +14563,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Midpoints have no practical use on the Cartesian plane",
               "It can help locate a central point between two known locations",
-              "A concept unrelated to geometry",
+              "A midpoint can only be calculated for vertical line segments",
               "A midpoint can only be found using a physical ruler, never coordinates"
             ],
             "answer": 1
@@ -14602,7 +14602,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does Newtons third law state?",
             "options": [
-              "Force has no effect on motion",
+              "Force only changes an object's color, not its motion",
               "Objects always slow down for no reason",
               "Objects never interact with each other",
               "For every action there is an equal and opposite reaction"
@@ -14654,7 +14654,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Reduce harm from natural hazards",
               "Prevent any need for future infrastructure planning",
-              "A concept unrelated to natural disasters",
+              "Replacing local disaster response teams with volunteer-only staff",
               "Increase the impact of natural hazards on a community"
             ],
             "answer": 0
@@ -14663,7 +14663,7 @@ const curriculum: DayContent[] = [
             "q": "Resilience, in the context of natural disasters, refers to a community’s ability to ___.",
             "options": [
               "Remain completely unaffected by any disaster",
-              "A concept unrelated to disaster response",
+              "A community's ability to rebuild without any help from outside groups",
               "Recover and adapt after a disaster occurs",
               "Avoid all natural disasters permanently"
             ],
@@ -14672,17 +14672,17 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these is an example of disaster preparedness infrastructure?",
             "options": [
-              "A system unrelated to natural hazards",
+              "A seasonal tourism campaign for a coastal town",
               "Infrastructure designed to increase a community’s vulnerability",
               "An early warning system for approaching severe storms",
-              "A structure with no connection to disaster response"
+              "A monument commemorating a past historical event"
             ],
             "answer": 2
           },
           {
             "q": "Why might geographic location influence the types of natural disasters a region needs to prepare for?",
             "options": [
-              "Geographic location has no connection to the types of natural disasters a region faces",
+              "Disaster types depend mainly on a region's population size",
               "Different regions face different hazards based on factors like climate, terrain, and proximity to fault lines or coastlines",
               "All regions face identical natural hazards regardless of location",
               "Disaster preparedness never depends on a region’s geography"
@@ -14692,9 +14692,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is community resilience an important factor in recovering from natural disasters?",
             "options": [
-              "Resilience has no effect on how a community recovers from a disaster",
+              "Resilience mainly determines how a disaster begins, not ends",
               "Resilient communities are often better able to rebuild and adapt after a disaster’s impact",
-              "This concept has no relevance to disaster geography",
+              "Resilience is only relevant to early warning system design",
               "Communities never need to adapt or recover after a natural disaster"
             ],
             "answer": 1
@@ -14723,7 +14723,7 @@ const curriculum: DayContent[] = [
               "Only factual, entirely objective information",
               "A particular perspective or slant",
               "A text with absolutely no perspective of any kind",
-              "A concept unrelated to reading analysis"
+              "The total number of sources an author consulted"
             ],
             "answer": 1
           },
@@ -14732,7 +14732,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Nothing about the author or the text’s context",
               "The author’s background, purpose, and the historical context in which it was written",
-              "A concept unrelated to evaluating bias",
+              "The font and formatting style used in the original printed text",
               "Only the exact date the text was published, with no other factors"
             ],
             "answer": 1
@@ -14740,7 +14740,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a text from a particular historical period reflect the biases common to that era?",
             "options": [
-              "Time period has no connection to how a text is written",
+              "Every historical text was written collaboratively by an entire society",
               "Authors are never influenced by the era in which they write",
               "Authors are often shaped by the social attitudes and assumptions of their time",
               "Historical texts are always completely free of any bias"
@@ -14760,7 +14760,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these might indicate potential bias in a text?",
             "options": [
-              "A concept unrelated to evaluating bias",
+              "Including footnotes that cite the author's original sources",
               "Presenting only one side of an issue while ignoring other credible perspectives",
               "Presenting multiple credible perspectives on an issue",
               "Citing verifiable evidence from multiple credible sources"
@@ -14783,7 +14783,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Distance from zero",
               "Exact sign, whether positive or negative",
-              "A concept unrelated to number values",
+              "Its square when multiplied by itself",
               "Value multiplied by negative one in every case"
             ],
             "answer": 0
@@ -14792,7 +14792,7 @@ const curriculum: DayContent[] = [
             "q": "Solving an absolute value equation typically requires considering ___.",
             "options": [
               "No cases at all, since there is never a solution",
-              "A concept unrelated to absolute value",
+              "Only the case where the variable is already positive",
               "Only a single possible case, with no other consideration",
               "Both a positive and a negative case"
             ],
@@ -14811,7 +14811,7 @@ const curriculum: DayContent[] = [
           {
             "q": "When solving an absolute value inequality such as the absolute value of x is less than 3, the solution represents ___.",
             "options": [
-              "A concept unrelated to absolute value inequalities",
+              "All values of x that are greater than negative 3 only",
               "Only the single value x equals 3",
               "All values of x that are greater than 3",
               "All values of x between negative 3 and 3"
@@ -14823,7 +14823,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A quantity inside absolute value bars could originally have been either positive or negative",
               "Considering both cases never produces a valid additional solution",
-              "This concept has no connection to how absolute value is defined",
+              "Absolute value only applies to variables, never to constants",
               "Absolute value equations only ever have one possible case to consider"
             ],
             "answer": 0
@@ -14844,7 +14844,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A single species remains the only one present forever",
               "An ecosystem remains permanently unchanged over time",
-              "A concept unrelated to ecosystems",
+              "The process of rocks breaking down into soil through weathering alone",
               "An ecosystem’s species composition changes over time"
             ],
             "answer": 3
@@ -14855,7 +14855,7 @@ const curriculum: DayContent[] = [
               "The first species to colonize a previously disturbed or empty environment",
               "The final, most established species in a mature ecosystem",
               "Species that never appear in any ecosystem",
-              "A concept unrelated to ecological succession"
+              "The dominant species found only in a fully mature forest"
             ],
             "answer": 0
           },
@@ -14864,7 +14864,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Already has an established, mature ecosystem with rich soil",
               "Previously had no soil or existing life, such as bare rock",
-              "A concept unrelated to succession",
+              "An environment where succession can never begin",
               "Has been recently disturbed but still retains its soil"
             ],
             "answer": 1
@@ -14873,7 +14873,7 @@ const curriculum: DayContent[] = [
             "q": "Secondary succession occurs in an environment that ___.",
             "options": [
               "Never had any soil or previous life present",
-              "A concept unrelated to succession",
+              "An environment that has never experienced any disturbance",
               "Is entirely underwater with no land involved",
               "Has been disturbed but still retains its soil, such as after a forest fire"
             ],
@@ -14882,9 +14882,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is ecological succession considered an important process to understand in biology?",
             "options": [
-              "Succession has no connection to how ecosystems change",
+              "Ecosystems always stay exactly the same regardless of disturbance",
               "Ecosystems never recover or change following a disturbance",
-              "This process has no relevance to studying biology",
+              "Succession only applies to man-made structures, not living ecosystems",
               "It explains how ecosystems recover and change following disturbances over time"
             ],
             "answer": 3
@@ -14905,7 +14905,7 @@ const curriculum: DayContent[] = [
               "Weather conditions exclusively, with no other influence",
               "Only random chance, with no identifiable factors",
               "Proximity to conflict zones and the policies of host countries",
-              "A concept unrelated to geography"
+              "The specific language spoken by the refugees"
             ],
             "answer": 2
           },
@@ -14914,7 +14914,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Refugees never settle near the conflict zones they are fleeing",
               "Neighbouring countries are always the least accessible option available",
-              "Proximity has no connection to refugee settlement patterns",
+              "Settlement location is decided entirely by lottery among host countries",
               "Proximity can make immediate relocation more accessible during a crisis"
             ],
             "answer": 3
@@ -14925,7 +14925,7 @@ const curriculum: DayContent[] = [
               "Established communities can provide support, language assistance, and a sense of familiarity",
               "Community networks have no influence on settlement decisions",
               "Refugees always avoid areas with existing community connections",
-              "This factor has no connection to geographic settlement patterns"
+              "Community networks matter only for refugees seeking employment"
             ],
             "answer": 0
           },
@@ -14935,7 +14935,7 @@ const curriculum: DayContent[] = [
               "Policies can determine where refugees are permitted to live or receive support services",
               "All host countries have identical policies regarding refugee settlement",
               "Host country policies never have any influence on where refugees settle",
-              "Settlement patterns are entirely unrelated to government policy"
+              "Host country policies affect only short-term, not long-term settlement"
             ],
             "answer": 0
           },
@@ -14945,7 +14945,7 @@ const curriculum: DayContent[] = [
               "Refugee movement never involves any geographic considerations",
               "It shows how geographic, social, and political factors interact to shape where and how people resettle",
               "Settlement patterns are entirely random with no explainable factors",
-              "This topic has no connection to human geography"
+              "It mainly explains how borders are drawn on maps"
             ],
             "answer": 1
           }
@@ -14985,7 +14985,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A minor character who never interacts with the protagonist",
               "A character who is identical to the protagonist in every way",
-              "A concept unrelated to characterization",
+              "A character who exists only in the story's final chapter",
               "A character whose contrasting traits highlight qualities in another character"
             ],
             "answer": 3
@@ -14994,9 +14994,9 @@ const curriculum: DayContent[] = [
             "q": "A college-style personal essay is centred on ___.",
             "options": [
               "A purely factual, impersonal report",
-              "A concept unrelated to personal reflection",
+              "A list of the writer's academic achievements with no reflection",
               "A meaningful experience or moment of personal growth",
-              "A fictional story with no connection to the writer"
+              "An essay written entirely from another person's point of view"
             ],
             "answer": 2
           },
@@ -15004,7 +15004,7 @@ const curriculum: DayContent[] = [
             "q": "A frame narrative is best described as a structure in which ___.",
             "options": [
               "Two completely unrelated stories are told with no connection",
-              "A concept unrelated to narrative structure",
+              "Multiple narrators retelling the exact same event in identical words",
               "One story is told within the context of another",
               "A story contains only a single, uninterrupted narrative"
             ],
@@ -15014,7 +15014,7 @@ const curriculum: DayContent[] = [
             "q": "A deepfake is best described as ___.",
             "options": [
               "A completely unedited, original video with no alterations",
-              "A concept unrelated to digital media",
+              "A video format used exclusively for live news broadcasts",
               "A term for any video shared on social media",
               "Synthetic media created using artificial intelligence to alter or fabricate content"
             ],
@@ -15046,7 +15046,7 @@ const curriculum: DayContent[] = [
               "The exact colour used to display each data value",
               "Only the single most frequent value in a data set",
               "A running total of frequencies as data values increase",
-              "A concept unrelated to data management"
+              "The average of all values in the data set"
             ],
             "answer": 2
           },
@@ -15054,9 +15054,9 @@ const curriculum: DayContent[] = [
             "q": "What is an ogive?",
             "options": [
               "A graph that can only display a single data point",
-              "A type of bar graph with no connection to frequency",
+              "A circle graph showing percentages of a whole",
               "A line graph showing cumulative frequency",
-              "A concept unrelated to data displays"
+              "A table listing only the mode of a data set"
             ],
             "answer": 2
           },
@@ -15065,7 +15065,7 @@ const curriculum: DayContent[] = [
             "options": [
               "By adding it to the running total of all previous frequencies",
               "By replacing the previous total completely",
-              "A concept unrelated to cumulative frequency",
+              "By multiplying it with the previous running total",
               "By subtracting it from the running total"
             ],
             "answer": 0
@@ -15076,7 +15076,7 @@ const curriculum: DayContent[] = [
               "The approximate median of the data",
               "The name of the person who collected the data",
               "The exact colour of the original survey used to collect data",
-              "A concept unrelated to ogives"
+              "The exact range of the data set with no estimation needed"
             ],
             "answer": 0
           },
@@ -15118,9 +15118,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Archimedes’ principle states that a submerged object experiences a buoyant force equal to ___.",
             "options": [
-              "The object’s own weight only, with no connection to fluid",
+              "The object's mass divided by the fluid's temperature",
               "The weight of the fluid it displaces",
-              "A force unrelated to the surrounding fluid",
+              "The force of gravity acting on the object alone",
               "The temperature of the fluid"
             ],
             "answer": 1
@@ -15129,7 +15129,7 @@ const curriculum: DayContent[] = [
             "q": "A redox reaction involves the transfer of ___ between substances.",
             "options": [
               "Neutrons",
-              "A particle unrelated to chemical reactions",
+              "Photons",
               "Protons only, with no electron involvement",
               "Electrons"
             ],
@@ -15138,7 +15138,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Kinetic energy is best described as ___.",
             "options": [
-              "A concept unrelated to physics",
+              "The energy stored in a compressed spring",
               "Energy that only exists in stationary objects",
               "Stored energy based on an object’s position",
               "The energy of motion"
@@ -15148,7 +15148,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Ecological succession describes the gradual process by which ___.",
             "options": [
-              "A concept unrelated to ecosystems",
+              "The process of continental plates shifting over millions of years",
               "An ecosystem’s species composition changes over time",
               "An ecosystem remains permanently unchanged over time",
               "A single species remains the only one present forever"
@@ -15161,7 +15161,7 @@ const curriculum: DayContent[] = [
               "It helps connect and reinforce related science concepts learned across recent lessons",
               "Review provides no benefit in science",
               "Each topic must always be studied in isolation",
-              "These topics are entirely unrelated to each other"
+              "Physics, chemistry, and biology concepts never overlap in real science"
             ],
             "answer": 0
           }
@@ -15192,8 +15192,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Coastal geography examines the physical features and human activity found ___.",
             "options": [
-              "Exclusively underwater, with no connection to land",
-              "A concept unrelated to geography",
+              "Only the open ocean far from any shoreline",
+              "The migration routes of ocean wildlife",
               "Only in landlocked, inland regions",
               "Along coastlines"
             ],
@@ -15202,7 +15202,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The demographic transition model describes how ___ change as a country develops economically.",
             "options": [
-              "A factor unrelated to population",
+              "The amount of annual precipitation in a region",
               "Birth and death rates",
               "The exact temperature of a country’s climate",
               "Only the total land area of a country"
@@ -15212,7 +15212,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An international trade agreement establishes rules for ___.",
             "options": [
-              "A concept unrelated to international relationships",
+              "The internal postal system used within one country",
               "Only cultural exchange, with no economic component",
               "The complete elimination of all trade between countries",
               "Economic exchange between countries"
@@ -15222,7 +15222,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Indigenous self-government refers to the authority of Indigenous communities to ___.",
             "options": [
-              "A concept unrelated to governance",
+              "The authority of municipal governments over provincial parks",
               "Govern their own affairs, including matters related to their land",
               "Have no role in decisions affecting their own communities",
               "Be governed entirely by decisions made outside their communities"
@@ -15235,7 +15235,7 @@ const curriculum: DayContent[] = [
               "It reinforces how these interconnected geographic and social issues shape regions and communities",
               "These topics have no meaningful connections",
               "Review is never useful in social studies",
-              "Each topic must be studied with no connection to the others"
+              "Each of these topics only applies to a different century"
             ],
             "answer": 0
           }
@@ -15258,7 +15258,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A story’s setting refers to ___.",
             "options": [
-              "A concept unrelated to literary analysis",
+              "The list of literary devices an author chooses to use",
               "Only the names of the characters involved",
               "The time and place in which a story occurs",
               "The order in which events are told"
@@ -15270,7 +15270,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Setting never has any effect on a story’s mood",
               "Details like weather, lighting, or location can create a particular emotional atmosphere",
-              "A concept unrelated to a story’s atmosphere",
+              "Mood is determined solely by the length of a story's chapters",
               "Mood is determined only by dialogue, never by setting"
             ],
             "answer": 1
@@ -15281,17 +15281,17 @@ const curriculum: DayContent[] = [
               "A character who behaves identically in every possible location",
               "A character whose actions never relate to their surroundings",
               "A character acting fearfully while walking through a dark, isolated forest at night",
-              "A concept unrelated to setting"
+              "A character who changes careers over the course of the novel"
             ],
             "answer": 2
           },
           {
             "q": "Why might an author use a specific historical setting to reinforce a story’s themes?",
             "options": [
-              "An author’s choice of setting has no effect on meaning",
+              "Historical settings are chosen at random with no thematic purpose",
               "Historical settings never connect to a story’s themes",
               "The time period’s social conditions can echo or deepen the story’s central ideas",
-              "Themes are always unrelated to when or where a story takes place"
+              "A story's themes are always decided before its setting is chosen"
             ],
             "answer": 2
           },
@@ -15320,16 +15320,16 @@ const curriculum: DayContent[] = [
             "q": "Simplifying a radical involves factoring out ___ from beneath the square root sign.",
             "options": [
               "The entire number, leaving nothing beneath the radical",
-              "Only prime numbers, with no connection to perfect squares",
+              "Only numbers greater than one hundred",
               "Perfect square factors",
-              "A concept unrelated to radicals"
+              "The coefficient written in front of the radical sign"
             ],
             "answer": 2
           },
           {
             "q": "What is the simplified form of the square root of 50?",
             "options": [
-              "A value unrelated to the square root of 50",
+              "2 times the square root of 5",
               "5 times the square root of 2",
               "25 times the square root of 2",
               "10 times the square root of 5"
@@ -15341,7 +15341,7 @@ const curriculum: DayContent[] = [
             "options": [
               "72",
               "36",
-              "A value unrelated to factors of 72",
+              "18",
               "9"
             ],
             "answer": 1
@@ -15351,7 +15351,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Simplest form always changes a radical’s actual value",
               "It makes radicals easier to compare, add, and combine with like terms",
-              "This concept has no connection to algebraic operations",
+              "Simplified radicals are required before a calculator can process them",
               "Simplifying radicals never has any mathematical benefit"
             ],
             "answer": 1
@@ -15360,7 +15360,7 @@ const curriculum: DayContent[] = [
             "q": "A simplified radical is considered fully simplified when the number remaining under the root has ___.",
             "options": [
               "Been multiplied by an unrelated variable",
-              "A property unrelated to simplifying radicals",
+              "An even number of digits remaining under the root",
               "No remaining perfect square factors",
               "At least one remaining perfect square factor"
             ],
@@ -15382,7 +15382,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A change in the colour of an object as it moves",
               "A sound that never changes no matter how it moves",
-              "A concept unrelated to science",
+              "A change in an object's temperature as it moves closer",
               "A change in pitch caused by relative motion between a sound source and a listener"
             ],
             "answer": 3
@@ -15392,7 +15392,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The pitch sounds higher while approaching and lower after it passes",
               "The pitch always stays exactly the same the entire time",
-              "A concept unrelated to the Doppler effect",
+              "The siren's volume gradually increases the entire time, with no pitch change",
               "The pitch becomes silent the moment the ambulance passes"
             ],
             "answer": 0
@@ -15402,7 +15402,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Compression only happens when a sound source is standing still",
               "Sound waves always spread out further as a source approaches",
-              "A concept unrelated to sound",
+              "Compression happens because the air becomes colder near the source",
               "The source is catching up slightly to its own previously emitted sound waves"
             ],
             "answer": 3
@@ -15410,7 +15410,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does pitch sound lower as a sound source moves away from a listener?",
             "options": [
-              "This concept has no connection to science",
+              "Pitch only changes due to the listener covering their ears",
               "The sound waves are compressed further as the source moves away",
               "Pitch never changes based on the motion of a sound source",
               "The sound waves are stretched out, lowering their frequency as heard by the listener"
@@ -15423,7 +15423,7 @@ const curriculum: DayContent[] = [
               "Handwriting analysis",
               "Basic arithmetic",
               "Weather radar",
-              "A concept unrelated to the Doppler effect"
+              "Studying ancient fossils"
             ],
             "answer": 2
           }
@@ -15444,7 +15444,7 @@ const curriculum: DayContent[] = [
               "A method of representing the curved surface of the Earth on a flat map",
               "A perfectly accurate photograph of the Earth",
               "A map that shows no distortion of any kind",
-              "A concept unrelated to geography"
+              "A legal document granting ownership of a territory"
             ],
             "answer": 0
           },
@@ -15452,7 +15452,7 @@ const curriculum: DayContent[] = [
             "q": "Why does every map projection introduce some distortion?",
             "options": [
               "Transferring a curved, three-dimensional surface onto a flat, two-dimensional map cannot be done without some trade-off",
-              "This concept has no connection to how maps are created",
+              "Distortion only occurs when using digital mapping software",
               "Map projections never introduce any distortion",
               "Distortion only occurs on maps of very small areas"
             ],
@@ -15461,7 +15461,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these is a type of distortion a map projection might introduce?",
             "options": [
-              "A type of distortion unrelated to maps",
+              "Distortion in the measured elevation of mountain ranges",
               "Distortion that never affects a map’s appearance",
               "Distortion in the relative size or area of landmasses",
               "Perfectly accurate distances with no possible error"
@@ -15473,7 +15473,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Navigators never consider which type of map projection to use",
               "Direction and angles are never distorted on any projection",
-              "This choice has no connection to a map’s intended purpose",
+              "Equal-area projections are generally preferred for plotting accurate navigation routes",
               "Accurate direction is essential for plotting a reliable course between two points"
             ],
             "answer": 3
@@ -15481,7 +15481,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding map projections important when interpreting a world map?",
             "options": [
-              "This concept has no relevance to interpreting maps",
+              "Distortions caused by projections mainly affect color accuracy rather than size or shape",
               "Recognizing a projection’s distortions helps avoid misleading conclusions about size or shape",
               "All map projections represent the Earth with complete accuracy",
               "World maps never require any special consideration when read"
@@ -15517,7 +15517,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The “show, don’t tell” technique conveys emotion and meaning through ___.",
             "options": [
-              "A concept unrelated to narrative writing",
+              "A narrator who directly explains the moral lesson of the story",
               "Avoiding any description of actions or senses",
               "Concrete action and sensory imagery rather than direct statement",
               "Simply stating a character’s feelings outright with no detail"
@@ -15527,7 +15527,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which sentence best demonstrates “showing” rather than “telling”?",
             "options": [
-              "A sentence with no connection to showing emotion.",
+              "A sentence listing every emotion the character feels by name.",
               "Her hands trembled as she reread the acceptance letter for the third time.",
               "She was very nervous and excited.",
               "She felt many different emotions at once."
@@ -15538,7 +15538,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a narrative essay rely on vivid sensory detail?",
             "options": [
               "Sensory detail helps a reader experience the story’s events rather than simply being told about them",
-              "This technique has no connection to reader engagement",
+              "Sensory detail is only appropriate in essays about nature",
               "Sensory detail always weakens a narrative essay",
               "Narrative essays should avoid any descriptive detail"
             ],
@@ -15547,10 +15547,10 @@ const curriculum: DayContent[] = [
           {
             "q": "A narrative essay is typically based on ___.",
             "options": [
-              "A completely fictional story with no connection to the writer",
+              "A hypothetical scenario that could never actually happen",
               "A true, personal experience",
               "A summary of someone else’s biography only",
-              "A concept unrelated to personal writing"
+              "A formal argument supported entirely by statistics"
             ],
             "answer": 1
           },
@@ -15558,8 +15558,8 @@ const curriculum: DayContent[] = [
             "q": "Why is choosing a specific, well-developed scene often more effective than summarizing an entire experience in a narrative essay?",
             "options": [
               "Summarizing an entire experience always produces a stronger narrative essay",
-              "This choice has no effect on how vivid an essay feels",
-              "Specific scenes have no connection to effective narrative writing",
+              "A single scene always takes longer to write than a full summary",
+              "Specific scenes are only appropriate in essays about childhood",
               "A focused scene allows for the vivid, concrete detail that “show, don’t tell” requires"
             ],
             "answer": 3
@@ -15578,9 +15578,9 @@ const curriculum: DayContent[] = [
           {
             "q": "What does it mean for a circle to be inscribed in a polygon?",
             "options": [
-              "The circle has no connection to the polygon at all",
               "The circle passes through every vertex of the polygon",
-              "A concept unrelated to geometry",
+              "The circle lies entirely outside the polygon's boundary",
+              "The circle's diameter always equals the polygon's perimeter",
               "The circle fits inside the polygon and touches each side exactly once"
             ],
             "answer": 3
@@ -15591,15 +15591,15 @@ const curriculum: DayContent[] = [
               "The circle passes through every vertex of the polygon",
               "The circle fits entirely inside the polygon with no contact to its sides",
               "The circle overlaps only one side of the polygon",
-              "A concept unrelated to circumscribed circles"
+              "The circle touches each side of the polygon exactly once"
             ],
             "answer": 0
           },
           {
             "q": "Which circle passes through every vertex of a triangle?",
             "options": [
-              "A concept unrelated to triangles",
               "The inscribed circle",
+              "A circle tangent to only one side of the triangle",
               "The circumscribed circle",
               "Neither circle ever touches a vertex"
             ],
@@ -15609,8 +15609,8 @@ const curriculum: DayContent[] = [
             "q": "Which circle touches each side of a triangle exactly once?",
             "options": [
               "The inscribed circle",
-              "A concept unrelated to inscribed circles",
               "The circumscribed circle",
+              "A circle passing through only one vertex of the triangle",
               "Neither circle ever touches a side"
             ],
             "answer": 0
@@ -15618,7 +15618,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might architects and designers use inscribed and circumscribed circles when planning circular layouts around polygons?",
             "options": [
-              "This concept has no relevance to geometry",
+              "These circles are only used in theoretical proofs, never in actual design work",
               "Inscribed and circumscribed circles have no practical design applications",
               "They help position a circle so it fits precisely inside or around a polygonal shape",
               "These circles can only be drawn around shapes with curved sides"
@@ -15639,7 +15639,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A pathogen is best described as ___.",
             "options": [
-              "A concept unrelated to biology",
+              "A type of vitamin the body needs to fight disease",
               "A cell that always protects the body from disease",
               "A microorganism, such as a bacterium or virus, that can cause disease",
               "A nutrient the body requires to survive"
@@ -15652,7 +15652,7 @@ const curriculum: DayContent[] = [
               "Bones",
               "The circulatory system exclusively",
               "Skin",
-              "A structure unrelated to the immune system"
+              "The liver"
             ],
             "answer": 2
           },
@@ -15661,7 +15661,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Identifying and attacking pathogens that enter the body",
               "Producing energy for muscle movement",
-              "A function unrelated to the immune system",
+              "Carrying carbon dioxide back to the lungs",
               "Transporting oxygen throughout the body"
             ],
             "answer": 0
@@ -15669,7 +15669,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An antibody is best described as a molecule that ___.",
             "options": [
-              "A concept unrelated to the immune system",
+              "A type of sugar used for energy storage",
               "Has no role in fighting disease",
               "Recognizes and helps neutralize a specific pathogen",
               "Always attacks the body’s own healthy cells"
@@ -15679,7 +15679,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a vaccine help the immune system respond more quickly to a future infection?",
             "options": [
-              "This concept has no connection to immunity",
+              "Vaccines work by increasing a person's overall muscle strength",
               "Vaccines always cause the full disease they are meant to prevent",
               "It trains the immune system to recognize a specific pathogen without causing the actual disease",
               "Vaccines have no effect on how the immune system responds to pathogens"
@@ -15702,8 +15702,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Ocean currents",
               "Longitude",
-              "A concept unrelated to geography",
-              "Latitude exclusively, with no connection to longitude"
+              "The positions of major mountain ranges across continents",
+              "Latitude, since it determines how much sunlight a region receives"
             ],
             "answer": 1
           },
@@ -15712,7 +15712,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Eliminate the need for any standardized time system",
               "Keep local time roughly aligned with the position of the sun",
-              "A purpose unrelated to time or geography",
+              "To standardize calendars so every country begins the year on the same date",
               "Make every region on Earth share the exact same clock time"
             ],
             "answer": 1
@@ -15721,7 +15721,7 @@ const curriculum: DayContent[] = [
             "q": "What is the International Date Line primarily used to mark?",
             "options": [
               "The exact centre of every time zone on Earth",
-              "A concept unrelated to time zones",
+              "The line separating the Earth's two magnetic poles",
               "The approximate boundary where the calendar day changes",
               "The boundary of a single country’s time zone"
             ],
@@ -15731,7 +15731,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a country that spans a very wide range of longitude, like Canada, include multiple time zones?",
             "options": [
               "Multiple time zones are chosen at random, with no geographic basis",
-              "Time zones have no connection to a country’s longitude",
+              "Time zones in Canada are assigned based on provincial population size rather than geography",
               "Wide countries never need more than one time zone",
               "A single time zone would cause local clock time to drift noticeably from the sun’s position across such a wide area"
             ],
@@ -15741,7 +15741,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding time zones important for global communication and trade?",
             "options": [
               "Global coordination never requires any awareness of time differences",
-              "This concept has no relevance to international trade",
+              "It helps determine currency exchange rates between trading countries",
               "Time zones have no effect on global communication",
               "It helps people coordinate schedules and transactions accurately across different regions of the world"
             ],
@@ -15770,7 +15770,7 @@ const curriculum: DayContent[] = [
               "A verb that shows action within a sentence",
               "A word that always begins a question",
               "A noun or noun phrase that renames or identifies another noun beside it",
-              "A concept unrelated to grammar"
+              "A punctuation mark used to end a sentence"
             ],
             "answer": 2
           },
@@ -15790,7 +15790,7 @@ const curriculum: DayContent[] = [
               "It allows extra identifying detail to be added smoothly within a single, more sophisticated sentence",
               "Combining sentences with appositives is never useful in writing",
               "Appositives always make writing less clear",
-              "This technique has no effect on sentence structure"
+              "Appositives can only be used at the very end of a sentence"
             ],
             "answer": 0
           },
@@ -15798,7 +15798,7 @@ const curriculum: DayContent[] = [
             "q": "In the sentence “Toronto, the largest city in Canada, has a diverse population,” the appositive is ___.",
             "options": [
               "Toronto has",
-              "A phrase unrelated to the sentence’s appositive",
+              "Toronto, the largest city",
               "The largest city in Canada",
               "Has a diverse population"
             ],
@@ -15808,7 +15808,7 @@ const curriculum: DayContent[] = [
             "q": "Why are commas typically needed around an appositive in a sentence?",
             "options": [
               "Commas are never used with appositives",
-              "This punctuation rule has no connection to appositives",
+              "Commas around an appositive indicate that a question is being asked",
               "Appositives should always be separated using a period instead",
               "They set off the extra identifying information from the rest of the sentence"
             ],
@@ -15829,7 +15829,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Adding or subtracting the equations to cancel out one variable",
               "Ignoring one of the two equations entirely",
-              "A concept unrelated to systems of equations",
+              "Multiplying the two equations together to form a single expression",
               "Graphing both equations with no algebraic calculation"
             ],
             "answer": 0
@@ -15837,7 +15837,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Before adding two equations using elimination, it is sometimes necessary to ___.",
             "options": [
-              "A step unrelated to the elimination method",
+              "Convert both equations into slope-intercept form first",
               "Divide both equations by zero",
               "Multiply one or both equations so that a variable’s coefficients become opposites",
               "Remove all variables from both equations first"
@@ -15849,8 +15849,8 @@ const curriculum: DayContent[] = [
             "options": [
               "y",
               "Both x and y at the same time",
-              "A variable unrelated to this system",
-              "x"
+              "x",
+              "Neither variable, since adding equations never eliminates anything"
             ],
             "answer": 0
           },
@@ -15860,14 +15860,14 @@ const curriculum: DayContent[] = [
               "Discard the solved value and start over completely",
               "Substitute the solved value back into one of the original equations to find the remaining variable",
               "Assume the remaining variable equals zero automatically",
-              "A step unrelated to solving systems of equations"
+              "Graph the solved value on a separate coordinate plane"
             ],
             "answer": 1
           },
           {
             "q": "Why might the elimination method be more efficient than substitution for certain systems of equations?",
             "options": [
-              "This method has no connection to solving systems of equations",
+              "Elimination always requires graphing both equations first",
               "Elimination is never more efficient than substitution in any case",
               "When coefficients align well, elimination can cancel a variable directly without rearranging an equation first",
               "Elimination always requires more steps than every other method"
@@ -15890,7 +15890,7 @@ const curriculum: DayContent[] = [
             "q": "A simple machine makes work easier by ___.",
             "options": [
               "Changing the size or direction of an applied force",
-              "A concept unrelated to physics",
+              "Converting mechanical energy directly into sound",
               "Always increasing the total amount of work required",
               "Eliminating the need for any force at all"
             ],
@@ -15899,10 +15899,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Mechanical advantage measures ___.",
             "options": [
-              "A concept unrelated to simple machines",
+              "The total weight of materials used to build the machine",
               "The weight of the machine itself",
               "How much a machine multiplies an applied force",
-              "The total distance an object travels, with no connection to force"
+              "Only the speed at which a machine operates"
             ],
             "answer": 2
           },
@@ -15911,7 +15911,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A lever",
               "A smartphone",
-              "A concept unrelated to simple machines",
+              "A computer processor",
               "A battery"
             ],
             "answer": 0
@@ -15920,7 +15920,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a longer lever arm increase the mechanical advantage of a lever?",
             "options": [
               "A longer arm allows a smaller applied force to lift a heavier load around the fulcrum",
-              "This concept has no connection to how levers work",
+              "A longer lever arm only changes its color, not its function",
               "Lever arm length never affects mechanical advantage",
               "A longer lever arm always decreases mechanical advantage"
             ],
@@ -15931,7 +15931,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It can reduce the amount of force needed to lift a load by redirecting or multiplying that force",
               "Pulley systems always increase the force required to lift an object",
-              "Pulleys have no connection to mechanical advantage",
+              "Pulleys work by generating electricity to power a motor",
               "This concept has no real-world application"
             ],
             "answer": 0
@@ -15953,7 +15953,7 @@ const curriculum: DayContent[] = [
               "No measurable temperature difference from rural areas",
               "Significantly lower temperatures than its surrounding rural areas",
               "Significantly higher temperatures than its surrounding rural areas",
-              "A concept unrelated to urban geography"
+              "A city experiencing frequent flooding due to poor storm drainage"
             ],
             "answer": 2
           },
@@ -15961,7 +15961,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these commonly contributes to the urban heat island effect?",
             "options": [
               "Cold ocean currents surrounding the city",
-              "A factor unrelated to urban temperature patterns",
+              "Strong, consistent winds blowing through the city's streets",
               "Extensive tree cover and open green space",
               "Large areas of pavement and buildings that absorb and retain heat"
             ],
@@ -15970,9 +15970,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does reduced vegetation in a city contribute to higher urban temperatures?",
             "options": [
-              "This concept has no connection to urban heat islands",
+              "Fewer trees allow more wind to flow through and cool the streets",
               "Plants normally provide shade and release moisture that helps cool the surrounding air",
-              "Reduced vegetation has no effect on urban temperature",
+              "Pavement reflects more sunlight than vegetation, which helps cool the area",
               "Vegetation always increases a city’s overall temperature"
             ],
             "answer": 1
@@ -15980,7 +15980,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which strategy might a city use to help reduce the urban heat island effect?",
             "options": [
-              "A strategy unrelated to reducing urban temperatures",
+              "Painting rooftops a dark colour to absorb more sunlight",
               "Replacing existing green spaces with additional pavement",
               "Removing all rooftop and building insulation",
               "Increasing green spaces and planting more trees"
@@ -15991,7 +15991,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the urban heat island effect an important consideration for city planners?",
             "options": [
               "Urban heat islands have no effect on residents’ health or energy use",
-              "This topic has no relevance to city planning",
+              "Urban heat islands only affect industrial zones, never residential neighbourhoods",
               "Higher urban temperatures can increase energy use and pose health risks during heat waves",
               "Urban temperature patterns never need to be considered by planners"
             ],
@@ -16019,8 +16019,8 @@ const curriculum: DayContent[] = [
             "options": [
               "A word’s origin and historical development",
               "The number of syllables in a word",
-              "A concept unrelated to vocabulary",
-              "A word’s pronunciation only, with no connection to meaning"
+              "A word's grammatical function within a sentence",
+              "The frequency with which a word appears in everyday speech"
             ],
             "answer": 0
           },
@@ -16030,14 +16030,14 @@ const curriculum: DayContent[] = [
               "Water",
               "Light",
               "Life",
-              "A meaning unrelated to this root"
+              "Sound"
             ],
             "answer": 2
           },
           {
             "q": "Knowing that the Latin root “dict” relates to “speak” or “say” would most help a reader understand the word ___.",
             "options": [
-              "A word unrelated to this root",
+              "Audible",
               "Predict",
               "Aquarium",
               "Reptile"
@@ -16047,8 +16047,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is recognizing common word roots a useful reading strategy?",
             "options": [
-              "Every word’s meaning is entirely unrelated to its root",
-              "This strategy has no connection to vocabulary development",
+              "Word roots only help with spelling, never with meaning",
+              "This strategy works only for words borrowed from French",
               "It can help a reader infer the meaning of unfamiliar words that share a similar root",
               "Word roots never provide any clues about meaning"
             ],
@@ -16058,7 +16058,7 @@ const curriculum: DayContent[] = [
             "q": "The word “transport” combines the roots “trans” (across) and “port” (carry), so it most literally means ___.",
             "options": [
               "To carry across",
-              "A meaning unrelated to these two roots",
+              "To carry alone, since \"trans\" means solitary",
               "To carry nothing at all",
               "To stay in one place"
             ],
@@ -16079,9 +16079,9 @@ const curriculum: DayContent[] = [
             "q": "What does owning a share of stock represent?",
             "options": [
               "Partial ownership in a company",
-              "A fixed amount of cash with no connection to a company",
+              "A fixed-rate loan the company must repay with interest",
               "A guaranteed loan made to a company",
-              "A concept unrelated to financial literacy"
+              "A government bond backed by the company's assets"
             ],
             "answer": 0
           },
@@ -16091,7 +16091,7 @@ const curriculum: DayContent[] = [
               "Stock prices never change once a company is created",
               "Changes in company performance or investor demand",
               "The price of a stock is fixed permanently by law",
-              "A concept unrelated to investing"
+              "The exact time of day the stock market opens"
             ],
             "answer": 1
           },
@@ -16100,7 +16100,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Avoiding investing in anything at all",
               "Spreading money across different investments to help manage risk",
-              "A concept unrelated to investing",
+              "Investing all available money into the single highest-performing stock",
               "Putting all available money into a single stock"
             ],
             "answer": 1
@@ -16121,7 +16121,7 @@ const curriculum: DayContent[] = [
               "Savings accounts are always riskier than owning stock",
               "Stock prices can fluctuate and there is no guarantee of a return",
               "Stock prices always increase steadily with absolutely no risk involved",
-              "A concept unrelated to financial literacy"
+              "Savings accounts also fluctuate in value just as much as stocks"
             ],
             "answer": 1
           }
@@ -16142,7 +16142,7 @@ const curriculum: DayContent[] = [
               "Bends as it passes into a new medium",
               "Bounces off a surface",
               "Is completely absorbed with no remaining energy",
-              "A concept unrelated to light"
+              "Light slows down and stops moving entirely"
             ],
             "answer": 1
           },
@@ -16150,7 +16150,7 @@ const curriculum: DayContent[] = [
             "q": "Refraction occurs when light ___.",
             "options": [
               "Bounces directly off a surface with no change in direction",
-              "A concept unrelated to light",
+              "Light splits into separate colors only when reflected off a mirror",
               "Disappears entirely upon entering a new medium",
               "Bends as it passes from one medium into another with a different density"
             ],
@@ -16160,7 +16160,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these is a real-world example of refraction?",
             "options": [
               "A straw appearing bent when placed in a glass of water",
-              "A concept unrelated to refraction",
+              "A flashlight beam traveling in a straight line through empty space",
               "A shadow forming behind an object blocking light",
               "A mirror showing a clear reflection of a person’s face"
             ],
@@ -16169,7 +16169,7 @@ const curriculum: DayContent[] = [
           {
             "q": "According to the law of reflection, the angle of incidence is ___ the angle of reflection.",
             "options": [
-              "A relationship unrelated to reflection",
+              "Always double",
               "Equal to",
               "Always greater than",
               "Always less than"
@@ -16182,7 +16182,7 @@ const curriculum: DayContent[] = [
               "Light changes speed as it moves between materials with different densities, causing its path to bend",
               "Light always travels in a perfectly straight line regardless of the medium",
               "Light never changes speed when moving between different materials",
-              "This concept has no connection to refraction"
+              "Light bends only because of the color of the water"
             ],
             "answer": 0
           }
@@ -16201,7 +16201,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only the time of year, with no other geographic influence",
               "The presence of large bodies of water exclusively",
-              "A factor entirely unrelated to geography",
+              "The number of political parties governing the region",
               "Climate, vegetation, and terrain"
             ],
             "answer": 3
@@ -16211,7 +16211,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Wildfires only occur in regions with abundant rainfall",
               "Dry vegetation and soil can ignite and spread fire more easily",
-              "This factor has no connection to wildfire risk",
+              "Drought mainly increases the risk of coastal flooding rather than fire",
               "Drought conditions always decrease the likelihood of wildfires"
             ],
             "answer": 1
@@ -16220,7 +16220,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these is a common wildfire prevention strategy?",
             "options": [
               "Increasing the density of dry vegetation near communities",
-              "A strategy unrelated to wildfire management",
+              "Planting dense rows of coniferous trees close to buildings",
               "Controlled burns that reduce the buildup of flammable vegetation",
               "Allowing flammable vegetation to accumulate indefinitely with no management"
             ],
@@ -16231,7 +16231,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Hilly terrain always makes wildfires easier to access and control",
               "Fire always spreads more slowly on steep terrain",
-              "Terrain has no effect on how quickly a wildfire spreads",
+              "Steep terrain mainly affects rainfall totals rather than fire spread",
               "Fire can spread more quickly uphill, and difficult terrain can limit firefighter access"
             ],
             "answer": 3
@@ -16239,7 +16239,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is wildfire management an increasingly important geographic issue in many regions?",
             "options": [
-              "This topic has no relevance to geography or climate",
+              "Wildfire management is now considered solely an agricultural issue",
               "Wildfires never pose any risk to nearby communities",
               "Wildfire risk has remained completely unchanged in recent decades",
               "Changing climate patterns and expanding development near forests can increase both wildfire risk and its impact on communities"
@@ -16269,7 +16269,7 @@ const curriculum: DayContent[] = [
               "A character’s traits are only revealed through their actions",
               "No information about a character is ever provided",
               "A narrator explicitly states a character’s traits",
-              "A concept unrelated to characterization"
+              "A character describing themselves aloud in dialogue with others"
             ],
             "answer": 2
           },
@@ -16278,7 +16278,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Their actions, dialogue, thoughts, and how others respond to them",
               "A method that never involves a character’s behaviour",
-              "A concept unrelated to characterization",
+              "A list of adjectives printed in the story's table of contents",
               "A narrator directly stating those traits outright"
             ],
             "answer": 0
@@ -16288,7 +16288,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A list of a character’s traits with no supporting detail",
               "A character slamming a door and refusing to speak to anyone for the rest of the day",
-              "A concept unrelated to characterization",
+              "A footnote explaining the character's family background",
               "The narrator stating, “She was furious.”"
             ],
             "answer": 1
@@ -16298,7 +16298,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Authors never intentionally choose between these two methods",
               "It allows readers to infer traits themselves, often creating a more engaging reading experience",
-              "This technique has no effect on how readers understand a character",
+              "Indirect characterization always requires fewer words than direct characterization",
               "Indirect characterization always makes a story less engaging"
             ],
             "answer": 1
@@ -16306,7 +16306,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might how other characters react to a character reveal something about that character’s traits?",
             "options": [
-              "This concept has no connection to indirect characterization",
+              "Other characters' reactions are a feature found only in stage plays",
               "A character’s traits can only be revealed through direct statement",
               "Other characters’ reactions never provide any insight into a character’s traits",
               "Other characters’ responses can reflect qualities the character possesses, even without a direct statement"
@@ -16327,8 +16327,8 @@ const curriculum: DayContent[] = [
           {
             "q": "The volume of a sphere can be calculated using a formula involving its ___.",
             "options": [
-              "Only its diameter, with no connection to radius",
-              "A concept unrelated to measurement",
+              "Circumference",
+              "Surface area multiplied by height",
               "Radius",
               "Surface area exclusively, with no formula needed"
             ],
@@ -16337,7 +16337,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The volume of a cone depends on its radius and its ___.",
             "options": [
-              "A property unrelated to volume",
+              "Slant height only, never its vertical height",
               "Weight",
               "Height",
               "Colour"
@@ -16347,7 +16347,7 @@ const curriculum: DayContent[] = [
           {
             "q": "If a sphere has a radius of 3 cm, which value is needed to find its volume using the formula four-thirds pi r cubed?",
             "options": [
-              "A value unrelated to this formula",
+              "The diameter cubed",
               "The diameter squared",
               "The radius cubed",
               "The radius squared only, with no cubing involved"
@@ -16360,14 +16360,14 @@ const curriculum: DayContent[] = [
               "The lateral (slanted) surface area",
               "The volume of the cone",
               "Only the height of the cone, with no area calculation",
-              "A concept unrelated to surface area"
+              "The volume of the base circle only"
             ],
             "answer": 0
           },
           {
             "q": "Why might an engineer need to calculate the volume of a spherical or conical storage tank?",
             "options": [
-              "This concept has no connection to real-world storage design",
+              "Tank volume calculations are only relevant for cube-shaped containers",
               "Volume calculations have no practical engineering application",
               "To determine how much material the tank can hold",
               "Tank shape never affects how much it can hold"
@@ -16389,7 +16389,7 @@ const curriculum: DayContent[] = [
             "q": "The circulatory system is primarily responsible for ___.",
             "options": [
               "Transporting blood, oxygen, and nutrients throughout the body",
-              "A function unrelated to body systems",
+              "Breaking down large food molecules using enzymes",
               "Breaking down food for digestion",
               "Producing hormones exclusively"
             ],
@@ -16400,7 +16400,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Kidneys",
               "Lungs",
-              "An organ unrelated to respiration",
+              "The liver",
               "Stomach"
             ],
             "answer": 1
@@ -16410,7 +16410,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The pancreas",
               "The liver",
-              "An organ unrelated to circulation",
+              "The stomach",
               "The heart"
             ],
             "answer": 3
@@ -16418,7 +16418,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why must the circulatory and respiratory systems work closely together?",
             "options": [
-              "This concept has no connection to how the body functions",
+              "These two systems only interact during physical exercise",
               "The respiratory system operates completely independently of blood transport",
               "These two systems never interact with one another",
               "Oxygen absorbed by the lungs must be transported by the blood to cells throughout the body"
@@ -16429,7 +16429,7 @@ const curriculum: DayContent[] = [
             "q": "Why does the body exhale carbon dioxide through the respiratory system?",
             "options": [
               "Carbon dioxide is a nutrient the body needs to retain",
-              "This concept has no connection to respiration",
+              "Carbon dioxide is exhaled only to regulate body temperature",
               "The body never produces carbon dioxide as a waste product",
               "Carbon dioxide is a waste product of cellular respiration that must be removed from the body"
             ],
@@ -16449,9 +16449,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Political geography examines how administrative boundaries divide ___.",
             "options": [
-              "Physical landforms with no connection to governance",
+              "Trade agreements between neighbouring countries exclusively",
               "Only natural boundaries like rivers and mountains",
-              "A concept unrelated to geography",
+              "Language groups rather than legal jurisdictions",
               "Authority and responsibility across different regions of a country"
             ],
             "answer": 3
@@ -16461,7 +16461,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The municipal government",
               "The federal government",
-              "A level of government unrelated to Canada’s political structure",
+              "The territorial government, which holds identical powers to the provinces",
               "The provincial government exclusively, with no federal role"
             ],
             "answer": 1
@@ -16471,7 +16471,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Education and healthcare",
               "National defence",
-              "A responsibility unrelated to provincial government",
+              "Managing the national postal service",
               "Foreign diplomacy"
             ],
             "answer": 0
@@ -16481,7 +16481,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Local roads, waste collection, and public transit",
               "National immigration policy",
-              "A responsibility unrelated to municipal government",
+              "Setting the country's national interest rates",
               "International trade agreements"
             ],
             "answer": 0
@@ -16489,10 +16489,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might understanding the different levels of political boundaries help explain how decisions are made in Canada?",
             "options": [
-              "This topic has no relevance to understanding Canadian geography",
+              "Political boundaries in Canada are set only by the federal government, without provincial input",
               "All levels of government in Canada have identical responsibilities",
               "Different levels of government have distinct authority over specific issues within their geographic jurisdiction",
-              "Political boundaries have no connection to how decisions are made"
+              "Municipal governments can override federal laws within city limits"
             ],
             "answer": 2
           }
@@ -16518,8 +16518,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Attitudes and purchasing decisions",
               "Personal identity in ways that are never intentional",
-              "A concept unrelated to media literacy",
-              "Ability to read, with no connection to persuasion"
+              "Reading speed, since most ads require careful close reading",
+              "Grammar skills, since ads are designed to teach proper sentence structure"
             ],
             "answer": 0
           },
@@ -16527,7 +16527,7 @@ const curriculum: DayContent[] = [
             "q": "Bandwagon appeal in advertising suggests that a consumer should buy a product because ___.",
             "options": [
               "No one else has ever purchased the product",
-              "A concept unrelated to persuasive advertising",
+              "A celebrity has personally used and endorsed the product",
               "Many other people are already using or buying it",
               "The product has been scientifically proven ineffective"
             ],
@@ -16537,7 +16537,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these is an example of an emotional appeal in advertising?",
             "options": [
               "An ad showing a heartwarming family reunion to promote a phone brand",
-              "A concept unrelated to advertising techniques",
+              "An ad comparing the price of a product to its competitors",
               "An ad listing only the technical specifications of a product",
               "An ad providing no persuasive content of any kind"
             ],
@@ -16549,7 +16549,7 @@ const curriculum: DayContent[] = [
               "Association with a well-known, admired figure can make a product seem more appealing or trustworthy",
               "Celebrity endorsements never influence a consumer’s perception of a product",
               "Companies always avoid featuring well-known figures in ads",
-              "This technique has no connection to persuasive advertising"
+              "Celebrity endorsements work only in print ads, never in video"
             ],
             "answer": 0
           },
@@ -16558,7 +16558,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Critically evaluating advertisements never changes how a consumer responds",
               "Advertisements never attempt to persuade their audience",
-              "This skill has no relevance to media literacy",
+              "Advertising techniques are regulated identically in every country",
               "Recognizing persuasive techniques helps consumers make more informed decisions rather than being simply influenced by emotion"
             ],
             "answer": 3
@@ -16579,7 +16579,7 @@ const curriculum: DayContent[] = [
             "options": [
               "How much one country’s currency is worth in terms of another",
               "The total population of a country",
-              "A concept unrelated to finance",
+              "The total amount of goods a country exports each year",
               "A fixed value that never changes over time"
             ],
             "answer": 0
@@ -16587,7 +16587,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Purchasing power describes ___.",
             "options": [
-              "A concept unrelated to currency or spending",
+              "The total number of banks operating within a country",
               "The exact exchange rate between two currencies",
               "How much a given amount of money can actually buy",
               "The total amount of money a person earns in a year"
@@ -16599,7 +16599,7 @@ const curriculum: DayContent[] = [
             "options": [
               "125 US dollars",
               "100 US dollars",
-              "A value unrelated to this exchange rate",
+              "90 US dollars",
               "75 US dollars"
             ],
             "answer": 3
@@ -16610,7 +16610,7 @@ const curriculum: DayContent[] = [
               "Purchasing power never changes based on currency exchange",
               "The exchange rate determines how much local currency, and therefore goods, their money can obtain",
               "Exchange rates have no effect on how much a traveller can buy",
-              "This concept has no connection to international travel"
+              "Purchasing power is fixed by international law and cannot change"
             ],
             "answer": 1
           },
@@ -16620,7 +16620,7 @@ const curriculum: DayContent[] = [
               "Exchange rates have no impact on international business",
               "Businesses never need to consider currency values when trading internationally",
               "Fluctuating exchange rates can significantly affect the cost of imports and the value of international sales",
-              "This concept has no connection to global trade"
+              "Exchange rates only affect tourists, never business transactions"
             ],
             "answer": 2
           }
@@ -16641,14 +16641,14 @@ const curriculum: DayContent[] = [
               "A process that only occurs inside rocks",
               "A process that always requires large amounts of oxygen",
               "A process in which microorganisms break down sugars without using oxygen",
-              "A concept unrelated to science"
+              "A process that converts sugar directly into oxygen gas"
             ],
             "answer": 2
           },
           {
             "q": "Which microorganism is commonly responsible for making bread dough rise?",
             "options": [
-              "A concept unrelated to fermentation",
+              "A species of algae",
               "Yeast",
               "A species of tree",
               "A type of large mammal"
@@ -16658,7 +16658,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What gas is produced by yeast during the fermentation of bread dough?",
             "options": [
-              "A concept unrelated to fermentation",
+              "Nitrogen",
               "Helium",
               "Carbon dioxide",
               "Oxygen only"
@@ -16670,7 +16670,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Fermentation always causes food to spoil more quickly",
               "It can slow the growth of harmful microorganisms and extend how long food stays edible",
-              "This concept has no connection to science",
+              "Fermentation preserves food only by freezing it solid",
               "Fermentation has never been used in food preparation"
             ],
             "answer": 1
@@ -16680,7 +16680,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They produce lactic acid, which thickens and flavours the milk",
               "They have no effect on the milk at all",
-              "A concept unrelated to fermentation",
+              "They break the milk down into pure water",
               "They convert the milk directly into a solid metal"
             ],
             "answer": 0
@@ -16699,7 +16699,7 @@ const curriculum: DayContent[] = [
             "q": "A cultural landscape reflects ___.",
             "options": [
               "Only natural features with no human influence",
-              "A concept unrelated to geography",
+              "A region defined solely by its climate zone",
               "A landscape entirely untouched by human activity",
               "The interaction between people and their environment over time"
             ],
@@ -16709,7 +16709,7 @@ const curriculum: DayContent[] = [
             "q": "A heritage site is typically recognized and protected for its ___.",
             "options": [
               "Economic value exclusively, with no other significance",
-              "A concept unrelated to heritage protection",
+              "Its potential for large-scale commercial development",
               "Complete lack of historical or cultural importance",
               "Historical, cultural, or natural significance"
             ],
@@ -16719,8 +16719,8 @@ const curriculum: DayContent[] = [
             "q": "Which of these is an example of a cultural landscape?",
             "options": [
               "An uninhabited region never altered by people",
-              "A concept unrelated to cultural geography",
-              "A landscape with absolutely no connection to human activity",
+              "A shopping mall built last year with no historical features",
+              "A protected wilderness area where human entry is strictly forbidden",
               "Terraced rice fields shaped by generations of farming practices"
             ],
             "answer": 3
@@ -16729,7 +16729,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a community work to protect a local heritage site?",
             "options": [
               "Heritage sites are never considered worth protecting",
-              "This concept has no connection to cultural geography",
+              "Heritage sites are protected mainly to increase property tax revenue",
               "To preserve its historical or cultural significance for future generations",
               "Communities always prioritize development over heritage preservation"
             ],
@@ -16738,9 +16738,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do geographers study cultural landscapes when examining a region?",
             "options": [
-              "Cultural landscapes have no connection to a region’s geography",
+              "Cultural landscapes are studied only by historians, never by geographers",
               "They reveal how human activity and the natural environment have shaped each other over time",
-              "This topic has no relevance to studying human-environment interaction",
+              "Geographers study cultural landscapes only to catalog building architecture",
               "Geographers never consider the influence of human activity on landscapes"
             ],
             "answer": 1
@@ -16775,7 +16775,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A business letter or professional email should generally use a ___ tone.",
             "options": [
-              "A concept unrelated to professional writing",
+              "Should match whatever tone the recipient used in their last message",
               "Casual and full of slang",
               "Clear, formal, and polite",
               "Overly emotional and unstructured"
@@ -16788,14 +16788,14 @@ const curriculum: DayContent[] = [
               "Hey there,",
               "Yo,",
               "Dear Ms. Chen,",
-              "A greeting unrelated to professional communication"
+              "To whom it may, bro,"
             ],
             "answer": 2
           },
           {
             "q": "Why should a professional email state its purpose clearly and concisely near the beginning?",
             "options": [
-              "This concept has no connection to email etiquette",
+              "A clear purpose statement is only required in handwritten letters",
               "A purpose should always be buried at the very end of a message",
               "It respects the reader’s time and ensures the main point is not missed",
               "Clarity is never important in professional communication"
@@ -16805,7 +16805,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these is an example of a polite, professional closing?",
             "options": [
-              "A closing unrelated to professional writing",
+              "Peace out,",
               "Sincerely,",
               "Whatever,",
               "See ya,"
@@ -16818,7 +16818,7 @@ const curriculum: DayContent[] = [
               "This step is never necessary for business communication",
               "Errors can create an unprofessional impression and undermine the message’s credibility",
               "Spelling and grammar mistakes always improve a message’s credibility",
-              "Proofreading has no effect on how a professional email is received"
+              "Proofreading only matters for emails longer than one page"
             ],
             "answer": 1
           }
@@ -16838,7 +16838,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Draw the boundary line for the related linear equation",
               "Immediately shade the entire coordinate plane",
-              "A concept unrelated to algebra",
+              "Shade the region above the x-axis by default",
               "Erase the x-axis and y-axis completely"
             ],
             "answer": 0
@@ -16849,7 +16849,7 @@ const curriculum: DayContent[] = [
               "All the points that satisfy the inequality",
               "The boundary line itself and nothing else",
               "A single point that satisfies the inequality",
-              "A concept unrelated to graphing inequalities"
+              "Only the points that lie exactly on the boundary line"
             ],
             "answer": 0
           },
@@ -16857,7 +16857,7 @@ const curriculum: DayContent[] = [
             "q": "When graphing y is greater than 2x plus 1, would the boundary line typically be solid or dashed?",
             "options": [
               "Solid, because points on the line are always included",
-              "A concept unrelated to linear inequalities",
+              "Solid, because the inequality includes an equal sign",
               "Dashed, because points on the line itself are not included",
               "Neither, because no boundary line is ever drawn"
             ],
@@ -16868,7 +16868,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Solid, because points on the line are included",
               "Neither, because the inequality has no boundary line",
-              "A concept unrelated to graphing inequalities",
+              "Dashed, because strict inequalities always use dashed lines",
               "Dashed, because points on the line are never included"
             ],
             "answer": 0
@@ -16878,7 +16878,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It shows every possible combination of purchases that stays within the budget",
               "It shows only a single, fixed combination of purchases",
-              "A concept unrelated to algebra",
+              "It shows the exact profit a business will earn",
               "Graphed inequalities have no practical business application"
             ],
             "answer": 0
@@ -16898,7 +16898,7 @@ const curriculum: DayContent[] = [
             "q": "Ocean currents are large-scale movements of seawater driven by factors such as ___.",
             "options": [
               "Random, unpredictable movement with no identifiable cause",
-              "A factor entirely unrelated to ocean water movement",
+              "The color of the ocean surface",
               "Only the position of the moon, with no other influence",
               "Wind, temperature, and salinity differences"
             ],
@@ -16909,15 +16909,15 @@ const curriculum: DayContent[] = [
             "options": [
               "Land elevation",
               "Heat",
-              "A factor unrelated to climate",
-              "Only sunlight, with no connection to temperature"
+              "Soil nutrients",
+              "Only the salinity of coastal harbors, with no broader effect"
             ],
             "answer": 1
           },
           {
             "q": "A warm ocean current flowing toward a coastal region generally has what effect on nearby land temperatures?",
             "options": [
-              "A concept unrelated to ocean currents",
+              "Warm currents only affect fish migration, never land temperature",
               "It has no effect whatsoever on nearby land temperatures",
               "It always cools the climate of that coastal region significantly",
               "It tends to warm the climate of that coastal region"
@@ -16927,10 +16927,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a disruption to a major ocean current, such as changes linked to climate change, significantly affect regional weather patterns?",
             "options": [
-              "Ocean currents have no connection to regional weather or climate",
+              "Ocean currents only affect marine life, never weather on land",
               "Disruptions to ocean currents never have any noticeable effects",
               "Ocean currents help regulate heat distribution, so changes to them can shift established climate patterns",
-              "This concept has no relevance to studying Earth systems"
+              "Ocean current changes are studied only by sailors, not scientists"
             ],
             "answer": 2
           },
@@ -16938,7 +16938,7 @@ const curriculum: DayContent[] = [
             "q": "Why do scientists study ocean currents when researching global climate systems?",
             "options": [
               "Climate patterns are never influenced by ocean water movement",
-              "This topic has no connection to Earth and space systems",
+              "Ocean currents are studied only in isolation from climate research",
               "Ocean currents are considered irrelevant to global climate research",
               "Currents significantly influence how heat and energy are distributed across the planet"
             ],
@@ -16961,14 +16961,14 @@ const curriculum: DayContent[] = [
               "Any form of transportation",
               "Affordable, healthy food",
               "Unlimited amounts of fresh food from every nearby store",
-              "A concept unrelated to urban geography"
+              "An area with too many competing grocery store chains"
             ],
             "answer": 1
           },
           {
             "q": "A common contributing factor to urban food deserts is ___.",
             "options": [
-              "A factor unrelated to food access",
+              "A surplus of public transportation options in the neighbourhood",
               "A lack of nearby grocery stores or fresh food retailers",
               "Excessive regulation preventing any food sales in a city",
               "An abundance of grocery stores offering only fresh produce"
@@ -16979,7 +16979,7 @@ const curriculum: DayContent[] = [
             "q": "Why might residents of a food desert rely more heavily on convenience stores or fast food?",
             "options": [
               "Convenience stores are always the healthiest available option",
-              "This factor has no connection to food access in a neighbourhood",
+              "Convenience stores typically offer lower prices than full grocery stores",
               "These options may be more accessible nearby than stores offering fresh, affordable groceries",
               "Residents in food deserts always have equal access to every type of food retailer"
             ],
@@ -16990,7 +16990,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Removing existing grocery stores from underserved neighbourhoods",
               "Supporting the development of a new grocery store or community garden in an underserved area",
-              "A strategy unrelated to addressing food access",
+              "Raising property taxes on grocery stores in the area",
               "Ignoring the issue of food access entirely"
             ],
             "answer": 1
@@ -16999,7 +16999,7 @@ const curriculum: DayContent[] = [
             "q": "Why is studying urban food deserts relevant to understanding geographic inequality within cities?",
             "options": [
               "It shows how access to essential resources like food can vary significantly between neighbourhoods in the same city",
-              "This topic has no connection to geographic inequality",
+              "Food access is set entirely by national policy, with no neighbourhood variation",
               "Urban geography never considers differences in resource access",
               "Food access is always identical across every neighbourhood in a city"
             ],
@@ -17026,7 +17026,7 @@ const curriculum: DayContent[] = [
             "q": "In the active voice, the subject of a sentence ___.",
             "options": [
               "Performs the action",
-              "A concept unrelated to grammar",
+              "Always appears at the very end of the sentence",
               "Always receives the action",
               "Is never mentioned in the sentence"
             ],
@@ -17037,7 +17037,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Receives the action",
               "Is always the same as the object",
-              "A concept unrelated to grammar",
+              "Is typically omitted from the sentence entirely",
               "Always performs the action"
             ],
             "answer": 0
@@ -17055,7 +17055,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a writer choose the passive voice when the person performing an action is unknown or unimportant?",
             "options": [
-              "This choice has no effect on a sentence’s emphasis",
+              "Passive voice always clearly names who performed the action",
               "The passive voice always requires naming the performer of the action",
               "Passive voice is never appropriate in any writing situation",
               "It allows the sentence to focus on the action or the receiver of the action instead of the performer"
@@ -17065,7 +17065,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is active voice often preferred in clear, direct writing, such as many business or academic contexts?",
             "options": [
-              "This concept has no connection to effective writing",
+              "Active voice is only used in casual conversation, never professional writing",
               "Active voice always makes writing less clear",
               "Passive voice is always shorter and more direct than active voice",
               "It typically produces more concise, direct sentences than the passive voice"
@@ -17086,7 +17086,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is insurance designed to help manage?",
             "options": [
-              "A concept unrelated to financial literacy",
+              "The day-to-day cost of groceries and transportation",
               "Financial risk from large, unexpected costs",
               "Every single everyday household expense",
               "The exact weather forecast for a given day"
@@ -17099,7 +17099,7 @@ const curriculum: DayContent[] = [
               "Nothing at all is ever paid for insurance",
               "A one-time fee that is never repeated",
               "A premium",
-              "A concept unrelated to insurance"
+              "A deductible paid only once per year"
             ],
             "answer": 2
           },
@@ -17119,7 +17119,7 @@ const curriculum: DayContent[] = [
               "Insurance never provides any kind of financial protection",
               "Insurance is only useful after an event has already happened",
               "It provides financial protection in case an unexpected, costly event occurs",
-              "A concept unrelated to risk management"
+              "Insurance premiums are refunded in full if no claim is ever made"
             ],
             "answer": 2
           },
@@ -17127,8 +17127,8 @@ const curriculum: DayContent[] = [
             "q": "What is one reason insurance premiums might be higher for a higher-risk situation?",
             "options": [
               "Higher risk increases the chance the insurance company will need to pay out a claim",
-              "This concept has no relevance to financial literacy",
-              "Risk level has no connection to insurance costs at all",
+              "Premiums are based only on the policyholder's age, never on risk level",
+              "Higher-risk policies always cost less because they are rarely claimed",
               "Premiums are always identical regardless of risk level"
             ],
             "answer": 0
@@ -17149,7 +17149,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The community of bacteria and other microorganisms living in and on the human body",
               "A type of medication used to treat infections",
-              "A concept unrelated to biology",
+              "A type of synthetic material used in medical implants",
               "A single organ found only in the digestive system"
             ],
             "answer": 0
@@ -17160,7 +17160,7 @@ const curriculum: DayContent[] = [
               "The digestive system",
               "The outer surface of the fingernails only",
               "The human body contains no microorganisms of any kind",
-              "A concept unrelated to the human microbiome"
+              "The center of the eye's lens"
             ],
             "answer": 0
           },
@@ -17170,17 +17170,17 @@ const curriculum: DayContent[] = [
               "Gut bacteria exist only to cause illness",
               "Gut bacteria provide no benefit to the human body whatsoever",
               "Assisting with digestion and producing certain vitamins",
-              "A concept unrelated to the microbiome"
+              "Strengthening bones by adding calcium directly"
             ],
             "answer": 2
           },
           {
             "q": "How might gut bacteria interact with the immune system?",
             "options": [
-              "A concept unrelated to biology",
+              "A process that occurs only in plant roots",
               "They can help support and regulate immune system function",
               "Gut bacteria always weaken the immune system completely",
-              "Gut bacteria have no connection to the immune system at all"
+              "Gut bacteria interact only with the digestive system, never immunity"
             ],
             "answer": 1
           },
@@ -17188,7 +17188,7 @@ const curriculum: DayContent[] = [
             "q": "Why might taking antibiotics sometimes disrupt a persons gut microbiome?",
             "options": [
               "Antibiotics can kill beneficial bacteria along with harmful ones",
-              "This concept has no relevance to science",
+              "Antibiotics change the color of digestive tissue only",
               "Antibiotics only ever affect bacteria found outside the human body",
               "Antibiotics have no effect on any bacteria in the digestive system"
             ],
@@ -17207,7 +17207,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The choice of a launch site for space exploration is often influenced by geographic factors such as ___.",
             "options": [
-              "A factor entirely unrelated to geography",
+              "The average cost of consumer electronics in the region",
               "The presence of large freshwater lakes exclusively",
               "Only the average temperature of a region, with no other consideration",
               "Proximity to the equator and access to open airspace or ocean"
@@ -17220,7 +17220,7 @@ const curriculum: DayContent[] = [
               "Only entertainment broadcasting, with no other purpose",
               "Weather forecasting and Earth observation",
               "Underground mineral extraction",
-              "A function unrelated to geography"
+              "Regulating international banking transactions"
             ],
             "answer": 1
           },
@@ -17229,7 +17229,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Equatorial regions always have the coldest possible launch conditions",
               "The Earth’s rotational speed is greatest near the equator, providing an added boost to a launched rocket",
-              "This factor has no connection to launching satellites or spacecraft",
+              "Equatorial regions have lower air pressure, which reduces fuel use",
               "Proximity to the equator always makes a launch site less effective"
             ],
             "answer": 1
@@ -17237,10 +17237,10 @@ const curriculum: DayContent[] = [
           {
             "q": "How do weather satellites benefit geographic study and forecasting?",
             "options": [
-              "Satellites only track ocean currents, with no connection to weather",
+              "They mainly measure the chemical composition of ocean water",
               "They provide continuous images and data used to track and predict weather patterns",
-              "This technology has no relevance to geography",
-              "Weather satellites have no connection to forecasting"
+              "Weather satellites are used primarily for military surveillance, not forecasting",
+              "They record historical climate data but cannot detect storms in real time"
             ],
             "answer": 1
           },
@@ -17249,7 +17249,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Satellite technology has no practical use in geographic research",
               "Remote or large areas can never be studied using satellite data",
-              "This concept has no connection to studying the Earth’s surface",
+              "Satellite imagery is useful only for mapping underground mineral deposits",
               "It allows continuous observation of large or remote areas of the Earth that would be difficult to study directly"
             ],
             "answer": 3
@@ -17276,7 +17276,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Reveals events that will occur later in the story",
               "Always occurs at the very end of a story",
-              "A concept unrelated to narrative structure",
+              "Flashbacks can only occur in stories told in first person",
               "Interrupts a story’s present action to show an earlier event"
             ],
             "answer": 3
@@ -17286,7 +17286,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Hints at events that will occur later in a story",
               "Interrupts the story to reveal a past event",
-              "A concept unrelated to narrative structure",
+              "Foreshadowing only appears in a story's final paragraph",
               "Removes any sense of suspense from a story"
             ],
             "answer": 0
@@ -17295,9 +17295,9 @@ const curriculum: DayContent[] = [
             "q": "Which is an example of foreshadowing?",
             "options": [
               "A character noticing dark storm clouds gathering just before a major conflict begins",
-              "A concept unrelated to foreshadowing",
+              "A narrator directly stating what will happen in the next chapter",
               "A character recalling their childhood in a scene set entirely in the past",
-              "A scene with no connection to future events in the story"
+              "A scene describing a character's current meal in great detail"
             ],
             "answer": 0
           },
@@ -17316,7 +17316,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It can build anticipation and reward readers who notice subtle clues about what is to come",
               "Recognizing foreshadowing always reduces a story’s suspense",
-              "Foreshadowing has no effect on how a reader experiences a story",
+              "Foreshadowing only matters to readers studying a text for an exam",
               "This technique never connects to later events in a narrative"
             ],
             "answer": 0
@@ -17336,7 +17336,7 @@ const curriculum: DayContent[] = [
             "q": "What does the solution to a system of two linear equations represent on a graph?",
             "options": [
               "The steepness of just one of the lines",
-              "A concept unrelated to algebra",
+              "The y-intercept of one of the two lines",
               "The point where either line crosses the x-axis",
               "The point where the two lines intersect"
             ],
@@ -17347,7 +17347,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The lines must be the exact same line",
               "The system has no solution because the lines are parallel",
-              "A concept unrelated to systems of equations",
+              "The lines must have the same y-intercept",
               "The system always has exactly one solution"
             ],
             "answer": 1
@@ -17357,7 +17357,7 @@ const curriculum: DayContent[] = [
             "options": [
               "There is no solution at all",
               "x equals 2 and y equals 3",
-              "A concept unrelated to graphing systems",
+              "x equals 0 and y equals 5",
               "x equals 3 and y equals 2"
             ],
             "answer": 1
@@ -17366,7 +17366,7 @@ const curriculum: DayContent[] = [
             "q": "What does it mean if the graphs of two linear equations in a system are the same line?",
             "options": [
               "The system can never be solved by graphing",
-              "A concept unrelated to algebra",
+              "The system has exactly one solution located at the origin",
               "The system has infinitely many solutions",
               "The system has exactly one solution"
             ],
@@ -17375,7 +17375,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might solving a system by graphing be less precise than solving it algebraically?",
             "options": [
-              "A concept unrelated to systems of equations",
+              "Graphing always produces fractional coordinates, while algebra never does",
               "Reading an exact intersection point from a graph can be difficult if the coordinates are not whole numbers",
               "Graphs can never show the solution to a system",
               "Graphing always gives a more precise answer than algebra"
@@ -17469,7 +17469,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Entirely untouched, uninhabited wilderness",
               "Regions with no human population whatsoever",
-              "A concept unrelated to urban geography",
+              "Areas experiencing severe drought conditions",
               "Urban development"
             ],
             "answer": 3
@@ -17479,7 +17479,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Access electricity in their homes",
               "See stars and other objects in the night sky",
-              "A concept unrelated to light pollution",
+              "Access reliable internet service",
               "See during the daytime"
             ],
             "answer": 1
@@ -17489,7 +17489,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Noise pollution always improves residents’ overall well-being",
               "Persistent noise can contribute to stress and disrupted sleep",
-              "This concept has no connection to urban geography",
+              "Noise pollution primarily affects a city's air quality rather than residents' health",
               "Noise pollution never has any effect on human health"
             ],
             "answer": 1
@@ -17497,10 +17497,10 @@ const curriculum: DayContent[] = [
           {
             "q": "How might light pollution disrupt local ecosystems?",
             "options": [
-              "Light pollution has no effect on animal behaviour",
+              "Light pollution mainly affects fish populations in lakes, not land animals",
               "Artificial light can interfere with the natural behaviour of nocturnal animals, such as migration or feeding patterns",
               "Nocturnal animals are never affected by artificial lighting",
-              "This concept has no connection to ecosystems"
+              "Artificial light only disrupts human sleep patterns, not wildlife behaviour"
             ],
             "answer": 1
           },
@@ -17509,7 +17509,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Using shielded outdoor lighting that directs light downward rather than outward",
               "Increasing the number of unshielded lights throughout the city",
-              "A strategy unrelated to reducing light pollution",
+              "Installing brighter streetlights with wider, unshielded beams",
               "Removing all lighting regulations entirely"
             ],
             "answer": 0
@@ -17554,7 +17554,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The order in which events are told",
               "Only the names of the characters involved",
-              "A concept unrelated to literary analysis",
+              "The list of symbols and motifs an author chooses to include",
               "The time and place in which a story occurs"
             ],
             "answer": 3
@@ -17565,7 +17565,7 @@ const curriculum: DayContent[] = [
               "No information about a character is ever provided",
               "A character’s traits are only revealed through their actions",
               "A narrator explicitly states a character’s traits",
-              "A concept unrelated to characterization"
+              "A character described only through a photograph or illustration"
             ],
             "answer": 2
           },
@@ -17574,7 +17574,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The product has been scientifically proven ineffective",
               "Many other people are already using or buying it",
-              "A concept unrelated to persuasive advertising",
+              "A limited-time discount is the only reason to buy the product",
               "No one else has ever purchased the product"
             ],
             "answer": 1
@@ -17583,7 +17583,7 @@ const curriculum: DayContent[] = [
             "q": "In the active voice, the subject of a sentence ___.",
             "options": [
               "Is never mentioned in the sentence",
-              "A concept unrelated to grammar",
+              "Changes depending on whether the sentence is a question",
               "Performs the action",
               "Always receives the action"
             ],
@@ -17631,8 +17631,8 @@ const curriculum: DayContent[] = [
             "q": "Simplifying a radical involves factoring out ___ from beneath the square root sign.",
             "options": [
               "Perfect square factors",
-              "Only prime numbers, with no connection to perfect squares",
-              "A concept unrelated to radicals",
+              "Only numbers divisible by the index of the radical",
+              "The exponent of the variable outside the radical",
               "The entire number, leaving nothing beneath the radical"
             ],
             "answer": 0
@@ -17642,7 +17642,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Ignoring one of the two equations entirely",
               "Graphing both equations with no algebraic calculation",
-              "A concept unrelated to systems of equations",
+              "Dividing one equation by the other to isolate a variable",
               "Adding or subtracting the equations to cancel out one variable"
             ],
             "answer": 3
@@ -17651,8 +17651,8 @@ const curriculum: DayContent[] = [
             "q": "The volume of a sphere can be calculated using a formula involving its ___.",
             "options": [
               "Radius",
-              "A concept unrelated to measurement",
-              "Only its diameter, with no connection to radius",
+              "The diameter squared",
+              "Height multiplied by the base area",
               "Surface area exclusively, with no formula needed"
             ],
             "answer": 0
@@ -17660,7 +17660,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A logarithm answers the question of ___.",
             "options": [
-              "A concept unrelated to exponents",
+              "What number added to the base produces a certain number",
               "What exponent a given base must be raised to in order to produce a certain number",
               "What number results from multiplying a base by itself repeatedly with no exponent involved",
               "What the square root of a number is"
@@ -17671,9 +17671,9 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful to review radicals, systems of equations, measurement formulas, and logarithms together?",
             "options": [
               "Review is never useful in mathematics",
-              "These topics have no connection to each other",
+              "These topics are tested on entirely separate exams with no overlap",
               "These related algebra and measurement concepts build on and reinforce one another for deeper understanding",
-              "Each topic must be learned with no connection to the others"
+              "Each concept applies only to a single, unrelated type of problem"
             ],
             "answer": 2
           }
@@ -17693,7 +17693,7 @@ const curriculum: DayContent[] = [
               "A body plan with no repeating pattern of any kind",
               "A body plan found only in plants",
               "A body plan with parts arranged evenly around a central point",
-              "A concept unrelated to biology"
+              "A classification used only for minerals and rocks"
             ],
             "answer": 2
           },
@@ -17701,7 +17701,7 @@ const curriculum: DayContent[] = [
             "q": "What is bilateral symmetry?",
             "options": [
               "A body plan that only applies to single-celled organisms",
-              "A concept unrelated to animal body plans",
+              "A method used to classify types of rocks",
               "A body plan where every part of the body is identical in every direction",
               "A body plan where the left and right sides mirror each other"
             ],
@@ -17713,7 +17713,7 @@ const curriculum: DayContent[] = [
               "A grasshopper",
               "A dog",
               "A sea star",
-              "A concept unrelated to radial symmetry"
+              "A housefly"
             ],
             "answer": 2
           },
@@ -17723,7 +17723,7 @@ const curriculum: DayContent[] = [
               "A human being",
               "A jellyfish",
               "A sea anemone",
-              "A concept unrelated to bilateral symmetry"
+              "A coral reef formation"
             ],
             "answer": 0
           },
@@ -17731,7 +17731,7 @@ const curriculum: DayContent[] = [
             "q": "Why might bilateral symmetry be considered advantageous for animals that move actively in a specific direction?",
             "options": [
               "It supports a distinct head end for sensing the environment and a streamlined body for efficient movement",
-              "A concept unrelated to biology",
+              "Bilateral symmetry only matters for organisms that never move",
               "Bilateral symmetry makes directional movement impossible for an animal",
               "Radial symmetry is always better suited to fast, directional movement"
             ],
@@ -17770,7 +17770,7 @@ const curriculum: DayContent[] = [
             "q": "A map projection is best described as ___.",
             "options": [
               "A perfectly accurate photograph of the Earth",
-              "A concept unrelated to geography",
+              "A legal document that defines a country's borders",
               "A map that shows no distortion of any kind",
               "A method of representing the curved surface of the Earth on a flat map"
             ],
@@ -17781,7 +17781,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Significantly lower temperatures than its surrounding rural areas",
               "Significantly higher temperatures than its surrounding rural areas",
-              "A concept unrelated to urban geography",
+              "A temporary effect that only occurs during winter storms",
               "No measurable temperature difference from rural areas"
             ],
             "answer": 1
@@ -17791,8 +17791,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Only natural boundaries like rivers and mountains",
               "Authority and responsibility across different regions of a country",
-              "A concept unrelated to geography",
-              "Physical landforms with no connection to governance"
+              "Religious denominations practiced within a country",
+              "Trade agreements between neighbouring countries"
             ],
             "answer": 1
           },
@@ -17802,7 +17802,7 @@ const curriculum: DayContent[] = [
               "Affordable, healthy food",
               "Unlimited amounts of fresh food from every nearby store",
               "Any form of transportation",
-              "A concept unrelated to urban geography"
+              "A shortage of public parks and recreational space"
             ],
             "answer": 0
           },
@@ -17812,7 +17812,7 @@ const curriculum: DayContent[] = [
               "These topics have no meaningful connections",
               "It reinforces how these interconnected geographic and spatial issues shape regions and communities",
               "Review is never useful in social studies",
-              "Each topic must be studied with no connection to the others"
+              "Reviewing these topics is useful only for a unit test, not everyday understanding"
             ],
             "answer": 1
           }
@@ -17837,7 +17837,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A statement that seems contradictory but reveals a deeper truth",
               "A sentence with no rhetorical purpose whatsoever",
-              "A concept unrelated to literary analysis",
+              "A figure of speech that exaggerates for comic effect",
               "A statement that is always literally false"
             ],
             "answer": 0
@@ -17847,7 +17847,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only synonyms that mean the exact same thing",
               "Two unrelated ideas that share no connection at all",
-              "A concept unrelated to figurative language",
+              "A single word repeated twice for emphasis",
               "Two seemingly contradictory terms within a single phrase"
             ],
             "answer": 3
@@ -17858,7 +17858,7 @@ const curriculum: DayContent[] = [
               "Bright sunshine",
               "Deafening silence",
               "Quiet whisper",
-              "A phrase unrelated to oxymorons"
+              "Loud noise"
             ],
             "answer": 1
           },
@@ -17868,14 +17868,14 @@ const curriculum: DayContent[] = [
               "Paradoxes never communicate any meaningful idea",
               "It captures a surprising truth that a straightforward statement might not convey as memorably",
               "A paradox always states the obvious with no deeper meaning",
-              "This technique has no connection to persuasive or literary writing"
+              "Paradoxes work only in formal legal documents"
             ],
             "answer": 1
           },
           {
             "q": "Why is recognizing paradox and oxymoron a useful skill when reading literature and poetry?",
             "options": [
-              "This skill has no relevance to interpreting figurative language",
+              "This skill matters only when memorizing poems for recitation",
               "These devices never appear in literature or poetry",
               "Contradiction in a text is always a writing error, not a deliberate device",
               "It helps readers uncover deeper meaning conveyed through intentional contradiction"
@@ -17898,7 +17898,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Its distance from zero on a number line",
               "The number multiplied by negative one",
-              "A concept unrelated to algebra",
+              "The number rounded to the nearest whole number",
               "The number divided by two"
             ],
             "answer": 0
@@ -17908,7 +17908,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes, absolute value is always negative",
               "Only when the original number is a fraction",
-              "A concept unrelated to absolute value",
+              "Only when the original number is irrational",
               "No, absolute value is always non-negative"
             ],
             "answer": 3
@@ -17918,7 +17918,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Two solutions, x equals 5 and x equals negative 5",
               "Only one solution, x equals 5",
-              "A concept unrelated to absolute value equations",
+              "Three solutions, including zero",
               "No solutions at all"
             ],
             "answer": 0
@@ -17937,7 +17937,7 @@ const curriculum: DayContent[] = [
             "q": "Why does an absolute value equation typically produce two possible solutions instead of just one?",
             "options": [
               "Negative numbers are never valid solutions to any equation",
-              "A concept unrelated to algebra",
+              "Equations with exponents always produce exactly two solutions",
               "Both a positive and a negative number can be the same distance from zero",
               "Absolute value equations can never have more than one solution"
             ],
@@ -17957,7 +17957,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The digestive system breaks down food into ___.",
             "options": [
-              "A concept unrelated to biology",
+              "Electrical signals sent to the brain",
               "Oxygen that can be used by the lungs",
               "Waste products only, with no nutrients produced",
               "Nutrients that can be absorbed into the bloodstream"
@@ -17969,7 +17969,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The small intestine",
               "The liver exclusively",
-              "An organ unrelated to digestion",
+              "The lungs",
               "The stomach"
             ],
             "answer": 0
@@ -17979,7 +17979,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The physical breakdown of food, such as chewing and churning in the stomach",
               "The chemical breakdown of food using enzymes exclusively",
-              "A concept unrelated to digestion",
+              "The process of storing bile in the gallbladder",
               "The absorption of nutrients into the blood"
             ],
             "answer": 0
@@ -17990,7 +17990,7 @@ const curriculum: DayContent[] = [
               "Enzymes only function outside of the digestive tract",
               "Enzymes have no role in breaking down food",
               "They break down large food molecules into smaller molecules the body can absorb and use",
-              "This concept has no connection to the digestive system"
+              "Enzymes mainly function to regulate body temperature"
             ],
             "answer": 2
           },
@@ -17998,7 +17998,7 @@ const curriculum: DayContent[] = [
             "q": "Why does the large intestine play an important role after most nutrients have already been absorbed?",
             "options": [
               "The large intestine has no remaining function after nutrient absorption",
-              "This concept has no connection to the digestive system",
+              "The large intestine's main job is to produce digestive enzymes",
               "The large intestine is where most chemical digestion begins",
               "It absorbs remaining water and forms solid waste for elimination"
             ],
@@ -18020,7 +18020,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Instantly transforms rock into soil with no gradual process",
               "Transports weathered material from one location to another",
-              "A concept unrelated to physical geography",
+              "A process that only occurs underwater",
               "Breaks down rock into smaller pieces through physical or chemical processes"
             ],
             "answer": 3
@@ -18029,7 +18029,7 @@ const curriculum: DayContent[] = [
             "q": "Erosion is best described as the process that ___.",
             "options": [
               "Prevents any movement of weathered material",
-              "A concept unrelated to physical geography",
+              "The process of rock cooling and hardening into new layers",
               "Transports weathered material from one location to another",
               "Breaks rock down into smaller pieces at its original location"
             ],
@@ -18041,14 +18041,14 @@ const curriculum: DayContent[] = [
               "Flowing water in a river",
               "Sunlight with no accompanying force",
               "A completely still, motionless lake with no current",
-              "A concept unrelated to erosion"
+              "A completely frozen glacier that never moves"
             ],
             "answer": 0
           },
           {
             "q": "Why might a river gradually carve a deep canyon over thousands of years?",
             "options": [
-              "This concept has no connection to landform change",
+              "Canyons form mainly from sudden earthquakes rather than gradual erosion",
               "Canyons form instantly with no gradual geological process",
               "Rivers never have any erosive effect on surrounding rock",
               "Continuous erosion by flowing water gradually wears away rock along the riverbed"
@@ -18061,7 +18061,7 @@ const curriculum: DayContent[] = [
               "These processes explain how mountains, valleys, and coastlines are gradually reshaped",
               "Landforms never change once they are originally formed",
               "Weathering and erosion have no effect on the appearance of landscapes",
-              "This topic has no relevance to physical geography"
+              "Landscape change is studied only in relation to climate change, not everyday weathering"
             ],
             "answer": 0
           }
@@ -18086,7 +18086,7 @@ const curriculum: DayContent[] = [
             "q": "A process essay primarily explains ___.",
             "options": [
               "A personal narrative with no instructional purpose",
-              "A concept unrelated to expository writing",
+              "A comparison between two different opinions on a topic",
               "How to complete a task or how something works through a sequence of steps",
               "An argument meant to persuade a reader toward one opinion"
             ],
@@ -18097,7 +18097,7 @@ const curriculum: DayContent[] = [
             "options": [
               "These words are only appropriate in narrative writing",
               "They help guide the reader clearly through each step in the correct order",
-              "This concept has no connection to expository writing",
+              "Transitional words are required only in an essay's introduction",
               "Transitional words are never necessary in a process essay"
             ],
             "answer": 1
@@ -18105,7 +18105,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these topics would be best suited to a process essay?",
             "options": [
-              "A topic unrelated to explaining a process",
+              "A detailed comparison of two historical events",
               "An opinion piece arguing for a change in school policy",
               "A purely emotional recollection with no steps involved",
               "How to set up and organize a small vegetable garden"
@@ -18118,7 +18118,7 @@ const curriculum: DayContent[] = [
               "Steps that must be completed in sequence are easiest to follow when presented in the order they occur",
               "Steps in a process essay should always be presented in random order",
               "Chronological order is never useful in expository writing",
-              "This concept has no connection to how a process essay is structured"
+              "Chronological order is only required in narrative essays, not process essays"
             ],
             "answer": 0
           },
@@ -18126,7 +18126,7 @@ const curriculum: DayContent[] = [
             "q": "Why should a process essay include precise, specific details at each step?",
             "options": [
               "Specific details only matter in narrative or descriptive writing",
-              "This concept has no relevance to expository writing",
+              "Precise details are only necessary in essays longer than five paragraphs",
               "Precise details help ensure the reader can accurately follow and complete the process",
               "Vague, general details are always more effective in a process essay"
             ],
@@ -18148,7 +18148,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A single point that satisfies only one inequality",
               "The overlapping shaded region that satisfies every inequality simultaneously",
-              "A concept unrelated to systems of inequalities",
+              "The single boundary line shared by every inequality",
               "The entire coordinate plane, regardless of any inequality"
             ],
             "answer": 1
@@ -18158,7 +18158,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A solid line, since points on the line are always included",
               "A dashed line, since points on the line are not included in the solution",
-              "A concept unrelated to graphing inequalities",
+              "A solid line, since strict inequalities always include the boundary",
               "No line at all, since boundaries are never graphed"
             ],
             "answer": 1
@@ -18167,7 +18167,7 @@ const curriculum: DayContent[] = [
             "q": "For the inequality y is greater than or equal to x plus 1, which type of line should be used?",
             "options": [
               "A solid line, since points on the line satisfy the inequality",
-              "A value unrelated to graphing this inequality",
+              "A dashed line, since the inequality includes a variable",
               "A dashed line, since points on the line never satisfy the inequality",
               "A curved line, since this inequality is non-linear"
             ],
@@ -18176,7 +18176,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a test point, such as the origin, be used when graphing an inequality?",
             "options": [
-              "This concept has no connection to systems of inequalities",
+              "A test point determines the exact slope of the boundary line",
               "Test points are never useful when graphing inequalities",
               "It helps determine which side of the boundary line should be shaded as the solution region",
               "A test point always lies exactly on the boundary line"
@@ -18189,7 +18189,7 @@ const curriculum: DayContent[] = [
               "A system can never be graphed if it includes more than one inequality",
               "Every system of linear inequalities always has a solution",
               "The shaded regions of each inequality might not overlap anywhere on the coordinate plane",
-              "This concept has no connection to graphing systems of inequalities"
+              "A system can only have no solution if it contains exactly one inequality"
             ],
             "answer": 2
           }
@@ -18220,7 +18220,7 @@ const curriculum: DayContent[] = [
               "The ability to digest food",
               "The transportation of oxygen throughout the body",
               "Structural support and protection for internal organs",
-              "A concept unrelated to body systems"
+              "The production of hormones for growth"
             ],
             "answer": 2
           },
@@ -18228,7 +18228,7 @@ const curriculum: DayContent[] = [
             "q": "Muscles enable movement by ___.",
             "options": [
               "Remaining permanently rigid with no change in length",
-              "A concept unrelated to the muscular system",
+              "Filtering waste products from the bloodstream",
               "Producing digestive enzymes",
               "Contracting and relaxing in coordination with the skeleton"
             ],
@@ -18238,7 +18238,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these is a function of the skeletal system?",
             "options": [
               "Producing sound waves for hearing",
-              "A function unrelated to the skeletal system",
+              "Pumping blood to the lungs",
               "Protecting organs such as the brain and heart",
               "Filtering waste from the blood"
             ],
@@ -18250,7 +18250,7 @@ const curriculum: DayContent[] = [
               "These two systems function completely independently of one another",
               "Muscles pull on bones connected at joints, and the skeleton provides the rigid structure needed for that force to create motion",
               "The muscular system alone can produce movement without the skeleton",
-              "This concept has no connection to how the body moves"
+              "Movement is controlled entirely by the digestive system"
             ],
             "answer": 1
           },
@@ -18259,7 +18259,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Bones are incapable of any growth or repair",
               "Bones contain living cells, grow, and can repair themselves after injury",
-              "This concept has no connection to the skeletal system",
+              "Bones are classified as a type of connective tissue only in reptiles",
               "Bones contain no living cells whatsoever"
             ],
             "answer": 1
@@ -18279,7 +18279,7 @@ const curriculum: DayContent[] = [
             "q": "A city’s site refers to ___.",
             "options": [
               "Its exact physical location and local features",
-              "A concept unrelated to urban geography",
+              "The economic relationships it has with neighbouring cities",
               "Its position relative to surrounding regions",
               "The total population living within the city"
             ],
@@ -18291,7 +18291,7 @@ const curriculum: DayContent[] = [
               "Its position relative to surrounding regions",
               "The architectural style of its buildings",
               "Its exact physical location and local features",
-              "A concept unrelated to urban geography"
+              "The specific soil type found beneath the city"
             ],
             "answer": 0
           },
@@ -18301,16 +18301,16 @@ const curriculum: DayContent[] = [
               "Rivers never provided any practical advantage for early settlement",
               "Rivers were avoided because they made travel more difficult",
               "Rivers provided access to fresh water, transportation, and fertile land",
-              "This concept has no connection to why cities are located where they are"
+              "Early settlers avoided rivers because of frequent flooding risks"
             ],
             "answer": 2
           },
           {
             "q": "Why might a city’s situation, such as being located along a major trade route, contribute to its economic growth?",
             "options": [
-              "This concept has no relevance to urban geography",
+              "This factor matters only for coastal cities, never inland trade routes",
               "Trade routes never influence where cities grow economically",
-              "Situation has no connection to a city’s economic development",
+              "Economic growth depends solely on a city's population size, not its location",
               "A favourable position relative to trade routes can improve access to goods, markets, and other regions"
             ],
             "answer": 3
@@ -18319,7 +18319,7 @@ const curriculum: DayContent[] = [
             "q": "Why do geographers examine both site and situation when studying why a city developed in a particular location?",
             "options": [
               "A city’s location is always determined randomly, with no identifiable factors",
-              "These factors have no connection to understanding urban development",
+              "Only a city's situation matters for its development, not its site",
               "Together, these factors explain both the local physical advantages and the broader regional relationships that shaped a city’s growth",
               "Site and situation are the same concept with no meaningful distinction"
             ],
@@ -18344,7 +18344,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A semicolon is used to ___.",
             "options": [
-              "A concept unrelated to punctuation",
+              "Introduce a direct quotation within a sentence",
               "Join two closely related independent clauses without a coordinating conjunction",
               "Separate items within a simple list of single words",
               "End a sentence in place of a period"
@@ -18357,7 +18357,7 @@ const curriculum: DayContent[] = [
               "Join two unrelated sentences with no logical connection",
               "Replace a comma in every possible situation",
               "Introduce a list, explanation, or example following a complete sentence",
-              "A concept unrelated to punctuation"
+              "Separate the subject and verb in a simple sentence"
             ],
             "answer": 2
           },
@@ -18384,7 +18384,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a writer choose a semicolon rather than a period between two related independent clauses?",
             "options": [
-              "This concept has no connection to punctuation choices",
+              "Semicolons are required whenever a sentence has more than ten words",
               "A semicolon and a period always convey the exact same relationship between ideas",
               "A semicolon signals a closer logical connection between the two ideas than a period would suggest",
               "Semicolons are never appropriate between two independent clauses"
@@ -18405,7 +18405,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The discriminant of a quadratic equation is calculated using the formula ___.",
             "options": [
-              "A formula unrelated to the discriminant",
+              "b squared minus 2ac",
               "negative b divided by 2a",
               "b squared plus 4ac",
               "b squared minus 4ac"
@@ -18417,7 +18417,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Two distinct real roots",
               "Exactly one repeated real root",
-              "A result unrelated to the discriminant",
+              "Exactly one real root and one imaginary root",
               "No real roots"
             ],
             "answer": 0
@@ -18426,7 +18426,7 @@ const curriculum: DayContent[] = [
             "q": "If the discriminant of a quadratic equation equals zero, the equation has ___.",
             "options": [
               "One repeated real root",
-              "A result unrelated to the discriminant",
+              "Two distinct real roots that happen to be equal in value",
               "No real roots at all",
               "Two distinct real roots"
             ],
@@ -18438,7 +18438,7 @@ const curriculum: DayContent[] = [
               "Two distinct real roots",
               "No real roots",
               "Exactly one repeated real root",
-              "A result unrelated to the discriminant"
+              "Exactly one real root, repeated twice"
             ],
             "answer": 1
           },
@@ -18446,8 +18446,8 @@ const curriculum: DayContent[] = [
             "q": "Why is calculating the discriminant useful before attempting to solve a quadratic equation using the quadratic formula?",
             "options": [
               "It reveals how many real solutions to expect, which can save time and clarify the type of answer to look for",
-              "The discriminant has no connection to the number of solutions a quadratic equation has",
-              "This concept has no relevance to solving quadratic equations",
+              "The discriminant only indicates the sign of the roots, not how many exist",
+              "The discriminant is only used after finding the roots, never before",
               "The discriminant must always be calculated after solving the equation, never before"
             ],
             "answer": 0
@@ -18465,7 +18465,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What do refrigerators and heat pumps primarily do?",
             "options": [
-              "A concept unrelated to physics",
+              "A method of heating a space by burning fuel directly inside the unit",
               "Create cold temperatures directly with no movement of heat involved",
               "Move heat from one area to another using a circulating refrigerant and compressor",
               "Destroy heat energy completely so it no longer exists"
@@ -18477,7 +18477,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A circulating refrigerant fluid and a compressor",
               "A wooden box with no mechanical components",
-              "A concept unrelated to refrigeration",
+              "A sealed container that simply blocks outside heat from entering",
               "A single stationary block of ice with no moving parts"
             ],
             "answer": 0
@@ -18486,8 +18486,8 @@ const curriculum: DayContent[] = [
             "q": "In a refrigerator, from where is heat generally absorbed?",
             "options": [
               "From inside the refrigerator, where food is stored",
-              "A concept unrelated to how refrigerators work",
-              "From outside the kitchen entirely, unrelated to the refrigerator",
+              "From the compressor, where electrical energy is converted directly into cold air",
+              "From outside the home through an open window near the kitchen",
               "From the compressor only, and nowhere else"
             ],
             "answer": 0
@@ -18496,7 +18496,7 @@ const curriculum: DayContent[] = [
             "q": "Why does moving heat from a cooler space to a warmer one require energy input?",
             "options": [
               "Heat naturally flows from warm to cool areas, so reversing that flow requires added energy, such as electricity",
-              "A concept unrelated to physics",
+              "Moving heat in any direction always releases energy rather than requiring it",
               "Moving heat in any direction never requires any energy at all",
               "Heat always flows on its own from cool areas to warm areas with no energy needed"
             ],
@@ -18506,7 +18506,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a heat pump be considered an efficient way to both heat and cool a home?",
             "options": [
               "Heat pumps require far more energy than any other heating or cooling method",
-              "This concept has no relevance to science",
+              "A heat pump works only by burning fuel to generate heat directly",
               "The same system can move heat into a home in winter or out of a home in summer, using less energy than generating heat directly",
               "Heat pumps can only ever be used to cool a space, never to heat one"
             ],
@@ -18555,7 +18555,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the Great Depression considered a turning point in Canadian social policy?",
             "options": [
-              "It had no connection to unemployment or hardship",
+              "The Great Depression mainly affected stock traders, with little impact on ordinary workers",
               "It had no lasting effect on government policy",
               "It occurred after all major social programs were created",
               "It highlighted the need for government support systems during economic crises"
@@ -18592,8 +18592,8 @@ const curriculum: DayContent[] = [
             "q": "An analogy compares two pairs of words that share ___.",
             "options": [
               "A similar relationship",
-              "No connection to each other whatsoever",
-              "A concept unrelated to vocabulary",
+              "The same number of syllables in each word",
+              "Identical pronunciation despite different spelling",
               "The exact same spelling"
             ],
             "answer": 0
@@ -18603,7 +18603,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Sky, since the relationship is about location only",
               "Down, since the relationship is one of antonyms",
-              "A word unrelated to this analogy",
+              "Loud, since the relationship compares sound to temperature",
               "Warm, since the relationship is one of synonyms"
             ],
             "answer": 1
@@ -18614,7 +18614,7 @@ const curriculum: DayContent[] = [
               "Synonym to synonym",
               "Antonym to antonym",
               "Creator to creation",
-              "A relationship unrelated to this analogy"
+              "Part to whole"
             ],
             "answer": 2
           },
@@ -18624,7 +18624,7 @@ const curriculum: DayContent[] = [
               "Analogies never require identifying any relationship between words",
               "The same relationship must apply consistently to the second pair of words for the analogy to be valid",
               "The relationship between the first pair of words never matters when solving an analogy",
-              "This concept has no connection to vocabulary skills"
+              "This step matters only for analogies involving antonyms"
             ],
             "answer": 1
           },
@@ -18632,8 +18632,8 @@ const curriculum: DayContent[] = [
             "q": "Why can practising analogies help strengthen a reader’s vocabulary and reasoning skills?",
             "options": [
               "This practice never improves a reader’s understanding of words",
-              "Analogies only test spelling, with no connection to meaning",
-              "Analogies have no connection to vocabulary or reasoning",
+              "Analogies mainly test a reader's ability to memorize definitions by rote",
+              "Analogy practice improves only short-term memory, not vocabulary",
               "It requires understanding precise word meanings and recognizing logical relationships between concepts"
             ],
             "answer": 3
@@ -18652,9 +18652,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A budget is best described as a tool that tracks ___.",
             "options": [
-              "Only expenses, with no connection to income",
+              "Only money placed into a retirement savings account",
               "A person’s age and physical location",
-              "A concept unrelated to financial literacy",
+              "A record of a person's monthly bank statements only",
               "Income and expenses over a period of time"
             ],
             "answer": 3
@@ -18665,7 +18665,7 @@ const curriculum: DayContent[] = [
               "Adding total liabilities to total assets",
               "Subtracting total liabilities from total assets",
               "Dividing monthly income by monthly expenses",
-              "A concept unrelated to financial literacy"
+              "Multiplying total assets by total liabilities"
             ],
             "answer": 1
           },
@@ -18674,7 +18674,7 @@ const curriculum: DayContent[] = [
             "options": [
               "28,000 dollars",
               "8,000 dollars",
-              "A value unrelated to this calculation",
+              "16,000 dollars",
               "12,000 dollars"
             ],
             "answer": 3
@@ -18682,18 +18682,18 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might tracking expenses in a budget help someone reach a savings goal?",
             "options": [
-              "This concept has no connection to budgeting or financial goals",
+              "Tracking expenses only matters for people with irregular income",
               "It reveals spending patterns, making it easier to identify where to reduce costs and set aside savings",
               "Tracking expenses never has any effect on a person’s ability to save",
-              "A budget only tracks income, with no relevance to saving money"
+              "A budget automatically increases savings without any tracking needed"
             ],
             "answer": 1
           },
           {
             "q": "Why is a rising net worth over time generally considered a sign of improving financial health?",
             "options": [
-              "Net worth has no connection to a person’s overall financial health",
-              "This concept has no relevance to personal finance",
+              "Net worth only reflects a person's income, not their assets or debts",
+              "Net worth is unaffected by changes in either assets or liabilities",
               "It suggests that a person’s assets are growing faster than their liabilities",
               "A rising net worth always indicates a person is spending more than they earn"
             ],
@@ -18715,7 +18715,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Direct contact between particles or objects",
               "Electromagnetic waves travelling through empty space",
-              "A concept unrelated to thermal energy",
+              "Heat transfer that occurs only when two objects are far apart from each other",
               "The movement of a heated fluid, such as air or water"
             ],
             "answer": 0
@@ -18723,7 +18723,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Convection is best described as heat transfer that occurs through ___.",
             "options": [
-              "A concept unrelated to thermal energy",
+              "Heat transfer that occurs only through direct contact between touching particles",
               "The movement of a heated fluid, such as air or water",
               "A process that requires no matter or medium at all",
               "Direct contact between particles or objects"
@@ -18733,7 +18733,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Radiation is best described as heat transfer that occurs through ___.",
             "options": [
-              "A concept unrelated to thermal energy",
+              "Heat transfer that occurs only when a solid object melts into liquid",
               "The movement of a heated fluid exclusively",
               "Electromagnetic waves, which can travel even through empty space",
               "Direct contact between two solid objects"
@@ -18746,7 +18746,7 @@ const curriculum: DayContent[] = [
               "Metal never conducts heat, regardless of contact with a hot object",
               "The spoon heats up due to convection currents within the metal",
               "Heat is transferred through the metal via conduction, from particle to particle",
-              "This concept has no connection to thermal energy transfer"
+              "The spoon heats up only because radiation waves travel through the metal"
             ],
             "answer": 2
           },
@@ -18755,7 +18755,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Radiation does not require a medium, so it can travel through the vacuum of space",
               "Conduction easily transfers heat through the vacuum of space",
-              "This concept has no connection to how heat travels from the Sun",
+              "Radiation can only travel through air or water, never through empty space",
               "Convection is responsible for transferring the Sun’s heat to Earth"
             ],
             "answer": 0
@@ -18776,7 +18776,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A chain of saltwater lakes found only in Canada",
               "The largest group of freshwater lakes in the world",
-              "A concept unrelated to physical geography",
+              "A series of man-made reservoirs built in the twentieth century",
               "A single small lake located entirely within Ontario"
             ],
             "answer": 1
@@ -18786,7 +18786,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Fresh water, transportation routes, and economic opportunities",
               "No practical benefit to nearby communities",
-              "A concept unrelated to the Great Lakes region",
+              "Oil and natural gas reserves for export",
               "Saltwater resources used primarily for ocean shipping"
             ],
             "answer": 0
@@ -18796,7 +18796,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The spread of invasive species that disrupt native ecosystems",
               "Permanently rising water levels with no fluctuation ever recorded",
-              "A challenge unrelated to the Great Lakes",
+              "Coral reef destruction from rising lake temperatures",
               "A complete absence of any human activity nearby"
             ],
             "answer": 0
@@ -18805,8 +18805,8 @@ const curriculum: DayContent[] = [
             "q": "Why might pollution entering the Great Lakes from surrounding cities and farms be a significant environmental concern?",
             "options": [
               "The Great Lakes are unaffected by any activity occurring on surrounding land",
-              "This concept has no connection to environmental geography",
-              "Pollution entering the Great Lakes has no effect on nearby communities or ecosystems",
+              "Pollution entering the lakes is filtered out naturally within hours",
+              "Only industrial pollution from factories affects the lakes, not farm runoff",
               "The lakes provide drinking water and habitat for millions of people and countless species"
             ],
             "answer": 3
@@ -18817,7 +18817,7 @@ const curriculum: DayContent[] = [
               "Cooperative management between the two countries has never been necessary",
               "The Great Lakes are located entirely within a single country, with no shared border",
               "The lakes and their watershed cross the international border, so environmental and economic decisions affect both countries",
-              "This concept has no relevance to studying the region’s geography"
+              "The border between Canada and the United States follows mountain ranges, not the lakes"
             ],
             "answer": 2
           }
@@ -18842,7 +18842,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Two opposing viewpoints with no connection between them",
               "How one event or condition leads to a resulting outcome",
-              "A concept unrelated to nonfiction text structures",
+              "A comparison of similarities and differences between two subjects",
               "A list of steps that must occur in a fixed order"
             ],
             "answer": 1
@@ -18852,7 +18852,7 @@ const curriculum: DayContent[] = [
             "options": [
               "By presenting only unrelated, random facts",
               "In a chronological or step-by-step order",
-              "A concept unrelated to nonfiction text structures",
+              "By grouping ideas according to their emotional tone",
               "Around a single cause and its resulting effect"
             ],
             "answer": 1
@@ -18860,8 +18860,8 @@ const curriculum: DayContent[] = [
           {
             "q": "A problem-solution text structure typically presents ___.",
             "options": [
-              "A concept unrelated to nonfiction text structures",
-              "Two unrelated topics compared with no clear purpose",
+              "A single opinion stated without any supporting reasoning",
+              "An argument meant only to entertain, with no real issue addressed",
               "A specific issue followed by one or more possible ways to address it",
               "A random sequence of events with no clear organization"
             ],
@@ -18871,7 +18871,7 @@ const curriculum: DayContent[] = [
             "q": "Which signal words might indicate a cause-and-effect text structure?",
             "options": [
               "However, in contrast, on the other hand",
-              "Words unrelated to identifying text structure",
+              "For example, such as, in particular",
               "Because, therefore, as a result",
               "First, next, finally"
             ],
@@ -18881,7 +18881,7 @@ const curriculum: DayContent[] = [
             "q": "Why is recognizing a nonfiction text’s underlying structure a useful reading strategy?",
             "options": [
               "Text structure never affects how a reader understands nonfiction",
-              "This strategy has no connection to reading comprehension",
+              "Text structure matters only for essays, never for articles or reports",
               "It helps readers anticipate how ideas will be organized and better understand the relationships between them",
               "Nonfiction texts are never organized using any identifiable structure"
             ],
@@ -18903,7 +18903,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Every point along the circles edge",
               "Exactly two points",
-              "A concept unrelated to geometry",
+              "Exactly two points, one on each side of the circle",
               "Exactly one point"
             ],
             "answer": 3
@@ -18914,7 +18914,7 @@ const curriculum: DayContent[] = [
               "The point of tangency",
               "The diameter point",
               "The centre of the circle",
-              "A concept unrelated to tangent lines"
+              "The vertex of the circle"
             ],
             "answer": 0
           },
@@ -18922,7 +18922,7 @@ const curriculum: DayContent[] = [
             "q": "According to a key circle theorem, what is the relationship between a tangent line and the radius drawn to the point of tangency?",
             "options": [
               "They are always parallel to each other",
-              "A concept unrelated to circle theorems",
+              "They form a 45 degree angle with each other",
               "They are perpendicular to each other",
               "They always overlap completely"
             ],
@@ -18933,7 +18933,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The tangent line is perpendicular to that radius, as the theorem predicts",
               "The circle does not actually have a defined radius",
-              "A concept unrelated to tangent lines",
+              "The circle must have a diameter equal to the tangent line's length",
               "The tangent line must actually pass through the centre of the circle"
             ],
             "answer": 0
@@ -18943,7 +18943,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Tangent lines have no real-world applications of any kind",
               "Gears and pulleys never involve any circular shapes",
-              "A concept unrelated to geometry",
+              "Gears and pulleys rely only on a circle's area, never its tangent lines",
               "Tangent lines describe how a straight edge or belt can touch a circular object at a single contact point"
             ],
             "answer": 3
@@ -18964,15 +18964,15 @@ const curriculum: DayContent[] = [
             "options": [
               "The Moon’s gravitational pull",
               "The rotation of the Earth on its axis alone",
-              "A concept unrelated to astronomy",
-              "Wind patterns exclusively, with no connection to gravity"
+              "The Earth's rotation pulling ocean water toward its equator",
+              "Wind patterns pushing water toward shore are the sole cause of all ocean tides"
             ],
             "answer": 0
           },
           {
             "q": "A solar eclipse occurs when ___.",
             "options": [
-              "A concept unrelated to eclipses",
+              "The Moon moving directly behind the Earth so Earth's shadow covers the Moon",
               "The Earth passes between the Sun and Moon",
               "The Moon is at its farthest point from Earth with no alignment involved",
               "The Moon passes between the Sun and Earth, blocking the Sun’s light"
@@ -18983,7 +18983,7 @@ const curriculum: DayContent[] = [
             "q": "A lunar eclipse occurs when ___.",
             "options": [
               "The Sun passes directly behind the Earth as seen from the Moon",
-              "A concept unrelated to eclipses",
+              "The Moon drifting far enough away that its gravity blocks the Sun's light",
               "The Earth passes between the Sun and the Moon, casting a shadow on the Moon",
               "The Moon passes between the Sun and Earth"
             ],
@@ -18994,7 +18994,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The Moon’s phases change because the Moon itself changes shape",
               "Moon phases occur randomly with no predictable pattern",
-              "This concept has no connection to the Moon’s position in space",
+              "The Moon spins rapidly on its axis, changing which side faces the Sun each night",
               "The Moon’s position relative to the Earth and Sun changes, altering how much of its sunlit side is visible from Earth"
             ],
             "answer": 3
@@ -19003,7 +19003,7 @@ const curriculum: DayContent[] = [
             "q": "Why are unusually high tides, known as spring tides, more likely to occur during a full or new moon?",
             "options": [
               "Spring tides only occur when the Moon and Sun are positioned at a right angle to each other",
-              "This concept has no connection to tides or lunar phases",
+              "Spring tides occur only when the Moon briefly increases in physical size",
               "During these phases, the Sun and Moon align, and their combined gravitational pull increases the tidal effect",
               "The Sun and Moon have no combined gravitational effect on Earth’s tides"
             ],
@@ -19040,7 +19040,7 @@ const curriculum: DayContent[] = [
               "Population density in a given region",
               "Weather and climate patterns",
               "Place names and their origins",
-              "A concept unrelated to geography"
+              "The architectural style of historic buildings"
             ],
             "answer": 2
           },
@@ -19048,7 +19048,7 @@ const curriculum: DayContent[] = [
             "q": "A place name derived from an Indigenous language often reflects ___.",
             "options": [
               "A name chosen entirely at random with no cultural significance",
-              "A concept unrelated to toponymy",
+              "A direct translation borrowed from a European language",
               "No meaningful connection to the land whatsoever",
               "A long-standing cultural or historical connection to that land"
             ],
@@ -19057,9 +19057,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might colonial powers have historically renamed places they claimed?",
             "options": [
-              "Renaming places had no connection to power or authority",
+              "Renaming was done randomly, following no particular colonial policy",
               "Colonial powers never renamed places they encountered",
-              "This concept has no connection to political or cultural geography",
+              "Place names were changed only to make them easier to pronounce",
               "Renaming was often used to assert authority and reflect the identity of the colonizing culture"
             ],
             "answer": 3
@@ -19069,8 +19069,8 @@ const curriculum: DayContent[] = [
             "options": [
               "To recognize and honour the region’s Indigenous history and cultural heritage",
               "Restoring original place names is never considered meaningful",
-              "Place names have no connection to a community’s identity or history",
-              "This concept has no relevance to cultural geography"
+              "Restoring original place names is done mainly to attract more tourists",
+              "Place names are restored only when required by international law"
             ],
             "answer": 0
           },
@@ -19078,8 +19078,8 @@ const curriculum: DayContent[] = [
             "q": "Why do geographers study toponymy when examining the history of a region?",
             "options": [
               "Place names can reveal layers of history, migration, and cultural influence over time",
-              "Place names have no connection to a region’s history or culture",
-              "This topic has no relevance to studying geography",
+              "Toponymy only reflects recent changes, not historical migration patterns",
+              "Studying place names is useful only for creating street signs",
               "Toponymy is only useful for studying modern urban planning"
             ],
             "answer": 0
@@ -19103,7 +19103,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A clickbait headline is designed primarily to ___.",
             "options": [
-              "A concept unrelated to media literacy",
+              "Provide a detailed table of contents for the linked article",
               "Attract clicks using sensational or misleading language",
               "Accurately and objectively summarize an article’s content",
               "Discourage readers from viewing the linked content"
@@ -19114,7 +19114,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these is a common characteristic of a clickbait headline?",
             "options": [
               "Precise, factual language that fully explains the article’s content",
-              "A concept unrelated to headline analysis",
+              "A headline written entirely in a foreign language",
               "Vague, exaggerated language that creates curiosity without revealing details",
               "A headline with no emotional or persuasive language at all"
             ],
@@ -19125,7 +19125,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Readers are never affected by the accuracy of a headline",
               "Clickbait headlines always accurately represent their article’s content",
-              "This concept has no connection to media literacy",
+              "Clickbait headlines are illegal and therefore rarely used",
               "The actual content often fails to deliver on the dramatic promise made by the headline"
             ],
             "answer": 3
@@ -19134,7 +19134,7 @@ const curriculum: DayContent[] = [
             "q": "Why is comparing a headline to the full article an important media literacy strategy?",
             "options": [
               "Headlines always match their article’s content exactly",
-              "This strategy has no relevance to evaluating media content",
+              "This comparison matters only for headlines written in all capital letters",
               "It helps determine whether the headline accurately represents the article’s actual content",
               "Comparing a headline to its article is never a useful practice"
             ],
@@ -19143,10 +19143,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might websites that rely on advertising revenue be more likely to use clickbait headlines?",
             "options": [
-              "This concept has no relevance to media literacy",
+              "This concept applies only to websites that charge a subscription fee",
               "More clicks generally generate more advertising revenue, creating an incentive to maximize attention-grabbing headlines",
               "Websites relying on advertising revenue never use exaggerated headlines",
-              "Advertising revenue has no connection to how a website writes its headlines"
+              "Advertising revenue is calculated the same way regardless of a site's traffic"
             ],
             "answer": 1
           }
@@ -19164,7 +19164,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A composite 3D solid is formed by ___.",
             "options": [
-              "A concept unrelated to measurement",
+              "Cutting a single basic solid into two identical halves",
               "Combining two or more basic solids into a single shape",
               "A shape that contains no identifiable basic solids at all",
               "Removing all volume from a single basic solid"
@@ -19176,7 +19176,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Calculate the volume of each individual solid and add them together",
               "Multiply the surface areas of each solid together",
-              "A concept unrelated to composite solids",
+              "Multiply the height of one solid by the radius of the other",
               "Calculate the volume of only one of the solids and ignore the rest"
             ],
             "answer": 0
@@ -19186,7 +19186,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Exclude any internal surfaces where the two solids are joined together",
               "Ignore the surface area of both solids entirely",
-              "A concept unrelated to surface area",
+              "Double the surface area of the larger solid only",
               "Include every surface of each individual solid with no exceptions"
             ],
             "answer": 0
@@ -19196,7 +19196,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It combines two distinct basic solids, a cylinder and a cone, into one structure",
               "A silo shaped this way is not actually a composite solid",
-              "This concept has no connection to composite solids",
+              "A silo's shape only affects its weight, not its classification as a solid",
               "A cylinder and a cone can never be combined into a single structure"
             ],
             "answer": 0
@@ -19204,7 +19204,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is breaking a composite solid into its individual basic shapes a useful problem-solving strategy?",
             "options": [
-              "This strategy has no connection to measurement problems",
+              "Breaking a solid into parts only works for solids with flat surfaces",
               "Breaking a composite solid into parts never simplifies a volume or surface area calculation",
               "It allows familiar volume and surface area formulas to be applied to each simpler part",
               "Composite solids can only be measured as a single, unbreakable unit"
@@ -19226,7 +19226,7 @@ const curriculum: DayContent[] = [
             "q": "The nervous system coordinates the body’s responses to stimuli by transmitting ___.",
             "options": [
               "Electrical signals throughout the body",
-              "A concept unrelated to biology",
+              "Hormones carried through the bloodstream that trigger immediate muscle movement",
               "Oxygen directly to muscle tissue",
               "Digestive enzymes to the stomach"
             ],
@@ -19235,7 +19235,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these is considered part of the central nervous system?",
             "options": [
-              "An organ unrelated to the nervous system",
+              "The stomach, since it sends signals that control hunger and digestion",
               "The brain and spinal cord",
               "The nerves found throughout the arms and legs exclusively",
               "The heart and lungs"
@@ -19245,7 +19245,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A reflex, such as pulling a hand away from a hot surface, is best described as ___.",
             "options": [
-              "A concept unrelated to the nervous system",
+              "A behavior that is learned gradually through repeated practice over time",
               "A voluntary action planned well in advance",
               "A rapid, involuntary response coordinated primarily by the spinal cord",
               "A response that always requires conscious thought before occurring"
@@ -19257,7 +19257,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The spinal cord has no role in transmitting signals related to movement",
               "The spinal cord transmits signals between the brain and the rest of the body, so damage can disrupt that communication",
-              "This concept has no connection to how the nervous system functions",
+              "The spinal cord only carries signals related to digestion, never movement",
               "Damage to the spinal cord never affects the body’s ability to move"
             ],
             "answer": 1
@@ -19265,7 +19265,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the brain often described as the control centre of the nervous system?",
             "options": [
-              "This concept has no relevance to understanding the nervous system",
+              "The heart, since it pumps the blood that carries oxygen to the brain",
               "It processes information from the body and environment and directs appropriate responses",
               "The brain plays no role in processing information or directing responses",
               "Every response in the body occurs with no involvement from the brain"
@@ -19289,7 +19289,7 @@ const curriculum: DayContent[] = [
               "The number of homes built in a single year",
               "Housing costs and household income",
               "The physical size of a home and its location only",
-              "A concept unrelated to urban geography"
+              "The architectural age of a building compared to its neighbours"
             ],
             "answer": 1
           },
@@ -19297,7 +19297,7 @@ const curriculum: DayContent[] = [
             "q": "A city is generally considered to be experiencing a housing crisis when ___.",
             "options": [
               "Every resident can easily afford quality housing",
-              "A concept unrelated to housing affordability",
+              "A situation where housing prices drop below construction costs",
               "A large portion of residents struggle to find housing they can afford",
               "Housing prices remain completely unchanged for decades"
             ],
@@ -19309,7 +19309,7 @@ const curriculum: DayContent[] = [
               "Housing supply failing to keep pace with growing demand",
               "A continuous decline in a city’s population",
               "A steady oversupply of affordable housing options",
-              "A factor unrelated to housing affordability"
+              "A drop in interest rates that makes mortgages completely free"
             ],
             "answer": 0
           },
@@ -19319,16 +19319,16 @@ const curriculum: DayContent[] = [
               "Housing costs near a city’s core have no effect on where residents choose to live",
               "Lower-income residents are never affected by rising housing costs",
               "Rising housing costs near the core can force residents to seek more affordable housing farther away, often with longer commutes",
-              "This concept has no connection to urban geography"
+              "Lower-income residents are required by law to live only in the city centre"
             ],
             "answer": 2
           },
           {
             "q": "Why might city governments consider policies such as zoning reform to address housing affordability?",
             "options": [
-              "This concept has no relevance to addressing a housing crisis",
+              "Zoning reform is used only to regulate building colours and aesthetics",
               "Increasing housing supply never has any effect on affordability",
-              "Zoning policies have no connection to housing affordability",
+              "Zoning rules are already identical in every city, leaving nothing to reform",
               "Adjusting zoning rules can increase the supply of housing, potentially easing rising costs"
             ],
             "answer": 3
@@ -19355,7 +19355,7 @@ const curriculum: DayContent[] = [
             "q": "A critical review primarily aims to ___.",
             "options": [
               "Persuade a reader with no reference to the actual work",
-              "A concept unrelated to critical writing",
+              "Rank the work against every other title in its genre by sales figures",
               "Provide a complete summary of the plot with no evaluation",
               "Evaluate a work using specific criteria and supporting evidence"
             ],
@@ -19367,14 +19367,14 @@ const curriculum: DayContent[] = [
               "Summarizing the plot is always the main purpose of a critical review",
               "A review should focus on evaluating the work’s strengths and weaknesses rather than retelling every event",
               "A review should never mention any part of the plot",
-              "This concept has no connection to writing an effective review"
+              "Plot summary is a skill that belongs only in book reports, not reviews"
             ],
             "answer": 1
           },
           {
             "q": "Which of these would most strengthen a critical review’s argument?",
             "options": [
-              "A concept unrelated to writing a review",
+              "A brief biography of the director or author with no evaluation",
               "A list of unrelated personal facts about the reviewer",
               "Vague opinions with no supporting evidence",
               "Specific examples from the book or film that support the reviewer’s judgment"
@@ -19387,7 +19387,7 @@ const curriculum: DayContent[] = [
               "A review should always avoid using any particular criteria",
               "Clear criteria provide a structured, consistent basis for judging the work’s overall quality",
               "Specific criteria are never useful when writing a review",
-              "This concept has no connection to critical analysis"
+              "Criteria only matter when reviewing live theater, not film"
             ],
             "answer": 1
           },
@@ -19395,7 +19395,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important for a critical review to support its overall judgment with reasoned analysis?",
             "options": [
               "An overall judgment never needs to be supported with any analysis",
-              "This concept has no relevance to writing an effective review",
+              "Reasoned analysis is only required in reviews published in academic journals",
               "Reasoned analysis always weakens a review’s persuasive power",
               "Reasoned analysis helps convince readers that the reviewer’s opinion is thoughtful and well-founded"
             ],
@@ -19415,7 +19415,7 @@ const curriculum: DayContent[] = [
             "q": "A rational number can always be expressed as ___.",
             "options": [
               "A ratio of two integers",
-              "A concept unrelated to number sense",
+              "A number that can only ever be negative",
               "Only a whole number with no fractional part",
               "A number with an infinite, non-repeating decimal expansion"
             ],
@@ -19424,7 +19424,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An irrational number is best described as a number that ___.",
             "options": [
-              "A concept unrelated to number sense",
+              "A number whose decimal expansion always terminates after a few digits",
               "Is always a negative whole number",
               "Cannot be expressed as a ratio of two integers",
               "Can always be expressed as a simple fraction"
@@ -19434,7 +19434,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these is an example of an irrational number?",
             "options": [
-              "A number unrelated to this classification",
+              "Negative one half",
               "Negative three",
               "Pi",
               "One half"
@@ -19445,7 +19445,7 @@ const curriculum: DayContent[] = [
             "q": "The set of real numbers includes ___.",
             "options": [
               "All rational and irrational numbers",
-              "A concept unrelated to number classification",
+              "Only numbers that can be plotted on a number line between 0 and 1",
               "Only irrational numbers, excluding all rational numbers",
               "Only whole numbers, with no fractions or decimals"
             ],
@@ -19456,7 +19456,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It can always be written exactly as a simple fraction",
               "The square root of 2 is classified as a whole number",
-              "This concept has no connection to number classification",
+              "Its value is always exactly 1.5 when rounded",
               "Its decimal expansion continues infinitely without repeating, so it cannot be written as a ratio of two integers"
             ],
             "answer": 3
@@ -19476,7 +19476,7 @@ const curriculum: DayContent[] = [
             "q": "A Punnett square is used to ___.",
             "options": [
               "Predict the probability of specific genetic traits appearing in offspring",
-              "A concept unrelated to genetics",
+              "Calculate the exact number of chromosomes present in a cell",
               "Measure the physical size of an organism’s cells",
               "Determine the exact age of an organism"
             ],
@@ -19485,9 +19485,9 @@ const curriculum: DayContent[] = [
           {
             "q": "In a Punnett square, the letters used to represent traits refer to ___.",
             "options": [
-              "The physical appearance of the parents only, with no connection to genes",
+              "The physical traits visible only in the grandparents of the offspring",
               "The alleles inherited from each parent",
-              "A concept unrelated to Punnett squares",
+              "The total number of cells produced during reproduction",
               "The total number of offspring produced"
             ],
             "answer": 1
@@ -19495,7 +19495,7 @@ const curriculum: DayContent[] = [
           {
             "q": "If both parents are heterozygous for a trait (Aa x Aa), what is the probability of an offspring being homozygous recessive (aa)?",
             "options": [
-              "A value unrelated to this cross",
+              "75 percent",
               "100 percent",
               "50 percent",
               "25 percent"
@@ -19508,14 +19508,14 @@ const curriculum: DayContent[] = [
               "A Punnett square guarantees the exact outcome for every individual offspring",
               "Punnett squares provide no useful information about genetic inheritance",
               "It systematically shows all possible allele combinations from a given genetic cross",
-              "This concept has no connection to genetics"
+              "A Punnett square can only be used after the offspring have already been born"
             ],
             "answer": 2
           },
           {
             "q": "Why does a dominant allele mask the effect of a recessive allele in a heterozygous individual?",
             "options": [
-              "This concept has no connection to how traits are inherited",
+              "A dominant allele is permanently destroyed whenever a recessive allele is also present",
               "A recessive allele always overrides a dominant allele when both are present",
               "Dominant and recessive alleles always produce a blended trait with no dominance",
               "The dominant allele’s trait is expressed even when only one copy is present alongside a recessive allele"
@@ -19536,8 +19536,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Hosting a sport mega-event typically requires significant investment in ___.",
             "options": [
-              "Agricultural land exclusively, with no connection to urban development",
-              "A concept unrelated to urban and economic geography",
+              "Agricultural subsidies for farmers near the event venues",
+              "Diplomatic negotiations with countries not participating in the event",
               "No infrastructure whatsoever, since events use only existing facilities",
               "Infrastructure, such as stadiums, transportation, and housing"
             ],
@@ -19549,7 +19549,7 @@ const curriculum: DayContent[] = [
               "A guaranteed elimination of all municipal debt",
               "An automatic and permanent decrease in unemployment with no other effects",
               "Increased tourism revenue and global visibility",
-              "A benefit unrelated to hosting sport mega-events"
+              "A permanent reduction in the city's infrastructure maintenance costs"
             ],
             "answer": 2
           },
@@ -19559,7 +19559,7 @@ const curriculum: DayContent[] = [
               "The high cost of infrastructure can leave a city with significant long-term debt",
               "These events never require any significant public spending",
               "Host cities never experience any economic risk",
-              "A concern unrelated to hosting sport mega-events"
+              "A guaranteed boost to the host city's international credit rating"
             ],
             "answer": 0
           },
@@ -19569,14 +19569,14 @@ const curriculum: DayContent[] = [
               "New stadiums, transportation systems, and housing are often built or expanded to accommodate the event",
               "Existing infrastructure is always sufficient with no new development required",
               "Land use in a host city never changes in preparation for such events",
-              "This concept has no connection to urban geography"
+              "Existing agricultural land is always protected from any new development"
             ],
             "answer": 0
           },
           {
             "q": "Why do some newly built stadiums and facilities become known as “white elephants” after a mega-event concludes?",
             "options": [
-              "This concept has no connection to hosting sport mega-events",
+              "\"White elephants\" refers to the mascots chosen for the event",
               "“White elephants” refers to facilities that generate consistent, long-term profit",
               "These facilities are always used extensively for decades after the event",
               "They can become costly to maintain with little ongoing use once the event has ended"
@@ -19603,7 +19603,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Parallel structure requires that items in a list or comparison ___.",
             "options": [
-              "A concept unrelated to grammar",
+              "Appear in alphabetical order within the sentence",
               "Always contain exactly one word each",
               "Use as many different grammatical forms as possible",
               "Share the same grammatical form"
@@ -19625,7 +19625,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It contains no grammatical inconsistency at all",
               "It mixes gerund forms (swimming, biking) with an infinitive form (to run) in the same list",
-              "A concept unrelated to parallel structure",
+              "It lists more than two activities in a single sentence",
               "It uses only one form throughout the entire sentence"
             ],
             "answer": 1
@@ -19633,7 +19633,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is parallel structure especially important in a sentence with a series of comparisons or a list?",
             "options": [
-              "This concept has no connection to sentence clarity",
+              "Parallel structure is a rule that applies only to poetry",
               "It creates balance and clarity, making the sentence easier for a reader to follow",
               "Lists and comparisons never benefit from consistent grammatical form",
               "Parallel structure always makes a sentence more difficult to understand"
@@ -19666,7 +19666,7 @@ const curriculum: DayContent[] = [
             "options": [
               "x squared plus bx plus c equals zero",
               "x plus b equals zero",
-              "A concept unrelated to algebra",
+              "x squared plus b equals c",
               "x squared equals negative one always"
             ],
             "answer": 0
@@ -19677,7 +19677,7 @@ const curriculum: DayContent[] = [
               "Immediately guessing a random value for x with no calculation",
               "Dividing every term by zero",
               "Factoring the expression into two binomials",
-              "A concept unrelated to quadratic equations"
+              "Dividing every term in the equation by x"
             ],
             "answer": 2
           },
@@ -19687,7 +19687,7 @@ const curriculum: DayContent[] = [
               "Setting each factor equal to zero and solving for x",
               "Adding the two binomials together",
               "Multiplying the two binomials back together and stopping",
-              "A concept unrelated to factoring"
+              "Multiplying the two binomials back together to check the sign"
             ],
             "answer": 0
           },
@@ -19707,7 +19707,7 @@ const curriculum: DayContent[] = [
               "Quadratic equations always have exactly zero solutions",
               "A quadratic equation can never have more than one solution",
               "Setting each of the two factors equal to zero can produce two distinct values of x",
-              "A concept unrelated to algebra"
+              "Quadratic equations always have exactly one repeated solution"
             ],
             "answer": 2
           }
@@ -19725,8 +19725,8 @@ const curriculum: DayContent[] = [
           {
             "q": "The ozone layer is primarily important because it absorbs ___.",
             "options": [
-              "Visible light exclusively, with no connection to radiation",
-              "A concept unrelated to Earth’s atmosphere",
+              "Only the small amount of heat radiated directly from Earth's surface",
+              "Nitrogen and oxygen molecules that absorb all forms of solar radiation",
               "Most of the Sun’s harmful ultraviolet radiation",
               "Carbon dioxide released from human activity"
             ],
@@ -19736,7 +19736,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these human-made chemicals has historically contributed significantly to ozone depletion?",
             "options": [
               "Chlorofluorocarbons (CFCs)",
-              "A substance unrelated to ozone depletion",
+              "Nitrogen gas released naturally by growing plants",
               "Water vapour",
               "Oxygen gas"
             ],
@@ -19747,7 +19747,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Ultraviolet radiation has no known effect on human health",
               "Increased ultraviolet radiation always improves human health outcomes",
-              "This concept has no connection to ozone depletion",
+              "Ultraviolet radiation only affects outdoor plants, not human skin",
               "It can increase the risk of skin cancer and other health problems"
             ],
             "answer": 3
@@ -19758,7 +19758,7 @@ const curriculum: DayContent[] = [
               "Ozone depletion can only be addressed by a single country acting alone",
               "Coordinated global action helped phase out the production of ozone-depleting substances",
               "International cooperation has had no measurable effect on the ozone layer",
-              "This concept has no relevance to environmental science"
+              "The Montreal Protocol mainly targeted reducing carbon dioxide emissions instead"
             ],
             "answer": 1
           },
@@ -19768,7 +19768,7 @@ const curriculum: DayContent[] = [
               "Global reductions in ozone-depleting chemicals have been linked to gradual healing of the ozone layer over time",
               "The ozone layer has shown no measurable change since international regulations were introduced",
               "Ozone-depleting chemicals were never successfully reduced through policy action",
-              "This concept has no connection to environmental science policy"
+              "The ozone layer's recovery resulted mainly from natural solar cycles rather than any policy"
             ],
             "answer": 0
           }
@@ -19817,7 +19817,7 @@ const curriculum: DayContent[] = [
             "q": "Canadian industry during World War II shifted to focus on ___.",
             "options": [
               "Producing military supplies and equipment",
-              "Goods entirely unrelated to the war",
+              "Luxury goods such as jewelry and fine clothing",
               "Only agricultural products with no industrial output",
               "Producing nothing of use to the war effort"
             ],
@@ -19828,7 +19828,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Domestic changes during the war had no lasting significance",
               "Canadian society remained completely unchanged throughout the war",
-              "These changes have no connection to Canadian history",
+              "Domestic changes during the war are studied only in American history courses",
               "To understand how wartime needs reshaped Canadian society and the economy"
             ],
             "answer": 3
@@ -19866,7 +19866,7 @@ const curriculum: DayContent[] = [
               "Summarize every detail that will appear later in the essay",
               "Avoid stating any purpose until the very end of the essay",
               "Engage the reader and establish a clear purpose or thesis",
-              "A concept unrelated to essay writing"
+              "Repeat the essay's title using slightly different wording"
             ],
             "answer": 2
           },
@@ -19876,15 +19876,15 @@ const curriculum: DayContent[] = [
               "Restate the introduction word for word with no variation",
               "Reinforce the main idea and leave the reader with a sense of closure",
               "Introduce entirely new evidence not mentioned anywhere earlier",
-              "A concept unrelated to essay writing"
+              "List every source cited throughout the essay"
             ],
             "answer": 1
           },
           {
             "q": "Which of these is a common technique for opening an engaging introduction?",
             "options": [
-              "A concept unrelated to writing introductions",
-              "Beginning with unrelated information that has no connection to the topic",
+              "Opening with a formal dictionary definition of the essay's title word",
+              "Starting with a long list of statistics with no context provided",
               "Starting with a relevant anecdote, question, or striking fact",
               "Starting with a full restatement of the entire essay’s content"
             ],
@@ -19894,7 +19894,7 @@ const curriculum: DayContent[] = [
             "q": "Why should a conclusion generally avoid introducing significant new evidence or arguments?",
             "options": [
               "A conclusion’s only purpose is to present new information",
-              "This concept has no connection to effective essay structure",
+              "New evidence belongs only in a footnote, never in the body text",
               "Conclusions should always introduce the essay’s most important evidence for the first time",
               "New evidence at the end can leave a reader confused rather than providing a sense of closure"
             ],
@@ -19906,7 +19906,7 @@ const curriculum: DayContent[] = [
               "It creates a sense of unity and closure by connecting the ending back to the essay’s opening",
               "A conclusion should never reference anything mentioned earlier in the essay",
               "Returning to the introduction’s ideas always weakens a conclusion",
-              "This concept has no relevance to writing an effective conclusion"
+              "This technique is only effective in essays shorter than one page"
             ],
             "answer": 0
           }
@@ -19988,7 +19988,7 @@ const curriculum: DayContent[] = [
               "Skipping directly to testing with no planning",
               "Clearly defining the problem to be solved",
               "Immediately building a final, finished product",
-              "A concept unrelated to engineering or technology"
+              "Selecting the final building materials before identifying what problem needs solving"
             ],
             "answer": 1
           },
@@ -19997,7 +19997,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A written description with no physical or testable model",
               "The final, unchangeable version of a product",
-              "A concept unrelated to the engineering design process",
+              "A finished, market-ready product built without any further testing",
               "An early, testable model of a proposed design or solution"
             ],
             "answer": 3
@@ -20005,7 +20005,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is testing an important stage in the engineering design process?",
             "options": [
-              "This concept has no connection to engineering",
+              "Testing matters only after a product has already reached consumers",
               "It reveals how well a prototype performs and identifies areas that may need improvement",
               "A design is always considered complete before any testing occurs",
               "Testing has no useful role in developing a design"
@@ -20015,7 +20015,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might engineers repeat several stages of the design process multiple times before finalizing a solution?",
             "options": [
-              "This concept has no connection to how engineering problems are solved",
+              "Engineers repeat stages only when they run out of available funding",
               "Refining a design based on testing results often requires revisiting earlier stages to improve the outcome",
               "The design process is always completed correctly on the very first attempt",
               "Repeating stages of the design process is never necessary or useful"
@@ -20026,7 +20026,7 @@ const curriculum: DayContent[] = [
             "q": "Why is brainstorming multiple possible solutions considered a valuable step before selecting a final design?",
             "options": [
               "Brainstorming multiple solutions never improves the quality of a final design",
-              "This concept has no relevance to the engineering design process",
+              "Brainstorming is useful only once a single final design has already been chosen",
               "Considering several options increases the likelihood of identifying an effective and practical solution",
               "Only a single possible solution should ever be considered for any given problem"
             ],
@@ -20047,7 +20047,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A process that occurs only within large urban centres",
               "A significant increase in population within rural areas",
-              "A concept unrelated to geography",
+              "A policy requiring farmers to relocate to specific regions",
               "People moving away from rural areas, often toward cities"
             ],
             "answer": 3
@@ -20057,7 +20057,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Smaller farms are combined into larger operations, often requiring fewer workers",
               "Farmland is converted entirely into urban housing overnight",
-              "A concept unrelated to rural land use",
+              "The process of converting farmland into protected wilderness reserves",
               "Small farms are divided into many even smaller plots"
             ],
             "answer": 0
@@ -20066,9 +20066,9 @@ const curriculum: DayContent[] = [
             "q": "Why might local services, such as schools and hospitals, decline in a rural area experiencing depopulation?",
             "options": [
               "Local services always improve as a rural population declines",
-              "This concept has no connection to rural geography",
+              "Local services in rural areas are funded entirely by provincial grants, regardless of population",
               "A shrinking population can reduce the demand and funding needed to sustain those services",
-              "Population change has no effect on the availability of local services"
+              "Schools and hospitals typically expand their services as a rural population shrinks"
             ],
             "answer": 2
           },
@@ -20078,17 +20078,17 @@ const curriculum: DayContent[] = [
               "Rural areas always offer more job opportunities than cities",
               "Young people never consider moving from rural areas to cities",
               "Cities often offer a wider range of jobs, education, and services than rural areas",
-              "This concept has no connection to rural depopulation"
+              "Young people who move to cities are required to return to rural areas after a set number of years"
             ],
             "answer": 2
           },
           {
             "q": "Why is rural depopulation an important issue for geographers studying land use change?",
             "options": [
-              "Rural depopulation has no effect on how land is used in a region",
+              "Rural depopulation causes land values to rise uniformly across every region",
               "Land use patterns never change as a result of population shifts",
               "It can significantly alter how land is used, farmed, and settled over time",
-              "This topic has no relevance to studying geography"
+              "Land use patterns in rural areas are shaped only by climate, not population change"
             ],
             "answer": 2
           }
@@ -20133,7 +20133,7 @@ const curriculum: DayContent[] = [
               "A sentence with no rhetorical purpose whatsoever",
               "A statement that seems contradictory but reveals a deeper truth",
               "A statement that is always literally false",
-              "A concept unrelated to literary analysis"
+              "A rhetorical question that expects no answer"
             ],
             "answer": 1
           },
@@ -20142,7 +20142,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A personal narrative with no instructional purpose",
               "An argument meant to persuade a reader toward one opinion",
-              "A concept unrelated to expository writing",
+              "A detailed description of a character's physical appearance",
               "How to complete a task or how something works through a sequence of steps"
             ],
             "answer": 3
@@ -20150,7 +20150,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A clickbait headline is designed primarily to ___.",
             "options": [
-              "A concept unrelated to media literacy",
+              "List the author's full credentials before the article begins",
               "Discourage readers from viewing the linked content",
               "Accurately and objectively summarize an article’s content",
               "Attract clicks using sensational or misleading language"
@@ -20160,7 +20160,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Parallel structure requires that items in a list or comparison ___.",
             "options": [
-              "A concept unrelated to grammar",
+              "Be separated using semicolons rather than commas",
               "Share the same grammatical form",
               "Always contain exactly one word each",
               "Use as many different grammatical forms as possible"
@@ -20272,7 +20272,7 @@ const curriculum: DayContent[] = [
               "Oxygen that can be used by the lungs",
               "Nutrients that can be absorbed into the bloodstream",
               "Waste products only, with no nutrients produced",
-              "A concept unrelated to biology"
+              "Vitamins absorbed directly into the lungs during breathing"
             ],
             "answer": 1
           },
@@ -20282,7 +20282,7 @@ const curriculum: DayContent[] = [
               "Digestive enzymes to the stomach",
               "Electrical signals throughout the body",
               "Oxygen directly to muscle tissue",
-              "A concept unrelated to biology"
+              "Hormones that regulate long-term bone growth throughout childhood"
             ],
             "answer": 1
           },
@@ -20291,7 +20291,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Predict the probability of specific genetic traits appearing in offspring",
               "Determine the exact age of an organism",
-              "A concept unrelated to genetics",
+              "Measure the exact number of chromosomes contained in a single cell",
               "Measure the physical size of an organism’s cells"
             ],
             "answer": 0
@@ -20300,8 +20300,8 @@ const curriculum: DayContent[] = [
             "q": "The ozone layer is primarily important because it absorbs ___.",
             "options": [
               "Carbon dioxide released from human activity",
-              "Visible light exclusively, with no connection to radiation",
-              "A concept unrelated to Earth’s atmosphere",
+              "Only the small amount of heat radiated directly from Earth's surface",
+              "Nitrogen and oxygen molecules that absorb all forms of solar radiation",
               "Most of the Sun’s harmful ultraviolet radiation"
             ],
             "answer": 3
@@ -20311,7 +20311,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It helps connect and reinforce related science concepts learned across recent lessons in biology and Earth systems",
               "Each topic must always be studied in isolation",
-              "These topics are entirely unrelated to each other",
+              "These four topics should always be studied in complete isolation from one another",
               "Review provides no benefit in science"
             ],
             "answer": 0
@@ -20347,7 +20347,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Weathering is best described as the process that ___.",
             "options": [
-              "A concept unrelated to physical geography",
+              "A chemical reaction that only takes place in laboratories",
               "Instantly transforms rock into soil with no gradual process",
               "Breaks down rock into smaller pieces through physical or chemical processes",
               "Transports weathered material from one location to another"
@@ -20360,7 +20360,7 @@ const curriculum: DayContent[] = [
               "The total population living within the city",
               "Its exact physical location and local features",
               "Its position relative to surrounding regions",
-              "A concept unrelated to urban geography"
+              "A measurement of how far a city is from the ocean"
             ],
             "answer": 1
           },
@@ -20370,7 +20370,7 @@ const curriculum: DayContent[] = [
               "A chain of saltwater lakes found only in Canada",
               "The largest group of freshwater lakes in the world",
               "A single small lake located entirely within Ontario",
-              "A concept unrelated to physical geography"
+              "A network of canals built to connect two oceans"
             ],
             "answer": 1
           },
@@ -20379,7 +20379,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Housing costs and household income",
               "The physical size of a home and its location only",
-              "A concept unrelated to urban geography",
+              "The average commute time for a city's workforce",
               "The number of homes built in a single year"
             ],
             "answer": 0
@@ -20388,7 +20388,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful to review physical and urban geography topics like weathering, site and situation, the Great Lakes, and housing affordability together?",
             "options": [
               "It reinforces how physical processes and human settlement patterns both shape the geography of a region",
-              "Each topic must be studied with no connection to the others",
+              "These topics are only relevant to students planning to become geographers",
               "Review is never useful in social studies",
               "These topics have no meaningful connections"
             ],
@@ -20475,7 +20475,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Graph both equations immediately",
               "Add both equations together without isolating anything",
-              "A concept unrelated to systems of equations",
+              "Multiply both equations by the same constant",
               "Isolate one variable in one equation"
             ],
             "answer": 3
@@ -20486,14 +20486,14 @@ const curriculum: DayContent[] = [
               "Ignore it completely",
               "Divide it by zero",
               "Substitute it into the other equation",
-              "A concept unrelated to substitution"
+              "Set it equal to zero and solve"
             ],
             "answer": 2
           },
           {
             "q": "If y equals 2x plus 1, and this is substituted into another equation, what are you solving for first?",
             "options": [
-              "A concept unrelated to substitution",
+              "The slope of the line only",
               "Nothing at all",
               "The value of y only",
               "The value of x"
@@ -20505,7 +20505,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Substitution is never useful in this situation",
               "It saves time by allowing direct substitution instead of additional algebraic manipulation",
-              "This concept has no connection to algebra",
+              "It eliminates the need to check the solution afterward",
               "Substitution only works when no variable is isolated"
             ],
             "answer": 1
@@ -20597,7 +20597,7 @@ const curriculum: DayContent[] = [
             "q": "What do renewable energy grids connect power sources to?",
             "options": [
               "Only remote, unpopulated areas",
-              "A concept unrelated to geography",
+              "Military communication satellites",
               "Nothing at all",
               "Homes and businesses"
             ],
@@ -20607,7 +20607,7 @@ const curriculum: DayContent[] = [
             "q": "Name one renewable power source that might connect to an energy grid, such as wind or solar.",
             "options": [
               "Coal",
-              "A concept unrelated to renewable energy",
+              "Natural gas",
               "Wind",
               "Oil"
             ],
@@ -20616,9 +20616,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Does building a renewable energy grid require careful geographic planning?",
             "options": [
-              "Geography has no connection to energy grids",
+              "Energy grids are planned using only financial budgets, with geography decided afterward",
               "Yes",
-              "A concept unrelated to renewable energy grids",
+              "Grid planning only considers political boundaries, never terrain or climate",
               "No, energy grids require no planning at all"
             ],
             "answer": 1
@@ -20626,9 +20626,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a region with strong, consistent winds be an ideal location for a wind farm connected to the grid?",
             "options": [
-              "This concept has no connection to geography",
+              "Wind farms are placed based on soil fertility rather than wind patterns",
               "Wind farms work equally well in every location regardless of wind patterns",
-              "Wind speed has no connection to how much electricity a turbine generates",
+              "Wind speed matters only for aesthetic reasons, not electricity output",
               "Consistent wind can generate more reliable and efficient electricity"
             ],
             "answer": 3
@@ -20636,7 +20636,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might connecting renewable energy sources across a large geographic area help balance electricity supply?",
             "options": [
-              "This concept has no relevance to geography",
+              "Connecting regions mainly helps reduce road traffic between cities",
               "Connecting energy sources across regions never has any benefit",
               "Renewable energy grids only ever work within a single small area",
               "If one area lacks sun or wind, energy from another connected region can help meet demand"
@@ -20666,7 +20666,7 @@ const curriculum: DayContent[] = [
               "A math textbook chapter",
               "A previously published opinion piece",
               "A weather forecast",
-              "A concept unrelated to writing"
+              "A list of grammar rules found in a style guide"
             ],
             "answer": 1
           },
@@ -20674,7 +20674,7 @@ const curriculum: DayContent[] = [
             "q": "Should an op-ed rebuttal be backed by evidence and clear reasoning?",
             "options": [
               "Only vague opinions are allowed, with no reasoning at all",
-              "A concept unrelated to writing",
+              "Only if the original opinion piece was written by a professional journalist",
               "No, rebuttals never require any evidence",
               "Yes"
             ],
@@ -20684,7 +20684,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a writer directly quote the original article when writing a rebuttal?",
             "options": [
               "It ensures the counterargument accurately addresses the original claims",
-              "This concept has no connection to writing",
+              "Quoting the article means agreeing with every claim the original author made",
               "Quoting an article never helps strengthen a rebuttal",
               "Rebuttals should never reference the original argument at all"
             ],
@@ -20706,7 +20706,7 @@ const curriculum: DayContent[] = [
               "Tone never affects how persuasive an argument seems",
               "An aggressive tone always makes a rebuttal more convincing",
               "A respectful, reasoned tone can make an argument more credible and persuasive",
-              "This concept has no connection to writing"
+              "Using slang and casual phrasing always makes a rebuttal sound more professional"
             ],
             "answer": 2
           }
@@ -20725,7 +20725,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They are multiplied together",
               "They are subtracted",
-              "A concept unrelated to scientific notation",
+              "They stay exactly the same",
               "They are added together"
             ],
             "answer": 3
@@ -20733,7 +20733,7 @@ const curriculum: DayContent[] = [
           {
             "q": "When dividing two numbers in scientific notation, what happens to the exponents of 10?",
             "options": [
-              "A concept unrelated to scientific notation",
+              "They are multiplied together",
               "They are divided",
               "They are subtracted",
               "They are added together"
@@ -20754,7 +20754,7 @@ const curriculum: DayContent[] = [
             "q": "Why is scientific notation useful when calculating with very large astronomical distances?",
             "options": [
               "Scientific notation only works with small, simple numbers",
-              "This concept has no connection to math",
+              "It rounds large numbers to the nearest whole number",
               "Scientific notation never simplifies any large numbers",
               "It simplifies extremely large numbers into a compact, manageable form"
             ],
@@ -20846,7 +20846,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What do undersea internet cables carry across ocean floors?",
             "options": [
-              "A concept unrelated to geography",
+              "Electricity generated by offshore wind farms",
               "Only local phone calls within one country",
               "Global internet traffic",
               "Ocean water for desalination"
@@ -20858,7 +20858,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No, undersea cables never connect separate continents",
               "Undersea cables only exist within a single country’s borders",
-              "A concept unrelated to internet infrastructure",
+              "Undersea cables are used only for scientific ocean research, not communication",
               "Yes"
             ],
             "answer": 3
@@ -20866,9 +20866,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Does most global internet traffic travel through undersea cables?",
             "options": [
-              "A concept unrelated to internet geography",
+              "Most internet traffic is transmitted through underground telephone lines instead",
               "No, internet traffic only ever travels through satellites",
-              "Undersea cables have no connection to internet traffic at all",
+              "Undersea cables are used only as a backup when satellites fail",
               "Yes"
             ],
             "answer": 3
@@ -20879,17 +20879,17 @@ const curriculum: DayContent[] = [
               "A large amount of a region’s internet traffic could depend on a limited number of cable routes",
               "Every region has unlimited alternative routes for internet traffic",
               "Damage to undersea cables never has any effect on internet access",
-              "This concept has no connection to geography"
+              "Cable damage is always repaired instantly with no disruption to service"
             ],
             "answer": 0
           },
           {
             "q": "Why is the geography of undersea cable routes an important consideration for global communication infrastructure?",
             "options": [
-              "This concept has no relevance to social studies",
+              "Cable routes are chosen using only the day's weather forecast",
               "Cable routes must navigate ocean depths, geopolitical boundaries, and geographic obstacles",
               "Undersea cables can be placed anywhere with no geographic planning needed",
-              "Geography has no connection to how undersea cables are planned"
+              "Undersea cables can be installed in a straight line regardless of ocean depth"
             ],
             "answer": 1
           }
@@ -20987,14 +20987,14 @@ const curriculum: DayContent[] = [
               "The median",
               "The maximum",
               "The minimum",
-              "A concept unrelated to data"
+              "The range of the data set"
             ],
             "answer": 0
           },
           {
             "q": "What does the first quartile represent in a data set?",
             "options": [
-              "A concept unrelated to quartiles",
+              "The value below which 75 percent of the data falls",
               "The value below which 25 percent of the data falls",
               "The exact average of the entire data set",
               "The single highest value in the data set"
@@ -21005,7 +21005,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a box-and-whisker plot be useful for comparing test scores between two different classes?",
             "options": [
               "Test scores can never be organized into a box-and-whisker plot",
-              "This concept has no connection to data management",
+              "It only shows the mean of each data set",
               "It shows the spread and central values clearly, making comparison easier",
               "Box-and-whisker plots never help with comparing data sets"
             ],
@@ -21035,7 +21035,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What builds a coral reef?",
             "options": [
-              "A concept unrelated to marine biology",
+              "Thick layers of volcanic ash hardened by heat over centuries",
               "Large boulders that fall from cliffs",
               "Colonies of tiny coral organisms",
               "Sand deposited by ocean currents"
@@ -21047,7 +21047,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes",
               "Only one single species can ever live near a coral reef",
-              "A concept unrelated to coral reefs",
+              "Only a single species of fish can survive near any coral reef",
               "No, coral reefs support no marine life at all"
             ],
             "answer": 0
@@ -21056,7 +21056,7 @@ const curriculum: DayContent[] = [
             "q": "What can rising ocean temperatures cause in coral reefs?",
             "options": [
               "No change of any kind",
-              "A concept unrelated to coral reefs",
+              "A natural thickening of coral's skeleton that makes it more colourful",
               "Increased coral growth with no negative effects",
               "Coral bleaching"
             ],
@@ -21066,7 +21066,7 @@ const curriculum: DayContent[] = [
             "q": "Why does coral bleaching occur when ocean water becomes too warm?",
             "options": [
               "Heat stress causes coral to expel the colourful algae that provide them with food and colour",
-              "This concept has no connection to marine biology",
+              "Coral bleaching happens because algae multiply too fast in warm water and crowd out the coral",
               "Coral reefs are never affected by ocean temperature",
               "Warmer water always makes coral healthier and more colourful"
             ],
@@ -21075,10 +21075,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is protecting coral reefs considered important for global biodiversity?",
             "options": [
-              "Coral reefs have no connection to global biodiversity",
+              "Coral reefs provide habitat for only one species of fish at a time",
               "They support a huge variety of marine species that depend on the reef ecosystem",
               "Marine species never depend on coral reefs for survival",
-              "This concept has no relevance to science"
+              "Protecting coral reefs mainly benefits the fishing industry rather than biodiversity"
             ],
             "answer": 1
           }
@@ -21097,7 +21097,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They are all becoming more widely spoken",
               "They are being replaced instantly with no loss of any kind",
-              "A concept unrelated to geography",
+              "They are gaining new speakers faster than at any point in history",
               "They are at risk of disappearing"
             ],
             "answer": 3
@@ -21106,19 +21106,19 @@ const curriculum: DayContent[] = [
             "q": "Are efforts being made to document and preserve endangered languages?",
             "options": [
               "No, no effort has ever been made to preserve any language",
-              "Preservation efforts have no connection to endangered languages",
+              "Preservation efforts focus only on written languages, never spoken ones",
               "Yes",
-              "A concept unrelated to language preservation"
+              "Language preservation is handled exclusively by international courts"
             ],
             "answer": 2
           },
           {
             "q": "Can geography play a role in why certain languages become endangered?",
             "options": [
-              "A concept unrelated to language extinction",
+              "A language's survival depends only on how many countries officially recognize it",
               "Yes",
               "Every language faces the exact same risk regardless of location",
-              "No, geography has no connection to language survival"
+              "Language survival is decided only by government policy, regardless of where speakers live"
             ],
             "answer": 1
           },
@@ -21127,8 +21127,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Smaller, more isolated populations may have fewer remaining speakers passing on the language",
               "Remote communities never face any risk of losing their language",
-              "Language risk has no connection to the size of a speaker population",
-              "This concept has no connection to geography"
+              "Language risk depends only on how old a language is, not its number of speakers",
+              "Remote communities are automatically protected from losing their language"
             ],
             "answer": 0
           },
@@ -21138,7 +21138,7 @@ const curriculum: DayContent[] = [
               "Every language in the world carries the exact same information",
               "Language carries unique knowledge, history, and identity tied to a specific place and people",
               "Preserving a language never has any cultural value",
-              "This concept has no relevance to social studies"
+              "Language preservation matters mainly for tourism revenue, not cultural identity"
             ],
             "answer": 1
           }
@@ -21163,7 +21163,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A neologism",
               "A homophone",
-              "A concept unrelated to vocabulary",
+              "An antonym",
               "A synonym"
             ],
             "answer": 0
@@ -21182,7 +21182,7 @@ const curriculum: DayContent[] = [
             "q": "Are neologisms often created to describe new technology, trends, or ideas?",
             "options": [
               "No, neologisms are never connected to new ideas",
-              "A concept unrelated to neologisms",
+              "Only professional linguists are allowed to create new words",
               "Yes",
               "Neologisms only ever describe ancient concepts"
             ],
@@ -21194,14 +21194,14 @@ const curriculum: DayContent[] = [
               "Neologisms are never actually adopted into everyday language",
               "New words are never created to describe modern activities",
               "It fills a need to describe a new activity or concept that did not previously have a common name",
-              "This concept has no connection to vocabulary"
+              "Crowdfunding became popular mainly because of its unusual spelling"
             ],
             "answer": 2
           },
           {
             "q": "Why do dictionaries sometimes add neologisms years after they were first coined?",
             "options": [
-              "This concept has no connection to vocabulary",
+              "Dictionaries wait until a word appears in an ancient Latin text",
               "Dictionaries aim to reflect language as it is actually used once a word becomes widely adopted",
               "Dictionaries never add any new words at all",
               "Neologisms are always immediately removed from language"
@@ -21225,7 +21225,7 @@ const curriculum: DayContent[] = [
               "No, direct variation never involves a constant multiple",
               "Yes",
               "The relationship is always completely random",
-              "A concept unrelated to variation"
+              "Only when the constant is negative"
             ],
             "answer": 1
           },
@@ -21233,7 +21233,7 @@ const curriculum: DayContent[] = [
             "q": "Does partial variation include an additional fixed starting amount?",
             "options": [
               "No, partial variation never includes a fixed amount",
-              "A concept unrelated to partial variation",
+              "Only when the relationship is graphed as a curve",
               "A fixed amount only appears in direct variation, never partial",
               "Yes"
             ],
@@ -21244,7 +21244,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Partial variation",
               "Direct variation",
-              "A concept unrelated to variation",
+              "Direct variation, since the rate per kilometre stays constant",
               "Neither type of variation"
             ],
             "answer": 0
@@ -21254,7 +21254,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Direct variation",
               "Partial variation",
-              "A concept unrelated to variation",
+              "Partial variation, since the price still increases with quantity",
               "Neither type of variation"
             ],
             "answer": 0
@@ -21263,7 +21263,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful to recognize whether a real-world situation follows direct or partial variation?",
             "options": [
               "Recognizing the type of variation never helps with solving a problem",
-              "This concept has no connection to math",
+              "Because every real-world situation is actually a mix of both types",
               "Direct and partial variation are always modelled with the exact same equation",
               "It helps set up the correct equation to model and solve the situation"
             ],
@@ -21346,7 +21346,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only a single country’s local farmers markets",
               "The production, transportation, and sale of goods",
-              "A concept unrelated to geography",
+              "Only the marketing and advertising of a single product",
               "Nothing at all connected to goods or trade"
             ],
             "answer": 1
@@ -21357,14 +21357,14 @@ const curriculum: DayContent[] = [
               "Extreme weather",
               "A calm, sunny day with no unusual events",
               "A holiday celebrated locally",
-              "A concept unrelated to supply chains"
+              "A routine annual inventory count"
             ],
             "answer": 0
           },
           {
             "q": "Can a supply chain disruption affect the availability of goods worldwide?",
             "options": [
-              "A concept unrelated to supply chains",
+              "Supply chain disruptions are always resolved within the same day",
               "Yes",
               "No, disruptions never affect availability anywhere",
               "Only a single store is ever affected by any disruption"
@@ -21377,7 +21377,7 @@ const curriculum: DayContent[] = [
               "Port closures never have any effect beyond their own local area",
               "Every country only ever relies on goods produced within its own borders",
               "Goods often pass through multiple countries and ports before reaching their final destination",
-              "This concept has no connection to geography"
+              "Port closures only affect the ships docked there, not goods already shipped"
             ],
             "answer": 2
           },
@@ -21385,7 +21385,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding the geography of supply chains useful for predicting how global events might affect local availability of goods?",
             "options": [
               "Global events never have any effect on what is available in local stores",
-              "This concept has no relevance to social studies",
+              "Supply chain geography is useful only for tracking a single company's profits",
               "Supply chain geography never has any connection to local availability of goods",
               "It helps identify how disruptions in one region can ripple outward to affect other places"
             ],
@@ -21472,7 +21472,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does correlation describe?",
             "options": [
-              "A concept unrelated to data",
+              "The exact numerical value of a single variable",
               "A relationship between two variables",
               "The exact cause of an event",
               "A single, unrelated fact"
@@ -21482,7 +21482,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does causation mean?",
             "options": [
-              "A concept unrelated to data analysis",
+              "Two variables that increase at exactly the same rate",
               "One variable directly causes a change in another",
               "Correlation and causation always mean the exact same thing",
               "Two variables have absolutely no connection at all"
@@ -21494,7 +21494,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Correlation and causation are identical concepts",
               "No",
-              "A concept unrelated to data",
+              "Only when the correlation coefficient equals exactly 1",
               "Yes, correlation always proves causation"
             ],
             "answer": 1
@@ -21505,7 +21505,7 @@ const curriculum: DayContent[] = [
               "This proves a direct cause-and-effect relationship",
               "No, both are likely related to a third factor, the rainy weather",
               "Yes, umbrellas directly cause an increase in raincoat sales",
-              "A concept unrelated to correlation and causation"
+              "This shows umbrellas and raincoats are sold in the same stores"
             ],
             "answer": 1
           },
@@ -21513,7 +21513,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important to understand the difference between correlation and causation when interpreting statistics?",
             "options": [
               "The two concepts are always interchangeable with no real difference",
-              "This concept has no connection to data analysis",
+              "Because correlation is always stronger evidence than an experiment",
               "Correlation and causation never need to be distinguished from each other",
               "Mistaking correlation for causation could lead to incorrect conclusions about a relationship"
             ],
@@ -21596,7 +21596,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A process that adds salt to fresh water",
               "The process of removing salt from seawater to produce fresh water",
-              "A concept unrelated to geography",
+              "A method of converting seawater into electricity",
               "A method of purifying air, not water"
             ],
             "answer": 1
@@ -21604,8 +21604,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Is desalination an increasingly important technology in regions facing water scarcity?",
             "options": [
-              "No, desalination has no connection to water scarcity",
-              "A concept unrelated to desalination",
+              "Desalination is used mainly in regions that already have abundant fresh water",
+              "Desalination plants primarily produce salt for industrial use, not fresh water",
               "Yes",
               "Water scarcity never affects any region in the world"
             ],
@@ -21616,15 +21616,15 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes",
               "Desalination only ever removes fresh water from the ocean",
-              "No, desalination has no connection to producing fresh water",
-              "A concept unrelated to desalination"
+              "Desalination removes minerals from fresh water to make it saltier",
+              "Desalination is a process used only to purify rainwater"
             ],
             "answer": 0
           },
           {
             "q": "Why might a coastal region facing limited fresh water resources invest in desalination technology?",
             "options": [
-              "This concept has no connection to geography",
+              "Desalination plants are built primarily to attract tourism, not to supply water",
               "Coastal regions never face any water scarcity challenges",
               "It provides access to an abundant source of seawater that can be converted into usable fresh water",
               "Desalination provides no benefit to a region facing water scarcity"
@@ -21637,7 +21637,7 @@ const curriculum: DayContent[] = [
               "Desalination never requires any energy or cost considerations",
               "Desalination can require significant energy and infrastructure investment, affecting its overall feasibility",
               "Every region can build a desalination plant with no resource considerations at all",
-              "This concept has no relevance to social studies"
+              "Desalination plants require no ongoing maintenance once they are built"
             ],
             "answer": 1
           }
@@ -21662,7 +21662,7 @@ const curriculum: DayContent[] = [
             "q": "What kind of writing expresses an individual’s core beliefs and values?",
             "options": [
               "A personal manifesto",
-              "A concept unrelated to writing",
+              "A legal contract",
               "A grocery list",
               "A weather report"
             ],
@@ -21673,7 +21673,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Tone never matters in a personal manifesto",
               "No, it is always written in a hesitant, uncertain tone",
-              "A concept unrelated to writing",
+              "Only if it is written entirely in rhymed verse",
               "Yes"
             ],
             "answer": 3
@@ -21681,7 +21681,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might someone write a personal manifesto?",
             "options": [
-              "This concept has no connection to writing",
+              "To summarize the biography of a famous historical figure",
               "Manifestos are only ever written by famous historical figures",
               "To clarify and express what they believe in and value most",
               "Personal manifestos serve no real purpose"
@@ -21703,8 +21703,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Putting beliefs and values into words can help someone reflect on what truly matters to them",
               "Writing a manifesto never helps clarify anyone’s goals",
-              "This concept has no connection to writing",
-              "Personal manifestos have no connection to future goals"
+              "Only by listing mistakes from the past, never future intentions",
+              "Manifestos are meant only to record goals someone has already achieved"
             ],
             "answer": 0
           }
@@ -21722,7 +21722,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is one factor to examine when comparing loan options?",
             "options": [
-              "A concept unrelated to financial literacy",
+              "The total number of payments only, regardless of their size",
               "Interest rates",
               "The lender’s office location only",
               "The colour of the lender’s logo"
@@ -21732,7 +21732,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Does a higher interest rate generally mean paying more over the life of a loan?",
             "options": [
-              "A concept unrelated to loans",
+              "Only if the loan also has a shorter repayment term",
               "Yes",
               "A higher interest rate always means paying less overall",
               "No, interest rates never affect total repayment cost"
@@ -21742,9 +21742,9 @@ const curriculum: DayContent[] = [
           {
             "q": "What is one reason a loan with a longer repayment term might cost more overall, even with smaller monthly payments?",
             "options": [
-              "Monthly payments have no connection to total loan cost",
+              "Monthly payments determine total cost on their own, regardless of interest",
               "Interest accumulates over a longer period of time",
-              "This concept has no connection to financial literacy",
+              "A shorter loan term always has a higher interest rate than a longer one",
               "Longer repayment terms never affect the total cost of a loan"
             ],
             "answer": 1
@@ -21752,7 +21752,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is comparing the total cost of a loan more useful than just comparing monthly payments alone?",
             "options": [
-              "This concept has no connection to financial literacy",
+              "Monthly payments already account for the total interest paid",
               "Monthly payments always give a complete picture of a loan’s true cost",
               "A lower monthly payment could still result in a higher total cost due to a longer term or higher interest",
               "Total cost is never affected by a loan’s length or interest rate"
@@ -21763,7 +21763,7 @@ const curriculum: DayContent[] = [
             "q": "Why might someone choose a loan with a shorter term despite higher monthly payments?",
             "options": [
               "It could result in paying less interest overall and paying off the debt sooner",
-              "This concept has no connection to financial literacy",
+              "Shorter loan terms always carry higher interest rates than longer terms",
               "Shorter loan terms always cost more overall than longer terms",
               "Loan term length never affects the total amount paid"
             ],
@@ -21784,7 +21784,7 @@ const curriculum: DayContent[] = [
             "q": "What are bioplastics made from?",
             "options": [
               "Only petroleum, just like traditional plastic",
-              "A concept unrelated to materials science",
+              "Only materials mined from deep underground rock deposits",
               "Only metal and glass",
               "Renewable sources, such as corn starch or sugarcane"
             ],
@@ -21793,8 +21793,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Are bioplastics considered a potential alternative to traditional petroleum-based plastics?",
             "options": [
-              "No, bioplastics have no connection to traditional plastics",
-              "A concept unrelated to bioplastics",
+              "No, bioplastics are chemically identical to petroleum-based plastics",
+              "Bioplastics are manufactured using the same refining process as crude oil",
               "Yes",
               "Bioplastics are exactly the same as petroleum-based plastics"
             ],
@@ -21803,7 +21803,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Name one renewable source that can be used to make bioplastics, such as corn starch.",
             "options": [
-              "A concept unrelated to bioplastics",
+              "Natural gas extracted from underground reservoirs",
               "Crude oil",
               "Corn starch",
               "Coal"
@@ -21813,7 +21813,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might bioplastics be considered a more sustainable option than some traditional plastics?",
             "options": [
-              "This concept has no connection to materials science",
+              "Bioplastics always cost more to produce than petroleum-based plastics",
               "Bioplastics have no environmental benefit compared to traditional plastics",
               "Traditional plastics are always more sustainable than bioplastics",
               "They can be made from renewable resources rather than a limited, non-renewable resource like petroleum"
@@ -21823,7 +21823,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do scientists continue researching how bioplastics break down in different environments?",
             "options": [
-              "This concept has no relevance to science",
+              "Bioplastics decompose at exactly the same rate in every environment",
               "Understanding decomposition helps evaluate whether bioplastics truly reduce environmental waste",
               "Bioplastics never actually decompose under any circumstances",
               "Bioplastic decomposition has already been fully studied with nothing left to learn"
@@ -21847,14 +21847,14 @@ const curriculum: DayContent[] = [
               "A small rural village",
               "A city with a population over 10 million people",
               "A city with no residents at all",
-              "A concept unrelated to geography"
+              "A city that specializes only in agricultural production"
             ],
             "answer": 1
           },
           {
             "q": "What is an informal settlement?",
             "options": [
-              "A concept unrelated to urban geography",
+              "A government-subsidized housing project with full utilities",
               "A rural farming community",
               "A carefully planned suburb with full infrastructure",
               "An area that develops without official planning or infrastructure"
@@ -21866,7 +21866,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No, informal settlements never occur near any megacity",
               "Yes",
-              "A concept unrelated to megacities",
+              "Informal settlements are found only in rural farming regions",
               "Megacities always have complete, formal planning throughout"
             ],
             "answer": 1
@@ -21876,7 +21876,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Infrastructure and housing development may not keep pace with the speed of population growth",
               "Informal settlements only ever appear in areas with no population growth at all",
-              "This concept has no connection to geography",
+              "Rapid population growth always leads to immediate government-funded housing",
               "Rapid population growth never leads to any housing challenges"
             ],
             "answer": 0
@@ -21886,8 +21886,8 @@ const curriculum: DayContent[] = [
             "options": [
               "These areas often lack the official infrastructure planning that formal neighbourhoods receive",
               "Informal settlements always have exactly the same infrastructure as formal neighbourhoods",
-              "This concept has no relevance to social studies",
-              "Access to services has no connection to how a settlement developed"
+              "Access to clean water depends only on a region's climate, not its infrastructure planning",
+              "Electricity and water access is guaranteed equally in formal and informal settlements"
             ],
             "answer": 0
           }
@@ -21911,7 +21911,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does AI-generated content include, besides text?",
             "options": [
-              "A concept unrelated to media literacy",
+              "Only audio recordings made before computers existed",
               "Only printed newspapers",
               "Only handwritten letters",
               "Images and video"
@@ -21921,9 +21921,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Does AI-generated content raise questions about authenticity and authorship?",
             "options": [
-              "Authenticity has no connection to AI-generated content",
+              "Authorship questions apply only to traditional print journalism, never digital media",
               "No, AI-generated content raises no questions at all",
-              "A concept unrelated to AI-generated content",
+              "Such questions only arise when the content includes video, never text or images",
               "Yes"
             ],
             "answer": 3
@@ -21933,7 +21933,7 @@ const curriculum: DayContent[] = [
             "options": [
               "AI tools can produce highly realistic images that closely mimic human-created work",
               "AI-generated images are always obviously different from human-created ones",
-              "This concept has no connection to media literacy",
+              "Because AI-generated images are always clearly watermarked for identification",
               "AI-generated content never resembles anything created by a person"
             ],
             "answer": 0
@@ -21941,7 +21941,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it important for audiences to consider the source and authorship of content they encounter online?",
             "options": [
-              "This concept has no connection to media literacy",
+              "Because only content from official news organizations needs this kind of scrutiny",
               "The source of content never affects how it should be evaluated",
               "Understanding whether content is AI-generated can affect how much they trust or verify its accuracy",
               "All online content is always completely reliable regardless of its source"
@@ -21952,7 +21952,7 @@ const curriculum: DayContent[] = [
             "q": "Why might questions about authorship become more complex as AI-generated content becomes more common?",
             "options": [
               "It can become harder to determine who or what is truly responsible for creating a piece of content",
-              "This concept has no relevance to media literacy",
+              "Because copyright law automatically assigns authorship of AI content to the AI program",
               "Authorship has always been perfectly clear with no complexity at all",
               "AI-generated content never raises any questions about who created it"
             ],
@@ -21972,7 +21972,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does a weighted average account for that a simple average does not?",
             "options": [
-              "A concept unrelated to averages",
+              "The total number of values in the data set",
               "The relative importance of each value",
               "Only the largest value in a set",
               "Only the smallest value in a set"
@@ -21984,8 +21984,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes",
               "Percentages are never used in weighted averages",
-              "A concept unrelated to grading",
-              "No, this has no connection to weighted averages"
+              "Only if the percentages happen to add up to exactly 50 percent each",
+              "No, because weighted averages cannot use percentages as weights"
             ],
             "answer": 0
           },
@@ -21993,7 +21993,7 @@ const curriculum: DayContent[] = [
             "q": "If a test is worth twice as much as a quiz in a weighted average, does the test count more or less toward the final grade?",
             "options": [
               "More",
-              "A concept unrelated to weighted averages",
+              "Only if the quiz score is higher than the test score",
               "Less",
               "The same amount as the quiz"
             ],
@@ -22004,7 +22004,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Every assessment should always count exactly the same amount",
               "A weighted average never gives a more accurate reflection of performance",
-              "This concept has no connection to math",
+              "Because it always produces a higher final grade than a simple average",
               "It reflects that some assessments, like exams, may matter more than others, like homework"
             ],
             "answer": 3
@@ -22015,7 +22015,7 @@ const curriculum: DayContent[] = [
               "The assignments",
               "They always have an equal impact",
               "The final exam",
-              "A concept unrelated to weighted averages"
+              "The assignments, since they are completed earlier in the term"
             ],
             "answer": 2
           }
@@ -22094,7 +22094,7 @@ const curriculum: DayContent[] = [
             "q": "What do climate adaptation strategies help communities do?",
             "options": [
               "Ignore climate change completely",
-              "A concept unrelated to geography",
+              "Predict the exact date of future natural disasters",
               "Adjust to the effects of a changing climate",
               "Reverse climate change entirely on their own"
             ],
@@ -22104,7 +22104,7 @@ const curriculum: DayContent[] = [
             "q": "Name one example of a climate adaptation strategy, such as building sea walls.",
             "options": [
               "Building sea walls",
-              "A concept unrelated to climate adaptation",
+              "Relocating a region's capital city every decade",
               "Ignoring rising sea levels",
               "Removing all environmental protections"
             ],
@@ -22113,9 +22113,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Do climate adaptation strategies often depend on a community’s specific region and needs?",
             "options": [
-              "Region has no connection to which strategies are useful",
+              "Adaptation strategies are chosen using a national lottery system",
               "No, every community uses the exact same strategy regardless of location",
-              "A concept unrelated to climate adaptation",
+              "Climate adaptation strategies are identical in every country regardless of geography",
               "Yes"
             ],
             "answer": 3
@@ -22125,8 +22125,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Rising sea levels could threaten coastal areas, and sea walls can help reduce flooding risk",
               "Coastal communities are never affected by rising sea levels",
-              "This concept has no connection to geography",
-              "Sea walls have no connection to protecting coastal communities"
+              "Sea walls are built mainly to improve a coastline's scenic appearance",
+              "Sea walls are used only to block noise from ocean waves"
             ],
             "answer": 0
           },
@@ -22135,8 +22135,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Rainfall patterns never change due to a shifting climate",
               "Changing rainfall patterns could make traditional crops harder to grow reliably",
-              "This concept has no relevance to social studies",
-              "Drought-resistant crops have no connection to climate adaptation"
+              "Drought-resistant crops are developed only for export markets, not local needs",
+              "Climate adaptation in farming only involves building irrigation canals"
             ],
             "answer": 1
           }
@@ -22163,7 +22163,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Nothing at all",
               "Only a single word",
-              "A concept unrelated to grammar",
+              "Only the subject of an independent clause",
               "An entire sentence"
             ],
             "answer": 3
@@ -22172,7 +22172,7 @@ const curriculum: DayContent[] = [
             "q": "An absolute phrase often combines a noun with what other type of word?",
             "options": [
               "A conjunction only",
-              "A concept unrelated to absolute phrases",
+              "An adverb only",
               "A participle",
               "A preposition only"
             ],
@@ -22202,7 +22202,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a writer use an absolute phrase to add sentence variety?",
             "options": [
               "It can add vivid, descriptive detail while breaking up repetitive sentence patterns",
-              "This concept has no connection to grammar",
+              "Because it eliminates the need for a main verb in the sentence",
               "Absolute phrases always make sentences less descriptive",
               "Absolute phrases never add any variety to writing"
             ],
@@ -22222,7 +22222,7 @@ const curriculum: DayContent[] = [
           {
             "q": "To find the volume of a composite solid made of a cylinder and a hemisphere, what should you do?",
             "options": [
-              "A concept unrelated to composite solids",
+              "Multiply the volume of the cylinder by the volume of the hemisphere",
               "Only calculate the volume of the cylinder",
               "Only calculate the volume of the hemisphere",
               "Find the volume of each part and add them together"
@@ -22245,7 +22245,7 @@ const curriculum: DayContent[] = [
               "Breaking a solid into simpler shapes never helps calculate its volume",
               "It makes the calculation more manageable by using known volume formulas for each simple shape",
               "Composite solids can never be broken into simpler shapes",
-              "This concept has no connection to geometry"
+              "Because composite solids always have less volume than simple shapes"
             ],
             "answer": 1
           },
@@ -22263,7 +22263,7 @@ const curriculum: DayContent[] = [
             "q": "Why might understanding composite solid volume be useful for designing a real object, like a storage silo?",
             "options": [
               "Composite solid volume never applies to any real-world object",
-              "This concept has no connection to geometry",
+              "Because storage silos are always perfect cylinders with no other shapes",
               "Many real objects combine simple shapes, so this skill helps calculate their total capacity",
               "Storage silos are always made of a single, simple shape"
             ],
@@ -22346,7 +22346,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only underwater research stations",
               "Launch sites and infrastructure",
-              "A concept unrelated to geography",
+              "Underground subway systems for major cities",
               "Nothing at all connected to space"
             ],
             "answer": 1
@@ -22354,8 +22354,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Does the growth of commercial spaceflight raise new geographic questions?",
             "options": [
-              "Geography has no connection to spaceflight infrastructure",
-              "A concept unrelated to spaceflight",
+              "Commercial spaceflight only raises questions about engineering, never location",
+              "Spaceflight companies choose launch sites using a random lottery system",
               "No, commercial spaceflight raises no geographic questions at all",
               "Yes"
             ],
@@ -22367,7 +22367,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "No, location and safety are never considered for launch sites",
               "Launch sites can be built anywhere with no special considerations",
-              "A concept unrelated to commercial spaceflight"
+              "Launch site location is determined only by a company's headquarters address"
             ],
             "answer": 0
           },
@@ -22376,7 +22376,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Launch sites are never influenced by nearby population density",
               "It can allow rockets to launch over open water, reducing risk to populated areas",
-              "This concept has no connection to geography",
+              "Coastal launch sites are chosen mainly because they are cheaper to build",
               "Coastlines have no advantage for launching spacecraft"
             ],
             "answer": 1
@@ -22384,10 +22384,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might the growth of commercial spaceflight raise questions about equitable access to space exploration opportunities?",
             "options": [
-              "This concept has no relevance to social studies",
+              "Access to space exploration is determined only by a country's population size",
               "Not every country or region has the resources or infrastructure to participate equally in space activities",
               "Every country has exactly the same access to space exploration resources",
-              "Commercial spaceflight has no connection to global equity issues"
+              "Every country currently operates its own active commercial spaceport"
             ],
             "answer": 1
           }
@@ -22435,7 +22435,7 @@ const curriculum: DayContent[] = [
               "Because free-to-play games never try to persuade players to spend money",
               "Because design choices, like timers or reward pacing, can be built to persuade players to spend money, and recognizing this helps players make informed choices",
               "Because all in-app purchases are required to finish the game",
-              "Because this has no relevance to media literacy"
+              "Because loot box regulations are identical in every country"
             ],
             "answer": 1
           },
@@ -22533,7 +22533,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What type of energy do batteries store?",
             "options": [
-              "A concept unrelated to batteries",
+              "Only kinetic energy produced by moving electrons",
               "Chemical energy",
               "Only sound energy",
               "Only light energy"
@@ -22546,14 +22546,14 @@ const curriculum: DayContent[] = [
               "Electrodes",
               "Circuits",
               "Insulators",
-              "A concept unrelated to batteries"
+              "Capacitors"
             ],
             "answer": 0
           },
           {
             "q": "What separates the two electrodes in a battery?",
             "options": [
-              "A concept unrelated to batteries",
+              "A thin sheet of pure conductive metal with no chemical reactivity",
               "Nothing at all",
               "An electrolyte",
               "A simple wire only"
@@ -22565,7 +22565,7 @@ const curriculum: DayContent[] = [
             "options": [
               "All batteries work in exactly the same non-reversible way",
               "Applying an external electrical current can reverse the chemical process, restoring the battery’s charge",
-              "This concept has no connection to battery chemistry",
+              "Rechargeable batteries use electrodes that never undergo any chemical reaction",
               "Rechargeable batteries never actually reverse any chemical reaction"
             ],
             "answer": 1
@@ -22574,8 +22574,8 @@ const curriculum: DayContent[] = [
             "q": "Why is improving battery technology considered important for the wider adoption of electric vehicles?",
             "options": [
               "Electric vehicles never actually rely on any battery technology",
-              "This concept has no relevance to science",
-              "Battery technology has no connection to electric vehicle range",
+              "Battery improvements mainly affect a vehicle's interior comfort rather than range",
+              "Larger batteries always make an electric vehicle slower, regardless of their charge capacity",
               "Better batteries could allow vehicles to store more energy and travel farther on a single charge"
             ],
             "answer": 3
@@ -22596,7 +22596,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Health outcomes never depend on any geographic factor",
               "Yes",
-              "A concept unrelated to global health",
+              "Health outcomes are determined only by a country's climate, not its infrastructure",
               "No, every region has exactly the same access to health care"
             ],
             "answer": 1
@@ -22604,7 +22604,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Name one geographic factor that could influence health outcomes, such as distance to medical facilities.",
             "options": [
-              "A concept unrelated to health disparities",
+              "The number of public holidays observed in a country",
               "The average temperature on a random day",
               "A community’s favourite sport",
               "Distance to medical facilities"
@@ -22615,9 +22615,9 @@ const curriculum: DayContent[] = [
             "q": "Can income level in a region influence access to health care?",
             "options": [
               "Every region has exactly the same income level",
-              "A concept unrelated to global health",
+              "Income level only affects education access, not health care",
               "Yes",
-              "No, income has no connection to health care access"
+              "Health care access depends only on a region's population density, not income"
             ],
             "answer": 2
           },
@@ -22625,7 +22625,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a rural community far from a hospital face greater health challenges than an urban community?",
             "options": [
               "Distance to a hospital never has any effect on health outcomes",
-              "This concept has no connection to geography",
+              "Rural communities always have more hospitals per person than urban areas",
               "Longer travel times and limited infrastructure could delay access to needed medical care",
               "Rural and urban communities always have identical access to health care"
             ],
@@ -22635,9 +22635,9 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding the geography of global health disparities useful for organizations working to improve health outcomes?",
             "options": [
               "It helps identify which regions most need investment in health care infrastructure and resources",
-              "Global health disparities have no connection to geography",
+              "Global health disparities are studied only to rank countries competitively",
               "Every region in the world requires the exact same health resources",
-              "This concept has no relevance to social studies"
+              "Every organization already has identical resources to address health needs worldwide"
             ],
             "answer": 0
           }
@@ -22662,7 +22662,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A biography",
               "A recipe",
-              "A concept unrelated to reading",
+              "A memoir written entirely in the third person",
               "An epistolary narrative"
             ],
             "answer": 3
@@ -22671,7 +22671,7 @@ const curriculum: DayContent[] = [
             "q": "What does nominalization do to a verb or adjective?",
             "options": [
               "Removes it from the sentence entirely",
-              "A concept unrelated to grammar",
+              "Turns it into an adverb",
               "Turns it into a noun",
               "Turns it into a question"
             ],
@@ -22681,7 +22681,7 @@ const curriculum: DayContent[] = [
             "q": "What does the uncanny refer to in literature?",
             "options": [
               "A cheerful, comforting feeling",
-              "A concept unrelated to reading",
+              "A reference to ancient mythology",
               "Something completely ordinary with no unusual qualities",
               "Something eerily familiar yet strange"
             ],
@@ -22690,10 +22690,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Does AI-generated content raise questions about authenticity and authorship?",
             "options": [
-              "Authenticity has no connection to AI-generated content",
+              "Authorship questions apply only to traditional print journalism, never digital media",
               "No, AI-generated content raises no questions at all",
               "Yes",
-              "A concept unrelated to AI-generated content"
+              "Such questions only arise when the content includes video, never text or images"
             ],
             "answer": 2
           },
@@ -22703,7 +22703,7 @@ const curriculum: DayContent[] = [
               "Yes, every translation is always perfectly neutral",
               "Translations never differ from one another in any way",
               "No",
-              "A concept unrelated to translation"
+              "Only poetry translations lose meaning; prose translations never do"
             ],
             "answer": 2
           }
@@ -22734,7 +22734,7 @@ const curriculum: DayContent[] = [
               "Add both equations together without isolating anything",
               "Graph both equations immediately",
               "Isolate one variable in one equation",
-              "A concept unrelated to systems of equations"
+              "Multiply both equations by the same constant"
             ],
             "answer": 2
           },
@@ -22751,7 +22751,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Does partial variation include an additional fixed starting amount?",
             "options": [
-              "A concept unrelated to partial variation",
+              "Only when the relationship is graphed as a curve",
               "Yes",
               "No, partial variation never includes a fixed amount",
               "A fixed amount only appears in direct variation, never partial"
@@ -22762,7 +22762,7 @@ const curriculum: DayContent[] = [
             "q": "What does a weighted average account for that a simple average does not?",
             "options": [
               "Only the largest value in a set",
-              "A concept unrelated to averages",
+              "The total number of values in the data set",
               "The relative importance of each value",
               "Only the smallest value in a set"
             ],
@@ -22854,7 +22854,7 @@ const curriculum: DayContent[] = [
               "Only remote, unpopulated areas",
               "Homes and businesses",
               "Nothing at all",
-              "A concept unrelated to geography"
+              "Military radar installations"
             ],
             "answer": 1
           },
@@ -22864,7 +22864,7 @@ const curriculum: DayContent[] = [
               "Global internet traffic",
               "Only local phone calls within one country",
               "Ocean water for desalination",
-              "A concept unrelated to geography"
+              "Freshwater pumped between coastal cities"
             ],
             "answer": 0
           },
@@ -22872,7 +22872,7 @@ const curriculum: DayContent[] = [
             "q": "What is desalination?",
             "options": [
               "A process that adds salt to fresh water",
-              "A concept unrelated to geography",
+              "A process used to increase the salt content of drinking water",
               "A method of purifying air, not water",
               "The process of removing salt from seawater to produce fresh water"
             ],
@@ -22884,7 +22884,7 @@ const curriculum: DayContent[] = [
               "A city with a population over 10 million people",
               "A city with no residents at all",
               "A small rural village",
-              "A concept unrelated to geography"
+              "A city defined by its historic age rather than its population"
             ],
             "answer": 0
           },
@@ -22892,7 +22892,7 @@ const curriculum: DayContent[] = [
             "q": "Do access to health care and health outcomes vary across the world?",
             "options": [
               "Health outcomes never depend on any geographic factor",
-              "A concept unrelated to global health",
+              "A topic studied only in economics courses, not geography",
               "No, every region has exactly the same access to health care",
               "Yes"
             ],
@@ -22919,7 +22919,7 @@ const curriculum: DayContent[] = [
             "q": "What is an allegory?",
             "options": [
               "A factual news report",
-              "A concept unrelated to reading",
+              "A persuasive essay with no narrative elements",
               "A narrative whose characters and events symbolically represent deeper meanings",
               "A type of poem with no symbolic meaning"
             ],
@@ -22928,10 +22928,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Does an allegory operate on both a literal and a symbolic level at the same time?",
             "options": [
-              "Symbolic meaning has no connection to allegory",
+              "Symbolic meaning only appears in a story's final chapter",
               "Yes",
               "No, an allegory only ever has one literal meaning",
-              "A concept unrelated to allegory"
+              "Allegory relies solely on dialogue to convey its message"
             ],
             "answer": 1
           },
@@ -22948,7 +22948,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might an author choose allegory instead of stating a message directly?",
             "options": [
-              "This concept has no connection to literature",
+              "Because allegories are easier to translate into other languages",
               "Allegories always state their message directly with no symbolism at all",
               "It allows complex political or moral ideas to be explored indirectly through symbolic story elements",
               "Allegory never allows an author to explore any idea indirectly"
@@ -22960,7 +22960,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It reveals a deeper layer of commentary the author intends beyond the surface-level plot",
               "Every story is an allegory with no distinction between literal and symbolic meaning",
-              "This concept has no relevance to reading comprehension",
+              "Because allegories always follow a strict rhyme scheme",
               "Allegory never adds any deeper meaning to a story"
             ],
             "answer": 0
@@ -22980,7 +22980,7 @@ const curriculum: DayContent[] = [
             "q": "What does any nonzero number raised to the exponent zero equal?",
             "options": [
               "0",
-              "A concept unrelated to exponents",
+              "The same value as the exponent itself",
               "The base itself",
               "1"
             ],
@@ -22992,7 +22992,7 @@ const curriculum: DayContent[] = [
               "No, negative exponents never involve a reciprocal",
               "A negative exponent always makes the result negative",
               "Yes",
-              "A concept unrelated to negative exponents"
+              "Only when the base is a fraction"
             ],
             "answer": 2
           },
@@ -23000,7 +23000,7 @@ const curriculum: DayContent[] = [
             "q": "What is the value of 5 to the power of 0?",
             "options": [
               "0",
-              "A concept unrelated to exponents",
+              "5 multiplied by itself zero times, equal to 5",
               "5",
               "1"
             ],
@@ -23021,7 +23021,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Zero and negative exponents never appear in algebraic expressions",
               "It allows expressions with any integer exponent to be simplified consistently using the same exponent rules",
-              "This concept has no connection to math",
+              "Because they only apply to expressions with even bases",
               "Negative exponents always make an expression impossible to simplify"
             ],
             "answer": 1
@@ -23041,7 +23041,7 @@ const curriculum: DayContent[] = [
             "q": "What happens to a substance’s chemical composition during a physical change?",
             "options": [
               "It is destroyed entirely",
-              "A concept unrelated to physical changes",
+              "The substance's atoms rearrange into an entirely new compound",
               "It always changes completely",
               "It stays the same"
             ],
@@ -23053,7 +23053,7 @@ const curriculum: DayContent[] = [
               "No, chemical changes never produce any new substance",
               "New substances only ever form during a physical change",
               "Yes",
-              "A concept unrelated to chemical changes"
+              "A reaction that only occurs naturally within living organisms"
             ],
             "answer": 2
           },
@@ -23070,7 +23070,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the rusting of iron considered a chemical change rather than a physical change?",
             "options": [
-              "This concept has no connection to chemistry",
+              "Rusting only happens when iron is heated to extremely high temperatures",
               "Rusting never changes the chemical composition of iron",
               "Rust and iron are always exactly the same substance",
               "Iron reacts with oxygen to form a new substance, iron oxide, with different properties"
@@ -23081,7 +23081,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful for scientists to distinguish between physical and chemical changes when studying a reaction?",
             "options": [
               "It helps identify whether a new substance has actually formed or whether the material has simply changed form",
-              "This concept has no relevance to science",
+              "Distinguishing between the two types of change only matters in industrial settings, not everyday life",
               "Distinguishing between the two types of change never provides any useful information",
               "Physical and chemical changes are always identical with no real difference"
             ],
@@ -23101,7 +23101,7 @@ const curriculum: DayContent[] = [
             "q": "What is a Special Economic Zone?",
             "options": [
               "A region with no economic activity at all",
-              "A concept unrelated to geography",
+              "A military zone where no civilian economic activity is allowed",
               "An area where all trade is banned",
               "A designated area offering reduced taxes and looser regulations to attract investment"
             ],
@@ -23110,10 +23110,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Are Special Economic Zones often designed to attract foreign investment?",
             "options": [
-              "A concept unrelated to economic geography",
+              "Special Economic Zones are designed only to benefit domestic farmers",
               "No, Special Economic Zones never attract any investment",
               "Yes",
-              "Foreign investment has no connection to Special Economic Zones"
+              "Foreign investment in Special Economic Zones is banned by international trade law"
             ],
             "answer": 2
           },
@@ -23122,7 +23122,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Tax rates never differ between an SEZ and the rest of a country",
               "Yes",
-              "A concept unrelated to Special Economic Zones",
+              "Tax rates in Special Economic Zones are set by international organizations, not national governments",
               "No, taxes are always higher inside a Special Economic Zone"
             ],
             "answer": 1
@@ -23130,9 +23130,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a country establish a Special Economic Zone near a major port?",
             "options": [
-              "This concept has no connection to geography",
+              "Special Economic Zones are located based only on a region's average rainfall",
               "Special Economic Zones are never located near ports or trade routes",
-              "Ports have no connection to how a Special Economic Zone functions",
+              "Ports and Special Economic Zones are always managed by entirely different countries",
               "Proximity to a port can make it easier and cheaper to import materials and export manufactured goods"
             ],
             "answer": 3
@@ -23140,7 +23140,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might critics raise concerns about labour conditions in some Special Economic Zones?",
             "options": [
-              "This concept has no relevance to social studies",
+              "Labour conditions in Special Economic Zones are regulated more strictly than anywhere else",
               "Special Economic Zones always have the strongest labour protections in a country",
               "Labour conditions are never affected by regulatory differences in an SEZ",
               "Looser regulations designed to attract business could sometimes result in weaker protections for workers"
@@ -23170,7 +23170,7 @@ const curriculum: DayContent[] = [
               "A step-by-step recipe",
               "The meaning of a complex or abstract term",
               "A weather forecast",
-              "A concept unrelated to writing"
+              "A chronological account of historical events"
             ],
             "answer": 1
           },
@@ -23178,7 +23178,7 @@ const curriculum: DayContent[] = [
             "q": "Might a definition essay use examples and comparisons to clarify a term’s meaning?",
             "options": [
               "Examples are never useful for defining a term",
-              "A concept unrelated to definition essays",
+              "Comparisons are reserved exclusively for compare-and-contrast essays",
               "No, definition essays never use examples",
               "Yes"
             ],
@@ -23197,7 +23197,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a writer use a personal anecdote when writing a definition essay about a term like resilience?",
             "options": [
-              "This concept has no connection to writing",
+              "Because an anecdote replaces the need for an actual definition of the term",
               "Definition essays should never include any examples or stories",
               "Personal anecdotes never help explain an abstract term",
               "A real example can make an abstract concept more concrete and relatable for readers"
@@ -23210,7 +23210,7 @@ const curriculum: DayContent[] = [
               "Abstract terms always have exactly one universally agreed meaning",
               "Concrete and abstract terms are always equally easy to define",
               "Abstract terms can carry different meanings and interpretations depending on context and perspective",
-              "This concept has no connection to writing"
+              "Because abstract terms never appear in dictionaries"
             ],
             "answer": 2
           }
@@ -23230,7 +23230,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The x-intercepts only",
               "The y-intercept only",
-              "A concept unrelated to quadratics",
+              "The slope of the parabola's axis of symmetry",
               "The vertex of the parabola"
             ],
             "answer": 3
@@ -23238,7 +23238,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Does the value of a in vertex form affect whether a parabola opens upward or downward?",
             "options": [
-              "A concept unrelated to vertex form",
+              "Only when h and k are both equal to zero",
               "A parabola always opens upward no matter the value of a",
               "Yes",
               "No, the value of a never affects the direction a parabola opens"
@@ -23259,7 +23259,7 @@ const curriculum: DayContent[] = [
             "q": "If a is negative in vertex form, which direction does the parabola open?",
             "options": [
               "Sideways",
-              "A concept unrelated to vertex form",
+              "Upward, but only if h is a positive number",
               "Upward",
               "Downward"
             ],
@@ -23271,7 +23271,7 @@ const curriculum: DayContent[] = [
               "Standard form and vertex form always require exactly the same amount of work to graph",
               "Vertex form never makes graphing a parabola any easier",
               "It directly shows the vertex coordinates, making it easier to plot the parabola’s key point right away",
-              "This concept has no connection to math"
+              "Because standard form cannot be graphed at all"
             ],
             "answer": 2
           }
@@ -23290,7 +23290,7 @@ const curriculum: DayContent[] = [
             "q": "What does the law of conservation of mass state?",
             "options": [
               "Mass is neither created nor destroyed in a chemical reaction",
-              "A concept unrelated to chemistry",
+              "Mass can be converted directly into energy during every chemical reaction",
               "Mass always increases during a chemical reaction",
               "Mass always disappears completely during a reaction"
             ],
@@ -23300,7 +23300,7 @@ const curriculum: DayContent[] = [
             "q": "Should the total mass of reactants equal the total mass of products in a chemical reaction?",
             "options": [
               "Yes",
-              "A concept unrelated to conservation of mass",
+              "A reaction that produces gas only partially conserves the mass of its reactants",
               "No, the mass of products is always different from reactants",
               "Mass is never conserved in any chemical reaction"
             ],
@@ -23320,7 +23320,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a reaction that produces gas appear to lose mass if conducted in an open container?",
             "options": [
               "Gas produced in a reaction never actually has any mass",
-              "This concept has no connection to conservation of mass",
+              "Mass is conserved only in reactions that take place in a sealed container",
               "Mass is only conserved in reactions that happen in an open container",
               "The gas produced can escape into the air, so its mass is no longer measured within the container"
             ],
@@ -23329,10 +23329,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the law of conservation of mass important when balancing chemical equations?",
             "options": [
-              "Balancing equations has no connection to the conservation of mass",
+              "Balancing an equation is only necessary when a reaction produces a gas",
               "Chemical equations never need to account for the mass of atoms involved",
               "It ensures the same number of atoms of each element appears on both sides of the equation",
-              "This concept has no relevance to science"
+              "Extra atoms are created during a reaction to keep both sides of the equation balanced"
             ],
             "answer": 2
           }
@@ -23350,7 +23350,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is one reason a country might construct a physical border wall?",
             "options": [
-              "A concept unrelated to geography",
+              "To mark the boundary of a national park",
               "To increase tourism in a neighbouring country",
               "To control the movement of people and goods across a border",
               "To eliminate the need for any border at all"
@@ -23361,8 +23361,8 @@ const curriculum: DayContent[] = [
             "q": "Do border walls raise questions about security, economics, and human rights?",
             "options": [
               "No, border walls raise no questions of any kind",
-              "Human rights have no connection to border policy",
-              "A concept unrelated to border geography",
+              "Human rights concerns apply only to wars, never to border policy",
+              "Border walls are discussed only in terms of construction materials, not policy",
               "Yes"
             ],
             "answer": 3
@@ -23370,7 +23370,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Can the geography of a border, such as mountains or rivers, affect where a wall or barrier is built?",
             "options": [
-              "A concept unrelated to border walls",
+              "Border wall placement is decided only by satellite imagery of population density",
               "No, geography never affects where a border barrier is placed",
               "Every border barrier is built in a perfectly flat, identical landscape",
               "Yes"
@@ -23383,14 +23383,14 @@ const curriculum: DayContent[] = [
               "It can disrupt wildlife migration routes and fragment natural ecosystems",
               "Wildlife is never affected by human-made structures at a border",
               "Border walls never have any effect on the surrounding environment",
-              "This concept has no connection to geography"
+              "Environmental concerns about border walls apply only to marine ecosystems"
             ],
             "answer": 0
           },
           {
             "q": "Why do geographers study the economic impact of border walls on communities living near a boundary?",
             "options": [
-              "This concept has no relevance to social studies",
+              "Economic impact studies of border walls are conducted only by environmental scientists",
               "Restricted movement can affect trade, jobs, and daily life for people living in border communities",
               "Communities near a border are never affected by changes in border policy",
               "Border walls never have any economic effect on nearby communities"
@@ -23417,7 +23417,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a verbal?",
             "options": [
-              "A concept unrelated to grammar",
+              "A word that only ever functions as a verb in a sentence",
               "A word formed from a verb that functions as another part of speech",
               "A word that can never be formed from a verb",
               "A punctuation mark used at the end of a sentence"
@@ -23428,7 +23428,7 @@ const curriculum: DayContent[] = [
             "q": "Does a gerund typically end in the letters -ing and function as a noun?",
             "options": [
               "A gerund always functions as a verb, never as a noun",
-              "A concept unrelated to gerunds",
+              "A gerund always functions as an adjective describing the subject",
               "Yes",
               "No, a gerund never ends in -ing"
             ],
@@ -23457,7 +23457,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding verbals like gerunds and infinitives useful for writing varied, sophisticated sentences?",
             "options": [
-              "This concept has no connection to grammar",
+              "Because verbals eliminate the need for a subject in a sentence",
               "Verbals never add any variety to a sentence",
               "Every sentence must use a verbal in exactly the same way",
               "It allows a writer to use verb forms flexibly as nouns, adjectives, or adverbs for greater sentence variety"
@@ -23478,7 +23478,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What are mean, median, and mode examples of?",
             "options": [
-              "A concept unrelated to statistics",
+              "Measures of probability and chance",
               "Measures of central tendency",
               "Measures of angle size",
               "Measures of area only"
@@ -23489,7 +23489,7 @@ const curriculum: DayContent[] = [
             "q": "Is the mean of a data set calculated by adding all values and dividing by the number of values?",
             "options": [
               "Yes",
-              "A concept unrelated to the mean",
+              "Only when the data set has an odd number of values",
               "No, the mean is never calculated this way",
               "The mean is always the largest value in a data set"
             ],
@@ -23520,7 +23520,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The median is not affected by extreme values the way the mean can be, giving a more typical picture of the data",
               "The median is always affected more by outliers than the mean",
-              "This concept has no connection to statistics",
+              "Because the median always equals the mode in such data sets",
               "Outliers never affect any measure of central tendency"
             ],
             "answer": 0
@@ -23539,7 +23539,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is taxonomy?",
             "options": [
-              "A concept unrelated to biology",
+              "The study of how populations of organisms grow or shrink over time",
               "A method for measuring the speed of chemical reactions",
               "The scientific system for classifying living things into groups",
               "A system for naming rock formations"
@@ -23550,8 +23550,8 @@ const curriculum: DayContent[] = [
             "q": "Does taxonomy classify living things based on shared characteristics?",
             "options": [
               "Yes",
-              "Shared characteristics have no connection to classification",
-              "A concept unrelated to taxonomy",
+              "Taxonomy groups organisms based only on their geographic location",
+              "The process by which a single species gradually evolves into a new one",
               "No, taxonomy classifies living things completely randomly"
             ],
             "answer": 0
@@ -23570,7 +23570,7 @@ const curriculum: DayContent[] = [
             "q": "Why might two organisms be placed in the same genus but different species?",
             "options": [
               "They may share many characteristics but still have enough differences to be considered distinct species",
-              "This concept has no connection to taxonomy",
+              "Species is a broader classification level that contains multiple genera",
               "Genus and species always refer to exactly the same classification level",
               "Organisms in the same genus are always identical with no differences at all"
             ],
@@ -23582,7 +23582,7 @@ const curriculum: DayContent[] = [
               "A standardized classification system provides no benefit to scientific communication",
               "It allows scientists from different countries and languages to consistently identify and communicate about the same organism",
               "Every scientist uses a completely different, incompatible naming system",
-              "This concept has no relevance to science"
+              "A standardized naming system is useful only for naming plants, not animals"
             ],
             "answer": 1
           }
@@ -23602,7 +23602,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A process that always lowers property values in a neighbourhood",
               "A government policy that bans any new construction",
-              "A concept unrelated to geography",
+              "A city planning strategy that evenly distributes wealthy and low-income residents across every neighbourhood",
               "A process where rising property values and investment attract wealthier residents to a lower-income neighbourhood"
             ],
             "answer": 3
@@ -23613,16 +23613,16 @@ const curriculum: DayContent[] = [
               "No, gentrification never displaces any residents",
               "Long-time residents are never affected by rising property values",
               "Yes",
-              "A concept unrelated to gentrification"
+              "Displacement only occurs in rural areas, never in gentrifying neighbourhoods"
             ],
             "answer": 2
           },
           {
             "q": "Does gentrification typically involve new investment flowing into a neighbourhood?",
             "options": [
-              "A concept unrelated to gentrification",
+              "Investment only flows into a neighbourhood after all its residents have left",
               "Yes",
-              "Investment has no connection to gentrification",
+              "New investment in a neighbourhood always comes exclusively from foreign governments",
               "No, gentrification always involves less investment"
             ],
             "answer": 1
@@ -23633,7 +23633,7 @@ const curriculum: DayContent[] = [
               "Rising rents and property taxes driven by new investment can make housing unaffordable for them",
               "Gentrification always makes housing cheaper for existing residents",
               "Rent and property taxes never change as a neighbourhood gentrifies",
-              "This concept has no connection to geography"
+              "Local governments always freeze property taxes for long-time residents during gentrification"
             ],
             "answer": 0
           },
@@ -23643,7 +23643,7 @@ const curriculum: DayContent[] = [
               "Every resident of a gentrifying neighbourhood is affected in exactly the same way",
               "It can bring new investment and amenities while also raising concerns about fairness and displacement of existing communities",
               "Gentrification has no positive or negative effects of any kind",
-              "This concept has no relevance to social studies"
+              "Gentrification only affects commercial properties, never residential housing"
             ],
             "answer": 1
           }
@@ -23670,7 +23670,7 @@ const curriculum: DayContent[] = [
               "A mild or indirect word used in place of a harsher one",
               "A type of punctuation mark",
               "A word that always makes something sound more shocking",
-              "A concept unrelated to vocabulary"
+              "A word borrowed directly from another language with no translation"
             ],
             "answer": 0
           },
@@ -23678,8 +23678,8 @@ const curriculum: DayContent[] = [
             "q": "Does doublespeak intentionally use vague or misleading language?",
             "options": [
               "No, doublespeak is always perfectly clear and direct",
-              "Doublespeak has no connection to language at all",
-              "A concept unrelated to doublespeak",
+              "Doublespeak is a formal grammatical rule about subject-verb agreement",
+              "Doublespeak refers only to errors made during foreign language translation",
               "Yes"
             ],
             "answer": 3
@@ -23700,14 +23700,14 @@ const curriculum: DayContent[] = [
               "Doublespeak never changes how an announcement is perceived",
               "Rightsizing initiative is always a completely literal, transparent phrase",
               "It can soften or obscure an unpleasant truth to make it sound less negative to the audience",
-              "This concept has no connection to vocabulary"
+              "Because regulations require every layoff announcement to use euphemisms"
             ],
             "answer": 2
           },
           {
             "q": "Why is it important for readers to recognize euphemism and doublespeak in media and political language?",
             "options": [
-              "This concept has no relevance to vocabulary study",
+              "Because euphemisms are only ever used in formal legal documents",
               "Recognizing these techniques helps readers understand the true meaning behind carefully chosen words",
               "Euphemism and doublespeak never affect how a message is understood",
               "Every word in the English language carries exactly one meaning with no nuance"
@@ -23731,7 +23731,7 @@ const curriculum: DayContent[] = [
               "A fee charged only when purchasing groceries",
               "A percentage of a person’s earnings paid to the government",
               "A one-time payment made only once in a lifetime",
-              "A concept unrelated to financial literacy"
+              "A fixed dollar amount charged to every citizen equally"
             ],
             "answer": 1
           },
@@ -23739,7 +23739,7 @@ const curriculum: DayContent[] = [
             "q": "In a progressive tax system, do higher portions of income get taxed at higher rates?",
             "options": [
               "No, every portion of income is always taxed at exactly the same rate",
-              "A concept unrelated to progressive taxation",
+              "Only on income earned outside the country",
               "Higher income is always taxed at a lower rate than lower income",
               "Yes"
             ],
@@ -23760,7 +23760,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Net income reflects the actual amount available to spend after taxes are deducted",
               "Gross and net income always refer to the exact same amount",
-              "This concept has no connection to financial literacy",
+              "Gross income is always lower than net income after deductions",
               "Taxes never affect how much money a person actually receives"
             ],
             "answer": 0
@@ -23769,7 +23769,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding how income tax works useful for planning personal finances as a young adult?",
             "options": [
               "Income tax never has any effect on how much money a person can spend",
-              "This concept has no connection to financial literacy",
+              "Income tax rates are fixed for life once a person starts working",
               "Every person pays the exact same fixed amount of tax regardless of income",
               "It helps a person accurately estimate how much of their earnings they will actually take home to spend or save"
             ],
@@ -23791,7 +23791,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A series circuit has no path for current at all",
               "No, series circuits always have multiple separate paths",
-              "A concept unrelated to circuits",
+              "A circuit in which current can travel along more than one branch",
               "Yes"
             ],
             "answer": 3
@@ -23799,7 +23799,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In a parallel circuit, do components each receive the same voltage?",
             "options": [
-              "A concept unrelated to parallel circuits",
+              "Voltage drops sharply across each additional component in a parallel circuit",
               "No, voltage is never the same across components in a parallel circuit",
               "Parallel circuits never allow current to flow through more than one path",
               "Yes"
@@ -23811,7 +23811,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They also stop working, since the single path is broken",
               "They continue working normally with no change at all",
-              "A concept unrelated to series circuits",
+              "The remaining bulbs dim slightly but keep receiving some current",
               "They immediately become brighter"
             ],
             "answer": 0
@@ -23819,7 +23819,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do most household electrical outlets use parallel circuits rather than series circuits?",
             "options": [
-              "This concept has no connection to circuits",
+              "Series circuits are generally considered safer for household wiring than parallel circuits",
               "Parallel circuits allow each device to operate independently, so one device turning off does not affect the others",
               "Parallel circuits always cause every device in a home to stop working together",
               "Series circuits are always used in household wiring instead of parallel circuits"
@@ -23831,7 +23831,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The type of circuit used never has any effect on how a device functions",
               "Series and parallel circuits always behave in exactly the same way",
-              "This concept has no relevance to science",
+              "Understanding circuit types matters only for large industrial systems, not household devices",
               "It helps engineers choose the right circuit type based on how components should function independently or together"
             ],
             "answer": 3
@@ -23850,7 +23850,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Name one critical mineral used in manufacturing electric vehicle batteries.",
             "options": [
-              "A concept unrelated to critical minerals",
+              "Granite",
               "Lithium",
               "Oxygen",
               "Table salt"
@@ -23861,8 +23861,8 @@ const curriculum: DayContent[] = [
             "q": "Is the mining of critical minerals like lithium and cobalt concentrated in specific regions of the world?",
             "options": [
               "Yes",
-              "A concept unrelated to critical mineral geography",
-              "Mining location has no connection to critical minerals",
+              "Only countries with coastlines are able to mine critical minerals",
+              "Critical mineral deposits form exclusively in rainforest biomes",
               "No, critical minerals are mined evenly across every country in the world"
             ],
             "answer": 0
@@ -23870,7 +23870,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Are critical minerals essential for manufacturing batteries used in electric vehicles?",
             "options": [
-              "A concept unrelated to critical minerals",
+              "Only gasoline-powered vehicles require critical minerals for their engines",
               "Yes",
               "No, electric vehicle batteries require no critical minerals at all",
               "Electric vehicles never use any type of battery"
@@ -23881,9 +23881,9 @@ const curriculum: DayContent[] = [
             "q": "Why might a country with large deposits of critical minerals gain significant economic and geopolitical influence?",
             "options": [
               "Countries with critical mineral deposits never gain any economic advantage from them",
-              "Critical minerals have no connection to global battery production",
+              "Countries with critical minerals must give away their resources for free under international law",
               "Global demand for battery technology creates strong reliance on countries that supply these essential minerals",
-              "This concept has no connection to geography"
+              "Economic influence from mineral wealth applies only to oil-producing nations"
             ],
             "answer": 2
           },
@@ -23891,7 +23891,7 @@ const curriculum: DayContent[] = [
             "q": "Why might the mining of critical minerals raise environmental and social concerns in some regions?",
             "options": [
               "Extraction sites are always located far from any ecosystem or community",
-              "This concept has no relevance to social studies",
+              "Environmental regulations automatically eliminate any risk from mining activity",
               "Mining critical minerals never has any environmental or social impact",
               "Mining operations can disrupt local ecosystems and communities near extraction sites"
             ],
@@ -23918,7 +23918,7 @@ const curriculum: DayContent[] = [
             "q": "What is an allusion?",
             "options": [
               "A detailed, direct explanation of a topic",
-              "A concept unrelated to reading",
+              "A lengthy footnote citing the original source material",
               "A brief, indirect reference to a person, event, or work from history or another text",
               "A type of punctuation mark"
             ],
@@ -23930,7 +23930,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "No, recognizing an allusion never adds any meaning",
               "Allusions never connect to anything outside the text itself",
-              "A concept unrelated to allusion"
+              "Allusions function only in scientific writing, never in literature"
             ],
             "answer": 0
           },
@@ -23949,7 +23949,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It can efficiently convey complex meaning by relying on a reader’s existing knowledge",
               "Allusions never help an author communicate an idea efficiently",
-              "This concept has no connection to literature",
+              "Because allusions are required by certain grammar rules in formal essays",
               "Allusions always require lengthy additional explanation to be understood"
             ],
             "answer": 0
@@ -23959,7 +23959,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Understanding an allusion depends on recognizing the reference it is drawing from",
               "Allusions never depend on any outside knowledge to be understood",
-              "This concept has no relevance to reading comprehension",
+              "Because allusions are always explained in a footnote within the text",
               "Every reader automatically understands every allusion regardless of their background knowledge"
             ],
             "answer": 0
@@ -23980,7 +23980,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A vertical line downward to an object",
               "A horizontal line upward to an object",
-              "A concept unrelated to trigonometry",
+              "The hypotenuse of the triangle formed",
               "The ground directly below an object"
             ],
             "answer": 1
@@ -23988,9 +23988,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Is the angle of depression measured downward from a horizontal line?",
             "options": [
-              "A concept unrelated to angle of depression",
+              "Only when the object is located below sea level",
               "Yes",
-              "The angle of depression has no connection to horizontal lines",
+              "The angle of depression is always equal to the angle of elevation",
               "No, the angle of depression is always measured upward"
             ],
             "answer": 1
@@ -24000,7 +24000,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Neither type of angle",
               "Angle of elevation",
-              "A concept unrelated to trigonometry",
+              "Depression, since the bird is moving farther away",
               "Angle of depression"
             ],
             "answer": 1
@@ -24011,7 +24011,7 @@ const curriculum: DayContent[] = [
               "Neither type of angle",
               "Angle of depression",
               "Angle of elevation",
-              "A concept unrelated to trigonometry"
+              "Elevation, since the person is looking toward the water"
             ],
             "answer": 1
           },
@@ -24019,7 +24019,7 @@ const curriculum: DayContent[] = [
             "q": "Why are angle of elevation and depression problems useful for calculating the height of a tall object, like a building?",
             "options": [
               "These angles are never useful for calculating height or distance",
-              "This concept has no connection to math",
+              "Because these angles only apply to objects underwater",
               "Height can only ever be measured with a direct physical measurement, never trigonometry",
               "They allow trigonometric ratios to be used to find an unknown height or distance using a known angle and distance"
             ],
@@ -24039,7 +24039,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does biodiversity refer to?",
             "options": [
-              "A concept unrelated to biology",
+              "The total amount of energy stored within an ecosystem",
               "The total number of rocks in an ecosystem",
               "The average temperature of an ecosystem",
               "The variety of species within an ecosystem"
@@ -24050,7 +24050,7 @@ const curriculum: DayContent[] = [
             "q": "Does higher biodiversity generally make an ecosystem more resilient to environmental change?",
             "options": [
               "Yes",
-              "A concept unrelated to biodiversity",
+              "Biodiversity is measured only by counting the largest species in an area",
               "Higher biodiversity always makes an ecosystem less stable",
               "No, biodiversity never affects an ecosystem’s resilience"
             ],
@@ -24060,7 +24060,7 @@ const curriculum: DayContent[] = [
             "q": "If a forest has many different species of plants, animals, and insects, is it considered to have high or low biodiversity?",
             "options": [
               "Low biodiversity",
-              "A concept unrelated to biodiversity",
+              "A forest with many different species always has fewer total organisms overall",
               "No biodiversity at all",
               "High biodiversity"
             ],
@@ -24069,7 +24069,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might an ecosystem with low biodiversity be more vulnerable to collapse if one species disappears?",
             "options": [
-              "This concept has no connection to biodiversity",
+              "An ecosystem's vulnerability depends only on its physical size, not its species variety",
               "Low biodiversity always makes an ecosystem more stable and resilient",
               "Fewer species means the ecosystem may rely heavily on a small number of species to maintain balance",
               "The number of species in an ecosystem never affects its stability"
@@ -24080,7 +24080,7 @@ const curriculum: DayContent[] = [
             "q": "Why do conservationists prioritize protecting areas with high biodiversity, such as rainforests?",
             "options": [
               "High biodiversity areas provide no ecological benefit worth protecting",
-              "This concept has no relevance to science",
+              "Conservationists prioritize these areas mainly for their tourism appeal rather than ecology",
               "Every ecosystem in the world has exactly the same level of biodiversity",
               "These areas support a wide range of species and ecological functions that are difficult to replace once lost"
             ],
@@ -24102,7 +24102,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only physical paper documents",
               "The world’s digital information",
-              "A concept unrelated to geography",
+              "Only backup copies of government census records",
               "Only handwritten letters"
             ],
             "answer": 1
@@ -24110,8 +24110,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Can climate influence where a data centre is built?",
             "options": [
-              "No, climate has no connection to data centre location",
-              "A concept unrelated to data centre geography",
+              "Data centres can only be built in desert climates to save on construction costs",
+              "Data centre locations are determined solely by the distance to the nearest airport",
               "Yes",
               "Every data centre is built in exactly the same climate"
             ],
@@ -24121,19 +24121,19 @@ const curriculum: DayContent[] = [
             "q": "Does energy availability play a role in choosing a location for a data centre?",
             "options": [
               "Yes",
-              "Energy availability has no connection to geography",
+              "Data centres are typically built near major tourist attractions instead of power sources",
               "No, data centres require no energy at all",
-              "A concept unrelated to data centres"
+              "Energy availability matters only for factories, never for digital infrastructure"
             ],
             "answer": 0
           },
           {
             "q": "Why might a data centre be built in a region with a naturally cool climate?",
             "options": [
-              "This concept has no connection to geography",
+              "Cooler climates are chosen primarily to reduce employee commuting times",
               "Data centres never generate any heat that needs to be managed",
               "Cooler temperatures can reduce the energy needed to keep servers from overheating",
-              "A cool climate has no effect on how much energy a data centre uses"
+              "A cool climate mainly helps data centres attract more internet traffic"
             ],
             "answer": 2
           },
@@ -24143,7 +24143,7 @@ const curriculum: DayContent[] = [
               "Internet connectivity never affects how well a data centre can operate",
               "Data centres need fast, stable connections to transmit information efficiently to users around the world",
               "Data centres can function perfectly without any internet connection at all",
-              "This concept has no relevance to social studies"
+              "Internet connectivity is only a concern for data centres located on islands"
             ],
             "answer": 1
           }
@@ -24169,7 +24169,7 @@ const curriculum: DayContent[] = [
             "options": [
               "How to move, speak, or express emotion",
               "What the audience should eat during the show",
-              "A concept unrelated to writing",
+              "The names of the other actors in the cast",
               "The exact ticket price for the performance"
             ],
             "answer": 0
@@ -24179,7 +24179,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Dialogue is never included in a script",
               "No, scenes never include stage directions",
-              "A concept unrelated to script writing",
+              "Only musicals require stage directions, never dramas",
               "Yes"
             ],
             "answer": 3
@@ -24198,7 +24198,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important for dialogue in a scene to sound realistic and natural?",
             "options": [
               "Realistic dialogue helps an audience believe in the characters and become engaged in the story",
-              "This concept has no connection to writing",
+              "Because realistic dialogue must always use complete, grammatically perfect sentences",
               "Dialogue never needs to sound realistic to be effective",
               "Audiences are never affected by how dialogue sounds in a scene"
             ],
@@ -24209,7 +24209,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It gives actors creative freedom to bring their own choices to a performance",
               "Stage directions must always describe every single movement in exact detail",
-              "This concept has no connection to writing",
+              "Because sparse stage directions shorten the overall length of a script",
               "Actors are never allowed to make any of their own creative choices"
             ],
             "answer": 0
@@ -24228,7 +24228,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In slope-intercept form, y = mx + b, what does the value of b represent?",
             "options": [
-              "A concept unrelated to linear equations",
+              "The point where the line crosses the x-axis",
               "The y-intercept",
               "The slope of the line",
               "The x-intercept"
@@ -24238,7 +24238,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In slope-intercept form, does the value of m represent the slope of the line?",
             "options": [
-              "A concept unrelated to slope-intercept form",
+              "Only when the y-intercept equals zero",
               "Yes",
               "The slope is always represented by b, not m",
               "No, m never represents the slope"
@@ -24269,7 +24269,7 @@ const curriculum: DayContent[] = [
             "q": "Why might converting a linear equation from standard form to slope-intercept form be useful when graphing?",
             "options": [
               "Slope-intercept form directly shows the slope and y-intercept, making it easier to plot the line",
-              "This concept has no connection to math",
+              "Because standard form always produces a steeper line",
               "Converting between forms never makes graphing a line any easier",
               "Standard form and slope-intercept form always require the exact same steps to graph"
             ],
@@ -24290,7 +24290,7 @@ const curriculum: DayContent[] = [
             "q": "What causes an earthquake?",
             "options": [
               "A sudden increase in ocean temperature",
-              "A concept unrelated to earth science",
+              "A sudden shift in atmospheric pressure high above the ground",
               "The moon passing in front of the sun",
               "Built-up stress along a fault line being suddenly released"
             ],
@@ -24300,7 +24300,7 @@ const curriculum: DayContent[] = [
             "q": "Do seismic waves travel through the Earth during an earthquake?",
             "options": [
               "No, seismic waves never travel through the Earth",
-              "A concept unrelated to earthquakes",
+              "Seismic waves travel only through the atmosphere, not through solid rock",
               "Yes",
               "Earthquakes never produce any type of wave"
             ],
@@ -24309,7 +24309,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What instrument is used to measure seismic waves during an earthquake?",
             "options": [
-              "A concept unrelated to earthquakes",
+              "A compass",
               "A thermometer",
               "A seismograph",
               "A barometer"
@@ -24319,7 +24319,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do earthquakes often occur along fault lines near tectonic plate boundaries?",
             "options": [
-              "This concept has no connection to earthquakes",
+              "Earthquakes occur most often at the center of tectonic plates, far from their edges",
               "Fault lines never experience any buildup of geological stress",
               "Tectonic plate boundaries never generate any earthquakes",
               "Stress builds up as tectonic plates push, pull, or slide against each other at these boundaries"
@@ -24329,7 +24329,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is studying seismic waves useful for scientists trying to understand the Earth’s interior structure?",
             "options": [
-              "This concept has no relevance to science",
+              "Seismic wave data can reveal information only about the Earth's surface layer",
               "The way seismic waves travel and change speed through different materials reveals information about the layers beneath the surface",
               "The Earth’s interior structure has already been fully mapped with no further study needed",
               "Seismic waves never provide any information about the Earth’s interior"
@@ -24353,14 +24353,14 @@ const curriculum: DayContent[] = [
               "Growing food only in remote rural areas",
               "Growing food within city environments",
               "Building shopping malls in cities",
-              "A concept unrelated to geography"
+              "Replacing all city parks with large-scale cattle ranches"
             ],
             "answer": 1
           },
           {
             "q": "Do vertical farms stack crops in layers to maximize food production?",
             "options": [
-              "A concept unrelated to vertical farming",
+              "Vertical farms grow crops exclusively on rooftops without any structural layering",
               "Vertical farms only ever grow crops underground",
               "No, vertical farms never stack crops in layers",
               "Yes"
@@ -24372,8 +24372,8 @@ const curriculum: DayContent[] = [
             "options": [
               "No, cities always have unlimited space for traditional farming",
               "Yes",
-              "A concept unrelated to urban agriculture",
-              "Space availability has no connection to urban agriculture"
+              "Vertical farming was developed mainly to reduce the use of greenhouse glass",
+              "Space availability only matters for suburban farms, not urban ones"
             ],
             "answer": 1
           },
@@ -24382,7 +24382,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It allows more food to be grown within a small physical footprint by using vertical space efficiently",
               "Cities never face any challenges related to growing or accessing food",
-              "This concept has no connection to geography",
+              "Vertical farming mainly appeals to cities because it eliminates the need for sunlight entirely",
               "Vertical farming always requires more land than traditional farming"
             ],
             "answer": 0
@@ -24392,7 +24392,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Growing food directly within a city can shorten the transportation distance compared to importing from distant rural farms",
               "Urban agriculture always increases the distance food must travel",
-              "This concept has no relevance to social studies",
+              "Reducing food transport distance is a concern only for international shipping companies",
               "Food transportation distance never has any connection to where it is grown"
             ],
             "answer": 0
@@ -24417,7 +24417,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What do memes typically spread through images, text, or video?",
             "options": [
-              "A concept unrelated to media literacy",
+              "Only material that has been officially copyrighted and approved by its creator",
               "Only formal academic research",
               "Only official government announcements",
               "Ideas, humour, or commentary"
@@ -24429,7 +24429,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Memes only exist in printed newspapers",
               "No, memes are never shared or remixed",
-              "A concept unrelated to memes",
+              "Memes can only be remixed by the person who originally created them",
               "Yes"
             ],
             "answer": 3
@@ -24447,7 +24447,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a meme be an effective way to spread a political or social message quickly?",
             "options": [
-              "This concept has no connection to media literacy",
+              "Because memes are required to include a verified factual citation",
               "Memes are never used to communicate any kind of message",
               "Its simple, humorous format can be easily understood and shared widely across social media",
               "Memes always take a long time to understand and share"
@@ -24458,7 +24458,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important to think critically about the message or bias behind a meme before sharing it?",
             "options": [
               "Memes can spread misinformation or oversimplify complex issues despite their casual, humorous tone",
-              "This concept has no relevance to media literacy",
+              "Because every meme is legally required to disclose its creator's identity",
               "Every meme is always completely accurate and unbiased",
               "Memes never contain any bias or misleading information"
             ],
@@ -24478,7 +24478,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does it mean for two events to be independent?",
             "options": [
-              "A concept unrelated to probability",
+              "Two events that always occur at the exact same time",
               "The outcome of one event does not affect the other",
               "The outcome of one event always determines the other",
               "Independent events can never both occur"
@@ -24490,7 +24490,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes",
               "Dependent events are always identical to independent events",
-              "A concept unrelated to dependent events",
+              "Only when the events happen in alphabetical order",
               "No, dependent events never affect each other’s probability"
             ],
             "answer": 0
@@ -24499,7 +24499,7 @@ const curriculum: DayContent[] = [
             "q": "Is flipping a coin twice in a row an example of independent or dependent events?",
             "options": [
               "Independent events",
-              "A concept unrelated to probability",
+              "Dependent, since the second flip depends on the coin used",
               "Dependent events",
               "Neither type of event"
             ],
@@ -24510,7 +24510,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Neither type of event",
               "Independent events",
-              "A concept unrelated to probability",
+              "Independent, since each card is equally likely to be drawn",
               "Dependent events"
             ],
             "answer": 3
@@ -24521,7 +24521,7 @@ const curriculum: DayContent[] = [
               "Whether events are independent or dependent never affects how probability is calculated",
               "Independent and dependent events are always calculated using the exact same method",
               "The correct method for calculating combined probability differs depending on whether events affect one another",
-              "This concept has no connection to math"
+              "Because combined probability can only be calculated for independent events"
             ],
             "answer": 2
           }
@@ -24542,7 +24542,7 @@ const curriculum: DayContent[] = [
               "An organism found only in the ocean",
               "An organism that has had its DNA altered using biotechnology",
               "An organism that has never had any change to its DNA",
-              "A concept unrelated to biology"
+              "An organism bred selectively over generations without any direct DNA editing"
             ],
             "answer": 1
           },
@@ -24551,15 +24551,15 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes",
               "No, GMO crops are never modified to resist pests",
-              "A concept unrelated to genetically modified organisms",
-              "Pest resistance has no connection to genetic modification"
+              "GMO crops are modified only to change their colour, not their pest resistance",
+              "Pest resistance in GMO crops is achieved only through traditional cross-breeding methods"
             ],
             "answer": 0
           },
           {
             "q": "Can genetic modification be used to improve the nutritional content of a crop?",
             "options": [
-              "A concept unrelated to GMOs",
+              "Genetic modification can only lower a crop's nutritional content, never raise it",
               "Yes",
               "No, genetic modification never affects nutritional content",
               "Nutritional content is never connected to a crop’s genetics"
@@ -24571,17 +24571,17 @@ const curriculum: DayContent[] = [
             "options": [
               "It could reduce crop loss and the need for certain pesticides",
               "GMO crops always require significantly more pesticide use",
-              "Pest resistance has no effect on a farmer’s crop yield",
-              "This concept has no connection to agriculture"
+              "Pest-resistant GMO crops always require more pesticide spraying than non-resistant ones",
+              "Farmers mainly choose GMO crops because they produce taller plants than conventional ones"
             ],
             "answer": 0
           },
           {
             "q": "Why do GMOs remain a topic of ongoing public debate and scientific research?",
             "options": [
-              "This concept has no relevance to science",
+              "Every major question about GMO safety was fully settled decades ago",
               "Every question about GMOs has already been completely and permanently resolved",
-              "GMOs have no connection to any public debate or scientific research",
+              "Public debate about GMOs ended once the first GMO crop reached supermarket shelves",
               "Questions about long-term environmental effects, food safety, and ethics continue to be studied and discussed"
             ],
             "answer": 3
@@ -24600,7 +24600,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Name one source of air pollution in a city, such as vehicle emissions.",
             "options": [
-              "A concept unrelated to air pollution",
+              "Recycled plastic bottles",
               "Fresh mountain air",
               "Vehicle emissions",
               "Rainfall"
@@ -24612,7 +24612,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes",
               "No, geography never affects how air pollution accumulates",
-              "A concept unrelated to air pollution geography",
+              "Mountains affect air pollution only in regions near the equator",
               "Mountains always disperse polluted air instantly"
             ],
             "answer": 0
@@ -24621,8 +24621,8 @@ const curriculum: DayContent[] = [
             "q": "Is industrial activity a common contributor to air pollution in urban areas?",
             "options": [
               "Industrial activity always improves air quality",
-              "No, industrial activity has no connection to air pollution",
-              "A concept unrelated to urban air pollution",
+              "Industrial activity affects water quality but never air quality",
+              "Air pollution in cities comes exclusively from residential cooking",
               "Yes"
             ],
             "answer": 3
@@ -24632,7 +24632,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Surrounding mountains can trap polluted air, preventing it from dispersing as easily",
               "Mountains never have any effect on how air pollution spreads or settles",
-              "This concept has no connection to geography",
+              "Valleys experience worse smog only during the winter months regardless of mountains",
               "Valleys always have better air quality than open plains"
             ],
             "answer": 0
@@ -24642,7 +24642,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Every city experiences air pollution in exactly the same way regardless of geography",
               "It helps identify effective strategies, such as regulating traffic or industry, based on local geographic conditions",
-              "This concept has no relevance to social studies",
+              "City planners address smog only through building taller skyscrapers",
               "Geographic causes of smog never provide any useful information for city planning"
             ],
             "answer": 1
@@ -24669,7 +24669,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The font size used in a document",
               "The exact number of words in a sentence",
-              "A concept unrelated to grammar",
+              "The total page count of a finished document",
               "How smoothly ideas connect within and between paragraphs"
             ],
             "answer": 3
@@ -24677,8 +24677,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Can transitional phrases like however and therefore help create cohesion in writing?",
             "options": [
-              "Cohesion has no connection to transitional phrases",
-              "A concept unrelated to cohesion",
+              "Transitional phrases are only used in persuasive speeches, never in essays",
+              "Transitional phrases always function as the subject of the sentence they appear in",
               "Yes",
               "No, transitional phrases never help connect ideas"
             ],
@@ -24698,7 +24698,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a writer add the transitional phrase therefore before a conclusion in a paragraph?",
             "options": [
               "Therefore never signals any kind of logical connection between ideas",
-              "This concept has no connection to grammar",
+              "Because every paragraph is grammatically required to end with a transitional phrase",
               "It signals to the reader that a logical conclusion follows from the previous evidence or reasoning",
               "Transitional phrases always confuse readers rather than helping them"
             ],
@@ -24708,7 +24708,7 @@ const curriculum: DayContent[] = [
             "q": "Why is strong cohesion important for helping a reader follow an essay’s argument from paragraph to paragraph?",
             "options": [
               "It creates a clear, logical flow that helps the reader understand how ideas relate to one another",
-              "This concept has no relevance to writing",
+              "Because cohesion is only evaluated in an essay's introduction paragraph",
               "Paragraphs never need to connect logically to one another",
               "Cohesion never affects how easily a reader can follow an argument"
             ],
@@ -24728,7 +24728,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does interval notation represent?",
             "options": [
-              "A concept unrelated to math",
+              "A single point plotted on a coordinate plane",
               "A single, exact numerical value",
               "The angle measure of a triangle",
               "A range of values on a number line"
@@ -24739,9 +24739,9 @@ const curriculum: DayContent[] = [
             "q": "In interval notation, does a square bracket indicate that an endpoint is included in the set?",
             "options": [
               "Yes",
-              "A concept unrelated to interval notation",
+              "Only when the interval also includes negative numbers",
               "No, a square bracket always indicates an endpoint is excluded",
-              "Brackets have no connection to whether an endpoint is included"
+              "Square brackets indicate the midpoint of the interval"
             ],
             "answer": 0
           },
@@ -24758,7 +24758,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which type of bracket is used in interval notation to show that an endpoint is excluded from the set?",
             "options": [
-              "A concept unrelated to interval notation",
+              "An arrow pointing away from the number line",
               "A round parenthesis",
               "A curly brace",
               "A square bracket"
@@ -24769,7 +24769,7 @@ const curriculum: DayContent[] = [
             "q": "Why is interval notation useful for describing the solution to an inequality, such as x is greater than 3?",
             "options": [
               "Interval notation never helps represent the solution to an inequality",
-              "This concept has no connection to math",
+              "Because inequalities can only ever have one solution value",
               "It provides a clear, standardized way to represent a continuous range of solutions",
               "Inequalities can never be represented using interval notation"
             ],
@@ -24862,7 +24862,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Nothing at all connected to development",
               "Resources, funding, or expertise",
-              "A concept unrelated to geography",
+              "Only surplus agricultural equipment from wealthy nations",
               "Only military equipment"
             ],
             "answer": 1
@@ -24870,8 +24870,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Is international aid often directed toward lower-income regions with significant development needs?",
             "options": [
-              "Development needs have no connection to where aid is sent",
-              "A concept unrelated to international aid",
+              "Aid is distributed equally to every country regardless of income level",
+              "International aid is determined solely by a country's population size",
               "No, international aid is never directed toward any specific region",
               "Yes"
             ],
@@ -24883,7 +24883,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "No, geography never affects how aid is delivered",
               "Every region is equally accessible for delivering aid",
-              "A concept unrelated to international aid geography"
+              "Accessibility only affects aid delivery during the summer season"
             ],
             "answer": 0
           },
@@ -24892,7 +24892,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Terrain and infrastructure never affect how aid is delivered",
               "Limited infrastructure and difficult terrain can make transporting resources and expertise more difficult",
-              "This concept has no connection to geography",
+              "Aid delivery challenges depend only on the language spoken in a region",
               "Remote regions are always easier to deliver aid to than urban areas"
             ],
             "answer": 1
@@ -24900,7 +24900,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do geographers study the effectiveness of international aid programs in different regions?",
             "options": [
-              "This concept has no relevance to social studies",
+              "Geographers study aid programs mainly to calculate currency exchange rates",
               "Understanding what works in different geographic and social contexts helps improve future aid efforts",
               "The effectiveness of aid programs never depends on geographic context",
               "Every aid program works in exactly the same way regardless of location"
@@ -24999,7 +24999,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The y-intercept of only one equation",
               "The solution that satisfies both equations",
-              "A concept unrelated to systems of equations",
+              "The midpoint between the two lines' y-intercepts",
               "A point that satisfies neither equation"
             ],
             "answer": 1
@@ -25009,7 +25009,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Parallel lines always have infinitely many solutions",
               "Yes, parallel lines always have exactly one solution",
-              "A concept unrelated to systems of equations",
+              "Only when both lines share the same y-intercept",
               "No"
             ],
             "answer": 3
@@ -25018,7 +25018,7 @@ const curriculum: DayContent[] = [
             "q": "If two lines intersect at the point (3, 2), what is the solution to that system of equations?",
             "options": [
               "x = 3, y = 2",
-              "A concept unrelated to systems of equations",
+              "x = 3, y = 3, since both coordinates relate to the same point",
               "x = 0, y = 0",
               "x = 2, y = 3"
             ],
@@ -25028,7 +25028,7 @@ const curriculum: DayContent[] = [
             "q": "If two equations in a system produce the exact same line when graphed, how many solutions does the system have?",
             "options": [
               "No solution at all",
-              "A concept unrelated to systems of equations",
+              "Exactly two solutions, one for each equation",
               "Infinitely many solutions",
               "Exactly one solution"
             ],
@@ -25039,7 +25039,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Graphical and algebraic methods always produce different answers for the same system",
               "Seeing the point of intersection visually can confirm whether the algebraic solution is accurate",
-              "This concept has no connection to math",
+              "Because graphing always gives a more precise answer than algebra",
               "Graphing a system never helps verify an algebraic solution"
             ],
             "answer": 1
@@ -25058,7 +25058,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What do fossil fuels form from?",
             "options": [
-              "A concept unrelated to earth science",
+              "Minerals that crystallize as magma cools deep underground",
               "The remains of ancient organisms",
               "Pure water evaporated from the ocean",
               "Freshly grown plants harvested this year"
@@ -25069,8 +25069,8 @@ const curriculum: DayContent[] = [
             "q": "Does burning fossil fuels release greenhouse gases into the atmosphere?",
             "options": [
               "Yes",
-              "A concept unrelated to fossil fuels",
-              "Greenhouse gases have no connection to fossil fuel combustion",
+              "Burning fossil fuels releases only water vapour, never greenhouse gases",
+              "Greenhouse gases come only from volcanic eruptions, not from burning fuel",
               "No, burning fossil fuels never releases any gases"
             ],
             "answer": 0
@@ -25078,7 +25078,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Name one example of a fossil fuel.",
             "options": [
-              "A concept unrelated to fossil fuels",
+              "Natural gas formed within the last several decades",
               "Wind energy",
               "Coal",
               "Solar energy"
@@ -25088,9 +25088,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does it take millions of years for fossil fuels to form?",
             "options": [
-              "Fossil fuels are not related to any ancient organic material at all",
+              "Fossil fuels form almost instantly once organic material is buried underground",
               "They form from ancient organic material subjected to heat and pressure underground over an extremely long time",
-              "This concept has no connection to earth science",
+              "Fossil fuels form from minerals rather than from the remains of living things",
               "Fossil fuels can form within just a few days under any conditions"
             ],
             "answer": 1
@@ -25099,8 +25099,8 @@ const curriculum: DayContent[] = [
             "q": "Why are scientists concerned about the long-term environmental impact of continuing to burn fossil fuels?",
             "options": [
               "Greenhouse gases released from fossil fuels have no effect on global temperatures",
-              "This concept has no relevance to science",
-              "Burning fossil fuels has no connection to climate change of any kind",
+              "Burning fossil fuels affects only local air quality, never the global climate",
+              "Long-term climate change is driven mainly by changes in the Sun's brightness, not fuel burning",
               "The greenhouse gases released can trap heat in the atmosphere, contributing to long-term climate change"
             ],
             "answer": 3
@@ -25121,7 +25121,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A method for measuring rainfall",
               "The spread of cultural elements, such as food, from one region to another",
-              "A concept unrelated to geography",
+              "A legal process for registering trademarks internationally",
               "A process that only ever occurs within a single isolated village"
             ],
             "answer": 1
@@ -25129,9 +25129,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Has globalization accelerated how cuisines from different regions blend and spread internationally?",
             "options": [
-              "No, globalization has no connection to how cuisine spreads",
+              "Globalization affects clothing styles but never food culture",
               "Cuisine never spreads between different regions or cultures",
-              "A concept unrelated to cultural diffusion",
+              "Cultural diffusion of cuisine only occurs through written cookbooks",
               "Yes"
             ],
             "answer": 3
@@ -25150,7 +25150,7 @@ const curriculum: DayContent[] = [
             "q": "Why might immigration contribute significantly to the cultural diffusion of cuisine in a city?",
             "options": [
               "Immigration never has any connection to how food culture develops in a city",
-              "This concept has no connection to geography",
+              "Cultural diffusion of cuisine depends only on climate, not on immigration",
               "Immigrants often bring traditional recipes and cooking practices that can become part of the local food culture",
               "Cuisine never changes as a result of new people moving into a region"
             ],
@@ -25161,8 +25161,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Adapting a dish for new markets can sometimes change or simplify its original ingredients, methods, or meaning",
               "Globalized cuisine is always identical to its original, traditional form with no changes at all",
-              "Authenticity has no connection to how a cuisine spreads internationally",
-              "This concept has no relevance to social studies"
+              "Authenticity concerns arise only when a dish is served in its country of origin",
+              "Concerns about culinary authenticity apply only to desserts, never main dishes"
             ],
             "answer": 0
           }
@@ -25188,7 +25188,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A type of poem with no symbolic meaning",
               "A factual news report",
-              "A concept unrelated to reading",
+              "A type of formal debate speech",
               "A narrative whose characters and events symbolically represent deeper meanings"
             ],
             "answer": 3
@@ -25197,7 +25197,7 @@ const curriculum: DayContent[] = [
             "q": "What is a verbal?",
             "options": [
               "A punctuation mark used at the end of a sentence",
-              "A concept unrelated to grammar",
+              "A word that functions only as a verb, never as a noun or adjective",
               "A word formed from a verb that functions as another part of speech",
               "A word that can never be formed from a verb"
             ],
@@ -25207,7 +25207,7 @@ const curriculum: DayContent[] = [
             "q": "What is an allusion?",
             "options": [
               "A type of punctuation mark",
-              "A concept unrelated to reading",
+              "A formal citation style used in academic essays",
               "A detailed, direct explanation of a topic",
               "A brief, indirect reference to a person, event, or work from history or another text"
             ],
@@ -25219,7 +25219,7 @@ const curriculum: DayContent[] = [
               "Memes only exist in printed newspapers",
               "No, memes are never shared or remixed",
               "Yes",
-              "A concept unrelated to memes"
+              "Memes require official government approval before being shared online"
             ],
             "answer": 2
           },
@@ -25229,7 +25229,7 @@ const curriculum: DayContent[] = [
               "Alphabetical order",
               "Numerical order only",
               "Chronological order",
-              "A concept unrelated to reading"
+              "Thematic order"
             ],
             "answer": 2
           }
@@ -25246,7 +25246,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does any nonzero number raised to the exponent zero equal?",
             "options": [
-              "A concept unrelated to exponents",
+              "The same value as the exponent itself",
               "0",
               "1",
               "The base itself"
@@ -25258,7 +25258,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The y-intercept only",
               "The vertex of the parabola",
-              "A concept unrelated to quadratics",
+              "The slope of the parabola's axis of symmetry",
               "The x-intercepts only"
             ],
             "answer": 1
@@ -25266,7 +25266,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What are mean, median, and mode examples of?",
             "options": [
-              "A concept unrelated to statistics",
+              "Measures of probability and chance",
               "Measures of central tendency",
               "Measures of angle size",
               "Measures of area only"
@@ -25277,7 +25277,7 @@ const curriculum: DayContent[] = [
             "q": "What does it mean for two events to be independent?",
             "options": [
               "The outcome of one event always determines the other",
-              "A concept unrelated to probability",
+              "Two events that always occur at the exact same time",
               "The outcome of one event does not affect the other",
               "Independent events can never both occur"
             ],
@@ -25288,7 +25288,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A point that satisfies neither equation",
               "The y-intercept of only one equation",
-              "A concept unrelated to systems of equations",
+              "The midpoint between the two lines' y-intercepts",
               "The solution that satisfies both equations"
             ],
             "answer": 3
@@ -25307,7 +25307,7 @@ const curriculum: DayContent[] = [
             "q": "What happens to a substance’s chemical composition during a physical change?",
             "options": [
               "It always changes completely",
-              "A concept unrelated to physical changes",
+              "A substance's atoms are destroyed and replaced with new ones",
               "It stays the same",
               "It is destroyed entirely"
             ],
@@ -25319,7 +25319,7 @@ const curriculum: DayContent[] = [
               "A method for measuring the speed of chemical reactions",
               "The scientific system for classifying living things into groups",
               "A system for naming rock formations",
-              "A concept unrelated to biology"
+              "A system used to estimate the age of rock layers using fossils"
             ],
             "answer": 1
           },
@@ -25327,7 +25327,7 @@ const curriculum: DayContent[] = [
             "q": "What does biodiversity refer to?",
             "options": [
               "The variety of species within an ecosystem",
-              "A concept unrelated to biology",
+              "Biodiversity refers only to the number of predator species present",
               "The total number of rocks in an ecosystem",
               "The average temperature of an ecosystem"
             ],
@@ -25336,7 +25336,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a genetically modified organism?",
             "options": [
-              "A concept unrelated to biology",
+              "An organism bred selectively over generations without any direct DNA editing",
               "An organism that has never had any change to its DNA",
               "An organism that has had its DNA altered using biotechnology",
               "An organism found only in the ocean"
@@ -25347,7 +25347,7 @@ const curriculum: DayContent[] = [
             "q": "What do fossil fuels form from?",
             "options": [
               "The remains of ancient organisms",
-              "A concept unrelated to earth science",
+              "Minerals formed from sand and sediment compressed over time",
               "Pure water evaporated from the ocean",
               "Freshly grown plants harvested this year"
             ],
@@ -25369,7 +25369,7 @@ const curriculum: DayContent[] = [
               "A region with no economic activity at all",
               "A designated area offering reduced taxes and looser regulations to attract investment",
               "An area where all trade is banned",
-              "A concept unrelated to geography"
+              "A region where only government employees are permitted to work"
             ],
             "answer": 1
           },
@@ -25379,7 +25379,7 @@ const curriculum: DayContent[] = [
               "A process where rising property values and investment attract wealthier residents to a lower-income neighbourhood",
               "A process that always lowers property values in a neighbourhood",
               "A government policy that bans any new construction",
-              "A concept unrelated to geography"
+              "A tax exemption given exclusively to historic landmark buildings"
             ],
             "answer": 0
           },
@@ -25387,7 +25387,7 @@ const curriculum: DayContent[] = [
             "q": "What do data centres store and process?",
             "options": [
               "Only physical paper documents",
-              "A concept unrelated to geography",
+              "Only satellite images used for weather forecasting",
               "Only handwritten letters",
               "The world’s digital information"
             ],
@@ -25399,7 +25399,7 @@ const curriculum: DayContent[] = [
               "Growing food within city environments",
               "Building shopping malls in cities",
               "Growing food only in remote rural areas",
-              "A concept unrelated to geography"
+              "Converting farmland into industrial manufacturing parks"
             ],
             "answer": 0
           },
@@ -25407,7 +25407,7 @@ const curriculum: DayContent[] = [
             "q": "What is cultural diffusion?",
             "options": [
               "A method for measuring rainfall",
-              "A concept unrelated to geography",
+              "A policy restricting the import of foreign goods",
               "A process that only ever occurs within a single isolated village",
               "The spread of cultural elements, such as food, from one region to another"
             ],
@@ -25428,13 +25428,14 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: personification gives human qualities to non-human things, and pathetic fallacy is a specific form of personification in which nature or the weather reflects a character’s emotions.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=nzbFE8Ma8-I",
         "quiz": [
           {
             "q": "What is personification?",
             "options": [
               "A type of formal persuasive essay",
               "A device that removes all emotion from a poem",
-              "A concept unrelated to reading",
+              "A rhetorical question with no literal answer",
               "A literary device that gives human qualities to non-human things"
             ],
             "answer": 3
@@ -25443,9 +25444,9 @@ const curriculum: DayContent[] = [
             "q": "Is pathetic fallacy a specific form of personification involving nature or weather?",
             "options": [
               "No, pathetic fallacy never involves nature or weather",
-              "Personification has no connection to pathetic fallacy",
+              "Pathetic fallacy describes a character's internal thoughts only, never nature",
               "Yes",
-              "A concept unrelated to pathetic fallacy"
+              "Pathetic fallacy applies exclusively to dialogue between characters"
             ],
             "answer": 2
           },
@@ -25464,8 +25465,8 @@ const curriculum: DayContent[] = [
             "options": [
               "It can mirror the character’s internal emotional state through the external natural world",
               "Pathetic fallacy never connects a character’s emotions to the setting",
-              "This concept has no connection to literature",
-              "Weather description is always completely unrelated to a character’s feelings"
+              "Because weather in a story must always match the actual season of its setting",
+              "Because a storm is a required element in every tragic scene"
             ],
             "answer": 0
           },
@@ -25475,7 +25476,7 @@ const curriculum: DayContent[] = [
               "Personification never affects how a reader feels about a scene",
               "It reveals how the poet uses human traits to shape how readers feel about a scene or object",
               "Every poem uses personification in exactly the same way",
-              "This concept has no relevance to reading comprehension"
+              "Because personification only appears in poems written before the 20th century"
             ],
             "answer": 1
           }
@@ -25488,13 +25489,14 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: a trinomial of the form x^2 + bx + c can be factored into two binomials by finding two numbers that multiply to c and add to b.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=4B0hAUn1i_k",
         "quiz": [
           {
             "q": "When factoring x^2 + bx + c, what must the two numbers multiply to?",
             "options": [
               "b",
               "c",
-              "A concept unrelated to factoring",
+              "The square root of c",
               "x"
             ],
             "answer": 1
@@ -25505,7 +25507,7 @@ const curriculum: DayContent[] = [
               "No, the two numbers never need to add to b",
               "The two numbers must always add to c instead",
               "Yes",
-              "A concept unrelated to factoring trinomials"
+              "Only when c is a negative number"
             ],
             "answer": 2
           },
@@ -25532,7 +25534,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is checking a factored answer by expanding it back out useful?",
             "options": [
-              "This concept has no connection to math",
+              "Expanding is only useful when the trinomial has no middle term",
               "Expanding a factored answer never reveals any errors",
               "It confirms the product matches the original trinomial, catching arithmetic errors",
               "Factored expressions never need to be checked for accuracy"
@@ -25548,13 +25550,14 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: a volcano forms when magma from within the Earth rises to the surface, often at tectonic plate boundaries, and erupts as lava, ash, or gas.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=LQwZwKS9RPs",
         "quiz": [
           {
             "q": "What is magma called once it reaches the Earth’s surface?",
             "options": [
               "Lava",
               "Ash only",
-              "A concept unrelated to volcanoes",
+              "A mixture of ash and steam released before lava ever forms",
               "Sediment"
             ],
             "answer": 0
@@ -25562,9 +25565,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Do volcanoes often form at tectonic plate boundaries?",
             "options": [
-              "Tectonic plates have no connection to volcanoes",
+              "Volcanoes form just as often in the middle of tectonic plates as at their edges",
               "No, volcanoes never form near plate boundaries",
-              "A concept unrelated to volcanic activity",
+              "Volcanic activity depends mainly on ocean currents rather than tectonic movement",
               "Yes"
             ],
             "answer": 3
@@ -25575,7 +25578,7 @@ const curriculum: DayContent[] = [
               "Lava, ash, and gas",
               "Only fresh water",
               "Only oxygen",
-              "A concept unrelated to volcanoes"
+              "Only steam, with no ash or gas released during an eruption"
             ],
             "answer": 0
           },
@@ -25583,7 +25586,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a volcano near a subduction zone erupt more explosively than one at a hot spot?",
             "options": [
               "Thicker, gas-rich magma at subduction zones can build up more pressure before erupting",
-              "This concept has no connection to volcanoes",
+              "Subduction zone volcanoes erupt gently because their magma holds very little gas",
               "Subduction zone volcanoes never build up any pressure at all",
               "Hot spot volcanoes always erupt more explosively than subduction zone volcanoes"
             ],
@@ -25594,7 +25597,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Volcanic eruptions never pose any risk to nearby communities",
               "Monitoring volcanic activity provides no useful information for public safety",
-              "This concept has no relevance to science",
+              "Scientists monitor volcanoes mainly to study rock composition, not public safety",
               "Monitoring helps predict eruptions and protect nearby communities from lava, ash, and gas hazards"
             ],
             "answer": 3
@@ -25608,11 +25611,12 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies strand: an ecological footprint measures the amount of land and resources required to support a person’s lifestyle and absorb their waste, allowing comparisons of environmental impact.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=xEvOr2im3KY",
         "quiz": [
           {
             "q": "What does an ecological footprint measure?",
             "options": [
-              "A concept unrelated to geography",
+              "The number of endangered species living in a region",
               "The average temperature of a region",
               "The land and resources required to support a lifestyle and absorb its waste",
               "The total population of a country"
@@ -25622,10 +25626,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Can ecological footprints be used to compare environmental impact between countries?",
             "options": [
-              "A concept unrelated to ecological footprint",
+              "Ecological footprints can only be measured for individual cities, never countries",
               "No, ecological footprints can never be compared between countries",
               "Yes",
-              "Environmental impact has no connection to ecological footprint"
+              "Ecological footprint calculations apply only to industrial pollution, not resource consumption"
             ],
             "answer": 2
           },
@@ -25642,9 +25646,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might people in wealthier countries generally have larger ecological footprints than people in lower-income countries?",
             "options": [
-              "This concept has no connection to geography",
+              "Ecological footprints are determined mainly by a country's geographic size",
               "Higher consumption of resources, energy, and goods increases the demand placed on the environment",
-              "Wealth has no effect on how many resources a person consumes",
+              "Resource consumption levels depend only on a country's climate, not its wealth",
               "Wealthier countries always have smaller ecological footprints than lower-income countries"
             ],
             "answer": 1
@@ -25652,7 +25656,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding ecological footprint useful for planning sustainable communities?",
             "options": [
-              "This concept has no relevance to social studies",
+              "Ecological footprint data is used mainly to set national speed limits",
               "Sustainable communities never need to consider resource consumption",
               "It helps identify areas where resource consumption and waste can be reduced",
               "Ecological footprint provides no useful information for sustainability planning"
@@ -25673,12 +25677,13 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: a formal debate speech presents a clear claim supported by evidence and reasoning, while also anticipating and addressing counter-arguments from the opposing side.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=QpiUfzDfzpg",
         "quiz": [
           {
             "q": "What must a formal debate speech present?",
             "options": [
               "A list of unrelated facts with no argument",
-              "A concept unrelated to writing",
+              "A series of rhetorical questions with no direct claim",
               "A summary of the opposing team’s schedule",
               "A clear claim supported by evidence and reasoning"
             ],
@@ -25688,8 +25693,8 @@ const curriculum: DayContent[] = [
             "q": "Should a debate speech anticipate counter-arguments from the opposing side?",
             "options": [
               "No, a debate speech should never consider the opposing side",
-              "A concept unrelated to debate speeches",
-              "Counter-arguments have no connection to a formal debate",
+              "Counter-arguments should only be addressed by the judges, not the speaker",
+              "Anticipating counter-arguments is required only in written essays, not spoken debates",
               "Yes"
             ],
             "answer": 3
@@ -25699,7 +25704,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A list of unrelated statistics with no context",
               "A clear statement of the position being argued",
-              "A joke with no connection to the topic",
+              "A lengthy quotation from the opposing team's speech",
               "A description of the debate venue"
             ],
             "answer": 1
@@ -25710,7 +25715,7 @@ const curriculum: DayContent[] = [
               "Addressing counter-arguments always weakens a debater’s position",
               "Debaters should never acknowledge any opposing viewpoint",
               "It demonstrates the speaker has considered other views, strengthening their credibility",
-              "This concept has no connection to writing"
+              "Because debate rules require every speech to end with a counter-argument"
             ],
             "answer": 2
           },
@@ -25720,7 +25725,7 @@ const curriculum: DayContent[] = [
               "Credible evidence never strengthens a persuasive argument",
               "A debate speech never requires any supporting evidence",
               "It makes the argument more persuasive and trustworthy to the audience and judges",
-              "This concept has no relevance to writing"
+              "Because evidence is only evaluated after a debate has already concluded"
             ],
             "answer": 2
           }
@@ -25733,11 +25738,22 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: when multiplying powers with the same base, add the exponents; when dividing powers with the same base, subtract the exponents.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=OY52uslSxWs",
+        "videoUrls": [
+          {
+            "label": "Multiplying Powers with the Same Base",
+            "url": "https://www.youtube.com/watch?v=OY52uslSxWs"
+          },
+          {
+            "label": "Dividing Powers with the Same Base",
+            "url": "https://www.youtube.com/watch?v=Ei817TVioBU"
+          }
+        ],
         "quiz": [
           {
             "q": "When multiplying powers with the same base, what operation is performed on the exponents?",
             "options": [
-              "A concept unrelated to exponents",
+              "They are set equal to each other",
               "They are multiplied together",
               "They are subtracted",
               "They are added"
@@ -25748,7 +25764,7 @@ const curriculum: DayContent[] = [
             "q": "When dividing powers with the same base, are the exponents subtracted?",
             "options": [
               "Yes",
-              "A concept unrelated to dividing powers",
+              "Only when the base is a prime number",
               "The exponents are always added instead when dividing",
               "No, exponents are never subtracted when dividing powers"
             ],
@@ -25779,7 +25795,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The bases never need to match to use these exponent laws",
               "Exponent laws work identically regardless of whether the bases match",
-              "This concept has no connection to math",
+              "Because exponent laws apply the same way to addition and multiplication",
               "These exponent laws only apply when multiplying or dividing identical bases"
             ],
             "answer": 3
@@ -25793,11 +25809,12 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: ionic compounds are named using the metal name followed by the nonmetal name with an -ide ending, while molecular compounds use prefixes to indicate the number of atoms of each element.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=nijb6UMvZuE",
         "quiz": [
           {
             "q": "How is an ionic compound like sodium chloride typically named?",
             "options": [
-              "A concept unrelated to chemistry",
+              "By combining the chemical formulas of two compounds into a single name",
               "Metal name followed by the nonmetal name with an -ide ending",
               "Two nonmetal names joined with no ending change",
               "Only the chemical formula, with no written name"
@@ -25810,7 +25827,7 @@ const curriculum: DayContent[] = [
               "No, molecular compound names never use prefixes",
               "Prefixes are only ever used for ionic compounds",
               "Yes",
-              "A concept unrelated to molecular nomenclature"
+              "Prefixes in molecular compound names indicate only the compound's colour"
             ],
             "answer": 2
           },
@@ -25827,7 +25844,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does table salt use the ending -ide rather than the element’s usual name chlorine?",
             "options": [
-              "This concept has no connection to chemistry",
+              "Chlorine and chloride differ only in spelling, not in their chemical identity",
               "Chlorine and chloride always refer to exactly the same thing with no naming difference",
               "The -ide ending is the naming convention for the negative ion formed from chlorine in a compound",
               "The -ide ending is never used when naming a compound"
@@ -25839,7 +25856,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A standardized naming system provides no benefit to scientific communication",
               "It ensures scientists everywhere can identify the same compound regardless of language",
-              "This concept has no relevance to science",
+              "A standardized naming system matters only within a single country's labs",
               "Every scientist uses a completely different, incompatible naming system"
             ],
             "answer": 1
@@ -25853,13 +25870,14 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies strand: hydroelectric power generates electricity by using flowing or falling water to turn turbines, and building large dams to harness this resource can reshape rivers, ecosystems, and communities.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=dcZ0BXJYlUA",
         "quiz": [
           {
             "q": "What does hydroelectric power use to generate electricity?",
             "options": [
               "Burning coal to heat water into steam",
               "Flowing or falling water turning turbines",
-              "A concept unrelated to geography",
+              "Heat released from underground volcanic activity",
               "Wind passing over large blades"
             ],
             "answer": 1
@@ -25870,7 +25888,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "No, dam construction never affects ecosystems or communities",
               "Communities are never affected by the construction of a dam",
-              "A concept unrelated to hydroelectric geography"
+              "Dam construction only affects marine ecosystems in the open ocean"
             ],
             "answer": 0
           },
@@ -25879,7 +25897,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A river with sufficient flow and elevation change",
               "A flat desert with no water source",
-              "A concept unrelated to hydroelectric power",
+              "A dense urban area with high electricity demand",
               "A calm lake with no water movement at all"
             ],
             "answer": 0
@@ -25890,7 +25908,7 @@ const curriculum: DayContent[] = [
               "Mountainous regions never provide any advantage for generating hydroelectric power",
               "Steep elevation change provides more force to generate power as water falls",
               "Flat plains always generate more hydroelectric power than mountainous regions",
-              "This concept has no connection to geography"
+              "Mountainous regions are chosen mainly because construction materials are cheaper there"
             ],
             "answer": 1
           },
@@ -25899,7 +25917,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Communities are always in favour of every dam project with no concerns",
               "Hydroelectric dams never have any impact on land or wildlife",
-              "This concept has no relevance to social studies",
+              "Communities oppose dams mainly due to concerns about noise from wind turbines",
               "Dams can flood land, displace residents, and disrupt fish and wildlife habitats"
             ],
             "answer": 3
@@ -25926,14 +25944,14 @@ const curriculum: DayContent[] = [
               "A sentence with no punctuation errors at all",
               "Two independent clauses joined incorrectly by only a comma",
               "A single independent clause with a period at the end",
-              "A concept unrelated to grammar"
+              "Two independent clauses joined correctly with a semicolon"
             ],
             "answer": 1
           },
           {
             "q": "Does a fused sentence join two independent clauses with no punctuation at all?",
             "options": [
-              "A concept unrelated to fused sentences",
+              "A fused sentence is a sentence that contains too many commas",
               "Yes",
               "No, a fused sentence always includes a semicolon",
               "Fused sentences never join two independent clauses"
@@ -25966,7 +25984,7 @@ const curriculum: DayContent[] = [
               "It helps readers see where one complete thought ends and another begins",
               "Every sentence must contain a comma splice to be grammatically correct",
               "These errors never affect how clearly a reader understands a sentence",
-              "This concept has no connection to grammar"
+              "Because comma splices are only an issue in spoken language, not in writing"
             ],
             "answer": 0
           }
@@ -25985,7 +26003,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Data into intervals with a count of how many values fall in each",
               "A single value repeated many times with no intervals",
-              "A concept unrelated to data management",
+              "A list of formulas used to calculate probability",
               "Only the largest and smallest values in a data set"
             ],
             "answer": 0
@@ -25994,7 +26012,7 @@ const curriculum: DayContent[] = [
             "q": "Do the bars in a histogram touch with no gaps between them?",
             "options": [
               "No, histogram bars always have gaps between them",
-              "A concept unrelated to histograms",
+              "Only when the data set has fewer than ten values",
               "Yes",
               "Histograms never use bars of any kind"
             ],
@@ -26015,7 +26033,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Histogram bars touch to show continuous numerical intervals, while bar graph bars are usually separated for distinct categories",
               "Bar graphs are always used for continuous numerical data instead of histograms",
-              "This concept has no connection to math",
+              "Histograms are only used for categorical data, just like bar graphs",
               "Histograms and bar graphs are always exactly identical with no differences"
             ],
             "answer": 0
@@ -26026,7 +26044,7 @@ const curriculum: DayContent[] = [
               "It shows the shape and spread of the data at a glance, including where most values cluster",
               "Histograms can only be used for data sets with fewer than five values",
               "A histogram never reveals any information about how data is distributed",
-              "This concept has no connection to math"
+              "Because histograms can only display up to ten data points at once"
             ],
             "answer": 0
           }
@@ -26105,7 +26123,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The number of dependents to the working-age population",
               "The total land area to the total population",
-              "A concept unrelated to population geography",
+              "The ratio of urban residents to rural residents in a country",
               "The number of cities to the number of provinces"
             ],
             "answer": 0
@@ -26113,9 +26131,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Does an aging population increase the elderly portion of the dependency ratio?",
             "options": [
-              "A concept unrelated to aging populations",
+              "Dependency ratios apply only to countries with a declining population",
               "No, an aging population never affects the dependency ratio",
-              "The dependency ratio has no connection to a country’s age structure",
+              "A country's age structure is determined solely by its birth rate, never life expectancy",
               "Yes"
             ],
             "answer": 3
@@ -26123,7 +26141,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these countries would likely have a high dependency ratio due to an aging population?",
             "options": [
-              "A concept unrelated to dependency ratio",
+              "A country with a rapidly growing working-age population and high birth rate",
               "A country with a large elderly population and a low birth rate",
               "A country with mostly working-age adults and few elderly residents",
               "A country with no population data available"
@@ -26133,7 +26151,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a country with an aging population face economic challenges related to healthcare and pensions?",
             "options": [
-              "This concept has no connection to geography",
+              "Economic challenges from aging populations occur only in countries with small land areas",
               "Elderly populations never require healthcare or pension support",
               "Aging populations never create any additional economic demands",
               "Fewer working-age people are left to support the costs of a larger elderly population needing services"
@@ -26145,7 +26163,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Immigration never affects a country’s dependency ratio",
               "It can help balance the dependency ratio and support continued economic productivity",
-              "This concept has no relevance to social studies",
+              "Immigration policy is determined solely by a country's climate conditions",
               "Working-age immigrants never contribute to a country’s workforce"
             ],
             "answer": 1
@@ -26172,7 +26190,7 @@ const curriculum: DayContent[] = [
               "Emotionally charged words",
               "Neutral, factual statistics only",
               "Only formal, technical terminology",
-              "A concept unrelated to vocabulary"
+              "Statistical data presented with no descriptive language at all"
             ],
             "answer": 0
           },
@@ -26182,7 +26200,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "No, the bandwagon technique never appeals to a sense of belonging",
               "The bandwagon technique only ever appeals to logic",
-              "A concept unrelated to propaganda techniques"
+              "The bandwagon technique relies on citing expert scientific research"
             ],
             "answer": 0
           },
@@ -26202,14 +26220,14 @@ const curriculum: DayContent[] = [
               "It can create positive associations with the product without providing specific evidence",
               "Glittering generalities always provide detailed factual evidence for a claim",
               "This technique never has any persuasive effect on an audience",
-              "This concept has no connection to vocabulary"
+              "Because advertising regulations require the use of glittering generalities"
             ],
             "answer": 0
           },
           {
             "q": "Why is it important to identify loaded language and propaganda techniques when evaluating a persuasive text?",
             "options": [
-              "This concept has no relevance to vocabulary study",
+              "Because loaded language is only found in advertisements, never in news or speeches",
               "Every persuasive text relies exclusively on factual evidence with no emotional appeal",
               "It helps readers separate emotional appeal from factual evidence and sound reasoning",
               "Loaded language and propaganda techniques never affect how a message is perceived"
@@ -26230,7 +26248,7 @@ const curriculum: DayContent[] = [
             "q": "How is percent change generally calculated?",
             "options": [
               "The new value divided by 100",
-              "A concept unrelated to percent change",
+              "The new value minus 100, divided by 2",
               "The difference between the new and original value, divided by the original value, times 100",
               "The original value divided by the new value"
             ],
@@ -26239,7 +26257,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Does a positive percent change indicate an increase from the original value?",
             "options": [
-              "A concept unrelated to percent change",
+              "Only when the original value is less than 10",
               "No, a positive percent change always indicates a decrease",
               "Yes",
               "Percent change is never positive or negative"
@@ -26272,7 +26290,7 @@ const curriculum: DayContent[] = [
               "It expresses change relative to the original size, making comparisons fair across different scales",
               "The raw numerical difference always gives a more accurate comparison than percent change",
               "Percent change never provides a fair way to compare data sets of different sizes",
-              "This concept has no connection to math"
+              "Because the raw numerical difference is always more precise for large data sets"
             ],
             "answer": 0
           }
@@ -26290,7 +26308,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The total mass of every organism in an ecosystem",
               "A single path of energy transfer between organisms",
-              "A concept unrelated to biology",
+              "The total rainfall received by an ecosystem over the course of a year",
               "The temperature changes within an ecosystem"
             ],
             "answer": 1
@@ -26299,7 +26317,7 @@ const curriculum: DayContent[] = [
             "q": "Does a food web connect multiple interlinked food chains?",
             "options": [
               "Yes",
-              "A concept unrelated to food webs",
+              "A food web describes only the plant species within an ecosystem",
               "Food webs and food chains always refer to exactly the same single path",
               "No, a food web never connects more than one food chain"
             ],
@@ -26308,7 +26326,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In an energy pyramid, does available energy decrease or increase at each higher trophic level?",
             "options": [
-              "A concept unrelated to energy pyramids",
+              "Energy decreases only at the topmost level, staying constant everywhere else",
               "It increases",
               "It decreases",
               "It stays exactly the same at every level"
@@ -26319,7 +26337,7 @@ const curriculum: DayContent[] = [
             "q": "Why do food webs give a more accurate picture of ecosystem relationships than a single food chain?",
             "options": [
               "Food webs never provide any more detail than a single food chain",
-              "This concept has no connection to biology",
+              "Food webs show less detail than a single food chain since they combine multiple paths",
               "A single food chain always shows every relationship in an ecosystem accurately",
               "Most organisms eat and are eaten by more than one species, so multiple interconnected paths exist"
             ],
@@ -26330,7 +26348,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Most energy is lost as heat through life processes like movement and metabolism at each level",
               "Energy pyramids never involve any loss of energy between levels",
-              "This concept has no relevance to science",
+              "Energy loss between trophic levels only happens in aquatic ecosystems",
               "All of the energy at one trophic level is always transferred completely to the next"
             ],
             "answer": 0
@@ -26351,7 +26369,7 @@ const curriculum: DayContent[] = [
               "Unregulated, untaxed economic activity",
               "Only activity that occurs in wealthy countries",
               "Only large, government-registered corporations",
-              "A concept unrelated to economic geography"
+              "Economic activity that occurs exclusively in online marketplaces"
             ],
             "answer": 0
           },
@@ -26359,8 +26377,8 @@ const curriculum: DayContent[] = [
             "q": "Is street vending a common example of informal economic activity?",
             "options": [
               "Yes",
-              "Street vending has no connection to informal economic activity",
-              "A concept unrelated to the informal economy",
+              "Street vending is classified as part of a country's formal manufacturing sector",
+              "Informal economic activity occurs only in agricultural industries",
               "No, street vending is always formally regulated and taxed"
             ],
             "answer": 0
@@ -26368,7 +26386,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these best describes informal economic work?",
             "options": [
-              "A concept unrelated to economic geography",
+              "Work that is fully insured and regulated by international trade agreements",
               "Work performed only within large multinational corporations",
               "Fully licensed work with complete government oversight",
               "Unlicensed, untaxed labour that operates outside government regulation"
@@ -26380,7 +26398,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Benefits like healthcare are never connected to a worker’s employment status",
               "Their work is unregistered and untaxed, placing it outside formal labour protections",
-              "This concept has no connection to geography",
+              "Access to benefits depends only on a worker's level of education",
               "Informal economy workers always receive the same benefits as formal employees"
             ],
             "answer": 1
@@ -26390,7 +26408,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Governments never face any difficulty measuring economic activity",
               "The informal economy is always fully included in official government statistics",
-              "This concept has no relevance to social studies",
+              "Measuring economic activity is only difficult in countries with no currency",
               "Informal transactions go unreported and untaxed, so they are excluded from official statistics"
             ],
             "answer": 3
@@ -26416,7 +26434,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A precise, literal description with no exaggeration",
               "A type of formal citation",
-              "A concept unrelated to reading",
+              "A comparison of two unlike things using the words like or as",
               "Deliberate exaggeration for emphasis or effect"
             ],
             "answer": 3
@@ -26426,8 +26444,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes",
               "No, understatement always exaggerates the importance of something",
-              "Understatement has no connection to how a statement is expressed",
-              "A concept unrelated to understatement"
+              "Understatement is a formal technique used only in legal writing",
+              "Understatement always uses the words like or as to make its comparison"
             ],
             "answer": 0
           },
@@ -26456,7 +26474,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It can create an ironic contrast that highlights the event’s true severity through restraint",
               "Understatement always makes a serious event seem more dramatic and exaggerated",
-              "This concept has no connection to reading",
+              "Because understatement is required whenever describing a historical event",
               "Understatement never affects how a reader perceives a described event"
             ],
             "answer": 0
@@ -26475,7 +26493,7 @@ const curriculum: DayContent[] = [
             "q": "What is a common first step when solving an equation containing fractions?",
             "options": [
               "Immediately divide every term by zero",
-              "A concept unrelated to solving equations",
+              "Convert every fraction into a decimal first",
               "Ignore the fractions and solve only with the whole numbers present",
               "Multiply every term by the common denominator to clear the fractions"
             ],
@@ -26485,7 +26503,7 @@ const curriculum: DayContent[] = [
             "q": "Can multiplying every term of an equation with decimals by a power of ten clear the decimals?",
             "options": [
               "Yes",
-              "A concept unrelated to solving equations",
+              "Only works if all the decimals have the same number of places",
               "Multiplying by a power of ten always creates more decimals",
               "No, decimals in an equation can never be cleared"
             ],
@@ -26514,7 +26532,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is clearing fractions or decimals from an equation before solving often helpful?",
             "options": [
-              "This concept has no connection to math",
+              "Because equations with fractions always have no solution",
               "Equations with fractions or decimals can never be solved using this method",
               "It simplifies the equation into whole numbers, reducing the chance of arithmetic errors",
               "Clearing fractions or decimals always makes an equation harder to solve"
@@ -26536,7 +26554,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A single continuous substance with no particles",
               "Only visible solid chunks with no motion",
-              "A concept unrelated to chemistry",
+              "A single solid substance containing no individual particles",
               "Tiny particles in constant motion"
             ],
             "answer": 3
@@ -26544,9 +26562,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Do particles have spaces between them according to the particle theory of matter?",
             "options": [
-              "Spacing between particles has no connection to the particle theory",
+              "Particle spacing depends only on temperature, never on the state of matter",
               "No, particles are always packed with absolutely no space between them",
-              "A concept unrelated to the particle theory",
+              "Particles are locked into a fixed pattern with absolutely no space between them",
               "Yes"
             ],
             "answer": 3
@@ -26555,7 +26573,7 @@ const curriculum: DayContent[] = [
             "q": "What happens to particle motion when energy is added to a solid, causing it to melt?",
             "options": [
               "Particles stop moving completely",
-              "A concept unrelated to changes of state",
+              "Particles move closer together and speed up as they melt",
               "Particles move closer together and slow down",
               "Particles move faster and spread further apart"
             ],
@@ -26566,7 +26584,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Gas particles always have less energy than particles in a solid",
               "Gas particles have much more energy and move more freely, spreading further apart",
-              "This concept has no connection to chemistry",
+              "Gas particles have more space because they contain less energy than solid particles",
               "The spacing between particles never changes between different states of matter"
             ],
             "answer": 1
@@ -26575,7 +26593,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the particle theory of matter useful for explaining why gases can be compressed but solids generally cannot?",
             "options": [
               "Gas particles have large spaces between them that can be pushed closer together, while solid particles are already tightly packed",
-              "This concept has no relevance to science",
+              "Gases and solids compress by exactly the same amount under pressure",
               "Gases and solids always compress in exactly the same way",
               "Solids can always be compressed far more easily than gases"
             ],
@@ -26596,7 +26614,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Complete elimination of all regional governments",
               "Independence or greater autonomy",
-              "A concept unrelated to political geography",
+              "Expansion of a country's military presence in neighbouring territories",
               "Total merger with a neighbouring country’s government"
             ],
             "answer": 1
@@ -26606,8 +26624,8 @@ const curriculum: DayContent[] = [
             "options": [
               "No, separatist movements never relate to culture or language",
               "Yes",
-              "A concept unrelated to separatist movements",
-              "Cultural identity has no connection to political geography"
+              "Separatist movements occur only in countries without a written constitution",
+              "Cultural identity influences tourism patterns but never political movements"
             ],
             "answer": 1
           },
@@ -26617,7 +26635,7 @@ const curriculum: DayContent[] = [
               "A region having a distinct language, culture, or history from the rest of the country",
               "A region having no population of its own",
               "A region having identical culture and language to the rest of the country",
-              "A concept unrelated to political geography"
+              "A region having access to a larger seaport than neighbouring regions"
             ],
             "answer": 0
           },
@@ -26626,7 +26644,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Separatist movements only occur in regions with no economic resources",
               "Residents may feel they contribute more wealth than they receive back in return",
-              "This concept has no connection to geography",
+              "Economic resources affect a region's climate but not its political movements",
               "Economically strong regions never support separatist movements"
             ],
             "answer": 1
@@ -26635,7 +26653,7 @@ const curriculum: DayContent[] = [
             "q": "Why do political geographers study separatist movements around the world?",
             "options": [
               "Separatist movements never provide any useful information to political geographers",
-              "This concept has no relevance to social studies",
+              "Political geographers study separatist movements mainly to design new currencies",
               "Understanding regional identity and autonomy conflicts helps explain how national borders and governance can change over time",
               "National borders never change as a result of separatist movements"
             ],
@@ -26703,7 +26721,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Because satire is never shared online",
               "Because satire is only found in centuries-old literature",
-              "Because satire has no connection to critical thinking",
+              "Because satire always states clearly that it should not be taken literally",
               "Because satirical content can be mistaken for real news if a reader doesn't recognize its ironic intent"
             ],
             "answer": 3
@@ -26720,7 +26738,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How many solutions does a linear system have if the two lines intersect at a single point?",
             "options": [
-              "A concept unrelated to systems of equations",
+              "The number of solutions equals the sum of the two slopes",
               "No solution",
               "One solution",
               "Infinitely many solutions"
@@ -26731,7 +26749,7 @@ const curriculum: DayContent[] = [
             "q": "Does a system with two parallel, non-identical lines have no solution?",
             "options": [
               "Yes",
-              "A concept unrelated to parallel lines",
+              "Only when the two lines have different slopes",
               "Parallel lines always produce infinitely many solutions",
               "No, parallel non-identical lines always have exactly one solution"
             ],
@@ -26741,7 +26759,7 @@ const curriculum: DayContent[] = [
             "q": "How many solutions exist if both equations in a system graph as the exact same line?",
             "options": [
               "Infinitely many solutions",
-              "A concept unrelated to systems of equations",
+              "Exactly two solutions, since there are two equations",
               "No solution at all",
               "Exactly one solution"
             ],
@@ -26750,7 +26768,7 @@ const curriculum: DayContent[] = [
           {
             "q": "If two lines in a system have the same slope but different y-intercepts, how many solutions does the system have?",
             "options": [
-              "A concept unrelated to systems of equations",
+              "Infinitely many solutions, since the lines are identical",
               "Infinitely many solutions",
               "Exactly one solution",
               "No solution"
@@ -26761,7 +26779,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful to compare the slopes and y-intercepts of two equations before graphing them to solve a system?",
             "options": [
               "Comparing slopes and y-intercepts never provides any useful information about a system",
-              "This concept has no connection to math",
+              "Because the slope alone always determines the exact solution point",
               "It allows you to predict how many solutions the system will have without graphing",
               "The number of solutions to a system can never be predicted before graphing"
             ],
@@ -26779,7 +26797,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Does a convex lens curve outward?",
             "options": [
-              "A concept unrelated to lenses",
+              "A lens shape found only in telescopes, never eyeglasses",
               "No, a convex lens always curves inward",
               "Convex lenses have no defined curvature",
               "Yes"
@@ -26789,7 +26807,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Does a concave lens diverge light rays?",
             "options": [
-              "A concept unrelated to concave lenses",
+              "A lens that bends all light rays toward a single focal point",
               "No, a concave lens always converges light rays",
               "Yes",
               "Concave lenses never affect the path of light"
@@ -26800,8 +26818,8 @@ const curriculum: DayContent[] = [
             "q": "Which type of lens is commonly used to correct farsightedness by converging light?",
             "options": [
               "Neither type of lens is ever used for vision correction",
-              "A concept unrelated to lenses",
               "A concave lens",
+              "A diverging lens used only in telescopes",
               "A convex lens"
             ],
             "answer": 3
@@ -26812,7 +26830,7 @@ const curriculum: DayContent[] = [
               "A convex lens always spreads light rays further apart",
               "Convex lenses never bend light rays in any direction",
               "Its outward curve bends parallel light rays inward toward a common point",
-              "This concept has no connection to science"
+              "A convex lens bends light outward, scattering it before it reaches a focal point"
             ],
             "answer": 2
           },
@@ -26821,7 +26839,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Concave lenses always converge light exactly like a convex lens",
               "Concave lenses never have any effect on how light enters the eye",
-              "This concept has no relevance to science",
+              "Concave lenses work by converging light rays onto a single point on the retina",
               "It diverges light rays before they enter the eye, adjusting where the image comes into focus on the retina"
             ],
             "answer": 3
@@ -26882,7 +26900,7 @@ const curriculum: DayContent[] = [
               "It shows how Canada positioned itself within global political tensions",
               "Canada was entirely disconnected from world events during the Cold War",
               "Canada had no role in Cold War events",
-              "This period has no relevance to Canadian history"
+              "The Cold War is studied only in the context of European history"
             ],
             "answer": 0
           }
@@ -26905,7 +26923,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How is possession typically shown for a singular noun?",
             "options": [
-              "A concept unrelated to grammar",
+              "Add an apostrophe after the s",
               "Add only an s with no apostrophe",
               "Add an apostrophe and s",
               "Add an apostrophe at the very start of the word"
@@ -26915,7 +26933,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Does an apostrophe in a contraction mark missing letters?",
             "options": [
-              "A concept unrelated to contractions",
+              "An apostrophe in a contraction shows that the word is plural",
               "Yes",
               "No, apostrophes in contractions never mark missing letters",
               "Contractions never contain an apostrophe"
@@ -26938,7 +26956,7 @@ const curriculum: DayContent[] = [
               "Belonging to it",
               "It is",
               "It was",
-              "A concept unrelated to contractions"
+              "The possessive form of the pronoun they"
             ],
             "answer": 1
           },
@@ -26947,7 +26965,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Using the wrong form changes the meaning and signals a grammatical error to careful readers",
               "Formal writing never requires distinguishing between these two words",
-              "This concept has no connection to grammar",
+              "Because its is used in British English while it's is used in American English",
               "The two words are always completely interchangeable with no difference in meaning"
             ],
             "answer": 0
@@ -27028,7 +27046,7 @@ const curriculum: DayContent[] = [
               "A single raindrop falling from a cloud",
               "A large body of air with fairly uniform temperature and humidity",
               "A small pocket of gas found underground",
-              "A concept unrelated to earth science"
+              "A dense cloud formation that forms only above mountain ranges"
             ],
             "answer": 1
           },
@@ -27038,7 +27056,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "Air masses never interact with one another",
               "No, a front never forms where air masses meet",
-              "A concept unrelated to weather fronts"
+              "Fronts only form when a single air mass splits into two separate masses"
             ],
             "answer": 0
           },
@@ -27046,9 +27064,9 @@ const curriculum: DayContent[] = [
             "q": "What type of front forms when a cold air mass pushes under and lifts a warm air mass?",
             "options": [
               "A warm front",
-              "A concept unrelated to weather systems",
+              "A stationary front",
               "A cold front",
-              "A stationary front"
+              "An occluded front"
             ],
             "answer": 2
           },
@@ -27056,7 +27074,7 @@ const curriculum: DayContent[] = [
             "q": "Why do fronts often bring precipitation and changing weather conditions?",
             "options": [
               "Fronts never have any effect on precipitation or weather conditions",
-              "This concept has no connection to earth science",
+              "Precipitation during a front is caused mainly by sudden drops in air pressure alone",
               "Air masses always have exactly the same temperature and humidity when they meet",
               "Warm air rising over cooler air can cool and condense, forming clouds and precipitation"
             ],
@@ -27065,7 +27083,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might meteorologists track the movement of air masses to forecast upcoming weather?",
             "options": [
-              "This concept has no relevance to science",
+              "Air mass movement is tracked mainly to study long-term climate trends, not daily forecasts",
               "The temperature and humidity of an approaching air mass strongly influence future weather conditions",
               "Air masses never provide any information useful for forecasting weather",
               "Weather conditions are never influenced by the movement of air masses"
@@ -27086,7 +27104,7 @@ const curriculum: DayContent[] = [
             "q": "What does a smart city use to improve urban services?",
             "options": [
               "A complete absence of any infrastructure",
-              "A concept unrelated to urban geography",
+              "A complete ban on the use of personal vehicles within city limits",
               "Digital technology and data collection",
               "Only traditional paper-based record keeping"
             ],
@@ -27097,7 +27115,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes",
               "Traffic flow and energy use are never influenced by technology",
-              "A concept unrelated to smart cities",
+              "Smart city sensors are used only to track weather patterns, not traffic",
               "No, smart city sensors never have any connection to traffic or energy use"
             ],
             "answer": 0
@@ -27107,7 +27125,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A traditional printed city map with no digital features",
               "A city with no connected infrastructure of any kind",
-              "A concept unrelated to smart cities",
+              "A subway system that has operated unchanged since the 1950s",
               "Traffic lights that adjust automatically based on real-time congestion data"
             ],
             "answer": 3
@@ -27115,7 +27133,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a smart city use connected sensors to monitor water or energy usage across the city?",
             "options": [
-              "This concept has no connection to geography",
+              "Sensors monitoring resource usage are required mainly for tourism marketing",
               "It allows planners to identify inefficiencies and respond quickly to problems like leaks or outages",
               "Smart city sensors are never used to monitor resource usage",
               "Monitoring water and energy usage never provides any useful information to city planners"
@@ -27125,10 +27143,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do some critics raise privacy concerns about smart city technology?",
             "options": [
-              "This concept has no relevance to social studies",
+              "Privacy concerns about smart cities relate only to outdoor advertising billboards",
               "Smart city technology never collects any data about residents",
               "Extensive data collection about residents’ movements and habits could be misused or inadequately protected",
-              "Privacy concerns have no connection to how smart city technology operates"
+              "Smart city technology's data collection methods are regulated identically in every country"
             ],
             "answer": 2
           }
@@ -27154,7 +27172,7 @@ const curriculum: DayContent[] = [
               "Two contrasting ideas, characters, or images",
               "A single idea repeated multiple times",
               "Two identical, unrelated grammar rules",
-              "A concept unrelated to reading"
+              "A list of chronological events arranged on a timeline"
             ],
             "answer": 0
           },
@@ -27163,7 +27181,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes",
               "No, juxtaposition never highlights any differences",
-              "A concept unrelated to juxtaposition",
+              "Juxtaposition only functions in poetry, never in prose",
               "Contrasting ideas placed together never create additional meaning"
             ],
             "answer": 0
@@ -27184,7 +27202,7 @@ const curriculum: DayContent[] = [
               "Juxtaposing a peaceful setting with a violent event never affects a reader’s emotional response",
               "Peaceful and violent scenes can never be placed near each other in a story",
               "The contrast can intensify the emotional impact of the violent event on the reader",
-              "This concept has no connection to literature"
+              "Because juxtaposition is required to resolve a story's central conflict"
             ],
             "answer": 2
           },
@@ -27194,7 +27212,7 @@ const curriculum: DayContent[] = [
               "Juxtaposition never reveals any deeper meaning about a text’s themes",
               "The contrast between two elements often reveals the author’s underlying commentary or message",
               "Every element in a story is always presented in complete isolation with no contrast",
-              "This concept has no relevance to reading comprehension"
+              "Because juxtaposition only applies to analyzing a character's physical appearance"
             ],
             "answer": 1
           }
@@ -27214,7 +27232,7 @@ const curriculum: DayContent[] = [
               "An object drawn without any consistent proportions",
               "A completely random, unrelated set of dimensions",
               "A proportional scale factor",
-              "A concept unrelated to measurement"
+              "The actual measurements of the object with no changes"
             ],
             "answer": 2
           },
@@ -27224,7 +27242,7 @@ const curriculum: DayContent[] = [
               "No, the scale factor never compares a diagram to the real object",
               "Yes",
               "Scale factor only ever applies to three-dimensional objects",
-              "A concept unrelated to scale factor"
+              "Only when the diagram is larger than the real object"
             ],
             "answer": 1
           },
@@ -27251,7 +27269,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding scale factor important when reading a blueprint or map?",
             "options": [
-              "This concept has no connection to math",
+              "Because blueprints and maps are always drawn at actual size",
               "Blueprints and maps never use a consistent scale factor",
               "It allows accurate real-world measurements to be calculated from a smaller proportional drawing",
               "Scale factor never allows any real-world measurements to be calculated"
@@ -27273,7 +27291,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only undigested food particles",
               "Metabolic waste products",
-              "A concept unrelated to biology",
+              "Excess glucose that the body no longer needs for energy",
               "Only oxygen from the lungs"
             ],
             "answer": 1
@@ -27283,7 +27301,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Urea and water are never removed by the kidneys",
               "Yes",
-              "A concept unrelated to the excretory system",
+              "The kidneys filter blood mainly to add oxygen to it, not remove waste",
               "No, the kidneys never filter blood"
             ],
             "answer": 1
@@ -27293,7 +27311,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Oxygen",
               "Urea",
-              "A concept unrelated to the excretory system",
+              "Carbon dioxide filtered out before it reaches the lungs",
               "Glucose"
             ],
             "answer": 1
@@ -27303,7 +27321,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Homeostasis is maintained entirely without any involvement from the excretory system",
               "The excretory system never has any connection to maintaining stable internal conditions",
-              "This concept has no connection to biology",
+              "The excretory system mainly regulates body temperature rather than waste and water balance",
               "It removes waste and helps regulate water and ion balance, keeping internal conditions stable"
             ],
             "answer": 3
@@ -27314,7 +27332,7 @@ const curriculum: DayContent[] = [
               "With less water available, the kidneys conserve water, producing more concentrated urine",
               "The kidneys always produce urine of exactly the same concentration regardless of hydration",
               "Dehydration never affects the concentration of a person’s urine",
-              "This concept has no relevance to science"
+              "Dehydration causes the kidneys to produce more diluted urine than usual"
             ],
             "answer": 0
           }
@@ -27332,7 +27350,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only through direct dumping from ships and nothing else",
               "Plastic materializing directly within ocean water with no outside source",
-              "A concept unrelated to geography",
+              "Through natural decomposition of organic coastal plants",
               "Waste travelling through waterways and rivers into the sea"
             ],
             "answer": 3
@@ -27340,7 +27358,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Do ocean currents help transport plastic debris into large collection zones?",
             "options": [
-              "A concept unrelated to marine debris",
+              "Ocean currents only affect the migration patterns of whales, not debris",
               "Yes",
               "No, ocean currents never transport any debris",
               "Plastic debris always stays exactly where it entered the ocean"
@@ -27352,7 +27370,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A coral reef",
               "A continental shelf",
-              "A concept unrelated to marine pollution",
+              "An estuary",
               "A garbage patch"
             ],
             "answer": 3
@@ -27360,7 +27378,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might marine plastic pollution be especially harmful to sea turtles and seabirds?",
             "options": [
-              "This concept has no connection to geography",
+              "Plastic pollution harms marine wildlife only in freshwater lakes, not oceans",
               "They can mistake plastic debris for food, ingesting it, or become entangled in it",
               "Sea turtles and seabirds are never affected by plastic debris in the ocean",
               "Plastic debris always sinks immediately and never affects marine wildlife"
@@ -27372,7 +27390,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Ocean currents never carry pollution beyond the country where it entered the water",
               "Ocean currents can carry debris far from its original source, affecting coastlines and countries far away",
-              "This concept has no relevance to social studies",
+              "Ocean plastic pollution is regulated identically by every coastal nation",
               "Ocean plastic pollution always stays within the borders of the country where it originated"
             ],
             "answer": 1
@@ -27397,7 +27415,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A guess with no supporting information",
               "Personal feelings alone",
-              "A concept unrelated to media literacy",
+              "A strongly worded opinion stated with confidence",
               "Evidence"
             ],
             "answer": 3
@@ -27408,7 +27426,7 @@ const curriculum: DayContent[] = [
               "Opinions are always identical to verifiable facts",
               "No, an opinion never expresses a personal belief",
               "Yes",
-              "A concept unrelated to opinions"
+              "An opinion must always be supported by verified statistical data"
             ],
             "answer": 2
           },
@@ -27428,14 +27446,14 @@ const curriculum: DayContent[] = [
               "Presenting opinion using confident, factual-sounding language can make it seem more objective than it is",
               "Blending fact and opinion never affects how a reader interprets a news article",
               "News articles are always required by law to separate fact and opinion clearly",
-              "This concept has no connection to media literacy"
+              "Because readers are legally required to fact-check every news article themselves"
             ],
             "answer": 0
           },
           {
             "q": "Why is distinguishing fact from opinion an important media literacy skill?",
             "options": [
-              "This concept has no relevance to media literacy",
+              "Because facts are always more entertaining to read than opinions",
               "Every statement in a news report is always either entirely fact or entirely opinion with no ambiguity",
               "It helps readers evaluate the reliability and objectivity of the information they consume",
               "Distinguishing fact from opinion never helps a reader evaluate information"
@@ -27456,7 +27474,7 @@ const curriculum: DayContent[] = [
             "q": "What does a cube root ask you to find?",
             "options": [
               "A number that, multiplied by itself three times, equals the radicand",
-              "A concept unrelated to radicals",
+              "A number that, added to itself three times, equals the radicand",
               "A number that, multiplied by itself twice, equals the radicand",
               "The largest factor of a given number"
             ],
@@ -27465,7 +27483,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Can higher-order radicals be simplified by identifying perfect nth-power factors?",
             "options": [
-              "A concept unrelated to higher-order radicals",
+              "Only when the radicand is a prime number",
               "No, higher-order radicals can never be simplified",
               "Yes",
               "Simplifying radicals only ever applies to square roots"
@@ -27497,7 +27515,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Cube roots and square roots always behave in exactly the same way with negative numbers",
               "A cube root can never produce a negative result under any circumstances",
-              "This concept has no connection to math",
+              "Because cube roots only apply to numbers greater than 100",
               "A negative number multiplied by itself an odd number of times remains negative, unlike squaring which always gives a positive result"
             ],
             "answer": 3
@@ -27577,7 +27595,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A region with no wind at all",
               "A densely forested valley with no open space",
-              "A concept unrelated to geography",
+              "A region with consistently high humidity levels",
               "Consistent wind speed"
             ],
             "answer": 3
@@ -27585,7 +27603,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Can wind turbines be sited offshore to take advantage of strong, consistent ocean winds?",
             "options": [
-              "A concept unrelated to wind energy siting",
+              "Offshore wind turbines are banned in most coastal countries",
               "Yes",
               "No, wind turbines can never be placed offshore",
               "Offshore locations never provide any advantage for wind energy"
@@ -27595,7 +27613,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these locations would likely be well-suited for a wind farm?",
             "options": [
-              "A concept unrelated to wind energy",
+              "A dense tropical rainforest with tall tree canopies",
               "An open plain or coastal area with strong, steady winds",
               "A densely populated downtown core with tall buildings",
               "A sheltered valley with little to no wind"
@@ -27607,7 +27625,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Wind turbines are always required by law to be built next to residential neighbourhoods",
               "Concerns about noise, visual impact, and effects on local wildlife can make nearby communities hesitant",
-              "This concept has no connection to geography",
+              "Turbine placement is determined mainly by proximity to shopping centres",
               "Wind turbines never raise any concerns among nearby residents"
             ],
             "answer": 1
@@ -27615,7 +27633,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is proximity to transmission infrastructure an important siting consideration for a wind farm?",
             "options": [
-              "This concept has no relevance to social studies",
+              "Transmission infrastructure matters only for solar farms, not wind farms",
               "Transmission infrastructure never affects where a wind farm should be built",
               "Wind farms never need to be connected to any electrical grid",
               "Electricity generated must be efficiently transported to where it will be consumed, requiring nearby grid connections"
@@ -27642,7 +27660,7 @@ const curriculum: DayContent[] = [
             "q": "What is personification?",
             "options": [
               "A type of formal persuasive essay",
-              "A concept unrelated to reading",
+              "A rhetorical question with no literal answer",
               "A literary device that gives human qualities to non-human things",
               "A device that removes all emotion from a poem"
             ],
@@ -27653,7 +27671,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A single independent clause with a period at the end",
               "Two independent clauses joined incorrectly by only a comma",
-              "A concept unrelated to grammar",
+              "Two independent clauses joined correctly with a semicolon",
               "A sentence with no punctuation errors at all"
             ],
             "answer": 1
@@ -27663,7 +27681,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Deliberate exaggeration for emphasis or effect",
               "A precise, literal description with no exaggeration",
-              "A concept unrelated to reading",
+              "A comparison of two unlike things using the words like or as",
               "A type of formal citation"
             ],
             "answer": 0
@@ -27674,7 +27692,7 @@ const curriculum: DayContent[] = [
               "Add only an s with no apostrophe",
               "Add an apostrophe at the very start of the word",
               "Add an apostrophe and s",
-              "A concept unrelated to grammar"
+              "Add an apostrophe after the s"
             ],
             "answer": 2
           },
@@ -27684,7 +27702,7 @@ const curriculum: DayContent[] = [
               "A guess with no supporting information",
               "Personal feelings alone",
               "Evidence",
-              "A concept unrelated to media literacy"
+              "A strongly worded opinion stated with confidence"
             ],
             "answer": 2
           }
@@ -27700,7 +27718,7 @@ const curriculum: DayContent[] = [
           {
             "q": "When factoring x^2 + bx + c, what must the two numbers multiply to?",
             "options": [
-              "A concept unrelated to factoring",
+              "The square root of c",
               "x",
               "b",
               "c"
@@ -27713,7 +27731,7 @@ const curriculum: DayContent[] = [
               "A single value repeated many times with no intervals",
               "Data into intervals with a count of how many values fall in each",
               "Only the largest and smallest values in a data set",
-              "A concept unrelated to data management"
+              "A list of formulas used to calculate probability"
             ],
             "answer": 1
           },
@@ -27723,7 +27741,7 @@ const curriculum: DayContent[] = [
               "Ignore the fractions and solve only with the whole numbers present",
               "Multiply every term by the common denominator to clear the fractions",
               "Immediately divide every term by zero",
-              "A concept unrelated to solving equations"
+              "Convert every fraction into a decimal first"
             ],
             "answer": 1
           },
@@ -27732,7 +27750,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Simplify by cancelling common factors",
               "Discard the denominators entirely",
-              "A concept unrelated to rational expressions",
+              "Multiply the result by the reciprocal of the denominator",
               "Immediately add the two denominators together"
             ],
             "answer": 0
@@ -27742,7 +27760,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A number that, multiplied by itself twice, equals the radicand",
               "The largest factor of a given number",
-              "A concept unrelated to radicals",
+              "A number that, added to itself three times, equals the radicand",
               "A number that, multiplied by itself three times, equals the radicand"
             ],
             "answer": 3
@@ -27762,7 +27780,7 @@ const curriculum: DayContent[] = [
               "Lava",
               "Sediment",
               "Ash only",
-              "A concept unrelated to volcanoes"
+              "A thick layer of hardened rock formed before any eruption occurs"
             ],
             "answer": 0
           },
@@ -27770,7 +27788,7 @@ const curriculum: DayContent[] = [
             "q": "What is diffusion?",
             "options": [
               "The movement of particles from an area of higher concentration to lower concentration",
-              "A concept unrelated to biology",
+              "The movement of particles only from areas of lower to higher concentration",
               "The movement of particles from lower to higher concentration only",
               "A process that only occurs inside solid rocks"
             ],
@@ -27781,7 +27799,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only visible solid chunks with no motion",
               "Tiny particles in constant motion",
-              "A concept unrelated to chemistry",
+              "A single continuous substance that has no individual particles",
               "A single continuous substance with no particles"
             ],
             "answer": 1
@@ -27789,7 +27807,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is an air mass?",
             "options": [
-              "A concept unrelated to earth science",
+              "A layer of ozone gas concentrated in the stratosphere",
               "A small pocket of gas found underground",
               "A large body of air with fairly uniform temperature and humidity",
               "A single raindrop falling from a cloud"
@@ -27801,7 +27819,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Four genetically unique reproductive cells",
               "Two genetically identical daughter cells",
-              "A concept unrelated to biology",
+              "A process that produces four genetically unique reproductive cells",
               "A single cell with double the original chromosome number"
             ],
             "answer": 1
@@ -27818,7 +27836,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does an ecological footprint measure?",
             "options": [
-              "A concept unrelated to geography",
+              "The number of endangered species living in a region",
               "The land and resources required to support a lifestyle and absorb its waste",
               "The total population of a country",
               "The average temperature of a region"
@@ -27828,7 +27846,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does the dependency ratio compare?",
             "options": [
-              "A concept unrelated to population geography",
+              "The ratio of urban residents to rural residents in a country",
               "The number of cities to the number of provinces",
               "The number of dependents to the working-age population",
               "The total land area to the total population"
@@ -27840,7 +27858,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Complete elimination of all regional governments",
               "Independence or greater autonomy",
-              "A concept unrelated to political geography",
+              "Expansion of a country's military presence in neighbouring territories",
               "Total merger with a neighbouring country’s government"
             ],
             "answer": 1
@@ -27849,7 +27867,7 @@ const curriculum: DayContent[] = [
             "q": "What does a smart city use to improve urban services?",
             "options": [
               "A complete absence of any infrastructure",
-              "A concept unrelated to urban geography",
+              "A complete ban on the use of personal vehicles within city limits",
               "Digital technology and data collection",
               "Only traditional paper-based record keeping"
             ],
@@ -27859,7 +27877,7 @@ const curriculum: DayContent[] = [
             "q": "What geographic factor is essential for effective wind energy generation?",
             "options": [
               "Consistent wind speed",
-              "A concept unrelated to geography",
+              "A region with consistently high humidity levels",
               "A densely forested valley with no open space",
               "A region with no wind at all"
             ],
@@ -27917,7 +27935,7 @@ const curriculum: DayContent[] = [
             "options": [
               "An immediately confrontational question about a controversy",
               "A simple, comfortable question related to the subject's background or the interview's general topic",
-              "A question with no connection to the interview's purpose",
+              "A highly technical question requiring expert statistical knowledge",
               "A rapid series of unrelated yes/no questions"
             ],
             "answer": 1
@@ -28074,7 +28092,7 @@ const curriculum: DayContent[] = [
             "q": "What is one major geographic challenge facing many small island states?",
             "options": [
               "Excessive freshwater resources with no scarcity",
-              "No connection to the ocean at all",
+              "A complete absence of coral reefs or marine ecosystems",
               "Unlimited available land",
               "Vulnerability to sea level rise"
             ],
@@ -28104,7 +28122,7 @@ const curriculum: DayContent[] = [
             "q": "Why do small island states often advocate strongly for climate action?",
             "options": [
               "They are the least affected regions in the world",
-              "Climate change has no effect on islands",
+              "Climate change mainly affects their mountain ski resorts",
               "They have unlimited resources to adapt",
               "They are especially vulnerable to the effects of rising sea levels"
             ],
@@ -28536,7 +28554,7 @@ const curriculum: DayContent[] = [
             "q": "Antibiotic resistance is a direct example of which biological process?",
             "options": [
               "Natural selection acting on bacterial populations",
-              "A process unrelated to evolution",
+              "A process that occurs only once in a bacterium's lifetime, with no ongoing change",
               "A process that only affects viruses",
               "A permanently fixed trait with no change over time"
             ],
@@ -28841,7 +28859,7 @@ const curriculum: DayContent[] = [
             "q": "Why do geographers and historians still study the Silk Road today?",
             "options": [
               "No trade ever occurred along this route",
-              "It has no relevance to modern geography",
+              "It is studied only as an example of ancient military strategy",
               "It was purely a modern invention",
               "It illustrates how trade routes shape culture, economies, and history"
             ],
@@ -29261,7 +29279,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is forensic science considered an application of the scientific method?",
             "options": [
-              "It is unrelated to any scientific principles",
+              "A method that relies purely on witness testimony with no physical evidence examined",
               "It never involves any scientific analysis",
               "It relies entirely on guesswork with no evidence",
               "It uses observation, evidence, and testing to draw conclusions"
@@ -29301,7 +29319,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How can the distribution of green space in a city reflect inequality?",
             "options": [
-              "Green space has no connection to social or economic factors",
+              "Green space distribution is determined solely by a city's average rainfall",
               "Green space is always distributed perfectly equally in every city",
               "Every neighbourhood in every city has identical access to parks",
               "Wealthier neighbourhoods may have significantly more access to green space than others"
@@ -29537,7 +29555,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What role do major shipping ports play in global trade?",
             "options": [
-              "They have no connection to international trade",
+              "They primarily serve as naval military bases rather than trade hubs",
               "They connect global trade routes and move most of the worlds freight",
               "They exclusively transport passengers, never goods",
               "They only handle local, small-scale trade"
@@ -29577,7 +29595,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might geographers study the location and development of shipping ports?",
             "options": [
-              "Ports have no relevance to the study of geography",
+              "Shipping ports are studied mainly to track seasonal fishing migration",
               "Shipping ports are identical everywhere with nothing to study",
               "To understand patterns of global economic connectivity",
               "Geography only studies natural landforms, never infrastructure"
@@ -29626,7 +29644,7 @@ const curriculum: DayContent[] = [
               "An anonymous source with no name",
               "The person being recommended, about themselves",
               "Someone who knows the persons work or character well, like a teacher or employer",
-              "A random stranger with no connection to the person"
+              "A close family member with no professional experience working with the person"
             ],
             "answer": 2
           },
@@ -29733,7 +29751,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is machine learning?",
             "options": [
-              "A process unrelated to computer science",
+              "A fixed set of rules programmed manually for every possible situation",
               "A method where systems improve performance by learning patterns from data",
               "A method where systems never change their behaviour",
               "A type of hardware component only"
@@ -29891,7 +29909,7 @@ const curriculum: DayContent[] = [
               "It helps readers understand which characters drive change and complexity in a story",
               "Only flat characters ever matter to a story",
               "All characters in every story are exactly the same",
-              "This distinction has no effect on understanding a story"
+              "Flat characters always narrate the story in first person"
             ],
             "answer": 0
           }
@@ -30001,7 +30019,7 @@ const curriculum: DayContent[] = [
               "Farming practices never affect the environment",
               "Resources are unlimited and require no preservation",
               "It helps preserve resources like soil and water for future generations",
-              "Environmental impact has no connection to farming"
+              "Farming practices that focus only on short-term crop yield, with no long-term resource effects"
             ],
             "answer": 2
           },
@@ -30030,7 +30048,7 @@ const curriculum: DayContent[] = [
             "options": [
               "When wildlife habitats grow larger and more connected",
               "The complete disappearance of all habitats worldwide",
-              "A natural process unrelated to human development",
+              "A natural seasonal cycle in which animals migrate between habitats",
               "When human development divides natural habitats into smaller, isolated patches"
             ],
             "answer": 3
@@ -30058,7 +30076,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is habitat fragmentation a concern for biodiversity?",
             "options": [
-              "Fragmentation has no effect on wildlife populations",
+              "Habitat fragmentation mainly affects soil chemistry, not wildlife populations",
               "Fragmentation always improves an ecosystems health",
               "Isolated populations can struggle to find food, mates, or genetic diversity",
               "Isolated populations always thrive with no challenges"
@@ -30253,7 +30271,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is machine learning?",
             "options": [
-              "A process unrelated to computer science",
+              "A fixed set of rules programmed manually for every possible situation",
               "A method where systems never change their behaviour",
               "A type of hardware component only",
               "A method where systems improve performance by learning patterns from data"
@@ -30313,7 +30331,7 @@ const curriculum: DayContent[] = [
             "q": "What is habitat fragmentation?",
             "options": [
               "When wildlife habitats grow larger and more connected",
-              "A natural process unrelated to human development",
+              "A natural seasonal cycle in which animals migrate between habitats",
               "The complete disappearance of all habitats worldwide",
               "When human development divides natural habitats into smaller, isolated patches"
             ],
@@ -30537,7 +30555,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What kind of questions does space debris raise for geographers and policymakers?",
             "options": [
-              "Questions unrelated to any geographic or policy concerns",
+              "Questions concerning only the design of commercial airplanes",
               "Only questions about ocean territory, not space",
               "How nations can safely share and manage orbital space as a shared resource",
               "Space debris raises no questions of any kind"
@@ -30557,7 +30575,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why can space, despite being far from Earths surface, still be considered a geographic topic?",
             "options": [
-              "Space has no connection to any human activity",
+              "Space exploration is funded entirely without any human organization or policy",
               "Geography only studies land-based features and nothing else",
               "Orbital space is entirely outside the scope of geography by definition",
               "Geography studies how humans use and organize space, including the orbital region around Earth"
@@ -30623,7 +30641,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might understanding eponyms help a reader with vocabulary?",
             "options": [
-              "It has no effect on vocabulary comprehension",
+              "Eponyms are only used in legal contracts, never in everyday language",
               "It makes words harder to remember",
               "It only applies to scientific writing",
               "It connects word meanings to memorable stories or origins, aiding recall"
@@ -30804,7 +30822,7 @@ const curriculum: DayContent[] = [
             "q": "Why do geographers study cases like the shrinking of inland seas?",
             "options": [
               "Geography does not study changes in water bodies over time",
-              "These cases have no relevance to the study of geography",
+              "Shrinking inland seas are studied mainly as an example of volcanic activity",
               "Shrinking water bodies are considered purely a historical topic with no modern relevance",
               "To understand the human and environmental consequences of water resource management decisions"
             ],
@@ -31020,7 +31038,7 @@ const curriculum: DayContent[] = [
             "q": "How do remittances connect to global migration patterns?",
             "options": [
               "Migrant workers never send money to their home countries",
-              "Remittances have no connection to migration of any kind",
+              "Remittances are tracked only to measure a country's tourism revenue",
               "They only occur within a single countrys borders",
               "They represent an economic flow tied directly to where migrant workers choose to work"
             ],
@@ -31098,7 +31116,7 @@ const curriculum: DayContent[] = [
               "Only complaints about previous employers",
               "Nothing related to the applicants qualifications",
               "Specific skills and experiences relevant to the opportunity",
-              "Only the applicants personal hobbies with no connection to the job"
+              "A detailed account of the applicant's childhood ambitions"
             ],
             "answer": 2
           },
@@ -31108,7 +31126,7 @@ const curriculum: DayContent[] = [
               "It replaces the need for a resume completely",
               "It complements the resume by providing context and personality",
               "It contradicts everything listed on the resume",
-              "It has no connection to the resume at all"
+              "It repeats the resume's bullet points using identical wording"
             ],
             "answer": 1
           },
@@ -31118,7 +31136,7 @@ const curriculum: DayContent[] = [
               "Cover letters are always expected to be extremely long",
               "Concise writing is never valued professionally",
               "Employers often review many applications and appreciate a clear, focused message",
-              "Length has no effect on how a cover letter is received"
+              "Because longer cover letters are automatically ranked higher by hiring software"
             ],
             "answer": 2
           }
@@ -31217,7 +31235,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Liquid water always indicates the presence of intelligent life",
               "It is considered essential for life as we understand it",
-              "Water has no connection to the possibility of life",
+              "Liquid water is useful mainly for cooling a planet's surface temperature, not supporting life",
               "Water is irrelevant to planetary habitability studies"
             ],
             "answer": 1
@@ -31235,7 +31253,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does the study of exoplanets excite scientists and the public alike?",
             "options": [
-              "The topic has no connection to the search for life",
+              "Exoplanet research mainly helps scientists understand our own planet's weather patterns",
               "Exoplanets have no scientific significance",
               "Exoplanets are identical to planets in our own solar system",
               "It raises the possibility of finding other habitable worlds or even signs of life"
@@ -31278,7 +31296,7 @@ const curriculum: DayContent[] = [
               "Areas with strong transit access often see increased development and property values",
               "Every neighbourhood develops identically regardless of transit access",
               "Public transit always causes a neighbourhoods population to decline",
-              "Transit access has no effect on neighbourhood development"
+              "Transit access mainly affects a neighbourhood's average rainfall patterns"
             ],
             "answer": 0
           },
@@ -31288,7 +31306,7 @@ const curriculum: DayContent[] = [
               "It eliminates the need for any urban planning",
               "Reduced traffic congestion and lower per-person emissions compared to individual cars",
               "Public transportation always increases traffic congestion",
-              "It has no effect on a citys environmental impact"
+              "Public transportation's environmental impact is identical to that of air travel"
             ],
             "answer": 1
           },
@@ -31296,8 +31314,8 @@ const curriculum: DayContent[] = [
             "q": "Why might geographers study the design and equity of transit systems?",
             "options": [
               "Every resident of a city always has identical access to transit",
-              "Transit systems are unrelated to the study of urban geography",
-              "Transit design has no connection to social or economic equity",
+              "Transit systems are studied mainly as examples of architectural design, not urban geography",
+              "Transit design is determined solely by a city's climate, not its social makeup",
               "To understand how transportation access affects opportunity and quality of life across a city"
             ],
             "answer": 3
@@ -31332,7 +31350,7 @@ const curriculum: DayContent[] = [
             "q": "Why is disclosure important in influencer marketing?",
             "options": [
               "It allows audiences to distinguish genuine opinions from paid promotion",
-              "Disclosure has no effect on how audiences interpret content",
+              "Disclosure is only required once an influencer earns above a certain income level",
               "Influencers are never paid for their content",
               "Disclosure is legally required to be hidden from audiences"
             ],
@@ -31511,7 +31529,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is desertification?",
             "options": [
-              "A term with no connection to land or climate",
+              "A process that only affects land located near the equator",
               "The process by which deserts turn into rainforests",
               "The process by which fertile land becomes increasingly arid",
               "The permanent freezing of tropical regions"
@@ -31533,7 +31551,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Rising temperatures and shifting precipitation patterns can dry out previously fertile land",
               "Desertification only occurs in regions with no climate variation",
-              "Climate change has no connection to changes in land fertility",
+              "Desertification is caused mainly by urban construction, not climate patterns",
               "Climate change always increases rainfall in every region uniformly"
             ],
             "answer": 0
@@ -31543,7 +31561,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Fertile land is unaffected by any changes in surrounding deserts",
               "It can threaten agriculture, water supplies, and livelihoods dependent on fertile land",
-              "Desertification has no effect on nearby human communities",
+              "Desertification mainly affects marine fishing industries, not farming communities",
               "Communities always benefit economically from desertification"
             ],
             "answer": 1
@@ -31729,7 +31747,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Aquifers are a major source of drinking water and can be difficult to clean once polluted",
               "Aquifers are located far away from any human activity",
-              "Groundwater has no connection to drinking water supplies",
+              "Groundwater supplies are replenished so quickly that contamination is rarely a concern",
               "Contamination of groundwater is always immediately reversible"
             ],
             "answer": 0
@@ -31932,7 +31950,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What causes acid rain to form?",
             "options": [
-              "Increased sunlight with no connection to pollution",
+              "Increased sunlight reacting with oxygen molecules high in the atmosphere",
               "Pollutants like sulfur dioxide and nitrogen oxides reacting with water vapour in the atmosphere",
               "Only natural evaporation with no pollutants involved",
               "Sudden temperature drops with no chemical reactions"
@@ -31943,7 +31961,7 @@ const curriculum: DayContent[] = [
             "q": "What happens to the pH of precipitation affected by acid rain?",
             "options": [
               "The pH remains completely unchanged",
-              "pH has no relevance to acid rain",
+              "pH has little effect on how acidic or basic rainfall becomes",
               "It becomes more acidic, or lower in pH",
               "It becomes more basic, or higher in pH"
             ],
@@ -32003,7 +32021,7 @@ const curriculum: DayContent[] = [
             "q": "What barrier might lower-income countries face in accessing essential medicines?",
             "options": [
               "High costs and limited local manufacturing or distribution infrastructure",
-              "Access to medicine has no connection to a countrys income level",
+              "Medicine access depends only on a country's average temperature",
               "Essential medicines are always freely available everywhere in the world",
               "Lower-income countries face no barriers to medical access whatsoever"
             ],
@@ -32015,7 +32033,7 @@ const curriculum: DayContent[] = [
               "Local manufacturing always increases costs with no benefit",
               "To reduce dependence on imports and improve access during global supply disruptions",
               "Countries never benefit from producing their own medicine",
-              "Pharmaceutical manufacturing has no connection to supply chain resilience"
+              "Pharmaceutical manufacturing capacity is relevant only to agricultural exports"
             ],
             "answer": 1
           },
@@ -32032,7 +32050,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do geographers study patterns of pharmaceutical access around the world?",
             "options": [
-              "Pharmaceutical access has no connection to geography",
+              "Pharmaceutical access is studied mainly to track global currency exchange rates",
               "This topic is considered purely a medical issue with no geographic dimension",
               "To understand how location and economic development shape health outcomes",
               "Every region of the world has identical access to medicine"
@@ -32190,7 +32208,7 @@ const curriculum: DayContent[] = [
             "options": [
               "An invention that ignores all natural principles",
               "Aircraft wing designs inspired by the structure of bird wings",
-              "A material with no connection to any natural structure",
+              "A fabric woven using traditional methods with no biological inspiration",
               "A design created with no reference to nature whatsoever"
             ],
             "answer": 1
@@ -32200,7 +32218,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Nature provides no useful information for engineering",
               "Natural structures have often been refined by evolution to be highly efficient",
-              "Studying nature is unrelated to solving engineering problems",
+              "Engineers typically avoid studying nature because biological structures are too complex to apply",
               "Biomimicry always produces less efficient designs than traditional methods"
             ],
             "answer": 1
@@ -32258,7 +32276,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How can ecotourism benefit conservation efforts?",
             "options": [
-              "Ecotourism has no connection to conservation funding",
+              "Ecotourism benefits conservation mainly by reducing a region's biodiversity",
               "Ecotourism always reduces the funding available for conservation",
               "Conservation efforts never benefit from any form of tourism",
               "It can generate revenue that supports the protection and maintenance of natural areas"
@@ -32268,7 +32286,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What challenge can arise if a national park receives too many visitors?",
             "options": [
-              "Overcrowding has no effect on natural environments",
+              "Overcrowding mainly affects a park's gift shop sales, not its ecosystems",
               "Overcrowding can damage fragile ecosystems and trails",
               "There is no upper limit to how many visitors a park can sustainably host",
               "Additional visitors always improve the parks ecological health"
@@ -32278,7 +32296,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might geographers study the balance between tourism and conservation in national parks?",
             "options": [
-              "This balance has no relevance to geographic study",
+              "This balance is studied mainly to set national park entrance fees",
               "To understand how to sustain both economic benefits and environmental protection",
               "National parks have no economic impact on surrounding regions",
               "Tourism and conservation are always in perfect balance with no conflict"
@@ -32506,7 +32524,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Potential impacts on local air quality from emissions",
               "They eliminate the possibility of any air pollution everywhere",
-              "They have no connection to environmental policy at all",
+              "Waste-to-energy facilities are regulated identically to recycling centres",
               "These facilities are universally considered to have zero environmental impact"
             ],
             "answer": 0
@@ -32978,7 +32996,7 @@ const curriculum: DayContent[] = [
               "A single countrys law that governs all of Antarctica",
               "An agreement that has never been signed by any nation",
               "An international agreement governing Antarctica for peaceful, scientific purposes",
-              "A trade agreement unrelated to any scientific activity"
+              "A set of fishing quotas negotiated exclusively by Pacific nations"
             ],
             "answer": 2
           },
@@ -32998,7 +33016,7 @@ const curriculum: DayContent[] = [
               "It is owned entirely by one government with no international involvement",
               "No single country holds full sovereignty over the entire continent",
               "It is the only continent with a permanent large population",
-              "It has no connection to international law or agreements"
+              "Antarctica's political status is determined solely by its distance from the equator"
             ],
             "answer": 1
           },
@@ -33467,7 +33485,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is an enclave?",
             "options": [
-              "A term with no connection to political geography",
+              "A territory that has declared full independence from all surrounding nations",
               "A territory entirely surrounded by the land of another country",
               "A region with no borders of any kind",
               "A territory located in the middle of an ocean with no land nearby"
@@ -33500,7 +33518,7 @@ const curriculum: DayContent[] = [
               "Access, governance, and border crossing can be more complicated than for connected territory",
               "These territories never experience any political or logistical challenges",
               "Enclaves and exclaves are always larger than the countries that surround them",
-              "They have no connection to international law of any kind"
+              "Enclaves and exclaves are governed under a single unified global treaty"
             ],
             "answer": 0
           },
@@ -33754,7 +33772,7 @@ const curriculum: DayContent[] = [
             "q": "Why do geographers find planned capital cities an interesting case study?",
             "options": [
               "They show how political decisions can directly shape the physical geography and layout of a settlement",
-              "Planned capital cities have no connection to political decisions",
+              "Planned capital cities are built exclusively on islands for defensive purposes",
               "Geographers consider urban planning irrelevant to their field",
               "Every capital city in the world was planned in an identical way"
             ],
@@ -33910,7 +33928,7 @@ const curriculum: DayContent[] = [
             "q": "What causes a comets glowing tail to form?",
             "options": [
               "Heat from the Sun causes ice on the comet to vaporize and release gas and dust",
-              "The tail is a permanent, unchanging feature unrelated to the Sun",
+              "The tail forms when sunlight reflects off the comet's icy surface without any vaporization",
               "Comets generate their own tail using internal engines",
               "The tail forms only when a comet is far from any star"
             ],
@@ -33939,7 +33957,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do astronomers closely track near-Earth objects?",
             "options": [
-              "Tracking these objects has no connection to planetary safety",
+              "Near-Earth objects are tracked mainly to study their chemical composition, not collision risk",
               "These objects are tracked only for entertainment purposes",
               "To monitor the small possibility that one could someday collide with Earth",
               "Near-Earth objects pose no scientific interest of any kind"
@@ -33959,7 +33977,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What role do hub airports play in global flight networks?",
             "options": [
-              "Hub airports have no connection to other airports whatsoever",
+              "Hub airports function mainly as cargo warehouses with no passenger traffic",
               "They serve as central connecting points linking many different flight routes together",
               "They are located exclusively in rural, unpopulated areas",
               "They exist only to store aircraft with no passenger flights at all"
@@ -33969,7 +33987,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How does global air travel influence patterns of trade and tourism?",
             "options": [
-              "Air travel has no effect on trade or tourism of any kind",
+              "Air travel influences trade mainly by setting international customs tariffs",
               "Global air travel always reduces the total amount of trade worldwide",
               "Air travel only connects cities within a single country",
               "It allows people and goods to move quickly between distant regions, encouraging trade and travel"
@@ -34001,7 +34019,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Geographers only study networks that involve land transportation",
               "Every region of the world is equally connected by air travel",
-              "Flight networks have no relevance to the study of geography",
+              "Flight networks are studied mainly to design airport terminal architecture",
               "To understand how accessibility and connectivity vary across different regions of the world"
             ],
             "answer": 3
@@ -34454,7 +34472,7 @@ const curriculum: DayContent[] = [
               "The process of creating new usable land by draining or filling in areas of water",
               "The process of returning developed land back into open ocean",
               "A method used only to build new mountains",
-              "A term with no connection to coastlines or water"
+              "A government policy for redistributing farmland between provinces"
             ],
             "answer": 0
           },
@@ -34492,7 +34510,7 @@ const curriculum: DayContent[] = [
             "q": "Why do geographers study land reclamation projects around the world?",
             "options": [
               "To understand how human engineering reshapes coastlines and creates new challenges for planning and resilience",
-              "Land reclamation has no connection to the field of geography",
+              "Land reclamation is studied mainly as a branch of marine biology",
               "This topic is considered purely a matter of architecture, not geography",
               "Reclaimed land is identical in every way to naturally formed land"
             ],
@@ -34530,7 +34548,7 @@ const curriculum: DayContent[] = [
               "They appear helpful and familiar but can mislead a language learner",
               "False friends refers only to characters in a novel",
               "They are always genuinely helpful with no risk of confusion",
-              "The term has no connection to language learning at all"
+              "The term originated as a nickname for word-for-word literal translations"
             ],
             "answer": 0
           },
@@ -34719,7 +34737,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Thawing permafrost always strengthens the ground beneath infrastructure",
               "Ground instability that can damage roads, pipelines, and buildings built on top of it",
-              "Thawing permafrost has no connection to construction or infrastructure",
+              "Thawing permafrost mainly affects satellite communication signals",
               "Infrastructure is never affected by changes in ground temperature"
             ],
             "answer": 1
@@ -34739,7 +34757,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It can undermine the stability of the land their homes and infrastructure rely on",
               "Communities in northern regions are never affected by ground conditions",
-              "Thawing permafrost has no effect on nearby communities",
+              "Thawing permafrost mainly affects fishing quotas in coastal waters",
               "Thawing permafrost always improves the stability of local infrastructure"
             ],
             "answer": 0
@@ -34805,7 +34823,7 @@ const curriculum: DayContent[] = [
             "q": "Why do writers often use dystopian or speculative settings to comment on real-world issues?",
             "options": [
               "An invented world can exaggerate or isolate a real issue, such as surveillance or inequality, letting readers examine it from a new angle",
-              "Speculative settings have no connection to real-world concerns",
+              "Because dystopian fiction must be set at least five hundred years in the future",
               "These settings are used only for comic effect",
               "Dystopian fiction is required to avoid any commentary on society"
             ],
@@ -34895,7 +34913,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Wind erosion acting alone with no water involved",
               "Slightly acidic water dissolving soluble rock over long periods of time",
-              "Freezing temperatures with no connection to water chemistry",
+              "Repeated freezing and thawing of groundwater trapped within solid bedrock",
               "A sudden, single explosive event with no gradual process"
             ],
             "answer": 1
@@ -34915,7 +34933,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Limestone can only be dissolved by pure water with no acidity at all",
               "It often absorbs carbon dioxide from the air or soil, forming a weak acid",
-              "Acidity has no connection to a waters ability to dissolve rock",
+              "Acidity in water depends only on temperature, not on dissolved gases",
               "The water becomes acidic only after passing through solid granite"
             ],
             "answer": 1
@@ -34972,7 +34990,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How can the location of a global financial centre influence a countrys economic importance?",
             "options": [
-              "The location of a financial centre has no effect on a countrys economy",
+              "A financial centre's location is determined solely by its distance from the equator",
               "A financial centres location is entirely disconnected from investment activity",
               "It can help attract international investment and business activity to that region",
               "Financial centres always reduce a countrys economic influence"
@@ -34985,7 +35003,7 @@ const curriculum: DayContent[] = [
               "To understand patterns of economic power and connection between different regions of the world",
               "Every region of the world has identical levels of economic influence",
               "This topic is considered purely a matter of accounting, not geography",
-              "Financial centres have no connection to the study of geography"
+              "Financial centres are studied mainly to track regional rainfall patterns"
             ],
             "answer": 0
           }
@@ -35030,7 +35048,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A strict, chronological summary of an entire plot",
               "A characters continuous flow of thoughts and impressions as they occur",
-              "A list of unrelated facts with no connection to any character",
+              "A detailed description of a setting with no reference to any character",
               "Only a characters physical actions with no inner thought at all"
             ],
             "answer": 1
@@ -35187,7 +35205,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the Antarctic Treaty System?",
             "options": [
-              "A trade agreement unrelated to any scientific activity",
+              "A set of fishing quotas negotiated exclusively by Pacific nations",
               "An agreement that has never been signed by any nation",
               "An international agreement governing Antarctica for peaceful, scientific purposes",
               "A single countrys law that governs all of Antarctica"
@@ -35210,7 +35228,7 @@ const curriculum: DayContent[] = [
               "A region with no borders of any kind",
               "A territory located in the middle of an ocean with no land nearby",
               "A territory entirely surrounded by the land of another country",
-              "A term with no connection to political geography"
+              "A territory that has declared full independence from all surrounding nations"
             ],
             "answer": 2
           },
@@ -35691,7 +35709,7 @@ const curriculum: DayContent[] = [
               "Near tectonic plate boundaries and volcanically active regions",
               "Only in regions with no volcanic history whatsoever",
               "Only in the centre of large, flat deserts",
-              "Only along the equator with no connection to geology"
+              "Only in low-lying coastal floodplains with no volcanic activity"
             ],
             "answer": 0
           },
@@ -35926,7 +35944,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A structure built entirely by human engineers to store water",
               "A type of river delta found only in tropical regions",
-              "A mountain range located entirely inland with no connection to the coast",
+              "A deep ocean trench located far from any coastline",
               "The shallow, gently sloping seabed that extends outward from a coastline before dropping to the deep ocean floor"
             ],
             "answer": 3
@@ -35955,7 +35973,7 @@ const curriculum: DayContent[] = [
             "q": "Why are continental shelves often economically valuable?",
             "options": [
               "They frequently contain rich fishing grounds and deposits of oil and natural gas",
-              "They have no connection to fishing or energy resources",
+              "Continental shelves are valuable mainly as sites for offshore wind turbine testing",
               "They are always too deep for any economic activity to occur",
               "They contain no natural resources of any kind"
             ],
@@ -36140,7 +36158,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a fjord?",
             "options": [
-              "A tall, narrow waterfall with no connection to glaciers",
+              "A tall, narrow waterfall formed where a river meets the coastline",
               "A flat, dry plain found in a desert",
               "A deep, narrow coastal inlet carved by a glacier and later flooded by the sea",
               "A wide, shallow lake found only in tropical regions"
@@ -36171,7 +36189,7 @@ const curriculum: DayContent[] = [
             "q": "What is a sovereign wealth fund?",
             "options": [
               "A state-owned investment fund, often built from revenue such as natural resource exports",
-              "A charity fund with no connection to any government",
+              "A fund managed exclusively by international banks with no government involvement",
               "A fund that only foreign corporations are legally allowed to use",
               "A private savings account belonging to a single individual"
             ],
@@ -36249,7 +36267,7 @@ const curriculum: DayContent[] = [
               "It always makes a chart perfectly accurate regardless of scale",
               "It can exaggerate or minimize differences between data points, distorting the true pattern",
               "It automatically corrects any errors in the underlying data",
-              "A manipulated axis scale has no effect on how a chart is interpreted"
+              "A manipulated axis scale only affects pie charts, never bar or line graphs"
             ],
             "answer": 1
           },
@@ -36418,7 +36436,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Hydrogen fuel produced using electrolysis powered by renewable electricity",
               "Hydrogen extracted directly from burning coal",
-              "A synthetic gas with no connection to renewable energy",
+              "A fuel produced by compressing natural gas at high pressure",
               "Hydrogen that occurs naturally without any production process"
             ],
             "answer": 0
@@ -36673,7 +36691,7 @@ const curriculum: DayContent[] = [
             "q": "What is a buffer zone in the context of peacekeeping?",
             "options": [
               "A neutral area separating opposing forces to help prevent renewed conflict",
-              "An area with no connection to any conflict whatsoever",
+              "A region designated exclusively for refugee resettlement",
               "A zone reserved exclusively for tourism and recreation",
               "A region where peacekeeping forces are strictly forbidden from entering"
             ],
@@ -36692,7 +36710,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What type of consent do peacekeeping missions typically require from the countries involved?",
             "options": [
-              "Consent from a single unrelated country with no connection to the conflict",
+              "Consent from the United Nations Security Council alone, never the host country",
               "The consent of the host country or parties to the conflict",
               "Consent from every country in the world simultaneously",
               "No consent of any kind is ever required"
@@ -36702,8 +36720,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the geographic placement of a peacekeeping mission carefully planned?",
             "options": [
-              "Geographic placement has no effect on a peacekeeping missions effectiveness",
-              "Geographic placement only matters for missions with no connection to conflict",
+              "Mission placement is determined mainly by the availability of tourist accommodations",
+              "Geographic placement matters only for missions operating in desert terrain",
               "To effectively separate opposing forces and monitor the most sensitive or contested areas",
               "Peacekeeping missions are always placed randomly with no planning at all"
             ],
@@ -36939,10 +36957,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the Quiet Revolution significant to discussions about Canadian federalism?",
             "options": [
-              "It had no connection to Canadian federalism",
+              "The Quiet Revolution primarily affected trade relations between Canada and the United States",
               "It ended all discussion of provincial and federal relationships",
               "It shaped ongoing conversations about the relationship between Quebec and the rest of Canada",
-              "It was unrelated to Quebec’s political development"
+              "The Quiet Revolution was significant mainly for reforming Canada's military structure"
             ],
             "answer": 2
           },
@@ -36951,7 +36969,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A single, unified government with no divisions of power",
               "A system with no provincial governments at all",
-              "A concept unrelated to Canadian government structure",
+              "A system in which the monarchy directly governs all provincial affairs",
               "The division of powers and responsibilities between federal and provincial governments"
             ],
             "answer": 3
@@ -36974,7 +36992,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is onomatopoeia?",
             "options": [
-              "A word with no connection to any sound whatsoever",
+              "A figure of speech that compares two things using like or as",
               "A punctuation mark used to end a question",
               "A word that imitates or suggests the sound it describes",
               "A grammatical rule about verb tense"
@@ -36995,7 +37013,7 @@ const curriculum: DayContent[] = [
             "q": "What is sound symbolism?",
             "options": [
               "A type of formal citation format",
-              "A rule stating that sounds have no connection to meaning at all",
+              "A strict grammatical rule governing subject-verb agreement",
               "The idea that certain sounds in language can evoke particular sensory impressions or meanings",
               "A term used only to describe silent reading"
             ],
@@ -37165,7 +37183,7 @@ const curriculum: DayContent[] = [
             "q": "What is digital sovereignty?",
             "options": [
               "A rule requiring every country to share all of its data publicly",
-              "A concept with no connection to national borders at all",
+              "A treaty requiring all nations to use the same internet service provider",
               "A type of currency used only for online purchases",
               "A countrys assertion of control over data, infrastructure, and online activity within its borders"
             ],
@@ -37175,7 +37193,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a country pursue policies aimed at digital sovereignty?",
             "options": [
               "To eliminate internet access within its own borders entirely",
-              "Because digital sovereignty has no effect on national security or privacy",
+              "Digital sovereignty policies are motivated mainly by a desire to increase tourism revenue",
               "Because international law forbids any control over digital infrastructure",
               "To protect national security, privacy, or economic interests related to data and digital infrastructure"
             ],
@@ -37185,7 +37203,7 @@ const curriculum: DayContent[] = [
             "q": "What is one example of a policy that reflects digital sovereignty?",
             "options": [
               "A law requiring that citizens data be stored on servers located within the country",
-              "A policy that has no connection to data storage at all",
+              "A policy requiring all international flights to share passenger data",
               "A law banning all citizens from using the internet permanently",
               "A rule that applies exclusively to postal mail delivery"
             ],
@@ -37361,7 +37379,7 @@ const curriculum: DayContent[] = [
             "q": "What is a floodplain?",
             "options": [
               "A permanently frozen region near the poles",
-              "A dry desert region with no connection to any river",
+              "A region shaped entirely by wind erosion, with rivers playing no role",
               "The flat land bordering a river that is periodically covered by floodwater",
               "A mountain peak located far from any river"
             ],
@@ -37666,7 +37684,7 @@ const curriculum: DayContent[] = [
               "A structure built entirely by human engineers to store water",
               "The shallow, gently sloping seabed that extends outward from a coastline before dropping to the deep ocean floor",
               "A type of river delta found only in tropical regions",
-              "A mountain range located entirely inland with no connection to the coast"
+              "A deep ocean trench located far from any coastline"
             ],
             "answer": 1
           },
@@ -37932,7 +37950,7 @@ const curriculum: DayContent[] = [
               "Borders always completely separate the economies of neighbouring cities",
               "To understand how economic and social ties can create a functionally unified region despite a political border dividing it",
               "These regions are considered identical to any single-country city",
-              "Twin cities have no relevance to the study of political or economic geography"
+              "Twin cities are studied mainly to compare their average rainfall totals"
             ],
             "answer": 1
           }
@@ -38138,7 +38156,7 @@ const curriculum: DayContent[] = [
               "A single factory that produces every step of a chip with no international involvement",
               "The global network of specialized regions and facilities involved in designing, fabricating, and assembling computer chips",
               "A network used exclusively for growing agricultural crops",
-              "A supply chain that has no connection to any global trade"
+              "A distribution network used exclusively for shipping raw lumber"
             ],
             "answer": 1
           },
@@ -38422,7 +38440,7 @@ const curriculum: DayContent[] = [
             "q": "Why do geographers study patterns of digital nomadism?",
             "options": [
               "It reveals how technology is reshaping traditional patterns of migration and where people choose to live and work",
-              "Digital nomadism has no connection to migration or economic geography",
+              "Digital nomadism is studied mainly to track changes in airline ticket pricing",
               "This topic is considered purely a matter of computer science, not geography",
               "Remote work eliminates the need to study any human movement patterns"
             ],
@@ -38460,7 +38478,7 @@ const curriculum: DayContent[] = [
               "Because audiences are legally prohibited from listening to long speeches",
               "A speech of introduction must always be longer than the speech that follows",
               "So it builds anticipation without overshadowing the main speaker who follows",
-              "Brevity has no relevance to a speech of introduction"
+              "Because introduction speeches are traditionally limited to exactly one sentence"
             ],
             "answer": 2
           },
@@ -38508,7 +38526,7 @@ const curriculum: DayContent[] = [
             "q": "What is a mortgage?",
             "options": [
               "A short-term loan used only to buy groceries",
-              "A savings account with no connection to borrowing money",
+              "A short-term rental agreement for a property",
               "A type of insurance that covers vehicle repairs",
               "A long-term loan specifically used to purchase property"
             ],
@@ -38519,7 +38537,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The final payment made at the very end of a mortgage term",
               "An upfront payment representing a percentage of a propertys purchase price, paid before financing the remainder",
-              "A payment that has no connection to purchasing property",
+              "A monthly fee added on top of regular mortgage payments",
               "A fee charged only if a mortgage payment is missed"
             ],
             "answer": 1
@@ -38530,7 +38548,7 @@ const curriculum: DayContent[] = [
               "A smaller loan amount is borrowed, so less interest accrues on the remaining balance over time",
               "Down payments have no effect on the total interest paid on a mortgage",
               "A larger down payment always increases the interest rate charged",
-              "The size of a down payment is entirely unrelated to a loans structure"
+              "Because a larger down payment always shortens the mortgage term automatically"
             ],
             "answer": 0
           },
@@ -38550,7 +38568,7 @@ const curriculum: DayContent[] = [
               "Amortization only applies to short-term loans, never to long-term mortgages",
               "A mortgage is commonly repaid using an amortization schedule that spreads principal and interest payments over time",
               "Mortgages are always repaid in a single lump sum with no schedule",
-              "A mortgage has no connection to amortization of any kind"
+              "Amortization only applies to car loans, never to mortgages"
             ],
             "answer": 1
           }
@@ -38630,7 +38648,7 @@ const curriculum: DayContent[] = [
               "A business model that produces inexpensive clothing quickly in response to rapidly changing trends",
               "A term describing only clothing manufactured within a single country",
               "A method of producing clothing exclusively by hand over many years",
-              "A style of clothing with no connection to global trade"
+              "A government subsidy program supporting local textile farmers"
             ],
             "answer": 0
           },
@@ -38639,7 +38657,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Raw materials, manufacturing, and distribution frequently span many different countries before a garment reaches a consumer",
               "Every step of fast fashion production always occurs within a single factory",
-              "Textile production has no connection to international trade of any kind",
+              "Fast fashion supply chains are studied mainly for their impact on currency exchange rates",
               "Fast fashion garments are never transported across international borders"
             ],
             "answer": 0
@@ -38856,7 +38874,7 @@ const curriculum: DayContent[] = [
               "The Drake Equation only applies to planets within our own solar system",
               "Every factor in the equation has already been measured with complete certainty",
               "Many of its factors, such as the likelihood of life developing intelligence, remain highly uncertain and difficult to measure",
-              "The equation has no connection to the search for extraterrestrial life"
+              "The Drake Equation was originally designed only to calculate a planet's distance from its star"
             ],
             "answer": 2
           }
@@ -38906,7 +38924,7 @@ const curriculum: DayContent[] = [
               "Infrastructure has no measurable effect on economic development",
               "Infrastructure improvements always increase the rate of extreme poverty",
               "It can support economic development and improve access to markets, jobs, and services, potentially reducing poverty",
-              "Access to roads and electricity is unrelated to a regions economy"
+              "Infrastructure access is determined solely by a region's average temperature"
             ],
             "answer": 2
           },
@@ -38971,7 +38989,7 @@ const curriculum: DayContent[] = [
             "q": "In flash fiction, an 'implied' detail is one that...",
             "options": [
               "is stated directly and explained at length",
-              "has no effect on the reader's understanding",
+              "is repeated several times throughout the story for emphasis",
               "is suggested through context or a small detail, letting the reader infer more than what's directly written",
               "is always left out and never suggested in any way"
             ],
@@ -39132,7 +39150,7 @@ const curriculum: DayContent[] = [
               "A policy that requires a country to export as much food as possible at all times",
               "An agreement that always increases food exports during a crisis",
               "A policy in which a government limits or bans the export of a food commodity, often during a shortage or crisis",
-              "A rule that has no connection to international food trade"
+              "A tariff applied only to imported luxury goods"
             ],
             "answer": 2
           },
@@ -39159,7 +39177,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do geographers study the concentration and trade patterns of staple grain production?",
             "options": [
-              "Grain production and trade have no relevance to the study of geography",
+              "Grain production patterns are studied mainly to forecast regional weather events",
               "To understand how food security in many countries depends on the stability of a relatively small number of exporting regions",
               "This topic is considered purely a matter of nutrition, not geography",
               "Every country grows enough grain domestically to be entirely self-sufficient"
@@ -39385,7 +39403,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How does the Antarctic Treaty System, studied earlier in this course, relate to Antarctic tourism?",
             "options": [
-              "The Antarctic Treaty System has no connection to tourism of any kind",
+              "The Antarctic Treaty System applies only to fishing rights, never tourism",
               "The treaty system actively encourages unrestricted tourism with no oversight",
               "It provides a framework of international agreements that help regulate human activity, including tourism, to protect the continent",
               "Antarctic tourism operates entirely outside any international agreement"
@@ -39474,7 +39492,7 @@ const curriculum: DayContent[] = [
               "Recurring natural images are often deliberately chosen by an author to reinforce key ideas or emotional patterns throughout the text",
               "Recognizing imagery only helps identify punctuation choices, not themes",
               "Themes can only be identified through direct statements, never imagery",
-              "Nature imagery has no connection to a texts central themes in any case"
+              "Nature imagery is only used to establish the time period of a story"
             ],
             "answer": 0
           }
@@ -39611,7 +39629,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is language policy?",
             "options": [
-              "A term with no connection to how governments function",
+              "A set of trade regulations governing the import of foreign textbooks",
               "A policy that applies only to private businesses, never to governments",
               "A rule that forbids any government from using more than one language",
               "The official decisions a government makes about which languages are used in education, government, and public life"
@@ -39644,7 +39662,7 @@ const curriculum: DayContent[] = [
               "Federal government documents and services are generally required to be available in both English and French",
               "Federal services are only available in a single language chosen at random",
               "Bilingual policy applies only to private companies, never to the government",
-              "Official bilingualism has no effect on how government services are delivered"
+              "Official bilingualism applies only to provincial courts, never federal services"
             ],
             "answer": 0
           },
@@ -39654,7 +39672,7 @@ const curriculum: DayContent[] = [
               "This topic is considered purely a matter of linguistics, not geography",
               "Language use is tied to identity, regional history, and the distribution of population groups across a territory",
               "Every country in the world uses an identical language policy",
-              "Language policy has no connection to geography of any kind"
+              "Language policy is studied mainly to track international trade tariffs"
             ],
             "answer": 1
           }
@@ -39827,7 +39845,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How does a lower ocean pH make it more difficult for organisms to build calcium carbonate structures?",
             "options": [
-              "Ocean pH has no connection to an organisms ability to build shells",
+              "Ocean pH is determined mainly by water temperature, not by dissolved carbon dioxide",
               "More acidic water contains fewer of the carbonate ions needed to form and maintain these structures",
               "Acidic water makes calcium carbonate structures form more easily than before",
               "A lower pH always increases the availability of carbonate ions in seawater"
@@ -39860,7 +39878,7 @@ const curriculum: DayContent[] = [
               "A method of fishing that always increases fish populations over time",
               "Harvesting fish from a body of water faster than the population can naturally replenish itself",
               "A practice in which no fish are ever harvested from a body of water",
-              "A term with no connection to the sustainability of fish stocks"
+              "A fishing method restricted to freshwater lakes only"
             ],
             "answer": 1
           },
@@ -39877,7 +39895,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a catch limit in fisheries management?",
             "options": [
-              "A term with no connection to regulating fish harvests",
+              "A rule limiting the number of recreational boats allowed in a harbour",
               "A rule requiring fishers to catch as many fish as physically possible",
               "A limit that applies only to recreational swimming, not fishing",
               "A regulation restricting the total amount of fish that can be legally harvested within a given period"
@@ -39888,7 +39906,7 @@ const curriculum: DayContent[] = [
             "q": "Why might countries negotiate international agreements regarding shared fish stocks?",
             "options": [
               "Countries are legally forbidden from cooperating on fisheries management",
-              "International cooperation has no relevance to managing shared natural resources",
+              "International fishing agreements are negotiated mainly to regulate tourism cruises",
               "Fish populations never cross any international maritime boundaries",
               "Many fish populations migrate across maritime boundaries, requiring cooperation between countries to manage them sustainably"
             ],
@@ -39897,7 +39915,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How can overfishing affect coastal communities that depend on fishing for their livelihood?",
             "options": [
-              "Fisheries management has no effect on the livelihoods of coastal communities",
+              "Overfishing mainly affects a region's freshwater drinking supply, not its fishing economy",
               "Coastal communities have no economic connection to local fish populations",
               "Declining fish stocks can reduce income and food security for communities that rely heavily on fishing",
               "Overfishing always increases economic prosperity for coastal fishing communities"
@@ -40124,7 +40142,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A term describing only clothing manufactured within a single country",
               "A method of producing clothing exclusively by hand over many years",
-              "A style of clothing with no connection to global trade",
+              "A government subsidy program supporting local textile farmers",
               "A business model that produces inexpensive clothing quickly in response to rapidly changing trends"
             ],
             "answer": 3
@@ -40132,7 +40150,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a food export restriction?",
             "options": [
-              "A rule that has no connection to international food trade",
+              "A tariff applied only to imported luxury goods",
               "A policy in which a government limits or bans the export of a food commodity, often during a shortage or crisis",
               "An agreement that always increases food exports during a crisis",
               "A policy that requires a country to export as much food as possible at all times"
@@ -40143,7 +40161,7 @@ const curriculum: DayContent[] = [
             "q": "What is overfishing?",
             "options": [
               "A practice in which no fish are ever harvested from a body of water",
-              "A term with no connection to the sustainability of fish stocks",
+              "A fishing method restricted to freshwater lakes only",
               "A method of fishing that always increases fish populations over time",
               "Harvesting fish from a body of water faster than the population can naturally replenish itself"
             ],
@@ -40603,7 +40621,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might two vineyards located close together produce noticeably different wines?",
             "options": [
-              "Wine production has no connection to the physical geography of a vineyard",
+              "Wine differences between nearby vineyards are caused mainly by differing bottle designs",
               "All vineyards located near each other always produce identical wine",
               "Grapevines are entirely unaffected by soil or climate conditions",
               "Small differences in soil composition, slope, or microclimate can significantly affect grape development"
@@ -40623,7 +40641,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How can the concept of terroir influence the economic value of a wine region?",
             "options": [
-              "Terroir has no connection to the pricing of wine at all",
+              "Terroir influences a wine's alcohol content but never its market price",
               "Wines from a distinctive terroir can command higher prices due to their unique and recognizable qualities",
               "Every wine region in the world produces wine of identical value",
               "Terroir always reduces the market value of a regions wine"
@@ -40633,10 +40651,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do geographers study wine-producing regions?",
             "options": [
-              "Wine production has no relevance to the study of geography",
+              "Wine-producing regions are studied mainly to track international shipping tariffs",
               "This topic is considered purely a matter of chemistry, not geography",
               "They illustrate how physical geography can directly shape agricultural production and regional economic identity",
-              "Wine regions are distributed randomly with no connection to physical geography"
+              "Wine regions are selected primarily based on proximity to major airports"
             ],
             "answer": 2
           }
@@ -40659,7 +40677,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is an antagonist?",
             "options": [
-              "A setting description with no connection to any character",
+              "The character who narrates the story from a first-person point of view",
               "The character or force that opposes the protagonist and drives the central conflict",
               "The narrator of a story who has no influence on the plot",
               "A minor character who never appears more than once"
@@ -40882,7 +40900,7 @@ const curriculum: DayContent[] = [
               "A decline in cruise arrivals, such as during a global disruption, can sharply reduce local income tied to visitor spending",
               "Cruise tourism guarantees a citys economy will never experience any decline",
               "Port cities that rely on cruise tourism are never affected by changes in visitor numbers",
-              "A citys economy is entirely unrelated to the number of visitors it receives"
+              "A port city's economy depends solely on its manufacturing output, never tourism"
             ],
             "answer": 0
           }
@@ -40917,7 +40935,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A tone that is deliberately sarcastic and mocking throughout",
               "A tone appropriate only for a comedic performance",
-              "A tone with no connection to respect or factual accuracy",
+              "A tone that exaggerates the person's achievements for dramatic effect",
               "A respectful and factual tone"
             ],
             "answer": 3
@@ -40995,7 +41013,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might renting be a more suitable choice for someone who expects to relocate frequently?",
             "options": [
-              "Renting has no connection to a persons flexibility to relocate",
+              "Renting always costs more than buying over any time period",
               "Relocating is always easier for homeowners than for renters",
               "Renting avoids the significant costs and effort involved in selling a home on short notice",
               "Renters are legally required to remain in the same location for life"
@@ -41005,7 +41023,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is deciding between renting and buying often described as dependent on individual circumstances?",
             "options": [
-              "The decision between renting and buying has no connection to income or housing costs",
+              "Renting always results in a better financial outcome than buying",
               "Every person faces the exact same financial circumstances regardless of their situation",
               "Because factors such as income stability, planned length of stay, and local housing costs vary significantly from person to person",
               "Renting and buying always produce identical financial outcomes for everyone"
@@ -41086,7 +41104,7 @@ const curriculum: DayContent[] = [
             "q": "What is international student migration?",
             "options": [
               "The movement of students to another country to pursue their education",
-              "A form of migration that has no connection to education of any kind",
+              "A visa category reserved exclusively for professional athletes",
               "A policy that forbids students from ever studying outside their home country",
               "A term used only to describe students who study entirely online"
             ],
@@ -41151,7 +41169,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is product placement?",
             "options": [
-              "A completely random, unintentional appearance of an object with no connection to any brand",
+              "A government subsidy given to filmmakers who avoid showing brand names",
               "A separate advertisement that appears only between scenes of a film",
               "The deliberate inclusion of a brand or product within a film or television show, usually in exchange for payment or promotion",
               "A legal requirement that forbids any brand from appearing on screen"
@@ -41600,7 +41618,7 @@ const curriculum: DayContent[] = [
               "Some communities have long-standing cultural or subsistence traditions connected to whaling, while others prioritize conservation",
               "Every country in the world holds the exact same cultural perspective on whaling",
               "Whaling has never been connected to any communitys cultural practices",
-              "Cultural traditions have no connection to debates over whaling policy"
+              "Whaling debates are shaped mainly by differences in national currency values"
             ],
             "answer": 0
           },
@@ -41824,7 +41842,7 @@ const curriculum: DayContent[] = [
             "q": "Why does agriculture in desert regions typically depend heavily on irrigation?",
             "options": [
               "Crops grown in desert regions never require any additional water source",
-              "Irrigation has no connection to agricultural production in any climate",
+              "Irrigation is required mainly for processing crops after harvest, not for growing them",
               "Desert regions always receive more than enough natural rainfall for agriculture",
               "Natural rainfall in desert regions is too low to reliably support crop growth without additional water"
             ],
@@ -41845,7 +41863,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It conserves water more effectively than traditional flood irrigation methods",
               "Drip irrigation is only effective in regions with abundant rainfall",
-              "Water conservation has no relevance to farming in arid regions",
+              "Drip irrigation is valued mainly for increasing crop height rather than saving water",
               "Drip irrigation always uses significantly more water than flood irrigation"
             ],
             "answer": 0
@@ -41854,7 +41872,7 @@ const curriculum: DayContent[] = [
             "q": "What environmental concern can arise from heavy reliance on groundwater for desert irrigation?",
             "options": [
               "Desert irrigation always increases the amount of groundwater available",
-              "Groundwater use has no connection to long-term water availability",
+              "Groundwater use mainly affects a region's air quality, not its water supply",
               "Overuse can deplete groundwater aquifers faster than they can naturally recharge",
               "Groundwater aquifers can never be depleted under any circumstances"
             ],
@@ -42039,7 +42057,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is seed dispersal beneficial to a plant species?",
             "options": [
-              "Seed dispersal has no effect on where a plant species can grow",
+              "Seed dispersal mainly helps protect seeds from being eaten by predators, not from competition",
               "It reduces competition for resources with the parent plant and allows the species to colonize new areas",
               "Seed dispersal always increases competition between a seed and its parent plant",
               "Dispersed seeds are always less likely to survive than seeds left near the parent plant"
@@ -42071,7 +42089,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A town built entirely without any economic purpose",
               "A settlement built and largely controlled by a single company, often to house its workers",
-              "A large city with no connection to any single company or industry",
+              "A historic district preserved exclusively for tourism purposes",
               "A settlement that is governed exclusively by an elected national government"
             ],
             "answer": 1
@@ -42112,7 +42130,7 @@ const curriculum: DayContent[] = [
               "They illustrate how a single economic activity can shape the location, growth, and eventual decline of an entire community",
               "This topic is considered purely a matter of business studies, not geography",
               "Every settlement in the world developed for identical economic reasons",
-              "Company towns have no connection to the geographic study of settlements"
+              "Company towns typically arose only in major financial capitals, far from any natural resources"
             ],
             "answer": 0
           }
@@ -42266,7 +42284,7 @@ const curriculum: DayContent[] = [
             "q": "How can noise pollution interfere with wildlife behaviour?",
             "options": [
               "Only plants, never animals, are affected by noise pollution",
-              "Noise pollution has no effect on any animal behaviour of any kind",
+              "Noise pollution affects only the hearing of animals living on land",
               "It can disrupt an animals ability to communicate, navigate, or detect predators using sound",
               "Noise pollution always improves an animals ability to detect predators"
             ],
@@ -42276,7 +42294,7 @@ const curriculum: DayContent[] = [
             "q": "Which marine animals are commonly cited as being affected by underwater noise pollution, such as from shipping?",
             "options": [
               "Only fish that cannot hear any sound are affected by shipping noise",
-              "Animals that live entirely on land, with no connection to the ocean",
+              "Animals living entirely on land are the ones most affected by underwater shipping noise",
               "Marine animals are never affected by sound produced by ships",
               "Whales, which rely heavily on sound for communication and navigation"
             ],
@@ -42298,7 +42316,7 @@ const curriculum: DayContent[] = [
               "It can mask or interfere with mating calls, making it harder for individuals to successfully communicate and reproduce",
               "Species that use sound to find mates are never affected by noise pollution",
               "Noise pollution always makes mating calls easier for animals to hear",
-              "Mating behaviour has no connection to an animals ability to hear sound"
+              "Mating calls become easier to hear as background noise increases"
             ],
             "answer": 0
           }
@@ -42315,7 +42333,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is event-based tourism?",
             "options": [
-              "Tourism that is entirely unrelated to any local celebration or event",
+              "Tourism focused on relocating residents permanently to the site of a festival",
               "A form of tourism that never involves any form of travel",
               "Tourism driven by visitors travelling to a destination for a specific festival or cultural celebration",
               "Tourism that occurs only in destinations with no cultural traditions of any kind"
@@ -42357,7 +42375,7 @@ const curriculum: DayContent[] = [
             "options": [
               "This topic is considered purely a matter of entertainment, not geography",
               "Cultural festivals never have any effect on the economy of a host city",
-              "Event-based tourism has no connection to economic or cultural geography",
+              "Event-based tourism is studied mainly because it eliminates cultural traditions in host regions",
               "It shows how a temporary cultural event can create significant, though often short-lived, economic and infrastructural effects on a place"
             ],
             "answer": 3
@@ -42392,7 +42410,7 @@ const curriculum: DayContent[] = [
             "q": "What is an antagonist?",
             "options": [
               "The character or force that opposes the protagonist and drives the central conflict",
-              "A setting description with no connection to any character",
+              "The character who narrates the story from a first-person point of view",
               "A minor character who never appears more than once",
               "The narrator of a story who has no influence on the plot"
             ],
@@ -42600,7 +42618,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a company town?",
             "options": [
-              "A large city with no connection to any single company or industry",
+              "A large, diversified city that depends equally on hundreds of separate industries",
               "A town built entirely without any economic purpose",
               "A settlement that is governed exclusively by an elected national government",
               "A settlement built and largely controlled by a single company, often to house its workers"
@@ -42825,9 +42843,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do some geographers link colonial-era boundaries to modern regional conflict?",
             "options": [
-              "All conflicts in Africa today have origins with no connection to historical borders",
+              "All of today's conflicts in Africa stem solely from differences in regional rainfall patterns",
               "Colonial borders always guaranteed lasting peace and cooperation between all groups",
-              "Colonial-era boundaries are considered entirely unrelated to any modern conflict",
+              "Colonial-era boundaries were completely redrawn by the United Nations immediately after independence",
               "Borders that ignored existing cultural or ethnic divisions can contribute to tension between groups now sharing a single country"
             ],
             "answer": 3
@@ -42848,7 +42866,7 @@ const curriculum: DayContent[] = [
               "African governments have always preferred to redraw their borders every decade",
               "Every African border has already been completely redrawn since independence",
               "Changing established borders could risk widespread instability, so many leaders have prioritized preserving the current boundaries",
-              "Colonial-era borders are considered to have no relevance to modern governments"
+              "Colonial-era borders were formally abolished by international law once African nations gained independence"
             ],
             "answer": 2
           }
@@ -43063,7 +43081,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It can reduce the amount of water flow available to countries located further downstream",
               "Downstream countries are never affected by activity occurring upstream",
-              "Dam construction has no effect on the water available to any other country",
+              "Dam construction upstream always increases the water flow reaching downstream nations",
               "Upstream dams always increase water flow to downstream countries"
             ],
             "answer": 0
@@ -43081,7 +43099,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a growing population increase pressure on a shared transboundary river?",
             "options": [
-              "Population growth has no effect on the demand for river water",
+              "A growing population typically reduces overall demand on a shared river's water supply",
               "Rising demand for drinking water, irrigation, and industry can strain the same limited water supply shared by multiple countries",
               "A larger population always reduces the demand for water resources",
               "Transboundary rivers are unaffected by the size of a countrys population"
@@ -43092,7 +43110,7 @@ const curriculum: DayContent[] = [
             "q": "Why do geographers study transboundary rivers as part of political and physical geography?",
             "options": [
               "They show how a shared physical resource can shape international relationships, cooperation, and conflict",
-              "Transboundary rivers have no connection to political geography of any kind",
+              "Transboundary rivers are governed primarily by international maritime shipping law",
               "This topic is considered purely a matter of hydrology, not geography",
               "Every transboundary river in the world is governed by identical rules"
             ],
@@ -43128,7 +43146,7 @@ const curriculum: DayContent[] = [
             "q": "What is an initialism?",
             "options": [
               "A word formed by combining two entire unrelated words",
-              "A word that has no connection to any longer phrase",
+              "A word created by reversing the letters of another word",
               "A term that is always pronounced as a single word, never letter by letter",
               "A term formed from the initial letters of a phrase but pronounced letter by letter rather than as a single word"
             ],
@@ -43148,7 +43166,7 @@ const curriculum: DayContent[] = [
             "q": "How does an acronym differ from a clipped word, studied earlier in this course?",
             "options": [
               "A clipped word is always built from the initial letters of several words",
-              "Acronyms and clipped words have no connection to shortening language at all",
+              "A clipped word is always capitalized, while an acronym never is",
               "An acronym and a clipped word are formed in exactly the same way",
               "An acronym is built from the initial letters of several words, while a clipped word shortens a single existing word"
             ],
@@ -43297,7 +43315,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the main goal of the fair trade model?",
             "options": [
-              "Fair trade has no connection to the price paid to producers",
+              "Fair trade is mainly designed to lower shipping and transportation costs for exporters",
               "To ensure producers receive a fair price and safe working conditions for the goods they sell in global markets",
               "To guarantee that producers receive the lowest possible price for their goods",
               "To eliminate all forms of international trade completely"
@@ -43308,7 +43326,7 @@ const curriculum: DayContent[] = [
             "q": "Which types of products are commonly associated with fair trade certification?",
             "options": [
               "Only products manufactured entirely within a single wealthy country",
-              "Products that have no connection to agriculture or manufacturing",
+              "Only manufactured electronics and automobiles qualify for fair trade certification",
               "Products that are never traded internationally",
               "Coffee, cocoa, and textiles"
             ],
@@ -43330,7 +43348,7 @@ const curriculum: DayContent[] = [
               "A practice that applies only to goods produced within a single country",
               "Sourcing goods only from suppliers with the lowest possible production costs",
               "Choosing to obtain goods from suppliers that meet certain labour, environmental, or social standards",
-              "A term with no connection to labour or environmental standards"
+              "Ethical sourcing refers only to negotiating lower prices from factory owners"
             ],
             "answer": 2
           },
@@ -43363,7 +43381,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a red herring in a narrative?",
             "options": [
-              "A setting description with no connection to the plot",
+              "A secondary subplot that is fully resolved before the main conflict begins",
               "A character who always tells the reader the complete truth",
               "A detail that has no purpose within the structure of a story",
               "A clue or detail deliberately placed to mislead readers away from the true solution or outcome"
@@ -43445,7 +43463,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Lending practices that impose unfair or excessive costs on borrowers, often those with limited alternatives",
               "A lending practice that always benefits the borrower more than the lender",
-              "A term with no connection to interest rates or lending practices",
+              "A lending practice regulated identically in every country",
               "A type of loan available only to large corporations"
             ],
             "answer": 0
@@ -43495,7 +43513,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It channels charged particles from the solar wind toward the polar regions",
               "It completely blocks all charged particles from reaching Earths atmosphere",
-              "Earths magnetic field has no connection to the formation of an aurora",
+              "Earth's magnetic field produces auroras by heating the upper atmosphere directly",
               "It pushes charged particles away from the poles toward the equator"
             ],
             "answer": 0
@@ -43515,7 +43533,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The colours of an aurora are produced entirely by reflected moonlight",
               "Every aurora display produces exactly the same single colour",
-              "Aurora colours have no connection to the gases present in the atmosphere",
+              "Aurora colours depend only on the time of year, not the gases present",
               "Charged particles colliding with different gases in the atmosphere at different altitudes"
             ],
             "answer": 3
@@ -43524,7 +43542,7 @@ const curriculum: DayContent[] = [
             "q": "How does the study of auroras connect to the earlier study of Earths magnetic field in this course?",
             "options": [
               "Auroras occur independently of any magnetic field, on Earth or elsewhere",
-              "Auroras and Earths magnetic field are entirely unrelated topics",
+              "Auroras form independently of Earth's magnetic field, through a separate process",
               "Both topics involve understanding how Earths magnetic field interacts with charged particles from space",
               "Earths magnetic field has no measurable effect on the atmosphere"
             ],
@@ -43546,7 +43564,7 @@ const curriculum: DayContent[] = [
               "The poaching and trafficking of protected animal species and their parts",
               "A form of trade that occurs only with the full approval of international law",
               "The legal, regulated sale of farmed livestock within a single country",
-              "A trade that has no connection to protected or endangered species"
+              "The illegal wildlife trade refers to the licensed, regulated export of farmed livestock"
             ],
             "answer": 0
           },
@@ -43556,7 +43574,7 @@ const curriculum: DayContent[] = [
               "Illegal wildlife products are demanded only within the country where the animal lives",
               "Demand for illegally traded wildlife products has never existed anywhere",
               "Demand in distant markets for items such as ivory, exotic pets, or traditional medicine ingredients",
-              "The illegal wildlife trade has no connection to any market demand"
+              "Demand for illegally traded wildlife products comes mainly from the same region where the animals are poached"
             ],
             "answer": 2
           },
@@ -43610,7 +43628,7 @@ const curriculum: DayContent[] = [
             "q": "What does a memoir excerpt typically focus on?",
             "options": [
               "A biography written entirely about another persons life",
-              "A completely fictional event with no connection to the writer",
+              "A persuasive essay arguing for a particular political position",
               "A specific memory or period in the writers own life",
               "A set of instructions for completing a specific task"
             ],
@@ -43630,7 +43648,7 @@ const curriculum: DayContent[] = [
             "q": "Why does a memoir typically include the writers reflection on an experience, not just a description of events?",
             "options": [
               "A memoir must never include the writers own thoughts or feelings",
-              "Reflection has no connection to the personal significance of an experience",
+              "Because reflection is only required in memoirs written for academic publication",
               "Reflection helps convey why the experience mattered and what the writer learned or felt about it",
               "Reflection is always considered unnecessary in memoir writing"
             ],
@@ -43829,7 +43847,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do geographers study historic resources like salt as part of economic geography?",
             "options": [
-              "Historic salt production has no connection to the study of geography",
+              "Salt was historically valued only as a seasoning and had little influence on trade routes",
               "This topic is considered purely a matter of chemistry, not geography",
               "They show how the physical distribution of a valuable resource can shape trade networks, settlement patterns, and regional economies",
               "Trade routes have never been influenced by the location of natural resources"
@@ -43976,7 +43994,7 @@ const curriculum: DayContent[] = [
             "q": "What is the general goal of water treatment?",
             "options": [
               "To remove contaminants and pathogens from water before it is considered safe for drinking",
-              "Water treatment has no connection to making water safer to drink",
+              "The main goal of water treatment is to improve water's taste and smell, not its safety",
               "To permanently remove all minerals from every water source",
               "To add as many contaminants to water as possible"
             ],
@@ -43996,7 +44014,7 @@ const curriculum: DayContent[] = [
             "q": "Why is chlorine commonly added during water treatment?",
             "options": [
               "To make water taste sweeter without affecting safety",
-              "Chlorine has no effect on pathogens present in water",
+              "Chlorine is added mainly to adjust the water's temperature, not to disinfect it",
               "Chlorine is added only to change the colour of treated water",
               "To disinfect water by killing or inactivating harmful pathogens"
             ],
@@ -44007,7 +44025,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Filtration adds additional contaminants back into the water supply",
               "It physically removes suspended particles and some microorganisms as water passes through a filtering material",
-              "Filtration has no effect on the particles present in water",
+              "Filtration mainly changes the taste of water rather than removing particles",
               "Filtration is used only to make water colder"
             ],
             "answer": 1
@@ -44075,7 +44093,7 @@ const curriculum: DayContent[] = [
             "q": "Why do geographers study global courier and logistics networks as part of economic geography?",
             "options": [
               "Every logistics network in the world operates in an identical way",
-              "Logistics networks have no connection to the study of economic geography",
+              "Global courier networks rely entirely on local postal carriers with no central hub system",
               "They reveal how transportation infrastructure and hub locations shape the efficient movement of goods across the world",
               "This topic is considered purely a matter of business management, not geography"
             ],
@@ -44141,7 +44159,7 @@ const curriculum: DayContent[] = [
             "q": "How does a homograph like the word tear demonstrate the importance of context in reading?",
             "options": [
               "The surrounding words and sentence help the reader determine which meaning and pronunciation is intended",
-              "Context has no effect on how a homograph should be interpreted",
+              "Context only matters when reading poetry, never when reading prose",
               "A homograph always has exactly one meaning regardless of context",
               "Homographs are pronounced identically in absolutely every context"
             ],
@@ -44280,7 +44298,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is transboundary air pollution?",
             "options": [
-              "Air pollution that has no connection to international borders of any kind",
+              "Transboundary air pollution occurs only when pollutants rise above the stratosphere",
               "Air pollution produced in one country that travels across borders and affects air quality in neighbouring regions",
               "Air pollution that remains permanently confined within the borders of a single country",
               "A term used only to describe pollution that occurs over open ocean"
@@ -44292,7 +44310,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Large-scale agricultural or forest burning and industrial emissions",
               "Transboundary haze is caused entirely by natural volcanic activity alone",
-              "Regional haze has no connection to any human activity",
+              "Regional haze is produced mainly by increased ocean evaporation during monsoon season",
               "Haze is produced only by activities occurring at sea"
             ],
             "answer": 0
@@ -44303,7 +44321,7 @@ const curriculum: DayContent[] = [
               "A country affected by haze originating elsewhere may have limited direct control over reducing the pollution at its source",
               "Every country responsible for producing haze willingly stops the activity immediately",
               "Transboundary air pollution never affects relations between neighbouring countries",
-              "Diplomatic tension only arises from issues unrelated to air quality"
+              "Diplomatic tension linked to haze usually arises from disputes over offshore fishing rights"
             ],
             "answer": 0
           },
@@ -44313,7 +44331,7 @@ const curriculum: DayContent[] = [
               "Respiratory and other health problems linked to poor air quality",
               "Haze always improves air quality in the regions it reaches",
               "Health effects from haze are limited only to the country where it originated",
-              "Regional haze has no effect on human health of any kind"
+              "Regional haze mainly reduces crop yields but poses little risk to human health"
             ],
             "answer": 0
           },
@@ -44323,7 +44341,7 @@ const curriculum: DayContent[] = [
               "Coordinated action across borders can be more effective at reducing the sources and impact of shared air pollution than efforts by a single country alone",
               "Countries affected by haze are legally forbidden from cooperating with one another",
               "A single country acting alone is always more effective than regional cooperation",
-              "Regional cooperation has no effect on reducing transboundary air pollution"
+              "Regional cooperation agreements on haze focus mainly on promoting tourism rather than reducing pollution"
             ],
             "answer": 0
           }
@@ -44356,7 +44374,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the purpose of the rising action in a plot?",
             "options": [
-              "Rising action has no connection to a storys central conflict",
+              "Rising action occurs only after the climax has already taken place",
               "To resolve the central conflict immediately after it is introduced",
               "To gradually reduce tension until the story reaches its exposition",
               "To build tension and develop the central conflict on the way toward the climax"
@@ -44378,7 +44396,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The events of the rising action build toward and lead directly into the climax",
               "The climax always occurs before any rising action takes place",
-              "The rising action has no connection to the climax of a story",
+              "The rising action and the climax always occur simultaneously",
               "Rising action and climax are always identical stages of a plot"
             ],
             "answer": 0
@@ -44478,7 +44496,7 @@ const curriculum: DayContent[] = [
             "options": [
               "To find food, breeding grounds, or more favourable climate conditions",
               "Migration never provides any survival advantage to a species",
-              "Migration occurs randomly with no connection to survival needs",
+              "Species migrate mainly to escape predators within their own habitat",
               "Species migrate only to avoid other members of their own species"
             ],
             "answer": 0
@@ -44499,7 +44517,7 @@ const curriculum: DayContent[] = [
               "Some species use the suns position in the sky as a reference point to maintain a consistent direction of travel",
               "Migrating animals avoid all sunlight throughout their entire journey",
               "The sun is used only to help animals regulate their body temperature",
-              "The suns position has no connection to how any animal navigates"
+              "Migrating animals navigate using Earth's magnetic field exclusively, never the Sun"
             ],
             "answer": 0
           },
@@ -44509,7 +44527,7 @@ const curriculum: DayContent[] = [
               "Shifting temperatures and changing conditions along migration routes can disrupt the timing and availability of food or breeding grounds",
               "Migration routes are entirely unaffected by changes in climate",
               "Migratory species are guaranteed to adapt instantly to any environmental change",
-              "Climate change has no effect on any migratory species"
+              "Climate change affects migration timing but never the availability of food or breeding sites"
             ],
             "answer": 0
           }
@@ -44546,7 +44564,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What concern is commonly raised by long-time residents when a waterfront area is redeveloped?",
             "options": [
-              "Waterfront redevelopment has no connection to housing affordability",
+              "Waterfront redevelopment mainly concerns residents because it increases the risk of local flooding",
               "Long-time residents are never affected by redevelopment of any kind",
               "Redevelopment always lowers the cost of living for every resident",
               "Rising property values and living costs that may make the area less affordable for existing residents"
@@ -44625,7 +44643,7 @@ const curriculum: DayContent[] = [
               "Headlines are always intentionally misleading in a press release",
               "It quickly conveys the main newsworthy point and can capture the attention of a busy journalist",
               "A headline is never included in a properly written press release",
-              "A headline has no connection to the content that follows in a press release"
+              "A headline is only required for press releases distributed internationally"
             ],
             "answer": 1
           },
@@ -44715,7 +44733,7 @@ const curriculum: DayContent[] = [
               "A term that applies only to pollution found in ocean water",
               "Excessive or misdirected artificial light, especially from urban areas at night",
               "A form of pollution caused exclusively by natural sunlight during the day",
-              "Light pollution has no connection to any form of artificial lighting"
+              "Light pollution refers only to light emitted naturally by the Moon and stars"
             ],
             "answer": 1
           },
@@ -44723,7 +44741,7 @@ const curriculum: DayContent[] = [
             "q": "How can light pollution disrupt nocturnal animals?",
             "options": [
               "Light pollution always improves the natural behaviour of nocturnal animals",
-              "Light pollution has no effect on any nocturnal species",
+              "Light pollution mainly affects animals that are active during the day, not at night",
               "It can interfere with natural behaviours that depend on darkness, such as hunting or resting patterns",
               "Nocturnal animals are entirely unaffected by any change in light levels"
             ],
@@ -44733,7 +44751,7 @@ const curriculum: DayContent[] = [
             "q": "How can artificial light at night interfere with bird migration?",
             "options": [
               "Bird migration never occurs at night, so light pollution has no relevance",
-              "Artificial light has no effect on migrating birds of any kind",
+              "Artificial light helps migrating birds stay on course more reliably than natural light",
               "It can disorient migrating birds that rely on natural light cues, sometimes leading them off course",
               "Migrating birds are guaranteed to ignore all artificial light sources"
             ],
@@ -44793,7 +44811,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a territory become an unrecognized state?",
             "options": [
               "Unrecognized states are always created through a fully approved international process",
-              "Unrecognized states have no connection to political conflict or dispute",
+              "Unrecognized states typically form only through peaceful referendums supervised by the United Nations",
               "It may have declared independence or gained de facto control following a conflict or political dispute, without gaining widespread diplomatic recognition",
               "A territory can only become an unrecognized state with unanimous global recognition"
             ],
@@ -44805,7 +44823,7 @@ const curriculum: DayContent[] = [
               "Unrecognized states automatically receive full membership in every international organization",
               "Unrecognized states face no challenges different from those of any fully recognized country",
               "Difficulty accessing international trade, aid, or organizations that generally require formal diplomatic recognition",
-              "International trade and aid have no connection to diplomatic recognition"
+              "International trade and aid are granted automatically regardless of a territory's diplomatic status"
             ],
             "answer": 2
           },
@@ -44813,7 +44831,7 @@ const curriculum: DayContent[] = [
             "q": "Why do geographers study micronations and unrecognized states as part of political geography?",
             "options": [
               "This topic is considered purely a matter of law, not geography",
-              "Micronations and unrecognized states have no connection to political geography",
+              "Micronations and unrecognized states are studied mainly as case studies in economic policy",
               "Every territory in the world has always had exactly the same recognized status",
               "They illustrate the complex relationship between territorial control, sovereignty, and international recognition"
             ],
@@ -44858,7 +44876,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a red herring in a narrative?",
             "options": [
-              "A setting description with no connection to the plot",
+              "A secondary subplot that is fully resolved before the main conflict begins",
               "A detail that has no purpose within the structure of a story",
               "A character who always tells the reader the complete truth",
               "A clue or detail deliberately placed to mislead readers away from the true solution or outcome"
@@ -45027,7 +45045,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the main goal of the fair trade model?",
             "options": [
-              "Fair trade has no connection to the price paid to producers",
+              "Fair trade is mainly designed to lower shipping and transportation costs for exporters",
               "To eliminate all forms of international trade completely",
               "To ensure producers receive a fair price and safe working conditions for the goods they sell in global markets",
               "To guarantee that producers receive the lowest possible price for their goods"
@@ -45040,7 +45058,7 @@ const curriculum: DayContent[] = [
               "A form of trade that occurs only with the full approval of international law",
               "The poaching and trafficking of protected animal species and their parts",
               "The legal, regulated sale of farmed livestock within a single country",
-              "A trade that has no connection to protected or endangered species"
+              "The illegal wildlife trade refers to the licensed, regulated export of farmed livestock"
             ],
             "answer": 1
           },
@@ -45082,7 +45100,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does a conditional sentence express?",
             "options": [
-              "A statement with no connection to cause and result",
+              "A statement expressing a fact that is always true no matter the circumstances",
               "A question that can never be answered with certainty",
               "A condition and its result, using an if-clause paired with a main clause",
               "A command given without any explanation"
@@ -45113,7 +45131,7 @@ const curriculum: DayContent[] = [
             "q": "What does a second conditional typically describe?",
             "options": [
               "An event that is guaranteed to happen exactly as described",
-              "A situation set entirely in the distant past with no connection to the present",
+              "A real, factual situation that happened in the past and is now resolved",
               "A conditional sentence that has no if-clause",
               "A hypothetical or unlikely situation in the present or future"
             ],
@@ -45265,14 +45283,14 @@ const curriculum: DayContent[] = [
               "Cemeteries never occupy any meaningful amount of land within a city",
               "They occupy significant land that could otherwise be used for housing, infrastructure, or other development, creating pressure between preservation and growth",
               "Growing cities never experience any pressure related to limited land availability",
-              "Urban cemeteries have no connection to the study of land use planning"
+              "Urban cemeteries typically occupy less space than a single city block"
             ],
             "answer": 1
           },
           {
             "q": "What is one reason city planners often choose to preserve historic cemeteries rather than redevelop them?",
             "options": [
-              "Preservation of cemeteries has no connection to a communitys cultural history",
+              "Preserving historic cemeteries is mainly required to comply with international maritime law",
               "Historic cemeteries are always considered worthless and are never preserved",
               "Historic cemeteries often hold significant historical and cultural value for a community",
               "City planners are legally forbidden from ever considering preservation of any site"
@@ -45305,7 +45323,7 @@ const curriculum: DayContent[] = [
               "Every city in the world manages cemetery land in an identical way",
               "They reveal how cities balance historical preservation, cultural values, and the practical demand for limited urban land",
               "This topic is considered purely a matter of religious practice, not geography",
-              "Cemeteries have no connection to the study of urban geography"
+              "Cemeteries are studied in urban geography mainly for their role in transportation planning"
             ],
             "answer": 1
           }
@@ -45371,7 +45389,7 @@ const curriculum: DayContent[] = [
               "Repeated exposure to how words are commonly paired together in authentic text builds an intuitive sense of natural word combinations",
               "Every collocation is used so rarely that reading provides no useful exposure",
               "Collocations can only be learned by memorizing a single fixed list with no exposure to real text",
-              "Reading has no effect on a writers understanding of natural word pairings"
+              "Reading widely only helps a writer learn new punctuation rules"
             ],
             "answer": 0
           }
@@ -45390,7 +45408,7 @@ const curriculum: DayContent[] = [
             "options": [
               "An RRSP has no defined financial purpose of any kind",
               "To help individuals save for retirement while receiving certain tax advantages",
-              "To provide a short-term loan with no connection to retirement savings",
+              "To provide an emergency fund accessible without any restrictions",
               "To guarantee an individual will never pay any tax for the rest of their life"
             ],
             "answer": 1
@@ -45420,7 +45438,7 @@ const curriculum: DayContent[] = [
             "options": [
               "An RRSP and a TFSA are always identical in every respect, so the choice never matters",
               "Each account offers different tax treatment and rules, so choosing between them can affect how much of a persons savings growth is available in the future",
-              "Long-term savings decisions have no connection to the type of account used",
+              "Because RRSPs and TFSAs always have identical contribution limits",
               "Only one of these two account types has ever existed in Canada"
             ],
             "answer": 1
@@ -45430,8 +45448,8 @@ const curriculum: DayContent[] = [
             "options": [
               "RRSPs and TFSAs are used exclusively for short-term daily spending",
               "Both accounts are tools that can help individuals grow savings over time using different tax rules, supporting informed long-term financial decision-making",
-              "Financial literacy has no relevance to choosing a savings account",
-              "These accounts have no connection to broader financial planning skills"
+              "RRSPs and TFSAs always guarantee the same rate of return",
+              "A TFSA can only be opened after an RRSP account is closed"
             ],
             "answer": 1
           }
@@ -45511,7 +45529,7 @@ const curriculum: DayContent[] = [
               "They were built only as decorative structures with no navigational purpose",
               "To guide ships safely and prevent shipwrecks at strategically hazardous locations",
               "Lighthouses have never been connected to maritime safety in any way",
-              "Lighthouses were built at completely random locations with no connection to coastal hazards"
+              "Lighthouses were historically built mainly at the center of large inland cities"
             ],
             "answer": 1
           },
@@ -45531,7 +45549,7 @@ const curriculum: DayContent[] = [
               "Every lighthouse in history was built in an identical location with no variation",
               "Lighthouses were positioned based on knowledge of dangerous coastal features and the routes ships commonly travelled",
               "Lighthouses were placed without any consideration of where ships actually travelled",
-              "Lighthouse placement has no connection to geography or shipping routes"
+              "Lighthouse placement was determined mainly by the design of a nation's flag"
             ],
             "answer": 1
           },
@@ -45551,7 +45569,7 @@ const curriculum: DayContent[] = [
               "Every lighthouse network functions in complete isolation with no relationship to nearby structures",
               "Examining the network reveals broader patterns in historic shipping routes, trade, and the geographic hazards that shaped maritime activity in a region",
               "Studying lighthouse networks provides no insight into historical geography",
-              "Lighthouses have no connection to broader patterns of trade or shipping routes"
+              "Lighthouses are studied mainly for their influence on inland agricultural irrigation"
             ],
             "answer": 1
           }
@@ -45605,7 +45623,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might an author deliberately use bathos when writing satire?",
             "options": [
-              "Bathos has no connection to satire",
+              "Bathos is a technique used exclusively in formal tragedy, never in satire",
               "To make a subject feel more dignified and serious than it is",
               "To deflate something the author sees as falsely self-important or overly grand, undercutting it for comic or critical effect",
               "To ensure the tone stays consistently serious throughout"
@@ -45764,7 +45782,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the general goal of river basin management?",
             "options": [
-              "River basin management has no connection to water quality or land use",
+              "River basin management focuses mainly on building new dams to maximize hydroelectric output",
               "To coordinate land use, water quality protection, and resource allocation across an entire watershed",
               "To eliminate all human use of water within a watershed permanently",
               "To ensure that no communities ever cooperate on managing a shared watershed"
@@ -45785,7 +45803,7 @@ const curriculum: DayContent[] = [
             "q": "How can land use decisions, such as farming or construction, within a watershed affect water quality in a connected river or lake?",
             "options": [
               "Runoff from these activities can carry pollutants, sediment, or excess nutrients into nearby waterways, affecting the entire watershed",
-              "Water quality is entirely unrelated to how land within a watershed is used",
+              "Water quality in a watershed depends only on rainfall totals, regardless of how land is used",
               "Runoff from farming or construction never reaches any connected river or lake",
               "Land use decisions within a watershed have no effect on nearby water quality"
             ],
@@ -45797,7 +45815,7 @@ const curriculum: DayContent[] = [
               "Political boundaries are always more important than natural geography in every planning decision",
               "Watershed boundaries reflect the natural flow of water across land, which often does not align with political borders but strongly influences how resources and pollution move through a region",
               "Watershed boundaries and political boundaries always align perfectly with no exceptions",
-              "Natural water flow has no relevance to planning resource management"
+              "The natural flow of water is determined entirely by a region's political boundaries"
             ],
             "answer": 1
           }
@@ -45831,7 +45849,7 @@ const curriculum: DayContent[] = [
             "q": "What combination of content does an effective toast typically include?",
             "options": [
               "An anecdote about a completely unrelated person or event",
-              "A lengthy academic argument with no connection to the person being honoured",
+              "A formal legal disclaimer followed by a list of the honouree's job titles",
               "Only a list of statistics with no personal anecdote included",
               "A warm or humorous personal anecdote paired with a sincere closing message"
             ],
@@ -45851,7 +45869,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a speaker keep a toast relatively brief?",
             "options": [
               "A toast should always include as much unrelated information as possible",
-              "Brevity has no effect on how an audience receives a spoken toast",
+              "Brevity is only expected at weddings, never at other celebratory events",
               "A brief toast helps maintain audience attention and fits the celebratory pace of the occasion",
               "A toast is always required to last for a very long, detailed period of time"
             ],
@@ -45941,7 +45959,7 @@ const curriculum: DayContent[] = [
             "q": "What is wave action?",
             "options": [
               "A process that occurs only far offshore, never affecting a coastline directly",
-              "Wave action has no connection to the shaping of coastal landforms",
+              "Wave action only shapes the ocean floor far from shore and never reaches the coastline",
               "The continuous physical process by which ocean waves erode, transport, and deposit sediment along a coastline",
               "A term used only to describe waves in a swimming pool"
             ],
@@ -45960,7 +45978,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How can a sea arch eventually form through continued wave action?",
             "options": [
-              "Sea arches are formed entirely by volcanic activity, with no connection to wave action",
+              "Sea arches form when lava cools and cracks into an arch shape, without any erosion involved",
               "Erosion can enlarge a sea cave until it eventually cuts all the way through a headland, leaving an arch-shaped opening",
               "A sea arch forms instantly with no gradual erosion process involved",
               "Wave action always fills in existing openings rather than enlarging them"
@@ -46003,7 +46021,7 @@ const curriculum: DayContent[] = [
               "Amusement parks are always deliberately built as far as possible from any population centre",
               "Transportation access is never considered when siting an amusement park",
               "To maximize visitor access and attract as many potential guests as possible",
-              "Location has no effect on how many visitors an amusement park attracts"
+              "Amusement parks typically attract the same number of visitors regardless of their location"
             ],
             "answer": 2
           },
@@ -46020,7 +46038,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a common characteristic of employment associated with the amusement park and leisure industry?",
             "options": [
-              "Leisure industry jobs have no connection to visitor demand",
+              "Leisure industry jobs are typically full-time, permanent positions offered year-round",
               "Employment in this industry is always identical every single day of the year",
               "Amusement parks never hire any seasonal or temporary staff",
               "It is often seasonal, with staffing levels rising and falling based on visitor demand throughout the year"
@@ -46043,7 +46061,7 @@ const curriculum: DayContent[] = [
               "Every amusement park in the world has an identical economic impact on its region",
               "They illustrate how site selection and visitor patterns can shape regional economic development and land use around a major attraction",
               "This topic is considered purely a matter of engineering, not geography",
-              "Amusement parks have no connection to the geographic study of the leisure industry"
+              "Amusement parks are studied in geography mainly for their architectural style"
             ],
             "answer": 1
           }
@@ -46078,7 +46096,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A single frozen moment can emphasize one emotion or impression while leaving out the broader context surrounding it",
               "Every news photograph is required to include the full timeline of an event",
-              "The moment captured in a photograph has no effect on how an audience interprets a story",
+              "A photograph can shape interpretation only when it includes a written caption",
               "A single photograph always shows the complete, unbiased context of an entire event"
             ],
             "answer": 0
@@ -46108,7 +46126,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A media-literate reader has no responsibility for how they interpret a photograph",
               "Recognizing how editorial choices about images can shape a narrative helps a reader interpret news coverage more critically rather than accepting it at face value",
-              "Image selection has no connection to how a news story is understood",
+              "Image selection is standardized by law to prevent any editorial bias",
               "Every photograph used in journalism is chosen with no editorial judgment involved"
             ],
             "answer": 1
@@ -46197,7 +46215,7 @@ const curriculum: DayContent[] = [
             "q": "Why can space telescopes observe wavelengths of light that are difficult to detect from the ground?",
             "options": [
               "Ground-based telescopes can already detect every wavelength with no atmospheric interference",
-              "Earths atmosphere has no effect on any wavelength of light reaching a telescope",
+              "Earths atmosphere only affects radio waves, leaving visible and all other wavelengths completely unaffected",
               "Earths atmosphere absorbs or distorts certain wavelengths before they reach ground-based telescopes",
               "Space telescopes are incapable of detecting any wavelength of light"
             ],
@@ -46247,7 +46265,7 @@ const curriculum: DayContent[] = [
             "q": "What was the original purpose of a postal code system?",
             "options": [
               "Postal codes were originally created to track international trade agreements",
-              "Postal codes have no connection to organizing mail delivery of any kind",
+              "Postal codes were originally created to track national census data",
               "They were created only to identify the population of an entire country",
               "To organize and streamline mail delivery to a specific geographic area"
             ],
@@ -46259,7 +46277,7 @@ const curriculum: DayContent[] = [
               "Postal codes are used only for mail delivery, with no other application",
               "They are used exclusively to determine a countrys national borders",
               "As a geographic identifier in spatial data analysis to map demographic trends and plan services",
-              "Postal code systems have no connection to spatial data analysis of any kind"
+              "Postal code systems today are used exclusively for calculating shipping tax rates"
             ],
             "answer": 2
           },
@@ -46344,7 +46362,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It can place emphasis on the condition or circumstance described in the subordinate clause before introducing the main idea",
               "A subordinate clause can never be placed at the beginning of a sentence",
-              "Subordinate clauses have no connection to how a sentence is structured",
+              "Subordinate clauses can only appear in questions, never in statements",
               "Beginning with a subordinate clause always removes all emphasis from a sentence"
             ],
             "answer": 0
@@ -46354,7 +46372,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A paragraph can never feel monotonous regardless of its sentence structure",
               "Starting every sentence with its subject always creates the most engaging rhythm possible",
-              "Sentence structure has no connection to how engaging a paragraph feels",
+              "Sentence structure is only evaluated in poetry, never in prose paragraphs",
               "Repeating the same sentence structure can create a flat, repetitive rhythm that fails to hold a readers interest"
             ],
             "answer": 3
@@ -46493,7 +46511,7 @@ const curriculum: DayContent[] = [
             "q": "Why do cities often grow vertically by constructing skyscrapers?",
             "options": [
               "Cities always prefer horizontal expansion over vertical growth regardless of land availability",
-              "Vertical growth has no connection to the scarcity or cost of urban land",
+              "Vertical growth occurs mainly in cities where land remains cheap and widely available",
               "Skyscrapers are built only in cities with abundant, inexpensive available land",
               "Because available land in dense urban centres becomes scarce and expensive, so building upward allows more space within a limited footprint"
             ],
@@ -46512,9 +46530,9 @@ const curriculum: DayContent[] = [
           {
             "q": "How can vertical city growth affect the density of a citys population within a given area?",
             "options": [
-              "Skyscraper construction has no effect on a citys population density",
+              "Skyscraper construction typically reduces the number of residents a city can support",
               "Vertical growth always decreases the number of people who can live within a given area",
-              "Population density is entirely unrelated to how a citys buildings are structured",
+              "Population density depends mainly on a city's climate rather than its building height",
               "It can significantly increase population density by allowing more people to live or work within the same amount of land"
             ],
             "answer": 3
@@ -46532,7 +46550,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do geographers study vertical city growth alongside horizontal urban sprawl as part of urban geography?",
             "options": [
-              "Vertical growth and horizontal sprawl have no connection to each other in urban geography",
+              "Vertical growth and horizontal sprawl always occur together in exactly equal proportions",
               "This topic is considered purely a matter of architecture, not geography",
               "Comparing the two patterns helps explain different strategies cities use to accommodate growth within their available land and resources",
               "Every city grows using exactly the same strategy regardless of land availability"
@@ -46561,7 +46579,7 @@ const curriculum: DayContent[] = [
               "A command given without any explanation",
               "A question that can never be answered with certainty",
               "A condition and its result, using an if-clause paired with a main clause",
-              "A statement with no connection to cause and result"
+              "A statement expressing a fact that is always true no matter the circumstances"
             ],
             "answer": 2
           },
@@ -46739,7 +46757,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Cemeteries never occupy any meaningful amount of land within a city",
               "Growing cities never experience any pressure related to limited land availability",
-              "Urban cemeteries have no connection to the study of land use planning",
+              "Urban cemeteries are typically exempt from all municipal land use regulations",
               "They occupy significant land that could otherwise be used for housing, infrastructure, or other development, creating pressure between preservation and growth"
             ],
             "answer": 3
@@ -46750,7 +46768,7 @@ const curriculum: DayContent[] = [
               "Lighthouses have never been connected to maritime safety in any way",
               "They were built only as decorative structures with no navigational purpose",
               "To guide ships safely and prevent shipwrecks at strategically hazardous locations",
-              "Lighthouses were built at completely random locations with no connection to coastal hazards"
+              "Lighthouses were historically built mainly along inland rivers, away from coastlines"
             ],
             "answer": 2
           },
@@ -46769,7 +46787,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Postal codes were originally created to track international trade agreements",
               "They were created only to identify the population of an entire country",
-              "Postal codes have no connection to organizing mail delivery of any kind",
+              "Postal codes were originally created to track national census data",
               "To organize and streamline mail delivery to a specific geographic area"
             ],
             "answer": 3
@@ -46777,7 +46795,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do cities often grow vertically by constructing skyscrapers?",
             "options": [
-              "Vertical growth has no connection to the scarcity or cost of urban land",
+              "Vertical growth occurs mainly in cities where land remains cheap and widely available",
               "Because available land in dense urban centres becomes scarce and expensive, so building upward allows more space within a limited footprint",
               "Skyscrapers are built only in cities with abundant, inexpensive available land",
               "Cities always prefer horizontal expansion over vertical growth regardless of land availability"
@@ -46814,8 +46832,8 @@ const curriculum: DayContent[] = [
           {
             "q": "A literary response essay presents ___.",
             "options": [
-              "An interpretation with no connection to the actual text",
-              "A completely unrelated topic",
+              "A word-for-word transcription of the original text",
+              "A biographical account of the author's personal life",
               "Only a summary of the plot with no interpretation",
               "A reader’s interpretation of a text, supported by evidence"
             ],
@@ -46952,7 +46970,7 @@ const curriculum: DayContent[] = [
             "q": "Geopolitics examines how ___ influence political relationships between countries.",
             "options": [
               "Only music and art",
-              "A topic unrelated to political relationships",
+              "A topic concerned mainly with how popular music trends shape voting behaviour",
               "Weather patterns exclusively, with no other factors",
               "Geography, borders, and territory"
             ],
@@ -47067,7 +47085,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An optimization problem involves finding ___.",
             "options": [
-              "A measurement unrelated to area or perimeter",
+              "The exact midpoint between two given values",
               "Only the average of several unrelated values",
               "The maximum or minimum value of a measurement",
               "A completely random measurement with no goal"
@@ -47106,7 +47124,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Biomes are shaped primarily by ___.",
             "options": [
-              "A factor unrelated to environmental conditions",
+              "Soil pH acting alone, regardless of temperature or precipitation patterns",
               "Only the colour of the local soil",
               "Climate patterns",
               "Random chance with no identifiable pattern"
@@ -47166,7 +47184,7 @@ const curriculum: DayContent[] = [
             "q": "The energy transition refers to ___.",
             "options": [
               "A complete elimination of all energy use",
-              "A concept unrelated to energy production",
+              "A shift away from renewable energy sources and back toward coal dependence",
               "A shift from fossil fuel dependence toward renewable energy sources",
               "A shift toward greater fossil fuel dependence"
             ],
@@ -47214,7 +47232,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Is never used in creative writing",
               "Is developed and sustained throughout a piece of writing",
-              "Has no connection to the rest of the writing",
+              "Uses the words like or as to make its comparison explicit",
               "Appears only once in a single sentence"
             ],
             "answer": 1
@@ -47223,7 +47241,7 @@ const curriculum: DayContent[] = [
             "q": "Analyzing an author’s craft involves examining ___.",
             "options": [
               "Deliberate choices in structure, language, and literary devices",
-              "A factor unrelated to how the text was written",
+              "The author's personal income from book sales",
               "The book’s cover design only",
               "Only a single isolated sentence from the text"
             ],
@@ -47263,7 +47281,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only addition, with no trigonometry involved",
               "The area formula for a triangle",
-              "A method unrelated to trigonometric ratios",
+              "The Pythagorean theorem alone, without using any angle",
               "Sine or cosine"
             ],
             "answer": 3
@@ -47311,7 +47329,7 @@ const curriculum: DayContent[] = [
             "q": "Bioaccumulation refers to ___.",
             "options": [
               "The buildup of a substance within an individual organism over time",
-              "A process unrelated to living organisms",
+              "A chemical that evaporates from an organism's body at a constant, steady rate",
               "A substance disappearing completely from an organism",
               "The rapid removal of a substance from an ecosystem"
             ],
@@ -47320,7 +47338,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The main function of the digestive system is to ___.",
             "options": [
-              "A function unrelated to the digestive system",
+              "Produce hormones that regulate the body's growth rate",
               "Pump blood throughout the body",
               "Filter air before it reaches the lungs",
               "Break down food into nutrients the body can absorb and use"
@@ -47359,9 +47377,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A global supply chain involves the geographic network of ___.",
             "options": [
-              "A single unrelated activity with no connection to goods",
+              "The internal production workflow of a single factory within one country",
               "Production, transportation, and distribution of goods",
-              "A concept unrelated to geography or economics",
+              "A term used mainly in meteorology to describe wind patterns",
               "Only local production with no international connections"
             ],
             "answer": 1
@@ -47371,7 +47389,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A foundational agreement about land and rights",
               "A type of map projection",
-              "A modern trade agreement unrelated to land",
+              "A seasonal hunting and fishing permit issued by a provincial government",
               "An informal conversation with no legal weight"
             ],
             "answer": 0
@@ -47429,7 +47447,7 @@ const curriculum: DayContent[] = [
               "Precise and unambiguous",
               "Vague and overly general",
               "Entirely informal with no clarity required",
-              "Unrelated to the specific topic"
+              "Rich with figurative language and metaphor"
             ],
             "answer": 0
           },
@@ -47465,7 +47483,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In the substitution method, what do you do first with one of the equations?",
             "options": [
-              "A concept unrelated to systems of equations",
+              "Add the same constant to both sides to eliminate a variable",
               "Solve it for a single variable",
               "Multiply both equations together",
               "Graph both equations immediately"
@@ -47476,7 +47494,7 @@ const curriculum: DayContent[] = [
             "q": "Investing generally involves ___.",
             "options": [
               "Spending money with no consideration of future growth",
-              "A concept unrelated to personal finance",
+              "Guaranteeing a fixed return with no possibility of loss",
               "Putting money into assets with the goal of growing wealth over time",
               "Only saving money with no potential for growth"
             ],
@@ -47514,8 +47532,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Biotechnology uses ___.",
             "options": [
-              "A concept unrelated to biotechnology",
-              "A process unrelated to living organisms",
+              "Only computer algorithms used to design new machinery",
+              "Chemical reactions between metals and acids in a laboratory setting",
               "Living organisms or their processes to develop useful products",
               "Only non-living materials with no biological component"
             ],
@@ -47526,7 +47544,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Nails",
               "Blood vessels only",
-              "A structure unrelated to the integumentary system",
+              "Cartilage located only in the joints and ears",
               "Bones"
             ],
             "answer": 0
@@ -47565,7 +47583,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The rapid, spread-out expansion of a city into surrounding areas",
               "The complete elimination of all urban development",
-              "A concept unrelated to city growth",
+              "A city rapidly shrinking as residents move away from its outer edges",
               "A city that maintains a compact, unchanging size"
             ],
             "answer": 0
@@ -47574,7 +47592,7 @@ const curriculum: DayContent[] = [
             "q": "A renewable resource, such as a forest, can regenerate over time if it is ___.",
             "options": [
               "Managed sustainably",
-              "Unrelated to management practices",
+              "Regenerated only if left completely untouched by humans for several centuries",
               "Used with no consideration of regeneration",
               "Depleted completely with no management"
             ],
@@ -47585,7 +47603,7 @@ const curriculum: DayContent[] = [
             "options": [
               "has eliminated all national claims to Arctic territory",
               "opens new shipping routes and access to previously inaccessible natural resources",
-              "has no effect on international trade or resource access",
+              "It mainly affects local fish migration patterns but has little effect on trade or resource access",
               "caused all Arctic nations to unite under a single government"
             ],
             "answer": 1
@@ -47623,7 +47641,7 @@ const curriculum: DayContent[] = [
               "Long or intricate sentence structures",
               "Sentences containing no punctuation at all",
               "Only very short, simple sentences",
-              "A concept unrelated to sentence structure"
+              "The use of advanced vocabulary words regardless of sentence length"
             ],
             "answer": 0
           },
@@ -47672,7 +47690,7 @@ const curriculum: DayContent[] = [
               "Always an empty collection with no elements",
               "A single isolated number",
               "A collection of distinct objects",
-              "A concept unrelated to mathematics"
+              "A sequence of numbers that must be in increasing order"
             ],
             "answer": 2
           },
@@ -47680,7 +47698,7 @@ const curriculum: DayContent[] = [
             "q": "Precision in measurement refers to ___.",
             "options": [
               "How consistent repeated measurements are with each other",
-              "A measurement with no connection to consistency",
+              "How large the measuring instrument is",
               "How close a measurement is to the true value",
               "The exact colour of a measured object"
             ],
@@ -47721,7 +47739,7 @@ const curriculum: DayContent[] = [
               "Differences in genes among individuals of a species",
               "A single, identical gene shared by every individual",
               "A process where genes never change at all",
-              "A concept unrelated to biology"
+              "The total number of species living in a single ecosystem"
             ],
             "answer": 0
           },
@@ -47730,7 +47748,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The movement of particles from high to low concentration",
               "The movement of particles from low to high concentration only",
-              "A concept unrelated to biology",
+              "The transfer of energy from the sun to a green plant during photosynthesis",
               "A process where particles never move at all"
             ],
             "answer": 0
@@ -47767,9 +47785,9 @@ const curriculum: DayContent[] = [
           {
             "q": "The digital divide refers to ___.",
             "options": [
-              "A divide unrelated to geography or economics",
+              "Differences in television broadcast standards used between countries",
               "Equal access to technology everywhere in the world",
-              "A concept unrelated to technology access",
+              "The gap in road and highway infrastructure between rural and urban areas",
               "Unequal access to technology and the internet across regions and populations"
             ],
             "answer": 3
@@ -47779,7 +47797,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No shared matters of any kind",
               "Only unrelated cultural traditions",
-              "A concept unrelated to international relationships",
+              "Countries competing for greater military influence over a shared region",
               "Economic and political matters"
             ],
             "answer": 3
@@ -47837,7 +47855,7 @@ const curriculum: DayContent[] = [
               "Vocabulary level",
               "Verb tense only",
               "Attitude toward the action, such as a fact, command, or wish",
-              "A concept unrelated to grammar"
+              "The specific time period in which the action takes place"
             ],
             "answer": 2
           },
@@ -47876,14 +47894,14 @@ const curriculum: DayContent[] = [
               "Extra bonus money added to a paycheque",
               "Amounts subtracted from an employee’s gross pay",
               "A type of savings account",
-              "A concept unrelated to financial literacy"
+              "Amounts added to an employee's net pay at year end"
             ],
             "answer": 1
           },
           {
             "q": "What can the Pythagorean theorem help find when extended into three dimensions?",
             "options": [
-              "A concept unrelated to geometry",
+              "The surface area of a rectangular prism",
               "The weight of a rectangular prism",
               "The colour of a rectangular prism",
               "The diagonal length of a rectangular prism"
@@ -47934,7 +47952,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Water vapour turns directly into ice",
               "Liquid water absorbs energy and changes into water vapour",
-              "A process unrelated to the water cycle",
+              "Liquid water sinking deep underground to form groundwater",
               "Water flows over the land's surface"
             ],
             "answer": 1
@@ -47971,7 +47989,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A renewable resource is best described as one that ___.",
             "options": [
-              "A concept unrelated to natural resources",
+              "A resource that is permanently destroyed the first time it is used",
               "Can be replenished naturally over a relatively short period",
               "Can never be used without immediately running out",
               "Exists in a completely fixed and unchangeable supply"
@@ -47984,7 +48002,7 @@ const curriculum: DayContent[] = [
               "Birth and death rates",
               "Only the total land area of a country",
               "The exact temperature of a country’s climate",
-              "A factor unrelated to population"
+              "Changes in a country's average rainfall and temperature patterns"
             ],
             "answer": 0
           },
@@ -48041,7 +48059,7 @@ const curriculum: DayContent[] = [
               "A completely unedited, original video with no alterations",
               "A term for any video shared on social media",
               "Synthetic media created using artificial intelligence to alter or fabricate content",
-              "A concept unrelated to digital media"
+              "A video that has been slowed down or sped up for comedic effect"
             ],
             "answer": 2
           },
@@ -48078,7 +48096,7 @@ const curriculum: DayContent[] = [
             "q": "What does conditional probability measure?",
             "options": [
               "The probability of an event that can never happen",
-              "A concept unrelated to probability",
+              "The probability of two independent events occurring together",
               "The probability of two events that are always identical",
               "The probability of an event given that another event has already occurred"
             ],
@@ -48088,7 +48106,7 @@ const curriculum: DayContent[] = [
             "q": "What is depreciation?",
             "options": [
               "The gradual decrease in the value of an asset over time",
-              "A concept unrelated to financial literacy",
+              "A tax applied only to vehicles and real estate",
               "A fixed value that never changes for any asset",
               "The gradual increase in the value of an asset over time"
             ],
@@ -48126,8 +48144,8 @@ const curriculum: DayContent[] = [
           {
             "q": "What does a vaccine typically introduce into the body?",
             "options": [
-              "A random substance with no connection to disease",
-              "A concept unrelated to science",
+              "A full dose of antibiotics to kill existing bacteria",
+              "A concentrated form of vitamins to boost the immune system",
               "A weakened, inactivated, or partial form of a pathogen",
               "A fully active, dangerous version of a disease with no changes"
             ],
@@ -48139,7 +48157,7 @@ const curriculum: DayContent[] = [
               "Organic matter decomposing and returning nutrients to the soil",
               "Only water moving through soil, with no nutrient involvement",
               "Nutrients disappearing permanently once used by a plant",
-              "A concept unrelated to soil health"
+              "The conversion of soil minerals directly into oxygen gas"
             ],
             "answer": 0
           },
@@ -48177,7 +48195,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The complete elimination of all trade between countries",
               "Economic exchange between countries",
-              "A concept unrelated to international relationships",
+              "Rules governing military alliances and defense cooperation between countries",
               "Only cultural exchange, with no economic component"
             ],
             "answer": 1
@@ -48185,7 +48203,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Indigenous self-government refers to the authority of Indigenous communities to ___.",
             "options": [
-              "A concept unrelated to governance",
+              "Oversight of Indigenous community affairs provided entirely by provincial courts",
               "Be governed entirely by decisions made outside their communities",
               "Govern their own affairs, including matters related to their land",
               "Have no role in decisions affecting their own communities"
@@ -48232,7 +48250,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A story’s setting refers to ___.",
             "options": [
-              "A concept unrelated to literary analysis",
+              "The moral lesson the author wants readers to learn",
               "Only the names of the characters involved",
               "The time and place in which a story occurs",
               "The order in which events are told"
@@ -48242,7 +48260,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The “show, don’t tell” technique conveys emotion and meaning through ___.",
             "options": [
-              "A concept unrelated to narrative writing",
+              "Lengthy explanations of a character's backstory and motivations",
               "Avoiding any description of actions or senses",
               "Concrete action and sensory imagery rather than direct statement",
               "Simply stating a character’s feelings outright with no detail"
@@ -48282,18 +48300,18 @@ const curriculum: DayContent[] = [
             "q": "Simplifying a radical involves factoring out ___ from beneath the square root sign.",
             "options": [
               "The entire number, leaving nothing beneath the radical",
-              "Only prime numbers, with no connection to perfect squares",
+              "Only even numbers, regardless of whether they are perfect squares",
               "Perfect square factors",
-              "A concept unrelated to radicals"
+              "The greatest common factor of the index and the radicand"
             ],
             "answer": 2
           },
           {
             "q": "What does it mean for a circle to be inscribed in a polygon?",
             "options": [
-              "The circle has no connection to the polygon at all",
+              "The circle passes through the polygon's centre point only",
               "The circle passes through every vertex of the polygon",
-              "A concept unrelated to geometry",
+              "The circle's radius always equals the polygon's side length",
               "The circle fits inside the polygon and touches each side exactly once"
             ],
             "answer": 3
@@ -48332,7 +48350,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A change in the colour of an object as it moves",
               "A sound that never changes no matter how it moves",
-              "A concept unrelated to science",
+              "A change in the brightness of a light source as it moves closer",
               "A change in pitch caused by relative motion between a sound source and a listener"
             ],
             "answer": 3
@@ -48340,7 +48358,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A pathogen is best described as ___.",
             "options": [
-              "A concept unrelated to biology",
+              "A protein produced by the immune system to fight infection",
               "A cell that always protects the body from disease",
               "A microorganism, such as a bacterium or virus, that can cause disease",
               "A nutrient the body requires to survive"
@@ -48382,7 +48400,7 @@ const curriculum: DayContent[] = [
               "A method of representing the curved surface of the Earth on a flat map",
               "A perfectly accurate photograph of the Earth",
               "A map that shows no distortion of any kind",
-              "A concept unrelated to geography"
+              "A method for calculating a country's annual population growth rate"
             ],
             "answer": 0
           },
@@ -48391,8 +48409,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Ocean currents",
               "Longitude",
-              "A concept unrelated to geography",
-              "Latitude exclusively, with no connection to longitude"
+              "Divisions based on ocean current temperature",
+              "Latitude, rather than longitude, since lines of latitude run from east to west"
             ],
             "answer": 1
           },
@@ -48438,15 +48456,15 @@ const curriculum: DayContent[] = [
             "options": [
               "Attitudes and purchasing decisions",
               "Personal identity in ways that are never intentional",
-              "A concept unrelated to media literacy",
-              "Ability to read, with no connection to persuasion"
+              "Grammar skills, helping them write more effective product reviews",
+              "Physical fitness level through exercise routines shown in commercials"
             ],
             "answer": 0
           },
           {
             "q": "A business letter or professional email should generally use a ___ tone.",
             "options": [
-              "A concept unrelated to professional writing",
+              "Highly technical jargon understood only by industry experts",
               "Casual and full of slang",
               "Clear, formal, and polite",
               "Overly emotional and unstructured"
@@ -48487,7 +48505,7 @@ const curriculum: DayContent[] = [
             "options": [
               "How much one country’s currency is worth in terms of another",
               "The total population of a country",
-              "A concept unrelated to finance",
+              "The total amount of currency printed by a country",
               "A fixed value that never changes over time"
             ],
             "answer": 0
@@ -48497,7 +48515,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Draw the boundary line for the related linear equation",
               "Immediately shade the entire coordinate plane",
-              "A concept unrelated to algebra",
+              "Determine whether the inequality has a solution at all",
               "Erase the x-axis and y-axis completely"
             ],
             "answer": 0
@@ -48537,7 +48555,7 @@ const curriculum: DayContent[] = [
               "A process that only occurs inside rocks",
               "A process that always requires large amounts of oxygen",
               "A process in which microorganisms break down sugars without using oxygen",
-              "A concept unrelated to science"
+              "A chemical reaction that occurs only inside the human stomach"
             ],
             "answer": 2
           },
@@ -48545,7 +48563,7 @@ const curriculum: DayContent[] = [
             "q": "Ocean currents are large-scale movements of seawater driven by factors such as ___.",
             "options": [
               "Random, unpredictable movement with no identifiable cause",
-              "A factor entirely unrelated to ocean water movement",
+              "Only the shape of the ocean floor, with wind and temperature playing no role",
               "Only the position of the moon, with no other influence",
               "Wind, temperature, and salinity differences"
             ],
@@ -48557,7 +48575,7 @@ const curriculum: DayContent[] = [
               "A single harmful bacterium found in the stomach",
               "The community of trillions of microorganisms living in the digestive tract that aid digestion and immunity",
               "A synthetic supplement taken to replace digestion",
-              "A concept unrelated to human biology"
+              "A layer of mucus that lines the stomach to protect it from acid"
             ],
             "answer": 1
           },
@@ -48584,7 +48602,7 @@ const curriculum: DayContent[] = [
             "q": "A cultural landscape reflects ___.",
             "options": [
               "Only natural features with no human influence",
-              "A concept unrelated to geography",
+              "Only protected wilderness areas that have no history of human settlement",
               "A landscape entirely untouched by human activity",
               "The interaction between people and their environment over time"
             ],
@@ -48596,7 +48614,7 @@ const curriculum: DayContent[] = [
               "Any form of transportation",
               "Affordable, healthy food",
               "Unlimited amounts of fresh food from every nearby store",
-              "A concept unrelated to urban geography"
+              "An area lacking paved roads or reliable highway access"
             ],
             "answer": 1
           },
@@ -48652,7 +48670,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A statement that seems contradictory but reveals a deeper truth",
               "A sentence with no rhetorical purpose whatsoever",
-              "A concept unrelated to literary analysis",
+              "A comparison between two unlike things using like or as",
               "A statement that is always literally false"
             ],
             "answer": 0
@@ -48701,7 +48719,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Its distance from zero on a number line",
               "The number multiplied by negative one",
-              "A concept unrelated to algebra",
+              "The square of the number",
               "The number divided by two"
             ],
             "answer": 0
@@ -48741,14 +48759,14 @@ const curriculum: DayContent[] = [
               "A body plan with no repeating pattern of any kind",
               "A body plan found only in plants",
               "A body plan with parts arranged evenly around a central point",
-              "A concept unrelated to biology"
+              "A pattern where body parts are arranged in a single line from front to back"
             ],
             "answer": 2
           },
           {
             "q": "The digestive system breaks down food into ___.",
             "options": [
-              "A concept unrelated to biology",
+              "Carbon dioxide that is released back into the atmosphere",
               "Oxygen that can be used by the lungs",
               "Waste products only, with no nutrients produced",
               "Nutrients that can be absorbed into the bloodstream"
@@ -48799,7 +48817,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Instantly transforms rock into soil with no gradual process",
               "Transports weathered material from one location to another",
-              "A concept unrelated to physical geography",
+              "The process of transporting sediment downstream toward the ocean",
               "Breaks down rock into smaller pieces through physical or chemical processes"
             ],
             "answer": 3
@@ -48845,8 +48863,8 @@ const curriculum: DayContent[] = [
             "q": "An analogy compares two pairs of words that share ___.",
             "options": [
               "A similar relationship",
-              "No connection to each other whatsoever",
-              "A concept unrelated to vocabulary",
+              "A relationship that is always based on cause and effect",
+              "The same number of syllables in each word",
               "The exact same spelling"
             ],
             "answer": 0
@@ -48856,7 +48874,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Two opposing viewpoints with no connection between them",
               "How one event or condition leads to a resulting outcome",
-              "A concept unrelated to nonfiction text structures",
+              "A comparison of similarities and differences between two subjects",
               "A list of steps that must occur in a fixed order"
             ],
             "answer": 1
@@ -48893,9 +48911,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A budget is best described as a tool that tracks ___.",
             "options": [
-              "Only expenses, with no connection to income",
+              "Only savings goals, with no record of daily spending",
               "A person’s age and physical location",
-              "A concept unrelated to financial literacy",
+              "A fixed amount that never changes from month to month",
               "Income and expenses over a period of time"
             ],
             "answer": 3
@@ -48905,7 +48923,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Every point along the circles edge",
               "Exactly two points",
-              "A concept unrelated to geometry",
+              "Zero points, since a tangent line never touches the circle",
               "Exactly one point"
             ],
             "answer": 3
@@ -48944,7 +48962,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Direct contact between particles or objects",
               "Electromagnetic waves travelling through empty space",
-              "A concept unrelated to thermal energy",
+              "Heat carried by light rays travelling through a vacuum",
               "The movement of a heated fluid, such as air or water"
             ],
             "answer": 0
@@ -48954,8 +48972,8 @@ const curriculum: DayContent[] = [
             "options": [
               "The Moon’s gravitational pull",
               "The rotation of the Earth on its axis alone",
-              "A concept unrelated to astronomy",
-              "Wind patterns exclusively, with no connection to gravity"
+              "Changes in air pressure caused by shifting wind currents",
+              "Temperature differences between the ocean's surface and deep water"
             ],
             "answer": 0
           },
@@ -48993,7 +49011,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A chain of saltwater lakes found only in Canada",
               "The largest group of freshwater lakes in the world",
-              "A concept unrelated to physical geography",
+              "A chain of reservoirs created artificially through dam construction",
               "A single small lake located entirely within Ontario"
             ],
             "answer": 1
@@ -49004,7 +49022,7 @@ const curriculum: DayContent[] = [
               "Population density in a given region",
               "Weather and climate patterns",
               "Place names and their origins",
-              "A concept unrelated to geography"
+              "The study of historical migration routes between regions"
             ],
             "answer": 2
           },
@@ -49048,7 +49066,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Parallel structure requires that items in a list or comparison ___.",
             "options": [
-              "A concept unrelated to grammar",
+              "Be arranged in alphabetical order within the sentence",
               "Always contain exactly one word each",
               "Use as many different grammatical forms as possible",
               "Share the same grammatical form"
@@ -49061,7 +49079,7 @@ const curriculum: DayContent[] = [
               "Summarize every detail that will appear later in the essay",
               "Avoid stating any purpose until the very end of the essay",
               "Engage the reader and establish a clear purpose or thesis",
-              "A concept unrelated to essay writing"
+              "Include a complete bibliography of every source used"
             ],
             "answer": 2
           },
@@ -49099,7 +49117,7 @@ const curriculum: DayContent[] = [
             "options": [
               "x squared plus bx plus c equals zero",
               "x plus b equals zero",
-              "A concept unrelated to algebra",
+              "x squared plus bx minus c equals one",
               "x squared equals negative one always"
             ],
             "answer": 0
@@ -49146,8 +49164,8 @@ const curriculum: DayContent[] = [
           {
             "q": "The ozone layer is primarily important because it absorbs ___.",
             "options": [
-              "Visible light exclusively, with no connection to radiation",
-              "A concept unrelated to Earth’s atmosphere",
+              "Infrared radiation exclusively, with no effect on ultraviolet light",
+              "Nitrogen gas released from factories and vehicle exhaust",
               "Most of the Sun’s harmful ultraviolet radiation",
               "Carbon dioxide released from human activity"
             ],
@@ -49159,7 +49177,7 @@ const curriculum: DayContent[] = [
               "Skipping directly to testing with no planning",
               "Clearly defining the problem to be solved",
               "Immediately building a final, finished product",
-              "A concept unrelated to engineering or technology"
+              "Selecting the cheapest available materials before any testing occurs"
             ],
             "answer": 1
           },
@@ -49207,7 +49225,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A process that occurs only within large urban centres",
               "A significant increase in population within rural areas",
-              "A concept unrelated to geography",
+              "The construction of new infrastructure projects in rural communities",
               "People moving away from rural areas, often toward cities"
             ],
             "answer": 3
@@ -49264,7 +49282,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A neologism",
               "A homophone",
-              "A concept unrelated to vocabulary",
+              "An antonym",
               "A synonym"
             ],
             "answer": 0
@@ -49314,7 +49332,7 @@ const curriculum: DayContent[] = [
               "No, direct variation never involves a constant multiple",
               "Yes",
               "The relationship is always completely random",
-              "A concept unrelated to variation"
+              "Only when the constant is negative"
             ],
             "answer": 1
           },
@@ -49350,7 +49368,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What builds a coral reef?",
             "options": [
-              "A concept unrelated to marine biology",
+              "Minerals dissolved in seawater that crystallize on the ocean floor",
               "Large boulders that fall from cliffs",
               "Colonies of tiny coral organisms",
               "Sand deposited by ocean currents"
@@ -49401,7 +49419,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They are all becoming more widely spoken",
               "They are being replaced instantly with no loss of any kind",
-              "A concept unrelated to geography",
+              "Endangered languages are typically revived through increased international trade",
               "They are at risk of disappearing"
             ],
             "answer": 3
@@ -49411,7 +49429,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only a single country’s local farmers markets",
               "The production, transportation, and sale of goods",
-              "A concept unrelated to geography",
+              "Shipping routes used exclusively for transporting military cargo",
               "Nothing at all connected to goods or trade"
             ],
             "answer": 1
@@ -49457,7 +49475,7 @@ const curriculum: DayContent[] = [
             "q": "What kind of writing expresses an individual’s core beliefs and values?",
             "options": [
               "A personal manifesto",
-              "A concept unrelated to writing",
+              "A legal contract",
               "A grocery list",
               "A weather report"
             ],
@@ -49466,7 +49484,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does AI-generated content include, besides text?",
             "options": [
-              "A concept unrelated to media literacy",
+              "Only audio recordings made before computers existed",
               "Only printed newspapers",
               "Only handwritten letters",
               "Images and video"
@@ -49505,7 +49523,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is one factor to examine when comparing loan options?",
             "options": [
-              "A concept unrelated to financial literacy",
+              "The total number of payments only, regardless of their size",
               "Interest rates",
               "The lender’s office location only",
               "The colour of the lender’s logo"
@@ -49515,7 +49533,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does a weighted average account for that a simple average does not?",
             "options": [
-              "A concept unrelated to averages",
+              "The total number of values in the data set",
               "The relative importance of each value",
               "Only the largest value in a set",
               "Only the smallest value in a set"
@@ -49555,7 +49573,7 @@ const curriculum: DayContent[] = [
             "q": "What are bioplastics made from?",
             "options": [
               "Only petroleum, just like traditional plastic",
-              "A concept unrelated to materials science",
+              "A blend of recycled glass and crushed limestone",
               "Only metal and glass",
               "Renewable sources, such as corn starch or sugarcane"
             ],
@@ -49606,7 +49624,7 @@ const curriculum: DayContent[] = [
               "A small rural village",
               "A city with a population over 10 million people",
               "A city with no residents at all",
-              "A concept unrelated to geography"
+              "A city with a population of fewer than ten thousand residents"
             ],
             "answer": 1
           },
@@ -49614,7 +49632,7 @@ const curriculum: DayContent[] = [
             "q": "What do climate adaptation strategies help communities do?",
             "options": [
               "Ignore climate change completely",
-              "A concept unrelated to geography",
+              "Reversing industrialization completely across an entire region",
               "Adjust to the effects of a changing climate",
               "Reverse climate change entirely on their own"
             ],
@@ -49662,7 +49680,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A biography",
               "A recipe",
-              "A concept unrelated to reading",
+              "A memoir written entirely in the third person",
               "An epistolary narrative"
             ],
             "answer": 3
@@ -49671,7 +49689,7 @@ const curriculum: DayContent[] = [
             "q": "What is an allegory?",
             "options": [
               "A factual news report",
-              "A concept unrelated to reading",
+              "A persuasive essay with no narrative elements",
               "A narrative whose characters and events symbolically represent deeper meanings",
               "A type of poem with no symbolic meaning"
             ],
@@ -49712,7 +49730,7 @@ const curriculum: DayContent[] = [
               "Add both equations together without isolating anything",
               "Graph both equations immediately",
               "Isolate one variable in one equation",
-              "A concept unrelated to systems of equations"
+              "Multiply both equations by the same constant"
             ],
             "answer": 2
           },
@@ -49720,7 +49738,7 @@ const curriculum: DayContent[] = [
             "q": "What does any nonzero number raised to the exponent zero equal?",
             "options": [
               "0",
-              "A concept unrelated to exponents",
+              "The same value as the exponent itself",
               "The base itself",
               "1"
             ],
@@ -49769,7 +49787,7 @@ const curriculum: DayContent[] = [
             "q": "What happens to a substance’s chemical composition during a physical change?",
             "options": [
               "It is destroyed entirely",
-              "A concept unrelated to physical changes",
+              "Its molecules rearrange into an entirely new substance with different properties",
               "It always changes completely",
               "It stays the same"
             ],
@@ -49810,7 +49828,7 @@ const curriculum: DayContent[] = [
               "Only remote, unpopulated areas",
               "Homes and businesses",
               "Nothing at all",
-              "A concept unrelated to geography"
+              "Renewable energy grids connect power sources only to government buildings"
             ],
             "answer": 1
           },
@@ -49818,7 +49836,7 @@ const curriculum: DayContent[] = [
             "q": "What is a Special Economic Zone?",
             "options": [
               "A region with no economic activity at all",
-              "A concept unrelated to geography",
+              "A region where all forms of foreign investment are legally prohibited",
               "An area where all trade is banned",
               "A designated area offering reduced taxes and looser regulations to attract investment"
             ],
@@ -49867,7 +49885,7 @@ const curriculum: DayContent[] = [
               "A mild or indirect word used in place of a harsher one",
               "A type of punctuation mark",
               "A word that always makes something sound more shocking",
-              "A concept unrelated to vocabulary"
+              "A word borrowed directly from another language with no translation"
             ],
             "answer": 0
           },
@@ -49875,7 +49893,7 @@ const curriculum: DayContent[] = [
             "q": "What is an allusion?",
             "options": [
               "A detailed, direct explanation of a topic",
-              "A concept unrelated to reading",
+              "A lengthy footnote citing the original source material",
               "A brief, indirect reference to a person, event, or work from history or another text",
               "A type of punctuation mark"
             ],
@@ -49916,7 +49934,7 @@ const curriculum: DayContent[] = [
               "A fee charged only when purchasing groceries",
               "A percentage of a person’s earnings paid to the government",
               "A one-time payment made only once in a lifetime",
-              "A concept unrelated to financial literacy"
+              "A fixed dollar amount charged to every citizen equally"
             ],
             "answer": 1
           },
@@ -49925,7 +49943,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A vertical line downward to an object",
               "A horizontal line upward to an object",
-              "A concept unrelated to trigonometry",
+              "The hypotenuse of the triangle formed",
               "The ground directly below an object"
             ],
             "answer": 1
@@ -49964,7 +49982,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A series circuit has no path for current at all",
               "No, series circuits always have multiple separate paths",
-              "A concept unrelated to circuits",
+              "A circuit where current splits evenly across several branches before reaching the components",
               "Yes"
             ],
             "answer": 3
@@ -49972,7 +49990,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does biodiversity refer to?",
             "options": [
-              "A concept unrelated to biology",
+              "The total mass of all organisms combined in an ecosystem",
               "The total number of rocks in an ecosystem",
               "The average temperature of an ecosystem",
               "The variety of species within an ecosystem"
@@ -50011,7 +50029,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Name one critical mineral used in manufacturing electric vehicle batteries.",
             "options": [
-              "A concept unrelated to critical minerals",
+              "Limestone, which is mined mainly for use in electric vehicle battery production",
               "Lithium",
               "Oxygen",
               "Table salt"
@@ -50023,7 +50041,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only physical paper documents",
               "The world’s digital information",
-              "A concept unrelated to geography",
+              "Facilities built mainly for printing and distributing newspapers",
               "Only handwritten letters"
             ],
             "answer": 1
@@ -50070,7 +50088,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The font size used in a document",
               "The exact number of words in a sentence",
-              "A concept unrelated to grammar",
+              "The total page count of a finished document",
               "How smoothly ideas connect within and between paragraphs"
             ],
             "answer": 3
@@ -50117,7 +50135,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does interval notation represent?",
             "options": [
-              "A concept unrelated to math",
+              "A single point plotted on a coordinate plane",
               "A single, exact numerical value",
               "The angle measure of a triangle",
               "A range of values on a number line"
@@ -50129,7 +50147,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The y-intercept of only one equation",
               "The solution that satisfies both equations",
-              "A concept unrelated to systems of equations",
+              "The midpoint between the two lines' y-intercepts",
               "A point that satisfies neither equation"
             ],
             "answer": 1
@@ -50176,7 +50194,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What do fossil fuels form from?",
             "options": [
-              "A concept unrelated to earth science",
+              "Minerals that crystallize deep within the Earth's mantle over millions of years",
               "The remains of ancient organisms",
               "Pure water evaporated from the ocean",
               "Freshly grown plants harvested this year"
@@ -50217,7 +50235,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Nothing at all connected to development",
               "Resources, funding, or expertise",
-              "A concept unrelated to geography",
+              "The exchange of cultural artifacts between national museums",
               "Only military equipment"
             ],
             "answer": 1
@@ -50227,7 +50245,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A method for measuring rainfall",
               "The spread of cultural elements, such as food, from one region to another",
-              "A concept unrelated to geography",
+              "The process of mapping underground water reserves across a region",
               "A process that only ever occurs within a single isolated village"
             ],
             "answer": 1
@@ -50273,7 +50291,7 @@ const curriculum: DayContent[] = [
             "q": "What must a formal debate speech present?",
             "options": [
               "A list of unrelated facts with no argument",
-              "A concept unrelated to writing",
+              "A series of rhetorical questions with no direct claim",
               "A summary of the opposing team’s schedule",
               "A clear claim supported by evidence and reasoning"
             ],
@@ -50285,7 +50303,7 @@ const curriculum: DayContent[] = [
               "A sentence with no punctuation errors at all",
               "Two independent clauses joined incorrectly by only a comma",
               "A single independent clause with a period at the end",
-              "A concept unrelated to grammar"
+              "Two independent clauses joined correctly with a semicolon"
             ],
             "answer": 1
           },
@@ -50321,7 +50339,7 @@ const curriculum: DayContent[] = [
           {
             "q": "When multiplying powers with the same base, what operation is performed on the exponents?",
             "options": [
-              "A concept unrelated to exponents",
+              "They are set equal to each other",
               "They are multiplied together",
               "They are subtracted",
               "They are added"
@@ -50333,7 +50351,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Data into intervals with a count of how many values fall in each",
               "A single value repeated many times with no intervals",
-              "A concept unrelated to data management",
+              "A list of formulas used to calculate probability",
               "Only the largest and smallest values in a data set"
             ],
             "answer": 0
@@ -50370,7 +50388,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How is an ionic compound like sodium chloride typically named?",
             "options": [
-              "A concept unrelated to chemistry",
+              "The nonmetal name followed by the metal name with an -ate ending",
               "Metal name followed by the nonmetal name with an -ide ending",
               "Two nonmetal names joined with no ending change",
               "Only the chemical formula, with no written name"
@@ -50421,7 +50439,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Burning coal to heat water into steam",
               "Flowing or falling water turning turbines",
-              "A concept unrelated to geography",
+              "Capturing geothermal heat rising from underground magma",
               "Wind passing over large blades"
             ],
             "answer": 1
@@ -50431,7 +50449,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The number of dependents to the working-age population",
               "The total land area to the total population",
-              "A concept unrelated to population geography",
+              "The total area of farmland compared to forested land in a country",
               "The number of cities to the number of provinces"
             ],
             "answer": 0
@@ -50486,7 +50504,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How is possession typically shown for a singular noun?",
             "options": [
-              "A concept unrelated to grammar",
+              "Add an apostrophe after the s",
               "Add only an s with no apostrophe",
               "Add an apostrophe and s",
               "Add an apostrophe at the very start of the word"
@@ -50525,7 +50543,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How many solutions does a linear system have if the two lines intersect at a single point?",
             "options": [
-              "A concept unrelated to systems of equations",
+              "The number of solutions equals the sum of the two slopes",
               "No solution",
               "One solution",
               "Infinitely many solutions"
@@ -50574,7 +50592,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Does a convex lens curve outward?",
             "options": [
-              "A concept unrelated to lenses",
+              "A lens that bends light only at its outer edges, leaving the center unaffected",
               "No, a convex lens always curves inward",
               "Convex lenses have no defined curvature",
               "Yes"
@@ -50587,7 +50605,7 @@ const curriculum: DayContent[] = [
               "A single raindrop falling from a cloud",
               "A large body of air with fairly uniform temperature and humidity",
               "A small pocket of gas found underground",
-              "A concept unrelated to earth science"
+              "A thin layer of gas trapped between two layers of clouds"
             ],
             "answer": 1
           },
@@ -50634,7 +50652,7 @@ const curriculum: DayContent[] = [
             "q": "What does a smart city use to improve urban services?",
             "options": [
               "A complete absence of any infrastructure",
-              "A concept unrelated to urban geography",
+              "Increasing the number of paper-based forms processed by local government",
               "Digital technology and data collection",
               "Only traditional paper-based record keeping"
             ],
@@ -50681,7 +50699,7 @@ const curriculum: DayContent[] = [
             "q": "What is personification?",
             "options": [
               "A type of formal persuasive essay",
-              "A concept unrelated to reading",
+              "A rhetorical question with no literal answer",
               "A literary device that gives human qualities to non-human things",
               "A device that removes all emotion from a poem"
             ],
@@ -50729,7 +50747,7 @@ const curriculum: DayContent[] = [
           {
             "q": "When factoring x^2 + bx + c, what must the two numbers multiply to?",
             "options": [
-              "A concept unrelated to factoring",
+              "The square root of c",
               "x",
               "b",
               "c"
@@ -50781,7 +50799,7 @@ const curriculum: DayContent[] = [
               "Lava",
               "Sediment",
               "Ash only",
-              "A concept unrelated to volcanoes"
+              "Melted rock that cools and hardens while still underground"
             ],
             "answer": 0
           },
@@ -50827,7 +50845,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does an ecological footprint measure?",
             "options": [
-              "A concept unrelated to geography",
+              "The total number of endangered species living within a region",
               "The land and resources required to support a lifestyle and absorb its waste",
               "The total population of a country",
               "The average temperature of a region"
@@ -51247,7 +51265,7 @@ const curriculum: DayContent[] = [
             "options": [
               "When wildlife habitats grow larger and more connected",
               "The complete disappearance of all habitats worldwide",
-              "A natural process unrelated to human development",
+              "A natural process that occurs mainly through volcanic eruptions",
               "When human development divides natural habitats into smaller, isolated patches"
             ],
             "answer": 3
@@ -51265,7 +51283,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Orbital congestion from space debris is a growing geographic concern because it—",
             "options": [
-              "Has no effect on satellites or spacecraft",
+              "Orbital congestion mainly affects weather forecasting accuracy on Earth's surface",
               "Only affects debris located on Earth's surface",
               "Increases the risk of collisions that can damage or destroy functioning satellites",
               "Is decreasing rapidly as fewer satellites are launched"
@@ -51314,7 +51332,7 @@ const curriculum: DayContent[] = [
             "options": [
               "To restate your resume word for word",
               "To introduce yourself and explain why you are a strong fit for the specific position",
-              "To list personal hobbies unrelated to the job",
+              "To formally decline a job offer in favor of another company",
               "To request a higher salary before an interview"
             ],
             "answer": 1
@@ -51604,7 +51622,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What causes acid rain to form?",
             "options": [
-              "Increased sunlight with no connection to pollution",
+              "Increased sunlight breaking down ozone molecules in the upper atmosphere",
               "Pollutants like sulfur dioxide and nitrogen oxides reacting with water vapour in the atmosphere",
               "Only natural evaporation with no pollutants involved",
               "Sudden temperature drops with no chemical reactions"
@@ -51850,7 +51868,7 @@ const curriculum: DayContent[] = [
               "A single countrys law that governs all of Antarctica",
               "An agreement that has never been signed by any nation",
               "An international agreement governing Antarctica for peaceful, scientific purposes",
-              "A trade agreement unrelated to any scientific activity"
+              "An agreement that mainly regulates commercial fishing quotas in the South Pacific"
             ],
             "answer": 2
           },
@@ -52064,14 +52082,14 @@ const curriculum: DayContent[] = [
               "The process of creating new usable land by draining or filling in areas of water",
               "The process of returning developed land back into open ocean",
               "A method used only to build new mountains",
-              "A term with no connection to coastlines or water"
+              "The process of restoring farmland after a prolonged drought"
             ],
             "answer": 0
           },
           {
             "q": "Why is the thawing of permafrost in Arctic tundra regions a significant environmental concern?",
             "options": [
-              "It has no effect on infrastructure or the atmosphere",
+              "Thawing permafrost mainly improves soil fertility with little effect on buildings or roads",
               "It releases trapped greenhouse gases like methane and can destabilize buildings and roads built on frozen ground",
               "It causes new mountain ranges to form",
               "It only affects ocean salinity levels"
@@ -52238,7 +52256,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A period of hormonal changes that trigger physical and reproductive maturation",
               "A stage that occurs only in early childhood",
-              "A process unrelated to hormone levels",
+              "A decrease in hormone levels that slows physical growth",
               "A single event that happens on one specific day for everyone"
             ],
             "answer": 0
@@ -52288,7 +52306,7 @@ const curriculum: DayContent[] = [
               "The deepest part of the ocean floor",
               "The relatively shallow, gently sloping seabed extending from a continent's coastline before dropping to the deep ocean",
               "A political boundary line agreed upon only by treaty",
-              "An underwater mountain range unrelated to any continent"
+              "An underwater mountain range formed by volcanic activity far from any coastline"
             ],
             "answer": 1
           }
@@ -52460,7 +52478,7 @@ const curriculum: DayContent[] = [
             "q": "What is a sovereign wealth fund?",
             "options": [
               "A state-owned investment fund, often built from revenue such as natural resource exports",
-              "A charity fund with no connection to any government",
+              "A charitable fund supported entirely by private donations, with no government involvement",
               "A fund that only foreign corporations are legally allowed to use",
               "A private savings account belonging to a single individual"
             ],
@@ -52471,7 +52489,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Hydrogen fuel produced using electrolysis powered by renewable electricity",
               "Hydrogen extracted directly from burning coal",
-              "A synthetic gas with no connection to renewable energy",
+              "A naturally occurring gas found in underground coal deposits",
               "Hydrogen that occurs naturally without any production process"
             ],
             "answer": 0
@@ -52516,7 +52534,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is onomatopoeia?",
             "options": [
-              "A word with no connection to any sound whatsoever",
+              "A figure of speech that compares two things using like or as",
               "A punctuation mark used to end a question",
               "A word that imitates or suggests the sound it describes",
               "A grammatical rule about verb tense"
@@ -52780,7 +52798,7 @@ const curriculum: DayContent[] = [
             "q": "What is a mortgage?",
             "options": [
               "A short-term loan used only to buy groceries",
-              "A savings account with no connection to borrowing money",
+              "A short-term rental agreement for a property",
               "A type of insurance that covers vehicle repairs",
               "A long-term loan specifically used to purchase property"
             ],
@@ -52880,7 +52898,7 @@ const curriculum: DayContent[] = [
               "A business model that produces inexpensive clothing quickly in response to rapidly changing trends",
               "A term describing only clothing manufactured within a single country",
               "A method of producing clothing exclusively by hand over many years",
-              "A style of clothing with no connection to global trade"
+              "Clothing produced exclusively using traditional hand-weaving techniques"
             ],
             "answer": 0
           },
@@ -53081,7 +53099,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is language policy?",
             "options": [
-              "A term with no connection to how governments function",
+              "International trade agreements covering the export of textiles and fabrics",
               "A policy that applies only to private businesses, never to governments",
               "A rule that forbids any government from using more than one language",
               "The official decisions a government makes about which languages are used in education, government, and public life"
@@ -53490,7 +53508,7 @@ const curriculum: DayContent[] = [
             "q": "Why does agriculture in desert regions typically depend heavily on irrigation?",
             "options": [
               "Crops grown in desert regions never require any additional water source",
-              "Irrigation has no connection to agricultural production in any climate",
+              "Irrigation is required mainly for crops grown in tropical rainforest climates",
               "Desert regions always receive more than enough natural rainfall for agriculture",
               "Natural rainfall in desert regions is too low to reliably support crop growth without additional water"
             ],
@@ -53569,7 +53587,7 @@ const curriculum: DayContent[] = [
               "To resolve the story's central conflict quickly",
               "To mislead readers or characters by pointing suspicion toward a false clue",
               "To introduce the story's setting in vivid detail",
-              "To provide comic relief unrelated to the plot"
+              "To provide essential factual background needed to solve the mystery"
             ],
             "answer": 1
           }
@@ -53741,7 +53759,7 @@ const curriculum: DayContent[] = [
             "q": "What does a memoir excerpt typically focus on?",
             "options": [
               "A biography written entirely about another persons life",
-              "A completely fictional event with no connection to the writer",
+              "A persuasive essay arguing for a particular political position",
               "A specific memory or period in the writers own life",
               "A set of instructions for completing a specific task"
             ],
@@ -53849,7 +53867,7 @@ const curriculum: DayContent[] = [
             "q": "What is the general goal of water treatment?",
             "options": [
               "To remove contaminants and pathogens from water before it is considered safe for drinking",
-              "Water treatment has no connection to making water safer to drink",
+              "To add beneficial minerals to water while leaving contaminants untouched",
               "To permanently remove all minerals from every water source",
               "To add as many contaminants to water as possible"
             ],
@@ -53910,7 +53928,7 @@ const curriculum: DayContent[] = [
               "Large-scale agricultural burning and forest fires that cross national borders",
               "Haze that originates and stays within a single country's borders only",
               "Volcanic eruptions occurring exclusively underwater",
-              "A natural phenomenon with no connection to human activity"
+              "Regional haze in Southeast Asia is caused mainly by volcanic ash from nearby eruptions"
             ],
             "answer": 0
           },
@@ -54045,7 +54063,7 @@ const curriculum: DayContent[] = [
               "A term that applies only to pollution found in ocean water",
               "Excessive or misdirected artificial light, especially from urban areas at night",
               "A form of pollution caused exclusively by natural sunlight during the day",
-              "Light pollution has no connection to any form of artificial lighting"
+              "Light that is absorbed entirely by clouds before reaching the ground"
             ],
             "answer": 1
           },
@@ -54257,7 +54275,7 @@ const curriculum: DayContent[] = [
             "q": "What is wave action?",
             "options": [
               "A process that occurs only far offshore, never affecting a coastline directly",
-              "Wave action has no connection to the shaping of coastal landforms",
+              "Wave action only shapes the ocean floor far from shore and never reaches the coastline",
               "The continuous physical process by which ocean waves erode, transport, and deposit sediment along a coastline",
               "A term used only to describe waves in a swimming pool"
             ],
@@ -54308,7 +54326,7 @@ const curriculum: DayContent[] = [
               "Amusement parks are always deliberately built as far as possible from any population centre",
               "Transportation access is never considered when siting an amusement park",
               "To maximize visitor access and attract as many potential guests as possible",
-              "Location has no effect on how many visitors an amusement park attracts"
+              "Amusement parks typically attract the same number of visitors regardless of their location"
             ],
             "answer": 2
           },
