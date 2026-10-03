@@ -25841,6 +25841,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand: animals can be classified by what they eat -- herbivores eat only plants, carnivores eat only other animals, and omnivores eat both plants and animals.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=0pHXXP-xlG8",
         "quiz": [
           {
             "q": "What do we call an animal that eats only plants?",
