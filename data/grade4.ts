@@ -26753,8 +26753,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Relative Pronouns — Who, Which, and That",
         "summary": "Grade 4 Language strand: relative pronouns such as who, which, and that connect a describing clause to a noun, with who used for people and which or that often used for things.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "resourceLabel": "YouTube: Grammar: Relative Pronouns — Who, Which, and That",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Relative%20Pronouns%20%E2%80%94%20Who%2C%20Which%2C%20and%20That%20grade%204%20educational",
         "quiz": [
           {
             "q": "Which relative pronoun is typically used to describe people?",
@@ -26807,7 +26807,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=V-RqOsl_Nz4"
       },
       {
         "subject": "Math",
@@ -26867,14 +26868,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=s7GrS0b3FRw"
       },
       {
         "subject": "Science",
         "title": "Science: Light: Opaque, Translucent, and Transparent Materials",
         "summary": "Grade 4 Science strand: materials can be transparent, letting light pass through clearly like glass; translucent, letting some light through like wax paper; or opaque, blocking light completely like wood.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "resourceLabel": "YouTube: Science: Light: Opaque, Translucent, and Transparent Materials",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Light%3A%20Opaque%2C%20Translucent%2C%20and%20Transparent%20Materials%20grade%204%20educational",
         "quiz": [
           {
             "q": "What do we call a material that lets light pass through clearly, like glass?",
@@ -26927,14 +26929,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Light & Sound"
+        "topic": "Light & Sound",
+        "videoUrl": "https://www.youtube.com/watch?v=wL_yVzBH40Q"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: United Empire Loyalists",
         "summary": "Grade 4 Social Studies strand: United Empire Loyalists were colonists who remained loyal to Britain during the American Revolution and moved north to settle in what is now Canada.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "resourceLabel": "YouTube: Social Studies: United Empire Loyalists",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20United%20Empire%20Loyalists%20grade%204%20educational",
         "quiz": [
           {
             "q": "Who were the United Empire Loyalists?",
@@ -26987,7 +26990,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "History: Colonial & 19th Century Canada"
+        "topic": "History: Colonial & 19th Century Canada",
+        "videoUrl": "https://www.youtube.com/watch?v=Mgdvfq0FsJk"
       }
     ]
   },
@@ -27052,14 +27056,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=cSAW4FSA8Dg"
       },
       {
         "subject": "Math",
         "title": "Measurement: Area of Rectangles Using a Formula",
         "summary": "Grade 4 Math strand: students learn to find the area of a rectangle by multiplying its length by its width, with the result measured in square units.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "resourceLabel": "YouTube: Measurement: Area of Rectangles Using a Formula",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Area%20of%20Rectangles%20Using%20a%20Formula%20grade%204%20educational",
         "quiz": [
           {
             "q": "What formula finds the area of a rectangle?",
@@ -27112,14 +27117,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Angles"
+        "topic": "Angles",
+        "videoUrl": "https://www.youtube.com/watch?v=1Ugk12y7TQM"
       },
       {
         "subject": "Science",
         "title": "Science: Simple Machines: Fixed and Movable Pulleys",
         "summary": "Grade 4 Science strand: a fixed pulley is attached in one place and changes the direction of a force, while a movable pulley moves with the load and helps reduce the force needed to lift it.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "resourceLabel": "YouTube: Science: Simple Machines: Fixed and Movable Pulleys",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Simple%20Machines%3A%20Fixed%20and%20Movable%20Pulleys%20grade%204%20educational",
         "quiz": [
           {
             "q": "What type of pulley stays attached in one place and changes the direction of a force?",
@@ -27172,14 +27178,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Forces & Motion"
+        "topic": "Forces & Motion",
+        "videoUrl": "https://www.youtube.com/watch?v=pxD3SHMp9Es"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The War of 1812",
         "summary": "Grade 4 Social Studies strand: the War of 1812 was fought between the United States and Britain, with many battles taking place in Canada, helping shape a shared sense of identity among settlers, Indigenous allies, and British soldiers.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "resourceLabel": "YouTube: Social Studies: The War of 1812",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20War%20of%201812%20grade%204%20educational",
         "quiz": [
           {
             "q": "Which two sides fought in the War of 1812, with Canada as a major battleground?",
@@ -27232,7 +27239,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "History: Colonial & 19th Century Canada"
+        "topic": "History: Colonial & 19th Century Canada",
+        "videoUrl": "https://www.youtube.com/watch?v=efNVeGxLdCg"
       }
     ]
   },

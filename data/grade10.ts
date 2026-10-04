@@ -25696,8 +25696,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Writing: The Feature Article",
         "summary": "Grade 10 English strand: a feature article explores a topic in greater depth than a straight news report, often combining research, interviews, and narrative techniques to engage and inform readers.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Writing: The Feature Article",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Feature%20Article%20grade%2010%20educational",
         "quiz": [
           {
             "q": "How does a feature article typically differ from a straight news report?",
@@ -25750,14 +25750,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=g3v6raB0FYI"
       },
       {
         "subject": "Math",
         "title": "Statistics: Sampling Methods and Bias in Data Collection",
         "summary": "Grade 10 Math strand: a sample is a subset of a population used to make inferences about the whole, and sampling methods such as random, stratified, or convenience sampling can introduce different types of bias if not carefully designed.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "resourceLabel": "YouTube: Statistics: Sampling Methods and Bias in Data Collection",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20Sampling%20Methods%20and%20Bias%20in%20Data%20Collection%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What is a sample in statistics?",
@@ -25810,14 +25811,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=Rf-fIpB4D50"
       },
       {
         "subject": "Science",
         "title": "Physics: Momentum and Collisions",
         "summary": "Grade 10 Science strand: momentum is the product of an object’s mass and velocity, and in a closed system, total momentum is conserved before and after a collision.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Physics: Momentum and Collisions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Momentum%20and%20Collisions%20grade%2010%20educational",
         "quiz": [
           {
             "q": "How is momentum calculated?",
@@ -25870,14 +25872,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Forces & Motion"
+        "topic": "Forces & Motion",
+        "videoUrl": "https://www.youtube.com/watch?v=Y-QOfc2XqOk"
       },
       {
         "subject": "History",
         "title": "The Durham Report and the Rise of Responsible Government",
         "summary": "Grade 10 History strand: Lord Durham’s 1839 report, written in response to the Rebellions of 1837-38, recommended uniting Upper and Lower Canada and introducing responsible government, in which the executive is accountable to elected representatives.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: The Durham Report and the Rise of Responsible Government",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Durham%20Report%20and%20the%20Rise%20of%20Responsible%20Government%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What event prompted Lord Durham to write his 1839 report?",
@@ -25930,7 +25933,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Government & Civics"
+        "topic": "Government & Civics",
+        "videoUrl": "https://www.youtube.com/watch?v=FD8sdFlaiqQ"
       }
     ]
   },

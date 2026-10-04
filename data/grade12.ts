@@ -25680,14 +25680,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=iGIm86jF_dY"
       },
       {
         "subject": "AdvancedFunctions",
         "title": "Statistics: The Chi-Squared Test for Goodness of Fit",
         "summary": "Grade 12 Advanced Functions strand: the chi-squared goodness-of-fit test compares observed category counts to the counts expected under a hypothesized distribution, summing the squared differences divided by expected counts to decide whether the observed data plausibly came from that distribution.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "resourceLabel": "YouTube: Statistics: The Chi-Squared Test for Goodness of Fit",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20The%20Chi-Squared%20Test%20for%20Goodness%20of%20Fit%20grade%2012%20educational",
         "quiz": [
           {
             "q": "What does a chi-squared goodness-of-fit test compare?",
@@ -25740,7 +25741,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=y24q6BhRiDc"
       },
       {
         "subject": "Calculus",
@@ -25800,7 +25802,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Calculus: Related Rates"
+        "topic": "Calculus: Related Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=bFDF8CQPhCM"
       },
       {
         "subject": "Physics",
@@ -25859,7 +25862,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=QIaAleG0Eb4"
       }
     ]
   },

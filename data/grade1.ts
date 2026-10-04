@@ -32435,7 +32435,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=uFssMU4GVLs"
       },
       {
         "subject": "Science",
@@ -32515,7 +32516,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Life Cycles & Growth"
+        "topic": "Life Cycles & Growth",
+        "videoUrl": "https://www.youtube.com/watch?v=etGmCvIL014"
       },
       {
         "subject": "SocialStudies",
@@ -32575,7 +32577,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=StudRA4q7So"
       }
     ]
   },

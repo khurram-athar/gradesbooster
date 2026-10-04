@@ -32876,7 +32876,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=_COFZNkHJ3E"
       },
       {
         "subject": "Science",
@@ -32936,14 +32937,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=fK6gBGeAaUI"
       },
       {
         "subject": "SocialStudies",
         "title": "Laws and Rules: Why Communities Need Them",
         "summary": "Students learn that communities create laws and rules, bigger than classroom rules, to help keep everyone safe and to help people treat each other fairly.",
-        "resourceLabel": "YouTube: Laws and Rules: Why Communities Need Them",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Laws%20and%20Rules%3A%20Why%20Communities%20Need%20Them%20grade%202%20educational",
+        "resourceLabel": "TVO Learn: Grade 2 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-2-social-studies",
         "quiz": [
           {
             "q": "What do we call the rules that a whole community or country follows?",

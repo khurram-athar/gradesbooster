@@ -25717,8 +25717,8 @@
         "subject": "Language",
         "title": "Reading: Text Features — Bold Print and Glossary",
         "summary": "Grade 3 Language strand: bold print highlights important words in a non-fiction text, and a glossary at the back of the book explains what those words mean.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Reading: Text Features — Bold Print and Glossary",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Text%20Features%20%E2%80%94%20Bold%20Print%20and%20Glossary%20grade%203%20educational",
         "quiz": [
           {
             "q": "What do we call print that is darker and thicker than the rest of the text?",
@@ -25771,14 +25771,15 @@
             "answer": 2
           }
         ],
-        "topic": "Reading: Non-Fiction & Informational Text"
+        "topic": "Reading: Non-Fiction & Informational Text",
+        "videoUrl": "https://www.youtube.com/watch?v=33Lv4uDRJ8s"
       },
       {
         "subject": "Math",
         "title": "Geometry: Comparing Angles to a Right Angle",
         "summary": "Grade 3 Math strand: an angle can be described as smaller than, equal to, or greater than a right angle -- angles smaller than a right angle are acute, and angles greater than a right angle are obtuse.",
-        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "resourceLabel": "YouTube: Geometry: Comparing Angles to a Right Angle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Comparing%20Angles%20to%20a%20Right%20Angle%20grade%203%20educational",
         "quiz": [
           {
             "q": "What do we call an angle that is exactly the same size as a right angle?",
@@ -25831,7 +25832,8 @@
             "answer": 0
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=F5xpEnxo6Xo"
       },
       {
         "subject": "Science",
@@ -25963,8 +25965,8 @@
         "subject": "Language",
         "title": "Writing: Writing a Thank-You Note",
         "summary": "Grade 3 Language strand: a thank-you note is a short, polite piece of writing that names the gift or favour, explains why the writer is grateful, and includes a friendly closing.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Writing: Writing a Thank-You Note",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20a%20Thank-You%20Note%20grade%203%20educational",
         "quiz": [
           {
             "q": "What is the purpose of a thank-you note?",
@@ -26017,14 +26019,15 @@
             "answer": 2
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=3kSniQj_LP8"
       },
       {
         "subject": "Math",
         "title": "Financial Literacy: Calculating Sales Tax on Purchases",
         "summary": "Grade 3 Math strand: sales tax is a small extra amount added to the price of many goods and services, and shoppers can estimate the total cost by adding the tax to the price.",
-        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "resourceLabel": "YouTube: Financial Literacy: Calculating Sales Tax on Purchases",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Calculating%20Sales%20Tax%20on%20Purchases%20grade%203%20educational",
         "quiz": [
           {
             "q": "What do we call the extra amount added to the price of many purchases?",
@@ -26077,14 +26080,15 @@
             "answer": 3
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=RCSWEzr0H6o"
       },
       {
         "subject": "Science",
         "title": "Science: Rainforest Ecosystems and Biodiversity",
         "summary": "Grade 3 Science strand: rainforests are warm, wet ecosystems with tall trees and dense plant growth that support an extremely high biodiversity, or variety of living things.",
-        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "resourceLabel": "YouTube: Science: Rainforest Ecosystems and Biodiversity",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Rainforest%20Ecosystems%20and%20Biodiversity%20grade%203%20educational",
         "quiz": [
           {
             "q": "What kind of climate does a rainforest usually have?",
@@ -26137,14 +26141,21 @@
             "answer": 2
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=dUXQCdCoMCM",
+        "videoUrls": [
+          {
+            "label": "What is Biodiversity?",
+            "url": "https://www.youtube.com/watch?v=rVZktiOxsww"
+          }
+        ]
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The Trans-Canada Highway and Travel Across the Country",
         "summary": "Grade 3 Social Studies strand: the Trans-Canada Highway is a long road system that connects communities across the entire country, making it possible to travel by car from coast to coast.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Social Studies: The Trans-Canada Highway and Travel Across the Country",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Trans-Canada%20Highway%20and%20Travel%20Across%20the%20Country%20grade%203%20educational",
         "quiz": [
           {
             "q": "What is the Trans-Canada Highway?",
@@ -26197,7 +26208,8 @@
             "answer": 1
           }
         ],
-        "topic": "Transportation & Infrastructure"
+        "topic": "Transportation & Infrastructure",
+        "videoUrl": "https://www.youtube.com/watch?v=6r4iIR2m6D0"
       }
     ]
   },

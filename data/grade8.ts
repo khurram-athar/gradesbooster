@@ -25783,8 +25783,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Perfect and Progressive Verb Tenses",
         "summary": "Grade 8 Language strand: perfect tenses, such as had walked, show a completed action relative to another point in time, while progressive tenses, such as was walking, show an action in progress.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: Grammar: Perfect and Progressive Verb Tenses",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Perfect%20and%20Progressive%20Verb%20Tenses%20grade%208%20educational",
         "quiz": [
           {
             "q": "What does a perfect tense typically show?",
@@ -25837,7 +25837,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=jRZJUg_T94U",
+        "videoUrls": [
+          {
+            "label": "Learn the Perfect Tenses Easily in 12 Minutes",
+            "url": "https://www.youtube.com/watch?v=p_LBYUO8Ai4"
+          }
+        ]
       },
       {
         "subject": "Math",
@@ -25897,14 +25904,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YXpZhN6iwXI"
       },
       {
         "subject": "Science",
         "title": "Science: The Ozone Layer and Atmospheric Protection",
         "summary": "Grade 8 Science strand: the ozone layer is a region of Earth’s stratosphere containing a high concentration of ozone molecules that absorbs most of the sun’s harmful ultraviolet radiation.",
-        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "resourceLabel": "YouTube: Science: The Ozone Layer and Atmospheric Protection",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20The%20Ozone%20Layer%20and%20Atmospheric%20Protection%20grade%208%20educational",
         "quiz": [
           {
             "q": "What does the ozone layer absorb?",
@@ -25956,7 +25964,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=giDePPjktYw"
       },
       {
         "subject": "History",
@@ -26015,7 +26024,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=6y-YJQxAX0Q"
       }
     ]
   },
@@ -26027,8 +26037,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Vocabulary: Loanwords and Borrowed Terms",
         "summary": "Grade 8 Language strand: a loanword is a word borrowed from one language and adopted into another, often keeping much of its original spelling and meaning, such as café from French or tsunami from Japanese.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: Vocabulary: Loanwords and Borrowed Terms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Loanwords%20and%20Borrowed%20Terms%20grade%208%20educational",
         "quiz": [
           {
             "q": "What is a loanword?",
@@ -26081,7 +26091,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=gsW4k3s-DWk"
       },
       {
         "subject": "Math",
@@ -26141,14 +26152,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=WwmJ5nMmigQ"
       },
       {
         "subject": "Science",
         "title": "Science: Classification of Living Things (Taxonomy)",
         "summary": "Grade 8 Science strand: taxonomy is the branch of science that classifies living things into hierarchical groups, such as kingdom, phylum, class, order, family, genus, and species, based on shared characteristics.",
-        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "resourceLabel": "YouTube: Science: Classification of Living Things (Taxonomy)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Classification%20of%20Living%20Things%20%28Taxonomy%29%20grade%208%20educational",
         "quiz": [
           {
             "q": "What is taxonomy?",
@@ -26201,7 +26213,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Classification of Living Things"
+        "topic": "Classification of Living Things",
+        "videoUrl": "https://www.youtube.com/watch?v=SIbFuiCfkr8"
       },
       {
         "subject": "History",
@@ -26260,7 +26273,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=m68zyXyeYG0"
       }
     ]
   },

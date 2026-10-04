@@ -25740,8 +25740,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Analyzing Allusion in Literature",
         "summary": "Grade 7 Language strand: an allusion is a brief reference to a person, place, event, or work of literature that a writer expects the reader to recognize, adding deeper meaning without lengthy explanation.",
-        "resourceLabel": "TVO Learn: Grade 7 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "resourceLabel": "YouTube: Reading: Analyzing Allusion in Literature",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Allusion%20in%20Literature%20grade%207%20educational",
         "quiz": [
           {
             "q": "What is an allusion?",
@@ -25794,14 +25794,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=BHFesKNnFX4"
       },
       {
         "subject": "Math",
         "title": "Solving Equations Using the Distributive Property",
         "summary": "Grade 7 Math strand: some equations require applying the distributive property to remove brackets before combining like terms and isolating the variable, such as solving 2 times (x plus 3) equals 10.",
-        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "resourceLabel": "YouTube: Solving Equations Using the Distributive Property",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Equations%20Using%20the%20Distributive%20Property%20grade%207%20educational",
         "quiz": [
           {
             "q": "What must often be applied before combining like terms in an equation with brackets?",
@@ -25854,14 +25855,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Algebraic Expressions"
+        "topic": "Algebraic Expressions",
+        "videoUrl": "https://www.youtube.com/watch?v=zG3uF7PV4kg"
       },
       {
         "subject": "Science",
         "title": "Science: Renewable Energy: Biomass and Biofuels",
         "summary": "Grade 7 Science strand: biomass energy comes from burning or converting organic material, such as plants and waste, into usable energy, and biofuels are liquid fuels made from that organic material as a renewable alternative to fossil fuels.",
-        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "resourceLabel": "YouTube: Science: Renewable Energy: Biomass and Biofuels",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Renewable%20Energy%3A%20Biomass%20and%20Biofuels%20grade%207%20educational",
         "quiz": [
           {
             "q": "What does biomass energy come from?",
@@ -25914,7 +25916,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=ZCFByeWEZzQ"
       },
       {
         "subject": "SocialStudies",
@@ -25973,7 +25976,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=swd8dHKgn8o"
       }
     ]
   },
@@ -25985,8 +25989,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Writing: Writing a Descriptive Essay Using Sensory Details",
         "summary": "Grade 7 Language strand: a descriptive essay uses sensory details, appealing to sight, sound, smell, taste, and touch, to help readers vividly picture a person, place, or experience.",
-        "resourceLabel": "TVO Learn: Grade 7 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "resourceLabel": "YouTube: Writing: Writing a Descriptive Essay Using Sensory Details",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20a%20Descriptive%20Essay%20Using%20Sensory%20Details%20grade%207%20educational",
         "quiz": [
           {
             "q": "What does a descriptive essay primarily use to help readers picture something vividly?",
@@ -26039,14 +26043,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=cXwEGwgGeuw"
       },
       {
         "subject": "Math",
         "title": "Financial Literacy: Unit Rates and Comparison Shopping",
         "summary": "Grade 7 Math strand: a unit rate expresses a cost or quantity per single unit, such as price per 100 grams, allowing shoppers to compare products of different sizes to determine the better value.",
-        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "resourceLabel": "YouTube: Financial Literacy: Unit Rates and Comparison Shopping",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Unit%20Rates%20and%20Comparison%20Shopping%20grade%207%20educational",
         "quiz": [
           {
             "q": "What does a unit rate express?",
@@ -26099,7 +26104,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=jC1K7fM91sE",
+        "videoUrls": [
+          {
+            "label": "Grocery Store Math (Comparison Shopping)",
+            "url": "https://www.youtube.com/watch?v=v7aiF7qbvV4"
+          }
+        ]
       },
       {
         "subject": "Science",
@@ -26159,7 +26171,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Cells & Microorganisms"
+        "topic": "Cells & Microorganisms",
+        "videoUrl": "https://www.youtube.com/watch?v=9JW63U2mzqo"
       },
       {
         "subject": "SocialStudies",
@@ -26219,7 +26232,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Government & Civics"
+        "topic": "Government & Civics",
+        "videoUrl": "https://www.youtube.com/watch?v=D7YvnAK33io"
       }
     ]
   },

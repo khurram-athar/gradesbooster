@@ -26454,8 +26454,8 @@
         "subject": "Language",
         "title": "Reading: Problem-and-Solution Text Structure",
         "summary": "Grade 5 Language strand: problem-and-solution is a nonfiction text structure in which an author presents a problem and then describes one or more solutions to address it.",
-        "resourceLabel": "TVO Learn: Grade 5 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "resourceLabel": "YouTube: Reading: Problem-and-Solution Text Structure",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Problem-and-Solution%20Text%20Structure%20grade%205%20educational",
         "quiz": [
           {
             "q": "What does a problem-and-solution text structure present to the reader?",
@@ -26508,14 +26508,15 @@
             "answer": 0
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=bqWYlsVGsPs"
       },
       {
         "subject": "Math",
         "title": "Financial Literacy: Calculating Sales Tax and Discounts",
         "summary": "Grade 5 Math strand: students calculate sales tax as a percentage added to a purchase price, and calculate a discount as a percentage subtracted from the original price of an item.",
-        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "resourceLabel": "YouTube: Financial Literacy: Calculating Sales Tax and Discounts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Calculating%20Sales%20Tax%20and%20Discounts%20grade%205%20educational",
         "quiz": [
           {
             "q": "If an item costs 20 dollars and the sales tax is 10 percent, how much tax is added?",
@@ -26568,14 +26569,21 @@
             "answer": 0
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=zmX7agR-gHA",
+        "videoUrls": [
+          {
+            "label": "How to Calculate a Discount and Sale Price",
+            "url": "https://www.youtube.com/watch?v=5qxX222sLtE"
+          }
+        ]
       },
       {
         "subject": "Science",
         "title": "Life Systems: Migration and Hibernation as Survival Strategies",
         "summary": "Grade 5 Science strand: some animals survive seasonal changes through migration, traveling to a different location, or hibernation, entering a deep, energy-saving sleep during cold months.",
-        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "resourceLabel": "YouTube: Life Systems: Migration and Hibernation as Survival Strategies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Systems%3A%20Migration%20and%20Hibernation%20as%20Survival%20Strategies%20grade%205%20educational",
         "quiz": [
           {
             "q": "What do we call it when an animal travels to a different location to survive seasonal changes?",
@@ -26628,7 +26636,8 @@
             "answer": 3
           }
         ],
-        "topic": "Animal Adaptations & Behaviour"
+        "topic": "Animal Adaptations & Behaviour",
+        "videoUrl": "https://www.youtube.com/watch?v=M4fZ2ErLRYM"
       },
       {
         "subject": "SocialStudies",
@@ -26687,7 +26696,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=qTMdH9-kmDk"
       }
     ]
   },
@@ -26699,8 +26709,8 @@
         "subject": "Language",
         "title": "Vocabulary: Compound Words and Their Meanings",
         "summary": "Grade 5 Language strand: a compound word is formed by joining two smaller words together, such as sunflower or backpack, and its meaning is often related to the meanings of both original words.",
-        "resourceLabel": "TVO Learn: Grade 5 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "resourceLabel": "YouTube: Vocabulary: Compound Words and Their Meanings",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Compound%20Words%20and%20Their%20Meanings%20grade%205%20educational",
         "quiz": [
           {
             "q": "What do we call a word formed by joining two smaller words together?",
@@ -26753,14 +26763,15 @@
             "answer": 2
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=82G-ZWzUHhU"
       },
       {
         "subject": "Math",
         "title": "Measurement: Converting Between Metric Units of Capacity and Mass",
         "summary": "Grade 5 Math strand: students convert between metric units of capacity, such as millilitres and litres, and mass, such as grams and kilograms, using the relationship that 1000 of the smaller unit equals 1 of the larger unit.",
-        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "resourceLabel": "YouTube: Measurement: Converting Between Metric Units of Capacity and Mass",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Converting%20Between%20Metric%20Units%20of%20Capacity%20and%20Mass%20grade%205%20educational",
         "quiz": [
           {
             "q": "How many millilitres are in 1 litre?",
@@ -26813,14 +26824,21 @@
             "answer": 0
           }
         ],
-        "topic": "Measurement: Units"
+        "topic": "Measurement: Units",
+        "videoUrl": "https://www.youtube.com/watch?v=ToGNq7Tf3GY",
+        "videoUrls": [
+          {
+            "label": "Metric Units of Mass | Convert mg, g, and kg",
+            "url": "https://www.youtube.com/watch?v=ptrKThVQwh4"
+          }
+        ]
       },
       {
         "subject": "Science",
         "title": "Life Systems: How the Body’s Systems Work Together",
         "summary": "Grade 5 Science strand: the body’s organ systems, such as the circulatory, respiratory, and digestive systems, work together so that one system’s output often becomes another system’s input, keeping the whole body functioning.",
-        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "resourceLabel": "YouTube: Life Systems: How the Body’s Systems Work Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Systems%3A%20How%20the%20Body%E2%80%99s%20Systems%20Work%20Together%20grade%205%20educational",
         "quiz": [
           {
             "q": "Which two body systems work closely together to deliver oxygen to the blood?",
@@ -26872,14 +26890,15 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=v_-KTto55V8"
       },
       {
         "subject": "SocialStudies",
         "title": "The Canadian Shield: Geography and Geology",
         "summary": "Grade 5 Social Studies strand: the Canadian Shield is a vast region of ancient rock covering much of central and northern Canada, rich in minerals and shaped by glaciers during the last ice age.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "resourceLabel": "YouTube: The Canadian Shield: Geography and Geology",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Canadian%20Shield%3A%20Geography%20and%20Geology%20grade%205%20educational",
         "quiz": [
           {
             "q": "What do we call the vast region of ancient rock covering much of central and northern Canada?",
@@ -26932,7 +26951,8 @@
             "answer": 3
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=lQ0VSa6XLlo"
       }
     ]
   },

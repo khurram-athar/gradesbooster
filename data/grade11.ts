@@ -25749,8 +25749,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Writing: The Character Sketch — Capturing Personality Through Detail",
         "summary": "Grade 11 English strand: a character sketch is a brief piece of descriptive writing that conveys a character’s personality, appearance, and mannerisms through carefully selected, concrete details rather than direct explanation.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Writing: The Character Sketch — Capturing Personality Through Detail",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Character%20Sketch%20%E2%80%94%20Capturing%20Personality%20Through%20Detail%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What does a character sketch primarily aim to convey?",
@@ -25803,7 +25803,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=UmOfabuW_TM"
       },
       {
         "subject": "Functions",
@@ -25883,8 +25884,8 @@ const curriculum: DayContent[] = [
         "subject": "Biology",
         "title": "Biology: Comparative Vision — The Camera Eye and the Compound Eye",
         "summary": "Grade 11 Biology strand: the vertebrate camera eye forms a single focused image using a lens and retina, while the arthropod compound eye uses many individual light-sensing units called ommatidia to build a mosaic-like image especially suited to detecting motion.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Biology: Comparative Vision — The Camera Eye and the Compound Eye",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Comparative%20Vision%20%E2%80%94%20The%20Camera%20Eye%20and%20the%20Compound%20Eye%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What does the vertebrate camera eye use to form a single focused image?",
@@ -25937,14 +25938,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Atoms, Elements & Compounds"
+        "topic": "Atoms, Elements & Compounds",
+        "videoUrl": "https://www.youtube.com/watch?v=QjVqIW281Qo"
       },
       {
         "subject": "Chemistry",
         "title": "Chemistry: The Arrhenius Equation and Activation Energy",
         "summary": "Grade 11 Chemistry strand: the Arrhenius equation quantitatively relates a reaction’s rate constant to its activation energy and temperature, showing that reaction rate increases sharply as either temperature rises or activation energy falls.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "resourceLabel": "YouTube: Chemistry: The Arrhenius Equation and Activation Energy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20The%20Arrhenius%20Equation%20and%20Activation%20Energy%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What does the Arrhenius equation relate a reaction’s rate constant to?",
@@ -25997,7 +25999,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=16fFjAcxJSc"
       }
     ]
   },

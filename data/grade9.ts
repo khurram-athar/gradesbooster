@@ -25935,8 +25935,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Comma Splices and Fused Sentences",
         "summary": "Grade 9 Language strand: a comma splice incorrectly joins two independent clauses with only a comma, and a fused sentence joins two independent clauses with no punctuation at all; both can be corrected with a period, semicolon, or coordinating conjunction.",
-        "resourceLabel": "TVO Learn: Grade 9 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "resourceLabel": "YouTube: Grammar: Comma Splices and Fused Sentences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Comma%20Splices%20and%20Fused%20Sentences%20grade%209%20educational",
         "quiz": [
           {
             "q": "What is a comma splice?",
@@ -25989,14 +25989,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=Fh45mhVsZrU"
       },
       {
         "subject": "Math",
         "title": "Data Management: Frequency Tables and Histograms",
         "summary": "Grade 9 Math strand: a frequency table organizes data into intervals and counts how many values fall in each interval, and a histogram displays this data as connected bars with no gaps between them.",
-        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "resourceLabel": "YouTube: Data Management: Frequency Tables and Histograms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Frequency%20Tables%20and%20Histograms%20grade%209%20educational",
         "quiz": [
           {
             "q": "What does a frequency table organize?",
@@ -26049,7 +26050,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=haJyaQObNwU"
       },
       {
         "subject": "Science",
@@ -26109,14 +26111,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=XFpM5e_6rtM",
+        "videoUrls": [
+          {
+            "label": "Carrying Capacity | Population Ecology",
+            "url": "https://www.youtube.com/watch?v=fbORpSWCShk"
+          }
         ]
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: Aging Populations and the Dependency Ratio",
         "summary": "Grade 9 Social Studies strand: an aging population has a growing proportion of older residents, which raises the dependency ratio, the comparison of dependents (young and elderly) to the working-age population.",
-        "resourceLabel": "TVO Learn: Grade 9 Geography",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "resourceLabel": "YouTube: Social Studies: Aging Populations and the Dependency Ratio",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Aging%20Populations%20and%20the%20Dependency%20Ratio%20grade%209%20educational",
         "quiz": [
           {
             "q": "What does the dependency ratio compare?",
@@ -26169,7 +26178,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Population & Urbanization"
+        "topic": "Population & Urbanization",
+        "videoUrl": "https://www.youtube.com/watch?v=t0kAO4p5bmk"
       }
     ]
   },
