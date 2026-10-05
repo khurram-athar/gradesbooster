@@ -32817,7 +32817,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=XUN_GTAbk2c"
       },
       {
         "subject": "Math",
@@ -32944,8 +32945,8 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Laws and Rules: Why Communities Need Them",
         "summary": "Students learn that communities create laws and rules, bigger than classroom rules, to help keep everyone safe and to help people treat each other fairly.",
-        "resourceLabel": "TVO Learn: Grade 2 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-2-social-studies",
+        "resourceLabel": "YouTube: Laws and Rules: Why Communities Need Them",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Laws%20and%20Rules%3A%20Why%20Communities%20Need%20Them%20grade%202%20educational",
         "quiz": [
           {
             "q": "What do we call the rules that a whole community or country follows?",
@@ -33019,7 +33020,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=1ZIA-GTra5I"
       }
     ]
   },
@@ -33084,7 +33086,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=I7jbq7eqaC0"
       },
       {
         "subject": "Math",
@@ -33167,7 +33170,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Number Sense: Basic Counting"
+        "topic": "Number Sense: Basic Counting",
+        "videoUrl": "https://www.youtube.com/watch?v=BVR-j0Un-C4"
       },
       {
         "subject": "Science",
@@ -33227,7 +33231,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Human Body & Health"
+        "topic": "Human Body & Health",
+        "videoUrl": "https://www.youtube.com/watch?v=yCWclrhsPQ8"
       },
       {
         "subject": "SocialStudies",
@@ -33287,7 +33292,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Canadian Places & Symbols (Basic)"
+        "topic": "Canadian Places & Symbols (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=OGv5AqZiG7A"
       }
     ]
   },

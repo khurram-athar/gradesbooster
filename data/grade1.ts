@@ -32669,7 +32669,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=3BVOIyUnk6s"
       },
       {
         "subject": "Math",
@@ -32754,7 +32755,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=gk_u1xr7jQg"
       },
       {
         "subject": "Science",
@@ -32836,7 +32838,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=898uyDlDy3Q"
       },
       {
         "subject": "SocialStudies",
@@ -32896,7 +32899,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=DSnVCV4uGGQ"
       }
     ]
   },

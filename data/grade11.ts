@@ -26012,8 +26012,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Literature: The Trickster Figure in Folklore and Fiction",
         "summary": "Grade 11 English strand: the trickster is a recurring archetype who uses wit, deception, and rule-breaking to disrupt social order, often appearing across diverse folklore traditions and continuing to shape characters in contemporary fiction.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Literature: The Trickster Figure in Folklore and Fiction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20The%20Trickster%20Figure%20in%20Folklore%20and%20Fiction%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What does the trickster archetype typically use to disrupt social order?",
@@ -26066,14 +26066,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=RW1ChiWyiZQ"
       },
       {
         "subject": "Functions",
         "title": "Geometry: Vector Equations of Lines in Two Dimensions",
         "summary": "Grade 11 Functions strand: a line in two dimensions can be described using a vector equation, combining a known point on the line with a direction vector scaled by a parameter, offering an alternative to the standard slope-intercept form.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "resourceLabel": "YouTube: Geometry: Vector Equations of Lines in Two Dimensions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Vector%20Equations%20of%20Lines%20in%20Two%20Dimensions%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What does a vector equation of a line combine?",
@@ -26126,14 +26127,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Equations & Inequalities",
+        "videoUrl": "https://www.youtube.com/watch?v=pnRQWd5hHHg"
       },
       {
         "subject": "Biology",
         "title": "Biology: Insect Metamorphosis — Complete and Incomplete Development",
         "summary": "Grade 11 Biology strand: complete metamorphosis proceeds through four distinct stages, egg, larva, pupa, and adult, while incomplete metamorphosis proceeds through egg, nymph, and adult stages without a pupal stage.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Biology: Insect Metamorphosis — Complete and Incomplete Development",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Insect%20Metamorphosis%20%E2%80%94%20Complete%20and%20Incomplete%20Development%20grade%2011%20educational",
         "quiz": [
           {
             "q": "How many distinct stages does complete metamorphosis proceed through?",
@@ -26186,14 +26188,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reproduction & Development"
+        "topic": "Reproduction & Development",
+        "videoUrl": "https://www.youtube.com/watch?v=G2vsaRu8FqA"
       },
       {
         "subject": "Chemistry",
         "title": "Chemistry: Addition versus Condensation Polymerization",
         "summary": "Grade 11 Chemistry strand: addition polymerization joins monomers together without losing any atoms, while condensation polymerization joins monomers together while releasing a small molecule, such as water, as a byproduct.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "resourceLabel": "YouTube: Chemistry: Addition versus Condensation Polymerization",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Addition%20versus%20Condensation%20Polymerization%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What happens to the atoms of monomers during addition polymerization?",
@@ -26244,6 +26247,17 @@ const curriculum: DayContent[] = [
               "Knowing the mechanism reveals what byproducts, if any, are released and helps explain differences in the resulting polymer’s structure and characteristics"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=xHpoQjZNN68",
+        "videoUrls": [
+          {
+            "label": "Polymers - Condensation Polymerization",
+            "url": "https://www.youtube.com/watch?v=xHpoQjZNN68"
+          },
+          {
+            "label": "GCSE Chemistry - Addition Polymers & Polymerisation",
+            "url": "https://www.youtube.com/watch?v=1ZUg6ZC3ltA"
           }
         ]
       }

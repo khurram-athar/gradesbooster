@@ -25468,8 +25468,8 @@
         "subject": "Language",
         "title": "Vocabulary: Suffixes -ful and -less",
         "summary": "Grade 3 Language strand: the suffix -ful means full of, as in joyful, while the suffix -less means without, as in fearless.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Vocabulary: Suffixes -ful and -less",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Suffixes%20-ful%20and%20-less%20grade%203%20educational",
         "quiz": [
           {
             "q": "What does the suffix -ful mean?",
@@ -25522,7 +25522,8 @@
             "answer": 3
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=GBkkoSz0EHU"
       },
       {
         "subject": "Math",
@@ -26221,8 +26222,8 @@
         "subject": "Language",
         "title": "Oral Communication: Understanding Body Language and Tone of Voice",
         "summary": "Grade 3 Language strand: listeners can understand a speaker’s feelings not just from their words, but also from body language, such as facial expressions and gestures, and tone of voice.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Oral Communication: Understanding Body Language and Tone of Voice",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Understanding%20Body%20Language%20and%20Tone%20of%20Voice%20grade%203%20educational",
         "quiz": [
           {
             "q": "What do we call the way a speaker uses their face and gestures to communicate?",
@@ -26275,14 +26276,15 @@
             "answer": 1
           }
         ],
-        "topic": "Oral Communication & Presentation"
+        "topic": "Oral Communication & Presentation",
+        "videoUrl": "https://www.youtube.com/watch?v=pbWuralh0Ow"
       },
       {
         "subject": "Math",
         "title": "Measurement: Introducing Volume with Non-Standard Units",
         "summary": "Grade 3 Math strand: volume is the amount of space an object takes up, and students can compare and measure volume using non-standard units, such as counting how many small cubes fill a container.",
-        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "resourceLabel": "YouTube: Measurement: Introducing Volume with Non-Standard Units",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Introducing%20Volume%20with%20Non-Standard%20Units%20grade%203%20educational",
         "quiz": [
           {
             "q": "What do we call the amount of space an object takes up?",
@@ -26335,14 +26337,15 @@
             "answer": 3
           }
         ],
-        "topic": "Measurement: Volume & Surface Area"
+        "topic": "Measurement: Volume & Surface Area",
+        "videoUrl": "https://www.youtube.com/watch?v=tpIAGiaXQls"
       },
       {
         "subject": "Science",
         "title": "Science: Mimicry in the Animal Kingdom",
         "summary": "Grade 3 Science strand: mimicry is an adaptation in which one species evolves to look like another species, often to avoid being eaten by predators.",
-        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "resourceLabel": "YouTube: Science: Mimicry in the Animal Kingdom",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Mimicry%20in%20the%20Animal%20Kingdom%20grade%203%20educational",
         "quiz": [
           {
             "q": "What do we call it when one species evolves to look like another species?",
@@ -26395,14 +26398,15 @@
             "answer": 1
           }
         ],
-        "topic": "Classification of Living Things"
+        "topic": "Classification of Living Things",
+        "videoUrl": "https://www.youtube.com/watch?v=cV0kkFMK2CI"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: Emergency Services That Keep Communities Safe",
         "summary": "Grade 3 Social Studies strand: emergency services, such as police, firefighters, and paramedics, respond quickly to keep people safe during emergencies in their community.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Social Studies: Emergency Services That Keep Communities Safe",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Emergency%20Services%20That%20Keep%20Communities%20Safe%20grade%203%20educational",
         "quiz": [
           {
             "q": "Name one type of emergency service, such as ___.",
@@ -26455,7 +26459,8 @@
             "answer": 2
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=B9QEFpqyVzo"
       }
     ]
   },

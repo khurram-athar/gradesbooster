@@ -26191,8 +26191,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Vocabulary: Loaded Language and Propaganda Techniques",
         "summary": "Grade 9 Language strand: loaded language uses emotionally charged words to influence opinion, and propaganda techniques such as bandwagon and glittering generalities use loaded language to persuade audiences beyond logical argument.",
-        "resourceLabel": "TVO Learn: Grade 9 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "resourceLabel": "YouTube: Vocabulary: Loaded Language and Propaganda Techniques",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Loaded%20Language%20and%20Propaganda%20Techniques%20grade%209%20educational",
         "quiz": [
           {
             "q": "What does loaded language use to influence opinion?",
@@ -26245,14 +26245,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=whDA2PZc5X8"
       },
       {
         "subject": "Math",
         "title": "Percent Change: Increase and Decrease Applications",
         "summary": "Grade 9 Math strand: percent change measures the relative increase or decrease between an original value and a new value, calculated as the difference divided by the original value and expressed as a percent.",
-        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "resourceLabel": "YouTube: Percent Change: Increase and Decrease Applications",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Percent%20Change%3A%20Increase%20and%20Decrease%20Applications%20grade%209%20educational",
         "quiz": [
           {
             "q": "How is percent change generally calculated?",
@@ -26304,14 +26305,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=T6-0MwmCpE8"
       },
       {
         "subject": "Science",
         "title": "Science: Food Chains, Food Webs, and Energy Pyramids",
         "summary": "Grade 9 Science strand: a food chain shows a single path of energy transfer between organisms, a food web connects multiple interlinked food chains, and an energy pyramid shows that available energy decreases at each higher trophic level.",
-        "resourceLabel": "TVO Learn: Grade 9 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "resourceLabel": "YouTube: Science: Food Chains, Food Webs, and Energy Pyramids",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Food%20Chains%2C%20Food%20Webs%2C%20and%20Energy%20Pyramids%20grade%209%20educational",
         "quiz": [
           {
             "q": "What does a food chain show?",
@@ -26364,14 +26366,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=H1EugAY97e8"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The Informal Economy in Developing Regions",
         "summary": "Grade 9 Social Studies strand: the informal economy consists of unregulated, untaxed economic activity, such as street vending or unlicensed labour, which forms a significant part of the workforce in many developing regions.",
-        "resourceLabel": "TVO Learn: Grade 9 Geography",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "resourceLabel": "YouTube: Social Studies: The Informal Economy in Developing Regions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Informal%20Economy%20in%20Developing%20Regions%20grade%209%20educational",
         "quiz": [
           {
             "q": "What is the informal economy made up of?",
@@ -26424,7 +26427,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Economy, Trade & Currency"
+        "topic": "Economy, Trade & Currency",
+        "videoUrl": "https://www.youtube.com/watch?v=d0a0eXJ5TJM"
       }
     ]
   },

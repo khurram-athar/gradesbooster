@@ -25946,8 +25946,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Grammar: Commonly Confused Words and Word Choice",
         "summary": "Grade 10 English strand: precise word choice requires distinguishing between commonly confused words, such as affect and effect or its and it’s, to communicate meaning clearly and accurately.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Grammar: Commonly Confused Words and Word Choice",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Commonly%20Confused%20Words%20and%20Word%20Choice%20grade%2010%20educational",
         "quiz": [
           {
             "q": "Why is distinguishing between commonly confused words, like affect and effect, important in writing?",
@@ -26000,7 +26000,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=5pfZ3dyG1cg"
       },
       {
         "subject": "Math",
@@ -26060,14 +26061,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Probability"
+        "topic": "Probability",
+        "videoUrl": "https://www.youtube.com/watch?v=VpuN8vCQ--M"
       },
       {
         "subject": "Science",
         "title": "Earth Science: The Nitrogen Cycle",
         "summary": "Grade 10 Science strand: the nitrogen cycle describes how nitrogen moves between the atmosphere, soil, and living organisms through processes such as nitrogen fixation, nitrification, and denitrification.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Earth Science: The Nitrogen Cycle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Earth%20Science%3A%20The%20Nitrogen%20Cycle%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What does the nitrogen cycle describe?",
@@ -26119,14 +26121,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=8WGop59iYyM"
       },
       {
         "subject": "History",
         "title": "The Road to Confederation: The Charlottetown and Quebec Conferences",
         "summary": "Grade 10 History strand: the Charlottetown Conference of 1864 and the Quebec Conference of 1864 brought together colonial leaders to negotiate the terms of a union that would become Canada in 1867.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: The Road to Confederation: The Charlottetown and Quebec Conferences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Road%20to%20Confederation%3A%20The%20Charlottetown%20and%20Quebec%20Conferences%20grade%2010%20educational",
         "quiz": [
           {
             "q": "In what year did the Charlottetown and Quebec Conferences take place?",
@@ -26179,7 +26182,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Confederation & Government Formation"
+        "topic": "Confederation & Government Formation",
+        "videoUrl": "https://www.youtube.com/watch?v=mUXJk6o0WeU"
       }
     ]
   },

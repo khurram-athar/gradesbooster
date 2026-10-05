@@ -25875,8 +25875,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Poetry: The Dramatic Monologue — Voice and Implied Audience",
         "summary": "Grade 12 English strand: a dramatic monologue is a poem in which a single speaker, distinct from the poet, addresses a silent implied listener, revealing their character and often their unreliability through what they say and unintentionally disclose.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Poetry: The Dramatic Monologue — Voice and Implied Audience",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Poetry%3A%20The%20Dramatic%20Monologue%20%E2%80%94%20Voice%20and%20Implied%20Audience%20grade%2012%20educational",
         "quiz": [
           {
             "q": "In a dramatic monologue, who is speaking, and how do they relate to the poet?",
@@ -25929,7 +25929,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading: Poetry"
+        "topic": "Reading: Poetry",
+        "videoUrl": "https://www.youtube.com/watch?v=BakLIxBMI7g"
       },
       {
         "subject": "AdvancedFunctions",
@@ -25988,7 +25989,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YGHVPIFqMCk"
       },
       {
         "subject": "Calculus",
@@ -26048,7 +26050,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Polynomials & Factoring"
+        "topic": "Polynomials & Factoring",
+        "videoUrl": "https://www.youtube.com/watch?v=a5x4lwnvHM0"
       },
       {
         "subject": "Physics",
@@ -26107,7 +26110,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=xaAthgG0o8o"
       }
     ]
   },
