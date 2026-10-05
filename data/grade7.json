@@ -26297,7 +26297,8 @@
             "answer": 3
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=BNkJNNuxsuQ"
       },
       {
         "subject": "Math",
@@ -26357,7 +26358,8 @@
             "answer": 1
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=2YtYsaKelmY"
       },
       {
         "subject": "Science",
@@ -26417,7 +26419,8 @@
             "answer": 2
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=M4rzNUZFV4w"
       },
       {
         "subject": "SocialStudies",
@@ -26476,7 +26479,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=hjtoUaNvvLo"
       }
     ]
   },

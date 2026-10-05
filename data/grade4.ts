@@ -27306,7 +27306,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Research Skills"
+        "topic": "Research Skills",
+        "videoUrl": "https://www.youtube.com/watch?v=jwJfMpReaRs"
       },
       {
         "subject": "Math",
@@ -27366,7 +27367,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=nt43FJQppCQ"
       },
       {
         "subject": "Science",
@@ -27426,7 +27428,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=i7iF_eY40vo"
       },
       {
         "subject": "SocialStudies",
@@ -27486,7 +27489,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "History: Colonial & 19th Century Canada"
+        "topic": "History: Colonial & 19th Century Canada",
+        "videoUrl": "https://www.youtube.com/watch?v=4DfzMcemtXs"
       }
     ]
   },

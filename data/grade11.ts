@@ -26325,7 +26325,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=N2FPDCPnkGo"
       },
       {
         "subject": "Functions",
@@ -26446,7 +26447,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Human Body Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=0yiokickRgY"
       },
       {
         "subject": "Chemistry",
@@ -26505,7 +26507,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ZiY1sGWUs0o"
       }
     ]
   },

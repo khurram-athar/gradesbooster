@@ -26083,8 +26083,8 @@
         "subject": "Language",
         "title": "Vocabulary: Homophones and Commonly Confused Word Pairs",
         "summary": "Grade 6 Language strand: homophones are words that sound the same but have different spellings and meanings, such as their, there, and they’re, and recognizing them helps writers choose the correct word for their meaning.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Vocabulary: Homophones and Commonly Confused Word Pairs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Homophones%20and%20Commonly%20Confused%20Word%20Pairs%20grade%206%20educational",
         "quiz": [
           {
             "q": "What are homophones?",
@@ -26137,14 +26137,15 @@
             "answer": 3
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=6ZAcmMxgQWM"
       },
       {
         "subject": "Math",
         "title": "Geometry: Area of a Trapezoid",
         "summary": "Grade 6 Math strand: the area of a trapezoid is found using the formula one half times the sum of the two parallel sides, called bases, multiplied by the height between them.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "resourceLabel": "YouTube: Geometry: Area of a Trapezoid",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Area%20of%20a%20Trapezoid%20grade%206%20educational",
         "quiz": [
           {
             "q": "What shape has exactly one pair of parallel sides, called bases?",
@@ -26197,14 +26198,15 @@
             "answer": 1
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=-_SIZw5H4dA"
       },
       {
         "subject": "Science",
         "title": "Science: Coral Reefs: Biodiversity Hotspots Under Threat",
         "summary": "Grade 6 Science strand: coral reefs are built by tiny animals called coral polyps and support an enormous diversity of marine life, but they are threatened by rising ocean temperatures, pollution, and ocean acidification.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: Science: Coral Reefs: Biodiversity Hotspots Under Threat",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Coral%20Reefs%3A%20Biodiversity%20Hotspots%20Under%20Threat%20grade%206%20educational",
         "quiz": [
           {
             "q": "What builds a coral reef?",
@@ -26257,14 +26259,15 @@
             "answer": 2
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=wxuyVMNCt3Y"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The Group of Seven and Canadian Artistic Identity",
         "summary": "Grade 6 Social Studies strand: the Group of Seven was a collective of Canadian landscape painters in the early twentieth century whose bold depictions of the Canadian wilderness helped shape a distinct sense of Canadian artistic identity.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "resourceLabel": "YouTube: Social Studies: The Group of Seven and Canadian Artistic Identity",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Group%20of%20Seven%20and%20Canadian%20Artistic%20Identity%20grade%206%20educational",
         "quiz": [
           {
             "q": "What was the Group of Seven?",
@@ -26316,7 +26319,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=uh-aT34r-kI"
       }
     ]
   },
@@ -26382,7 +26386,8 @@
             "answer": 1
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=N2FPDCPnkGo"
       },
       {
         "subject": "Math",
@@ -26442,7 +26447,8 @@
             "answer": 3
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=fnJAB4v2HL4"
       },
       {
         "subject": "Science",
@@ -26502,7 +26508,8 @@
             "answer": 3
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=I00vcHLJXCc"
       },
       {
         "subject": "SocialStudies",

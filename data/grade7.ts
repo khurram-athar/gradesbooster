@@ -26299,7 +26299,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=BNkJNNuxsuQ"
       },
       {
         "subject": "Math",
@@ -26359,7 +26360,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=2YtYsaKelmY"
       },
       {
         "subject": "Science",
@@ -26419,7 +26421,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=M4rzNUZFV4w"
       },
       {
         "subject": "SocialStudies",
@@ -26478,7 +26481,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=hjtoUaNvvLo"
       }
     ]
   },

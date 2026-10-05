@@ -27020,7 +27020,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Formal Writing & Letters"
+        "topic": "Formal Writing & Letters",
+        "videoUrl": "https://www.youtube.com/watch?v=Gd8v-FIjI9Y"
       },
       {
         "subject": "Math",
@@ -27080,7 +27081,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Patterning"
+        "topic": "Patterning",
+        "videoUrl": "https://www.youtube.com/watch?v=_u-SBkNU5YM"
       },
       {
         "subject": "Science",
@@ -27140,7 +27142,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Structures, Materials & Engineering"
+        "topic": "Structures, Materials & Engineering",
+        "videoUrl": "https://www.youtube.com/watch?v=0_KhihMIOG8"
       },
       {
         "subject": "SocialStudies",
@@ -27199,7 +27202,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=DuRxklojz54"
       }
     ]
   },

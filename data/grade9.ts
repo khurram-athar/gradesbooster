@@ -26494,7 +26494,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=-UA7Y-LwhjQ"
       },
       {
         "subject": "Math",
@@ -26554,7 +26555,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Fractions"
+        "topic": "Fractions",
+        "videoUrl": "https://www.youtube.com/watch?v=50lGnME56I4"
       },
       {
         "subject": "Science",
@@ -26614,7 +26616,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Matter & Materials"
+        "topic": "Matter & Materials",
+        "videoUrl": "https://www.youtube.com/watch?v=hkBrw2fG75U"
       },
       {
         "subject": "SocialStudies",
@@ -26674,7 +26677,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=4UAGQjRkmrY"
       }
     ]
   },

@@ -26177,7 +26177,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=A6-7f64gPJc"
       },
       {
         "subject": "AdvancedFunctions",
@@ -26237,7 +26238,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Place Value & Number Sense",
+        "videoUrl": "https://www.youtube.com/watch?v=V08g_lkKj6Q"
       },
       {
         "subject": "Calculus",
@@ -26296,7 +26298,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=qwyg5NzJvoI"
       },
       {
         "subject": "Physics",
@@ -26355,7 +26358,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=8NLzuURxFwY"
       }
     ]
   },

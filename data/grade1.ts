@@ -32375,7 +32375,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=yWMl4E5U7MM"
       },
       {
         "subject": "Math",

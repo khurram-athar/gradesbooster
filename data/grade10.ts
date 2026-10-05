@@ -26249,7 +26249,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Oral Communication & Presentation"
+        "topic": "Oral Communication & Presentation",
+        "videoUrl": "https://www.youtube.com/watch?v=HG68Ymazo18"
       },
       {
         "subject": "Math",
@@ -26309,7 +26310,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=Br450GLnr3A"
       },
       {
         "subject": "Science",
@@ -26369,7 +26371,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Plants & Photosynthesis"
+        "topic": "Plants & Photosynthesis",
+        "videoUrl": "https://www.youtube.com/watch?v=QMBGMUgAqCs"
       },
       {
         "subject": "History",
@@ -26429,7 +26432,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Confederation & Government Formation"
+        "topic": "Confederation & Government Formation",
+        "videoUrl": "https://www.youtube.com/watch?v=Mgdvfq0FsJk"
       }
     ]
   },
