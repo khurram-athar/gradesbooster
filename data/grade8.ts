@@ -26536,6 +26536,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: setting is the time and place in which a story occurs, and skilled authors use setting to establish mood, reflect a character’s emotional state, or influence the plot.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=omsbv-hbXiM",
         "quiz": [
           {
             "q": "What does setting refer to in a story?",
@@ -26597,6 +26598,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Estimating Square Roots of Non-Perfect Squares",
         "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Square%20Roots%20of%20Non-Perfect%20Squares%20grade%208%20educational",
         "topic": "Number Sense",
+        "videoUrl": "https://www.youtube.com/watch?v=SnypR-aTxg0",
         "quiz": [
           {
             "q": "√50 is between which two consecutive integers?",
@@ -26656,6 +26658,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: geothermal energy is heat generated within the Earth, primarily from the decay of radioactive elements, that can be harnessed as a renewable energy source in regions with accessible heat sources.",
         "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=EsP5Z6zcUCY",
         "quiz": [
           {
             "q": "Where does most of Earth’s internal geothermal heat come from?",
@@ -26716,6 +26719,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the Supreme Court of Canada is the countrys highest court, with the power of judicial review to determine whether laws are constitutional, making it a key institution in Canadas system of government.",
         "resourceLabel": "YouTube: Social Studies: The Supreme Court of Canada and Judicial Review",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Supreme%20Court%20of%20Canada%20and%20Judicial%20Review%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OqyooLXn4oc",
         "quiz": [
           {
             "q": "What is the Supreme Court of Canada?",

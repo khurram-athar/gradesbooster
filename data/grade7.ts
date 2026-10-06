@@ -26496,6 +26496,13 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: an ellipsis, three spaced dots, shows that words have been omitted or a thought trails off, while parentheses set off extra, non-essential information within a sentence.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=JmRMfFVw6NE",
+        "videoUrls": [
+          {
+            "label": "Parentheses & Square Brackets",
+            "url": "https://www.youtube.com/watch?v=PZzZ4gO7E2I"
+          }
+        ],
         "quiz": [
           {
             "q": "What does an ellipsis show?",
@@ -26556,6 +26563,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: the exterior angle theorem states that an exterior angle of a triangle is equal to the sum of the two non-adjacent interior angles, providing a shortcut for solving certain angle problems.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=ndqxxAUDF5Y",
         "quiz": [
           {
             "q": "What does the exterior angle theorem state?",
@@ -26616,6 +26624,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: a pendulum swings back and forth in a repeating pattern called periodic motion, and the time it takes to complete one full swing, called its period, depends mainly on the length of the pendulum.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=1Q15fgz-lUk",
         "quiz": [
           {
             "q": "What is periodic motion?",
@@ -26676,6 +26685,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the Numbered Treaties were a series of agreements made between the Canadian government and First Nations between 1871 and 1921, addressing land use and rights, though their interpretation and fulfillment remain important ongoing issues.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=5EyYhs_bhhg",
         "quiz": [
           {
             "q": "What were the Numbered Treaties?",

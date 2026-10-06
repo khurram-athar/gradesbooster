@@ -26693,6 +26693,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Reading: Analyzing Satire and Social Commentary",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Satire%20and%20Social%20Commentary%20grade%209%20educational",
         "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=io58hl1Z0TY",
         "quiz": [
           {
             "q": "What is the primary purpose of satire?",
@@ -26752,6 +26753,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: a system of two linear equations can have exactly one solution, no solution, or infinitely many solutions, depending on whether the lines intersect, are parallel, or are identical.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=bq5gDsEdN3Q",
         "quiz": [
           {
             "q": "How many solutions does a linear system have if the two lines intersect at a single point?",
@@ -26811,6 +26813,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: a convex lens curves outward and converges light rays to form an image, while a concave lens curves inward and diverges light rays, and a lens’s shape determines how it bends light.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=CJ6aB5ULqa0",
         "quiz": [
           {
             "q": "Does a convex lens curve outward?",

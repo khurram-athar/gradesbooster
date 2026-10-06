@@ -26522,6 +26522,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: authors use code-switching, shifting between languages or dialects, and other markers of dialect to construct a character’s identity, signal cultural belonging, and add authenticity to a narrative voice.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=7Na4UvRIhu4",
         "quiz": [
           {
             "q": "What does code-switching involve, as used by an author to construct a character’s voice?",
@@ -26641,6 +26642,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: animals excrete nitrogenous waste from protein breakdown in different chemical forms depending on their environment, with aquatic animals typically excreting ammonia, mammals excreting urea, and birds and reptiles excreting uric acid.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=es5-lyiFNEA",
         "quiz": [
           {
             "q": "What do aquatic animals typically excrete as their primary nitrogenous waste product?",

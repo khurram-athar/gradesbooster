@@ -33307,6 +33307,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Reading and Writing strands: students learn to read and follow written directions that have more than one step, completing each step in the correct order to finish a task successfully.",
         "resourceLabel": "YouTube: Following Multi-Step Written Directions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Following%20Multi-Step%20Written%20Directions%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Z155TgEs8yA",
         "quiz": [
           {
             "q": "What is a multi-step direction?",
@@ -33366,6 +33367,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Number strand: students learn to order a set of three-digit numbers from least to greatest or greatest to least by comparing the hundreds, tens, and ones digits.",
         "resourceLabel": "YouTube: Ordering Numbers to 1000",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ordering%20Numbers%20to%201000%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=4cnXDt7TgTg",
         "quiz": [
           {
             "q": "Which set of numbers is ordered from least to greatest?",
@@ -33425,6 +33427,13 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Life Systems strand: students learn that camouflage lets an animal blend into its surroundings to hide, while mimicry lets a harmless animal look like a dangerous one to scare away predators.",
         "resourceLabel": "YouTube: Camouflage vs Mimicry: Two Ways Animals Stay Safe",
         "resourceUrl": "https://www.youtube.com/results?search_query=Camouflage%20vs%20Mimicry%3A%20Two%20Ways%20Animals%20Stay%20Safe%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=F-vRzYreZXY",
+        "videoUrls": [
+          {
+            "label": "Animal Mimicry Explained",
+            "url": "https://www.youtube.com/watch?v=cV0kkFMK2CI"
+          }
+        ],
         "quiz": [
           {
             "q": "What is camouflage?",
@@ -33485,6 +33494,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Social Studies People and Environments strand: students learn that people around the world speak many different languages, and that Canada itself has two official languages, English and French.",
         "resourceLabel": "YouTube: Languages of the World: How People Communicate Differently",
         "resourceUrl": "https://www.youtube.com/results?search_query=Languages%20of%20the%20World%3A%20How%20People%20Communicate%20Differently%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Z8QxVUGCsoc",
         "quiz": [
           {
             "q": "What are the two official languages of Canada?",
@@ -33550,6 +33560,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that every written sentence begins with a capital letter, which signals to a reader that a new sentence is starting.",
         "resourceLabel": "YouTube: Punctuation: Capital Letters at the Start of a Sentence",
         "resourceUrl": "https://www.youtube.com/results?search_query=Punctuation%3A%20Capital%20Letters%20at%20the%20Start%20of%20a%20Sentence%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jDRiur9kBPM",
         "quiz": [
           {
             "q": "What kind of letter should begin every written sentence?",
@@ -33631,6 +33642,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Number strand: students learn to locate and compare three-digit numbers on a number line, understanding that numbers further to the right are greater in value.",
         "resourceLabel": "YouTube: Locating Numbers on a Number Line to 1000",
         "resourceUrl": "https://www.youtube.com/results?search_query=Locating%20Numbers%20on%20a%20Number%20Line%20to%201000%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RSJOTBJlKNA",
         "quiz": [
           {
             "q": "On a number line, numbers further to the right are ___.",
@@ -33691,6 +33703,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Life Systems strand: students learn that many insects go through a life cycle with several stages, such as egg, larva, pupa, and adult, changing form as they grow.",
         "resourceLabel": "YouTube: Life Cycle of an Insect: From Egg to Adult",
         "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Cycle%20of%20an%20Insect%3A%20From%20Egg%20to%20Adult%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TeisJz4aIqs",
         "quiz": [
           {
             "q": "What is usually the first stage in an insect life cycle?",
@@ -33751,6 +33764,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to identify emergency vehicles, such as ambulances, fire trucks, and police cars, and understand that their sirens and flashing lights warn others to make way quickly.",
         "resourceLabel": "YouTube: Emergency Vehicles: Sirens and Flashing Lights",
         "resourceUrl": "https://www.youtube.com/results?search_query=Emergency%20Vehicles%3A%20Sirens%20and%20Flashing%20Lights%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=JMlFdeMlVuI",
         "quiz": [
           {
             "q": "Which of these is an emergency vehicle?",

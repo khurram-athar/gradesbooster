@@ -32913,6 +32913,7 @@
         "summary": "Students learn to read and spell words that begin with the consonant blends fr, tr, and pr, hearing each consonant sound in the blend.",
         "resourceLabel": "YouTube: Blends: fr, tr, pr",
         "resourceUrl": "https://www.youtube.com/results?search_query=Blends%3A%20fr%2C%20tr%2C%20pr%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZJMmgX7B-nM",
         "quiz": [
           {
             "q": "Which word starts with the fr blend?",
@@ -33001,6 +33002,7 @@
         "summary": "Students practise making a reasonable guess, or estimate, about a length or amount before measuring it exactly, then compare their estimate to the real measurement.",
         "resourceLabel": "YouTube: Estimating Before Measuring",
         "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Before%20Measuring%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=I1-YjATe9as",
         "quiz": [
           {
             "q": "What is an estimate?",
@@ -33084,6 +33086,7 @@
         "resourceLabel": "YouTube: Stars in the Night Sky",
         "resourceUrl": "https://www.youtube.com/results?search_query=Stars%20in%20the%20Night%20Sky%20grade%201%20educational",
         "topic": "Space & Astronomy",
+        "videoUrl": "https://www.youtube.com/watch?v=PeNuj2GH8xg",
         "quiz": [
           {
             "q": "When can we usually see stars in the sky?",
@@ -33144,6 +33147,7 @@
         "resourceLabel": "YouTube: Natural and Built Features in Our Community",
         "resourceUrl": "https://www.youtube.com/results?search_query=Natural%20and%20Built%20Features%20in%20Our%20Community%20grade%201%20educational",
         "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=rZVQjQWuoGE",
         "quiz": [
           {
             "q": "Which of these is a natural feature?",
@@ -33209,6 +33213,7 @@
         "summary": "Students learn that a common noun names a general person, place, or thing, while a proper noun names a specific one and begins with a capital letter.",
         "resourceLabel": "YouTube: Common and Proper Nouns",
         "resourceUrl": "https://www.youtube.com/results?search_query=Common%20and%20Proper%20Nouns%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gQsZr8yrsno",
         "quiz": [
           {
             "q": "Which of these is a proper noun?",
@@ -33291,6 +33296,13 @@
         "summary": "Students practise counting forward and backward by ones within 200, strengthening their understanding of how numbers increase and decrease in order.",
         "resourceLabel": "YouTube: Counting Forward and Backward Within 200",
         "resourceUrl": "https://www.youtube.com/results?search_query=Counting%20Forward%20and%20Backward%20Within%20200%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=11eckLmJEMw",
+        "videoUrls": [
+          {
+            "label": "Counting Backwards from 100",
+            "url": "https://www.youtube.com/watch?v=8jMmZaFvRpE"
+          }
+        ],
         "quiz": [
           {
             "q": "What number comes right before 120?",
@@ -33374,6 +33386,7 @@
         "summary": "Students learn that wind is moving air, which we cannot see but can feel, and observe through moving leaves, flags, and clouds.",
         "resourceLabel": "YouTube: Wind: Moving Air We Cannot See",
         "resourceUrl": "https://www.youtube.com/results?search_query=Wind%3A%20Moving%20Air%20We%20Cannot%20See%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oHUVxkx8QRo",
         "quiz": [
           {
             "q": "What is wind?",
@@ -33458,6 +33471,7 @@
         "resourceLabel": "YouTube: Finding Landmarks Near Home",
         "resourceUrl": "https://www.youtube.com/results?search_query=Finding%20Landmarks%20Near%20Home%20grade%201%20educational",
         "topic": "Maps & Spatial Skills (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=aCi9OcKoIoo",
         "quiz": [
           {
             "q": "A landmark is",

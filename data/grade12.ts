@@ -26373,6 +26373,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: the villanelle is a nineteen-line fixed poetic form built from five tercets and a closing quatrain, using two refrains that recur throughout the poem and interlock in the final stanza, transforming repetition into cumulative emotional intensity.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=H6Na2ZO0BLM",
         "quiz": [
           {
             "q": "How many lines does a traditional villanelle contain?",
@@ -26433,6 +26434,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: the Intermediate Value Theorem guarantees that a continuous function, such as any polynomial, must take on every value between f(a) and f(b) somewhere on the interval [a, b], a key tool for proving that a real root exists within a given interval.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=9wEHwFrUyOU",
         "quiz": [
           {
             "q": "What does the Intermediate Value Theorem guarantee about a continuous function on the interval [a, b]?",
@@ -26493,6 +26495,7 @@ const curriculum: DayContent[] = [
         "summary": "An airplane flies at a constant altitude and constant horizontal speed away from an observer on the ground. You'll use the Pythagorean theorem to find how fast the plane's straight-line distance from the observer is changing.",
         "resourceLabel": "YouTube: Related Rates: An Airplane's Distance from an Observer",
         "resourceUrl": "https://www.youtube.com/results?search_query=Related%20Rates%3A%20An%20Airplane%27s%20Distance%20from%20an%20Observer%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jUn8MpV80po",
         "quiz": [
           {
             "q": "A plane flies at a constant altitude of 2 km. Let x be the horizontal distance from the observer to the point directly below the plane, and s be the plane's straight-line distance from the observer. Which relationship is correct?",
@@ -26553,6 +26556,7 @@ const curriculum: DayContent[] = [
         "summary": "Students apply the law of conservation of momentum to analyze elastic and inelastic collisions between two objects.",
         "resourceLabel": "YouTube: Conservation of Momentum in Collisions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Conservation%20of%20Momentum%20in%20Collisions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=M2xnGcaaAi4",
         "quiz": [
           {
             "q": "In a perfectly inelastic collision between two objects, what happens to the objects after they collide?",

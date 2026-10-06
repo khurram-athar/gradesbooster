@@ -26447,6 +26447,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: an allegory is a narrative in which characters and events represent broader ideas or moral lessons, while a fable is a brief allegorical story, often featuring animals, that teaches a specific moral.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=zabM6MYaXho",
         "quiz": [
           {
             "q": "What do the characters and events in an allegory typically represent?",
@@ -26508,6 +26509,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Factoring Trinomials with a Leading Coefficient Greater Than 1",
         "resourceUrl": "https://www.youtube.com/results?search_query=Factoring%20Trinomials%20with%20a%20Leading%20Coefficient%20Greater%20Than%201%20grade%2010%20educational",
         "topic": "Quadratic Relations",
+        "videoUrl": "https://www.youtube.com/watch?v=4v-EQIxqpMQ",
         "quiz": [
           {
             "q": "Factor: 2x^2 + 7x + 3",
@@ -26567,6 +26569,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: specific heat capacity is the amount of energy needed to raise the temperature of one gram of a substance by one degree Celsius, and calorimetry uses this concept to measure heat transfer between substances.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=yhNHJ7WdT8A",
         "quiz": [
           {
             "q": "What does specific heat capacity measure?",
@@ -26626,6 +26629,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the Numbered Treaties, signed between 1871 and 1921 between the Crown and Indigenous nations, addressed land, resources, and rights, though their terms have long been a source of dispute over interpretation and fulfillment.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=5EyYhs_bhhg",
         "quiz": [
           {
             "q": "Between which two parties were the Numbered Treaties signed?",

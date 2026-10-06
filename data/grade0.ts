@@ -31062,6 +31062,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practice pointing to each word as it is read aloud, matching spoken words to printed words one at a time.",
         "resourceLabel": "YouTube: Print Concepts: Tracking Words as We Read",
         "resourceUrl": "https://www.youtube.com/results?search_query=Print%20Concepts%3A%20Tracking%20Words%20as%20We%20Read%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FomVrsf-PJ0",
         "quiz": [
           {
             "q": "When reading, what should your finger do as each word is spoken?",
@@ -31122,6 +31123,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Time: Morning, Afternoon, and Evening",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Morning%2C%20Afternoon%2C%20and%20Evening%20kindergarten%20educational",
         "topic": "Time & Money",
+        "videoUrl": "https://www.youtube.com/watch?v=xOj9QxeAJy4",
         "quiz": [
           {
             "q": "Eating breakfast usually happens during which part of the day?",
@@ -31182,6 +31184,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Pets vs. Wild Animals: How They're Different",
         "resourceUrl": "https://www.youtube.com/results?search_query=Pets%20vs.%20Wild%20Animals%3A%20How%20They%27re%20Different%20kindergarten%20educational",
         "topic": "Classification of Living Things (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=KXcNMtlnzsU",
         "quiz": [
           {
             "q": "Which of these is usually a pet?",
@@ -31242,6 +31245,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Our Garbage Collector: Keeping Our Streets Tidy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Garbage%20Collector%3A%20Keeping%20Our%20Streets%20Tidy%20kindergarten%20educational",
         "topic": "Environment & Sustainability (Social Studies)",
+        "videoUrl": "https://www.youtube.com/watch?v=OzEFMVPVKHc",
         "quiz": [
           {
             "q": "What is one job a garbage collector does?",
