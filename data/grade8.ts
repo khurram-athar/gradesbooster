@@ -2281,7 +2281,7 @@ const curriculum: DayContent[] = [
             "options": [
               "it only changes the narrator's name",
               "it only matters in non-fiction",
-              "it has no effect",
+              "it decides how long the novel will be",
               "the narrator shapes what readers trust"
             ],
             "answer": 3
@@ -2701,7 +2701,7 @@ const curriculum: DayContent[] = [
             "q": "The Dieppe Raid (1942) was ___.",
             "options": [
               "a disastrous, mostly-Canadian raid",
-              "irrelevant to Canada",
+              "a naval battle in the Pacific Ocean",
               "a secret spy mission",
               "a major Allied victory"
             ],
@@ -2858,7 +2858,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why should you start saving early?",
             "options": [
-              "Starting time doesn't matter",
+              "Saving early means you must save a larger amount each month",
               "Later is better",
               "Only the amount matters",
               "Longer time means larger returns"
@@ -3201,7 +3201,7 @@ const curriculum: DayContent[] = [
             "q": "The 'Persons Case' (1929) was significant because ___.",
             "options": [
               "it created the Charter of Rights",
-              "it was irrelevant to women's history",
+              "it made equal pay for women the law",
               "it granted women the vote",
               "courts ruled women were legal 'persons'"
             ],
@@ -3340,7 +3340,7 @@ const curriculum: DayContent[] = [
               "the first affects the second's odds",
               "they are impossible",
               "they always have equal probability",
-              "the first event has no effect on the second"
+              "the first event is replaced before the second happens"
             ],
             "answer": 0
           },
@@ -3483,7 +3483,7 @@ const curriculum: DayContent[] = [
             "q": "The Canadian Charter of Rights and Freedoms (1982) ___.",
             "options": [
               "is not part of the Constitution",
-              "has no effect on laws",
+              "only applies to laws made before 1982",
               "only applies to criminals",
               "guarantees rights courts can enforce"
             ],
@@ -3682,7 +3682,7 @@ const curriculum: DayContent[] = [
             "options": [
               "science should never be questioned",
               "modifying life raises ethical questions",
-              "ethics are irrelevant to science",
+              "it only involves machines and no living organisms",
               "it has no practical applications"
             ],
             "answer": 1
@@ -3796,7 +3796,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How does POV affect a story?",
             "options": [
-              "It has no effect",
+              "It determines the genre of the story",
               "It shapes what readers know and trust",
               "Only the style changes",
               "It only changes pronouns"
@@ -3889,7 +3889,7 @@ const curriculum: DayContent[] = [
             "q": "Mechanical efficiency is ___.",
             "options": [
               "always 100% in ideal machines",
-              "unrelated to energy",
+              "the speed at which a machine moves",
               "always less than 100% due to friction",
               "greater than 100% in compound machines"
             ],
@@ -4057,7 +4057,7 @@ const curriculum: DayContent[] = [
             "q": "Reading dystopian fiction develops critical thinking because ___.",
             "options": [
               "it only improves vocabulary",
-              "it has no connection to real life",
+              "it trains readers to memorize plot events",
               "it prompts readers to question power",
               "it is purely escapist entertainment"
             ],
@@ -5270,7 +5270,7 @@ const curriculum: DayContent[] = [
             "q": "The most important lesson from studying Canadian history is arguably ___.",
             "options": [
               "Canada has always been perfect",
-              "history is irrelevant today",
+              "only the decisions of political leaders shape history",
               "only some Canadians need to know history",
               "history is not just the past"
             ],
@@ -6119,7 +6119,7 @@ const curriculum: DayContent[] = [
             "q": "For a fixed perimeter, which rectangle has the maximum area?",
             "options": [
               "The longest possible rectangle",
-              "Shape doesn't matter",
+              "A rectangle whose length is double its width",
               "A square (all sides equal)",
               "A very narrow rectangle"
             ],
@@ -6491,7 +6491,7 @@ const curriculum: DayContent[] = [
             "options": [
               "developing skills to evaluate sources",
               "only teaching you about Canadian government",
-              "having no connection to the present",
+              "training you to accept every source as accurate",
               "teaching you only memorised dates"
             ],
             "answer": 0
@@ -6577,7 +6577,7 @@ const curriculum: DayContent[] = [
             "options": [
               "you must plan and write quickly",
               "it requires no planning",
-              "grammar doesn't matter",
+              "you can revise over several days",
               "you don't need evidence"
             ],
             "answer": 0
@@ -6821,7 +6821,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Including specific details from Grade 8 experiences in the letter ___.",
             "options": [
-              "is irrelevant",
+              "is only useful in a research report",
               "makes it too long",
               "makes it more real and meaningful",
               "makes it impersonal"
@@ -6963,7 +6963,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why study environmental science in Grade 8?",
             "options": [
-              "It is required but irrelevant",
+              "It is mainly about memorizing the names of plants and animals",
               "It only helps future scientists",
               "It helps you make informed choices",
               "Only for students planning outdoor careers"
@@ -7250,7 +7250,7 @@ const curriculum: DayContent[] = [
             "q": "The history of Canada is best described as ___.",
             "options": [
               "a complex, ongoing, unfinished story",
-              "irrelevant to modern Canada",
+              "a story that ended with Confederation in 1867",
               "a simple story of heroes and villains",
               "a story of continuous perfect progress"
             ],
@@ -7446,7 +7446,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why must the cornea and lens refract light precisely?",
             "options": [
-              "Refraction has no effect on how we see",
+              "To control how much light enters through the pupil",
               "So the image lands accurately in focus on the retina",
               "To change the colour of the light entering the eye",
               "To prevent any light from reaching the retina"
@@ -7456,7 +7456,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding how the eye focuses light useful in science and technology?",
             "options": [
-              "It has no connection to real-world optical devices",
+              "It proves that all lenses bend light by the same amount regardless of shape",
               "It helps explain how lenses in cameras and glasses work in similar ways",
               "Eyes and cameras work in completely unrelated ways",
               "Only doctors ever need to understand eye optics"
@@ -7666,7 +7666,7 @@ const curriculum: DayContent[] = [
             "q": "Heredity refers to ___.",
             "options": [
               "The passing of traits from parents to offspring",
-              "A process unrelated to living things",
+              "The breaking down of food into nutrients",
               "A type of rock formation",
               "A type of weather pattern"
             ],
@@ -7676,7 +7676,7 @@ const curriculum: DayContent[] = [
             "q": "Genes are best described as ___.",
             "options": [
               "A part of the digestive system",
-              "A type of chemical unrelated to biology",
+              "Enzymes that break down food in the stomach",
               "A type of cell found only in plants",
               "Segments of DNA that carry instructions for traits"
             ],
@@ -7708,7 +7708,7 @@ const curriculum: DayContent[] = [
               "Heredity only applies to plants, never animals",
               "It helps explain how traits are passed between generations",
               "Understanding heredity serves no scientific purpose",
-              "Heredity has no connection to biology"
+              "It explains how organisms adjust their behaviour to the environment"
             ],
             "answer": 1
           }
@@ -7757,7 +7757,7 @@ const curriculum: DayContent[] = [
             "q": "Why are the Fenian Raids considered relevant to the discussion of Confederation?",
             "options": [
               "They occurred after Confederation was already complete",
-              "They had no connection to Confederation discussions",
+              "They persuaded the colonies to seek annexation by the United States",
               "They highlighted the need for stronger, unified colonial defence",
               "They discouraged any consideration of uniting the colonies"
             ],
@@ -7768,7 +7768,7 @@ const curriculum: DayContent[] = [
             "options": [
               "These events have no historical significance",
               "The Fenian Raids never actually took place",
-              "They are unrelated to Canadian colonial history",
+              "They prove the colonies were already fully united before 1860",
               "They help explain some of the practical motivations behind uniting the colonies"
             ],
             "answer": 3
@@ -7795,7 +7795,7 @@ const curriculum: DayContent[] = [
               "Someone else's life story, not the writer's own",
               "An entire life story from birth to present",
               "One meaningful, specific moment rather than a whole life story",
-              "A completely unrelated topic"
+              "A detailed summary of a book the writer has read"
             ],
             "answer": 2
           },
@@ -7854,7 +7854,7 @@ const curriculum: DayContent[] = [
             "q": "A perfect square is the result of ___.",
             "options": [
               "Any two different numbers added together",
-              "A concept unrelated to perfect squares",
+              "A whole number added to itself",
               "A whole number multiplied by itself",
               "A whole number divided by itself"
             ],
@@ -7863,7 +7863,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the square root of 25?",
             "options": [
-              "A value unrelated to the calculation",
+              "12.5",
               "25",
               "5",
               "10"
@@ -7875,7 +7875,7 @@ const curriculum: DayContent[] = [
             "options": [
               "14",
               "9",
-              "A value unrelated to the calculation",
+              "24.5",
               "7"
             ],
             "answer": 3
@@ -7884,7 +7884,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these is a perfect square?",
             "options": [
               "20",
-              "A number unrelated to perfect squares",
+              "24",
               "36",
               "15"
             ],
@@ -7895,7 +7895,7 @@ const curriculum: DayContent[] = [
             "options": [
               "9",
               "8",
-              "A value unrelated to the calculation",
+              "40.5",
               "18"
             ],
             "answer": 0
@@ -7947,7 +7947,7 @@ const curriculum: DayContent[] = [
               "Different from",
               "Identical to",
               "Impossible to observe",
-              "Unrelated to any material properties"
+              "Only different in temperature from"
             ],
             "answer": 0
           },
@@ -7986,7 +7986,7 @@ const curriculum: DayContent[] = [
             "q": "Louis Riel played a significant role in leading resistance related to ___.",
             "options": [
               "A war fought entirely overseas",
-              "A conflict unrelated to Canadian history",
+              "The Rebellions of 1837-38 in Upper Canada",
               "European colonization of Africa",
               "Métis and First Nations concerns over land rights"
             ],
@@ -7997,7 +7997,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Concerns over land rights and government policy",
               "A celebration with no underlying conflict",
-              "A conflict unrelated to Canadian expansion westward",
+              "Tensions over French language rights in Quebec",
               "An agreement with no disputes involved"
             ],
             "answer": 0
@@ -8007,7 +8007,7 @@ const curriculum: DayContent[] = [
             "options": [
               "His role in Canadian history is entirely unknown",
               "He is remembered with no controversy at all",
-              "He has no connection to Canadian history",
+              "He served as Canada's first prime minister",
               "He is seen by many as a defender of Métis rights amid a complex and disputed legacy"
             ],
             "answer": 3
@@ -8016,9 +8016,9 @@ const curriculum: DayContent[] = [
             "q": "Why do historians continue to study the Northwest Resistance today?",
             "options": [
               "It was a minor event with no lasting significance",
-              "This event has no relevance to understanding Canada today",
+              "It proves that the government fully addressed Métis land claims in 1885",
               "It highlights ongoing questions about land rights, government policy, and Indigenous relations",
-              "This event has no connection to Indigenous history"
+              "It was mostly a conflict over fur trade prices between companies"
             ],
             "answer": 2
           }
@@ -8073,8 +8073,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Only positive aspects with no criticism",
               "Issues within society, politics, or culture",
-              "Random, unrelated topics with no message",
-              "Fictional worlds with no connection to real issues"
+              "Personal feelings about the author's private life",
+              "Technical descriptions of how machines work"
             ],
             "answer": 1
           },
@@ -8104,7 +8104,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Always matters",
               "Determines whether the answer is correct or incorrect",
-              "A concept unrelated to combinations",
+              "Matters only for the first item chosen",
               "Does not matter"
             ],
             "answer": 3
@@ -8113,9 +8113,9 @@ const curriculum: DayContent[] = [
             "q": "In a permutation, the order of items ___.",
             "options": [
               "Matters",
-              "Has no effect on the outcome",
+              "Is ignored once the items are chosen",
               "Never matters",
-              "A concept unrelated to permutations"
+              "Matters only when there are more than 10 items"
             ],
             "answer": 0
           },
@@ -8125,7 +8125,7 @@ const curriculum: DayContent[] = [
               "Neither a combination nor a permutation",
               "Permutation",
               "Combination",
-              "A term unrelated to this scenario"
+              "Factorial"
             ],
             "answer": 2
           },
@@ -8134,7 +8134,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Neither a combination nor a permutation",
               "Permutation",
-              "A term unrelated to this scenario",
+              "Factorial",
               "Combination"
             ],
             "answer": 1
@@ -8145,7 +8145,7 @@ const curriculum: DayContent[] = [
               "They help count possible outcomes in situations like games, passwords, or scheduling",
               "They can only be used with numbers less than 10",
               "These concepts have no real-world use",
-              "A reason unrelated to combinations and permutations"
+              "They are only used to find the mean of a data set"
             ],
             "answer": 0
           }
@@ -8204,7 +8204,7 @@ const curriculum: DayContent[] = [
             "q": "Why are Newton’s laws still relevant in modern science and engineering?",
             "options": [
               "They only applied in the past, not today",
-              "They have no connection to real-world motion",
+              "They only apply to objects moving at the speed of light",
               "They help explain and predict how objects move under different forces",
               "These laws have been proven completely incorrect"
             ],
@@ -8226,8 +8226,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Women’s right to vote",
               "The elimination of voting rights entirely",
-              "A movement unrelated to voting rights",
-              "Rights unrelated to political participation"
+              "Women’s right to serve in the military",
+              "Women’s right to own property"
             ],
             "answer": 0
           },
@@ -8247,7 +8247,7 @@ const curriculum: DayContent[] = [
               "Never actually changed over time",
               "Was identical for every woman in Canada with no variation",
               "Varied for different groups of women",
-              "Has no connection to Canadian history"
+              "Was granted nationally in 1867 at Confederation"
             ],
             "answer": 2
           },
@@ -8300,7 +8300,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Compounding as a word formation process involves ___.",
             "options": [
-              "Creating a word with no connection to existing words",
+              "Adding a prefix to change a word's meaning",
               "Combining two existing words to form a new one",
               "Only shortening words with no combination",
               "Removing all letters from a word"
@@ -8313,7 +8313,7 @@ const curriculum: DayContent[] = [
               "Removing all vowels from a word",
               "Using only whole, unaltered words",
               "Combining parts of two words into a new word, like brunch from breakfast and lunch",
-              "A process unrelated to vocabulary"
+              "Adding a suffix to change a word's tense"
             ],
             "answer": 2
           },
@@ -8322,7 +8322,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Word origins never provide any useful clues",
               "Recognizing familiar roots can help readers infer meaning",
-              "Etymology has no connection to understanding word meaning",
+              "Etymology mainly helps readers correct spelling errors",
               "Etymology only applies to very short words"
             ],
             "answer": 1
@@ -8353,7 +8353,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Add n to both sides",
               "Subtract n from both sides",
-              "A concept unrelated to solving equations",
+              "Divide only the 3n term by 3",
               "Multiply both sides by n"
             ],
             "answer": 1
@@ -8381,7 +8381,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful to combine variable terms on one side before solving an equation?",
             "options": [
-              "This concept has no connection to solving equations",
+              "It lets the variable be removed from the equation completely",
               "It simplifies the equation into a form that is easier to solve",
               "Combining variable terms never simplifies an equation",
               "Variables should always stay on both sides forever"
@@ -8570,7 +8570,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How does character motivation typically relate to conflict in a story?",
             "options": [
-              "It has no connection to conflict",
+              "Motivation only matters after the conflict is resolved",
               "A character's motivation can create or push a story's conflict forward",
               "Conflict always removes a character's motivation",
               "Motivation and conflict are the same thing"
@@ -8693,7 +8693,7 @@ const curriculum: DayContent[] = [
             "q": "Programming plays a role in robotics by ___.",
             "options": [
               "Preventing the robot from functioning",
-              "Having no connection to robotic function",
+              "Providing the electrical energy that powers the robot's motors",
               "Replacing the need for mechanical parts",
               "Instructing the robot on how to respond to different situations"
             ],
@@ -8703,7 +8703,7 @@ const curriculum: DayContent[] = [
             "q": "Why might mechatronics be considered an interdisciplinary field?",
             "options": [
               "It relies on only a single area of study with no overlap",
-              "Mechatronics has no connection to engineering",
+              "It was invented by combining biology and chemistry",
               "It combines knowledge and skills from multiple areas of engineering and technology",
               "This field only involves art and design"
             ],
@@ -8802,7 +8802,7 @@ const curriculum: DayContent[] = [
               "The deeper meaning of a complex or abstract term",
               "A term with no meaningful complexity",
               "Only a simple dictionary definition",
-              "A completely unrelated topic"
+              "A step-by-step process for completing a task"
             ],
             "answer": 0
           },
@@ -8832,7 +8832,7 @@ const curriculum: DayContent[] = [
               "Personal examples can make an abstract idea more concrete and relatable",
               "Personal examples always weaken an extended definition",
               "Abstract terms should never be explained with examples",
-              "Examples have no connection to definitions"
+              "Examples are only used to make an essay longer"
             ],
             "answer": 0
           },
@@ -8861,7 +8861,7 @@ const curriculum: DayContent[] = [
             "q": "What does slope describe about a line?",
             "options": [
               "Its steepness",
-              "A concept unrelated to geometry",
+              "How far it is from the origin",
               "Its exact length",
               "Its colour"
             ],
@@ -8872,7 +8872,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Run by rise",
               "Height by width only, with no division",
-              "A concept unrelated to slope",
+              "Rise plus run",
               "Rise by run"
             ],
             "answer": 3
@@ -8901,9 +8901,9 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding slope useful for describing real-world situations, like a wheelchair ramp?",
             "options": [
               "Ramps are never measured using slope",
-              "This concept has no connection to math",
+              "It gives the total length of the ramp surface",
               "It helps measure how steep or gradual an incline is",
-              "Slope has no connection to real-world inclines"
+              "Slope can only be used on graphs, never on physical structures"
             ],
             "answer": 2
           }
@@ -8951,7 +8951,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do engineers consider wind speed and location when placing a wind turbine?",
             "options": [
-              "Location has no effect on how much electricity is produced",
+              "Turbines produce the most electricity in calm, sheltered valleys",
               "Stronger, more consistent winds allow a turbine to generate more electricity",
               "Turbines work identically regardless of wind conditions",
               "Wind turbines require no wind to operate"
@@ -8993,7 +8993,7 @@ const curriculum: DayContent[] = [
             "q": "Many people who used the Underground Railroad settled in ___.",
             "options": [
               "A country with no historical connection to this network",
-              "A location unrelated to this history",
+              "Australia",
               "Canada",
               "No location at all"
             ],
@@ -9003,7 +9003,7 @@ const curriculum: DayContent[] = [
             "q": "Black Canadian communities established through this history contributed to ___.",
             "options": [
               "Nothing of historical significance",
-              "A history unrelated to Canada",
+              "The founding of the Hudson's Bay Company",
               "A community with no lasting impact",
               "Canada’s cultural and historical development"
             ],
@@ -9014,7 +9014,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It highlights an important chapter in Black Canadian history and the pursuit of freedom",
               "This network never actually reached Canada",
-              "It has no connection to Canadian history",
+              "It proves slavery was never legal anywhere in British North America",
               "This history has no lasting significance"
             ],
             "answer": 0
@@ -9023,8 +9023,8 @@ const curriculum: DayContent[] = [
             "q": "Why might learning about Black Canadian history be an important part of understanding Canada’s past?",
             "options": [
               "Canada’s history should be studied with no consideration of diverse communities",
-              "Black Canadian history has no connection to Canada’s broader history",
-              "This history has no relevance to Canadian identity",
+              "Black Canadian history is only about events in the United States",
+              "Canadian identity has been shaped only by European settlement",
               "It provides a fuller and more accurate understanding of Canada’s diverse history"
             ],
             "answer": 3
@@ -9111,7 +9111,7 @@ const curriculum: DayContent[] = [
             "q": "In a right triangle, what does the Pythagorean theorem relate?",
             "options": [
               "The lengths of the three sides",
-              "A concept unrelated to geometry",
+              "The perimeter and the area of the triangle",
               "The colour of the triangle",
               "The three angles only"
             ],
@@ -9122,7 +9122,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The height only",
               "The base",
-              "A concept unrelated to right triangles",
+              "The median",
               "The hypotenuse"
             ],
             "answer": 3
@@ -9150,7 +9150,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the Pythagorean theorem useful for solving real-world problems, like finding the shortest distance across a park?",
             "options": [
-              "This concept has no connection to geometry",
+              "It gives the angles of a triangle when two sides are known",
               "Right triangles never appear in real-world problems",
               "The Pythagorean theorem never applies to any real-world situation",
               "It helps calculate an unknown side length when two other sides of a right triangle are known"
@@ -9183,7 +9183,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Nothing related to life in the universe",
               "Life beyond Earth",
-              "A topic unrelated to space science",
+              "Changing the orbits of planets in our own solar system",
               "Only the physical characteristics of our own Sun"
             ],
             "answer": 1
@@ -9194,7 +9194,7 @@ const curriculum: DayContent[] = [
               "The presence of conditions suitable for liquid water",
               "The exoplanet’s exact colour, with no other factors",
               "The distance from Earth alone, with no other factors",
-              "A characteristic unrelated to habitability"
+              "Surface temperatures far above the boiling point of water"
             ],
             "answer": 0
           },
@@ -9202,7 +9202,7 @@ const curriculum: DayContent[] = [
             "q": "Why is studying exoplanets valuable to our understanding of the universe?",
             "options": [
               "It broadens knowledge of planetary systems and the potential for life elsewhere",
-              "This research has no connection to space science",
+              "It proves that Earth is the only planet that can support life",
               "Exoplanets provide no useful scientific information",
               "Exoplanets do not actually exist"
             ],
@@ -9211,7 +9211,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which technology has helped scientists detect and study exoplanets?",
             "options": [
-              "Equipment unrelated to astronomy",
+              "Microscopes used to study cells",
               "Advanced telescopes",
               "Simple household tools",
               "No technology has ever been used for this purpose"
@@ -9311,7 +9311,7 @@ const curriculum: DayContent[] = [
               "Word choice, sentence structure, and tone",
               "Only the colour of ink used",
               "The page number of a piece of writing",
-              "A factor unrelated to language choices"
+              "The total word count of a text"
             ],
             "answer": 0
           },
@@ -9320,7 +9320,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Their individual style and voice shape how they express the same ideas",
               "All writers are required to describe events identically",
-              "Style and voice have no effect on writing",
+              "Writers are required to use a different text structure each time",
               "Word choice never varies between writers"
             ],
             "answer": 0
@@ -9362,7 +9362,7 @@ const curriculum: DayContent[] = [
               "Natural numbers",
               "Irrational numbers only",
               "Integers",
-              "A set unrelated to whole numbers"
+              "Whole numbers"
             ],
             "answer": 2
           },
@@ -9370,7 +9370,7 @@ const curriculum: DayContent[] = [
             "q": "A rational number can always be expressed as ___.",
             "options": [
               "A fraction of two integers",
-              "A number unrelated to fractions",
+              "A decimal that never ends or repeats",
               "Only a whole number with no fractions allowed",
               "A number that cannot be written as a fraction"
             ],
@@ -9400,7 +9400,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful to classify numbers into different categories, such as rational and irrational?",
             "options": [
               "All numbers belong to exactly the same single category",
-              "Number classification has no connection to mathematics",
+              "It makes every number in a category equal in value",
               "It helps clarify the properties and relationships between different types of numbers",
               "Classifying numbers serves no mathematical purpose"
             ],
@@ -9419,7 +9419,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Nanotechnology involves working at the scale of ___.",
             "options": [
-              "A scale unrelated to materials science",
+              "Grains of sand",
               "Entire planets",
               "Large buildings",
               "Atoms and molecules"
@@ -9432,16 +9432,16 @@ const curriculum: DayContent[] = [
               "New materials with unique properties",
               "Nothing of practical use",
               "Materials identical to all existing ones with no changes",
-              "Objects unrelated to science or technology"
+              "Giant structures built at the scale of bridges"
             ],
             "answer": 0
           },
           {
             "q": "Which is a potential application of nanotechnology?",
             "options": [
-              "Technology that has no connection to materials",
+              "Building taller bridges using only traditional steel and concrete",
               "A field with no real-world applications",
-              "A concept unrelated to material design",
+              "Making larger telescopes to study distant galaxies",
               "Developing stronger, lighter materials for various industries"
             ],
             "answer": 3
@@ -9459,7 +9459,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is nanotechnology considered an emerging and significant field of study?",
             "options": [
-              "This field has no connection to modern technology",
+              "It has already been fully developed, so scientists no longer research it",
               "Nanotechnology has no real-world significance",
               "It has the potential to impact many industries, from medicine to engineering",
               "It only applies to a single, narrow application"
@@ -9479,7 +9479,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In feudal Japan, the shogun held ___.",
             "options": [
-              "No connection to government",
+              "Only judicial authority over merchants",
               "Only religious authority",
               "Significant military power",
               "No power at all"
@@ -9556,7 +9556,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important to use credible evidence in an argumentative essay?",
             "options": [
               "It strengthens the argument with well-supported, reliable reasoning",
-              "Credibility of evidence has no bearing on the essay’s quality",
+              "Reliable evidence is only needed to make the essay longer",
               "Evidence is never necessary",
               "Using evidence always weakens an argument"
             ],
@@ -9588,7 +9588,7 @@ const curriculum: DayContent[] = [
               "Reinforce the main argument and its significance",
               "Introduce a completely unrelated new topic",
               "Be identical to the essay’s introduction",
-              "Contain no connection to the rest of the essay"
+              "Repeat the introduction word for word"
             ],
             "answer": 0
           }
@@ -9606,7 +9606,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Similar figures have side lengths that are ___.",
             "options": [
-              "Completely unrelated to each other",
+              "Equal to the sum of the other figure's sides",
               "Proportional to each other",
               "Impossible to compare",
               "Always identical in length"
@@ -9639,7 +9639,7 @@ const curriculum: DayContent[] = [
               "Indirect measurement can never be used for tall objects",
               "It allows for an estimate without needing to physically measure the entire height directly",
               "This method has no real-world application",
-              "Proportional reasoning has no connection to measurement"
+              "Similar triangles can only be used when every side is measured directly"
             ],
             "answer": 1
           },
@@ -9677,7 +9677,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Deforestation can contribute to climate change by ___.",
             "options": [
-              "Having no effect on the atmosphere",
+              "Adding oxygen to the atmosphere that traps heat",
               "Reducing the number of trees that absorb carbon dioxide",
               "Increasing the number of trees absorbing carbon dioxide",
               "Removing all greenhouse gases immediately"
@@ -9689,7 +9689,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Cooling the atmosphere with no other effects",
               "Immediately disappearing from the atmosphere",
-              "Having no connection to temperature",
+              "Reflecting all sunlight back into space",
               "Trapping heat in Earth’s atmosphere"
             ],
             "answer": 3
@@ -9697,10 +9697,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might reducing fossil fuel use help address climate change?",
             "options": [
-              "Fossil fuel use has no connection to greenhouse gases",
+              "Fossil fuels release oxygen that cools the planet",
               "It can help lower the amount of greenhouse gases released into the atmosphere",
               "Reducing fossil fuel use always increases emissions",
-              "Climate change is unrelated to human activity"
+              "Climate change is caused only by volcanic eruptions"
             ],
             "answer": 1
           },
@@ -9739,7 +9739,7 @@ const curriculum: DayContent[] = [
             "q": "The Indian Act is federal legislation that has significantly controlled aspects of the lives of ___.",
             "options": [
               "Only recent immigrants to Canada",
-              "A group unrelated to Canadian history",
+              "Inuit peoples in the Arctic",
               "First Nations peoples in Canada",
               "No specific group of people"
             ],
@@ -9749,7 +9749,7 @@ const curriculum: DayContent[] = [
             "q": "The historical effects of the Indian Act are widely recognized as ___.",
             "options": [
               "Having no lasting effect at all",
-              "Unrelated to Indigenous history",
+              "Limited to economic matters only",
               "Entirely positive with no lasting concerns",
               "Significant and often harmful"
             ],
@@ -9761,7 +9761,7 @@ const curriculum: DayContent[] = [
               "This legislation has no historical significance",
               "The Indian Act never actually existed",
               "It reveals significant aspects of the relationship between the Canadian government and First Nations peoples",
-              "It has no connection to Indigenous history in Canada"
+              "It was the treaty that ended the War of 1812"
             ],
             "answer": 2
           },
@@ -9769,9 +9769,9 @@ const curriculum: DayContent[] = [
             "q": "Why might discussions of reconciliation in Canada often reference the Indian Act?",
             "options": [
               "Reconciliation discussions never reference historical legislation",
-              "The Indian Act has no connection to reconciliation efforts",
+              "It was the document that created the Truth and Reconciliation Commission",
               "Understanding its historical impact is seen as important to addressing ongoing challenges",
-              "This legislation has no relevance to modern Indigenous relations"
+              "It was repealed in 1982, so it no longer affects anyone"
             ],
             "answer": 2
           }
@@ -9854,7 +9854,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What do we call extra money earned based on a percentage of an original amount?",
             "options": [
-              "A concept unrelated to money",
+              "A deposit",
               "Simple interest",
               "A discount",
               "A tax"
@@ -9867,7 +9867,7 @@ const curriculum: DayContent[] = [
               "Interest is only ever owed, never earned",
               "No, savings accounts never earn any interest",
               "Yes",
-              "A concept unrelated to finance"
+              "Only if the money is withdrawn within a year"
             ],
             "answer": 2
           },
@@ -9885,7 +9885,7 @@ const curriculum: DayContent[] = [
             "q": "Why might someone want to save money in an account that earns interest?",
             "options": [
               "Interest never actually adds any money to an account",
-              "This concept has no connection to saving money",
+              "Interest is money that must be repaid to the bank",
               "Savings accounts always lose money over time",
               "Their money can grow over time without any extra effort"
             ],
@@ -9916,7 +9916,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Density describes ___.",
             "options": [
-              "A concept unrelated to density",
+              "How much space an object takes up, regardless of its mass",
               "The colour of an object",
               "How much mass is packed into a given volume",
               "How heavy an object feels when held"
@@ -9927,7 +9927,7 @@ const curriculum: DayContent[] = [
             "q": "An object will float in water if its density is ___ the density of water.",
             "options": [
               "Less than",
-              "A comparison unrelated to density",
+              "Exactly triple",
               "Exactly double",
               "Greater than"
             ],
@@ -9937,7 +9937,7 @@ const curriculum: DayContent[] = [
             "q": "Why does a large ship made of steel float, even though steel is denser than water?",
             "options": [
               "Ships are not actually denser than water in any way",
-              "A reason unrelated to buoyancy",
+              "Steel becomes less dense when it is painted",
               "Steel always floats, regardless of shape",
               "Its overall shape displaces enough water to make its average density lower than water"
             ],
@@ -9946,7 +9946,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Buoyancy is best described as ___.",
             "options": [
-              "A concept unrelated to fluids",
+              "The sideways push of water currents on an object",
               "The temperature of a liquid",
               "The downward force of gravity alone",
               "The upward force a fluid exerts on an object"
@@ -9958,7 +9958,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Helium is denser than the surrounding air",
               "Balloons rise due to their colour",
-              "A reason unrelated to density",
+              "Helium has no mass, so gravity cannot pull it down",
               "Helium is less dense than the surrounding air"
             ],
             "answer": 3
@@ -10018,7 +10018,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A conflict that never actually happened",
               "Fought through direct military battles only",
-              "Entirely unrelated to politics",
+              "Fought only over trade and tariffs",
               "Political and indirect, rather than direct warfare between the major powers"
             ],
             "answer": 3
@@ -10045,7 +10045,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only negative traits with no strengths",
               "No notable qualities of any kind",
-              "A flaw with no effect on the story",
+              "A flaw that is revealed only in the final sentence",
               "Admirable qualities and a significant flaw"
             ],
             "answer": 3
@@ -10055,7 +10055,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A strength that guarantees the hero’s success",
               "A flaw that never affects the plot",
-              "A trait unrelated to the story’s outcome",
+              "A virtue that the hero shows only at the end",
               "A significant weakness that contributes to the hero’s downfall"
             ],
             "answer": 3
@@ -10073,7 +10073,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which is an example of a possible tragic flaw?",
             "options": [
-              "A trait unrelated to the character’s choices",
+              "Great courage leading to a heroic victory",
               "A strength that always leads to success",
               "A character with no decisions to make",
               "Excessive pride leading to poor decisions"
@@ -10084,7 +10084,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the tragic hero considered an important literary archetype?",
             "options": [
               "It explores the complex relationship between human strengths and weaknesses",
-              "This concept has no connection to character development",
+              "It shows that heroes never make mistakes",
               "Tragic heroes never appear in significant works of literature",
               "This archetype has no significance in literature"
             ],
@@ -10106,7 +10106,7 @@ const curriculum: DayContent[] = [
             "options": [
               "An event whose outcome does not affect another event",
               "An event that never has any outcome",
-              "A concept unrelated to probability",
+              "An event that is certain to happen",
               "An event that always affects another event"
             ],
             "answer": 0
@@ -10116,7 +10116,7 @@ const curriculum: DayContent[] = [
             "options": [
               "An event whose outcome does affect another event",
               "An event that never affects anything else",
-              "A concept unrelated to probability",
+              "An event that is certain to happen",
               "An event with no possible outcomes"
             ],
             "answer": 0
@@ -10127,7 +10127,7 @@ const curriculum: DayContent[] = [
               "Neither independent nor dependent",
               "Dependent",
               "Independent",
-              "A concept unrelated to probability"
+              "Both"
             ],
             "answer": 2
           },
@@ -10135,7 +10135,7 @@ const curriculum: DayContent[] = [
             "q": "Is drawing two cards from a deck without replacing the first card an example of independent or dependent events?",
             "options": [
               "Neither independent nor dependent",
-              "A concept unrelated to probability",
+              "Both",
               "Independent",
               "Dependent"
             ],
@@ -10144,7 +10144,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does removing a card from a deck without replacing it change the probability of the next draw?",
             "options": [
-              "This concept has no connection to probability",
+              "Each card always has a 1/52 chance regardless of earlier draws",
               "The deck always has the exact same number of cards no matter what",
               "Removing a card never affects the probability of future draws",
               "There are fewer total cards left, so the chances for each remaining card change"
@@ -10177,7 +10177,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Remains relatively stable, fusing hydrogen into helium",
               "Immediately collapses with no stable phase",
-              "Has no connection to nuclear fusion",
+              "Fuses helium into carbon throughout this entire phase",
               "Stops producing any energy"
             ],
             "answer": 0
@@ -10186,7 +10186,7 @@ const curriculum: DayContent[] = [
             "q": "A supernova is best described as ___.",
             "options": [
               "A type of planet",
-              "An event unrelated to stars",
+              "A collision between two planets in the same solar system",
               "A massive, dramatic explosion marking the end of certain stars’ life cycles",
               "The very beginning of a star’s formation"
             ],
@@ -10208,7 +10208,7 @@ const curriculum: DayContent[] = [
               "This research has no scientific value",
               "Stars have no identifiable life cycle",
               "It helps explain the origins and eventual fates of stars, including our own Sun",
-              "Studying star life cycles has no connection to astronomy"
+              "It shows that all stars last the same length of time and end the same way"
             ],
             "answer": 2
           }
@@ -10259,7 +10259,7 @@ const curriculum: DayContent[] = [
               "It established a shared international standard for basic human rights",
               "It was created before the United Nations existed",
               "It applies to no countries at all",
-              "It has no connection to international law or standards"
+              "It was written only for the countries that won World War II"
             ],
             "answer": 0
           },
@@ -10316,7 +10316,7 @@ const curriculum: DayContent[] = [
               "A statement with no clear position",
               "A clear claim supported by specific evidence and reasoning",
               "A vague statement with no supporting evidence",
-              "An argument unrelated to the debate topic"
+              "An opinion based only on the speaker's feelings"
             ],
             "answer": 1
           },
@@ -10324,8 +10324,8 @@ const curriculum: DayContent[] = [
             "q": "Why might a debate speech use confident, clear delivery in addition to strong content?",
             "options": [
               "Content is the only factor that matters in a debate",
-              "Confidence has no connection to persuasion",
-              "Delivery has no effect on how a speech is received",
+              "Speaking confidently replaces the need for evidence",
+              "Delivery only matters in written essays",
               "Delivery can affect how persuasive and credible the argument seems to an audience"
             ],
             "answer": 3
@@ -10333,9 +10333,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A strong conclusion in a debate speech should ___.",
             "options": [
-              "Contain no connection to the rest of the speech",
+              "Repeat the introduction word for word",
               "Undermine the speaker’s own argument",
-              "Introduce a brand new, unrelated topic",
+              "Focus only on the opponent's weaknesses and ignore the speaker's position",
               "Reinforce the speaker’s position and its key supporting points"
             ],
             "answer": 3
@@ -10426,7 +10426,7 @@ const curriculum: DayContent[] = [
             "q": "A composite material is formed by ___.",
             "options": [
               "Combining two or more different materials",
-              "A process unrelated to material combination",
+              "Melting a single material and cooling it quickly",
               "Removing all materials from a substance",
               "Using only a single, unmixed material"
             ],
@@ -10446,7 +10446,7 @@ const curriculum: DayContent[] = [
             "q": "Why might engineers use composite materials instead of a single material?",
             "options": [
               "Composite materials are never used in real engineering",
-              "Combining materials has no effect on their properties",
+              "Mixing materials changes their atoms into a single new element",
               "Composites always have worse properties than single materials",
               "Composites can combine the beneficial properties of multiple materials"
             ],
@@ -10476,7 +10476,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Indigenous rights movements in Canada have advocated for issues such as ___.",
             "options": [
-              "Issues unrelated to Indigenous communities",
+              "Official bilingualism across the country",
               "Nothing of significance",
               "Land rights and self-government",
               "The elimination of all Indigenous rights"
@@ -10497,8 +10497,8 @@ const curriculum: DayContent[] = [
             "q": "Why have Indigenous rights movements been important in Canadian history?",
             "options": [
               "They have brought attention to important issues of justice, land, and self-determination",
-              "These movements have had no impact on Canadian society",
-              "Rights movements have no connection to treaty agreements",
+              "They led to the end of the Indian Act in the 1970s",
+              "They resulted in the cancellation of all historic treaties",
               "Indigenous rights have never been a topic of discussion"
             ],
             "answer": 0
@@ -10507,7 +10507,7 @@ const curriculum: DayContent[] = [
             "q": "Self-government, as discussed in Indigenous rights movements, refers to ___.",
             "options": [
               "A community’s authority to govern its own affairs",
-              "A concept unrelated to Indigenous communities",
+              "Authority given to the provinces to govern Indigenous communities",
               "Complete removal of any community authority",
               "Government control with no Indigenous involvement"
             ],
@@ -10517,7 +10517,7 @@ const curriculum: DayContent[] = [
             "q": "Learning about Indigenous rights movements helps students understand ___.",
             "options": [
               "Ongoing efforts toward justice and reconciliation in Canada",
-              "That these issues have no relevance today",
+              "That land rights were settled completely in the 1800s",
               "That rights movements only occurred outside Canada",
               "That Indigenous communities have no history of advocacy"
             ],
@@ -10566,7 +10566,7 @@ const curriculum: DayContent[] = [
               "It makes sentences more confusing to read",
               "It creates clarity, balance, and rhythm in sentences",
               "It should always be avoided in formal writing",
-              "Parallel structure has no effect on writing quality"
+              "It prevents writers from using lists"
             ],
             "answer": 1
           },
@@ -10678,14 +10678,14 @@ const curriculum: DayContent[] = [
               "Completely unchanged",
               "Higher",
               "Lower",
-              "Unrelated to carbon dioxide levels"
+              "Fluctuating wildly with no overall trend"
             ],
             "answer": 2
           },
           {
             "q": "Which type of marine organism is especially at risk from ocean acidification?",
             "options": [
-              "Organisms with no connection to ocean chemistry",
+              "Large mammals like whales, since they breathe air",
               "Organisms unaffected by any pH changes",
               "Shell-forming organisms, like coral and shellfish",
               "Only organisms living entirely on land"
@@ -10696,9 +10696,9 @@ const curriculum: DayContent[] = [
             "q": "Why might rising carbon dioxide emissions contribute to ocean acidification?",
             "options": [
               "Increased atmospheric carbon dioxide leads to more being absorbed by ocean water",
-              "Carbon dioxide emissions have no connection to ocean chemistry",
+              "Carbon dioxide dissolves in seawater and makes it more basic",
               "The ocean never absorbs any atmospheric gases",
-              "Ocean pH is entirely unrelated to atmospheric conditions"
+              "Ocean pH is determined only by the amount of rainfall in the region"
             ],
             "answer": 0
           },
@@ -10707,8 +10707,8 @@ const curriculum: DayContent[] = [
             "options": [
               "It can significantly disrupt marine ecosystems and the organisms that depend on them",
               "Marine ecosystems are unaffected by changes in ocean chemistry",
-              "Ocean acidification has no effect on marine life",
-              "This issue has no connection to environmental science"
+              "It only affects the colour of the water, not the organisms in it",
+              "It mainly affects the height of ocean tides and waves"
             ],
             "answer": 0
           }
@@ -10832,7 +10832,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful to consider both denotation and connotation when analyzing a text?",
             "options": [
-              "Denotation and connotation are unrelated to meaning",
+              "Connotation only matters in poetry, not in prose",
               "Only denotation ever matters when reading a text",
               "A word's emotional associations can shape meaning just as much as its literal definition",
               "Connotation should always be ignored by careful readers"
@@ -10873,7 +10873,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it important to remember that correlation does not necessarily imply causation?",
             "options": [
-              "This distinction has no relevance to interpreting data",
+              "Causation can only be shown using a scatter plot",
               "Correlation and causation always mean exactly the same thing",
               "Causation can be assumed whenever a correlation exists",
               "Two variables might be related without one actually causing the other"
@@ -10895,7 +10895,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Researchers should never analyze relationships between variables",
               "Correlation always proves causation with no further investigation needed",
-              "Causation is irrelevant to interpreting any data",
+              "A strong correlation guarantees the sample was chosen randomly",
               "Other factors might explain the relationship, requiring further investigation"
             ],
             "answer": 3
@@ -10917,14 +10917,14 @@ const curriculum: DayContent[] = [
               "An acid",
               "Neutral",
               "A base",
-              "A term unrelated to the pH scale"
+              "A salt"
             ],
             "answer": 0
           },
           {
             "q": "On the pH scale, a substance with a pH above 7 is considered ___.",
             "options": [
-              "A term unrelated to the pH scale",
+              "A salt",
               "A base",
               "An acid",
               "Neutral"
@@ -10935,7 +10935,7 @@ const curriculum: DayContent[] = [
             "q": "A substance with a pH of exactly 7 is considered ___.",
             "options": [
               "A strong acid",
-              "A term unrelated to the pH scale",
+              "A weak acid",
               "A strong base",
               "Neutral"
             ],
@@ -10947,14 +10947,14 @@ const curriculum: DayContent[] = [
               "Pure water",
               "Lemon juice",
               "Baking soda",
-              "A substance unrelated to the pH scale"
+              "Bleach"
             ],
             "answer": 1
           },
           {
             "q": "Why is it useful to know the pH of a substance?",
             "options": [
-              "A reason unrelated to chemistry",
+              "It tells you how hot or cold the substance is",
               "pH only applies to solid substances, never liquids",
               "The pH scale provides no useful information about a substance",
               "It helps identify whether the substance is acidic, basic, or neutral, and how it may react with other materials"
@@ -11004,7 +11004,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do historians study the fall of the Roman Empire?",
             "options": [
-              "It has no connection to later European history",
+              "It marked the start of the Industrial Revolution in Europe",
               "This event has no historical significance",
               "The Roman Empire never actually existed",
               "To understand the causes behind the decline of a major historical civilization"
@@ -11042,7 +11042,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Real historical settings or events with fictional characters and plots",
               "Only fictional worlds with no historical basis at all",
-              "Elements unrelated to any real time period",
+              "Only real historical figures with no invented characters",
               "Only completely factual accounts with no fictional elements"
             ],
             "answer": 0
@@ -11073,7 +11073,7 @@ const curriculum: DayContent[] = [
               "A completely fictional planet with no historical basis",
               "A real historical event or setting used as the story’s backdrop",
               "An event that never occurred in any time period",
-              "A setting unrelated to any real historical era"
+              "A list of dates copied from a textbook with no story"
             ],
             "answer": 1
           },
@@ -11162,8 +11162,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Forensic science applies scientific methods to ___.",
             "options": [
-              "Only artistic creation, with no connection to science",
-              "A field entirely unrelated to investigation",
+              "Analyze fossils to study ancient life",
+              "Study how animals behave in the wild",
               "Investigate crimes and support legal processes",
               "Predicting weather patterns"
             ],
@@ -11175,7 +11175,7 @@ const curriculum: DayContent[] = [
               "Fingerprints",
               "Only witness opinions, with no physical evidence",
               "Nothing at all, since forensic science analyzes no physical evidence",
-              "A completely unrelated object with no connection to an investigation"
+              "Rainfall measurements"
             ],
             "answer": 0
           },
@@ -11183,7 +11183,7 @@ const curriculum: DayContent[] = [
             "q": "Why is following a careful, systematic scientific method important in forensic investigations?",
             "options": [
               "Forensic evidence never needs careful analysis",
-              "Scientific methods have no connection to legal investigations",
+              "It guarantees that suspects will be found guilty",
               "A systematic method has no importance in forensic science",
               "It helps ensure evidence is reliable and conclusions are well-supported"
             ],
@@ -11192,7 +11192,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Chemical testing in forensic science might be used to ___.",
             "options": [
-              "Have no connection to identifying substances",
+              "Measure the speed of a suspect's vehicle",
               "Identify unknown substances found at a scene",
               "Determine weather conditions only",
               "Replace the need for any physical evidence"
@@ -11202,7 +11202,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is forensic science considered an interdisciplinary field?",
             "options": [
-              "Forensic science has no connection to other scientific fields",
+              "It is based entirely on physics and uses no knowledge of biology or chemistry",
               "It combines knowledge from biology, chemistry, and other sciences with investigative processes",
               "It relies on a single area of science with no other connections",
               "This field only involves legal knowledge, with no science involved"
@@ -11245,7 +11245,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A completely unrelated culture",
               "No historical traditions at all",
-              "Only traditions unrelated to Rome or Greece",
+              "Only Persian and Egyptian traditions",
               "Roman and Greek traditions"
             ],
             "answer": 3
@@ -11266,7 +11266,7 @@ const curriculum: DayContent[] = [
               "It helped preserve and pass on classical knowledge and culture for centuries",
               "It existed only in legend, not reality",
               "It contributed nothing to world history",
-              "It had no connection to Roman or Greek history"
+              "It built the first empire in the Americas"
             ],
             "answer": 0
           }
@@ -11310,7 +11310,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a multi-genre project offer a richer understanding of a topic than a single essay?",
             "options": [
               "Multiple genres always make a topic more confusing",
-              "Genre variety has no effect on how a topic is understood",
+              "Using several genres makes the topic seem less important",
               "A single essay always provides a more complete understanding",
               "Different genres can highlight different perspectives and emotional dimensions of the topic"
             ],
@@ -11332,7 +11332,7 @@ const curriculum: DayContent[] = [
               "It only requires writing in a single form with no variation",
               "It requires adapting tone, structure, and style across multiple different forms of writing",
               "Multi-genre projects require no creative thinking",
-              "This type of project has no connection to different writing conventions"
+              "Each form must be written in exactly the same tone and structure"
             ],
             "answer": 1
           }
@@ -11413,7 +11413,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Radar and satellites",
               "Tools that provide no useful information",
-              "A single unrelated tool with no connection to weather",
+              "Seismographs and telescopes",
               "Only guesswork with no data"
             ],
             "answer": 0
@@ -11434,7 +11434,7 @@ const curriculum: DayContent[] = [
               "Simulate and forecast future weather conditions",
               "Replace the need for any weather data",
               "Predict only past weather events",
-              "Have no connection to forecasting"
+              "Record the exact amount of rain that fell yesterday"
             ],
             "answer": 0
           },
@@ -11442,7 +11442,7 @@ const curriculum: DayContent[] = [
             "q": "Why is early warning important when severe weather, like a tornado, is predicted?",
             "options": [
               "Early warnings have no benefit for community safety",
-              "Preparation has no connection to severe weather warnings",
+              "Warnings prevent tornadoes from forming",
               "Severe weather events cannot be predicted in advance",
               "It can give people time to take safety precautions"
             ],
@@ -11451,7 +11451,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is meteorology considered a valuable scientific field?",
             "options": [
-              "This field has no connection to public safety",
+              "It lets scientists control the weather to prevent storms",
               "Meteorology has no real-world benefits",
               "It helps communities understand and prepare for potentially dangerous weather conditions",
               "Weather prediction has no scientific basis"
@@ -11568,7 +11568,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Symbolism in a political cartoon might involve using ___.",
             "options": [
-              "Images unrelated to any political or social issue",
+              "Images drawn only to decorate the page",
               "A specific image to represent a larger idea or group",
               "No connection between images and ideas",
               "Only random, meaningless images"
@@ -11579,7 +11579,7 @@ const curriculum: DayContent[] = [
             "q": "Why are political cartoons considered a valuable historical and media literacy resource?",
             "options": [
               "They offer insight into public opinion and commentary on issues from a specific time period",
-              "These cartoons have no connection to public opinion",
+              "They record the exact facts of events without any opinion",
               "Political cartoons provide no historical insight",
               "This type of media has no educational value"
             ],
@@ -11602,7 +11602,7 @@ const curriculum: DayContent[] = [
               "Only whole numbers with no decimals",
               "The exact colour of a measured object",
               "The precision of a measurement",
-              "A number with no connection to measurement"
+              "The number of times a measurement was repeated"
             ],
             "answer": 2
           },
@@ -11620,9 +11620,9 @@ const curriculum: DayContent[] = [
             "q": "Why is it important to consider significant figures when reporting a measurement?",
             "options": [
               "Reporting extra digits always makes a measurement more accurate",
-              "Precision has no relevance to scientific measurement",
+              "Rounding a result to fewer digits always makes it wrong",
               "It reflects the actual precision of the measuring tool or method used",
-              "Significant figures have no connection to measurement accuracy"
+              "Significant figures only apply to measurements in metres"
             ],
             "answer": 2
           },
@@ -11632,7 +11632,7 @@ const curriculum: DayContent[] = [
               "Improve the actual precision of the measurement",
               "Falsely suggest a level of accuracy that was not actually achieved",
               "Always be considered more accurate than necessary",
-              "Have no effect on how the measurement is interpreted"
+              "Make the measurement easier to round correctly"
             ],
             "answer": 1
           },
@@ -11642,7 +11642,7 @@ const curriculum: DayContent[] = [
               "Precision is never a consideration in scientific work",
               "This concept only applies to non-scientific measurements",
               "To ensure their results honestly reflect the precision of their original data",
-              "Significant figures have no role in scientific calculations"
+              "Scientists use them to decide which units to convert to"
             ],
             "answer": 2
           }
@@ -11660,8 +11660,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Artificial intelligence refers to ___.",
             "options": [
-              "A system with no connection to computing",
-              "A concept unrelated to technology",
+              "A branch of biology that studies the human brain",
+              "Any machine that moves, whether or not it has a computer",
               "Computer systems designed to perform tasks requiring human-like intelligence",
               "Only physical robots, with no software involved"
             ],
@@ -11672,7 +11672,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Remain completely unchanged regardless of new information",
               "Replace the need for any programming",
-              "Function with no connection to data at all",
+              "Learn by physically changing their hardware",
               "Improve their performance through exposure to data"
             ],
             "answer": 3
@@ -11680,9 +11680,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Which is an example of a real-world application of artificial intelligence?",
             "options": [
-              "An object unrelated to any form of intelligence",
+              "A calculator that adds numbers using fixed rules",
               "A device that cannot process any information",
-              "A tool with no connection to computing technology",
+              "A microwave timer that counts down from a set time",
               "A virtual assistant that responds to voice commands"
             ],
             "answer": 3
@@ -11691,7 +11691,7 @@ const curriculum: DayContent[] = [
             "q": "Why might machine learning models require large amounts of data?",
             "options": [
               "Machine learning models never require any data",
-              "Data has no connection to how machine learning models function",
+              "Data is only needed to store the model's finished results",
               "Large amounts of data always make a model less accurate",
               "More data can help the model identify patterns and improve accuracy"
             ],
@@ -11702,7 +11702,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Artificial intelligence has no real-world relevance",
               "AI is used exclusively in fictional stories",
-              "This technology has no connection to modern life",
+              "AI is only used by scientists working in space research",
               "AI technology is being used across many industries and everyday applications"
             ],
             "answer": 3
@@ -11752,7 +11752,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only after",
               "At the exact same time as",
-              "They had no connection to European contact at all",
+              "Several centuries after",
               "Before"
             ],
             "answer": 3
@@ -11908,7 +11908,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Sustainable agriculture aims to ___.",
             "options": [
-              "Have no connection to environmental impact",
+              "Replace all farming with synthetic foods made in factories",
               "Ignore food production entirely",
               "Increase food production efficiency while minimizing environmental impact",
               "Maximize environmental harm with no consideration of efficiency"
@@ -11921,7 +11921,7 @@ const curriculum: DayContent[] = [
               "In stacked layers, often indoors, to maximize limited space",
               "Only in traditional, expansive outdoor fields",
               "Without using any technology",
-              "In a method with no connection to space efficiency"
+              "In deep soil beds that require large areas of flat land"
             ],
             "answer": 0
           },
@@ -11938,10 +11938,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might sustainable agriculture practices be increasingly important as global population grows?",
             "options": [
-              "Sustainable practices have no connection to meeting food demands",
+              "They allow farmers to use more land without considering soil health",
               "They can help meet increasing food demands while protecting environmental resources",
-              "Population growth has no effect on agricultural practices",
-              "Environmental impact is unrelated to food production methods"
+              "Population growth reduces the amount of food people need",
+              "Food production methods only affect farm profits, not the environment"
             ],
             "answer": 1
           },
@@ -11949,7 +11949,7 @@ const curriculum: DayContent[] = [
             "q": "Why is food technology considered an important area of scientific innovation?",
             "options": [
               "It can help address challenges related to food security and environmental sustainability",
-              "This area of innovation has no connection to agriculture",
+              "It focuses only on developing new flavours for restaurants",
               "Food production has no relationship to technological advancement",
               "Food technology has no real-world significance"
             ],
@@ -11999,7 +11999,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do historians study the effects of colonialism in Africa?",
             "options": [
-              "It has no connection to modern African nations",
+              "It explains why Africa had no kingdoms before 1500",
               "Colonialism had no lasting effects",
               "Colonialism never occurred in Africa",
               "To understand its long-lasting impact on the continent’s societies and politics"
@@ -12011,7 +12011,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Borders that perfectly matched every community with no issues",
               "Borders that were immediately erased after colonization",
-              "No effect on modern nations at all",
+              "Uniform languages across all modern African countries",
               "Borders that sometimes divided or combined communities in ways that caused later challenges"
             ],
             "answer": 3
@@ -12037,7 +12037,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Someone else’s beliefs and values",
               "Core beliefs and values",
-              "A completely unrelated topic",
+              "A step-by-step guide to completing a task",
               "A summary of unrelated facts"
             ],
             "answer": 1
@@ -12046,7 +12046,7 @@ const curriculum: DayContent[] = [
             "q": "A manifesto is often written with a ___ voice.",
             "options": [
               "Strong, declarative",
-              "A voice with no connection to the writer",
+              "Detached, objective",
               "Completely neutral with no personal viewpoint",
               "Extremely vague and uncertain"
             ],
@@ -12076,8 +12076,8 @@ const curriculum: DayContent[] = [
             "q": "Why might writing a personal manifesto help a writer reflect on their own identity?",
             "options": [
               "It requires clearly articulating their values and what matters most to them",
-              "Personal identity has no connection to this type of writing",
-              "This type of writing has no connection to self-reflection",
+              "It focuses on summarizing facts about historical events",
+              "It involves copying the values of famous leaders",
               "A manifesto never requires any personal reflection"
             ],
             "answer": 0
@@ -12172,7 +12172,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Moves from one object or place to another",
               "Is destroyed completely with no trace",
-              "A concept unrelated to energy",
+              "Is converted into matter whenever it moves",
               "Never moves or changes in any way"
             ],
             "answer": 0
@@ -12182,7 +12182,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Cannot be created or destroyed, only transformed or transferred",
               "Is constantly being created out of nothing",
-              "A concept unrelated to conservation of energy",
+              "Increases whenever a system speeds up",
               "Disappears completely once it is used"
             ],
             "answer": 0
@@ -12192,7 +12192,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Heat moving from a hot cup of tea into the surrounding air",
               "An object that has no energy at all",
-              "A concept unrelated to energy transfer",
+              "A battery sitting unused on a shelf",
               "A rock sitting perfectly still with no changes"
             ],
             "answer": 0
@@ -12202,7 +12202,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Energy transfer",
               "The creation of new energy from nothing",
-              "A concept unrelated to energy",
+              "Energy being created by friction",
               "The destruction of energy"
             ],
             "answer": 0
@@ -12210,10 +12210,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the law of conservation of energy important in science?",
             "options": [
-              "A reason unrelated to physics",
+              "It proves that machines can be built to run forever without fuel",
               "Energy is never conserved in any system",
               "It helps explain how energy moves and changes form without ever disappearing",
-              "This law has no connection to how energy behaves"
+              "It lets scientists predict that energy gets used up in every reaction"
             ],
             "answer": 2
           }
@@ -12271,9 +12271,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is studying decolonization important to understanding the modern world?",
             "options": [
-              "Decolonization has no connection to today’s world",
+              "It explains why most colonies were created in the 20th century",
               "This process only affected ancient history",
-              "It has no relevance to modern international relations",
+              "It was the main cause of the First World War",
               "Many current nations and borders were shaped by this 20th-century process"
             ],
             "answer": 3
@@ -12299,7 +12299,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only random, unrelated events with no structure",
               "No identifiable structure of any kind",
-              "A structure unrelated to how a story unfolds",
+              "Only the author's biography and publication date",
               "Chronological order, flashback, or parallel storylines"
             ],
             "answer": 3
@@ -12309,7 +12309,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Parallel storylines always confuse readers with no purpose",
               "To show connections or contrasts between different characters or events",
-              "This structure has no effect on a story’s meaning",
+              "To reduce the number of characters needed",
               "Parallel storylines are never used in literature"
             ],
             "answer": 1
@@ -12320,7 +12320,7 @@ const curriculum: DayContent[] = [
               "Only in reverse order, from end to beginning",
               "In a completely random order",
               "In the order they occur in time",
-              "With no connection to time at all"
+              "By jumping between past and future in each chapter"
             ],
             "answer": 2
           },
@@ -12329,8 +12329,8 @@ const curriculum: DayContent[] = [
             "options": [
               "All stories use identical structures regardless of the author’s choices",
               "Structure significantly shapes how readers understand and experience a story",
-              "This skill has no connection to reading comprehension",
-              "Structural choices have no effect on how a story is understood"
+              "Structure matters only for poems, not novels",
+              "Structure only affects how long a story is"
             ],
             "answer": 1
           },
@@ -12338,7 +12338,7 @@ const curriculum: DayContent[] = [
             "q": "Which is an example of how structure might affect a reader’s understanding of a mystery story?",
             "options": [
               "Presenting all information immediately with no structural choices",
-              "Structure has no effect on how mystery stories are understood",
+              "Structure only affects the length of a mystery's chapters",
               "Withholding key information until later in the story to build suspense",
               "Mystery stories never use any particular structural techniques"
             ],
@@ -12449,10 +12449,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Forensic science applies scientific methods to ___.",
             "options": [
-              "Only artistic creation, with no connection to science",
+              "Studying the behaviour of animals in the wild",
               "Investigate crimes and support legal processes",
               "Predicting weather patterns",
-              "A field entirely unrelated to investigation"
+              "Analyzing rock layers to date ancient fossils"
             ],
             "answer": 1
           },
@@ -12460,7 +12460,7 @@ const curriculum: DayContent[] = [
             "q": "Machine learning allows computer systems to ___.",
             "options": [
               "Improve their performance through exposure to data",
-              "Function with no connection to data at all",
+              "Learn by physically rebuilding their hardware",
               "Replace the need for any programming",
               "Remain completely unchanged regardless of new information"
             ],
@@ -12470,7 +12470,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it valuable to review biotechnology, environmental science, and emerging technology together?",
             "options": [
               "Review provides no benefit in science",
-              "These topics are entirely unrelated to each other",
+              "They all focus on the same single scientific concept",
               "Each topic must always be studied in isolation",
               "It helps connect and reinforce related science concepts learned across recent lessons"
             ],
@@ -12535,7 +12535,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No cooperation between countries",
               "International cooperation to address its causes and effects",
-              "No connection to international relations",
+              "Only military alliances such as NATO",
               "Action from only a single country"
             ],
             "answer": 1
@@ -12543,7 +12543,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful to review world empires and global challenges together?",
             "options": [
-              "Each topic must be studied with no connection to the others",
+              "Both topics focus on a single century",
               "Review is never useful in social studies",
               "It helps reinforce how historical patterns of power and cooperation connect to challenges today",
               "These topics have no meaningful connections"
@@ -12569,7 +12569,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Symbolism is a literary device in which ___.",
             "options": [
-              "A concept unrelated to literary devices",
+              "Two unlike things are compared using like or as",
               "An object or image represents a deeper idea beyond its literal meaning",
               "Every word in a text is taken only at face value",
               "A story contains no hidden or deeper meaning at all"
@@ -12579,7 +12579,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which is an example of a common symbol in literature?",
             "options": [
-              "A concept unrelated to symbolism",
+              "A narrator addressing the reader directly",
               "A character’s literal grocery list",
               "A dove representing peace",
               "A footnote citing a source"
@@ -12591,7 +12591,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Authors never use symbolism for any purpose",
               "Symbolism always makes a text less meaningful",
-              "A reason unrelated to literary analysis",
+              "It makes the text shorter and easier to summarize",
               "It allows readers to engage more deeply by uncovering meaning themselves"
             ],
             "answer": 3
@@ -12601,7 +12601,7 @@ const curriculum: DayContent[] = [
             "options": [
               "By noticing an object or image that recurs or is given special emphasis",
               "Symbols never repeat or receive any special emphasis",
-              "A concept unrelated to identifying symbols",
+              "By checking whether the word appears in a dictionary",
               "Symbols are always explicitly labelled by the author"
             ],
             "answer": 0
@@ -12610,9 +12610,9 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding symbolism useful when analyzing a novel’s themes?",
             "options": [
               "Symbols often reinforce or reveal a text’s central themes",
-              "Themes and symbols are always completely unrelated to each other",
-              "Symbolism has no connection to a text’s themes",
-              "A reason unrelated to reading comprehension"
+              "Symbols replace a theme rather than support it",
+              "Symbolism only shows how a setting looks",
+              "It helps readers memorize the order of the plot"
             ],
             "answer": 0
           }
@@ -12694,7 +12694,7 @@ const curriculum: DayContent[] = [
               "The atmosphere circulates around the planet",
               "Earth’s crust never moves or changes at all",
               "Earth’s crust is divided into large plates that slowly move",
-              "A concept unrelated to plate tectonics"
+              "Ocean tides rise and fall due to the Moon's gravity"
             ],
             "answer": 2
           },
@@ -12702,7 +12702,7 @@ const curriculum: DayContent[] = [
             "q": "Earthquakes are typically caused by ___.",
             "options": [
               "Changes in ocean temperature alone",
-              "A cause unrelated to earthquakes",
+              "Heavy rainfall soaking into rock layers",
               "The rotation of Earth on its axis",
               "The sudden release of built-up stress along plate boundaries"
             ],
@@ -12712,18 +12712,18 @@ const curriculum: DayContent[] = [
             "q": "A fault line is best described as ___.",
             "options": [
               "A fracture in Earth’s crust where movement can occur",
-              "A region with no connection to earthquakes",
+              "A boundary between Earth's crust and mantle",
               "An area where no tectonic activity ever occurs",
-              "A concept unrelated to plate tectonics"
+              "A crack in the ocean floor produced only by river erosion"
             ],
             "answer": 0
           },
           {
             "q": "Why do earthquakes often occur near plate boundaries?",
             "options": [
-              "Plate boundaries have no connection to earthquake activity",
+              "Plate boundaries are where the crust is thickest and most stable",
               "Stress builds up as plates grind, collide, or slide past one another",
-              "A reason unrelated to plate tectonics",
+              "Volcanic eruptions always occur first and crack the crust",
               "Earthquakes only occur far away from any plate boundary"
             ],
             "answer": 1
@@ -12732,9 +12732,9 @@ const curriculum: DayContent[] = [
             "q": "Why do scientists study plate tectonics when assessing earthquake risk?",
             "options": [
               "Earthquake risk cannot be assessed using any scientific method",
-              "Plate tectonics has no connection to earthquake risk",
+              "Plate movement only affects ocean currents, not the land",
               "It helps identify regions where stress is likely to build and be released",
-              "A reason unrelated to earth science"
+              "It helps determine the exact day and time of the next earthquake"
             ],
             "answer": 2
           }
@@ -12754,7 +12754,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Indigenous peoples from the Prairies",
               "British settlers from Upper Canada",
-              "A group unrelated to the Acadian Expulsion",
+              "Loyalist settlers from the American colonies",
               "French-speaking Acadians from their homes in the Maritimes"
             ],
             "answer": 3
@@ -12765,7 +12765,7 @@ const curriculum: DayContent[] = [
               "The British",
               "The government of the United States",
               "The French government",
-              "A group unrelated to the Acadian Expulsion"
+              "The Hudson's Bay Company"
             ],
             "answer": 0
           },
@@ -12773,7 +12773,7 @@ const curriculum: DayContent[] = [
             "q": "The Acadian Expulsion took place primarily during ___.",
             "options": [
               "The mid-1700s",
-              "A time period unrelated to the Acadian Expulsion",
+              "The early 1600s",
               "The late 1800s",
               "The early 1900s"
             ],
@@ -12782,8 +12782,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why were Acadians expelled from their homes, according to British authorities at the time?",
             "options": [
-              "The expulsion had no connection to any conflict",
-              "A reason unrelated to the Acadian Expulsion",
+              "To make room for Loyalist settlers arriving from the United States",
+              "Disputes over taxes owed to the British Crown",
               "Concerns over Acadian loyalty during conflict with France",
               "Acadians had voluntarily requested to leave the region"
             ],
@@ -12794,7 +12794,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The event had no lasting impact on any communities",
               "It is remembered only as a minor and forgettable event",
-              "A reason unrelated to its historical significance",
+              "It ended the Seven Years' War in North America",
               "It caused immense suffering and permanently reshaped Acadian communities"
             ],
             "answer": 3
@@ -12821,7 +12821,7 @@ const curriculum: DayContent[] = [
               "Never appears in the sentence at all",
               "Receives the action",
               "Performs the action",
-              "A concept unrelated to voice"
+              "Is always the object of a preposition"
             ],
             "answer": 2
           },
@@ -12831,7 +12831,7 @@ const curriculum: DayContent[] = [
               "Receives the action",
               "Always performs multiple actions at once",
               "Performs the action",
-              "A concept unrelated to voice"
+              "Is always a plural noun"
             ],
             "answer": 0
           },
@@ -12840,7 +12840,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The dog chased the ball.",
               "The ball was chased by the dog.",
-              "A sentence unrelated to voice",
+              "The ball is being chased by the dog.",
               "The ball has been chased."
             ],
             "answer": 0
@@ -12848,7 +12848,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which sentence is written in passive voice?",
             "options": [
-              "A sentence unrelated to voice",
+              "The committee will write the report.",
               "The committee wrote the report.",
               "The report was written by the committee.",
               "The committee is writing the report."
@@ -12860,7 +12860,7 @@ const curriculum: DayContent[] = [
             "options": [
               "To emphasize the action or result rather than who performed it",
               "Passive voice is never used for any reason",
-              "A reason unrelated to grammar",
+              "To show the subject is performing the action more strongly",
               "Active voice always accomplishes the exact same purpose as passive voice"
             ],
             "answer": 0
@@ -12942,7 +12942,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Layers of sediment are compressed over time",
               "Existing rock is transformed by heat and pressure alone",
-              "A process unrelated to igneous rock",
+              "Rock is weathered and broken into small fragments by wind and water",
               "Molten rock cools and solidifies"
             ],
             "answer": 3
@@ -12953,7 +12953,7 @@ const curriculum: DayContent[] = [
               "Rock is melted completely into magma",
               "Layers of sediment are compressed and cemented together over time",
               "Molten rock cools and solidifies",
-              "A process unrelated to sedimentary rock"
+              "Existing rock is changed by heat and pressure without melting"
             ],
             "answer": 1
           },
@@ -12961,7 +12961,7 @@ const curriculum: DayContent[] = [
             "q": "Metamorphic rock forms when ___.",
             "options": [
               "Existing rock is transformed by intense heat and pressure",
-              "A process unrelated to metamorphic rock",
+              "Layers of sediment are cemented together over time",
               "Molten rock cools quickly at Earth’s surface",
               "Sediment is deposited with no further change"
             ],
@@ -12971,7 +12971,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the rock cycle described as continuous rather than one-directional?",
             "options": [
               "The rock cycle only occurs once in Earth’s history",
-              "A reason unrelated to the rock cycle",
+              "Rocks only change type when they are melted by volcanoes",
               "Rocks can transform from one type to another repeatedly over long periods of time",
               "Once formed, a rock can never become a different type of rock"
             ],
@@ -12981,7 +12981,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these could cause sedimentary rock to become metamorphic rock?",
             "options": [
               "Simple exposure to rainfall at the surface",
-              "A process unrelated to the rock cycle",
+              "Wind and water breaking it into smaller pieces",
               "Intense heat and pressure deep within Earth’s crust",
               "Cooling of molten rock at the surface"
             ],
@@ -13004,14 +13004,14 @@ const curriculum: DayContent[] = [
               "Western Canada",
               "Upper and Lower Canada",
               "The Maritime colonies",
-              "A region unrelated to the Rebellions of 1837-38"
+              "Newfoundland and Labrador"
             ],
             "answer": 1
           },
           {
             "q": "A major cause of the Rebellions of 1837-38 was ___.",
             "options": [
-              "A cause unrelated to the Rebellions of 1837-38",
+              "Anger over a new tax on imported tea",
               "A dispute over territory with the United States",
               "Demands for greater political representation and reform",
               "A demand to expel all British colonial settlers immediately"
@@ -13022,7 +13022,7 @@ const curriculum: DayContent[] = [
             "q": "Which leader is closely associated with the rebellion in Upper Canada?",
             "options": [
               "William Lyon Mackenzie",
-              "A leader unrelated to the Rebellions of 1837-38",
+              "Joseph Howe",
               "John A. Macdonald",
               "George Brown"
             ],
@@ -13034,7 +13034,7 @@ const curriculum: DayContent[] = [
               "Louis-Joseph Papineau",
               "Robert Baldwin",
               "Wilfrid Laurier",
-              "A leader unrelated to the Rebellions of 1837-38"
+              "Egerton Ryerson"
             ],
             "answer": 0
           },
@@ -13043,7 +13043,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They immediately resulted in full independence for the colonies",
               "They had no lasting influence on Canadian political development",
-              "A reason unrelated to their historical significance",
+              "They created the Dominion of Canada in 1867",
               "They contributed to later reforms, including the movement toward responsible government"
             ],
             "answer": 3
@@ -13068,7 +13068,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An editorial or op-ed is written to ___.",
             "options": [
-              "A concept unrelated to this type of writing",
+              "Explain how to complete a task step by step",
               "Report only neutral facts with no opinion at all",
               "Tell a completely fictional story",
               "Present a writer’s opinion on a current issue"
@@ -13080,7 +13080,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only unsupported personal feelings",
               "Evidence and reasoning",
-              "A concept unrelated to editorials",
+              "Descriptions of fictional characters",
               "No support of any kind"
             ],
             "answer": 1
@@ -13091,7 +13091,7 @@ const curriculum: DayContent[] = [
               "To present only opposing viewpoints with no clear stance",
               "To avoid taking any position on an issue",
               "To persuade readers or prompt them to take action",
-              "A purpose unrelated to editorials"
+              "To describe a personal memory with no argument"
             ],
             "answer": 2
           },
@@ -13101,14 +13101,14 @@ const curriculum: DayContent[] = [
               "A private conversation with no public relevance",
               "A completely invented, fictional event",
               "A current issue affecting a community, such as a new local policy",
-              "A concept unrelated to op-eds"
+              "A product description for a store catalogue"
             ],
             "answer": 2
           },
           {
             "q": "Why might a writer address a counterargument in an editorial?",
             "options": [
-              "A reason unrelated to persuasive writing",
+              "To show the writer has not yet formed an opinion",
               "Editorials should never mention any other viewpoint",
               "It strengthens their argument by showing they have considered other viewpoints",
               "Addressing a counterargument always weakens an editorial"
@@ -13189,7 +13189,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does genetic engineering allow scientists to do?",
             "options": [
-              "A concept unrelated to biology",
+              "Change an organism's traits by altering its diet",
               "Only observe an organism from a distance",
               "Nothing at all related to genes",
               "Directly modify an organism’s genes"
@@ -13200,7 +13200,7 @@ const curriculum: DayContent[] = [
             "q": "Name one area where genetic engineering is used, such as agriculture or medicine.",
             "options": [
               "Agriculture",
-              "A concept unrelated to genetic engineering",
+              "Architecture",
               "Cooking recipes",
               "Weather forecasting"
             ],
@@ -13209,9 +13209,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Can genetic engineering be used to create desired traits in organisms?",
             "options": [
-              "No, genetic engineering has no connection to traits",
+              "No, genes can only be studied, not changed",
               "Traits can never be influenced by genetic engineering",
-              "A concept unrelated to genetic engineering",
+              "Only in bacteria, never in plants or animals",
               "Yes"
             ],
             "answer": 3
@@ -13221,7 +13221,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Genetic engineering never affects how a crop grows",
               "Crops can never be modified in any way",
-              "This concept has no connection to agriculture",
+              "It adds fertilizer to the plant's roots to prevent infection",
               "It can directly modify a plant’s genes to build in disease resistance"
             ],
             "answer": 3
@@ -13231,7 +13231,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No one has ever raised any questions about genetic engineering",
               "Changing genes can raise ethical and safety questions that need careful consideration",
-              "This concept has no relevance to science",
+              "It is based on theories that have been disproven",
               "Genetic engineering has no possible risks or considerations at all"
             ],
             "answer": 1
@@ -13252,7 +13252,7 @@ const curriculum: DayContent[] = [
             "q": "The Chinese Head Tax was a policy that required ___.",
             "options": [
               "Chinese immigrants to pay a fee to enter Canada",
-              "A policy unrelated to the Chinese Head Tax",
+              "Chinese immigrants to work without pay on the railway",
               "All immigrants entering Canada to pay an equal fee",
               "Chinese immigrants to receive free passage to Canada"
             ],
@@ -13264,7 +13264,7 @@ const curriculum: DayContent[] = [
               "Encouraged unrestricted immigration from every country",
               "Banned Chinese immigration to Canada",
               "Eliminated all restrictions on Chinese immigration",
-              "A policy unrelated to the Chinese Exclusion Act"
+              "Required Chinese immigrants to settle only in British Columbia"
             ],
             "answer": 1
           },
@@ -13274,7 +13274,7 @@ const curriculum: DayContent[] = [
               "Prejudice against Chinese immigrants and economic competition fears",
               "A shortage of workers led the government to welcome all immigrants equally",
               "These policies were requested by Chinese immigrant communities themselves",
-              "A reason unrelated to these policies"
+              "A plan to protect Chinese workers from dangerous jobs"
             ],
             "answer": 0
           },
@@ -13283,7 +13283,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Reinstated the same policy",
               "Never acknowledged or discussed it",
-              "A response unrelated to the Chinese Head Tax",
+              "Charged a smaller fee in its place",
               "Formally apologized"
             ],
             "answer": 3
@@ -13292,9 +13292,9 @@ const curriculum: DayContent[] = [
             "q": "Why is it important to study the history of the Chinese Head Tax and Exclusion Act?",
             "options": [
               "It highlights past discrimination and informs efforts toward a more inclusive Canada",
-              "A reason unrelated to social studies learning",
+              "It explains how the railway was financed",
               "These events never actually occurred in Canadian history",
-              "This history has no connection to understanding Canada today"
+              "It shows that Canada has always welcomed all immigrants equally"
             ],
             "answer": 0
           }
@@ -13320,7 +13320,7 @@ const curriculum: DayContent[] = [
               "A word’s literal dictionary definition",
               "A word with no meaning at all",
               "A word’s emotional association",
-              "A concept unrelated to word meaning"
+              "A word's grammatical part of speech"
             ],
             "answer": 0
           },
@@ -13329,7 +13329,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A word’s literal dictionary definition only",
               "The emotional or cultural association attached to a word",
-              "A concept unrelated to connotation",
+              "The way a word is pronounced",
               "A word that has no possible associations"
             ],
             "answer": 1
@@ -13339,7 +13339,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Determined",
               "Bossy",
-              "A word unrelated to this comparison",
+              "Pigheaded",
               "Rigid"
             ],
             "answer": 0
@@ -13350,7 +13350,7 @@ const curriculum: DayContent[] = [
               "Connotation never affects how a reader interprets a text",
               "To create a specific tone or emotional effect for the reader",
               "Denotation and connotation always mean exactly the same thing",
-              "A reason unrelated to word choice"
+              "To make sentences longer without changing their meaning"
             ],
             "answer": 1
           },
@@ -13359,7 +13359,7 @@ const curriculum: DayContent[] = [
             "options": [
               "“Run” and “jump”",
               "“Book” and “car”",
-              "A pair of words unrelated to this concept",
+              "“Quick” and “slow”",
               "“Slender” and “skinny”"
             ],
             "answer": 3
@@ -13378,7 +13378,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In direct variation, the relationship between x and y follows the form ___.",
             "options": [
-              "A form unrelated to direct variation",
+              "y = k/x",
               "y = kx",
               "y = k, a constant with no variable",
               "y = kx + b, where b is not zero"
@@ -13388,7 +13388,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The graph of a direct variation relationship always passes through ___.",
             "options": [
-              "A point unrelated to direct variation",
+              "The point (0, 1)",
               "The origin (0, 0)",
               "The point (1, 1) only",
               "A point that is never on the y-axis"
@@ -13400,7 +13400,7 @@ const curriculum: DayContent[] = [
             "options": [
               "y = kx + b, where b is not zero",
               "x = ky, with y as the independent variable",
-              "A form unrelated to partial variation",
+              "y = k/x + b, where b is not zero",
               "y = kx only, with no constant"
             ],
             "answer": 0
@@ -13408,7 +13408,7 @@ const curriculum: DayContent[] = [
           {
             "q": "If a taxi charges a flat fee plus a rate per kilometre, this relationship represents ___.",
             "options": [
-              "A relationship unrelated to variation",
+              "Inverse variation",
               "Partial variation",
               "Direct variation",
               "No variation at all"
@@ -13419,7 +13419,7 @@ const curriculum: DayContent[] = [
             "q": "Why does a partial variation graph not pass through the origin?",
             "options": [
               "Partial variation graphs always pass through the origin",
-              "A reason unrelated to partial variation",
+              "Because the line has a negative slope",
               "The variable x is never used in partial variation",
               "Because of the constant value, b, added to the equation"
             ],
@@ -13440,8 +13440,8 @@ const curriculum: DayContent[] = [
             "q": "In a series circuit, components are connected ___.",
             "options": [
               "Along multiple separate paths at once",
-              "With no connection to one another at all",
-              "A concept unrelated to series circuits",
+              "Along branches, with each component on its own separate path to the battery",
+              "In a loop where current divides equally at every component",
               "Along a single path, so current has only one route"
             ],
             "answer": 3
@@ -13452,14 +13452,14 @@ const curriculum: DayContent[] = [
               "With no complete path for current at all",
               "Along multiple paths, allowing current to flow through more than one route",
               "Along a single path only",
-              "A concept unrelated to parallel circuits"
+              "So that the current is the same through every component"
             ],
             "answer": 1
           },
           {
             "q": "If one bulb burns out in a series circuit, the rest of the circuit typically ___.",
             "options": [
-              "A result unrelated to series circuits",
+              "Continues to work, but only at half the brightness",
               "Continues working normally with no effect",
               "Becomes brighter than before",
               "Stops working, since the single path is broken"
@@ -13471,7 +13471,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Continues working, since other paths remain complete",
               "Becomes permanently damaged",
-              "A result unrelated to parallel circuits",
+              "Becomes dimmer because the current is shared among fewer bulbs",
               "Stops working entirely"
             ],
             "answer": 0
@@ -13480,7 +13480,7 @@ const curriculum: DayContent[] = [
             "q": "Why are household electrical systems typically wired in parallel rather than series?",
             "options": [
               "Parallel wiring provides no advantage over series wiring",
-              "A reason unrelated to circuits",
+              "Parallel circuits use less electricity overall than series circuits",
               "So that one device failing does not cause all other devices to lose power",
               "Series wiring is always safer for households"
             ],
@@ -13501,7 +13501,7 @@ const curriculum: DayContent[] = [
             "q": "The Komagata Maru was a ship carrying passengers primarily from ___.",
             "options": [
               "South Asia",
-              "A region unrelated to the Komagata Maru incident",
+              "East Asia",
               "Western Europe",
               "The Caribbean"
             ],
@@ -13513,7 +13513,7 @@ const curriculum: DayContent[] = [
               "Offered citizenship without any restrictions",
               "Immediately and fully granted",
               "Largely denied",
-              "A response unrelated to the Komagata Maru incident"
+              "Granted only after paying a head tax"
             ],
             "answer": 2
           },
@@ -13521,7 +13521,7 @@ const curriculum: DayContent[] = [
             "q": "The Komagata Maru incident occurred in ___.",
             "options": [
               "1867",
-              "A year unrelated to the Komagata Maru incident",
+              "1923",
               "1950",
               "1914"
             ],
@@ -13532,7 +13532,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A modern immigration policy with no historical roots",
               "Discriminatory Canadian immigration policy in the early 20th century",
-              "A concept unrelated to the Komagata Maru incident",
+              "A successful example of a points-based immigration system",
               "A completely fair and welcoming immigration process"
             ],
             "answer": 1
@@ -13541,9 +13541,9 @@ const curriculum: DayContent[] = [
             "q": "Why does the Canadian government now formally acknowledge the Komagata Maru incident?",
             "options": [
               "The event has been officially declared to have never happened",
-              "The incident has no connection to Canadian immigration history",
+              "The passengers were found to have broken Canadian shipping laws",
               "To recognize past discrimination and its lasting impact on affected communities",
-              "A reason unrelated to the Komagata Maru incident"
+              "Because the ship was owned by the Canadian government"
             ],
             "answer": 2
           }
@@ -13566,7 +13566,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Verbal irony occurs when ___.",
             "options": [
-              "A concept unrelated to irony",
+              "A speaker compares two things using like or as",
               "A speaker says the opposite of what they actually mean",
               "A speaker always says exactly what they mean",
               "A character speaks with no possible hidden meaning"
@@ -13577,7 +13577,7 @@ const curriculum: DayContent[] = [
             "q": "Situational irony occurs when ___.",
             "options": [
               "An outcome contradicts what was expected to happen",
-              "A concept unrelated to situational irony",
+              "A character knows the outcome that the audience does not",
               "Nothing unexpected ever happens in a story",
               "An outcome always matches exactly what was expected"
             ],
@@ -13588,7 +13588,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The audience knows something a character in the story does not",
               "A character knows more than the audience at all times",
-              "A concept unrelated to dramatic irony",
+              "A speaker says the opposite of what they mean",
               "Neither the audience nor the characters know anything"
             ],
             "answer": 0
@@ -13599,7 +13599,7 @@ const curriculum: DayContent[] = [
               "A fire station burning down",
               "A character stating they are happy while smiling",
               "A character accurately predicting a simple event",
-              "A concept unrelated to situational irony"
+              "A sprinter winning a race"
             ],
             "answer": 0
           },
@@ -13609,7 +13609,7 @@ const curriculum: DayContent[] = [
               "Readers always know exactly as much as every character",
               "Dramatic irony never affects a reader’s emotional engagement",
               "Readers may feel anticipation or dread knowing more than a character does",
-              "A reason unrelated to dramatic irony"
+              "It lets the narrator explain the setting in detail"
             ],
             "answer": 2
           }
@@ -13627,7 +13627,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A Venn diagram is used to visually represent ___.",
             "options": [
-              "A concept unrelated to Venn diagrams",
+              "Data values along a number line only",
               "A single unchanging value with no sets involved",
               "Only sets that can never overlap in any way",
               "Overlapping and non-overlapping sets"
@@ -13640,7 +13640,7 @@ const curriculum: DayContent[] = [
               "Only elements found in both sets at the same time",
               "No elements from either set",
               "All elements in either set A, set B, or both",
-              "A concept unrelated to set notation"
+              "Only elements found in set A but not in set B"
             ],
             "answer": 2
           },
@@ -13648,7 +13648,7 @@ const curriculum: DayContent[] = [
             "q": "The intersection of two sets (A ∩ B) includes ___.",
             "options": [
               "Only elements found in both set A and set B",
-              "A concept unrelated to set notation",
+              "All elements in set A but not in set B",
               "Elements found in neither set",
               "All elements in either set, whether or not they overlap"
             ],
@@ -13657,7 +13657,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In a Venn diagram, the overlapping region between two circles represents ___.",
             "options": [
-              "A concept unrelated to Venn diagrams",
+              "Elements belonging only to the first set",
               "Elements belonging to neither set",
               "The intersection of the two sets",
               "The union of the two sets"
@@ -13668,7 +13668,7 @@ const curriculum: DayContent[] = [
             "q": "Why are Venn diagrams useful when calculating probabilities involving multiple events?",
             "options": [
               "They help visualize which outcomes belong to one, both, or neither event",
-              "A reason unrelated to probability",
+              "They give the exact probability without any calculation",
               "They can only be used with a single event at a time",
               "Venn diagrams provide no useful information for probability"
             ],
@@ -13688,7 +13688,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the name of Earth’s outermost layer, where we live?",
             "options": [
-              "A concept unrelated to Earth’s layers",
+              "The outer core",
               "The crust",
               "The mantle",
               "The core"
@@ -13701,7 +13701,7 @@ const curriculum: DayContent[] = [
               "The crust",
               "The atmosphere",
               "The mantle",
-              "A concept unrelated to Earth’s layers"
+              "The inner core"
             ],
             "answer": 2
           },
@@ -13710,7 +13710,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The core",
               "The mantle",
-              "A concept unrelated to Earth’s layers",
+              "The asthenosphere",
               "The crust"
             ],
             "answer": 0
@@ -13718,7 +13718,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the crust often compared to the thin skin of an apple?",
             "options": [
-              "This concept has no connection to Earth’s layers",
+              "The crust is soft and easily peeled off like fruit skin",
               "The crust and the core are exactly the same thickness",
               "It is a very thin layer compared to the much thicker layers beneath it",
               "The crust is actually the thickest layer of the Earth"
@@ -13730,8 +13730,8 @@ const curriculum: DayContent[] = [
             "options": [
               "No, the core has only one part",
               "Yes",
-              "A concept unrelated to Earth’s layers",
-              "The core has no connection to Earth’s structure"
+              "No, the core is divided into three equal layers",
+              "No, the entire core is liquid"
             ],
             "answer": 1
           }
@@ -13752,7 +13752,7 @@ const curriculum: DayContent[] = [
               "Ancient civilizations first began, thousands of years earlier",
               "Countries interacted before any trade existed",
               "Goods were produced and how people lived and worked",
-              "A concept unrelated to this historical period"
+              "Countries chose their rulers during the Middle Ages"
             ],
             "answer": 2
           },
@@ -13761,7 +13761,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The complete disappearance of all cities",
               "A return to purely agricultural societies with no factories",
-              "A concept unrelated to the Industrial Revolution",
+              "The invention of the printing press",
               "The growth of factories and cities"
             ],
             "answer": 3
@@ -13769,17 +13769,17 @@ const curriculum: DayContent[] = [
           {
             "q": "New machines and factories during the Industrial Revolution changed work by ___.",
             "options": [
-              "Having no effect on how goods were produced",
+              "Returning all work to farms and family homes",
               "Making production faster and often moving it away from homes and farms",
               "Making handcrafted goods more common than ever before",
-              "A reason unrelated to this period"
+              "Increasing the number of skilled artisans working from home"
             ],
             "answer": 1
           },
           {
             "q": "Which of these might be considered a negative effect of the Industrial Revolution?",
             "options": [
-              "A concept unrelated to this period",
+              "Lower prices on manufactured goods",
               "An increase in leisure time for every single worker",
               "Difficult working conditions in early factories",
               "A decrease in the population of cities"
@@ -13791,7 +13791,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It had no lasting effect on how societies developed",
               "It fundamentally changed economies, technology, and daily life for many people",
-              "A reason unrelated to its historical significance",
+              "It ended the use of steam power",
               "It only affected a single small village with no wider impact"
             ],
             "answer": 1
@@ -13815,9 +13815,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A personal narrative essay recounts ___.",
             "options": [
-              "A concept unrelated to this type of writing",
+              "A researched report on a historical event",
               "A meaningful experience from the writer’s own life",
-              "A completely fictional story with no connection to the writer",
+              "An argument supporting a position on a community issue",
               "Only factual, impersonal information with no story involved"
             ],
             "answer": 1
@@ -13825,7 +13825,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An effective personal narrative often includes ___.",
             "options": [
-              "A concept unrelated to personal narratives",
+              "Quotations from expert sources to prove a point",
               "A random, unordered collection of unrelated events",
               "No details or descriptions of any kind",
               "Descriptive detail and a clear sequence of events"
@@ -13835,7 +13835,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a writer include reflection at the end of a personal narrative?",
             "options": [
-              "A reason unrelated to this type of writing",
+              "To restate the opening sentence in different words",
               "To explain what they learned or how the experience changed them",
               "A personal narrative should never include the writer’s own thoughts",
               "Reflection never adds any value to a personal narrative"
@@ -13848,15 +13848,15 @@ const curriculum: DayContent[] = [
               "A set of unrelated historical facts",
               "A time the writer overcame a challenge",
               "An essay arguing a persuasive position with no personal story",
-              "A concept unrelated to personal narratives"
+              "A research report on a scientific topic"
             ],
             "answer": 1
           },
           {
             "q": "Why is using sensory and descriptive detail important in a personal narrative?",
             "options": [
-              "Sensory detail has no effect on how a reader experiences a story",
-              "A reason unrelated to narrative writing",
+              "Sensory detail mainly helps the writer reach the word count",
+              "It replaces the need for a clear sequence of events",
               "Descriptive detail always distracts from the main story",
               "It helps the reader vividly picture and connect with the experience"
             ],
@@ -13937,7 +13937,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The periodic table organizes elements by ___.",
             "options": [
-              "A concept unrelated to the periodic table",
+              "The year each element was discovered",
               "Random order with no organizing pattern",
               "Increasing atomic number",
               "Alphabetical order of their names"
@@ -13949,7 +13949,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Isotope",
               "Group",
-              "A term unrelated to the periodic table",
+              "Block",
               "Period"
             ],
             "answer": 3
@@ -13960,7 +13960,7 @@ const curriculum: DayContent[] = [
               "Period",
               "Group",
               "Compound",
-              "A term unrelated to the periodic table"
+              "Series"
             ],
             "answer": 1
           },
@@ -13970,7 +13970,7 @@ const curriculum: DayContent[] = [
               "Always have identical atomic numbers",
               "Have no properties in common with one another",
               "Share similar chemical properties",
-              "A concept unrelated to periodic table groups"
+              "Have the same number of electron shells"
             ],
             "answer": 2
           },
@@ -13979,7 +13979,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Elements on the periodic table show no patterns of any kind",
               "The periodic table provides no useful scientific information",
-              "A reason unrelated to chemistry",
+              "It lists elements in the order they were discovered",
               "It organizes elements in a way that reveals patterns in their properties"
             ],
             "answer": 3
@@ -14001,24 +14001,24 @@ const curriculum: DayContent[] = [
               "Never cooperate with one another on any issue",
               "Compete against each other militarily",
               "Support one another for collective defence and security",
-              "A concept unrelated to international alliances"
+              "Share a single currency and government"
             ],
             "answer": 2
           },
           {
             "q": "Canada’s role in NATO is best described as ___.",
             "options": [
-              "A country with no connection to NATO at all",
+              "A country that joined NATO only in the 1990s",
               "A founding member that participates in collective defence efforts",
               "A country that has never joined any international alliance",
-              "A concept unrelated to Canada’s foreign policy"
+              "An observer that does not contribute to defence"
             ],
             "answer": 1
           },
           {
             "q": "Why might countries choose to join an alliance like NATO?",
             "options": [
-              "A reason unrelated to international relations",
+              "To gain control over one another's governments",
               "Alliances are formed with no purpose or benefit at all",
               "To strengthen their collective security and support one another if needed",
               "Joining an alliance provides no security benefits"
@@ -14030,7 +14030,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Each country must defend itself with no support from others",
               "Only the largest country in an alliance provides any defence",
-              "A concept unrelated to alliances",
+              "A trade agreement lowering tariffs between members",
               "An attack on one member is treated as an attack on all members"
             ],
             "answer": 3
@@ -14040,8 +14040,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Canada operates independently with no international partnerships",
               "It helps explain Canada’s role and responsibilities in global security",
-              "A reason unrelated to social studies learning",
-              "Canada’s international alliances have no effect on its foreign policy"
+              "It shows how Canada joined the Commonwealth in 1867",
+              "Canada is legally required to join every war its allies fight"
             ],
             "answer": 1
           }
@@ -14066,7 +14066,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Triggering feelings, such as happiness or fear, to influence a decision",
               "Avoiding any connection to the audience’s emotions",
-              "A concept unrelated to advertising techniques",
+              "Using statistics and expert studies to prove a claim",
               "Presenting only neutral, unbiased facts with no persuasive intent"
             ],
             "answer": 0
@@ -14075,8 +14075,8 @@ const curriculum: DayContent[] = [
             "q": "The bandwagon effect in advertising suggests that ___.",
             "options": [
               "No one else is using or buying the product",
-              "A concept unrelated to the bandwagon effect",
-              "A product’s popularity has no influence on consumer choices",
+              "The product is rare and available to only a few people",
+              "A well-known athlete uses and recommends the product",
               "A person should do or buy something because many others are already doing so"
             ],
             "answer": 3
@@ -14084,9 +14084,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Celebrity endorsement in advertising relies on ___.",
             "options": [
-              "Scientific data with no connection to any public figure",
+              "Statistics from a survey comparing similar products",
               "A well-known person’s association with a product to build trust or appeal",
-              "A concept unrelated to celebrity endorsement",
+              "Urgency created by a limited-time offer",
               "Complete anonymity with no recognizable figures involved"
             ],
             "answer": 1
@@ -14095,7 +14095,7 @@ const curriculum: DayContent[] = [
             "q": "Why might recognizing advertising techniques help consumers make informed decisions?",
             "options": [
               "All advertisements present entirely objective, unbiased information",
-              "A reason unrelated to media literacy",
+              "It teaches them which brands are the most expensive",
               "It helps them evaluate whether a persuasive claim is based on genuine value",
               "Recognizing these techniques never affects consumer decision-making"
             ],
@@ -14106,7 +14106,7 @@ const curriculum: DayContent[] = [
             "options": [
               "An ad showing a family’s joy while using a product",
               "An ad with no images, music, or persuasive language at all",
-              "A concept unrelated to emotional appeal",
+              "An ad citing statistics from a laboratory test",
               "An ad listing only a product’s technical specifications"
             ],
             "answer": 0
@@ -14126,7 +14126,7 @@ const curriculum: DayContent[] = [
             "q": "A weighted average differs from a simple average because it ___.",
             "options": [
               "Ignores every value except the highest one",
-              "A concept unrelated to weighted averages",
+              "Uses only the middle value of the data set",
               "Accounts for the varying importance, or weight, of each value",
               "Treats every value in a data set with equal importance"
             ],
@@ -14135,8 +14135,8 @@ const curriculum: DayContent[] = [
           {
             "q": "If a test is worth 70% of a grade and a project is worth 30%, this is an example of ___.",
             "options": [
-              "A concept unrelated to weighted averages",
-              "A calculation with no connection to grades",
+              "A median calculation",
+              "A range calculation",
               "Weighted averaging",
               "A simple average with no weighting involved"
             ],
@@ -14146,7 +14146,7 @@ const curriculum: DayContent[] = [
             "q": "If a student scores 80% on a test worth 60% of their grade and 90% on a project worth 40%, what is their weighted average?",
             "options": [
               "84%",
-              "A value unrelated to the calculation",
+              "86%",
               "85%",
               "80%"
             ],
@@ -14156,7 +14156,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a teacher use a weighted average instead of a simple average to calculate final grades?",
             "options": [
               "Weighted averages are never used to calculate grades",
-              "A reason unrelated to weighted averages",
+              "Weighted averages are easier to calculate than simple averages",
               "A weighted average always produces exactly the same result as a simple average",
               "Some assignments, like exams, may reflect learning more heavily than others"
             ],
@@ -14167,7 +14167,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They can only be used to calculate school grades",
               "Weighted averages have no real-world applications",
-              "A reason unrelated to weighted averages",
+              "They are used only when all values are equally important",
               "They can reflect the varying significance of different values, like investment amounts"
             ],
             "answer": 3
@@ -14185,7 +14185,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a lever?",
             "options": [
-              "A concept unrelated to simple machines",
+              "A flat, sloped surface used to raise objects",
               "A tool used only for cutting",
               "A simple machine made of a rigid bar that pivots on a fulcrum",
               "A machine that only spins in circles"
@@ -14196,7 +14196,7 @@ const curriculum: DayContent[] = [
             "q": "What is the fixed point that a lever pivots on called?",
             "options": [
               "The fulcrum",
-              "A concept unrelated to levers",
+              "The axle",
               "The load",
               "The effort"
             ],
@@ -14207,7 +14207,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Three",
               "Two",
-              "A concept unrelated to levers",
+              "Four",
               "Five"
             ],
             "answer": 0
@@ -14215,7 +14215,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In a first-class lever, such as a see-saw, where is the fulcrum located?",
             "options": [
-              "A concept unrelated to levers",
+              "At one end, with the load in the middle",
               "There is no fulcrum in a first-class lever",
               "Between the effort and the load",
               "At one end, with the effort in the middle"
@@ -14228,7 +14228,7 @@ const curriculum: DayContent[] = [
               "A lever always requires more force than lifting an object directly",
               "Levers never make lifting a heavy object any easier",
               "A lever can multiply the force applied, allowing a smaller effort to move a larger load",
-              "This concept has no relevance to science"
+              "A lever reduces the force needed by making the object lighter"
             ],
             "answer": 2
           }
@@ -14247,7 +14247,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only North America",
               "The Middle East, North Africa, and southeastern Europe",
-              "A region unrelated to the Ottoman Empire",
+              "Only East Asia and the Pacific",
               "Only a single small city with no wider territory"
             ],
             "answer": 1
@@ -14255,7 +14255,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The Ottoman Empire lasted for ___.",
             "options": [
-              "A length of time unrelated to the Ottoman Empire",
+              "About fifty years",
               "Several centuries",
               "Only a few days",
               "Less than one year"
@@ -14266,7 +14266,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these contributed to the eventual decline of the Ottoman Empire?",
             "options": [
               "Internal struggles and pressure from rival powers over time",
-              "A reason unrelated to the Ottoman Empire",
+              "Rapid growth in its navy that left it with no rivals",
               "The empire never faced any challenges throughout its history",
               "A sudden disappearance with no historical cause"
             ],
@@ -14276,8 +14276,8 @@ const curriculum: DayContent[] = [
             "q": "Why is the Ottoman Empire an important part of world history to study?",
             "options": [
               "It shaped politics, trade, and culture across a vast region for centuries",
-              "It had no influence on the regions it controlled",
-              "A reason unrelated to its historical significance",
+              "It only affected regions in the Americas",
+              "It was a short-lived state founded after World War I",
               "It existed for too short a time to have any lasting impact"
             ],
             "answer": 0
@@ -14286,7 +14286,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these was a significant city within the Ottoman Empire?",
             "options": [
               "A city that has never existed",
-              "A city unrelated to the Ottoman Empire",
+              "Vienna",
               "A city located only in South America",
               "Constantinople (Istanbul)"
             ],
@@ -14311,8 +14311,8 @@ const curriculum: DayContent[] = [
           {
             "q": "A modifier is a word or phrase that ___.",
             "options": [
-              "Has no connection to any other word in a sentence",
-              "A concept unrelated to modifiers",
+              "Always appears at the start of a sentence",
+              "Always joins two independent clauses",
               "Always functions as the main verb of a sentence",
               "Describes or adds detail to another word in a sentence"
             ],
@@ -14322,7 +14322,7 @@ const curriculum: DayContent[] = [
             "q": "A misplaced modifier occurs when ___.",
             "options": [
               "A modifier is positioned so it creates confusion or an unintended meaning",
-              "A concept unrelated to misplaced modifiers",
+              "A modifier is repeated twice in the same sentence",
               "A modifier is placed directly next to the word it describes",
               "A sentence contains no modifiers of any kind"
             ],
@@ -14332,7 +14332,7 @@ const curriculum: DayContent[] = [
             "q": "Which sentence contains a misplaced modifier?",
             "options": [
               "Running down the street, the man missed the bus.",
-              "A sentence unrelated to misplaced modifiers",
+              "The man who was running down the street missed the bus.",
               "Running down the street, the bus was missed by the man.",
               "The man missed the bus while running down the street."
             ],
@@ -14341,7 +14341,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why can a misplaced modifier create an unintentionally humorous or confusing sentence?",
             "options": [
-              "A reason unrelated to grammar",
+              "It changes the verb tense of the sentence",
               "It can make a description appear to apply to the wrong noun",
               "A misplaced modifier always makes a sentence perfectly clear",
               "Misplaced modifiers never affect a sentence’s clarity"
@@ -14351,7 +14351,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How can a misplaced modifier typically be corrected?",
             "options": [
-              "A method unrelated to correcting misplaced modifiers",
+              "By changing the verb tense of the sentence",
               "By moving the modifier closer to the word it is meant to describe",
               "By adding more modifiers to the sentence",
               "By removing every modifier from the sentence entirely"
@@ -14446,10 +14446,10 @@ const curriculum: DayContent[] = [
           {
             "q": "A biome is best described as ___.",
             "options": [
-              "A region with no connection to climate at all",
+              "A small area defined by a single type of soil",
               "A single organism living in isolation",
               "A large geographic region with a distinct climate and adapted living things",
-              "A concept unrelated to biomes"
+              "A group of animals of the same species living together"
             ],
             "answer": 2
           },
@@ -14457,7 +14457,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these is an example of a biome?",
             "options": [
               "Tundra",
-              "A concept unrelated to biomes",
+              "A herd of caribou",
               "A single species of animal",
               "A single backyard garden"
             ],
@@ -14468,7 +14468,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Identical to organisms living in every other biome",
               "Adapted to survive its specific climate and conditions",
-              "A concept unrelated to biome adaptation",
+              "Different only in colour from organisms in other biomes",
               "Unaffected by the climate of the biome they live in"
             ],
             "answer": 1
@@ -14477,7 +14477,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a cactus be well-adapted to a desert biome?",
             "options": [
               "It can store water and survive with very little rainfall",
-              "A reason unrelated to desert adaptation",
+              "Its large, flat leaves lose water quickly to stay cool",
               "Desert biomes receive the same rainfall as rainforest biomes",
               "Cacti require large amounts of rainfall to survive"
             ],
@@ -14487,8 +14487,8 @@ const curriculum: DayContent[] = [
             "q": "Why is studying different global biomes valuable for understanding biodiversity?",
             "options": [
               "Every biome on Earth supports the exact same forms of life",
-              "Biomes have no connection to global biodiversity",
-              "A reason unrelated to environmental science",
+              "Biomes only differ in how many humans live there",
+              "It proves that biodiversity is the same in tropical and polar regions",
               "It shows how climate shapes the variety of life found in different regions"
             ],
             "answer": 3
@@ -14507,7 +14507,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The Partition of India in 1947 divided British India into ___.",
             "options": [
-              "A division unrelated to the Partition of India",
+              "India and Sri Lanka",
               "India and Pakistan",
               "Two entirely different, unrelated countries",
               "India and China"
@@ -14518,7 +14518,7 @@ const curriculum: DayContent[] = [
             "q": "The Partition of India took place as part of the broader process of ___.",
             "options": [
               "The founding of the Ottoman Empire",
-              "A process unrelated to the Partition of India",
+              "The Industrial Revolution in Britain",
               "European colonization beginning for the first time",
               "Decolonization in South Asia"
             ],
@@ -14529,15 +14529,15 @@ const curriculum: DayContent[] = [
             "options": [
               "It occurred with no historical consequences at all",
               "It caused mass migration and hardship for millions of people during the division",
-              "It had no impact on the people living in the region",
-              "A reason unrelated to the Partition of India"
+              "It ended British rule in India without any violence",
+              "It strengthened the British Empire in South Asia"
             ],
             "answer": 1
           },
           {
             "q": "Decolonization generally refers to the process by which ___.",
             "options": [
-              "A concept unrelated to decolonization",
+              "Colonies adopt the language and laws of the colonizer permanently",
               "Colonies gain independence from the countries that once controlled them",
               "Countries expand their control over new colonies",
               "Independent countries willingly become colonies again"
@@ -14548,8 +14548,8 @@ const curriculum: DayContent[] = [
             "q": "Why is it valuable to study events like the Partition of India?",
             "options": [
               "Only Canadian history is relevant to social studies learning",
-              "A reason unrelated to social studies learning",
-              "This event has no connection to understanding global history",
+              "Only events after 1950 matter to social studies learning",
+              "It proves that decolonization was peaceful everywhere",
               "It helps build understanding of how independence movements shaped the modern world"
             ],
             "answer": 3
@@ -14573,9 +14573,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Comparing perspectives across texts involves examining ___.",
             "options": [
-              "A concept unrelated to comparing perspectives",
+              "How texts differ in font and layout",
               "How different authors or characters view the same event or issue",
-              "Texts that have no connection to one another at all",
+              "Only the number of pages in each text",
               "Only a single, unchanging viewpoint shared by every text"
             ],
             "answer": 1
@@ -14583,7 +14583,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might two authors present different perspectives on the same historical event?",
             "options": [
-              "A reason unrelated to comparing perspectives",
+              "One of the authors must have invented the event",
               "Their background, purpose, or available evidence may shape their viewpoint",
               "Historical events can only ever be described in one true way",
               "Authors always share the exact same perspective on every event"
@@ -14596,7 +14596,7 @@ const curriculum: DayContent[] = [
               "Comparing perspectives never adds any value to understanding a topic",
               "It helps develop a more complete and balanced understanding of the issue",
               "A single perspective always provides a complete understanding",
-              "A reason unrelated to reading comprehension"
+              "It lets readers memorize the facts from each text"
             ],
             "answer": 1
           },
@@ -14606,14 +14606,14 @@ const curriculum: DayContent[] = [
               "Every text is entirely free of any perspective or bias",
               "A text that includes absolutely no language or details at all",
               "The specific language, tone, and details the author chooses to include",
-              "A concept unrelated to perspective"
+              "The number of paragraphs in the text"
             ],
             "answer": 2
           },
           {
             "q": "Why might comparing a primary source and a secondary source on the same topic be useful?",
             "options": [
-              "A reason unrelated to comparing texts",
+              "Primary sources are always less accurate than secondary sources",
               "It can reveal differences in immediacy, purpose, and interpretation of events",
               "Secondary sources never provide any interpretation of events",
               "Primary and secondary sources always present identical information"
@@ -14698,7 +14698,7 @@ const curriculum: DayContent[] = [
               "Is never created or destroyed, only converted from one form to another",
               "Is constantly being created out of nothing",
               "Disappears completely once it is used",
-              "A law unrelated to energy conservation"
+              "Is lost whenever it changes from one form to another"
             ],
             "answer": 0
           },
@@ -14706,7 +14706,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these is an example of an energy transformation?",
             "options": [
               "Chemical energy in food converting into kinetic energy during exercise",
-              "A concept unrelated to energy transformations",
+              "Water remaining a liquid at room temperature",
               "Energy remaining in exactly the same form forever",
               "A situation with no energy involved at all"
             ],
@@ -14715,7 +14715,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A light bulb transforms electrical energy into ___.",
             "options": [
-              "A form of energy unrelated to light bulbs",
+              "Chemical energy and sound energy",
               "Chemical energy exclusively",
               "Light and heat energy",
               "Only sound energy, with no light produced"
@@ -14727,7 +14727,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Energy is never lost as heat during any transformation",
               "All energy transformations are always perfectly efficient with no loss",
-              "A reason unrelated to energy transformations",
+              "Some of the energy is permanently destroyed during the transformation",
               "A portion of the energy is often converted into unwanted heat rather than the intended form"
             ],
             "answer": 3
@@ -14735,10 +14735,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding energy transformations important for designing efficient technology?",
             "options": [
-              "A reason unrelated to energy conservation",
+              "It lets engineers create devices that produce more energy than they use",
               "Efficient technology never involves any transformation of energy",
               "It helps engineers minimize energy loss and maximize useful output",
-              "Energy transformations have no connection to technology design"
+              "Energy transformations only matter for machines powered by gasoline"
             ],
             "answer": 2
           }
@@ -14759,7 +14759,7 @@ const curriculum: DayContent[] = [
               "East and West Berlin",
               "Two cities located in Canada",
               "North and South Korea",
-              "A division unrelated to the Berlin Wall"
+              "France and Germany"
             ],
             "answer": 0
           },
@@ -14769,7 +14769,7 @@ const curriculum: DayContent[] = [
               "The Industrial Revolution",
               "The Renaissance",
               "The Cold War",
-              "A period unrelated to the Berlin Wall"
+              "The Great Depression"
             ],
             "answer": 2
           },
@@ -14777,7 +14777,7 @@ const curriculum: DayContent[] = [
             "q": "The Berlin Wall became a powerful symbol of ___.",
             "options": [
               "A period with no political tension at all",
-              "A concept unrelated to the Berlin Wall",
+              "Germany's victory in World War II",
               "International cooperation and unity",
               "A divided Germany and the broader Cold War conflict"
             ],
@@ -14788,7 +14788,7 @@ const curriculum: DayContent[] = [
             "options": [
               "1989",
               "1961",
-              "A year unrelated to the Berlin Wall",
+              "1991",
               "1945"
             ],
             "answer": 0
@@ -14796,8 +14796,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the fall of the Berlin Wall considered a significant historical event?",
             "options": [
-              "A reason unrelated to its historical significance",
-              "It had no effect on Germany or the wider world",
+              "It ended the Second World War in Europe",
+              "It led directly to the creation of NATO",
               "It marked the beginning of the Cold War, not its easing",
               "It symbolized the end of a divided Germany and eased Cold War tensions"
             ],
@@ -14836,7 +14836,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Symbolism is a literary device in which ___.",
             "options": [
-              "A concept unrelated to literary devices",
+              "Two unlike things are compared using like or as",
               "Every word in a text is taken only at face value",
               "An object or image represents a deeper idea beyond its literal meaning",
               "A story contains no hidden or deeper meaning at all"
@@ -14848,7 +14848,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Receives the action",
               "Never appears in the sentence at all",
-              "A concept unrelated to voice",
+              "Is always the object of a preposition",
               "Performs the action"
             ],
             "answer": 3
@@ -14857,7 +14857,7 @@ const curriculum: DayContent[] = [
             "q": "Verbal irony occurs when ___.",
             "options": [
               "A speaker says the opposite of what they actually mean",
-              "A concept unrelated to irony",
+              "A writer compares two things using like or as",
               "A character speaks with no possible hidden meaning",
               "A speaker always says exactly what they mean"
             ],
@@ -14867,7 +14867,7 @@ const curriculum: DayContent[] = [
             "q": "A misplaced modifier occurs when ___.",
             "options": [
               "A modifier is positioned so it creates confusion or an unintended meaning",
-              "A concept unrelated to misplaced modifiers",
+              "A modifier is written in the wrong verb tense",
               "A sentence contains no modifiers of any kind",
               "A modifier is placed directly next to the word it describes"
             ],
@@ -14876,8 +14876,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful to review symbolism, voice, irony, and reading strategies together?",
             "options": [
-              "These topics have no connection to each other",
-              "A reason unrelated to reviewing language arts",
+              "These topics are always taught in separate units",
+              "It lets students skip the topics they find difficult",
               "Review never helps strengthen understanding of language skills",
               "It reinforces how these language and literacy skills connect and build on one another"
             ],
@@ -14971,7 +14971,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Earthquakes are typically caused by ___.",
             "options": [
-              "A cause unrelated to earthquakes",
+              "Heavy rainfall soaking into the ground",
               "Changes in ocean temperature alone",
               "The rotation of Earth on its axis",
               "The sudden release of built-up stress along plate boundaries"
@@ -14981,7 +14981,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An electromagnet is created by ___.",
             "options": [
-              "A concept unrelated to electromagnets",
+              "Rubbing a metal rod with a cloth to build up static charge",
               "Coiling a current-carrying wire around an iron core",
               "Placing two permanent magnets next to each other with no current",
               "Removing all metal from a circuit"
@@ -14993,7 +14993,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Equal numbers of each type of atom on both sides",
               "No atoms represented on either side",
-              "A concept unrelated to balancing equations",
+              "Equal numbers of molecules on both sides",
               "A different number of atoms on each side of the equation"
             ],
             "answer": 0
@@ -15002,7 +15002,7 @@ const curriculum: DayContent[] = [
             "q": "Homeostasis refers to the body’s process of ___.",
             "options": [
               "Shutting down all bodily systems",
-              "A concept unrelated to homeostasis",
+              "Fighting off infections using white blood cells",
               "Constantly changing its internal environment with no regulation",
               "Maintaining a stable internal environment"
             ],
@@ -15011,10 +15011,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful to review earth science, physics, chemistry, and biology topics together?",
             "options": [
-              "Each topic must be studied with no connection to the others",
+              "These topics use completely different ideas and cannot be compared",
               "It reinforces how these interconnected science concepts relate to one another",
               "Review is never useful in science",
-              "These topics have no connection to each other"
+              "Review only helps with topics from a single branch of science"
             ],
             "answer": 1
           }
@@ -15033,25 +15033,25 @@ const curriculum: DayContent[] = [
             "options": [
               "Enforced racial segregation by law in South Africa",
               "Guaranteed equal rights for all South African citizens",
-              "A concept unrelated to South African history",
-              "Existed with no connection to law or government"
+              "Divided South Africa into British and Dutch colonies",
+              "Was imposed by the United Nations to keep peace"
             ],
             "answer": 0
           },
           {
             "q": "The fight to end apartheid became a symbol of ___.",
             "options": [
-              "A conflict with no connection to human rights",
+              "A conflict between South Africa and Zimbabwe over borders",
               "The global struggle for equality and human rights",
               "A movement that had no international attention",
-              "A concept unrelated to South African history"
+              "A movement to restore British colonial rule"
             ],
             "answer": 1
           },
           {
             "q": "Which of these was a key outcome of the movement to end apartheid?",
             "options": [
-              "A concept unrelated to this movement",
+              "The division of South Africa into separate countries",
               "The eventual dismantling of legal racial segregation in South Africa",
               "No change to South Africa’s laws or society",
               "The strengthening of apartheid laws over time"
@@ -15063,7 +15063,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Many people around the world viewed its racial segregation as a violation of human rights",
               "Apartheid received no international attention at all",
-              "A reason unrelated to this history",
+              "South Africa blocked all foreign trade",
               "The rest of the world had no awareness of apartheid"
             ],
             "answer": 0
@@ -15072,9 +15072,9 @@ const curriculum: DayContent[] = [
             "q": "Why is the history of apartheid still studied today?",
             "options": [
               "It offers important lessons about equality, human rights, and social change",
-              "This history has no relevance to understanding equality today",
+              "Its lessons apply only to South Africa's neighbours",
               "Apartheid had no lasting effect on South African society",
-              "A reason unrelated to social studies learning"
+              "It was the main cause of the Cold War"
             ],
             "answer": 0
           }
@@ -15099,7 +15099,7 @@ const curriculum: DayContent[] = [
             "options": [
               "An author hints at events that will happen later in the story",
               "A story never contains any hints about future events",
-              "A concept unrelated to foreshadowing",
+              "A character remembers an earlier event in the past",
               "An author only describes events that already occurred"
             ],
             "answer": 0
@@ -15110,7 +15110,7 @@ const curriculum: DayContent[] = [
               "The narrative only moves forward in time",
               "The narrative interrupts the present to show an earlier moment",
               "A character predicts a future event with certainty",
-              "A concept unrelated to flashback"
+              "An author hints at a future event through a clue"
             ],
             "answer": 1
           },
@@ -15118,7 +15118,7 @@ const curriculum: DayContent[] = [
             "q": "Which is an example of foreshadowing?",
             "options": [
               "A narrator describing a character’s appearance",
-              "A concept unrelated to foreshadowing",
+              "A narrator summarizing the plot at the end",
               "A character remembering their childhood home",
               "A character noticing dark storm clouds before a tragedy occurs"
             ],
@@ -15128,7 +15128,7 @@ const curriculum: DayContent[] = [
             "q": "Why might an author use a flashback in a story?",
             "options": [
               "A flashback always confuses readers with no purpose",
-              "A reason unrelated to flashback",
+              "To hint at events that will occur later in the plot",
               "To provide background information that helps explain a character’s present actions",
               "Flashbacks never provide any useful information to readers"
             ],
@@ -15137,9 +15137,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is recognizing foreshadowing useful when reading a novel?",
             "options": [
-              "A reason unrelated to reading comprehension",
+              "It helps readers memorize the characters' names",
               "Foreshadowing always reveals the ending immediately with no suspense",
-              "Foreshadowing has no effect on how a story is understood",
+              "It shows readers the story is written in the past tense",
               "It can build suspense and prepare readers for upcoming events"
             ],
             "answer": 3
@@ -15198,7 +15198,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is finding the area of the triangular base an important first step?",
             "options": [
-              "The base has no effect on volume",
+              "Because volume equals the base area added to the length",
               "Volume can be found without knowing the base",
               "Because volume depends on the area of the base multiplied by length",
               "Triangular prisms never have a measurable base"
@@ -15220,8 +15220,8 @@ const curriculum: DayContent[] = [
             "q": "A watershed is best described as ___.",
             "options": [
               "A structure built specifically to store drinking water",
-              "A single isolated pond with no connection to surrounding land",
-              "A concept unrelated to watersheds",
+              "A wetland that only forms after heavy rainfall",
+              "The underground layer of rock that stores water",
               "An area of land where all water drains into a common river, lake, or ocean"
             ],
             "answer": 3
@@ -15230,7 +15230,7 @@ const curriculum: DayContent[] = [
             "q": "Evaporation in the water cycle occurs when ___.",
             "options": [
               "Water vapour cools and changes into liquid water",
-              "A process unrelated to the water cycle",
+              "Water soaks into the ground and becomes groundwater",
               "Water falls from clouds as precipitation",
               "Liquid water is heated and changes into water vapour"
             ],
@@ -15242,7 +15242,7 @@ const curriculum: DayContent[] = [
               "Water soaks into the ground",
               "Water vapour cools and changes into liquid water droplets",
               "Liquid water changes into water vapour",
-              "A process unrelated to the water cycle"
+              "Water flows over land into rivers"
             ],
             "answer": 1
           },
@@ -15251,7 +15251,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Water flowing underground through soil",
               "Water vapour rising into the atmosphere",
-              "A concept unrelated to precipitation",
+              "Liquid water changing into water vapour",
               "Water falling from clouds as rain, snow, sleet, or hail"
             ],
             "answer": 3
@@ -15259,9 +15259,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding watersheds important for managing water resources?",
             "options": [
-              "A reason unrelated to water systems",
+              "Watersheds determine the amount of rainfall a region receives",
               "Activities anywhere within a watershed can affect the water quality of connected rivers and lakes",
-              "Watersheds have no connection to water quality anywhere",
+              "Only activities right next to the water affect water quality",
               "Land activities never affect nearby bodies of water"
             ],
             "answer": 1
@@ -15283,7 +15283,7 @@ const curriculum: DayContent[] = [
               "Louis Riel and the Métis",
               "British colonial troops",
               "John A. Macdonald and the federal government",
-              "A group unrelated to the Red River Resistance"
+              "The Hudson's Bay Company"
             ],
             "answer": 0
           },
@@ -15292,7 +15292,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A request from the Métis to join the United States",
               "A dispute over fishing rights on the Atlantic coast",
-              "A cause unrelated to the Red River Resistance",
+              "The arrival of the Canadian Pacific Railway at Red River",
               "Canada’s plan to annex the Red River Settlement without consulting its residents"
             ],
             "answer": 3
@@ -15303,7 +15303,7 @@ const curriculum: DayContent[] = [
               "1869-70",
               "1885",
               "1812",
-              "A time period unrelated to the Red River Resistance"
+              "1837-38"
             ],
             "answer": 0
           },
@@ -15311,7 +15311,7 @@ const curriculum: DayContent[] = [
             "q": "A key result of the Red River Resistance was ___.",
             "options": [
               "Canada’s decision to abandon westward expansion entirely",
-              "A result unrelated to the Red River Resistance",
+              "The transfer of Rupert's Land to the United States",
               "The permanent removal of all Métis rights",
               "The creation of the province of Manitoba"
             ],
@@ -15320,7 +15320,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the Red River Resistance considered a significant event in Canadian history?",
             "options": [
-              "A reason unrelated to its historical significance",
+              "It resulted in the Métis being expelled from Canada",
               "It resulted in no negotiations or political change of any kind",
               "It demonstrated the Métis Nation’s determination to protect their land and rights",
               "It had no lasting influence on Canadian history"
@@ -15347,7 +15347,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A compare-and-contrast essay examines ___.",
             "options": [
-              "A concept unrelated to this essay type",
+              "The history of a single subject over time",
               "Only the similarities between two subjects, with no differences",
               "A single subject with no comparison involved",
               "The similarities and differences between two subjects"
@@ -15358,7 +15358,7 @@ const curriculum: DayContent[] = [
             "q": "In a block structure compare-and-contrast essay, a writer ___.",
             "options": [
               "Alternates between subjects for every single point",
-              "A concept unrelated to essay structure",
+              "Combines both subjects into a single paragraph",
               "Discusses all points about the first subject, then all points about the second",
               "Discusses only one subject for the entire essay"
             ],
@@ -15368,7 +15368,7 @@ const curriculum: DayContent[] = [
             "q": "In a point-by-point structure compare-and-contrast essay, a writer ___.",
             "options": [
               "Never directly compares the two subjects",
-              "A concept unrelated to essay structure",
+              "Discusses all points about the first subject, then all points about the second",
               "Alternates between both subjects for each point of comparison",
               "Discusses one subject completely before mentioning the other at all"
             ],
@@ -15380,7 +15380,7 @@ const curriculum: DayContent[] = [
               "Likewise",
               "However",
               "Although",
-              "A word unrelated to transitions"
+              "Whereas"
             ],
             "answer": 0
           },
@@ -15389,7 +15389,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Point-by-point structure always confuses readers with no benefit",
               "It allows readers to see direct comparisons on each point immediately",
-              "A reason unrelated to essay structure",
+              "It saves the writer from having to organize points",
               "Block structure and point-by-point structure are always identical"
             ],
             "answer": 1
@@ -15409,7 +15409,7 @@ const curriculum: DayContent[] = [
             "q": "The mean of a data set is calculated by ___.",
             "options": [
               "Selecting only the highest value in the set",
-              "A concept unrelated to measures of central tendency",
+              "Subtracting the smallest value from the largest value",
               "Adding all the values and dividing by the number of values",
               "Selecting the value that appears most often"
             ],
@@ -15419,7 +15419,7 @@ const curriculum: DayContent[] = [
             "q": "The median of a data set is ___.",
             "options": [
               "The middle value when the data is arranged in order",
-              "A concept unrelated to measures of central tendency",
+              "The average of the highest and lowest values",
               "The value that appears most frequently",
               "The difference between the highest and lowest values"
             ],
@@ -15429,7 +15429,7 @@ const curriculum: DayContent[] = [
             "q": "The mode of a data set is ___.",
             "options": [
               "The sum of all values divided by the count",
-              "A concept unrelated to measures of central tendency",
+              "The difference between the highest and lowest values",
               "The middle value when the data is arranged in order",
               "The value that appears most frequently"
             ],
@@ -15441,7 +15441,7 @@ const curriculum: DayContent[] = [
               "15",
               "30",
               "26",
-              "A value unrelated to the calculation"
+              "18"
             ],
             "answer": 2
           },
@@ -15451,7 +15451,7 @@ const curriculum: DayContent[] = [
               "An extreme value changes the sum used in the mean, while the median depends only on order",
               "The median always changes more than the mean when an outlier is present",
               "Outliers never have any effect on the mean or the median",
-              "A reason unrelated to outliers"
+              "The median uses the size of every value, so it shifts as much as the mean"
             ],
             "answer": 0
           }
@@ -15470,7 +15470,7 @@ const curriculum: DayContent[] = [
             "q": "Groundwater is water that is stored ___.",
             "options": [
               "Beneath Earth’s surface in soil and rock",
-              "A concept unrelated to groundwater",
+              "In the atmosphere as clouds and water vapour",
               "Only in rivers and lakes above the surface",
               "Exclusively inside glaciers and ice caps"
             ],
@@ -15480,7 +15480,7 @@ const curriculum: DayContent[] = [
             "q": "An aquifer is best described as ___.",
             "options": [
               "A layer of permeable rock or sediment that stores and transmits groundwater",
-              "A concept unrelated to aquifers",
+              "A river that flows only during the rainy season",
               "A completely solid layer of rock through which no water can pass",
               "A large body of water located entirely above ground"
             ],
@@ -15491,7 +15491,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The surface of a lake or river",
               "The upper boundary of the saturated zone underground",
-              "A concept unrelated to the water table",
+              "The point where a river meets the ocean",
               "A device used to measure rainfall"
             ],
             "answer": 1
@@ -15500,7 +15500,7 @@ const curriculum: DayContent[] = [
             "q": "How does water typically enter an aquifer?",
             "options": [
               "It is pumped in artificially at all times",
-              "A process unrelated to aquifers",
+              "It is formed when rock layers are heated and release water",
               "It infiltrates the ground and percolates downward through permeable layers",
               "It flows directly from the ocean at high speed"
             ],
@@ -15511,8 +15511,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Aquifers recharge instantly with no possibility of depletion",
               "It can be depleted faster than it naturally recharges, causing long-term shortages",
-              "Groundwater use has no effect on aquifer levels",
-              "A reason unrelated to groundwater"
+              "Pumping groundwater raises the water table",
+              "Groundwater use only affects the quality of rainwater"
             ],
             "answer": 1
           }
@@ -15531,7 +15531,7 @@ const curriculum: DayContent[] = [
             "options": [
               "1914",
               "1867",
-              "A year unrelated to the Canadian Pacific Railway",
+              "1905",
               "1885"
             ],
             "answer": 3
@@ -15542,7 +15542,7 @@ const curriculum: DayContent[] = [
               "France, to maintain trade routes",
               "The United States, to share a rail line",
               "British Columbia, to join Confederation",
-              "A promise unrelated to the Canadian Pacific Railway"
+              "Nova Scotia, to protect coastal shipping"
             ],
             "answer": 2
           },
@@ -15551,7 +15551,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Chinese labourers",
               "Only salaried government engineers",
-              "A group unrelated to the Canadian Pacific Railway",
+              "Prairie wheat farmers",
               "Volunteer workers from Europe with equal pay to others"
             ],
             "answer": 0
@@ -15560,7 +15560,7 @@ const curriculum: DayContent[] = [
             "q": "The Canadian Pacific Railway helped unify Canada by ___.",
             "options": [
               "Connecting the country from coast to coast",
-              "A result unrelated to the Canadian Pacific Railway",
+              "Linking the Atlantic coast to Hudson Bay only",
               "Dividing the provinces into separate, disconnected regions",
               "Preventing any further westward settlement"
             ],
@@ -15570,9 +15570,9 @@ const curriculum: DayContent[] = [
             "q": "Why is the treatment of Chinese railway workers an important part of understanding the Canadian Pacific Railway’s history?",
             "options": [
               "Chinese workers faced no hardship or discrimination while building the railway",
-              "A reason unrelated to this history",
+              "It shows the railway was built entirely with British labour",
               "It reveals the discrimination and hardship faced by workers who helped build the nation",
-              "Their contribution had no connection to the railway’s completion"
+              "It reveals that the railway was built without government funding"
             ],
             "answer": 2
           }
@@ -15629,7 +15629,7 @@ const curriculum: DayContent[] = [
               "Were is only used when talking about more than one person",
               "The special verb form signals that the statement describes a hypothetical or unreal situation",
               "Was is grammatically incorrect in every sentence",
-              "The subjunctive mood has no connection to hypothetical situations"
+              "Were is chosen only to make the sentence sound more poetic"
             ],
             "answer": 1
           },
@@ -15697,7 +15697,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might an ice cream cone wrapper need to be shaped to match the cones lateral surface?",
             "options": [
-              "Surface area has no connection to real-world wrapping",
+              "Because the wrapper only has to match the area of the circular base",
               "So the flat wrapper can fold to cover the curved surface without gaps or overlap",
               "Wrappers never need to match the shape they cover",
               "Cones do not have a lateral surface to wrap"
@@ -15718,7 +15718,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Water pollution occurs when ___.",
             "options": [
-              "A concept unrelated to water pollution",
+              "Water absorbs too much oxygen from the air",
               "Harmful substances enter water systems and degrade their quality",
               "Water systems remain completely free of any outside substances",
               "Water naturally purifies itself with no outside factors involved"
@@ -15728,7 +15728,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these is a common source of water pollution?",
             "options": [
-              "A source unrelated to water pollution",
+              "Snow melting into mountain streams",
               "Water evaporating from a lake on a hot day",
               "Rainfall collecting in a clean reservoir",
               "Agricultural runoff containing fertilizers and pesticides"
@@ -15739,7 +15739,7 @@ const curriculum: DayContent[] = [
             "q": "Excess nutrients in a lake, such as from fertilizer runoff, can cause ___.",
             "options": [
               "Algal blooms that deplete oxygen and harm aquatic life",
-              "A result unrelated to water pollution",
+              "Increased oxygen levels that help aquatic plants and fish thrive",
               "Immediate improvement in water clarity and quality",
               "A permanent increase in fish populations with no negative effects"
             ],
@@ -15749,7 +15749,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these is an effective water conservation practice?",
             "options": [
               "Increasing the use of fertilizers near waterways",
-              "A practice unrelated to water conservation",
+              "Watering the lawn at midday to keep it green",
               "Fixing leaky faucets and taking shorter showers",
               "Leaving taps running continuously throughout the day"
             ],
@@ -15758,10 +15758,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is protecting water quality important for both ecosystems and human communities?",
             "options": [
-              "Polluted water has no effect on the organisms that depend on it",
+              "Aquatic organisms can easily adapt to any level of pollution",
               "Clean water supports aquatic life and is essential for drinking, agriculture, and health",
-              "A reason unrelated to water systems",
-              "Water quality has no connection to ecosystems or human health"
+              "Only human communities depend on water, since ecosystems get water elsewhere",
+              "Water quality affects fish and plants but not drinking water or crops"
             ],
             "answer": 1
           }
@@ -15780,7 +15780,7 @@ const curriculum: DayContent[] = [
             "q": "Residential schools were institutions that ___.",
             "options": [
               "Taught only Indigenous languages and traditions with government support",
-              "A description unrelated to residential schools",
+              "Provided free trade training to children from all backgrounds",
               "Were voluntarily attended by Indigenous families with no pressure involved",
               "Forcibly separated Indigenous children from their families to assimilate them"
             ],
@@ -15789,10 +15789,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Residential schools in Canada were funded by ___.",
             "options": [
-              "A group unrelated to residential schools",
+              "Provincial school boards with no church involvement",
               "Indigenous communities themselves, with no outside involvement",
               "The government and operated in partnership with churches",
-              "International organizations with no connection to Canada"
+              "The United Nations, as part of a global education program"
             ],
             "answer": 2
           },
@@ -15800,7 +15800,7 @@ const curriculum: DayContent[] = [
             "q": "The legacy of residential schools includes ___.",
             "options": [
               "Lasting intergenerational harm to Indigenous families and communities",
-              "A legacy unrelated to residential schools",
+              "Improved economic opportunities that benefited all Indigenous communities equally",
               "No lasting effects on Indigenous communities whatsoever",
               "Immediate and complete healing with no ongoing impact"
             ],
@@ -15810,7 +15810,7 @@ const curriculum: DayContent[] = [
             "q": "What has Canada undertaken in recent years to address the legacy of residential schools?",
             "options": [
               "A complete refusal to acknowledge that residential schools existed",
-              "An action unrelated to reconciliation efforts",
+              "Creating a new Indian Act in 2015",
               "A decision to reopen residential schools using the same model",
               "Truth and reconciliation efforts, including formal apologies and commissions"
             ],
@@ -15820,9 +15820,9 @@ const curriculum: DayContent[] = [
             "q": "Why is learning about residential schools an important part of understanding Canadian history?",
             "options": [
               "It helps Canadians understand past injustices and supports ongoing reconciliation",
-              "Residential schools are a topic unrelated to Indigenous history",
-              "This history has no relevance to understanding Canada today",
-              "A reason unrelated to its historical significance"
+              "They show the Indian Act was repealed in 1867",
+              "It shows that Indigenous cultures disappeared by 1900",
+              "They help explain Confederation negotiations in the 1860s"
             ],
             "answer": 0
           }
@@ -15849,7 +15849,7 @@ const curriculum: DayContent[] = [
               "A user’s past activity and preferences",
               "A fixed list that never changes for any user",
               "A completely random selection with no pattern",
-              "A concept unrelated to algorithms"
+              "The political party chosen by the platform's owners"
             ],
             "answer": 0
           },
@@ -15859,7 +15859,7 @@ const curriculum: DayContent[] = [
               "A user is shown a perfectly balanced range of every possible viewpoint",
               "All users see identical content regardless of their activity",
               "A user is repeatedly shown content that reinforces their existing beliefs",
-              "A concept unrelated to filter bubbles"
+              "A website blocks the user's access to all content"
             ],
             "answer": 2
           },
@@ -15868,17 +15868,17 @@ const curriculum: DayContent[] = [
             "options": [
               "Guaranteed exposure to every possible viewpoint",
               "Reduced exposure to differing perspectives and opinions",
-              "Filter bubbles have no effect on the content people see",
-              "A risk unrelated to filter bubbles"
+              "Increased exposure to opposing viewpoints",
+              "Greater accuracy in the news a person receives"
             ],
             "answer": 1
           },
           {
             "q": "Why might understanding algorithms help someone evaluate their social media feed?",
             "options": [
-              "Algorithms have no influence on what content a person sees",
+              "Algorithms only decide the colour and layout of the app",
               "It reveals that the content shown is curated rather than a neutral sample of information",
-              "A reason unrelated to media literacy",
+              "It shows that feeds are sorted only by the date posted",
               "All social media feeds show identical, unfiltered content"
             ],
             "answer": 1
@@ -15888,7 +15888,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Deliberately seeking out sources with differing perspectives",
               "Avoiding all forms of media entirely",
-              "An action unrelated to filter bubbles",
+              "Clicking only on posts that have the most likes",
               "Only interacting with content that confirms existing beliefs"
             ],
             "answer": 0
@@ -15917,7 +15917,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A currency exchange rate determines ___.",
             "options": [
-              "A concept unrelated to currency exchange",
+              "The amount of tax paid when travelling abroad",
               "How much one currency is worth in terms of another",
               "The total amount of money a country has printed",
               "The interest rate charged by a bank"
@@ -15927,7 +15927,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Unit pricing calculates ___.",
             "options": [
-              "A concept unrelated to unit pricing",
+              "The percent discount applied to an item",
               "The cost per single unit of an item",
               "The total cost of an entire package regardless of size",
               "The tax applied to a purchase"
@@ -15940,14 +15940,14 @@ const curriculum: DayContent[] = [
               "200 USD",
               "150 USD",
               "266.67 USD",
-              "A value unrelated to the calculation"
+              "175 USD"
             ],
             "answer": 1
           },
           {
             "q": "A 500 g box of cereal costs 5 dollars, and a 750 g box costs 6 dollars. Which has the lower unit price per gram?",
             "options": [
-              "A result unrelated to the calculation",
+              "Neither, since the prices are different",
               "The 750 g box",
               "They have exactly the same unit price",
               "The 500 g box"
@@ -15959,7 +15959,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It allows a fair comparison of value between differently sized packages",
               "Larger packages are always the better value regardless of price",
-              "A reason unrelated to unit pricing",
+              "It shows the total price including tax",
               "Unit pricing provides no useful information for comparing products"
             ],
             "answer": 0
@@ -15979,7 +15979,7 @@ const curriculum: DayContent[] = [
             "q": "Filtration in water treatment involves ___.",
             "options": [
               "Heating water until it completely evaporates",
-              "A process unrelated to filtration",
+              "Boiling water to remove dissolved gases only",
               "Passing water through materials that remove suspended particles",
               "Adding contaminants directly into the water supply"
             ],
@@ -15988,7 +15988,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Sedimentation in water treatment allows ___.",
             "options": [
-              "A process unrelated to sedimentation",
+              "Dissolved gases to escape from the water",
               "All particles to remain suspended evenly throughout the water",
               "Heavier particles to settle to the bottom of a container over time",
               "Water to instantly become completely pure with no further steps"
@@ -16000,7 +16000,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Kill or inactivate harmful microorganisms in the water",
               "Remove all minerals from the water permanently",
-              "A process unrelated to disinfection",
+              "Remove visible particles by passing the water through sand",
               "Add more microorganisms to the water supply"
             ],
             "answer": 0
@@ -16008,7 +16008,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these is commonly used as a disinfectant in municipal water treatment?",
             "options": [
-              "A substance unrelated to water treatment",
+              "Sand",
               "Vegetable oil",
               "Chlorine",
               "Table salt"
@@ -16020,8 +16020,8 @@ const curriculum: DayContent[] = [
             "options": [
               "A single stage always removes every possible contaminant",
               "Each stage removes different types of contaminants, resulting in safer water overall",
-              "A reason unrelated to water treatment",
-              "Additional stages have no effect on water safety"
+              "Each stage heats the water to a higher temperature until it is pure",
+              "Additional stages mainly add minerals for flavour without improving safety"
             ],
             "answer": 1
           }
@@ -16039,7 +16039,7 @@ const curriculum: DayContent[] = [
             "q": "Canada has historically contributed forces to peacekeeping missions organized by ___.",
             "options": [
               "Only its own domestic government",
-              "A group unrelated to peacekeeping",
+              "The Organization of American States",
               "No international organization at all",
               "The United Nations"
             ],
@@ -16050,7 +16050,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Start new conflicts in a region",
               "Help maintain stability in regions affected by conflict",
-              "A concept unrelated to peacekeeping",
+              "Enforce a peace settlement by occupying the country",
               "Remove all international involvement from a conflict"
             ],
             "answer": 1
@@ -16061,7 +16061,7 @@ const curriculum: DayContent[] = [
               "Participating in peacekeeping missions serves no useful purpose",
               "To support global stability and demonstrate a commitment to international cooperation",
               "Canada is required to participate with no choice involved",
-              "A reason unrelated to Canada’s foreign policy"
+              "To gain territory in conflict zones"
             ],
             "answer": 1
           },
@@ -16071,7 +16071,7 @@ const curriculum: DayContent[] = [
               "Replacing the government of the country they are sent to",
               "Starting new wars in regions with existing peace",
               "Helping maintain a ceasefire or supporting stability in a conflict-affected region",
-              "A concept unrelated to peacekeeping"
+              "Defeating one side to win the conflict"
             ],
             "answer": 2
           },
@@ -16079,8 +16079,8 @@ const curriculum: DayContent[] = [
             "q": "Why is Canada’s peacekeeping history often discussed as part of its national identity?",
             "options": [
               "It reflects a long-standing value Canada has placed on international cooperation",
-              "A reason unrelated to Canadian history",
-              "Peacekeeping has no connection to Canadian identity",
+              "It began with Canada's participation in the First World War",
+              "Canada has been the only country to serve as peacekeepers",
               "Canada has never taken part in any international missions"
             ],
             "answer": 0
@@ -16105,7 +16105,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An allegory is a narrative in which ___.",
             "options": [
-              "A concept unrelated to allegory",
+              "A narrative written entirely in verse with rhyming couplets",
               "Characters and events symbolically represent a deeper meaning",
               "A story contains absolutely no symbolic meaning at all",
               "Every character and event should be read only literally"
@@ -16115,7 +16115,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Allegories are often used to convey ___.",
             "options": [
-              "A concept unrelated to allegory",
+              "Only the author's personal biography",
               "Only factual, historical information with no deeper meaning",
               "No message of any kind",
               "A moral, political, or social message"
@@ -16127,7 +16127,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Allegories always make a message harder to understand for no reason",
               "Direct statements are always more powerful than allegorical stories",
-              "A reason unrelated to allegory",
+              "It lets authors avoid showing any characters or events",
               "It allows readers to engage with complex ideas through story and symbolism"
             ],
             "answer": 3
@@ -16135,9 +16135,9 @@ const curriculum: DayContent[] = [
           {
             "q": "In an allegorical story, a character representing greed would likely ___.",
             "options": [
-              "Make choices with no connection to any theme",
+              "Appear only as a minor background detail",
               "Represent kindness and generosity throughout the story",
-              "A concept unrelated to allegory",
+              "Sacrifice personal gain to help others",
               "Make choices driven by a desire for wealth or possessions"
             ],
             "answer": 3
@@ -16147,7 +16147,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Background knowledge never affects how an allegory is understood",
               "Allegories require no interpretation of any kind",
-              "A reason unrelated to reading comprehension",
+              "It allows readers to skip the symbolic parts of the story",
               "It can reveal the historical or social context the symbolic story is commenting on"
             ],
             "answer": 3
@@ -16169,14 +16169,14 @@ const curriculum: DayContent[] = [
               "The actual results collected from repeated trials",
               "A random guess with no calculation involved",
               "The known possible outcomes of an event",
-              "A concept unrelated to theoretical probability"
+              "The percentage of trials that were successful"
             ],
             "answer": 2
           },
           {
             "q": "Experimental probability is calculated using ___.",
             "options": [
-              "A concept unrelated to experimental probability",
+              "The total number of trials only",
               "A value that never changes no matter how many trials occur",
               "The actual results collected from repeated trials",
               "Only the known possible outcomes of an event"
@@ -16188,7 +16188,7 @@ const curriculum: DayContent[] = [
             "options": [
               "1/6",
               "4/6",
-              "A value unrelated to the calculation",
+              "1/3",
               "1/4"
             ],
             "answer": 0
@@ -16197,7 +16197,7 @@ const curriculum: DayContent[] = [
             "q": "If a coin is flipped 50 times and lands on heads 28 times, the experimental probability of heads is ___.",
             "options": [
               "28/50",
-              "A value unrelated to the calculation",
+              "50/28",
               "22/50",
               "1/2"
             ],
@@ -16206,7 +16206,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might experimental probability differ from theoretical probability in a small number of trials?",
             "options": [
-              "A reason unrelated to probability",
+              "The coin or die becomes biased after only a few trials",
               "Theoretical probability changes based on the number of trials conducted",
               "Random chance can cause actual results to vary from expected outcomes in the short term",
               "Experimental and theoretical probability are always exactly identical"
@@ -16230,14 +16230,14 @@ const curriculum: DayContent[] = [
               "Always requiring more force than doing the task by hand",
               "Changing the amount or direction of force needed",
               "Eliminating the need for any force entirely",
-              "A concept unrelated to simple machines"
+              "Increasing the total work needed to complete the task"
             ],
             "answer": 1
           },
           {
             "q": "Mechanical advantage compares ___.",
             "options": [
-              "A concept unrelated to mechanical advantage",
+              "The work done by a machine to the time it takes",
               "The colour of a machine to its size",
               "The weight of a machine to its cost",
               "The output force of a machine to the input force applied"
@@ -16249,7 +16249,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A television",
               "A smartphone",
-              "A device unrelated to simple machines",
+              "A refrigerator",
               "A lever"
             ],
             "answer": 3
@@ -16258,7 +16258,7 @@ const curriculum: DayContent[] = [
             "q": "An inclined plane makes moving a heavy object easier by ___.",
             "options": [
               "Allowing the force to be applied over a longer distance",
-              "A concept unrelated to inclined planes",
+              "Reducing the object's mass as it moves up",
               "Requiring the object to be lifted straight up with no assistance",
               "Increasing the object’s actual weight"
             ],
@@ -16268,7 +16268,7 @@ const curriculum: DayContent[] = [
             "q": "Why might engineers combine multiple simple machines into a compound machine?",
             "options": [
               "Compound machines can never accomplish more than a single simple machine",
-              "A reason unrelated to mechanical systems",
+              "Simple machines cannot be physically connected to each other",
               "Combining simple machines always reduces their overall usefulness",
               "To achieve a greater mechanical advantage or perform a more complex task"
             ],
@@ -16291,14 +16291,14 @@ const curriculum: DayContent[] = [
               "Rebuild war-torn European countries after World War II",
               "End all trade between European countries",
               "Begin a brand new war in Europe",
-              "A concept unrelated to the Marshall Plan"
+              "Lower tariffs between Canada and the United States"
             ],
             "answer": 0
           },
           {
             "q": "The Marshall Plan primarily provided ___.",
             "options": [
-              "A type of support unrelated to the Marshall Plan",
+              "Loans to build new colonies overseas",
               "Military weapons with no economic support",
               "No support of any kind",
               "Economic aid to European countries"
@@ -16308,8 +16308,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might economic aid have been especially important for Europe after World War II?",
             "options": [
-              "A reason unrelated to post-war reconstruction",
-              "Economic aid had no effect on rebuilding efforts",
+              "Soviet leaders demanded Europe repay all war debts",
+              "Aid was needed to rebuild armies after the war",
               "Many countries faced widespread destruction and needed support to rebuild their economies",
               "European countries faced no economic challenges after the war"
             ],
@@ -16318,7 +16318,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which country launched the Marshall Plan?",
             "options": [
-              "A country unrelated to the Marshall Plan",
+              "Britain",
               "A country that no longer exists",
               "The United States",
               "Canada"
@@ -16329,7 +16329,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the Marshall Plan still studied as an example of post-war reconstruction?",
             "options": [
               "It shows how international aid can help rebuild economies and stability after conflict",
-              "A reason unrelated to its historical significance",
+              "It created the United Nations",
               "It focused only on military strategy, with no economic component",
               "The Marshall Plan had no lasting effect on Europe’s recovery"
             ],
@@ -16357,14 +16357,14 @@ const curriculum: DayContent[] = [
               "A person’s skills, experience, and education",
               "A completely fictional account of a person’s life",
               "Only a person’s personal opinions with no factual information",
-              "A concept unrelated to resumes"
+              "A written argument about a community issue"
             ],
             "answer": 0
           },
           {
             "q": "A cover letter is written to ___.",
             "options": [
-              "A concept unrelated to cover letters",
+              "Argue for a change in a community policy",
               "List a person’s skills in a structured table with no explanation",
               "Introduce the applicant and explain why they are suited to an opportunity",
               "Replace the need for a resume entirely"
@@ -16377,7 +16377,7 @@ const curriculum: DayContent[] = [
               "A persuasive argument with no factual information",
               "A list of relevant skills and past experiences",
               "A detailed story about an unrelated childhood memory",
-              "A concept unrelated to resumes"
+              "A paragraph of opinion about a news event"
             ],
             "answer": 1
           },
@@ -16387,7 +16387,7 @@ const curriculum: DayContent[] = [
               "It shows the reader how the applicant’s skills connect directly to that role",
               "A single generic cover letter is always the most effective approach",
               "Tailoring a cover letter never affects how it is received",
-              "A reason unrelated to cover letters"
+              "It makes the letter long enough to replace the resume"
             ],
             "answer": 0
           },
@@ -16397,7 +16397,7 @@ const curriculum: DayContent[] = [
               "Bullet points always make information harder to read",
               "Full paragraphs are required on every resume",
               "It allows a reader to quickly scan key information",
-              "A reason unrelated to resumes"
+              "It lets the writer include creative storytelling about their life"
             ],
             "answer": 2
           }
@@ -16417,7 +16417,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only a single numerical value with no variables",
               "Multiple variables, often representing a formula",
-              "A concept unrelated to literal equations",
+              "Variables that are always equal to zero",
               "No variables of any kind"
             ],
             "answer": 1
@@ -16426,7 +16426,7 @@ const curriculum: DayContent[] = [
             "q": "Solving a literal equation for a specific variable involves ___.",
             "options": [
               "Ignoring all other variables in the equation entirely",
-              "A concept unrelated to literal equations",
+              "Replacing the variable with its largest possible value",
               "Replacing every variable with a fixed number",
               "Isolating that variable using inverse operations"
             ],
@@ -16436,7 +16436,7 @@ const curriculum: DayContent[] = [
             "q": "Solve the formula for length: A = lw, for l.",
             "options": [
               "l = A - w",
-              "A value unrelated to the calculation",
+              "l = A + w",
               "l = Aw",
               "l = A/w"
             ],
@@ -16447,7 +16447,7 @@ const curriculum: DayContent[] = [
             "options": [
               "C = (9/5)(F - 32)",
               "C = (5/9)F + 32",
-              "A value unrelated to the calculation",
+              "C = (5/9)F - 32",
               "C = (5/9)(F - 32)"
             ],
             "answer": 3
@@ -16455,7 +16455,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful to rearrange a formula to solve for a different variable?",
             "options": [
-              "A reason unrelated to literal equations",
+              "It changes the units of measurement used in the formula",
               "Rearranging a formula never changes how it can be used",
               "It allows a specific unknown value to be calculated directly when others are known",
               "Formulas can only ever be solved for the original isolated variable"
@@ -16476,7 +16476,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Density is best described as ___.",
             "options": [
-              "A concept unrelated to density",
+              "The volume of space an object occupies, regardless of its mass",
               "The amount of mass contained in a given volume",
               "The temperature of an object’s surroundings",
               "The total weight of an object regardless of its size"
@@ -16489,7 +16489,7 @@ const curriculum: DayContent[] = [
               "Less than the density of water",
               "Greater than the density of water",
               "Exactly equal to the density of air",
-              "A concept unrelated to buoyancy"
+              "Exactly double the density of water"
             ],
             "answer": 0
           },
@@ -16498,7 +16498,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The weight of the fluid the object displaces",
               "Zero, regardless of the object’s size or shape",
-              "A concept unrelated to Archimedes’ principle",
+              "The weight of the container holding the fluid",
               "The total weight of the object itself"
             ],
             "answer": 0
@@ -16509,7 +16509,7 @@ const curriculum: DayContent[] = [
               "Ships never displace any water while floating",
               "Its overall shape displaces enough water to support its weight",
               "Steel is actually less dense than water in every situation",
-              "A reason unrelated to buoyancy"
+              "Steel becomes less dense when it is shaped into a hull"
             ],
             "answer": 1
           },
@@ -16517,9 +16517,9 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding density and buoyancy important when designing submarines?",
             "options": [
               "Submarines must control their density to rise, sink, or remain at a steady depth",
-              "Density and buoyancy have no connection to submarine design",
+              "Submarines float or sink only because of their engines' thrust",
               "Submarines always float regardless of their density",
-              "A reason unrelated to matter and energy"
+              "Submarines rely on their weight alone to stay at a steady depth"
             ],
             "answer": 0
           }
@@ -16551,7 +16551,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The Industrial Revolution brought major changes to how ___.",
             "options": [
-              "A concept unrelated to this historical period",
+              "Countries chose their rulers during the Middle Ages",
               "Countries interacted before any trade existed",
               "Goods were produced and how people lived and worked",
               "Ancient civilizations first began, thousands of years earlier"
@@ -16564,14 +16564,14 @@ const curriculum: DayContent[] = [
               "A ban on all future elections",
               "The right for men to vote for the first time",
               "The right for women to vote",
-              "A concept unrelated to suffrage movements"
+              "Equal pay for women in factories"
             ],
             "answer": 2
           },
           {
             "q": "The Berlin Wall became a powerful symbol of ___.",
             "options": [
-              "A concept unrelated to the Berlin Wall",
+              "The success of the Marshall Plan",
               "International cooperation and unity",
               "A divided Germany and the broader Cold War conflict",
               "A period with no political tension at all"
@@ -16582,9 +16582,9 @@ const curriculum: DayContent[] = [
             "q": "Apartheid was a system that ___.",
             "options": [
               "Enforced racial segregation by law in South Africa",
-              "A concept unrelated to South African history",
+              "Divided South Africa into British and Dutch colonies",
               "Guaranteed equal rights for all South African citizens",
-              "Existed with no connection to law or government"
+              "Was imposed by the United Nations to keep peace"
             ],
             "answer": 0
           },
@@ -16593,8 +16593,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Review is never useful when studying history",
               "It reinforces how these interconnected historical events shaped rights and societies over time",
-              "A reason unrelated to social studies learning",
-              "These events have no connection to one another"
+              "Revolutions all happened in the same year",
+              "Rights movements ended before industrialization began"
             ],
             "answer": 1
           }
@@ -16619,7 +16619,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Never appears in everyday spoken or written language",
               "Cannot be understood from the literal definitions of its individual words",
-              "A concept unrelated to idioms",
+              "Is limited to formal, academic writing",
               "Is always identical to its literal, word-for-word meaning"
             ],
             "answer": 1
@@ -16627,7 +16627,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does the idiom “break the ice” mean?",
             "options": [
-              "A concept unrelated to idioms",
+              "To start a conflict with a stranger",
               "To end a friendship permanently",
               "To ease tension or begin a conversation in a new social situation",
               "To literally shatter a piece of ice"
@@ -16637,7 +16637,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does the idiom “under the weather” mean?",
             "options": [
-              "A concept unrelated to idioms",
+              "Feeling confused about a decision",
               "Feeling extremely happy and energetic",
               "Standing outside during a storm",
               "Feeling ill or unwell"
@@ -16648,7 +16648,7 @@ const curriculum: DayContent[] = [
             "q": "Why can idioms be challenging for readers learning a new language?",
             "options": [
               "Idioms are never used in everyday conversation",
-              "A reason unrelated to idioms",
+              "They are rarely used in English-speaking countries",
               "Their meaning cannot be determined by translating each word literally",
               "Idioms always have an obvious, literal meaning"
             ],
@@ -16659,7 +16659,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It helps a reader understand the intended meaning behind a character’s words",
               "Idioms never affect how dialogue is interpreted",
-              "A reason unrelated to reading comprehension",
+              "It lets a reader skip the dialogue and still understand the plot",
               "All dialogue in novels is written only in literal language"
             ],
             "answer": 0
@@ -16688,7 +16688,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Two figures are congruent if they have ___.",
             "options": [
-              "A concept unrelated to congruence",
+              "Matching angles but sides of different lengths",
               "The same shape but different sizes",
               "Exactly the same size and shape",
               "The same size but different shapes"
@@ -16699,7 +16699,7 @@ const curriculum: DayContent[] = [
             "q": "A geometric construction traditionally uses ___.",
             "options": [
               "A calculator and protractor only",
-              "A set of tools unrelated to geometric constructions",
+              "A compass and a protractor",
               "No tools of any kind",
               "A compass and straightedge"
             ],
@@ -16709,7 +16709,7 @@ const curriculum: DayContent[] = [
             "q": "A perpendicular bisector divides a line segment into ___.",
             "options": [
               "Two unequal parts at a 45-degree angle",
-              "A result unrelated to perpendicular bisectors",
+              "Two equal parts at a 45-degree angle",
               "Two equal parts at a 90-degree angle",
               "Three unequal parts at a random angle"
             ],
@@ -16721,14 +16721,14 @@ const curriculum: DayContent[] = [
               "Two congruent angles",
               "Three congruent angles",
               "Two angles of different measures",
-              "A result unrelated to angle bisectors"
+              "Two angles that add up to 180 degrees"
             ],
             "answer": 0
           },
           {
             "q": "Why are precise geometric constructions important in fields like architecture and engineering?",
             "options": [
-              "A reason unrelated to geometric constructions",
+              "They let designers replace measuring tools with estimation",
               "Precise constructions have no real-world importance",
               "They ensure measurements and shapes are accurate and consistent",
               "Architecture and engineering never require any accuracy"
@@ -16749,7 +16749,7 @@ const curriculum: DayContent[] = [
           {
             "q": "On the pH scale, a value below 7 indicates ___.",
             "options": [
-              "A concept unrelated to the pH scale",
+              "A salt solution",
               "An acid",
               "A base",
               "A completely neutral substance"
@@ -16761,7 +16761,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A substance with no measurable pH",
               "An acid",
-              "A concept unrelated to the pH scale",
+              "A neutral substance",
               "A base"
             ],
             "answer": 3
@@ -16770,7 +16770,7 @@ const curriculum: DayContent[] = [
             "q": "Pure water has a pH of approximately ___.",
             "options": [
               "14, which is highly basic",
-              "A value unrelated to the pH scale",
+              "1, which is mildly acidic",
               "7, which is neutral",
               "0, which is highly acidic"
             ],
@@ -16781,7 +16781,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Lemon juice",
               "Baking soda",
-              "A substance unrelated to acids and bases",
+              "Milk of magnesia",
               "Soap"
             ],
             "answer": 0
@@ -16789,9 +16789,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is testing the pH of soil or water important in agriculture and environmental science?",
             "options": [
-              "pH has no effect on plant growth or environmental conditions",
+              "Plants grow equally well at any pH",
               "All soil and water naturally have the exact same pH",
-              "A reason unrelated to chemistry",
+              "Soil pH determines how much rainfall an area receives",
               "It helps determine whether conditions are suitable for specific plants or organisms"
             ],
             "answer": 3
@@ -16810,7 +16810,7 @@ const curriculum: DayContent[] = [
             "q": "The Indus Valley Civilization is known for its advanced ___.",
             "options": [
               "City planning, including organized streets and drainage systems",
-              "A concept unrelated to the Indus Valley Civilization",
+              "Large pyramids for burying pharaohs",
               "Complete absence of any cities or towns",
               "Reliance on hunting and gathering, with no settled towns"
             ],
@@ -16821,7 +16821,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The Nile River",
               "The Amazon River",
-              "A river unrelated to this civilization",
+              "The Tigris River",
               "The Indus River"
             ],
             "answer": 3
@@ -16829,7 +16829,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these remains a mystery to historians studying the Indus Valley Civilization?",
             "options": [
-              "A concept unrelated to the Indus Valley Civilization",
+              "Whether it traded with Mesopotamia, which has never been shown",
               "Its written script has not yet been fully deciphered",
               "The civilization left behind no archaeological evidence at all",
               "Historians know every detail about its writing system"
@@ -16840,19 +16840,19 @@ const curriculum: DayContent[] = [
             "q": "Why is the Indus Valley Civilization often compared to Mesopotamia and Egypt?",
             "options": [
               "All three were early civilizations that developed advanced societies along major rivers",
-              "These civilizations developed with no connection to rivers at all",
+              "They were all founded by the same ruler",
               "They existed on entirely different planets, with no shared characteristics",
-              "A reason unrelated to ancient river civilizations"
+              "All three were located in Europe and shared a single language"
             ],
             "answer": 0
           },
           {
             "q": "Why do historians consider the Indus Valley Civilization an important part of ancient world history?",
             "options": [
-              "A reason unrelated to its historical significance",
+              "It was the first civilization to use iron weapons",
               "It existed for too short a time to be historically significant",
               "It was one of the earliest large, organized urban societies, contributing to later civilizations",
-              "It had no influence on later societies"
+              "It was conquered before it built any cities"
             ],
             "answer": 2
           }
@@ -16875,7 +16875,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A graphic novel tells a story through ___.",
             "options": [
-              "A concept unrelated to graphic novels",
+              "Photographs with captions, with no narrative",
               "Images alone, with no text of any kind",
               "A combination of images and text",
               "Text alone, with no images included"
@@ -16886,7 +16886,7 @@ const curriculum: DayContent[] = [
             "q": "In a graphic novel, a panel is best described as ___.",
             "options": [
               "The blank space between two images",
-              "A concept unrelated to graphic novels",
+              "The speech bubble holding a character's words",
               "A single framed image representing one moment in the story",
               "The title printed on the cover of the book"
             ],
@@ -16895,7 +16895,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In a graphic novel, the gutter refers to ___.",
             "options": [
-              "A concept unrelated to graphic novels",
+              "The border drawn around each panel",
               "The space between panels",
               "The text found inside a speech bubble",
               "The main character of the story"
@@ -16908,7 +16908,7 @@ const curriculum: DayContent[] = [
               "Every panel in a graphic novel must be exactly the same size",
               "Panel size never has any effect on how a story is read",
               "To emphasize important moments or control the pacing of the narrative",
-              "A reason unrelated to visual storytelling"
+              "To reduce the cost of printing the book"
             ],
             "answer": 2
           },
@@ -16918,7 +16918,7 @@ const curriculum: DayContent[] = [
               "Facial expressions, colour, and imagery can communicate feeling without relying only on words",
               "Only written dialogue can ever communicate a character’s emotions",
               "Graphic novels are unable to convey any emotion at all",
-              "A reason unrelated to visual storytelling"
+              "Because colour is used only to decorate the page"
             ],
             "answer": 0
           }
@@ -16948,7 +16948,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Uses only a single shape placed one time",
               "Covers a plane with no gaps or overlaps",
-              "A concept unrelated to tessellations",
+              "Overlaps each shape by the same amount",
               "Always leaves gaps between each shape"
             ],
             "answer": 1
@@ -16958,7 +16958,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A regular heptagon",
               "A regular pentagon",
-              "A shape unrelated to tessellations",
+              "A regular octagon",
               "A square"
             ],
             "answer": 3
@@ -16967,7 +16967,7 @@ const curriculum: DayContent[] = [
             "q": "A shape has line symmetry if ___.",
             "options": [
               "It has no possible line of symmetry at all",
-              "A concept unrelated to symmetry",
+              "It has two sides that are equal in length",
               "It looks completely different after being folded in half",
               "It can be folded along a line so both halves match exactly"
             ],
@@ -16976,7 +16976,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Rotational symmetry occurs when a shape ___.",
             "options": [
-              "A concept unrelated to rotational symmetry",
+              "Can be flipped across a line and still look the same",
               "Can be rotated around a central point and still look the same",
               "Has no central point of any kind",
               "Can never be rotated without changing its appearance"
@@ -16988,7 +16988,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Tessellations have no practical use in art or design",
               "They create visually striking, seamless repeating patterns",
-              "A reason unrelated to tessellations",
+              "They allow one shape to be enlarged repeatedly to fill space",
               "Tessellations always leave large gaps in a pattern"
             ],
             "answer": 1
@@ -17010,7 +17010,7 @@ const curriculum: DayContent[] = [
               "Nothing at all about a substance",
               "The form or appearance of a substance without changing its chemical composition",
               "The chemical composition of a substance into an entirely new substance",
-              "A concept unrelated to physical changes"
+              "Only the mass of a substance, making it heavier or lighter"
             ],
             "answer": 1
           },
@@ -17018,7 +17018,7 @@ const curriculum: DayContent[] = [
             "q": "A chemical change results in ___.",
             "options": [
               "The exact same substance with no properties changed",
-              "A concept unrelated to chemical changes",
+              "Only a change in the shape of the substance",
               "Only a change in the temperature of a substance",
               "A new substance with different properties than the original"
             ],
@@ -17030,7 +17030,7 @@ const curriculum: DayContent[] = [
               "Melting an ice cube into water",
               "Rusting of iron",
               "Burning a piece of paper",
-              "A change unrelated to physical vs chemical changes"
+              "Baking cake batter into a cake"
             ],
             "answer": 0
           },
@@ -17039,7 +17039,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Cutting a piece of paper into smaller pieces",
               "Burning wood into ash and smoke",
-              "A change unrelated to physical vs chemical changes",
+              "Dissolving sugar in water",
               "Freezing liquid water into ice"
             ],
             "answer": 1
@@ -17050,7 +17050,7 @@ const curriculum: DayContent[] = [
               "A substance returning to its original form with no lasting change",
               "An object simply changing shape with no other effects",
               "The production of gas bubbles, a colour change, or a new odour",
-              "A sign unrelated to chemical changes"
+              "A substance changing from a solid to a liquid when heated"
             ],
             "answer": 2
           }
@@ -17069,8 +17069,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Fishing rights along the Atlantic coast only",
               "Gold and salt trade routes across the Sahara",
-              "A concept unrelated to these kingdoms",
-              "Trade routes that had no connection to gold or salt"
+              "Control of the Atlantic fur trade",
+              "Silk and spice routes to China"
             ],
             "answer": 1
           },
@@ -17078,7 +17078,7 @@ const curriculum: DayContent[] = [
             "q": "Which West African ruler is well known for a famous pilgrimage that showcased the kingdom’s vast wealth?",
             "options": [
               "A ruler of the Byzantine Empire",
-              "A ruler unrelated to West African history",
+              "Suleiman the Magnificent of the Ottoman Empire",
               "A ruler of ancient Egypt",
               "Mansa Musa of the Mali Empire"
             ],
@@ -17089,7 +17089,7 @@ const curriculum: DayContent[] = [
             "options": [
               "These routes had no economic importance to West Africa",
               "They connected West Africa to North Africa and beyond, enabling valuable trade",
-              "A reason unrelated to trade routes",
+              "They carried silk and spices from China to West Africa",
               "The kingdoms refused to trade with any outside regions"
             ],
             "answer": 1
@@ -17097,7 +17097,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The city of Timbuktu, part of the Mali Empire, became well known as a centre of ___.",
             "options": [
-              "A concept unrelated to Timbuktu",
+              "Military training and naval power",
               "Learning and trade",
               "Farming only, with no scholarly activity",
               "Isolation, with no connections to trade or scholarship"
@@ -17110,7 +17110,7 @@ const curriculum: DayContent[] = [
               "These kingdoms had no lasting historical significance",
               "West Africa had no organized societies before European contact",
               "It highlights sophisticated, wealthy societies that are often underrepresented in world history lessons",
-              "A reason unrelated to their historical importance"
+              "They show that West Africa traded only with Europe before 1500"
             ],
             "answer": 2
           }
@@ -17135,7 +17135,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Separate every sentence with no connection at all",
               "Connect ideas within and between sentences",
-              "A concept unrelated to transitions",
+              "Indicate the writer's own opinion about a topic",
               "Replace the need for punctuation entirely"
             ],
             "answer": 1
@@ -17144,7 +17144,7 @@ const curriculum: DayContent[] = [
             "q": "Which transition word signals a contrast between two ideas?",
             "options": [
               "Similarly",
-              "A word unrelated to transitions",
+              "For example",
               "Furthermore",
               "However"
             ],
@@ -17155,7 +17155,7 @@ const curriculum: DayContent[] = [
             "options": [
               "In contrast",
               "Therefore",
-              "A word unrelated to transitions",
+              "Likewise",
               "Meanwhile"
             ],
             "answer": 1
@@ -17165,7 +17165,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Flows logically, helping the reader follow the connections between ideas",
               "Never uses any transitional words or phrases",
-              "A concept unrelated to cohesion",
+              "Relies only on long, complex sentences",
               "Contains ideas with no logical connection to one another"
             ],
             "answer": 0
@@ -17175,8 +17175,8 @@ const curriculum: DayContent[] = [
             "options": [
               "To make the relationships between ideas clearer for the reader",
               "Transitional words always make a paragraph more confusing",
-              "A reason unrelated to revising writing",
-              "Cohesion has no impact on how a reader understands a text"
+              "To make the paragraph longer for the word count",
+              "Cohesion only matters in poetry"
             ],
             "answer": 0
           }
@@ -17195,7 +17195,7 @@ const curriculum: DayContent[] = [
             "q": "A box-and-whisker plot displays a data set using ___.",
             "options": [
               "Five key values, including the minimum, quartiles, median, and maximum",
-              "A concept unrelated to box-and-whisker plots",
+              "Only the mean, median, and mode of the data set",
               "Only a single average value with no other information",
               "Every individual data point with no summary values"
             ],
@@ -17205,7 +17205,7 @@ const curriculum: DayContent[] = [
             "q": "In a box-and-whisker plot, the line inside the box represents ___.",
             "options": [
               "The minimum value of the data set",
-              "A concept unrelated to box-and-whisker plots",
+              "The mean of the data set",
               "The median of the data set",
               "The maximum value of the data set"
             ],
@@ -17216,7 +17216,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The mean of the data set only",
               "The minimum and maximum values of the data set",
-              "A concept unrelated to box-and-whisker plots",
+              "The median and the mean of the data set",
               "Only the first and third quartiles"
             ],
             "answer": 1
@@ -17227,7 +17227,7 @@ const curriculum: DayContent[] = [
               "The median minus the mean",
               "The maximum value minus the minimum value",
               "The third quartile minus the first quartile",
-              "A concept unrelated to interquartile range"
+              "The maximum value minus the median"
             ],
             "answer": 2
           },
@@ -17237,7 +17237,7 @@ const curriculum: DayContent[] = [
               "They make it easy to visually compare spread, median, and potential outliers",
               "They can only display a single data set at a time with no comparison possible",
               "Box-and-whisker plots provide no useful information for comparison",
-              "A reason unrelated to box-and-whisker plots"
+              "They show the exact value of every data point in each set"
             ],
             "answer": 0
           }
@@ -17258,7 +17258,7 @@ const curriculum: DayContent[] = [
               "Only the stars located outside our galaxy",
               "A single planet with no other orbiting bodies",
               "The objects, including planets, that orbit it",
-              "A concept unrelated to the solar system"
+              "All of the stars visible from Earth"
             ],
             "answer": 2
           },
@@ -17268,7 +17268,7 @@ const curriculum: DayContent[] = [
               "Magnetic attraction between planets",
               "The complete absence of any force acting on them",
               "The Sun’s gravitational pull",
-              "A cause unrelated to planetary motion"
+              "The Sun's magnetic field"
             ],
             "answer": 2
           },
@@ -17276,7 +17276,7 @@ const curriculum: DayContent[] = [
             "q": "The shape of a planet’s orbit around the Sun is best described as ___.",
             "options": [
               "A perfect square",
-              "A shape unrelated to orbital shape",
+              "A perfect circle",
               "Elliptical",
               "A straight line"
             ],
@@ -17286,7 +17286,7 @@ const curriculum: DayContent[] = [
             "q": "Compared to planets closer to the Sun, planets farther from the Sun generally have ___.",
             "options": [
               "Longer orbital periods",
-              "A concept unrelated to orbital periods",
+              "Orbital periods that match the length of Earth’s year",
               "Shorter orbital periods",
               "Exactly the same orbital period"
             ],
@@ -17296,8 +17296,8 @@ const curriculum: DayContent[] = [
             "q": "Why do planets closer to the Sun experience shorter years than planets farther away?",
             "options": [
               "Planets closer to the Sun always orbit more slowly than distant planets",
-              "Distance from the Sun has no effect on the length of a planet’s year",
-              "A reason unrelated to planetary motion",
+              "All planets travel at the same speed, so only their mass changes the length of a year",
+              "Planets closer to the Sun are larger, so they complete their orbits sooner",
               "They travel a shorter orbital distance and experience a stronger gravitational pull"
             ],
             "answer": 3
@@ -17316,7 +17316,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Terry Fox began the Marathon of Hope in ___.",
             "options": [
-              "A year unrelated to Terry Fox",
+              "1992",
               "2000",
               "1980",
               "1960"
@@ -17329,7 +17329,7 @@ const curriculum: DayContent[] = [
               "Raise money and awareness for cancer research",
               "Celebrate the anniversary of Confederation",
               "Promote a new sporting event with no charitable purpose",
-              "A purpose unrelated to the Marathon of Hope"
+              "Protest government cuts to health care"
             ],
             "answer": 0
           },
@@ -17337,7 +17337,7 @@ const curriculum: DayContent[] = [
             "q": "Terry Fox began his run after ___.",
             "options": [
               "Completing a university degree in medicine",
-              "An event unrelated to Terry Fox",
+              "Being cut from a professional hockey team",
               "Winning a national athletic competition",
               "Losing his leg to cancer"
             ],
@@ -17348,7 +17348,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Was quickly forgotten with no lasting impact",
               "Led to the cancellation of all future cancer research funding",
-              "A result unrelated to his legacy",
+              "Ended when Canada banned charity runs",
               "Inspired a lasting legacy of annual fundraising runs held in his honour"
             ],
             "answer": 3
@@ -17356,10 +17356,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is Terry Fox remembered as an important figure in Canadian history?",
             "options": [
-              "A reason unrelated to his historical significance",
+              "He served as an advisor to the prime minister on health policy",
               "He has no lasting significance in Canadian history",
               "His courage and determination inspired ongoing national support for cancer research",
-              "His actions had no connection to raising awareness for any cause"
+              "He founded Canada's first space program"
             ],
             "answer": 2
           }
@@ -17404,7 +17404,7 @@ const curriculum: DayContent[] = [
               "An author only describes events that already occurred",
               "A story never contains any hints about future events",
               "An author hints at events that will happen later in the story",
-              "A concept unrelated to literary devices"
+              "A narrator compares two things using like or as"
             ],
             "answer": 2
           },
@@ -17413,7 +17413,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The similarities and differences between two subjects",
               "Only the similarities between two subjects, with no differences",
-              "A concept unrelated to this essay type",
+              "A narrative that tells a story using fictional characters",
               "A single subject with no comparison involved"
             ],
             "answer": 0
@@ -17423,7 +17423,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A user is shown a perfectly balanced range of every possible viewpoint",
               "All users see identical content regardless of their activity",
-              "A concept unrelated to filter bubbles",
+              "A user is blocked from all content on a platform",
               "A user is repeatedly shown content that reinforces their existing beliefs"
             ],
             "answer": 3
@@ -17431,7 +17431,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An idiom is a phrase whose meaning ___.",
             "options": [
-              "A concept unrelated to idioms",
+              "Is limited to the writing of poetry",
               "Is always identical to its literal, word-for-word meaning",
               "Cannot be understood from the literal definitions of its individual words",
               "Never appears in everyday spoken or written language"
@@ -17441,9 +17441,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful to review reading strategies, writing forms, grammar, and media literacy together?",
             "options": [
-              "These topics have no connection to one another",
+              "These topics are always taught in separate years",
               "Review never helps strengthen understanding of language skills",
-              "A reason unrelated to reviewing language arts",
+              "It lets students skip the topics they already feel confident about",
               "It reinforces how these language and literacy skills connect and support one another"
             ],
             "answer": 3
@@ -17478,7 +17478,7 @@ const curriculum: DayContent[] = [
               "The point exactly halfway between two given coordinates",
               "The slope of the line connecting two coordinates",
               "The total distance between two given coordinates",
-              "A concept unrelated to the midpoint formula"
+              "The coordinates of the point where the line crosses the y-axis"
             ],
             "answer": 0
           },
@@ -17486,7 +17486,7 @@ const curriculum: DayContent[] = [
             "q": "The mean of a data set is calculated by ___.",
             "options": [
               "Adding all the values and dividing by the number of values",
-              "A concept unrelated to measures of central tendency",
+              "Subtracting the lowest value from the highest value",
               "Selecting only the highest value in the set",
               "Selecting the value that appears most often"
             ],
@@ -17495,7 +17495,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An absolute value equation can have ___ solutions.",
             "options": [
-              "A number of solutions unrelated to absolute value equations",
+              "Three possible",
               "Exactly one, always",
               "Exactly zero, always",
               "Two possible"
@@ -17505,7 +17505,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Theoretical probability is calculated using ___.",
             "options": [
-              "A concept unrelated to theoretical probability",
+              "The percentage of trials that were successful",
               "The actual results collected from repeated trials",
               "A random guess with no calculation involved",
               "The known possible outcomes of an event"
@@ -17516,8 +17516,8 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful to review coordinate geometry, statistics, algebra, and probability together?",
             "options": [
               "Review is never useful in math",
-              "These topics have no connection to each other in mathematics",
-              "A reason unrelated to reviewing math",
+              "Each topic works on its own, so combining them makes learning harder",
+              "Reviewing several topics together means earlier lessons no longer need practice",
               "These related math concepts reinforce each other for stronger overall understanding"
             ],
             "answer": 3
@@ -17554,8 +17554,8 @@ const curriculum: DayContent[] = [
             "q": "A watershed is best described as ___.",
             "options": [
               "An area of land where all water drains into a common river, lake, or ocean",
-              "A single isolated pond with no connection to surrounding land",
-              "A concept unrelated to watersheds",
+              "An underground layer of rock that stores groundwater",
+              "The high ridge that separates one river system from another",
               "A structure built specifically to store drinking water"
             ],
             "answer": 0
@@ -17565,7 +17565,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The weight of a machine to its cost",
               "The output force of a machine to the input force applied",
-              "A concept unrelated to mechanical advantage",
+              "The work done by a machine to the time it takes",
               "The colour of a machine to its size"
             ],
             "answer": 1
@@ -17573,7 +17573,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An object will float in water if its density is ___.",
             "options": [
-              "A concept unrelated to buoyancy",
+              "Exactly double the density of water",
               "Less than the density of water",
               "Exactly equal to the density of air",
               "Greater than the density of water"
@@ -17584,7 +17584,7 @@ const curriculum: DayContent[] = [
             "q": "On the pH scale, a value below 7 indicates ___.",
             "options": [
               "An acid",
-              "A concept unrelated to the pH scale",
+              "A highly concentrated solution",
               "A base",
               "A completely neutral substance"
             ],
@@ -17593,10 +17593,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful to review earth science, physics, and chemistry topics together?",
             "options": [
-              "These topics have no connection to each other",
+              "It makes each topic easier to memorize by keeping them separate from the others",
               "It reinforces how these interconnected science concepts relate to one another",
-              "Each topic must be studied with no connection to the others",
-              "A reason unrelated to reviewing science"
+              "Together they replace the need to study any single topic in detail",
+              "It proves that only one of these sciences is needed to explain natural phenomena"
             ],
             "answer": 1
           }
@@ -17629,7 +17629,7 @@ const curriculum: DayContent[] = [
             "options": [
               "John A. Macdonald and the federal government",
               "Louis Riel and the Métis",
-              "A group unrelated to the Red River Resistance",
+              "The Hudson's Bay Company",
               "British colonial troops"
             ],
             "answer": 1
@@ -17637,7 +17637,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The completion of the Canadian Pacific Railway fulfilled a promise made to ___.",
             "options": [
-              "A promise unrelated to the Canadian Pacific Railway",
+              "Manitoba, to share rail profits",
               "The United States, to share a rail line",
               "France, to maintain trade routes",
               "British Columbia, to join Confederation"
@@ -17649,7 +17649,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Forcibly separated Indigenous children from their families to assimilate them",
               "Were voluntarily attended by Indigenous families with no pressure involved",
-              "A description unrelated to residential schools",
+              "Provided free trade training to children from all backgrounds",
               "Taught only Indigenous languages and traditions with government support"
             ],
             "answer": 0
@@ -17659,7 +17659,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Lost all authority to make changes to its own laws",
               "Became a colony of Britain once again",
-              "A meaning unrelated to patriation",
+              "Transferred authority over its laws to the provinces alone",
               "Gained full authority to amend its own Constitution without approval from Britain"
             ],
             "answer": 3
@@ -17668,9 +17668,9 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful to review these events in Canadian history together?",
             "options": [
               "Review is never useful when studying history and policy",
-              "These topics have no connection to one another",
+              "Each event happened within the same decade",
               "It reinforces how these events shaped Canadian identity, rights, and nationhood over time",
-              "A reason unrelated to social studies learning"
+              "It shows these events were all part of the Second World War"
             ],
             "answer": 2
           }
@@ -17695,7 +17695,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The emotional atmosphere a reader feels while reading",
               "The physical setting where a story takes place",
-              "A concept unrelated to mood",
+              "The author's attitude toward the subject",
               "The exact number of characters in a story"
             ],
             "answer": 0
@@ -17705,8 +17705,8 @@ const curriculum: DayContent[] = [
             "options": [
               "The total number of pages in a text",
               "The author’s attitude toward the subject, revealed through word choice",
-              "A concept unrelated to tone",
-              "The emotional atmosphere the reader feels, with no connection to the author"
+              "The time period in which a story is set",
+              "The way the author structures the plot events"
             ],
             "answer": 1
           },
@@ -17714,7 +17714,7 @@ const curriculum: DayContent[] = [
             "q": "Which word choice would most likely create a tense, uneasy mood?",
             "options": [
               "Words like sunny, cheerful, and bright",
-              "A set of words unrelated to mood",
+              "Words like tidy, orderly, and plain",
               "Words like calm, peaceful, and gentle",
               "Words like lurking, shadowy, and creeping"
             ],
@@ -17726,14 +17726,14 @@ const curriculum: DayContent[] = [
               "Attitude that says the opposite of what is literally stated",
               "Total indifference toward the subject",
               "Complete sincerity with no hidden meaning",
-              "A concept unrelated to tone"
+              "Admiration expressed directly and honestly"
             ],
             "answer": 0
           },
           {
             "q": "Why is distinguishing between mood and tone useful when analyzing a text?",
             "options": [
-              "A reason unrelated to reading comprehension",
+              "It shows that a text should be read only for its plot",
               "Neither mood nor tone affects how a reader interprets a text",
               "Mood and tone are always identical with no distinction needed",
               "It helps a reader separate how a text feels from what the author’s attitude toward it is"
@@ -17754,7 +17754,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Prime factorization expresses a number as ___.",
             "options": [
-              "A concept unrelated to prime factorization",
+              "A quotient of two prime numbers",
               "A product of prime numbers",
               "A sum of consecutive integers",
               "The square root of the original number"
@@ -17767,7 +17767,7 @@ const curriculum: DayContent[] = [
               "2 x 2 x 3",
               "2 x 6",
               "3 x 4",
-              "A value unrelated to the calculation"
+              "2 x 3 x 3"
             ],
             "answer": 0
           },
@@ -17775,7 +17775,7 @@ const curriculum: DayContent[] = [
             "q": "The greatest common factor (GCF) of 18 and 24 is ___.",
             "options": [
               "9",
-              "A value unrelated to the calculation",
+              "12",
               "6",
               "3"
             ],
@@ -17787,7 +17787,7 @@ const curriculum: DayContent[] = [
               "24",
               "12",
               "10",
-              "A value unrelated to the calculation"
+              "8"
             ],
             "answer": 1
           },
@@ -17795,9 +17795,9 @@ const curriculum: DayContent[] = [
             "q": "Why is finding the GCF useful when simplifying a fraction?",
             "options": [
               "Dividing both the numerator and denominator by the GCF reduces the fraction to its lowest terms",
-              "A reason unrelated to prime factorization",
+              "Dividing the numerator by the GCF while leaving the denominator unchanged",
               "Multiplying by the GCF always makes a fraction larger",
-              "The GCF has no connection to simplifying fractions"
+              "Subtracting the GCF from the numerator and denominator simplifies the fraction"
             ],
             "answer": 0
           }
@@ -17816,7 +17816,7 @@ const curriculum: DayContent[] = [
             "q": "A load applied to a structure is best described as ___.",
             "options": [
               "A colour applied to the surface of a structure",
-              "A concept unrelated to structural load",
+              "The amount of material used to build the structure",
               "A force the structure must support or withstand",
               "A measurement of a structure’s height only"
             ],
@@ -17826,7 +17826,7 @@ const curriculum: DayContent[] = [
             "q": "Compression is a type of stress that occurs when a structure is ___.",
             "options": [
               "Twisted around its centre",
-              "A concept unrelated to compression",
+              "Cut or slid apart by opposing forces",
               "Squeezed or pushed together",
               "Stretched or pulled apart"
             ],
@@ -17838,7 +17838,7 @@ const curriculum: DayContent[] = [
               "Squeezed or pushed together",
               "Left completely still with no force applied",
               "Stretched or pulled apart",
-              "A concept unrelated to tension"
+              "Twisted around its centre"
             ],
             "answer": 2
           },
@@ -17846,7 +17846,7 @@ const curriculum: DayContent[] = [
             "q": "Why do engineers often use triangular shapes in structural frameworks?",
             "options": [
               "Triangular shapes are chosen only for decoration",
-              "A reason unrelated to structural design",
+              "Triangles allow the structure to bend easily to absorb a load",
               "Triangles are the weakest possible shape for supporting a load",
               "Triangles distribute force evenly and resist changing shape under load"
             ],
@@ -17856,8 +17856,8 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding load and stress important when designing a bridge?",
             "options": [
               "It ensures the bridge can safely support the forces acting on it without failing",
-              "Load and stress have no effect on whether a bridge can support weight",
-              "A reason unrelated to structures and mechanisms",
+              "It ensures the bridge is made only of the lightest materials possible",
+              "It ensures the bridge will never need maintenance once built",
               "Bridges never experience any force once they are built"
             ],
             "answer": 0
@@ -17877,7 +17877,7 @@ const curriculum: DayContent[] = [
             "q": "The Klondike Gold Rush took place primarily in ___.",
             "options": [
               "Southern Ontario",
-              "A region unrelated to the Klondike Gold Rush",
+              "British Columbia",
               "The Yukon",
               "Nova Scotia"
             ],
@@ -17888,7 +17888,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Halifax",
               "Dawson City",
-              "A location unrelated to the Klondike Gold Rush",
+              "Yellowknife",
               "Toronto"
             ],
             "answer": 1
@@ -17899,14 +17899,14 @@ const curriculum: DayContent[] = [
               "1929-33",
               "1812-14",
               "1896-99",
-              "A time period unrelated to the Klondike Gold Rush"
+              "1867-70"
             ],
             "answer": 2
           },
           {
             "q": "One effect of the Klondike Gold Rush on the Canadian government was that it ___.",
             "options": [
-              "A result unrelated to the Klondike Gold Rush",
+              "Moved the capital of Canada to Dawson City",
               "Led to the immediate creation of the province of Yukon",
               "Prompted Canada to establish stronger governance and infrastructure in the north",
               "Caused Canada to abandon all interest in the northern territories"
@@ -17918,7 +17918,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It occurred entirely outside of Canadian territory",
               "It had no lasting effect on the Yukon or Canada as a whole",
-              "A reason unrelated to its historical significance",
+              "It brought the first European explorers to Canada",
               "It rapidly transformed the Yukon and drew national attention to Canada’s north"
             ],
             "answer": 3
@@ -17955,7 +17955,7 @@ const curriculum: DayContent[] = [
               "A list of unrelated personal stories",
               "A formal greeting addressing the recipient",
               "An informal joke to open the message",
-              "A concept unrelated to business letters"
+              "A summary of the writer's weekend plans"
             ],
             "answer": 1
           },
@@ -17963,7 +17963,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a formal email include a clear subject line?",
             "options": [
               "It helps the recipient quickly understand the purpose of the message",
-              "A reason unrelated to formal email writing",
+              "It lets the writer skip the greeting",
               "Subject lines never provide any useful information",
               "A subject line is only needed in a resume"
             ],
@@ -17973,7 +17973,7 @@ const curriculum: DayContent[] = [
             "q": "Which closing is most appropriate for a formal business letter?",
             "options": [
               "Peace out",
-              "A closing unrelated to formal letters",
+              "Cheers",
               "See ya",
               "Sincerely"
             ],
@@ -17984,7 +17984,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Slang always makes a letter more professional",
               "Formal letters are never read by anyone important",
-              "A reason unrelated to formal writing",
+              "Slang makes the letter shorter, which employers prefer",
               "It maintains a professional and respectful tone for the recipient"
             ],
             "answer": 3
@@ -17995,7 +17995,7 @@ const curriculum: DayContent[] = [
               "Proofreading never changes how a message is received",
               "Errors can make the message appear less professional and harder to understand",
               "Formal emails are never checked for mistakes",
-              "A reason unrelated to formal writing"
+              "Proofreading allows the writer to add new arguments"
             ],
             "answer": 1
           }
@@ -18015,7 +18015,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Plotting both equations and finding their point of intersection",
               "Adding the two equations together without graphing them",
-              "A concept unrelated to solving systems by graphing",
+              "Solving each equation for x and adding the results",
               "Plotting only one equation and ignoring the other"
             ],
             "answer": 0
@@ -18024,7 +18024,7 @@ const curriculum: DayContent[] = [
             "q": "The point of intersection of two graphed lines represents ___.",
             "options": [
               "The solution that satisfies both equations",
-              "A concept unrelated to systems of equations",
+              "The x-intercept of both equations",
               "The y-intercept of only one equation",
               "A point that satisfies neither equation"
             ],
@@ -18035,7 +18035,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Exactly one solution",
               "No solution",
-              "A result unrelated to systems of equations",
+              "Two solutions",
               "Infinitely many solutions"
             ],
             "answer": 1
@@ -18043,7 +18043,7 @@ const curriculum: DayContent[] = [
           {
             "q": "If two equations in a system graph as the exact same line, the system has ___.",
             "options": [
-              "A result unrelated to systems of equations",
+              "Exactly two solutions",
               "Infinitely many solutions",
               "No solution",
               "Exactly one solution"
@@ -18055,7 +18055,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Graphing and algebraic methods always produce different, unrelated answers",
               "Reading an exact intersection point from a graph can be difficult, especially with non-integer solutions",
-              "A reason unrelated to solving systems of equations",
+              "Graphing only works when the lines are parallel",
               "Graphing always produces a more precise answer than algebra"
             ],
             "answer": 1
@@ -18074,7 +18074,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An element is a pure substance made of ___.",
             "options": [
-              "A concept unrelated to elements",
+              "Only one type of compound",
               "Two or more types of atoms chemically combined",
               "Only one type of atom",
               "Substances combined in no fixed ratio"
@@ -18085,7 +18085,7 @@ const curriculum: DayContent[] = [
             "q": "A compound is formed when ___.",
             "options": [
               "Two or more elements are chemically combined in a fixed ratio",
-              "A concept unrelated to compounds",
+              "A mixture is heated until its parts separate",
               "A single element exists on its own",
               "Substances are physically mixed with no chemical bonding"
             ],
@@ -18096,7 +18096,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A substance that can never be separated into parts",
               "A single pure substance made of only one type of atom",
-              "A concept unrelated to mixtures",
+              "Two or more elements chemically bonded in a fixed ratio",
               "Two or more substances physically combined without a fixed ratio"
             ],
             "answer": 3
@@ -18107,7 +18107,7 @@ const curriculum: DayContent[] = [
               "Oxygen gas on its own",
               "A salad containing separate, unmixed ingredients",
               "Water, made of hydrogen and oxygen chemically bonded",
-              "A substance unrelated to compounds"
+              "Air, a mixture of nitrogen, oxygen, and other gases"
             ],
             "answer": 2
           },
@@ -18117,7 +18117,7 @@ const curriculum: DayContent[] = [
               "Compounds can always be separated more easily than mixtures",
               "The substances in a mixture are not chemically bonded together",
               "Mixtures are always chemically bonded more strongly than compounds",
-              "A reason unrelated to mixtures and compounds"
+              "Mixtures are made of a single element, so they can be split by filtering"
             ],
             "answer": 1
           }
@@ -18136,7 +18136,7 @@ const curriculum: DayContent[] = [
             "q": "The South African War, also known as the Boer War, took place from ___.",
             "options": [
               "1867 to 1870",
-              "A time period unrelated to the Boer War",
+              "1812 to 1815",
               "1914 to 1918",
               "1899 to 1902"
             ],
@@ -18148,7 +18148,7 @@ const curriculum: DayContent[] = [
               "The country’s first overseas military commitment",
               "Canada’s first war fought entirely on its own soil",
               "A conflict Canada refused to participate in at all",
-              "A description unrelated to the Boer War"
+              "The conflict that led to Canada's independence"
             ],
             "answer": 0
           },
@@ -18157,7 +18157,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The United States",
               "Britain",
-              "A country unrelated to the Boer War",
+              "Germany",
               "France"
             ],
             "answer": 1
@@ -18168,16 +18168,16 @@ const curriculum: DayContent[] = [
               "Whether to abolish the Canadian military entirely",
               "Whether Canada should follow British foreign policy or act independently",
               "Whether Canada should join the war against Britain",
-              "A debate unrelated to the Boer War"
+              "Whether Canada should make French the language of its military"
             ],
             "answer": 1
           },
           {
             "q": "Why is the Boer War significant in the development of Canadian identity?",
             "options": [
-              "A reason unrelated to its historical significance",
+              "It led Canada to declare independence in 1902",
               "It raised early questions about how independently Canada should act from Britain",
-              "It had no connection to questions about Canadian independence",
+              "It showed Canada's military was too small to take part in overseas wars",
               "It ended Canada’s relationship with Britain immediately and completely"
             ],
             "answer": 1
@@ -18263,7 +18263,7 @@ const curriculum: DayContent[] = [
             "q": "A composite figure is a three-dimensional shape formed by ___.",
             "options": [
               "A single shape with no other shapes involved",
-              "A concept unrelated to composite figures",
+              "Stretching a single shape into a larger one",
               "Removing every face from a single shape",
               "Combining two or more simple shapes"
             ],
@@ -18275,7 +18275,7 @@ const curriculum: DayContent[] = [
               "Use only the volume of the largest shape and ignore the rest",
               "Calculate the volume of each individual shape and add them together",
               "Multiply the volumes of each shape together",
-              "A method unrelated to composite figures"
+              "Subtract the smallest volume from the largest volume"
             ],
             "answer": 1
           },
@@ -18284,7 +18284,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A composite figure",
               "A two-dimensional shape only",
-              "A concept unrelated to composite figures",
+              "A solid with only flat faces",
               "A single simple shape with no combination involved"
             ],
             "answer": 0
@@ -18295,7 +18295,7 @@ const curriculum: DayContent[] = [
               "Exclude any internal faces where two shapes are joined together",
               "Ignore all curved surfaces in the calculation",
               "Include every face of every shape, even hidden internal ones",
-              "A concept unrelated to surface area of composite figures"
+              "Count each curved surface twice"
             ],
             "answer": 0
           },
@@ -18305,7 +18305,7 @@ const curriculum: DayContent[] = [
               "Simple shapes alone can achieve every design goal with no combination needed",
               "Composite figures are never used in real-world design",
               "Combining simple shapes allows for more complex, functional, and creative structures",
-              "A reason unrelated to composite figures"
+              "Composite figures are cheaper to build than any simple shape"
             ],
             "answer": 2
           }
@@ -18334,7 +18334,7 @@ const curriculum: DayContent[] = [
             "q": "Earth’s outermost layer is called the ___.",
             "options": [
               "Inner core",
-              "A layer unrelated to Earth’s structure",
+              "Outer core",
               "Mantle",
               "Crust"
             ],
@@ -18344,7 +18344,7 @@ const curriculum: DayContent[] = [
             "q": "Earth’s inner core is believed to be ___.",
             "options": [
               "Liquid, and cooler than the outer core",
-              "A concept unrelated to Earth’s inner core",
+              "Solid, because it is cooler than the mantle above it",
               "Made entirely of gas",
               "Solid, due to immense pressure despite extremely high temperatures"
             ],
@@ -18355,7 +18355,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Heat generated within Earth’s core",
               "Ocean tides pulling on the mantle",
-              "A cause unrelated to convection currents",
+              "Sunlight heating the surface of the crust",
               "Cold air currents from the atmosphere"
             ],
             "answer": 0
@@ -18364,7 +18364,7 @@ const curriculum: DayContent[] = [
             "q": "Which layer of the Earth is where tectonic plates are located?",
             "options": [
               "The inner core",
-              "A layer unrelated to tectonic plates",
+              "The lower mantle",
               "The crust",
               "The outer core only"
             ],
@@ -18374,9 +18374,9 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding Earth’s internal heat important for explaining surface geological activity?",
             "options": [
               "The crust moves completely independently of any internal heat or currents",
-              "A reason unrelated to Earth’s structure",
+              "Heat from the Sun alone is responsible for all earthquakes and volcanoes",
               "Convection currents driven by internal heat help move tectonic plates and shape the surface",
-              "Earth’s internal heat has no connection to surface geological activity"
+              "Earth’s internal heat only affects the atmosphere, not the crust"
             ],
             "answer": 2
           }
@@ -18397,14 +18397,14 @@ const curriculum: DayContent[] = [
               "East Asia",
               "Mexico and Central America",
               "Northern Europe",
-              "A region unrelated to the Maya civilization"
+              "The Andes mountains of South America"
             ],
             "answer": 1
           },
           {
             "q": "Which of these was a notable achievement of the Maya civilization?",
             "options": [
-              "A concept unrelated to Maya achievements",
+              "Large steel-hulled ships for ocean trade",
               "A sophisticated calendar system based on astronomical observation",
               "No knowledge of mathematics whatsoever",
               "A complete lack of any written language"
@@ -18416,7 +18416,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Zero",
               "Fractions expressed only in Roman numerals",
-              "A concept unrelated to Maya mathematics",
+              "Calculus",
               "Negative decimals only"
             ],
             "answer": 0
@@ -18427,7 +18427,7 @@ const curriculum: DayContent[] = [
               "Pyramids and temples",
               "Structures built entirely underground",
               "Skyscrapers made of steel",
-              "A structure unrelated to Maya architecture"
+              "Gothic cathedrals with stained glass"
             ],
             "answer": 0
           },
@@ -18435,9 +18435,9 @@ const curriculum: DayContent[] = [
             "q": "Why do historians study the Maya civilization’s achievements in mathematics and astronomy?",
             "options": [
               "They demonstrate a highly advanced understanding of science for their time",
-              "A reason unrelated to the Maya civilization",
+              "They show the Maya borrowed their science entirely from Rome",
               "The Maya made no notable contributions to mathematics or astronomy",
-              "These achievements had no influence on how the Maya tracked time"
+              "They show the Maya had adopted the Roman calendar"
             ],
             "answer": 0
           }
@@ -18461,7 +18461,7 @@ const curriculum: DayContent[] = [
             "q": "Fact-checking involves ___.",
             "options": [
               "Sharing information immediately with no review",
-              "A concept unrelated to fact-checking",
+              "Searching only for sources that match the claim",
               "Verifying claims against reliable, independent sources",
               "Accepting every claim without question"
             ],
@@ -18473,7 +18473,7 @@ const curriculum: DayContent[] = [
               "The source provides no evidence and hides its author",
               "The source only uses emotional language with no facts",
               "The source cites evidence and is transparent about where information came from",
-              "A characteristic unrelated to reliable sources"
+              "The source is popular and widely shared on social media"
             ],
             "answer": 2
           },
@@ -18483,14 +18483,14 @@ const curriculum: DayContent[] = [
               "It helps confirm whether the claim is supported by consistent evidence",
               "Checking multiple sources never changes how believable a claim is",
               "A single source is always enough to confirm any claim",
-              "A reason unrelated to fact-checking"
+              "It shows which source has the most followers"
             ],
             "answer": 0
           },
           {
             "q": "Which of these is a red flag when evaluating an online claim?",
             "options": [
-              "A characteristic unrelated to evaluating claims",
+              "The claim comes from a source with many followers",
               "The source clearly explains its methodology and evidence",
               "The claim has no cited evidence and cannot be verified elsewhere",
               "The claim is supported by several credible, independent sources"
@@ -18500,9 +18500,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is fact-checking an important skill when using social media?",
             "options": [
-              "A reason unrelated to media literacy",
+              "It helps people find which posts are most popular",
               "Misinformation can spread quickly, so verifying claims helps prevent sharing false information",
-              "Fact-checking has no effect on what a person chooses to share",
+              "Fact-checking only matters for news about celebrities",
               "Misinformation never appears on social media"
             ],
             "answer": 1
@@ -18521,7 +18521,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A two-way table organizes data by ___.",
             "options": [
-              "A concept unrelated to two-way tables",
+              "Two numerical variables plotted on x- and y-axes",
               "A single variable displayed in one row only",
               "Numerical data with no categories involved",
               "Two categorical variables displayed in rows and columns"
@@ -18531,7 +18531,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A conditional frequency describes ___.",
             "options": [
-              "A concept unrelated to conditional frequency",
+              "The mean of a variable across all categories",
               "The total frequency of an entire data set with no conditions",
               "The frequency of one variable given a specific condition of another variable",
               "A frequency that never changes based on any condition"
@@ -18543,7 +18543,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The total count for each category in one variable",
               "The total count for the entire table combined into one number",
-              "A concept unrelated to two-way tables",
+              "The conditional frequency for a single cell",
               "The percentage of students who dislike every sport listed"
             ],
             "answer": 0
@@ -18551,7 +18551,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a two-way table be useful for identifying a relationship between two variables?",
             "options": [
-              "A reason unrelated to two-way tables",
+              "It plots each data point on a coordinate grid to show its slope",
               "Two-way tables never reveal any relationship between variables",
               "A two-way table can only display a single variable at a time",
               "It organizes the data so patterns and comparisons can be seen clearly"
@@ -18564,7 +18564,7 @@ const curriculum: DayContent[] = [
               "The total number of students in the entire school",
               "The frequency of playing soccer, given that a student plays no other sport",
               "The frequency of playing basketball, given that a student plays soccer",
-              "A value unrelated to the calculation"
+              "The frequency of playing soccer, given that a student plays basketball"
             ],
             "answer": 2
           }
@@ -18592,7 +18592,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does the greenhouse effect do?",
             "options": [
-              "A concept unrelated to Earth science",
+              "Reflects all of the sun’s heat back into space",
               "Cools Earth’s surface rapidly",
               "Removes all heat from the atmosphere",
               "Traps heat from the sun near Earth’s surface"
@@ -18603,7 +18603,7 @@ const curriculum: DayContent[] = [
             "q": "Name one gas that contributes to the greenhouse effect, such as carbon dioxide.",
             "options": [
               "Carbon dioxide",
-              "A concept unrelated to the greenhouse effect",
+              "Nitrogen",
               "Pure oxygen only",
               "Only water in its solid form"
             ],
@@ -18612,9 +18612,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Are human activities, such as burning fossil fuels, increasing the amount of greenhouse gases in the atmosphere?",
             "options": [
-              "No, human activities have no effect on greenhouse gases",
+              "No, only volcanoes can increase greenhouse gas levels",
               "Greenhouse gases can never increase in the atmosphere",
-              "A concept unrelated to global warming",
+              "No, burning fossil fuels only increases the amount of oxygen",
               "Yes"
             ],
             "answer": 3
@@ -18624,7 +18624,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The greenhouse effect has never had any role in keeping Earth warm",
               "Earth would be exactly the same temperature with no atmosphere at all",
-              "This concept has no connection to science",
+              "It is a harmful process that scientists want to eliminate completely",
               "Without any greenhouse effect, Earth would be far too cold to support most life"
             ],
             "answer": 3
@@ -18634,8 +18634,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Global temperatures never change no matter the amount of greenhouse gases",
               "Extra greenhouse gases trap additional heat, contributing to rising global temperatures and climate change",
-              "This concept has no relevance to science",
-              "Extra greenhouse gases have no effect on global temperatures"
+              "Extra greenhouse gases only change rainfall patterns, never temperature",
+              "Extra greenhouse gases reflect sunlight away, contributing to global cooling"
             ],
             "answer": 1
           }
@@ -18655,14 +18655,14 @@ const curriculum: DayContent[] = [
               "Widespread inequality and a financial crisis affecting the country",
               "An agreement between all social classes with no conflict",
               "A period with no economic or social problems at all",
-              "A concept unrelated to the French Revolution"
+              "A rebellion by colonists in North America against France"
             ],
             "answer": 0
           },
           {
             "q": "The French Revolution began in the year ___.",
             "options": [
-              "A year unrelated to the French Revolution",
+              "1815",
               "1600",
               "1900",
               "1789"
@@ -18673,7 +18673,7 @@ const curriculum: DayContent[] = [
             "q": "Which group faced the greatest hardship under France’s social and tax system before the revolution?",
             "options": [
               "The common people, known as the Third Estate",
-              "A group unrelated to French society at the time",
+              "The royal family, who paid most taxes",
               "The nobility, who paid the highest taxes",
               "The clergy, who faced the same burdens as commoners"
             ],
@@ -18683,7 +18683,7 @@ const curriculum: DayContent[] = [
             "q": "One major outcome of the French Revolution was ___.",
             "options": [
               "The overthrow of the monarchy and a reshaping of France’s government",
-              "A concept unrelated to the French Revolution",
+              "The union of France and Britain under a single crown",
               "No change to France’s system of government",
               "The strengthening of the king’s absolute power"
             ],
@@ -18693,9 +18693,9 @@ const curriculum: DayContent[] = [
             "q": "Why is the French Revolution considered an important turning point in world history?",
             "options": [
               "It challenged the idea of absolute monarchy and inspired ideas about rights and citizenship",
-              "A reason unrelated to its historical significance",
+              "It ended the Hundred Years' War between France and England",
               "It only affected a small, isolated village with no wider impact",
-              "It had no influence on political ideas beyond France"
+              "It affected only France's colonies in the Caribbean"
             ],
             "answer": 0
           }
@@ -18718,7 +18718,7 @@ const curriculum: DayContent[] = [
             "q": "An unreliable narrator is a storyteller whose ___.",
             "options": [
               "Credibility is compromised, requiring readers to question their account",
-              "A concept unrelated to unreliable narrators",
+              "Story is always told in the present tense",
               "Account is always completely accurate and trustworthy",
               "Perspective is identical to every other character in the story"
             ],
@@ -18728,7 +18728,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these might cause a narrator to be considered unreliable?",
             "options": [
               "Personal bias that distorts their description of events",
-              "A cause unrelated to unreliable narrators",
+              "Narrating the story in the first person",
               "Complete honesty about every event in the story",
               "Access to every character’s private thoughts with total accuracy"
             ],
@@ -18740,7 +18740,7 @@ const curriculum: DayContent[] = [
               "To create suspense or encourage readers to think critically about the story",
               "Unreliable narrators never add anything meaningful to a story",
               "To make a story simpler and easier to follow",
-              "A reason unrelated to unreliable narrators"
+              "To shorten the story by removing the other characters"
             ],
             "answer": 0
           },
@@ -18749,7 +18749,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Ignoring the narrator’s account entirely with no analysis",
               "Believing everything the narrator says without question",
-              "A strategy unrelated to unreliable narrators",
+              "Skipping to the end to find out who is lying",
               "Looking for clues elsewhere in the text that confirm or contradict the narrator’s claims"
             ],
             "answer": 3
@@ -18758,9 +18758,9 @@ const curriculum: DayContent[] = [
             "q": "A young child narrator with limited understanding of adult events is an example of ___.",
             "options": [
               "A narrator who is always completely reliable",
-              "A narrator with no connection to the story at all",
+              "An omniscient narrator who knows everyone's thoughts",
               "An unreliable narrator due to limited knowledge",
-              "A concept unrelated to unreliable narrators"
+              "A narrator who is an objective reporter of facts"
             ],
             "answer": 2
           }
@@ -18780,7 +18780,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The exact dollar amount of an item with no percentage involved",
               "A value that never changes regardless of price adjustments",
-              "A concept unrelated to percent change",
+              "The difference between two prices without comparing it to the original",
               "How much a value has increased or decreased relative to its original amount"
             ],
             "answer": 3
@@ -18790,7 +18790,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A fixed tax applied equally to every product",
               "An amount added to the cost of an item to determine its selling price",
-              "A concept unrelated to markup",
+              "The profit a store keeps after paying all of its expenses",
               "An amount subtracted from an item during a clearance sale"
             ],
             "answer": 1
@@ -18801,7 +18801,7 @@ const curriculum: DayContent[] = [
               "30 dollars",
               "35 dollars",
               "10 dollars",
-              "A value unrelated to the calculation"
+              "15 dollars"
             ],
             "answer": 0
           },
@@ -18811,7 +18811,7 @@ const curriculum: DayContent[] = [
               "30 percent",
               "150 percent",
               "50 percent",
-              "A value unrelated to the calculation"
+              "33 percent"
             ],
             "answer": 2
           },
@@ -18820,7 +18820,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It allows a shopper to calculate the actual savings and compare true value between offers",
               "Every percent discount always results in the exact same savings regardless of price",
-              "A reason unrelated to percent change",
+              "It shows which store has the higher regular price",
               "Percent change provides no useful information when shopping"
             ],
             "answer": 0
@@ -18912,7 +18912,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A set of rules that apply only to elected officials",
               "A part of Canada’s Constitution that guarantees fundamental rights and freedoms",
-              "A concept unrelated to Canadian rights",
+              "A statute that sets out the powers of provincial legislatures only",
               "A document with no legal significance in Canada"
             ],
             "answer": 1
@@ -18920,7 +18920,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The Canadian Charter of Rights and Freedoms became part of Canada’s Constitution in which year?",
             "options": [
-              "A year unrelated to the Charter",
+              "1960",
               "1867",
               "1982",
               "1945"
@@ -18933,14 +18933,14 @@ const curriculum: DayContent[] = [
               "The right to ignore all laws",
               "Freedom of expression",
               "The right to prevent others from voting",
-              "A concept unrelated to the Charter"
+              "The right to refuse to pay taxes"
             ],
             "answer": 1
           },
           {
             "q": "Why is the equality guarantee in the Charter considered significant?",
             "options": [
-              "A reason unrelated to the Charter",
+              "It replaced the Constitution Act, 1867 entirely",
               "The equality guarantee applies to no one in Canada",
               "It affirms that everyone is entitled to equal protection and benefit of the law",
               "It allows certain groups to be treated unfairly under the law"
@@ -18951,9 +18951,9 @@ const curriculum: DayContent[] = [
             "q": "Why is the Charter considered an important part of Canadian identity and government?",
             "options": [
               "The Charter has been removed from Canada’s Constitution",
-              "The Charter has no influence on Canadian laws or society",
+              "It applies only to federal civil servants and not to the public",
               "It sets out core rights and freedoms that shape how laws and society operate",
-              "A reason unrelated to the Charter’s significance"
+              "It was created to transfer lawmaking power from Parliament to the monarchy"
             ],
             "answer": 2
           }
@@ -18978,7 +18978,7 @@ const curriculum: DayContent[] = [
             "q": "A synonym is a word that ___.",
             "options": [
               "Sounds identical to another word but means something unrelated",
-              "A concept unrelated to synonyms",
+              "Is spelled differently but pronounced the same",
               "Has a similar meaning to another word",
               "Has the exact opposite meaning of another word"
             ],
@@ -18988,7 +18988,7 @@ const curriculum: DayContent[] = [
             "q": "An antonym is a word that ___.",
             "options": [
               "Is always spelled the same as another word",
-              "A concept unrelated to antonyms",
+              "Sounds the same but is spelled differently",
               "Has a similar meaning to another word",
               "Has the opposite meaning of another word"
             ],
@@ -18997,7 +18997,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which pair of words are synonyms with slightly different shades of meaning?",
             "options": [
-              "A pair unrelated to synonyms",
+              "Bright and dull",
               "Fast and slow",
               "Happy and sad",
               "Skinny and slender"
@@ -19009,7 +19009,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The two words always mean exactly the same thing in every context",
               "Stingy always sounds more positive than frugal",
-              "A reason unrelated to word choice",
+              "Frugal describes a person who spends more than they earn",
               "Frugal carries a more positive shade of meaning than stingy"
             ],
             "answer": 3
@@ -19017,7 +19017,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding shades of meaning important when choosing precise vocabulary?",
             "options": [
-              "A reason unrelated to vocabulary",
+              "It allows a writer to use longer words in each sentence",
               "Shades of meaning never affect how a word is understood",
               "Every synonym conveys the exact same tone with no difference",
               "It allows a writer to convey a more exact tone or attitude"
@@ -19039,7 +19039,7 @@ const curriculum: DayContent[] = [
             "q": "Two events are independent if ___.",
             "options": [
               "Both events must occur at the exact same time",
-              "A concept unrelated to independent events",
+              "The events have the same probability",
               "The outcome of one event always determines the other completely",
               "The outcome of one event does not affect the probability of the other"
             ],
@@ -19048,7 +19048,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Two events are dependent if ___.",
             "options": [
-              "A concept unrelated to dependent events",
+              "The events occur one right after the other in time",
               "Both events always have an equal, unchanging probability",
               "The two events have no relationship to each other whatsoever",
               "The outcome of one event changes the probability of the other occurring"
@@ -19059,7 +19059,7 @@ const curriculum: DayContent[] = [
             "q": "Flipping a coin and then rolling a die are examples of ___.",
             "options": [
               "Dependent events",
-              "A concept unrelated to probability",
+              "Mutually exclusive events",
               "Events that cannot be assigned any probability",
               "Independent events"
             ],
@@ -19069,8 +19069,8 @@ const curriculum: DayContent[] = [
             "q": "Drawing two cards from a deck without replacing the first card is an example of ___.",
             "options": [
               "An event with no measurable probability at all",
-              "Independent events, since each draw has no effect on the other",
-              "A concept unrelated to probability",
+              "Independent events, since the deck is shuffled before each draw",
+              "Events with unchanged probabilities, since the deck is the same size both times",
               "Dependent events, since removing a card changes the probabilities for the second draw"
             ],
             "answer": 3
@@ -19079,7 +19079,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important to determine whether events are independent or dependent before calculating their combined probability?",
             "options": [
               "The distinction never affects how a probability calculation is performed",
-              "A reason unrelated to probability",
+              "It determines whether the events can be graphed on a number line",
               "Dependent events always have exactly the same probability as independent events",
               "It determines whether probabilities are multiplied using the same or adjusted values"
             ],
@@ -19099,7 +19099,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The carbon cycle describes how carbon moves between ___.",
             "options": [
-              "A concept unrelated to the carbon cycle",
+              "The Sun, the Moon, and the other planets",
               "The atmosphere, oceans, land, and living things",
               "A single, fixed location that never changes",
               "Only the atmosphere, with no other locations involved"
@@ -19110,7 +19110,7 @@ const curriculum: DayContent[] = [
             "q": "Photosynthesis removes carbon dioxide from the atmosphere by ___.",
             "options": [
               "Releasing it directly back into the atmosphere",
-              "A process unrelated to the carbon cycle",
+              "Breaking it down into hydrogen and nitrogen gas",
               "Destroying carbon dioxide completely with no byproduct",
               "Converting it into oxygen and stored carbon compounds in plants"
             ],
@@ -19119,7 +19119,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The greenhouse effect refers to ___.",
             "options": [
-              "A concept unrelated to the greenhouse effect",
+              "The ozone layer absorbing ultraviolet radiation before it reaches the surface",
               "The atmosphere reflecting all incoming sunlight away from Earth",
               "Gases in the atmosphere trapping heat that would otherwise escape into space",
               "A complete absence of heat in Earth’s atmosphere"
@@ -19129,7 +19129,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which human activity significantly increases the amount of carbon dioxide in the atmosphere?",
             "options": [
-              "An activity unrelated to increasing carbon dioxide",
+              "Using solar panels to produce electricity",
               "Planting large numbers of trees across a region",
               "Burning fossil fuels such as coal, oil, and natural gas",
               "Reducing the use of vehicles and factories"
@@ -19139,8 +19139,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is an intensified greenhouse effect a concern for scientists studying climate?",
             "options": [
-              "A reason unrelated to the greenhouse effect",
-              "The greenhouse effect has no connection to global temperature",
+              "It increases the amount of heat that escapes into space",
+              "It only affects the temperature of the oceans, never the atmosphere",
               "It traps additional heat in the atmosphere, contributing to rising global temperatures",
               "An intensified greenhouse effect always cools the planet"
             ],
@@ -19170,7 +19170,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The Métis Nation developed from a blend of ___.",
             "options": [
-              "A concept unrelated to the Métis Nation",
+              "Inuit and Scandinavian ancestry and culture",
               "First Nations and European ancestry and culture",
               "Only Indigenous groups with no European connection",
               "Only European settlers, with no Indigenous connection"
@@ -19182,7 +19182,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Manitoba",
               "Newfoundland and Labrador",
-              "A region unrelated to the Red River Resistance",
+              "Alberta",
               "British Columbia"
             ],
             "answer": 0
@@ -19193,7 +19193,7 @@ const curriculum: DayContent[] = [
               "A leader who represented only the federal government",
               "Louis Riel",
               "A leader from an entirely different region of Canada",
-              "A leader unrelated to the Red River Resistance"
+              "Big Bear"
             ],
             "answer": 1
           },
@@ -19201,7 +19201,7 @@ const curriculum: DayContent[] = [
             "q": "What was a major goal of the Red River Resistance?",
             "options": [
               "Expanding Métis territory into other countries",
-              "A concept unrelated to the Red River Resistance",
+              "Joining the United States as a new state",
               "Protecting Métis land, rights, and way of life as settlers moved westward",
               "Removing all settlers from Canada entirely"
             ],
@@ -19212,7 +19212,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The resistance had no lasting impact on Canadian history",
               "It led to the creation of Manitoba as a province and highlighted Métis rights",
-              "A reason unrelated to its historical significance",
+              "It led to the purchase of Rupert's Land by the United States",
               "It occurred in a region that never became part of Canada"
             ],
             "answer": 1
@@ -19239,7 +19239,7 @@ const curriculum: DayContent[] = [
             "q": "Procedural writing is used to ___.",
             "options": [
               "Persuade a reader to agree with an opinion",
-              "A concept unrelated to procedural writing",
+              "Describe a scene using sensory details",
               "Tell an entertaining story with no instructions",
               "Give clear, sequential instructions for completing a task"
             ],
@@ -19251,7 +19251,7 @@ const curriculum: DayContent[] = [
               "Verbs written only in the past tense",
               "Verbs that only describe feelings",
               "Imperative verbs, such as mix or press",
-              "A type of verb unrelated to procedural writing"
+              "Verbs written only in the future tense"
             ],
             "answer": 2
           },
@@ -19261,7 +19261,7 @@ const curriculum: DayContent[] = [
               "Numbered steps make instructions harder to follow",
               "Order never matters when completing a task",
               "They show the reader the exact order in which actions must be completed",
-              "A reason unrelated to procedural writing"
+              "They make the guide look longer"
             ],
             "answer": 2
           },
@@ -19270,7 +19270,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Vague instructions can cause a reader to complete a task incorrectly",
               "Instructions are always understood correctly no matter the wording",
-              "A reason unrelated to procedural writing",
+              "It lets the writer use more figurative language",
               "Precise language never affects how well instructions are understood"
             ],
             "answer": 0
@@ -19281,7 +19281,7 @@ const curriculum: DayContent[] = [
               "Ovens can sometimes be found in kitchens",
               "Preheat the oven to 180 degrees Celsius before baking",
               "The oven was interesting to think about",
-              "A sentence unrelated to procedural writing"
+              "Baking is a popular hobby for many families"
             ],
             "answer": 1
           }
@@ -19370,7 +19370,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The phases of the Moon occur because ___.",
             "options": [
-              "A concept unrelated to the phases of the Moon",
+              "Earth’s shadow falls on different parts of the Moon each night",
               "The Moon actually changes shape during its orbit",
               "Different portions of the Moon’s sunlit side are visible from Earth as it orbits",
               "The Moon produces its own light that changes in intensity"
@@ -19383,14 +19383,14 @@ const curriculum: DayContent[] = [
               "The Moon is at its farthest point from Earth",
               "The Moon passes between the Sun and Earth, blocking sunlight",
               "Earth passes between the Sun and the Moon",
-              "A concept unrelated to solar eclipses"
+              "The Moon is at its closest point to Earth"
             ],
             "answer": 1
           },
           {
             "q": "A lunar eclipse occurs when ___.",
             "options": [
-              "A concept unrelated to lunar eclipses",
+              "The Moon is at its closest point to Earth",
               "The Moon passes directly between the Sun and Earth",
               "Earth passes between the Sun and the Moon, casting a shadow on the Moon",
               "The Sun passes between Earth and the Moon"
@@ -19402,7 +19402,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The entire sunlit side of the Moon faces Earth",
               "The Moon is positioned directly between the Sun and Earth",
-              "A concept unrelated to the phases of the Moon",
+              "The Moon is at its closest point to Earth in its orbit",
               "None of the sunlit side of the Moon faces Earth"
             ],
             "answer": 0
@@ -19412,7 +19412,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Eclipses actually occur every month without exception",
               "The Moon’s orbit is slightly tilted relative to Earth’s orbit around the Sun, so perfect alignment is rare",
-              "A reason unrelated to eclipses",
+              "Earth’s shadow is too small to ever reach the Moon’s orbit",
               "The Moon’s orbit has no tilt at all relative to Earth’s orbit"
             ],
             "answer": 1
@@ -19432,7 +19432,7 @@ const curriculum: DayContent[] = [
             "q": "The Great Depression brought widespread ___.",
             "options": [
               "A sudden increase in average wages across Canada",
-              "A concept unrelated to the Great Depression",
+              "A rapid expansion of factory jobs",
               "Economic prosperity with no hardship at all",
               "Unemployment, poverty, and economic hardship"
             ],
@@ -19443,7 +19443,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The 1980s",
               "The 1950s",
-              "A decade unrelated to the Great Depression",
+              "The 1910s",
               "The 1930s"
             ],
             "answer": 3
@@ -19452,7 +19452,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these was a hardship many Canadians faced during the Great Depression?",
             "options": [
               "Difficulty finding steady work and providing for their families",
-              "A concept unrelated to the Great Depression",
+              "Rising wages that made it easy to save money",
               "No effect at all on Canadian households",
               "An abundance of well-paying jobs for everyone"
             ],
@@ -19462,7 +19462,7 @@ const curriculum: DayContent[] = [
             "q": "How did the Canadian government respond to widespread hardship during the Great Depression?",
             "options": [
               "It refused to take any action to help struggling citizens",
-              "A response unrelated to the Great Depression",
+              "It raised wages by law for all workers at once",
               "It eliminated all forms of government assistance",
               "It introduced relief efforts and work programs to help struggling citizens"
             ],
@@ -19474,7 +19474,7 @@ const curriculum: DayContent[] = [
               "The Great Depression had no lasting effect on Canadian policy",
               "Government policy remained completely unchanged after this period",
               "It led to lasting changes in how government supports citizens during economic hardship",
-              "A reason unrelated to its historical significance"
+              "It led Canada to permanently end trade with the United States"
             ],
             "answer": 2
           }
@@ -19499,7 +19499,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only reveals traits through a character’s actions",
               "Never describes a character in any way",
-              "A concept unrelated to direct characterization",
+              "Only describes the setting",
               "Explicitly states a character’s traits"
             ],
             "answer": 3
@@ -19510,14 +19510,14 @@ const curriculum: DayContent[] = [
               "The book’s cover illustration alone",
               "A character’s actions, dialogue, and thoughts",
               "A direct statement naming the trait explicitly",
-              "A concept unrelated to indirect characterization"
+              "The title of the chapter in which the character appears"
             ],
             "answer": 1
           },
           {
             "q": "Which sentence is an example of direct characterization?",
             "options": [
-              "A sentence unrelated to characterization",
+              "Maria frowned and crossed her arms when she heard the news.",
               "Maria was a kind and patient person.",
               "Maria walked quickly down the street.",
               "Maria smiled and helped the lost child find her way home."
@@ -19530,7 +19530,7 @@ const curriculum: DayContent[] = [
               "Jordan slammed the door and refused to speak to anyone.",
               "Jordan was described as difficult by the narrator.",
               "Jordan was an angry and stubborn person.",
-              "A sentence unrelated to characterization"
+              "Jordan was known throughout the school as a generous person."
             ],
             "answer": 0
           },
@@ -19540,7 +19540,7 @@ const curriculum: DayContent[] = [
               "Direct statements are always more engaging than showing traits through action",
               "Indirect characterization always confuses readers with no benefit",
               "It allows readers to draw their own conclusions and become more engaged with the character",
-              "A reason unrelated to characterization"
+              "It lets the narrator state every trait so readers do not need to interpret anything"
             ],
             "answer": 2
           }
@@ -19558,7 +19558,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does expected value represent?",
             "options": [
-              "A value that has no connection to probability",
+              "The outcome that is most likely to occur on the next trial",
               "The largest possible outcome in an experiment",
               "The average outcome of an experiment if it were repeated many times",
               "The single outcome that will always occur every time"
@@ -19622,7 +19622,7 @@ const curriculum: DayContent[] = [
               "Subtractive manufacturing",
               "Additive manufacturing",
               "Traditional casting",
-              "A concept unrelated to 3D printing"
+              "Injection moulding"
             ],
             "answer": 1
           },
@@ -19630,7 +19630,7 @@ const curriculum: DayContent[] = [
             "q": "Additive manufacturing builds objects by ___.",
             "options": [
               "Removing material from a larger solid block",
-              "A concept unrelated to additive manufacturing",
+              "Pressing a heated sheet of material into a mould",
               "Adding material layer by layer based on a digital design",
               "Melting an entire object into a single new shape at once"
             ],
@@ -19639,7 +19639,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Subtractive manufacturing differs from 3D printing because it ___.",
             "options": [
-              "A concept unrelated to subtractive manufacturing",
+              "Works only with objects made of plastic",
               "Removes material from a larger block to create a shape",
               "Uses no material of any kind",
               "Adds material layer by layer to create a shape"
@@ -19652,7 +19652,7 @@ const curriculum: DayContent[] = [
               "It can create complex, customized shapes with relatively little material waste",
               "It always produces more material waste than traditional methods",
               "3D printing can never create a customized design",
-              "An advantage unrelated to 3D printing"
+              "It is always faster than traditional methods for mass producing thousands of identical items"
             ],
             "answer": 0
           },
@@ -19662,7 +19662,7 @@ const curriculum: DayContent[] = [
               "3D printed objects can never be customized to an individual",
               "Prosthetics can only be made using subtractive manufacturing",
               "It allows objects to be precisely customized to an individual’s specific measurements",
-              "A reason unrelated to 3D printing"
+              "It makes prosthetics from a single standard size that fits everyone"
             ],
             "answer": 2
           }
@@ -19679,7 +19679,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What was the Space Race?",
             "options": [
-              "A concept unrelated to history",
+              "A competition between countries to build the largest armies",
               "A modern car racing competition",
               "A sporting event held on the Moon",
               "A period of competition to achieve milestones in space exploration"
@@ -19692,7 +19692,7 @@ const curriculum: DayContent[] = [
               "Canada and Mexico",
               "The United States and the Soviet Union",
               "France and Germany",
-              "A concept unrelated to the Space Race"
+              "Britain and Japan"
             ],
             "answer": 1
           },
@@ -19701,7 +19701,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes",
               "No, it took place during a completely different era",
-              "A concept unrelated to history",
+              "Only the early part, before the Cold War began",
               "The Space Race and Cold War have no connection"
             ],
             "answer": 0
@@ -19710,8 +19710,8 @@ const curriculum: DayContent[] = [
             "q": "Why might achieving a space milestone, like landing on the Moon, have been important during the Cold War?",
             "options": [
               "It served as a symbol of technological and political strength between rival countries",
-              "This concept has no connection to the Cold War",
-              "The Space Race had no connection to competition between countries",
+              "It showed that the Cold War had ended and countries had stopped competing",
+              "It proved that only one country was able to launch rockets into space",
               "Space milestones never had any political significance"
             ],
             "answer": 0
@@ -19720,7 +19720,7 @@ const curriculum: DayContent[] = [
             "q": "Why might studying the Space Race help students understand how competition can drive innovation?",
             "options": [
               "The Space Race never resulted in any new technology",
-              "This concept has no relevance to social studies",
+              "It shows how a trade war between countries slowed science and technology",
               "It shows how rivalry between countries pushed rapid advances in science and technology",
               "Competition never leads to any scientific advancement"
             ],
@@ -19748,7 +19748,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A subject, verb, or complete thought",
               "Only a title at the beginning",
-              "A concept unrelated to sentence fragments",
+              "Only a closing punctuation mark",
               "A specific number of words"
             ],
             "answer": 0
@@ -19758,7 +19758,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A sentence contains only a single short word",
               "A sentence uses too many commas correctly",
-              "A concept unrelated to run-on sentences",
+              "A sentence is longer than twenty words",
               "Two or more complete sentences are joined without proper punctuation"
             ],
             "answer": 3
@@ -19766,7 +19766,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these is a sentence fragment?",
             "options": [
-              "A sentence unrelated to fragments",
+              "Maria laughed, and the crowd cheered.",
               "She runs through the park every morning.",
               "The dog barked loudly at the mail carrier.",
               "Running through the park every morning."
@@ -19777,7 +19777,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these correctly fixes a run-on sentence?",
             "options": [
               "I finished my homework, and then I watched a movie.",
-              "A correction unrelated to run-on sentences",
+              "I finished my homework, I watched a movie.",
               "I finished my homework I watched a movie.",
               "I finished my homework then I watched a movie no comma at all."
             ],
@@ -19786,7 +19786,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it important to avoid sentence fragments and run-ons in formal writing?",
             "options": [
-              "A reason unrelated to grammar",
+              "Formal writing is graded only on length, not on sentence structure",
               "Fragments and run-ons always make writing clearer",
               "Formal writing never requires complete, properly punctuated sentences",
               "They can confuse readers and make ideas harder to follow clearly"
@@ -19807,7 +19807,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A line of best fit is used to ___.",
             "options": [
-              "A concept unrelated to lines of best fit",
+              "Calculate the mean of the x-values only",
               "Connect every single data point exactly with no approximation",
               "Approximate the overall trend shown in a scatter plot",
               "Remove all the data points from a scatter plot"
@@ -19818,9 +19818,9 @@ const curriculum: DayContent[] = [
             "q": "Interpolation refers to estimating a value ___.",
             "options": [
               "Within the range of the existing data",
-              "A concept unrelated to interpolation",
+              "At the mean of the data set only",
               "Far beyond the range of the existing data",
-              "With no connection to any data at all"
+              "Before the data are plotted on a scatter plot"
             ],
             "answer": 0
           },
@@ -19830,7 +19830,7 @@ const curriculum: DayContent[] = [
               "Only within the exact range of the existing data",
               "That already appears directly in the data set",
               "Beyond the range of the existing data",
-              "A concept unrelated to extrapolation"
+              "Exactly at the median of the data"
             ],
             "answer": 2
           },
@@ -19840,7 +19840,7 @@ const curriculum: DayContent[] = [
               "Interpolation, since it always ignores the known data points",
               "Extrapolation, since it assumes the trend continues beyond the known data",
               "Both are always equally reliable in every situation",
-              "A comparison unrelated to lines of best fit"
+              "Interpolation, since estimates inside the data range cannot be checked"
             ],
             "answer": 1
           },
@@ -19848,7 +19848,7 @@ const curriculum: DayContent[] = [
             "q": "Why is a line of best fit useful when analyzing a scatter plot of real-world data?",
             "options": [
               "It helps identify trends and make predictions based on the overall pattern in the data",
-              "A reason unrelated to statistics",
+              "It gives the exact value of every point on the plot",
               "Scatter plots never show any pattern that a line could approximate",
               "A line of best fit provides no useful information about a data set"
             ],
@@ -19940,7 +19940,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The growth of cities as more people move from rural areas",
               "The shrinking of cities over time",
-              "A concept unrelated to geography",
+              "The movement of people from cities to the countryside",
               "The growth of rural farmland only"
             ],
             "answer": 0
@@ -19950,7 +19950,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A small town",
               "A rural village",
-              "A concept unrelated to urbanization",
+              "A suburb",
               "A megacity"
             ],
             "answer": 3
@@ -19961,7 +19961,7 @@ const curriculum: DayContent[] = [
               "No, urbanization involves no movement of people at all",
               "Yes",
               "Urbanization only involves moving from cities to rural areas",
-              "A concept unrelated to urbanization"
+              "No, it only involves people moving between cities of equal size"
             ],
             "answer": 1
           },
@@ -19971,14 +19971,14 @@ const curriculum: DayContent[] = [
               "Cities often offer more job opportunities, services, and education options",
               "Rural areas always offer more opportunities than cities",
               "People never have any reason to move to a city",
-              "This concept has no connection to urbanization"
+              "Governments legally require rural residents to live in cities"
             ],
             "answer": 0
           },
           {
             "q": "Why might rapid urbanization create challenges for a city’s infrastructure?",
             "options": [
-              "This concept has no relevance to social studies",
+              "Population growth lowers demand for housing and public transit",
               "Cities never need to plan for population growth",
               "Urbanization never creates any challenges for a city",
               "A fast-growing population can strain housing, transportation, and public services"
@@ -20006,7 +20006,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The exact number of characters in a story",
               "The emotional atmosphere a reader feels while reading",
-              "A concept unrelated to mood",
+              "The central message or lesson a story teaches",
               "The physical setting where a story takes place"
             ],
             "answer": 1
@@ -20014,7 +20014,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Fact-checking involves ___.",
             "options": [
-              "A concept unrelated to fact-checking",
+              "Changing a claim so that it matches your own opinion",
               "Accepting every claim without question",
               "Verifying claims against reliable, independent sources",
               "Sharing information immediately with no review"
@@ -20025,7 +20025,7 @@ const curriculum: DayContent[] = [
             "q": "An unreliable narrator is a storyteller whose ___.",
             "options": [
               "Account is always completely accurate and trustworthy",
-              "A concept unrelated to unreliable narrators",
+              "Account is always told in the third person",
               "Perspective is identical to every other character in the story",
               "Credibility is compromised, requiring readers to question their account"
             ],
@@ -20037,7 +20037,7 @@ const curriculum: DayContent[] = [
               "A character’s actions, dialogue, and thoughts",
               "A direct statement naming the trait explicitly",
               "The book’s cover illustration alone",
-              "A concept unrelated to indirect characterization"
+              "A summary of the plot given in the final chapter"
             ],
             "answer": 0
           },
@@ -20045,8 +20045,8 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful to review reading, writing, grammar, and media literacy skills together?",
             "options": [
               "Review never helps strengthen understanding of language skills",
-              "These topics have no connection to one another",
-              "A reason unrelated to reviewing language arts",
+              "These topics are always tested in completely separate subjects",
+              "Reviewing one skill makes the others harder to remember",
               "It reinforces how these language and literacy skills connect and support one another"
             ],
             "answer": 3
@@ -20066,7 +20066,7 @@ const curriculum: DayContent[] = [
             "options": [
               "3",
               "9",
-              "A value unrelated to the calculation",
+              "12",
               "6"
             ],
             "answer": 3
@@ -20077,7 +20077,7 @@ const curriculum: DayContent[] = [
               "The y-intercept of only one equation",
               "A point that satisfies neither equation",
               "The solution that satisfies both equations",
-              "A concept unrelated to systems of equations"
+              "The slope of both lines"
             ],
             "answer": 2
           },
@@ -20087,7 +20087,7 @@ const curriculum: DayContent[] = [
               "The outcome of one event always determines the other completely",
               "The outcome of one event does not affect the probability of the other",
               "Both events must occur at the exact same time",
-              "A concept unrelated to independent events"
+              "The events have the same number of outcomes"
             ],
             "answer": 1
           },
@@ -20096,7 +20096,7 @@ const curriculum: DayContent[] = [
             "options": [
               "By guessing randomly with no formula involved",
               "Only by first calculating every previous term in the sequence",
-              "A concept unrelated to explicit formulas",
+              "By adding the first and last terms together",
               "Directly using its position number, without knowing previous terms"
             ],
             "answer": 3
@@ -20105,8 +20105,8 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful to review number theory, algebra, geometry, data management, and probability together?",
             "options": [
               "Review is never useful in math",
-              "A reason unrelated to reviewing math",
-              "These topics have no connection to each other in mathematics",
+              "Each topic works on its own, so combining them makes learning harder",
+              "Reviewing several topics together means earlier lessons no longer need practice",
               "These related math concepts reinforce each other for stronger overall understanding"
             ],
             "answer": 3
@@ -20124,7 +20124,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Compression is a type of stress that occurs when a structure is ___.",
             "options": [
-              "A concept unrelated to compression",
+              "Cut or slid apart by opposing forces",
               "Squeezed or pushed together",
               "Twisted around its centre",
               "Stretched or pulled apart"
@@ -20136,7 +20136,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Substances are physically mixed with no chemical bonding",
               "Two or more elements are chemically combined in a fixed ratio",
-              "A concept unrelated to compounds",
+              "A mixture is filtered to separate its parts",
               "A single element exists on its own"
             ],
             "answer": 1
@@ -20146,7 +20146,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Force equals mass times acceleration",
               "Force equals distance divided by time",
-              "A formula unrelated to Newton’s Second Law",
+              "Force equals mass times velocity",
               "Force equals mass divided by acceleration"
             ],
             "answer": 0
@@ -20154,7 +20154,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A reflex action is best described as ___.",
             "options": [
-              "A concept unrelated to reflex actions",
+              "A learned habit performed automatically after repeated practice",
               "A slow, carefully considered decision made by the brain",
               "A rapid, automatic response to a stimulus that bypasses conscious thought",
               "An action that never involves the nervous system at all"
@@ -20164,10 +20164,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful to review physics, chemistry, earth science, and life science topics together?",
             "options": [
-              "A reason unrelated to reviewing science",
-              "Each topic must be studied with no connection to the others",
+              "It replaces the need to study any individual science topic in depth",
+              "It shows that only one of these sciences is needed to explain the natural world",
               "It reinforces how these interconnected science concepts relate to one another",
-              "These topics have no connection to each other"
+              "Reviewing them together makes each topic easier to memorize separately"
             ],
             "answer": 2
           }
@@ -20187,7 +20187,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The founding of Canadian cities",
               "The experiences of Indigenous survivors of residential schools",
-              "A concept unrelated to Canadian history",
+              "The signing of the Numbered Treaties",
               "The history of Canadian sports"
             ],
             "answer": 1
@@ -20197,7 +20197,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Trade Agreements",
               "Provincial Laws",
-              "A concept unrelated to the Commission",
+              "Constitutional Amendments",
               "Calls to Action"
             ],
             "answer": 3
@@ -20206,9 +20206,9 @@ const curriculum: DayContent[] = [
             "q": "Was the Truth and Reconciliation Commission focused on Indigenous experiences in Canada?",
             "options": [
               "Yes",
-              "A concept unrelated to Canadian history",
+              "No, it focused on Canada's role in the Second World War",
               "No, it focused only on international trade",
-              "It had no connection to Indigenous peoples"
+              "It examined only the treatment of immigrants arriving after 1950"
             ],
             "answer": 0
           },
@@ -20218,7 +20218,7 @@ const curriculum: DayContent[] = [
               "The Commission ignored the experiences of survivors entirely",
               "Survivor testimonies were never included in the Commission’s work",
               "It helped create an accurate record of history and acknowledge the harm experienced by survivors",
-              "This concept has no connection to social studies"
+              "Testimonies were collected to decide which provinces would receive federal funding"
             ],
             "answer": 2
           },
@@ -20227,8 +20227,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Reconciliation was fully completed the moment the Commission ended",
               "Rebuilding trust and addressing historical harms takes sustained effort over time",
-              "This concept has no relevance to social studies",
-              "Reconciliation has no connection to Indigenous and non-Indigenous relationships"
+              "Governments can complete reconciliation by passing a single law",
+              "Only government officials can take part in reconciliation"
             ],
             "answer": 1
           }
@@ -20252,9 +20252,9 @@ const curriculum: DayContent[] = [
             "q": "What is an anti-hero?",
             "options": [
               "A minor character with no importance",
-              "A concept unrelated to reading",
+              "A character who is admired for always acting honourably",
               "A main character who lacks traditional heroic qualities",
-              "A villain with no role in the main plot"
+              "A side character who gives the hero advice"
             ],
             "answer": 2
           },
@@ -20262,7 +20262,7 @@ const curriculum: DayContent[] = [
             "q": "Does an anti-hero still play a central role in driving the story forward?",
             "options": [
               "No, anti-heroes never play any central role",
-              "A concept unrelated to anti-heroes",
+              "Only when the anti-hero turns into a traditional hero in the first chapter",
               "Yes",
               "Anti-heroes only ever appear in the background"
             ],
@@ -20272,7 +20272,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these traits might an anti-hero lack compared to a traditional hero?",
             "options": [
               "A physical body",
-              "A concept unrelated to anti-heroes",
+              "A central role in the plot",
               "Moral virtue",
               "The ability to speak"
             ],
@@ -20282,7 +20282,7 @@ const curriculum: DayContent[] = [
             "q": "Why might an author choose to write an anti-hero instead of a traditional hero?",
             "options": [
               "Traditional heroes are always more interesting than anti-heroes",
-              "This concept has no connection to literature",
+              "Readers always prefer characters who are perfectly good",
               "It can create a more complex, realistic character that challenges readers’ expectations",
               "Anti-heroes never add any complexity to a story"
             ],
@@ -20293,7 +20293,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Anti-heroes are always portrayed with absolutely no depth",
               "Authors often show relatable struggles or reasons behind the anti-hero’s flawed choices",
-              "This concept has no relevance to reading comprehension",
+              "Readers only sympathize with characters who follow every rule",
               "Readers never feel any sympathy for a flawed character"
             ],
             "answer": 1
@@ -20442,14 +20442,14 @@ const curriculum: DayContent[] = [
               "North of Rome",
               "In present-day South America",
               "South of Egypt along the Nile River",
-              "A concept unrelated to ancient history"
+              "In present-day Mexico"
             ],
             "answer": 2
           },
           {
             "q": "What skill was ancient Nubia known for?",
             "options": [
-              "A concept unrelated to Nubia",
+              "Silk weaving",
               "Manufacturing cars",
               "Ironworking",
               "Building skyscrapers"
@@ -20462,14 +20462,14 @@ const curriculum: DayContent[] = [
               "Egypt and Nubia never interacted at all",
               "Yes",
               "No, Nubia never had any connection to Egypt",
-              "A concept unrelated to Nubian history"
+              "No, only the Assyrians and Greeks ever ruled Egypt"
             ],
             "answer": 1
           },
           {
             "q": "Why might Nubia’s location along the Nile River have supported extensive trade networks?",
             "options": [
-              "This concept has no connection to Nubian history",
+              "The Nile flowed away from Nubia, so goods could only travel by land",
               "Nubia had no access to any waterways at all",
               "Rivers never provide any benefit for trade",
               "The river provided a natural route for transporting goods and connecting distant regions"
@@ -20480,7 +20480,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important for students to learn about African civilizations like ancient Nubia alongside better-known ones like ancient Egypt?",
             "options": [
               "It gives a fuller and more accurate picture of the achievements of ancient African societies",
-              "This concept has no relevance to social studies",
+              "Nubia was the largest empire in the ancient world",
               "Only ancient Egypt is worth studying in African history",
               "Ancient Nubia had no notable achievements of its own"
             ],
@@ -20671,7 +20671,7 @@ const curriculum: DayContent[] = [
               "Roller coasters use only kinetic energy at all times",
               "Energy never changes form on a roller coaster",
               "The energy continuously transforms between potential and kinetic as the coaster rises and falls",
-              "Roller coasters have no connection to energy transformation"
+              "Roller coasters gain energy continuously from friction with the track"
             ],
             "answer": 2
           }
@@ -20690,7 +20690,7 @@ const curriculum: DayContent[] = [
             "q": "What is the Canadian Senate?",
             "options": [
               "A municipal council",
-              "A concept unrelated to government",
+              "The lower house of Parliament",
               "The upper house of Parliament",
               "A provincial court"
             ],
@@ -20699,7 +20699,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Are members of the Senate appointed or elected?",
             "options": [
-              "A concept unrelated to the Senate",
+              "Chosen by a vote of the House of Commons",
               "Elected",
               "Neither appointed nor elected",
               "Appointed"
@@ -20709,8 +20709,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Can the Senate review and debate bills before they become law?",
             "options": [
-              "A concept unrelated to the Senate",
-              "No, the Senate has no role in reviewing bills",
+              "Only provincial legislatures are allowed to review bills",
+              "No, the Senate can only debate bills after they become law",
               "Yes",
               "Only the House of Commons is allowed to review bills"
             ],
@@ -20722,7 +20722,7 @@ const curriculum: DayContent[] = [
               "Bills never need to be reviewed more than once",
               "It provides an additional layer of scrutiny that could catch problems before a bill becomes law",
               "A second review of a bill never serves any purpose",
-              "This concept has no connection to Canadian government"
+              "It ensures the Prime Minister personally approves every bill"
             ],
             "answer": 1
           },
@@ -20732,7 +20732,7 @@ const curriculum: DayContent[] = [
               "People have different views on which method best ensures the Senate is fair and accountable",
               "The method of choosing Senators has never changed or been debated",
               "No one in Canada has ever discussed how Senators are chosen",
-              "This concept has no relevance to social studies"
+              "Everyone agrees that Senators should be elected by the House of Commons"
             ],
             "answer": 0
           }
@@ -20877,7 +20877,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What builds a coral reef?",
             "options": [
-              "A concept unrelated to marine biology",
+              "Mineral deposits from underwater volcanoes",
               "Sand carried by ocean currents",
               "Large rocks that fall from cliffs",
               "Colonies of tiny coral organisms"
@@ -20890,7 +20890,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "Only one single species can live near a coral reef",
               "No, coral reefs support no living things at all",
-              "A concept unrelated to coral reefs"
+              "Only large predators such as sharks can live near a coral reef"
             ],
             "answer": 0
           },
@@ -20899,8 +20899,8 @@ const curriculum: DayContent[] = [
             "options": [
               "No, coral reefs are unaffected by any ocean temperature change",
               "Yes",
-              "A concept unrelated to coral reefs",
-              "Ocean temperature has no connection to marine ecosystems"
+              "No, only deep-sea coral is affected by temperature, while reef corals are not",
+              "Only changes in water salinity affect coral, never temperature"
             ],
             "answer": 1
           },
@@ -20908,9 +20908,9 @@ const curriculum: DayContent[] = [
             "q": "Why might rising ocean temperatures cause coral bleaching, harming reef ecosystems?",
             "options": [
               "Coral reefs are never affected by changes in their environment",
-              "This concept has no connection to marine biology",
+              "Warmer water dissolves the coral’s limestone skeleton into the surrounding ocean",
               "Warmer water can stress coral, causing them to expel the algae that give them colour and nutrients",
-              "Ocean temperature has no connection to coral health"
+              "Warmer water causes coral to grow too quickly and lose their colour as they age"
             ],
             "answer": 2
           },
@@ -20918,9 +20918,9 @@ const curriculum: DayContent[] = [
             "q": "Why are coral reefs sometimes called the rainforests of the sea?",
             "options": [
               "Like rainforests, they support an extremely high level of biodiversity in a relatively small area",
-              "Coral reefs have no connection to biodiversity at all",
+              "Coral reefs produce most of the world’s oxygen, just like rainforests",
               "Rainforests and coral reefs share no similarities whatsoever",
-              "This concept has no relevance to science"
+              "Both cover most of Earth’s surface"
             ],
             "answer": 0
           }
@@ -20941,7 +20941,7 @@ const curriculum: DayContent[] = [
               "Trade routes",
               "Only through modern air travel",
               "Religions have never spread anywhere",
-              "A concept unrelated to religious history"
+              "Radio and television broadcasts"
             ],
             "answer": 0
           },
@@ -20950,7 +20950,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No, trade routes never had any connection to religion",
               "Religions have only ever spread within a single region",
-              "A concept unrelated to world religions",
+              "Only Christianity spread along trade routes",
               "Yes"
             ],
             "answer": 3
@@ -20961,7 +20961,7 @@ const curriculum: DayContent[] = [
               "No, migration never spreads religious beliefs",
               "Yes",
               "Religions can only be spread through conquest",
-              "A concept unrelated to migration"
+              "Only if the migrants are soldiers"
             ],
             "answer": 1
           },
@@ -20971,16 +20971,16 @@ const curriculum: DayContent[] = [
               "As they traded goods, they also shared ideas, customs, and beliefs with the people they met",
               "Trade routes were only ever used to transport food",
               "Merchants only ever traded goods with no exchange of ideas",
-              "This concept has no connection to social studies"
+              "Merchants were required by law to teach religion in every town"
             ],
             "answer": 0
           },
           {
             "q": "Why is understanding the spread of world religions helpful for understanding global cultures today?",
             "options": [
-              "This concept has no relevance to social studies",
+              "Understanding it explains why every modern country shares the same religion",
               "Religious beliefs never had any influence on culture",
-              "World religions have no connection to any modern society",
+              "Religious traditions disappeared once the empires that carried them collapsed",
               "Many modern societies were shaped by religious traditions that arrived through historical trade and migration"
             ],
             "answer": 3
@@ -21006,7 +21006,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only the sounds of one single word",
               "The sounds and meanings of two existing words",
-              "A concept unrelated to vocabulary",
+              "The meanings of two words but none of their sounds",
               "Two completely unrelated random sounds"
             ],
             "answer": 1
@@ -21037,14 +21037,14 @@ const curriculum: DayContent[] = [
               "New concepts never need any new words to describe them",
               "Portmanteau words never actually describe anything meaningful",
               "It efficiently combines two familiar ideas into one convenient word",
-              "This concept has no connection to vocabulary"
+              "It borrows a word from another language and keeps its spelling"
             ],
             "answer": 2
           },
           {
             "q": "Why might portmanteau words become widely adopted into everyday language over time?",
             "options": [
-              "This concept has no relevance to vocabulary",
+              "They are always borrowed directly from another language",
               "New words are always immediately rejected by most speakers",
               "Portmanteau words are never actually adopted into common usage",
               "They can capture a useful or popular idea in a memorable, catchy way"
@@ -21126,7 +21126,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a watershed?",
             "options": [
-              "A body of water with no connection to surrounding land",
+              "A man-made reservoir that supplies water to a town",
               "A type of underground cave system",
               "A device used to measure rainfall",
               "An area of land where all surface water drains into a common body of water"
@@ -21167,8 +21167,8 @@ const curriculum: DayContent[] = [
             "q": "Why is protecting a watershed considered important for both ecosystems and human communities?",
             "options": [
               "Many people and wildlife depend on the same water sources within a watershed",
-              "Watersheds are unrelated to drinking water supplies",
-              "Watersheds have no impact on either ecosystems or communities",
+              "Pollution entering a watershed stays in the first stream it enters",
+              "Water in a watershed is used only by people, so wildlife is unaffected",
               "Protecting a watershed only benefits a single organism"
             ],
             "answer": 0
@@ -21188,7 +21188,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A modern country in North America",
               "One of the largest empires in the ancient world, centred in ancient Persia",
-              "A concept unrelated to ancient history",
+              "A confederation of Greek city-states led by Athens",
               "A small city-state with no influence beyond its borders"
             ],
             "answer": 1
@@ -21196,7 +21196,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What were the provinces of the Achaemenid Empire called?",
             "options": [
-              "A concept unrelated to Persian history",
+              "Duchies",
               "Territories only found in Egypt",
               "Boroughs",
               "Satrapies"
@@ -21207,7 +21207,7 @@ const curriculum: DayContent[] = [
             "q": "Was the Achaemenid Empire known for building an extensive road system?",
             "options": [
               "Yes",
-              "A concept unrelated to ancient Persia",
+              "No, its roads were only a few short paths within the capital city",
               "No, the empire never built any roads",
               "Roads were only built much later by other empires"
             ],
@@ -21219,7 +21219,7 @@ const curriculum: DayContent[] = [
               "The empire never conquered any other peoples",
               "Tolerating other customs always made the empire weaker",
               "Allowing local traditions to continue could reduce resistance and rebellion across a large empire",
-              "This concept has no connection to ancient history"
+              "Conquered peoples were required to adopt the Persian religion"
             ],
             "answer": 2
           },
@@ -21228,7 +21228,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Roads never had any effect on how easily an empire could be governed",
               "It allowed messages, soldiers, and goods to move quickly across vast distances",
-              "This concept has no relevance to social studies",
+              "Roads let the empire's navy sail to its distant provinces",
               "The empire had no need to communicate across its territory"
             ],
             "answer": 1
@@ -21395,7 +21395,7 @@ const curriculum: DayContent[] = [
             "q": "How is DNA passed from one generation to the next?",
             "options": [
               "DNA cannot be passed between generations",
-              "It is created new in every individual with no connection to parents",
+              "It is built from the food the offspring eats during growth",
               "It is passed from parents to their offspring",
               "It only exists in adult organisms"
             ],
@@ -21404,7 +21404,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do siblings often share similar traits?",
             "options": [
-              "DNA has no connection to physical traits",
+              "Sharing a household causes their DNA to become identical",
               "They inherit similar genetic instructions from their shared parents",
               "Siblings never share any genetic similarities",
               "Traits are determined entirely by the environment, not DNA"
@@ -21437,7 +21437,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The 1990s",
               "The 1970s",
-              "A concept unrelated to Canadian history",
+              "The 1950s",
               "The 1920s"
             ],
             "answer": 1
@@ -21447,7 +21447,7 @@ const curriculum: DayContent[] = [
             "options": [
               "British Columbia",
               "Quebec",
-              "A concept unrelated to the October Crisis",
+              "Ontario",
               "Nova Scotia"
             ],
             "answer": 1
@@ -21456,7 +21456,7 @@ const curriculum: DayContent[] = [
             "q": "What federal law did the government invoke during the October Crisis?",
             "options": [
               "The Constitution Act",
-              "A concept unrelated to the October Crisis",
+              "The Emergencies Act",
               "The War Measures Act",
               "The Multiculturalism Act"
             ],
@@ -21467,7 +21467,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The Act was never actually used during the crisis",
               "It temporarily suspended certain civil liberties, such as the right to be free from arrest without charge",
-              "This concept has no connection to Canadian history",
+              "It gave the federal government permanent control over Quebec's laws",
               "The Act had no real effect on anyone’s rights"
             ],
             "answer": 1
@@ -21478,7 +21478,7 @@ const curriculum: DayContent[] = [
               "No one has ever discussed the government’s response to the crisis",
               "The events of the October Crisis had no lasting impact on Canada",
               "People weigh differently the need for public safety against the importance of protecting civil liberties",
-              "This concept has no relevance to social studies"
+              "Historians disagree about which province the crisis actually took place in"
             ],
             "answer": 2
           }
@@ -21502,7 +21502,7 @@ const curriculum: DayContent[] = [
             "q": "What does an op-ed rebuttal respond to?",
             "options": [
               "A math textbook",
-              "A concept unrelated to writing",
+              "A law passed by the government last year",
               "A recipe for baking bread",
               "Another published opinion piece"
             ],
@@ -21514,7 +21514,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "A rebuttal only ever repeats the original argument",
               "No, it never includes any evidence",
-              "A concept unrelated to writing"
+              "Only if the writer agrees with the original author"
             ],
             "answer": 0
           },
@@ -21522,7 +21522,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a writer choose to write a rebuttal instead of ignoring an opposing opinion piece?",
             "options": [
               "Rebuttals never actually engage with the original argument",
-              "This concept has no connection to writing",
+              "Newspapers require every opinion piece to be answered",
               "It allows them to directly challenge and respond to specific points made by the other writer",
               "Ignoring an opposing viewpoint is always the better strategy"
             ],
@@ -21543,7 +21543,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Readers never care whether a rebuttal actually responds to the original piece",
               "It makes the response more focused, credible, and persuasive to readers",
-              "This concept has no connection to writing",
+              "It lets the writer avoid presenting any evidence of their own",
               "Rebuttals are always more effective when they ignore the original argument completely"
             ],
             "answer": 1
@@ -21595,7 +21595,7 @@ const curriculum: DayContent[] = [
               "The intersection point can be seen directly on the graph, showing the values that make both equations true at the same time",
               "A graph can only display a single equation at once",
               "Graphing never shows where two equations share a common solution",
-              "Intersection points on a graph have no connection to solving equations"
+              "The intersection point shows only the y-intercept of the first equation"
             ],
             "answer": 0
           },
@@ -21624,7 +21624,7 @@ const curriculum: DayContent[] = [
             "q": "What are bioplastics made from?",
             "options": [
               "Only metal and glass",
-              "A concept unrelated to materials science",
+              "Sand and limestone melted together",
               "Renewable sources, such as corn starch or sugarcane",
               "Only petroleum, just like traditional plastic"
             ],
@@ -21633,10 +21633,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Are bioplastics considered an alternative to traditional plastics made from petroleum?",
             "options": [
-              "No, bioplastics have no connection to traditional plastics",
+              "No, bioplastics are designed to replace glass, not petroleum-based plastics",
               "Bioplastics are exactly the same as petroleum-based plastics",
               "Yes",
-              "A concept unrelated to bioplastics"
+              "No, bioplastics are used only to make metal products"
             ],
             "answer": 2
           },
@@ -21644,7 +21644,7 @@ const curriculum: DayContent[] = [
             "q": "Name one renewable source that can be used to make bioplastics, such as corn starch.",
             "options": [
               "Crude oil",
-              "A concept unrelated to bioplastics",
+              "Limestone",
               "Corn starch",
               "Coal"
             ],
@@ -21653,7 +21653,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might bioplastics be considered a more environmentally friendly option than some traditional plastics?",
             "options": [
-              "This concept has no connection to materials science",
+              "They are made from petroleum, which reduces carbon emissions",
               "They can be made from renewable resources and may break down more easily in some cases",
               "Bioplastics have no environmental benefit compared to traditional plastics",
               "Traditional plastics are always more sustainable than bioplastics"
@@ -21663,7 +21663,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might researchers continue working to improve bioplastic technology?",
             "options": [
-              "This concept has no relevance to science",
+              "Bioplastics are already cheaper and more durable than every traditional plastic",
               "Bioplastics never have any limitations to address",
               "Bioplastic technology has already been perfected with no room for improvement",
               "Some bioplastics still face challenges, like cost or how well they break down in different environments"
@@ -21685,7 +21685,7 @@ const curriculum: DayContent[] = [
             "q": "During which conflict were Japanese Canadians forcibly interned by the Canadian government?",
             "options": [
               "World War I",
-              "A concept unrelated to Canadian history",
+              "The Korean War",
               "World War II",
               "The Cold War"
             ],
@@ -21695,7 +21695,7 @@ const curriculum: DayContent[] = [
             "q": "What happened to the property of many interned Japanese Canadians?",
             "options": [
               "It was left completely untouched",
-              "A concept unrelated to internment",
+              "It was transferred to the government of Japan",
               "It was seized by the government",
               "It was carefully protected and returned immediately"
             ],
@@ -21705,7 +21705,7 @@ const curriculum: DayContent[] = [
             "q": "Is the internment of Japanese Canadians now recognized as a violation of their rights?",
             "options": [
               "Yes",
-              "A concept unrelated to Japanese Canadian history",
+              "Only in the United States, not in Canada",
               "This event never actually happened",
               "No, it is considered to have been entirely justified"
             ],
@@ -21716,18 +21716,18 @@ const curriculum: DayContent[] = [
             "options": [
               "Japanese Canadians were treated exactly the same as all other Canadians during the war",
               "Fear and prejudice during wartime led to policies that violated the rights of an entire community based on ancestry",
-              "The government’s actions had no connection to fear or prejudice",
-              "This concept has no connection to Canadian history"
+              "Japanese Canadians were detained because they had broken wartime laws",
+              "The government acted solely to protect Japanese Canadians from violence"
             ],
             "answer": 1
           },
           {
             "q": "Why is it important for students to learn about historical injustices like Japanese Canadian internment?",
             "options": [
-              "This event has no connection to how Canada addresses rights today",
+              "Studying it is mainly useful for learning military tactics",
               "Learning about past injustices serves no purpose today",
               "Understanding past injustices can help prevent similar mistakes and support reconciliation efforts",
-              "This concept has no relevance to social studies"
+              "It helps students memorize the dates of wartime battles"
             ],
             "answer": 2
           }
@@ -21753,7 +21753,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A completely unedited, original recording",
               "A traditional printed newspaper article",
-              "A concept unrelated to media literacy",
+              "A rumour that spreads by word of mouth",
               "A digitally altered video or image"
             ],
             "answer": 3
@@ -21762,7 +21762,7 @@ const curriculum: DayContent[] = [
             "q": "Is artificial intelligence often used to create deepfakes?",
             "options": [
               "Deepfakes are always created without any digital tools",
-              "A concept unrelated to deepfakes",
+              "No, deepfakes are made only by filming actors in costume",
               "Yes",
               "No, deepfakes are never created using any technology"
             ],
@@ -21774,7 +21774,7 @@ const curriculum: DayContent[] = [
               "Deepfakes only ever show completely accurate events",
               "No, deepfakes never alter what appears to happen in a video",
               "Yes",
-              "A concept unrelated to deepfakes"
+              "Only if the original footage is deleted first"
             ],
             "answer": 2
           },
@@ -21782,9 +21782,9 @@ const curriculum: DayContent[] = [
             "q": "Why might deepfakes pose a challenge for evaluating the reliability of online video content?",
             "options": [
               "They can convincingly fabricate events, making it harder to know what is real",
-              "This concept has no connection to media literacy",
+              "They make video files too large to be shared online",
               "Deepfakes are always obviously fake and easy to identify",
-              "Deepfakes have no effect on how believable a video seems"
+              "They only affect video quality, not what viewers believe"
             ],
             "answer": 0
           },
@@ -21794,7 +21794,7 @@ const curriculum: DayContent[] = [
               "Digitally manipulated content, like deepfakes, can spread false information convincingly",
               "Every video seen online is always completely authentic",
               "Sharing unverified content never has any negative consequences",
-              "This concept has no relevance to media literacy"
+              "Platforms remove all manipulated videos before anyone sees them"
             ],
             "answer": 0
           }
@@ -21905,7 +21905,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Many bodily processes function properly only within a narrow range of conditions",
               "Body temperature and fluid levels never need to be regulated",
-              "The bodys internal environment has no effect on its functioning",
+              "Only the brain needs a stable internal environment, while other organs work in any conditions",
               "A stable internal environment is never necessary for survival"
             ],
             "answer": 0
@@ -21913,7 +21913,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a persons body need to adjust differently in a very cold environment compared to a very hot one?",
             "options": [
-              "Cold and hot environments have no effect on the bodys internal balance",
+              "In a cold environment the body must cool itself down, while in a hot one it must generate heat",
               "Homeostasis only applies to warm environments",
               "The body responds identically no matter the outside temperature",
               "Homeostasis requires different responses depending on the outside conditions the body faces"
@@ -21946,7 +21946,7 @@ const curriculum: DayContent[] = [
               "So the review is unbiased and not controlled by the government being reviewed",
               "Independence makes the reports less accurate",
               "The government should review itself only",
-              "Independence does not matter"
+              "Independence allows the Auditor General to set government policy"
             ],
             "answer": 0
           },
@@ -22004,7 +22004,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "Only fiction writing uses the passive voice",
               "No, scientific writing never uses the passive voice",
-              "A concept unrelated to grammar"
+              "Only in advertising and sports commentary"
             ],
             "answer": 0
           },
@@ -22013,7 +22013,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Neither the process nor who performed it",
               "The process or result",
-              "A concept unrelated to passive voice",
+              "The tool used to heat it",
               "Who performed the action"
             ],
             "answer": 1
@@ -22033,7 +22033,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It keeps the focus on the scientific process rather than on the individual researcher",
               "The passive voice always makes scientific writing less clear",
-              "This concept has no connection to grammar",
+              "It makes the writing sound more personal and emotional",
               "Scientific writing should never focus on a process or result"
             ],
             "answer": 0
@@ -22043,7 +22043,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The passive voice never has any effect on how direct a sentence feels",
               "The passive voice always makes writing more direct and clear",
-              "This concept has no connection to writing style",
+              "It changes the tense of the sentence to the future",
               "It can obscure who or what is responsible for an action"
             ],
             "answer": 3
@@ -22062,7 +22062,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does conditional probability measure?",
             "options": [
-              "The likelihood of an event that has no connection to any other event",
+              "The likelihood of an event occurring before any other event takes place",
               "The likelihood of an event occurring given that another event has already happened",
               "The total number of outcomes in a sample space",
               "The average of all possible outcomes"
@@ -22073,7 +22073,7 @@ const curriculum: DayContent[] = [
             "q": "If it is known that a card drawn from a deck is a face card, how does this information affect the probability of it being a king?",
             "options": [
               "It changes the probability, since only face cards are now being considered",
-              "It has no effect on the probability at all",
+              "It leaves the probability the same as in the full deck",
               "It always makes the probability equal to one",
               "It always makes the probability equal to zero"
             ],
@@ -22102,7 +22102,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might conditional probability be useful in fields such as medicine, such as interpreting the result of a medical test?",
             "options": [
-              "Medical test results have no connection to probability of any kind",
+              "It gives the probability that a test was administered correctly regardless of the result",
               "Conditional probability cannot be applied to any real-world situation",
               "It helps estimate the likelihood of a condition being present given a specific test result, providing more meaningful information than considering the test result alone",
               "Test results always provide complete certainty with no need for probability"
@@ -22153,7 +22153,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might painting a metal surface help prevent rust?",
             "options": [
-              "Paint has no effect on preventing corrosion",
+              "Paint heats the metal surface, driving off the oxygen that causes rust",
               "Paint speeds up the process of rust formation",
               "Paint creates a barrier that blocks oxygen and moisture from reaching the metal",
               "Rust cannot form on metal under any circumstances"
@@ -22217,7 +22217,7 @@ const curriculum: DayContent[] = [
               "It was immediately forgotten",
               "Its principles shaped ideas about law and rights over centuries",
               "Canada copied it word for word",
-              "It has no connection to modern law"
+              "It was drafted by the Canadian Parliament in 1867"
             ],
             "answer": 1
           },
@@ -22353,7 +22353,7 @@ const curriculum: DayContent[] = [
             "q": "Why is knowing that exterior angles sum to 360 degrees useful for finding the exterior angle of a regular polygon with many sides?",
             "options": [
               "Exterior angles of a regular polygon can never be calculated using this total",
-              "The number of sides has no connection to the size of each exterior angle",
+              "Each exterior angle is found by dividing 180 degrees by the number of sides",
               "Dividing 360 degrees by the number of sides only works for irregular polygons",
               "It allows the measure of each equal exterior angle to be found quickly by dividing 360 degrees by the number of sides"
             ],
@@ -22376,7 +22376,7 @@ const curriculum: DayContent[] = [
               "Only light energy",
               "Chemical energy",
               "Only sound energy",
-              "A concept unrelated to batteries"
+              "Only nuclear energy"
             ],
             "answer": 1
           },
@@ -22386,7 +22386,7 @@ const curriculum: DayContent[] = [
               "Electrodes",
               "Insulators",
               "Circuits",
-              "A concept unrelated to batteries"
+              "Resistors"
             ],
             "answer": 0
           },
@@ -22396,7 +22396,7 @@ const curriculum: DayContent[] = [
               "A simple wire only",
               "An electrolyte",
               "Nothing at all",
-              "A concept unrelated to batteries"
+              "A fuse"
             ],
             "answer": 1
           },
@@ -22404,7 +22404,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a rechargeable battery be able to reverse its chemical reaction?",
             "options": [
               "Rechargeable batteries never actually reverse any chemical reaction",
-              "This concept has no connection to battery chemistry",
+              "The electrodes are replaced with new metal each time it is charged",
               "All batteries work in exactly the same non-reversible way",
               "Applying an external electrical current can reverse the chemical process, restoring the battery’s charge"
             ],
@@ -22413,9 +22413,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding battery chemistry important for developing better electric vehicles?",
             "options": [
-              "Battery chemistry has no connection to electric vehicle technology",
+              "Better batteries would let vehicles produce their own electricity from the road",
               "Electric vehicles never actually rely on any battery technology",
-              "This concept has no relevance to science",
+              "Battery chemistry only affects how fast the vehicle’s tires wear down",
               "Improved battery technology could allow vehicles to store more energy and travel farther"
             ],
             "answer": 3
@@ -22467,16 +22467,16 @@ const curriculum: DayContent[] = [
               "It reflects discriminatory immigration policies that unfairly excluded people based on their origin",
               "The incident was entirely fictional and never occurred",
               "The event demonstrates fair and equal treatment of all passengers",
-              "It has no connection to immigration history"
+              "It was a trade dispute over cargo between shipping companies"
             ],
             "answer": 0
           },
           {
             "q": "Why might learning about events like the Komagata Maru incident be valuable for understanding Canadian history today?",
             "options": [
-              "Historical injustices have no connection to present-day understanding",
+              "It shows that Canada's immigration rules have always stayed the same",
               "It helps Canadians understand past injustices and how immigration policy has changed over time",
-              "This event has no relevance to modern Canadian society",
+              "It explains how Canada fought in the First World War",
               "Immigration policy in Canada has never changed since 1914"
             ],
             "answer": 1
@@ -22651,7 +22651,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What might a single-celled organism have compared to a human?",
             "options": [
-              "No connection to being a living thing",
+              "Specialized organs made of different cell types",
               "Just one cell instead of trillions of cells",
               "No cells at all",
               "The exact same number of cells as a human"
@@ -22662,9 +22662,9 @@ const curriculum: DayContent[] = [
             "q": "Why do scientists study cells?",
             "options": [
               "To understand how living things grow, function, and stay alive",
-              "Cells have no connection to how living things work",
+              "To prove that all living things are made of exactly the same type of cell",
               "Studying cells has no scientific value",
-              "Cells are not related to life at all"
+              "Because cells are found only in humans"
             ],
             "answer": 0
           }
@@ -22714,7 +22714,7 @@ const curriculum: DayContent[] = [
             "options": [
               "People disagree about whether the decision was the right economic and strategic choice",
               "No one has ever discussed the cancellation since it happened",
-              "The cancellation had no effect on the Canadian aviation industry",
+              "The cancellation proved that the aircraft was unable to fly",
               "The program was never actually cancelled"
             ],
             "answer": 0
@@ -22852,7 +22852,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The average of all possible outcomes",
               "The likelihood of an event occurring given that another event has already happened",
-              "The likelihood of an event that has no connection to any other event",
+              "The likelihood of an event occurring before any other event takes place",
               "The total number of outcomes in a sample space"
             ],
             "answer": 1
@@ -22881,7 +22881,7 @@ const curriculum: DayContent[] = [
             "q": "What is a volcano?",
             "options": [
               "An opening in Earth’s crust where molten rock, gas, and ash can escape",
-              "A concept unrelated to earth science",
+              "A mountain formed when rock layers fold upward",
               "A large flat area with no geological activity",
               "A type of cloud formation"
             ],
@@ -22890,7 +22890,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Does magma become known as lava once it reaches Earth’s surface?",
             "options": [
-              "A concept unrelated to volcanoes",
+              "No, magma turns into ash when it reaches the surface",
               "Yes",
               "Lava only exists underground, never on the surface",
               "No, magma and lava are never related terms"
@@ -22903,7 +22903,7 @@ const curriculum: DayContent[] = [
               "Explosive",
               "Photosynthetic",
               "Evaporative",
-              "A concept unrelated to volcanoes"
+              "Metamorphic"
             ],
             "answer": 0
           },
@@ -22911,7 +22911,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a volcano with thick, sticky magma tend to erupt more explosively than one with thin, runny magma?",
             "options": [
               "Thin magma always causes the most violent eruptions",
-              "This concept has no connection to earth science",
+              "Thick magma flows quickly down the slope, so pressure never builds",
               "Magma thickness never has any effect on how a volcano erupts",
               "Thick magma traps gases more easily, building pressure until it is released suddenly"
             ],
@@ -22923,7 +22923,7 @@ const curriculum: DayContent[] = [
               "Volcanic eruptions always happen with absolutely no warning signs",
               "Monitoring volcanoes never provides any useful information",
               "These signs can help predict when an eruption may be about to occur",
-              "This concept has no relevance to science"
+              "Monitoring a volcano prevents it from erupting by releasing the pressure"
             ],
             "answer": 2
           }
@@ -22961,7 +22961,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What effect did the explosion have on the city of Halifax?",
             "options": [
-              "It had no impact on the city at all",
+              "It damaged only the waterfront wharves, with no injuries",
               "It caused massive destruction and loss of life throughout the city",
               "It only affected ships far out at sea",
               "It improved the citys infrastructure immediately"
@@ -22981,7 +22981,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might studying disasters like the Halifax Explosion help communities today?",
             "options": [
-              "Past disasters have no connection to modern safety planning",
+              "Past disasters show that explosions cannot be prevented by planning",
               "Studying history never helps with emergency preparedness",
               "Understanding past disasters can inform better safety practices and emergency planning",
               "The event has no lessons relevant to todays communities"
@@ -23008,7 +23008,7 @@ const curriculum: DayContent[] = [
             "q": "What does an elegy typically do?",
             "options": [
               "Describes the steps of a science experiment",
-              "A concept unrelated to writing",
+              "Argues for one side of a political issue",
               "Advertises a product for sale",
               "Mourns or honours someone who has died"
             ],
@@ -23018,7 +23018,7 @@ const curriculum: DayContent[] = [
             "q": "Is an elegy often written in poem form?",
             "options": [
               "Elegies are always written as recipes",
-              "A concept unrelated to elegies",
+              "Elegies are only ever written as speeches for sporting events",
               "Yes",
               "No, elegies are never written as poems"
             ],
@@ -23030,7 +23030,7 @@ const curriculum: DayContent[] = [
               "No, an elegy never expresses any emotion",
               "An elegy only ever expresses anger",
               "Yes",
-              "A concept unrelated to elegies"
+              "It only expresses humour and excitement"
             ],
             "answer": 2
           },
@@ -23039,7 +23039,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It personalizes the tribute and helps readers understand what made that person special",
               "Specific memories never add anything meaningful to a tribute",
-              "This concept has no connection to writing",
+              "It lets the writer avoid discussing the person's death",
               "Elegies should never mention any specific details about a person"
             ],
             "answer": 0
@@ -23047,7 +23047,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might reading elegies help students understand how writers process loss?",
             "options": [
-              "This concept has no relevance to writing",
+              "It shows how writers report the facts of a death in a neutral way",
               "Loss and grief are never explored through written work",
               "It shows how emotion and reflection can be shaped into meaningful, structured writing",
               "Elegies never reveal anything about how writers process emotion"
@@ -23283,14 +23283,14 @@ const curriculum: DayContent[] = [
               "Introduces a new paragraph",
               "Renames or explains a noun beside it",
               "Replaces a verb in a sentence",
-              "A concept unrelated to grammar"
+              "Signals a change of speaker in dialogue"
             ],
             "answer": 1
           },
           {
             "q": "Are nonrestrictive appositives typically set off with commas?",
             "options": [
-              "A concept unrelated to appositives",
+              "Only when they come at the start of a sentence",
               "Yes",
               "No, nonrestrictive appositives never use commas",
               "Nonrestrictive appositives always use quotation marks instead"
@@ -23310,7 +23310,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is a nonrestrictive appositive considered non-essential information?",
             "options": [
-              "This concept has no connection to grammar",
+              "It is always a complete sentence on its own",
               "Nonrestrictive appositives always change the entire meaning of a sentence",
               "Removing a nonrestrictive appositive always makes a sentence incomplete",
               "The sentence would still make sense and keep its core meaning without it"
@@ -23322,7 +23322,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Appositives are never affected by punctuation in any way",
               "Commas never have any effect on how a sentence is read",
-              "This concept has no connection to grammar",
+              "Without the commas, the sentence automatically becomes a question",
               "Commas signal that the appositive is extra information rather than essential to identifying the noun"
             ],
             "answer": 3
@@ -23443,7 +23443,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important for communities to manage groundwater use carefully?",
             "options": [
               "Groundwater can never be used up",
-              "Groundwater has no connection to drinking water supplies",
+              "Groundwater is too salty to ever be used for drinking",
               "Overusing groundwater faster than it recharges can lower the water table",
               "Aquifers refill instantly no matter how much is used"
             ],
@@ -23463,7 +23463,7 @@ const curriculum: DayContent[] = [
             "q": "What did the completion of the Canadian Pacific Railway achieve?",
             "options": [
               "It connected Canada to another continent by land",
-              "It had no effect on transportation in Canada",
+              "It connected Canada's Arctic coast to its southern border",
               "It replaced all water-based transportation in Canada",
               "It connected the country from coast to coast"
             ],
@@ -23493,7 +23493,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the Canadian Pacific Railway often described as playing a major role in nation-building?",
             "options": [
               "It discouraged settlement and trade across Canada",
-              "It had no effect on how the country developed",
+              "It mainly carried military troops and was closed to settlers",
               "It helped unify the country by enabling trade, settlement, and transportation across vast distances",
               "It only connected two neighbouring cities"
             ],
@@ -23531,8 +23531,8 @@ const curriculum: DayContent[] = [
             "options": [
               "A word that has existed unchanged for centuries",
               "A newly coined word or expression",
-              "A concept unrelated to vocabulary",
-              "A grammatical rule with no connection to words"
+              "A word borrowed from another language",
+              "An old word that has fallen out of use"
             ],
             "answer": 1
           },
@@ -23541,7 +23541,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Neologisms only ever describe ancient historical events",
               "No, neologisms are never connected to new ideas or technology",
-              "A concept unrelated to neologisms",
+              "Only to replace words in languages that are no longer spoken",
               "Yes"
             ],
             "answer": 3
@@ -23562,15 +23562,15 @@ const curriculum: DayContent[] = [
               "New words are always immediately rejected by every speaker",
               "Neologisms are never actually adopted into common usage",
               "It fills a need in the language for describing something new",
-              "This concept has no connection to vocabulary"
+              "It replaces every older word that has a similar meaning"
             ],
             "answer": 2
           },
           {
             "q": "Why does language change over time as new neologisms are adopted?",
             "options": [
-              "This concept has no relevance to vocabulary",
-              "New words have no effect on how a language develops",
+              "Dictionaries prevent any new word from entering a language",
+              "New words only appear in languages that are already disappearing",
               "Language never changes for any reason over time",
               "Language evolves to reflect the changing needs, culture, and technology of its speakers"
             ],
@@ -23593,7 +23593,7 @@ const curriculum: DayContent[] = [
               "By subtracting the previous two numbers",
               "By multiplying the previous number by 2",
               "By adding the two numbers before it",
-              "A concept unrelated to the Fibonacci sequence"
+              "By dividing the previous number by the one before it"
             ],
             "answer": 2
           },
@@ -23612,7 +23612,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The ratio becomes completely random as the sequence grows",
               "Yes",
-              "A concept unrelated to the Fibonacci sequence",
+              "Only if the sequence starts with 1 and 2",
               "No, the ratio never approaches any particular value"
             ],
             "answer": 1
@@ -23621,7 +23621,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the Fibonacci sequence considered a recursive pattern?",
             "options": [
               "Each term depends on the values of previous terms",
-              "This concept has no connection to math",
+              "Each term is found from its position number alone",
               "Every term in the sequence is chosen at random",
               "Recursive patterns never depend on any previous values"
             ],
@@ -23632,7 +23632,7 @@ const curriculum: DayContent[] = [
             "options": [
               "These patterns often emerge from efficient natural growth processes",
               "The golden ratio never actually appears anywhere in nature",
-              "This concept has no relevance to math",
+              "Natural objects are designed to follow the Fibonacci sequence exactly",
               "Flower petals and shells never follow any mathematical pattern"
             ],
             "answer": 0
@@ -23693,7 +23693,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Without enough water entering its cells through osmosis, the cells lose the pressure that keeps the plant upright",
               "Plants do not rely on water movement through their cells at all",
-              "Wilting has no connection to water movement inside plant cells",
+              "Wilting happens when plant cells absorb too much water and burst",
               "Osmosis only affects animal cells, never plant cells"
             ],
             "answer": 0
@@ -23712,7 +23712,7 @@ const curriculum: DayContent[] = [
             "q": "What government position did Clifford Sifton hold?",
             "options": [
               "Minister of the Interior",
-              "A concept unrelated to Canadian history",
+              "Minister of Finance",
               "Governor General",
               "Prime Minister"
             ],
@@ -23722,8 +23722,8 @@ const curriculum: DayContent[] = [
             "q": "Did Clifford Sifton launch a campaign to attract settlers to the Canadian Prairies?",
             "options": [
               "Yes",
-              "Sifton had no connection to immigration policy at all",
-              "A concept unrelated to Clifford Sifton",
+              "No, Sifton focused on recruiting settlers for Ontario and Quebec",
+              "No, his campaign targeted the Yukon gold fields only",
               "No, Sifton discouraged all settlement of the Prairies"
             ],
             "answer": 0
@@ -23733,7 +23733,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The early 1900s",
               "The 1700s",
-              "A concept unrelated to Canadian history",
+              "The 1960s",
               "The 1990s"
             ],
             "answer": 0
@@ -23741,7 +23741,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might Sifton’s immigration campaign have specifically targeted farmers from certain regions, like Eastern Europe?",
             "options": [
-              "This concept has no connection to Canadian history",
+              "He wanted settlers who would work in mining and fishing",
               "Sifton’s campaign never targeted any specific group of people",
               "Farmers from Eastern Europe were never welcomed into Canada during this period",
               "He believed farmers experienced with harsh climates would be well-suited to settling and working the Prairies"
@@ -23753,7 +23753,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It brought a large wave of settlers whose farming and communities shaped the region’s growth",
               "Sifton’s policy had no lasting effect on Western Canada",
-              "This concept has no relevance to History",
+              "It stopped the construction of the Canadian Pacific Railway",
               "The Prairies remained completely unsettled throughout this entire period"
             ],
             "answer": 0
@@ -23841,7 +23841,7 @@ const curriculum: DayContent[] = [
               "The average of a set of numbers",
               "All possible outcomes of a multi-stage event",
               "Only a single outcome with no branches",
-              "A concept unrelated to probability"
+              "The mean of the outcomes at each stage"
             ],
             "answer": 1
           },
@@ -23849,8 +23849,8 @@ const curriculum: DayContent[] = [
             "q": "In a probability tree, are probabilities multiplied along each path to find a combined outcome?",
             "options": [
               "Yes",
-              "Probabilities have no connection to how a tree diagram works",
-              "A concept unrelated to probability trees",
+              "No, only the largest probability on each path is used",
+              "No, probabilities are divided along each path instead",
               "No, probabilities are always added along each path instead"
             ],
             "answer": 0
@@ -23861,7 +23861,7 @@ const curriculum: DayContent[] = [
               "A fixed, unchanging number",
               "The total sample size only",
               "A possible outcome at that stage",
-              "A concept unrelated to probability trees"
+              "The probability of the whole path"
             ],
             "answer": 2
           },
@@ -23869,7 +23869,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a probability tree be useful for solving a problem involving two coin flips in a row?",
             "options": [
               "It visually organizes every possible combination of outcomes across both flips",
-              "This concept has no connection to probability",
+              "It lists only the outcome of the first flip",
               "Coin flips can never be represented using a tree diagram",
               "A probability tree never helps organize outcomes of multiple events"
             ],
@@ -23881,7 +23881,7 @@ const curriculum: DayContent[] = [
               "Multiplying probabilities never gives any meaningful result",
               "Sequences of events never have any combined probability at all",
               "It reflects the combined likelihood of independent events happening one after another",
-              "This concept has no relevance to probability"
+              "Probabilities along a path are the same on every branch"
             ],
             "answer": 2
           }
@@ -24000,7 +24000,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a government issue a formal apology for a past policy like the head tax?",
             "options": [
-              "Apologies have no role in addressing historical injustices",
+              "To collect back taxes from the descendants of those affected",
               "To acknowledge historical wrongs and support reconciliation with affected communities",
               "Formal apologies are only given for recent events",
               "Governments never revisit past immigration policies"
@@ -24028,7 +24028,7 @@ const curriculum: DayContent[] = [
             "q": "What is sponsored content designed to resemble?",
             "options": [
               "A dictionary entry",
-              "A concept unrelated to media literacy",
+              "A government warning label",
               "A blank page with no content",
               "Regular articles or posts"
             ],
@@ -24040,7 +24040,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "Sponsored content is always completely unpaid",
               "No, sponsored content is never connected to advertising",
-              "A concept unrelated to sponsored content"
+              "Only when it appears in a printed magazine"
             ],
             "answer": 0
           },
@@ -24048,7 +24048,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important for readers to identify sponsored content?",
             "options": [
               "Sponsored content never has any bias or promotional intent",
-              "This concept has no connection to media literacy",
+              "It is always written by the publication's own news reporters",
               "It may present a biased or promotional viewpoint disguised as neutral information",
               "Readers never need to consider who paid for a piece of content"
             ],
@@ -24057,7 +24057,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might companies choose native advertising instead of a traditional, clearly labeled ad?",
             "options": [
-              "This concept has no connection to media literacy",
+              "It always reaches a larger audience than a traditional ad",
               "Native advertising is never used by any company",
               "Traditional ads and native advertising are always identical in every way",
               "It can feel more trustworthy or engaging to readers who might not realize it is an advertisement"
@@ -24069,7 +24069,7 @@ const curriculum: DayContent[] = [
             "options": [
               "All online content is always completely free of any bias",
               "These labels help readers judge whether they are viewing an unbiased source",
-              "This concept has no relevance to media literacy",
+              "They guarantee the content was fact-checked by a government agency",
               "Disclosure labels never provide any useful information to readers"
             ],
             "answer": 1
@@ -24149,7 +24149,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the Doppler effect?",
             "options": [
-              "A change in the volume of a sound with no connection to motion",
+              "A change in the speed of sound when it travels from air into water",
               "A change in the colour of light only",
               "The change in pitch heard when a sound source moves toward or away from a listener",
               "The complete disappearance of sound over long distances"
@@ -24240,9 +24240,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why are the Quebec referendums considered significant in Canadian history?",
             "options": [
-              "They had no effect on how Canadians think about national unity",
+              "They permanently ended the debate over Quebec's place in Canada",
               "They were held without any public attention",
-              "They only concerned issues unrelated to Quebec",
+              "They decided whether Quebec should join the United States",
               "They reflect ongoing questions about identity, language, and national unity"
             ],
             "answer": 3
@@ -24278,7 +24278,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Writing a story with absolutely no setting at all",
               "Copying an existing real-world city exactly",
-              "A concept unrelated to writing",
+              "Researching real historical events for a nonfiction book",
               "Creating a fictional setting with consistent rules and details"
             ],
             "answer": 3
@@ -24287,7 +24287,7 @@ const curriculum: DayContent[] = [
             "q": "Does worldbuilding often include details like geography, history, or technology?",
             "options": [
               "Worldbuilding only ever focuses on character names",
-              "A concept unrelated to worldbuilding",
+              "Only the physical appearance of the main character",
               "Yes",
               "No, worldbuilding never includes any details about a setting"
             ],
@@ -24299,7 +24299,7 @@ const curriculum: DayContent[] = [
               "Fictional worlds are always more interesting when their rules keep changing randomly",
               "Consistency never matters when building a fictional world",
               "Inconsistent rules can confuse readers and break their trust in the story",
-              "This concept has no connection to writing"
+              "It ensures that the world matches real-world geography exactly"
             ],
             "answer": 2
           },
@@ -24307,7 +24307,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a speculative fiction writer create detailed rules for how magic or technology works in their world?",
             "options": [
               "It helps make the fictional world feel believable and logical, even though it does not exist in reality",
-              "This concept has no connection to writing",
+              "It ensures that readers can find the same places on a real map",
               "Detailed rules never make a fictional world feel more believable",
               "Magic and technology never need any explanation in fiction"
             ],
@@ -24319,7 +24319,7 @@ const curriculum: DayContent[] = [
               "A well-developed setting can make a fictional world feel real and easier to imagine",
               "Strong worldbuilding never has any effect on how immersed a reader feels",
               "Readers are always equally immersed no matter how a setting is described",
-              "This concept has no relevance to writing"
+              "Readers are more immersed when a setting is described in as few words as possible"
             ],
             "answer": 0
           }
@@ -24400,7 +24400,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A single species living completely alone",
               "Close, long-term relationships between two different species",
-              "A concept unrelated to biology",
+              "The competition between two species for the same food",
               "The process of a species becoming extinct"
             ],
             "answer": 1
@@ -24410,7 +24410,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes",
               "Mutualism always harms both species involved",
-              "A concept unrelated to symbiosis",
+              "No, in mutualism one species benefits while the other is harmed",
               "No, in mutualism only one species ever benefits"
             ],
             "answer": 0
@@ -24419,7 +24419,7 @@ const curriculum: DayContent[] = [
             "q": "In parasitism, is one species harmed while the other benefits?",
             "options": [
               "Parasitism never involves any harm to either species",
-              "A concept unrelated to symbiosis",
+              "No, in parasitism one species benefits while the other is unaffected",
               "Yes",
               "No, in parasitism both species always benefit equally"
             ],
@@ -24428,7 +24428,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a clownfish and sea anemone relationship be classified as mutualism?",
             "options": [
-              "This concept has no connection to symbiosis",
+              "The clownfish eats the anemone for food, harming the anemone",
               "The clownfish gains protection while the anemone benefits from the clownfish’s presence, such as cleaning or defense",
               "This relationship provides no benefit to either the clownfish or the anemone",
               "The clownfish and anemone have no relationship with each other at all"
@@ -24439,7 +24439,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding symbiotic relationships important for studying ecosystems?",
             "options": [
               "Species in an ecosystem never interact with each other in any way",
-              "This concept has no relevance to science",
+              "Symbiotic relationships only occur in the ocean, so they matter for ocean ecosystems alone",
               "Symbiotic relationships never have any effect on an ecosystem",
               "These relationships can affect the survival and behaviour of species throughout a food web"
             ],
@@ -24551,7 +24551,7 @@ const curriculum: DayContent[] = [
               "No",
               "Subordinate clauses never contain a subject or verb",
               "Yes, a subordinate clause is always a complete sentence on its own",
-              "A concept unrelated to grammar"
+              "Yes, if it contains a conjunction"
             ],
             "answer": 0
           },
@@ -24560,7 +24560,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A subordinate clause only ever contains a single noun",
               "Yes",
-              "A concept unrelated to subordinate clauses",
+              "Only if it begins with a coordinating conjunction",
               "No, a subordinate clause never contains a subject or verb"
             ],
             "answer": 1
@@ -24571,7 +24571,7 @@ const curriculum: DayContent[] = [
               "A list with no connected ideas",
               "A sentence fragment with no meaning",
               "A complex sentence",
-              "A concept unrelated to grammar"
+              "A compound sentence"
             ],
             "answer": 2
           },
@@ -24590,7 +24590,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Cause and effect can never be expressed using clauses of any kind",
               "Subordinate clauses never show any relationship between ideas",
-              "This concept has no connection to grammar",
+              "They allow a writer to avoid using verbs",
               "Subordinate clauses can signal how one idea depends on, contrasts with, or leads to another"
             ],
             "answer": 3
@@ -24672,7 +24672,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A single small cloud with no size at all",
               "A type of ocean current",
-              "A concept unrelated to earth science",
+              "A layer of the atmosphere where temperature stays constant",
               "A large body of air with fairly uniform temperature and humidity"
             ],
             "answer": 3
@@ -24680,10 +24680,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Does a front form where two different air masses meet?",
             "options": [
-              "No, fronts have no connection to air masses at all",
+              "No, fronts form only where air masses of the same temperature meet",
               "Yes",
               "Fronts only ever form over open ocean water",
-              "A concept unrelated to weather fronts"
+              "Fronts only form where a mountain range forces air upward"
             ],
             "answer": 1
           },
@@ -24691,7 +24691,7 @@ const curriculum: DayContent[] = [
             "q": "Name one type of front, such as a cold front or warm front.",
             "options": [
               "Solid front",
-              "A concept unrelated to weather fronts",
+              "Humidity front",
               "Cold front",
               "Electric front"
             ],
@@ -24700,7 +24700,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a cold front moving into a region cause sudden, intense weather changes?",
             "options": [
-              "This concept has no connection to earth science",
+              "Cold air is lighter than warm air, so it rises gently over the warm air",
               "Air masses never actually move or interact with each other",
               "Cold fronts never cause any noticeable change in the weather",
               "A dense, fast-moving cold air mass can quickly push under and displace a warmer air mass, causing rapid changes"
@@ -24712,8 +24712,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Tracking air masses never provides any useful weather information",
               "Understanding how these systems move can help predict upcoming changes in temperature and precipitation",
-              "Weather forecasting has no connection to air masses or fronts",
-              "This concept has no relevance to science"
+              "Air masses and fronts only affect wind speed, never temperature or precipitation",
+              "Meteorologists track them mainly to predict earthquakes and volcanic eruptions"
             ],
             "answer": 1
           }
@@ -24744,7 +24744,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "No, the Bluenose was built in British Columbia",
               "The Bluenose was built in a country outside Canada",
-              "A concept unrelated to the Bluenose"
+              "No, the Bluenose was built in New Brunswick"
             ],
             "answer": 0
           },
@@ -24752,7 +24752,7 @@ const curriculum: DayContent[] = [
             "q": "Is the Bluenose depicted on a Canadian coin?",
             "options": [
               "Only paper currency has ever featured the Bluenose",
-              "A concept unrelated to the Bluenose",
+              "No, it appeared only on postage stamps",
               "No, the Bluenose has never appeared on any Canadian currency",
               "Yes"
             ],
@@ -24762,8 +24762,8 @@ const curriculum: DayContent[] = [
             "q": "Why might the Bluenose have become a symbol of pride for Maritime Canadians?",
             "options": [
               "Its racing success showcased the shipbuilding and sailing skill associated with the Maritime provinces",
-              "The Bluenose had no connection to Maritime pride or identity",
-              "This concept has no connection to Canadian history",
+              "It carried the first settlers to the Maritime provinces",
+              "It was a navy ship that defended the Atlantic coast in the First World War",
               "The Bluenose was never actually a successful racing ship"
             ],
             "answer": 0
@@ -24773,8 +24773,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Canadian currency has never featured any historical ships or symbols",
               "It reflects how a piece of regional history can become a lasting part of national identity and symbolism",
-              "This concept has no relevance to History",
-              "The Bluenose’s image has no connection to Canadian identity today"
+              "Its image was chosen mainly because it was the first ship built in Canada",
+              "It honours the sailors who died in the Halifax Explosion"
             ],
             "answer": 1
           }
@@ -24798,7 +24798,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A recurring image, symbol, or idea in a text",
               "A single event that happens only once in a story",
-              "A concept unrelated to reading",
+              "The main conflict that drives the plot",
               "The title of a book with no deeper meaning"
             ],
             "answer": 0
@@ -24809,7 +24809,7 @@ const curriculum: DayContent[] = [
               "Yes, a motif can only ever appear a single time",
               "Motifs never actually appear anywhere within a text",
               "No",
-              "A concept unrelated to motifs"
+              "Only when it appears in the title"
             ],
             "answer": 2
           },
@@ -24819,7 +24819,7 @@ const curriculum: DayContent[] = [
               "Its repeated appearance draws attention to a meaningful pattern",
               "A motif never has any connection to a text’s themes",
               "Repeated images or ideas never carry any deeper meaning",
-              "This concept has no connection to reading comprehension"
+              "It replaces the need for a central theme in the text"
             ],
             "answer": 0
           },
@@ -24828,7 +24828,7 @@ const curriculum: DayContent[] = [
             "options": [
               "To reinforce meaning or connect it to a broader theme each time it appears",
               "Authors never intentionally repeat images or symbols in their writing",
-              "This concept has no connection to literature",
+              "Repetition is used to make the story longer",
               "Repeating an image never adds any meaning to a story"
             ],
             "answer": 0
@@ -24837,7 +24837,7 @@ const curriculum: DayContent[] = [
             "q": "Why is recognizing motifs useful when analyzing a longer novel?",
             "options": [
               "It can reveal patterns that connect separate parts of the story into a unified theme",
-              "This concept has no relevance to reading comprehension",
+              "It allows readers to skip chapters without missing key ideas",
               "Recognizing motifs never helps with understanding a longer novel",
               "Motifs never connect to any other part of a story"
             ],
@@ -24921,7 +24921,7 @@ const curriculum: DayContent[] = [
               "A type of external weather pattern",
               "An internal, roughly 24-hour biological clock",
               "A device used to measure temperature",
-              "A concept unrelated to biology"
+              "A cycle of tides that repeats every 24 hours"
             ],
             "answer": 1
           },
@@ -24930,8 +24930,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes",
               "Circadian rhythms only ever regulate digestion",
-              "A concept unrelated to circadian rhythms",
-              "No, circadian rhythms have no connection to sleep at all"
+              "No, circadian rhythms regulate seasonal changes only, not daily cycles",
+              "No, circadian rhythms control only the heart rate"
             ],
             "answer": 0
           },
@@ -24941,7 +24941,7 @@ const curriculum: DayContent[] = [
               "A favourite colour",
               "Light",
               "A type of food with no biological effect",
-              "A concept unrelated to circadian rhythms"
+              "Wind speed"
             ],
             "answer": 1
           },
@@ -24949,7 +24949,7 @@ const curriculum: DayContent[] = [
             "q": "Why might exposure to bright screens before bed disrupt a person’s circadian rhythm?",
             "options": [
               "Bright screens never have any effect on a person’s circadian rhythm",
-              "This concept has no connection to biology",
+              "Screen heat raises body temperature, which speeds up the release of sleep-related hormones",
               "Sleep-related hormones are never affected by any external light source",
               "Light exposure can signal to the brain that it is still daytime, delaying the release of sleep-related hormones"
             ],
@@ -24958,9 +24958,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is maintaining a consistent circadian rhythm considered important for overall health?",
             "options": [
-              "A person’s circadian rhythm has no connection to their overall health",
+              "A consistent rhythm only matters for how tall a person grows",
               "Circadian rhythms never actually affect any part of the human body",
-              "This concept has no relevance to science",
+              "Circadian rhythms only matter for animals that hibernate",
               "Disruptions to this internal clock have been linked to problems with sleep quality, mood, and other body functions"
             ],
             "answer": 3
@@ -25045,7 +25045,7 @@ const curriculum: DayContent[] = [
             "q": "What is a frame narrative?",
             "options": [
               "A story with only one single event and no characters",
-              "A concept unrelated to reading",
+              "A narrative told entirely in the second person",
               "A story that contains another story within it",
               "A poem written in a fixed rhyme scheme"
             ],
@@ -25054,7 +25054,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does an elegy typically do?",
             "options": [
-              "A concept unrelated to writing",
+              "Argues for a change in school rules",
               "Mourns or honours someone who has died",
               "Describes the steps of a science experiment",
               "Advertises a product for sale"
@@ -25064,10 +25064,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a neologism?",
             "options": [
-              "A grammatical rule with no connection to words",
+              "A spelling rule for silent letters",
               "A newly coined word or expression",
               "A word that has existed unchanged for centuries",
-              "A concept unrelated to vocabulary"
+              "A word shortened by dropping some of its letters"
             ],
             "answer": 1
           },
@@ -25075,7 +25075,7 @@ const curriculum: DayContent[] = [
             "q": "What format does an epistolary novel use to tell its story?",
             "options": [
               "A single uninterrupted narration with no documents at all",
-              "A concept unrelated to reading",
+              "A story told entirely through a single character's thoughts",
               "A series of documents such as letters or diary entries",
               "A collection of unrelated recipes"
             ],
@@ -25084,7 +25084,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a motif?",
             "options": [
-              "A concept unrelated to reading",
+              "The main conflict that drives a story's plot",
               "A single event that happens only once in a story",
               "The title of a book with no deeper meaning",
               "A recurring image, symbol, or idea in a text"
@@ -25166,7 +25166,7 @@ const curriculum: DayContent[] = [
             "q": "What is a volcano?",
             "options": [
               "A large flat area with no geological activity",
-              "A concept unrelated to earth science",
+              "A mountain formed by rock layers folding upward",
               "An opening in Earth’s crust where molten rock, gas, and ash can escape",
               "A type of cloud formation"
             ],
@@ -25177,7 +25177,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Radioactivity",
               "Photosynthesis",
-              "A concept unrelated to physics",
+              "Combustion",
               "Evaporation"
             ],
             "answer": 0
@@ -25186,7 +25186,7 @@ const curriculum: DayContent[] = [
             "q": "What does biomechanics study?",
             "options": [
               "How rocks form deep underground",
-              "A concept unrelated to science",
+              "How fluids flow through pipes and pumps",
               "How plants absorb sunlight",
               "How muscles, bones, and joints work together to produce movement"
             ],
@@ -25195,7 +25195,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does symbiosis describe?",
             "options": [
-              "A concept unrelated to biology",
+              "The competition between members of the same species for food",
               "The process of a species becoming extinct",
               "Close, long-term relationships between two different species",
               "A single species living completely alone"
@@ -25206,7 +25206,7 @@ const curriculum: DayContent[] = [
             "q": "What is a circadian rhythm?",
             "options": [
               "A device used to measure temperature",
-              "A concept unrelated to biology",
+              "A pattern of ocean tides that repeats each day",
               "A type of external weather pattern",
               "An internal, roughly 24-hour biological clock"
             ],
@@ -25255,7 +25255,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might Canada have chosen to recognize two official languages?",
             "options": [
-              "Recognizing two languages has no connection to Canadian history",
+              "To reflect the language of the largest immigrant groups of the 1900s",
               "To reflect the countrys history and the presence of both English and French speaking communities",
               "Canada has never had any French speaking communities",
               "The choice was made without any historical reasoning"
@@ -25265,9 +25265,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is bilingualism significant to Canadian identity?",
             "options": [
-              "Canadian identity is unrelated to language",
+              "Bilingualism mainly reflects Canada's trade with France",
               "Only one language has ever shaped Canadian history",
-              "Bilingualism has no connection to Canadian identity",
+              "It reflects Canada's close ties to Spain and Portugal",
               "It reflects the shared history of English and French speaking communities in shaping the country"
             ],
             "answer": 3
@@ -25294,7 +25294,7 @@ const curriculum: DayContent[] = [
             "q": "What defines a round character?",
             "options": [
               "A character with no name given in the text",
-              "A concept unrelated to reading",
+              "A character who narrates the story",
               "A complex, multidimensional character with a fully developed personality",
               "A character who never appears more than once"
             ],
@@ -25304,7 +25304,7 @@ const curriculum: DayContent[] = [
             "q": "Is a flat character usually simple and defined by a single trait?",
             "options": [
               "No, flat characters are always the most complex in a story",
-              "A concept unrelated to flat characters",
+              "Only if the character is the protagonist",
               "Yes",
               "Flat characters never appear in any story"
             ],
@@ -25314,7 +25314,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these best describes a flat character in a story?",
             "options": [
               "A character whose thoughts are explored in great depth",
-              "A concept unrelated to characterization",
+              "A character who changes dramatically by the end of the story",
               "A minor character who serves a single function, like a store clerk with no personality explored",
               "The most emotionally complex character in the entire story"
             ],
@@ -25324,7 +25324,7 @@ const curriculum: DayContent[] = [
             "q": "Why might an author use flat characters for minor roles rather than developing them fully?",
             "options": [
               "Every character in a story must always be fully developed",
-              "This concept has no connection to writing",
+              "Minor characters should always be more complex than the protagonist",
               "It keeps focus on the main characters while still moving the plot forward efficiently",
               "Flat characters always confuse readers with no clear purpose"
             ],
@@ -25335,7 +25335,7 @@ const curriculum: DayContent[] = [
             "options": [
               "All characters in every novel are always equally complex",
               "It helps readers see which characters are meant to feel true-to-life and which serve a simpler narrative purpose",
-              "This concept has no relevance to reading comprehension",
+              "It lets readers identify which characters are the narrators",
               "This distinction never helps readers understand a story’s characters"
             ],
             "answer": 1
@@ -25455,7 +25455,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is fermentation useful in food preparation?",
             "options": [
-              "Fermentation has no effect on food at all",
+              "It removes all microorganisms from food before it is eaten",
               "It can change food texture, flavour, and help with preservation",
               "Fermentation destroys all nutrients instantly",
               "Fermentation only works on liquids, never solids"
@@ -25509,7 +25509,7 @@ const curriculum: DayContent[] = [
               "The victory helped build a sense of national pride and unity distinct from Britain",
               "The battle weakened Canadian unity and pride",
               "Vimy Ridge is remembered only outside of Canada",
-              "The battle had no effect on how Canadians viewed their country"
+              "Canadians remember it mainly as a battle of the Second World War"
             ],
             "answer": 0
           },
@@ -25517,7 +25517,7 @@ const curriculum: DayContent[] = [
             "q": "Why do memorials, such as the one at Vimy Ridge, remain important today?",
             "options": [
               "Vimy Ridge has been forgotten by most Canadians today",
-              "Memorials have no role in remembering historical events",
+              "Memorials are mainly used to mark the boundaries of provinces",
               "Memorials are built only for events with no historical value",
               "They honour those who served and preserve the memory of significant historical events"
             ],
@@ -25543,7 +25543,7 @@ const curriculum: DayContent[] = [
             "q": "What is a memoir?",
             "options": [
               "A fictional story with invented characters and events",
-              "A concept unrelated to writing",
+              "A short persuasive speech given to an audience",
               "A set of instructions for completing a task",
               "A nonfiction narrative in which a writer recounts personal experiences and reflects on their meaning"
             ],
@@ -25553,7 +25553,7 @@ const curriculum: DayContent[] = [
             "q": "Does a memoir typically cover an entire life story from birth to the present?",
             "options": [
               "A memoir never focuses on any specific period or theme",
-              "A concept unrelated to memoirs",
+              "No, a memoir is limited to a single day",
               "No, a memoir usually focuses on a specific period, relationship, or theme",
               "Yes, a memoir always covers an entire life from birth onward"
             ],
@@ -25565,7 +25565,7 @@ const curriculum: DayContent[] = [
               "A textbook chapter about ocean currents",
               "A fictional tale about a dragon and a knight",
               "A writer reflecting on the summer they learned to sail",
-              "A concept unrelated to writing"
+              "A newspaper editorial arguing for a new law"
             ],
             "answer": 2
           },
@@ -25574,7 +25574,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Reflection helps readers understand the meaning and impact the experience had on the writer",
               "Reflections never add any meaning to a piece of personal writing",
-              "This concept has no connection to writing",
+              "It lets the writer avoid describing events in order",
               "Memoirs should never include the writer’s own thoughts or feelings"
             ],
             "answer": 0
@@ -25582,7 +25582,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a memoir differ from a full autobiography?",
             "options": [
-              "This concept has no relevance to writing",
+              "A memoir is written by someone other than the person it is about",
               "An autobiography can never cover more than a single event",
               "A memoir zooms in on a particular theme or period rather than covering an entire life span",
               "A memoir and an autobiography are always exactly identical in scope"
@@ -25705,7 +25705,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a heat pump be considered a more energy-efficient way to heat a building compared to some other heating methods?",
             "options": [
               "Moving existing heat from one place to another can require less energy than generating new heat directly",
-              "Moving heat from place to place has no effect on energy efficiency",
+              "Heat pumps run on stored heat and require no external energy at all",
               "Generating new heat directly always uses less energy than moving existing heat",
               "Heat pumps always use more energy than any other heating method"
             ],
@@ -25735,9 +25735,9 @@ const curriculum: DayContent[] = [
             "q": "Was the dispute between Canada and the United States over the location of a border?",
             "options": [
               "The dispute was between Canada and France instead",
-              "No, the dispute had no connection to any border",
+              "No, it was over fishing rights in the Atlantic",
               "Yes",
-              "A concept unrelated to the Alaska Boundary Dispute"
+              "No, it was about trade tariffs"
             ],
             "answer": 2
           },
@@ -25747,7 +25747,7 @@ const curriculum: DayContent[] = [
               "The Prairies",
               "Vancouver Island",
               "The Alaska Panhandle",
-              "A concept unrelated to the Alaska Boundary Dispute"
+              "The Great Lakes"
             ],
             "answer": 2
           },
@@ -25756,7 +25756,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A British representative sided with the American position, and Britain was seen as prioritizing its relationship with the United States over Canadian interests",
               "Canada was never involved in the tribunal’s decision-making process",
-              "This concept has no connection to Canadian history",
+              "The tribunal awarded the entire Yukon to the United States, a result Britain strongly opposed",
               "The tribunal’s decision was universally seen as entirely fair to Canada"
             ],
             "answer": 0
@@ -25766,7 +25766,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Canada gained full control over its foreign policy immediately after this dispute",
               "It made many Canadians question relying on Britain to represent Canadian interests in international disputes",
-              "This concept has no relevance to History",
+              "It led Canada to declare independence from Britain in 1903",
               "The dispute had no lasting effect on how Canadians viewed Britain’s role"
             ],
             "answer": 1
@@ -25792,14 +25792,14 @@ const curriculum: DayContent[] = [
               "A question rather than a statement",
               "A completed action relative to another point in time",
               "An action that will never happen",
-              "A concept unrelated to grammar"
+              "An action happening at the exact moment of speaking"
             ],
             "answer": 1
           },
           {
             "q": "Does a progressive tense show an action that is or was in progress?",
             "options": [
-              "A concept unrelated to progressive tenses",
+              "Progressive tenses only describe actions completed long ago",
               "Yes",
               "No, progressive tenses never show an ongoing action",
               "Progressive tenses only describe actions that have not started yet"
@@ -25819,7 +25819,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a writer use the past perfect tense, such as had walked, when describing two past events?",
             "options": [
-              "This concept has no connection to grammar",
+              "It shows that both events happened at exactly the same time",
               "The past perfect tense never clarifies the order of past events",
               "Past events can never be placed in any particular order using verb tense",
               "It clarifies which of the two past events happened first"
@@ -25831,7 +25831,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Ongoing actions can only ever be described using the simple past tense",
               "The progressive tense never indicates whether an action is ongoing",
-              "This concept has no relevance to grammar",
+              "It shows that an action will never be completed",
               "It signals that an action was or is still happening rather than already complete"
             ],
             "answer": 3
@@ -25917,7 +25917,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does the ozone layer absorb?",
             "options": [
-              "A concept unrelated to earth science",
+              "All of the sun’s infrared radiation",
               "All visible light from the sun",
               "Most of Earth’s oxygen supply",
               "Most of the sun’s harmful ultraviolet radiation"
@@ -25930,14 +25930,14 @@ const curriculum: DayContent[] = [
               "Yes",
               "The ozone layer is located deep underground",
               "No, the ozone layer has no fixed location in the atmosphere",
-              "A concept unrelated to the ozone layer"
+              "No, the ozone layer is in the troposphere, where weather occurs"
             ],
             "answer": 0
           },
           {
             "q": "What human-made chemicals were found to significantly deplete the ozone layer?",
             "options": [
-              "A concept unrelated to the ozone layer",
+              "Methane and carbon dioxide",
               "Chlorofluorocarbons (CFCs)",
               "Table salt",
               "Carbon monoxide only"
@@ -25948,9 +25948,9 @@ const curriculum: DayContent[] = [
             "q": "Why was international action taken to phase out CFCs starting in the 1980s?",
             "options": [
               "International cooperation on environmental issues never actually occurs",
-              "This concept has no connection to earth science",
+              "Scientists found CFCs were causing acid rain that damaged forests",
               "Scientists discovered CFCs were breaking down ozone molecules, thinning the protective layer",
-              "CFCs were found to have no effect on the ozone layer whatsoever"
+              "CFCs were found to thicken the ozone layer, trapping too much heat"
             ],
             "answer": 2
           },
@@ -25958,9 +25958,9 @@ const curriculum: DayContent[] = [
             "q": "Why is protecting the ozone layer important for living things on Earth?",
             "options": [
               "Excess ultraviolet radiation can increase risks like skin cancer and harm ecosystems",
-              "The ozone layer has no effect on the health of living things",
+              "The ozone layer produces the oxygen that animals breathe",
               "Ultraviolet radiation is always completely harmless to living organisms",
-              "This concept has no relevance to science"
+              "The ozone layer traps heat and prevents Earth from getting too cold"
             ],
             "answer": 0
           }
@@ -26000,7 +26000,7 @@ const curriculum: DayContent[] = [
               "It made books more expensive and harder to obtain",
               "It helped increase literacy by making books more widely available",
               "It reduced the number of books being produced",
-              "It had no effect on how many people could read"
+              "It limited literacy to monks and clergy"
             ],
             "answer": 1
           },
@@ -26045,8 +26045,8 @@ const curriculum: DayContent[] = [
             "options": [
               "A word that only ever exists in one single language",
               "A word borrowed from one language and adopted into another",
-              "A concept unrelated to vocabulary",
-              "A grammatical rule with no connection to words"
+              "A word created by combining two existing words",
+              "A word that has changed meaning over time"
             ],
             "answer": 1
           },
@@ -26055,7 +26055,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Loanwords never retain any part of their original form",
               "No, loanwords always change their spelling completely",
-              "A concept unrelated to loanwords",
+              "Only loanwords from French keep their spelling",
               "Yes"
             ],
             "answer": 3
@@ -26076,15 +26076,15 @@ const curriculum: DayContent[] = [
               "Loanwords are never actually adopted into the English language",
               "English has never had any contact with other languages or cultures",
               "English has a long history of contact with other cultures through trade, exploration, and immigration",
-              "This concept has no connection to vocabulary"
+              "English speakers invent every word from scratch"
             ],
             "answer": 2
           },
           {
             "q": "Why is recognizing loanwords useful when studying vocabulary and etymology?",
             "options": [
-              "This concept has no relevance to vocabulary",
-              "Etymology has no connection to how words are borrowed between languages",
+              "It shows that every English word was invented in the last century",
+              "Etymology is only the study of grammar rules",
               "Recognizing loanwords never reveals any useful information about a language",
               "It helps explain irregular spelling and reveals connections between English and other languages"
             ],
@@ -26167,7 +26167,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The study of weather patterns",
               "The branch of science that classifies living things into hierarchical groups",
-              "A concept unrelated to biology",
+              "The study of the human body’s organ systems",
               "The study of rocks and minerals"
             ],
             "answer": 1
@@ -26175,9 +26175,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Is species considered the most specific level of classification in taxonomy?",
             "options": [
-              "A concept unrelated to taxonomy",
+              "No, genus is the most specific level",
               "No, species is always the broadest possible classification level",
-              "Species has no connection to how living things are classified",
+              "No, species is the second broadest level, just below kingdom",
               "Yes"
             ],
             "answer": 3
@@ -26185,7 +26185,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these is the broadest taxonomic category listed?",
             "options": [
-              "A concept unrelated to taxonomy",
+              "Order",
               "Genus",
               "Species",
               "Kingdom"
@@ -26197,7 +26197,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It organizes the diversity of life and reveals evolutionary relationships between organisms",
               "Classifying living things never reveals any useful scientific information",
-              "This concept has no connection to biology",
+              "It allows scientists to determine the exact age of each species",
               "Living things are never grouped or organized in any systematic way"
             ],
             "answer": 0
@@ -26207,7 +26207,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It allows scientists from different countries and languages to consistently identify and refer to the same organism",
               "A standardized classification system provides no benefit to scientists anywhere",
-              "This concept has no relevance to science",
+              "It allows scientists to predict which organisms will become extinct",
               "Scientists in different countries never need to communicate about the same organisms"
             ],
             "answer": 0
@@ -26292,7 +26292,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is product placement?",
             "options": [
-              "A concept unrelated to media literacy",
+              "A scene removed from a film during editing",
               "A type of advertisement shown only between television programs",
               "A free product given away with no advertising purpose",
               "Featuring a brand or product within entertainment content in exchange for payment"
@@ -26305,14 +26305,14 @@ const curriculum: DayContent[] = [
               "Yes",
               "Product placement never appears within entertainment content",
               "No, product placement is always presented as an obvious, separate advertisement",
-              "A concept unrelated to product placement"
+              "Only when the brand is a charity"
             ],
             "answer": 0
           },
           {
             "q": "Which of these is an example of product placement?",
             "options": [
-              "A concept unrelated to product placement",
+              "A commercial break between two television programs",
               "A news report with no mention of any brand",
               "A character in a movie visibly drinking a named brand of soda",
               "A blank screen with no visual content at all"
@@ -26325,7 +26325,7 @@ const curriculum: DayContent[] = [
               "It can reach audiences in a way that feels less like an obvious advertisement",
               "Traditional commercials and product placement are always identical in effect",
               "Companies never choose to use product placement for any reason",
-              "This concept has no connection to media literacy"
+              "Viewers are legally required to buy the product shown"
             ],
             "answer": 0
           },
@@ -26333,7 +26333,7 @@ const curriculum: DayContent[] = [
             "q": "Why should viewers think critically about brands they see featured in their favourite shows or games?",
             "options": [
               "Brands shown in entertainment are never connected to any form of advertising",
-              "This concept has no relevance to media literacy",
+              "Brand names on screen are chosen at random by the director",
               "Viewers never need to consider why a specific brand appears on screen",
               "Recognizing paid placement helps viewers understand it is a form of advertising, not a neutral choice"
             ],
@@ -26447,7 +26447,7 @@ const curriculum: DayContent[] = [
               "Toasting bread removes all of its flavour compounds",
               "Heating triggers the Maillard reaction, producing new flavour compounds and a browned colour that are not present in the unheated bread",
               "The Maillard reaction only occurs in liquids, never in bread",
-              "Heat has no effect on the flavour or colour of bread"
+              "Browning occurs only because the bread loses water, with no chemical change"
             ],
             "answer": 1
           },
@@ -26485,8 +26485,8 @@ const curriculum: DayContent[] = [
             "q": "Did the Naval Service Act create the Royal Canadian Navy?",
             "options": [
               "Yes",
-              "No, this act had no connection to any Canadian navy",
-              "A concept unrelated to the Naval Service Act",
+              "No, it only expanded the British Royal Navy's Atlantic fleet",
+              "No, it created a Canadian army reserve instead",
               "This act actually disbanded an existing Canadian navy"
             ],
             "answer": 0
@@ -26496,7 +26496,7 @@ const curriculum: DayContent[] = [
             "options": [
               "John A. Macdonald",
               "Wilfrid Laurier",
-              "A concept unrelated to Canadian history",
+              "William Lyon Mackenzie King",
               "Robert Borden"
             ],
             "answer": 1
@@ -26507,7 +26507,7 @@ const curriculum: DayContent[] = [
               "The Naval Service Act was supported unanimously with no disagreement at all",
               "Some Canadians wanted to directly fund Britain’s navy, while others wanted an independent Canadian navy, reflecting differing views on ties to Britain",
               "Canadians had no opinions at all about naval policy in this period",
-              "This concept has no connection to Canadian history"
+              "Parliament was divided over whether Canada should disband its army to pay for it"
             ],
             "answer": 1
           },
@@ -26516,8 +26516,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Canada’s defence policy never changed as a result of this act",
               "It showed Canada beginning to take responsibility for its own defence rather than relying entirely on Britain",
-              "The creation of the Royal Canadian Navy had no connection to Canadian independence",
-              "This concept has no relevance to History"
+              "It showed Canada ending its involvement in the British Empire",
+              "It meant Canada gained complete control over its foreign policy"
             ],
             "answer": 1
           }
@@ -26542,7 +26542,7 @@ const curriculum: DayContent[] = [
             "q": "What does setting refer to in a story?",
             "options": [
               "The main character’s personality traits",
-              "A concept unrelated to reading",
+              "The central message the author wants to share",
               "The title and author of a story",
               "The time and place in which a story occurs"
             ],
@@ -26554,7 +26554,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "Mood is never connected to time or place in a story",
               "No, setting never has any effect on a story’s mood",
-              "A concept unrelated to setting"
+              "Only when the story is set in the future"
             ],
             "answer": 0
           },
@@ -26562,7 +26562,7 @@ const curriculum: DayContent[] = [
             "q": "Which best shows setting influencing mood?",
             "options": [
               "A character’s name being mentioned once",
-              "A concept unrelated to setting",
+              "A character's favourite colour being mentioned",
               "A dark, stormy night making a scene feel tense",
               "A list of ingredients in a recipe"
             ],
@@ -26571,9 +26571,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might an author choose to set a story in a specific historical period?",
             "options": [
-              "This concept has no connection to writing",
+              "It lets the author avoid inventing a plot",
               "A story’s historical period never has any effect on its characters or plot",
-              "Historical periods are always interchangeable with no effect on a story",
+              "Authors choose a period mainly because it is the easiest to research",
               "The time period can shape characters’ choices, conflicts, and worldview in ways that feel authentic"
             ],
             "answer": 3
@@ -26581,9 +26581,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is analyzing setting useful when interpreting a story’s larger themes?",
             "options": [
-              "Themes in a story are always completely unrelated to where or when it takes place",
+              "Themes are only ever revealed in the final sentence of a story",
               "Setting often reflects or reinforces the ideas and emotions the author wants readers to notice",
-              "This concept has no relevance to reading comprehension",
+              "It tells readers whether the narrator is reliable",
               "Setting never connects to a story’s larger themes in any way"
             ],
             "answer": 1
@@ -26664,7 +26664,7 @@ const curriculum: DayContent[] = [
             "q": "Where does most of Earth’s internal geothermal heat come from?",
             "options": [
               "Wind currents in the atmosphere",
-              "A concept unrelated to earth science",
+              "Tidal friction from the Moon",
               "The decay of radioactive elements",
               "Sunlight absorbed by the oceans"
             ],
@@ -26674,16 +26674,16 @@ const curriculum: DayContent[] = [
             "q": "Is geothermal energy considered a renewable energy source?",
             "options": [
               "No, geothermal energy is always classified as nonrenewable",
-              "Geothermal energy has no connection to renewable energy at all",
+              "No, it is produced by burning fossil fuels underground",
               "Yes",
-              "A concept unrelated to geothermal energy"
+              "Only when the heat is stored in batteries first"
             ],
             "answer": 2
           },
           {
             "q": "Which of these best describes how geothermal power plants generate electricity?",
             "options": [
-              "A concept unrelated to geothermal energy",
+              "They use the tidal movement of water in underground caves to spin turbines",
               "They burn coal to generate steam for turbines",
               "They use heat from within the Earth, often via steam, to turn turbines",
               "They rely entirely on sunlight to generate electricity"
@@ -26693,17 +26693,17 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is geothermal energy more accessible in some regions, like areas near tectonic plate boundaries, than others?",
             "options": [
-              "This concept has no connection to earth science",
+              "Areas near plate boundaries have thicker crust that stores more heat from the Sun",
               "Heat from the Earth’s interior is closer to the surface in these geologically active regions",
               "Geothermal heat is always exactly the same distance from the surface everywhere on Earth",
-              "Tectonic plate boundaries have no connection to the availability of geothermal heat"
+              "Strong winds near plate boundaries generate additional geothermal energy"
             ],
             "answer": 1
           },
           {
             "q": "Why might geothermal energy be considered a more reliable renewable source than solar or wind in some cases?",
             "options": [
-              "This concept has no relevance to science",
+              "Geothermal energy is produced only at night when the ground is coldest",
               "Solar and wind energy are always more reliable than any other renewable source",
               "Geothermal energy is never available on a continuous basis",
               "Earth’s internal heat is available continuously, regardless of weather or time of day"
@@ -26754,7 +26754,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How does the Supreme Court fit into Canadas system of government?",
             "options": [
-              "It has no connection to the rest of the government",
+              "It makes laws for Canada alongside the House of Commons",
               "It only handles disputes between provinces and no other cases",
               "It acts as the final authority on legal disputes and constitutional questions",
               "It is responsible for enforcing traffic laws only"
@@ -26791,7 +26791,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Reports only the most basic facts of a breaking event",
               "Lists a set of unrelated numerical statistics",
-              "A concept unrelated to writing",
+              "Argues for a particular opinion on a controversial issue",
               "Explores a topic, person, or event in greater depth than a straightforward news report"
             ],
             "answer": 3
@@ -26800,7 +26800,7 @@ const curriculum: DayContent[] = [
             "q": "Does a feature article typically use more creative style than a hard news report?",
             "options": [
               "Feature articles are never written with any creative style",
-              "A concept unrelated to feature articles",
+              "Only when it is written for a school newspaper",
               "Yes",
               "No, a feature article always uses the exact same style as a hard news report"
             ],
@@ -26812,7 +26812,7 @@ const curriculum: DayContent[] = [
               "A blank page with no written content",
               "A single sentence announcing a road closure",
               "An in-depth profile of a local community volunteer",
-              "A concept unrelated to writing"
+              "A one-line weather forecast for tomorrow"
             ],
             "answer": 2
           },
@@ -26820,7 +26820,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a feature article include quotes, anecdotes, and descriptive details?",
             "options": [
               "These elements help engage readers and bring the subject to life",
-              "This concept has no connection to writing",
+              "They fill space so the article reaches a required word count",
               "Quotes and anecdotes never add anything meaningful to an article",
               "Feature articles should never include any descriptive details"
             ],
@@ -26832,7 +26832,7 @@ const curriculum: DayContent[] = [
               "It focuses on depth and human interest rather than reporting the latest fast-moving events",
               "Feature articles are always exactly as time-sensitive as breaking news",
               "Breaking news stories are never time-sensitive in any way",
-              "This concept has no relevance to writing"
+              "Feature articles are published only once a year"
             ],
             "answer": 0
           }
@@ -26911,7 +26911,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No, bacteria are always made up of many cells",
               "Yes",
-              "A concept unrelated to biology",
+              "No, bacteria are made of only genetic material inside a protein coat",
               "Bacteria are never considered living organisms"
             ],
             "answer": 1
@@ -26921,7 +26921,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No",
               "Viruses never reproduce in any way, even with a host",
-              "A concept unrelated to viruses",
+              "Yes, viruses reproduce by dividing in two, as bacteria do",
               "Yes, viruses can always reproduce completely independently"
             ],
             "answer": 0
@@ -26930,7 +26930,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these can be treated effectively with antibiotics?",
             "options": [
               "Neither bacterial nor viral infections",
-              "A concept unrelated to biology",
+              "Both bacterial and viral infections equally",
               "Bacterial infections",
               "Viral infections"
             ],
@@ -26939,7 +26939,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why are antibiotics generally ineffective against viral infections?",
             "options": [
-              "This concept has no connection to biology",
+              "Viruses are too small for antibiotics to reach them",
               "Antibiotics target processes found in living bacterial cells, which viruses do not have",
               "Antibiotics are always equally effective against both bacteria and viruses",
               "Viral infections never actually require any kind of medical treatment"
@@ -26950,7 +26950,7 @@ const curriculum: DayContent[] = [
             "q": "Why do scientists classify viruses differently from bacteria despite both being able to cause disease?",
             "options": [
               "Bacteria are never able to cause any kind of disease",
-              "This concept has no relevance to science",
+              "Viruses are always larger than bacteria and can be seen with the naked eye",
               "Viruses and bacteria are always classified as exactly the same type of organism",
               "Viruses lack cellular structure and cannot carry out life processes independently the way bacteria can"
             ],
@@ -27036,7 +27036,7 @@ const curriculum: DayContent[] = [
               "Two independent clauses of equal importance",
               "Only questions, never statements",
               "A single word with no other words attached",
-              "A concept unrelated to grammar"
+              "A dependent clause to an independent clause"
             ],
             "answer": 0
           },
@@ -27045,7 +27045,7 @@ const curriculum: DayContent[] = [
             "options": [
               "But can only ever appear at the very start of a sentence",
               "Yes",
-              "A concept unrelated to coordinating conjunctions",
+              "No, but is a subordinating conjunction",
               "No, but is never considered a coordinating conjunction"
             ],
             "answer": 1
@@ -27065,7 +27065,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It signals the boundary between two complete ideas being joined together",
               "Commas are never used near coordinating conjunctions",
-              "This concept has no connection to grammar",
+              "It marks the end of the sentence before the conjunction",
               "Coordinating conjunctions never join two complete ideas together"
             ],
             "answer": 0
@@ -27075,7 +27075,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Short sentences should never be combined for any reason",
               "Combining sentences never improves the flow or clarity of writing",
-              "This concept has no connection to grammar",
+              "It lets the writer avoid using conjunctions",
               "It can improve sentence flow and show a clearer relationship between the two ideas"
             ],
             "answer": 3
@@ -27155,7 +27155,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The rotation of Earth’s core",
               "Wind patterns over the ocean surface",
-              "A concept unrelated to earth science",
+              "The Sun’s heat evaporating ocean water",
               "The gravitational pull of the Moon"
             ],
             "answer": 3
@@ -27163,17 +27163,17 @@ const curriculum: DayContent[] = [
           {
             "q": "Does the Sun also have some influence on Earth’s tides?",
             "options": [
-              "No, the Sun has absolutely no effect on tides",
+              "No, the Sun is too far away for its gravity to affect the oceans",
               "Yes",
               "The Sun is the only factor that ever affects tides",
-              "A concept unrelated to tides"
+              "No, the Sun affects only ocean temperature, not tides"
             ],
             "answer": 1
           },
           {
             "q": "What term describes especially high tides that occur when the Sun, Moon, and Earth are aligned?",
             "options": [
-              "A concept unrelated to tides",
+              "Rip tides",
               "Neap tides",
               "Spring tides",
               "Summer tides"
@@ -27183,8 +27183,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do most coastal areas experience two high tides and two low tides each day?",
             "options": [
-              "This concept has no connection to earth science",
-              "Earth’s rotation has no connection to how tides occur",
+              "The Moon orbits Earth twice each day, pulling the water up each time",
+              "Ocean water flows back and forth between the poles twice each day",
               "Tides never actually follow any predictable daily pattern",
               "Earth’s rotation moves different points through the two tidal bulges created by the Moon’s gravity"
             ],
@@ -27196,7 +27196,7 @@ const curriculum: DayContent[] = [
               "Tidal patterns never have any effect on navigation or coastal ecosystems",
               "Predictable tide timing and height affect boat travel safety and the habitats of many coastal organisms",
               "Coastal organisms are never affected by changes in tide levels",
-              "This concept has no relevance to science"
+              "Tides matter only for deep-sea ships, never for habitats near the shore"
             ],
             "answer": 1
           }
@@ -27254,9 +27254,9 @@ const curriculum: DayContent[] = [
             "q": "Why is it important for citizens to understand how a federal budget is created?",
             "options": [
               "It helps them understand how public money is raised and spent on their behalf",
-              "Citizens have no connection to how government money is spent",
+              "Citizens vote directly on every line of the federal budget",
               "Federal budgets are always kept completely secret from the public",
-              "Understanding budgets has no relevance to everyday life"
+              "Budgets are decided by provincial governments, not Parliament"
             ],
             "answer": 0
           }
@@ -27281,7 +27281,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A feeling of anticipation or uncertainty",
               "A summary of a story’s main events",
-              "A concept unrelated to reading",
+              "The final resolution of a story's conflict",
               "A type of punctuation mark"
             ],
             "answer": 0
@@ -27292,7 +27292,7 @@ const curriculum: DayContent[] = [
               "No, withholding information never has any effect on suspense",
               "Suspense can only ever be created by revealing every detail immediately",
               "Yes",
-              "A concept unrelated to suspense"
+              "Only if the information is false"
             ],
             "answer": 2
           },
@@ -27302,7 +27302,7 @@ const curriculum: DayContent[] = [
               "Ending a chapter right before a major event is revealed",
               "Explaining the entire ending in the first paragraph",
               "Listing every character’s name in alphabetical order",
-              "A concept unrelated to suspense"
+              "Writing in the past tense throughout the chapter"
             ],
             "answer": 0
           },
@@ -27311,7 +27311,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Slower pacing can heighten tension and anticipation before a big reveal",
               "Climactic moments are always paced exactly the same as the rest of a story",
-              "This concept has no connection to writing",
+              "Slower pacing lets the writer shorten the story",
               "Pacing never has any effect on how tense a scene feels"
             ],
             "answer": 0
@@ -27320,7 +27320,7 @@ const curriculum: DayContent[] = [
             "q": "Why is suspense an effective tool for keeping readers engaged in a story?",
             "options": [
               "It creates emotional investment by making readers want to know what happens next",
-              "This concept has no relevance to reading comprehension",
+              "It makes the plot easier to predict from the beginning",
               "Suspense never has any effect on how engaged a reader feels",
               "Readers are always equally engaged no matter how a story is paced"
             ],
@@ -27402,7 +27402,7 @@ const curriculum: DayContent[] = [
               "A resource that takes millions of years to form",
               "A resource that can naturally replenish over a short time",
               "A resource that never occurs naturally on Earth",
-              "A concept unrelated to science"
+              "A resource that is made only by humans in factories"
             ],
             "answer": 1
           },
@@ -27411,7 +27411,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Yes",
               "Nonrenewable resources are never actually formed by any natural process",
-              "A concept unrelated to nonrenewable resources",
+              "No, they form again within a single human lifetime",
               "No, nonrenewable resources form again within a few days"
             ],
             "answer": 0
@@ -27419,7 +27419,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these is a nonrenewable resource?",
             "options": [
-              "A concept unrelated to natural resources",
+              "Flowing water",
               "Coal",
               "Wind",
               "Sunlight"
@@ -27430,7 +27430,7 @@ const curriculum: DayContent[] = [
             "q": "Why are fossil fuels like oil and natural gas considered nonrenewable?",
             "options": [
               "Fossil fuels are actually replenished within a single human lifetime",
-              "This concept has no connection to earth science",
+              "They are made from minerals that cool and harden within a few years",
               "Fossil fuels are classified as renewable resources, not nonrenewable ones",
               "They form over millions of years from ancient organic material and are being used far faster than they can regenerate"
             ],
@@ -27441,7 +27441,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Renewable energy sources always run out faster than nonrenewable ones",
               "There is never any advantage to using a renewable energy source",
-              "This concept has no relevance to science",
+              "Renewable energy sources produce the same amount of power in every weather condition",
               "Renewable sources can supply energy indefinitely without depleting a limited natural supply"
             ],
             "answer": 3
@@ -27459,7 +27459,7 @@ const curriculum: DayContent[] = [
             "q": "What was Métis scrip intended to grant recipients?",
             "options": [
               "Free university education",
-              "A concept unrelated to the Métis scrip system",
+              "Seats in the Senate",
               "Land or money in recognition of their claims",
               "Government jobs with no other benefits"
             ],
@@ -27470,8 +27470,8 @@ const curriculum: DayContent[] = [
             "options": [
               "No, the scrip system always successfully secured land for every recipient",
               "Yes",
-              "The scrip system had no connection to land at all",
-              "A concept unrelated to the Métis scrip system"
+              "No, scrip only applied to land outside the Prairies",
+              "No, because scrip was only given to settlers from Europe"
             ],
             "answer": 1
           },
@@ -27481,7 +27481,7 @@ const curriculum: DayContent[] = [
               "The Manitoba Act",
               "The Naval Service Act",
               "The Indian Act",
-              "A concept unrelated to the Métis scrip system"
+              "The Royal Proclamation of 1763"
             ],
             "answer": 0
           },
@@ -27491,7 +27491,7 @@ const curriculum: DayContent[] = [
               "Speculators never had any involvement in the scrip system",
               "Scrip was often difficult to redeem for actual land, and many recipients were pressured into selling their scrip to speculators for far less than its value",
               "Every Métis scrip recipient successfully kept their land with no issues",
-              "This concept has no connection to Canadian history"
+              "Métis recipients were prohibited from selling their scrip"
             ],
             "answer": 1
           },
@@ -27501,7 +27501,7 @@ const curriculum: DayContent[] = [
               "The scrip system is considered one of the most successful land policies in Canadian history",
               "It shows how a policy intended to address Métis claims often failed to provide lasting benefit and contributed to long-term grievances",
               "The scrip system had no lasting effect on Métis communities",
-              "This concept has no relevance to History"
+              "It is studied mainly because it created Canada's first national parks"
             ],
             "answer": 1
           }
@@ -27525,7 +27525,7 @@ const curriculum: DayContent[] = [
             "q": "What defines a round character?",
             "options": [
               "A character who never appears more than once",
-              "A concept unrelated to reading",
+              "A character who narrates the story",
               "A complex, multidimensional character with a fully developed personality",
               "A character with no name given in the text"
             ],
@@ -27534,7 +27534,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a memoir?",
             "options": [
-              "A concept unrelated to writing",
+              "A persuasive speech given to an audience",
               "A nonfiction narrative in which a writer recounts personal experiences and reflects on their meaning",
               "A fictional story with invented characters and events",
               "A set of instructions for completing a task"
@@ -27544,10 +27544,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a loanword?",
             "options": [
-              "A grammatical rule with no connection to words",
+              "A spelling rule for silent letters",
               "A word borrowed from one language and adopted into another",
               "A word that only ever exists in one single language",
-              "A concept unrelated to vocabulary"
+              "A word created by combining two existing words"
             ],
             "answer": 1
           },
@@ -27555,7 +27555,7 @@ const curriculum: DayContent[] = [
             "q": "What does setting refer to in a story?",
             "options": [
               "The main character’s personality traits",
-              "A concept unrelated to reading",
+              "The central message the author wants to share",
               "The time and place in which a story occurs",
               "The title and author of a story"
             ],
@@ -27564,7 +27564,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is suspense?",
             "options": [
-              "A concept unrelated to reading",
+              "The final resolution of a story's conflict",
               "A summary of a story’s main events",
               "A type of punctuation mark",
               "A feeling of anticipation or uncertainty"
@@ -27644,7 +27644,7 @@ const curriculum: DayContent[] = [
             "q": "What organ pumps blood through the circulatory system?",
             "options": [
               "The lungs",
-              "A concept unrelated to biology",
+              "The kidneys",
               "The heart",
               "The stomach"
             ],
@@ -27655,7 +27655,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The maximum population size an environment can sustainably support",
               "The total number of species found in an ecosystem",
-              "A concept unrelated to ecology",
+              "The rate at which a population grows in ideal conditions",
               "The average lifespan of an individual organism"
             ],
             "answer": 0
@@ -27664,7 +27664,7 @@ const curriculum: DayContent[] = [
             "q": "What is taxonomy?",
             "options": [
               "The study of rocks and minerals",
-              "A concept unrelated to biology",
+              "The study of ancient fossils and extinct organisms",
               "The study of weather patterns",
               "The branch of science that classifies living things into hierarchical groups"
             ],
@@ -27673,7 +27673,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the primary cause of ocean tides?",
             "options": [
-              "A concept unrelated to earth science",
+              "The Sun’s heat evaporating ocean water",
               "Wind patterns over the ocean surface",
               "The gravitational pull of the Moon",
               "The rotation of Earth’s core"
@@ -27684,7 +27684,7 @@ const curriculum: DayContent[] = [
             "q": "What defines a renewable resource?",
             "options": [
               "A resource that never occurs naturally on Earth",
-              "A concept unrelated to science",
+              "A resource that is made only by humans in factories",
               "A resource that takes millions of years to form",
               "A resource that can naturally replenish over a short time"
             ],
@@ -27980,7 +27980,7 @@ const curriculum: DayContent[] = [
               "Independent commissions cannot make fair decisions",
               "It can review cases fairly, separate from political influence",
               "Only elected officials should handle such complaints",
-              "Independent bodies have no role in protecting rights"
+              "Independent bodies can only make rules, not hear complaints"
             ],
             "answer": 1
           },
@@ -28054,7 +28054,7 @@ const curriculum: DayContent[] = [
             "q": "Why do writers use sound devices like onomatopoeia and alliteration?",
             "options": [
               "To make writing more difficult to understand on purpose",
-              "Sound devices have no effect on writing",
+              "To make dialogue sound like a news report",
               "To remove all imagery from a text",
               "To create rhythm and vivid imagery in their writing"
             ],
@@ -28236,7 +28236,7 @@ const curriculum: DayContent[] = [
               "His work helped shape a health care system that continues to benefit Canadians today",
               "His program had no lasting impact on Canadian society",
               "Public health insurance was abandoned shortly after being introduced",
-              "He is remembered only for events unrelated to health care"
+              "He is remembered mainly for leading Canada during the Second World War"
             ],
             "answer": 0
           }
@@ -28470,7 +28470,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It highlighted ongoing tensions over Indigenous land rights across Canada",
               "The dispute was resolved privately with no public awareness",
-              "It had no connection to Indigenous rights issues",
+              "It was a labour strike by workers at a Quebec mining company",
               "The event received no media coverage at the time"
             ],
             "answer": 0
@@ -28478,7 +28478,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might events like the Oka Crisis continue to be studied in Canadian history classes today?",
             "options": [
-              "The event has no relevance to modern Canadian society",
+              "It serves mainly as an example of a dispute over Quebec's language laws",
               "Land rights disputes no longer occur in Canada",
               "The Oka Crisis has been completely forgotten by historians",
               "They help explain ongoing discussions about land rights and reconciliation with Indigenous peoples"
@@ -28664,7 +28664,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do chemists study the composition of fireworks?",
             "options": [
-              "Chemistry has no connection to fireworks",
+              "To dye the paper casings that produce the colours",
               "Fireworks have no chemical composition",
               "Fireworks never involve any reactions",
               "To understand and control the colours, safety, and effects produced"
@@ -28771,7 +28771,7 @@ const curriculum: DayContent[] = [
               "Memes are always completely factual",
               "To understand how internet culture shapes communication and opinion",
               "Critical analysis is never useful for internet content",
-              "Memes have no influence on culture or opinion"
+              "Memes are only shared for entertainment and never reflect real opinions"
             ],
             "answer": 1
           },
@@ -28968,7 +28968,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the Multiculturalism Act often seen as connected to Canadian identity today?",
             "options": [
-              "The Act has no connection to how Canadians view their country",
+              "It reflects a policy that all Canadians must adopt one shared culture",
               "Cultural diversity is not considered part of Canadian identity",
               "It reflects a value of inclusion that many Canadians consider central to their national identity",
               "The Act was repealed shortly after being introduced"
@@ -29024,7 +29024,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why must writers be careful when omitting words from a quotation with an ellipsis?",
             "options": [
-              "Ellipses have no effect on meaning",
+              "Ellipses signal that a quotation is a paraphrase",
               "Omitting words could distort the original meaning if done carelessly",
               "Ellipses always make quotations more accurate",
               "Omitting words is never allowed under any circumstance"
@@ -29205,7 +29205,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the Manitoba Schools Question significant in Canadian history?",
             "options": [
               "It reflects ongoing debates over minority language rights in Canada",
-              "It has no connection to Canadian identity",
+              "It marked the end of public funding for all schools in Canada",
               "It resolved all language issues in Canada permanently",
               "It only affected a single school"
             ],
@@ -29638,7 +29638,7 @@ const curriculum: DayContent[] = [
               "It resists the motion of the wheels against the road",
               "It speeds up the car instead of slowing it",
               "It only works underwater",
-              "It has no role in braking at all"
+              "It pushes the car forward by gripping the road"
             ],
             "answer": 0
           },
@@ -30183,7 +30183,7 @@ const curriculum: DayContent[] = [
             "q": "Why might the Bank of Canada raise interest rates when prices are rising quickly?",
             "options": [
               "Raising interest rates always increases inflation further",
-              "Interest rates have no connection to prices in the economy",
+              "Higher interest rates encourage people to borrow and spend more",
               "The Bank of Canada cannot change interest rates",
               "Higher interest rates can slow spending and help control inflation"
             ],
@@ -30194,7 +30194,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Central banks are only responsible for printing currency",
               "It allows economic decisions to be made based on long-term stability rather than short-term political pressure",
-              "An independent central bank has no effect on a countrys economy",
+              "It lets the central bank set federal tax rates directly",
               "Political pressure should always determine interest rates"
             ],
             "answer": 1
@@ -30372,7 +30372,7 @@ const curriculum: DayContent[] = [
               "Increases the distance the rope must be pulled but reduces the force needed",
               "Makes the load heavier",
               "Only works with electric motors",
-              "Has no effect on force or distance"
+              "Reduces the distance the rope must be pulled and increases the force needed"
             ],
             "answer": 0
           },
@@ -30428,7 +30428,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which group played an essential role in guiding and supporting the fur trade through their knowledge of the land?",
             "options": [
-              "Only workers with no connection to the land",
+              "British naval officers stationed in the colonies",
               "Distant colonial governors with no local knowledge",
               "Indigenous peoples",
               "European monarchs"
@@ -30674,7 +30674,7 @@ const curriculum: DayContent[] = [
             "q": "Why were multiple conferences needed before Confederation could be finalized?",
             "options": [
               "The colonies agreed on every detail immediately",
-              "Conferences had no connection to the eventual union",
+              "Conferences were needed only to choose the name of the new country",
               "A single meeting was always sufficient with no further discussion needed",
               "Leaders needed to negotiate details such as representation, powers, and structure among the colonies"
             ],
@@ -30720,7 +30720,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A type of setting description",
               "The main character around whom the story centers",
-              "A minor character with no effect on the plot",
+              "A friend who helps the protagonist reach their goal",
               "A character or force that directly opposes the protagonist"
             ],
             "answer": 3
@@ -30729,7 +30729,7 @@ const curriculum: DayContent[] = [
             "q": "Can a character serve as both a foil and an antagonist in the same story?",
             "options": [
               "No, these two roles can never overlap in any story",
-              "A concept unrelated to characterization",
+              "Only if the antagonist is also the narrator",
               "Yes, a character can highlight contrasting traits while also opposing the protagonist",
               "Only narrators can serve either role"
             ],
@@ -30740,7 +30740,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Foils never add any meaning to a story",
               "To emphasize particular strengths or weaknesses in the protagonist through comparison",
-              "This concept has no connection to reading comprehension",
+              "To make the protagonist seem less important",
               "A foil always shares identical traits with the protagonist"
             ],
             "answer": 1
@@ -30748,7 +30748,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is identifying the antagonist important when analyzing a storys central conflict?",
             "options": [
-              "This concept has no relevance to reading",
+              "It tells readers which character is telling the story",
               "The antagonist often represents the primary source of tension the protagonist must overcome",
               "Every story lacks any antagonist or opposing force",
               "The antagonist and protagonist always want the same outcome"
@@ -30921,7 +30921,7 @@ const curriculum: DayContent[] = [
               "Trust in government was completely unaffected by the accusations",
               "The public was never made aware of the scandal",
               "It suggested that a major infrastructure contract was awarded based on corrupt financial dealings rather than merit",
-              "The scandal had no connection to government contracts"
+              "The contract was awarded after an open public vote"
             ],
             "answer": 2
           },
@@ -30973,7 +30973,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do PSAs typically use a concise, focused message?",
             "options": [
-              "Conciseness has no effect on persuasive writing",
+              "A PSA must fit all the facts about an issue into one message",
               "PSAs are never meant to be remembered",
               "Audiences are more likely to remember and act on a short, clear message",
               "Long, unfocused messages always persuade audiences more effectively"
@@ -31115,7 +31115,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Electromagnets have no practical applications in technology",
               "Electromagnets always have a fixed, unchangeable strength",
-              "Electric current has no connection to magnetism",
+              "Magnetism in an electromagnet comes from the metal alone, not from the current",
               "Their magnetic strength can be controlled by adjusting the electric current flowing through them"
             ],
             "answer": 3
@@ -31166,7 +31166,7 @@ const curriculum: DayContent[] = [
               "Canada had no territorial claims in the region at the time",
               "It highlighted the lack of law enforcement and government authority in the western territories",
               "The government had no interest in events occurring in the west",
-              "The massacre had no connection to future government policy"
+              "The massacre led the government to hand western policing to the American army"
             ],
             "answer": 1
           },
@@ -31174,7 +31174,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the Cypress Hills Massacre considered a turning point in the governance of western Canada?",
             "options": [
               "The event led to the west being abandoned by the government entirely",
-              "The massacre had no influence on how the west was governed",
+              "It led the government to hand western policing to the Hudson's Bay Company",
               "Law enforcement in the west was already fully established before this event",
               "It directly contributed to the establishment of a formal policing presence in the territories"
             ],
@@ -31219,7 +31219,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is one risk of poorly designed data visualization?",
             "options": [
-              "Infographics have no connection to persuasion",
+              "Infographics always avoid using colour and images",
               "It can mislead viewers about the true relationships within the data",
               "Data visualization never influences a viewers understanding",
               "Poorly designed visuals always communicate data more clearly"
@@ -31410,7 +31410,7 @@ const curriculum: DayContent[] = [
             "q": "Why have the Numbered Treaties been a continuing source of historical and legal debate?",
             "options": [
               "The Canadian government and Indigenous nations often interpreted the treaty terms very differently",
-              "The treaties had no connection to land or governance",
+              "The treaties covered only fishing rights on the coasts",
               "The treaties were never actually signed by either side",
               "Both sides always agreed completely on every treaty term"
             ],
@@ -31421,7 +31421,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Indigenous nations were never involved in any treaty negotiations",
               "These historical agreements continue to shape legal and political discussions about land and rights today",
-              "The treaties have no relevance to any modern issue",
+              "They explain only the history of trade with the United States",
               "The treaties were fully resolved with no lasting impact"
             ],
             "answer": 1
@@ -31458,7 +31458,7 @@ const curriculum: DayContent[] = [
               "Authors never expect readers to recognize any outside reference",
               "Allusions let a writer add meaning efficiently by relying on a readers existing knowledge",
               "Allusions always require lengthy explanation to be understood",
-              "This concept has no connection to reading"
+              "Allusions are used to avoid referring to earlier works"
             ],
             "answer": 1
           },
@@ -31478,7 +31478,7 @@ const curriculum: DayContent[] = [
               "The story will change entirely for that reader",
               "The reader may miss a layer of meaning the author intended to convey",
               "The text automatically becomes impossible to read at all",
-              "Allusions have no effect on a readers understanding regardless"
+              "The reader will find the text grammatically incorrect"
             ],
             "answer": 1
           },
@@ -31487,7 +31487,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Allusions only appear in modern, informal writing",
               "Many classic works reference mythology, history, or earlier literature to deepen their themes",
-              "This concept has no relevance to reading comprehension",
+              "Allusions are always explained in footnotes in classic texts",
               "Classic texts never include any references to outside works"
             ],
             "answer": 1
@@ -31586,7 +31586,7 @@ const curriculum: DayContent[] = [
             "q": "How are invasive species often introduced to a new environment?",
             "options": [
               "Only through natural migration with no human involvement",
-              "Through processes entirely unrelated to human activity",
+              "Through earthquakes that carry animals between continents",
               "Invasive species never actually move between environments",
               "Through human activities like trade, travel, or the release of pets"
             ],
@@ -31901,7 +31901,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might the Canadian government have wanted to merge multiple police organizations into one national force?",
             "options": [
-              "The merger had no connection to national law enforcement needs",
+              "Merging was intended to place all police under provincial control",
               "A single unified force could provide more consistent law enforcement across the entire country",
               "Multiple separate forces were considered more efficient than one national force",
               "Merging police forces was expected to eliminate the need for any law enforcement"
@@ -31970,7 +31970,7 @@ const curriculum: DayContent[] = [
               "Dialogue should never include any word errors",
               "To develop a characters voice or create comic effect",
               "Malapropisms can never be used intentionally by a writer",
-              "This concept has no connection to vocabulary"
+              "Malapropisms are always accidental"
             ],
             "answer": 1
           },
@@ -31978,9 +31978,9 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding malapropisms useful for improving ones own vocabulary?",
             "options": [
               "Recognizing commonly confused words helps a writer avoid similar mistakes in their own work",
-              "Malapropisms have no connection to vocabulary development",
+              "Malapropisms teach readers how to spell difficult words",
               "Confused words are always interchangeable with no difference in meaning",
-              "This concept has no relevance to writing"
+              "Malapropisms show that word meanings can be guessed from sound alone"
             ],
             "answer": 0
           }
@@ -32080,7 +32080,7 @@ const curriculum: DayContent[] = [
               "Reinforcement always makes a building weaker during an earthquake",
               "A reinforced frame helps the building withstand shaking without collapsing",
               "Reinforcement is only useful for buildings unaffected by earthquakes",
-              "Structural frames have no connection to a buildings earthquake safety"
+              "Structural frames carry only the building’s weight and cannot respond to shaking"
             ],
             "answer": 1
           },
@@ -32088,7 +32088,7 @@ const curriculum: DayContent[] = [
             "q": "Why do engineers study the seismic energy released during past earthquakes?",
             "options": [
               "Understanding seismic energy helps engineers design structures that can better withstand future events",
-              "Seismic energy has no connection to how buildings are designed",
+              "Seismic energy only matters for predicting the exact date of a future earthquake",
               "Every earthquake releases exactly the same amount of energy",
               "Past earthquakes provide no useful information for future building design"
             ],
@@ -32097,7 +32097,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is earthquake-resistant engineering especially important in densely populated, seismically active cities?",
             "options": [
-              "Building design has no effect on the safety of a citys residents",
+              "Buildings in dense cities are shielded from seismic waves by the surrounding structures",
               "Earthquake-resistant engineering only matters in cities with very few people",
               "Densely populated cities are never affected by earthquakes",
               "Effective design can significantly reduce damage and protect large numbers of people during an earthquake"
@@ -32159,7 +32159,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The conferences only concerned trade, not political union",
               "Confederation happened immediately with no prior discussion",
-              "These conferences had no connection to the eventual formation of Canada",
+              "They produced the final terms of the British North America Act in London",
               "They produced the early proposals and agreements that shaped the eventual union of Canada in 1867"
             ],
             "answer": 3
@@ -32323,7 +32323,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What property of a material often makes it effective at blocking sound transmission?",
             "options": [
-              "Bright colour with no connection to sound",
+              "High elasticity, which lets the material vibrate freely with the sound",
               "High density, which resists the vibration needed to transmit sound",
               "Extremely low density with many open gaps",
               "High electrical conductivity"
@@ -32344,8 +32344,8 @@ const curriculum: DayContent[] = [
             "q": "Why is sound insulation an important consideration in apartment building design?",
             "options": [
               "It can reduce noise transmission between units, improving comfort and privacy for residents",
-              "Noise levels have no connection to building material choices",
-              "Sound insulation has no effect on residents comfort or privacy",
+              "Wall paint colour is the main factor in blocking noise between units",
+              "Sound insulation is installed only to reduce heat loss, not noise",
               "Apartment buildings never transmit sound between separate units"
             ],
             "answer": 0
@@ -32394,7 +32394,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the governments decision to sign the Rebellion Losses Bill despite public backlash considered historically significant?",
             "options": [
               "It proved that responsible government would never be achieved",
-              "The decision had no effect on how government authority was understood",
+              "It showed that the Governor General could reject any bill passed by the assembly",
               "It demonstrated that the elected government, not colonial officials alone, held real decision-making power",
               "The bill was immediately reversed due to the backlash"
             ],
@@ -32404,7 +32404,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the Rebellion Losses Bill connected to the broader growth of responsible government in Canada?",
             "options": [
               "Responsible government was fully established long before this event occurred",
-              "The bill had no connection to the concept of responsible government",
+              "It showed that Britain would continue to appoint all colonial councillors",
               "The governor overturned the bill personally, rejecting the elected governments authority",
               "It showed the governors willingness to accept the decisions of an elected government, a key principle of responsible government"
             ],
@@ -32894,7 +32894,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It marked the end of Canadian expansion",
               "It extended Canadian territory to the Pacific Ocean and helped justify major railway construction",
-              "It had no connection to later infrastructure projects",
+              "It gave Canada its first Atlantic seaport",
               "British Columbia left Confederation shortly afterward"
             ],
             "answer": 1
@@ -32950,7 +32950,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It draws attention to a tension or complexity within an idea",
               "It always simplifies an idea completely",
-              "It has no effect on how a reader interprets a text",
+              "It makes the reader skip over the phrase",
               "It removes all emotional meaning from a phrase"
             ],
             "answer": 0
@@ -32959,7 +32959,7 @@ const curriculum: DayContent[] = [
             "q": "Why is recognizing oxymorons a useful skill when analyzing figurative language?",
             "options": [
               "Recognizing oxymorons prevents readers from understanding a text",
-              "This skill has no connection to figurative language",
+              "It lets readers identify the rhyme scheme of a poem",
               "Oxymorons never appear in literature",
               "It helps readers notice when an author is emphasizing contradiction or nuance intentionally"
             ],
@@ -33059,7 +33059,7 @@ const curriculum: DayContent[] = [
             "q": "Why does rust weaken metal structures over time?",
             "options": [
               "Rust makes metal permanently stronger",
-              "Rust has no effect on the physical structure of metal",
+              "Rust only affects the surface paint of metal, never the metal itself",
               "Oxidation always strengthens the bonds within iron",
               "The oxidation reaction gradually breaks down the metals structure, making it brittle and flaky"
             ],
@@ -33078,7 +33078,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might engineers choose corrosion-resistant materials, such as stainless steel, for structures exposed to moisture?",
             "options": [
-              "Moisture has no effect on any metal structure",
+              "Stainless steel is chosen only because it is cheaper than plain iron",
               "Stainless steel reacts more quickly with oxygen than plain iron",
               "Corrosion-resistant materials always rust faster than plain iron",
               "These materials resist the oxidation reactions that cause rust, extending the structures lifespan"
@@ -33139,7 +33139,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Prince Edward Island was forced to join immediately after the conference",
               "It shows that hosting early discussions did not guarantee immediate agreement to join a national union",
-              "It shows the conference had no connection to Confederation at all",
+              "It shows that Prince Edward Island first joined as part of Nova Scotia",
               "It proves that Prince Edward Island joined Confederation before any other province"
             ],
             "answer": 1
@@ -33184,7 +33184,7 @@ const curriculum: DayContent[] = [
             "q": "Why is identifying the intended audience of a text useful to a reader?",
             "options": [
               "Every text is written for exactly the same audience",
-              "Audience has no effect on how a text is written",
+              "Audience only affects the font and layout of a text",
               "It helps explain choices the author made about tone, vocabulary, and content",
               "Identifying audience prevents a reader from understanding a text"
             ],
@@ -33205,7 +33205,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Vocabulary and tone should never change based on audience",
               "Younger audiences always require more complicated vocabulary",
-              "Audience awareness has no connection to effective communication",
+              "A younger audience means the author should write fewer sentences",
               "Matching language to an audiences background knowledge helps ensure the message is understood clearly"
             ],
             "answer": 3
@@ -33376,7 +33376,7 @@ const curriculum: DayContent[] = [
               "The Metis-led provisional government",
               "A provisional government led entirely by British officials",
               "The government of the United States",
-              "A provisional government with no connection to the Red River settlement"
+              "A committee of Hudson's Bay Company officers"
             ],
             "answer": 0
           },
@@ -33418,7 +33418,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of these is an example of an effective hook?",
             "options": [
-              "A random sentence unrelated to the topic",
+              "A summary of the essay's conclusion",
               "The final sentence of the conclusion",
               "A list of unrelated vocabulary words",
               "A surprising statistic related to the essays topic"
@@ -33440,7 +33440,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Questions always confuse readers and should be avoided",
               "A thought-provoking question can immediately engage a readers curiosity",
-              "Questions have no effect on reader engagement",
+              "Questions make an essay seem unfinished to readers",
               "Hooks are never allowed to be phrased as questions"
             ],
             "answer": 1
@@ -33451,7 +33451,7 @@ const curriculum: DayContent[] = [
               "It sets the tone and direction for the piece, helping readers understand what to expect",
               "A weak introduction always improves an essays overall quality",
               "Readers never form an impression based on an introduction",
-              "Introductions have no influence on how a reader understands an essay"
+              "It determines the grade level of the essay"
             ],
             "answer": 0
           }
@@ -33856,7 +33856,7 @@ const curriculum: DayContent[] = [
               "An exclusive focus on international trade with no domestic policy",
               "Policies that caused significant harm to Indigenous peoples",
               "A complete absence of any controversial policies",
-              "Policies that had no effect on Indigenous communities"
+              "Policies that mainly affected trade with Britain"
             ],
             "answer": 1
           },
@@ -33875,7 +33875,7 @@ const curriculum: DayContent[] = [
             "options": [
               "He served only a single day as prime minister",
               "Macdonald opposed the expansion of Canadian territory",
-              "He played no role in any Confederation-era events",
+              "He led the Rebellions of 1837-38",
               "He helped shape the political structure and territorial growth of Canada in its earliest decades"
             ],
             "answer": 3
@@ -33899,7 +33899,7 @@ const curriculum: DayContent[] = [
             "q": "What does a cause and effect structure explain in a nonfiction text?",
             "options": [
               "The exact chronological order of unrelated events",
-              "A comparison between two unrelated topics",
+              "How two topics are alike and different",
               "Why an event happened and what resulted from it",
               "A list of characters and their traits"
             ],
@@ -33940,7 +33940,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Recognizing this structure prevents readers from understanding a text at all",
               "Cause and effect relationships are never found in real texts",
-              "This skill has no connection to reading comprehension",
+              "It lets readers identify the author's biography",
               "It helps readers evaluate whether an author has provided a logical explanation for an event"
             ],
             "answer": 3
@@ -34175,7 +34175,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Unclear antecedents always make a sentence easier to understand",
               "The reader may not be able to tell which noun the pronoun is meant to replace",
-              "Antecedents have no connection to pronoun meaning",
+              "Antecedents are the verbs that follow pronouns",
               "Readers never notice unclear antecedents in a text"
             ],
             "answer": 1
@@ -34183,7 +34183,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is pronoun-antecedent agreement important in formal writing?",
             "options": [
-              "This concept has no connection to clarity in writing",
+              "It makes sure a pronoun always matches the verb tense of the sentence",
               "It helps ensure that sentences are clear and free of confusing ambiguity",
               "Agreement errors always make writing more precise",
               "Formal writing never uses pronouns"
@@ -34304,7 +34304,7 @@ const curriculum: DayContent[] = [
             "q": "How does the inner ear contribute to hearing?",
             "options": [
               "It stores sound permanently with no further processing",
-              "It has no role in the process of hearing",
+              "It collects sound waves and funnels them into the ear canal",
               "It translates vibrations into nerve impulses that travel to the brain",
               "It converts nerve impulses back into sound waves"
             ],
@@ -34363,7 +34363,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the organization of the North-West Territories considered an important step in Canadian expansion?",
             "options": [
               "It established a framework for governing and eventually settling a vast portion of Canadian land",
-              "It had no connection to the later creation of new provinces",
+              "It created Canada's first provinces on the Pacific coast",
               "It marked the end of all Canadian westward expansion",
               "The territories were never actually governed by Canada"
             ],
@@ -34529,7 +34529,7 @@ const curriculum: DayContent[] = [
             "q": "Why are wetlands often considered important for filtering water?",
             "options": [
               "Wetland vegetation and soil can trap sediment and absorb excess nutrients before water moves downstream",
-              "Wetlands have no effect on water quality",
+              "Wetlands purify water by heating it until contaminants evaporate",
               "Wetlands always add pollutants directly into water sources",
               "Filtering water is a function unique to oceans"
             ],
@@ -34551,7 +34551,7 @@ const curriculum: DayContent[] = [
               "Only ocean ecosystems support biodiversity",
               "Freshwater ecosystems are entirely lifeless environments",
               "They provide habitat and resources for a wide range of plants, animals, and other organisms",
-              "Freshwater ecosystems have no connection to biodiversity"
+              "Freshwater ecosystems support only fish, so they add little to total biodiversity"
             ],
             "answer": 2
           }
@@ -34610,7 +34610,7 @@ const curriculum: DayContent[] = [
             "options": [
               "His leadership coincided with significant national growth and helped shape Canadas early twentieth-century development",
               "Laurier opposed all forms of immigration and settlement",
-              "He played no role in shaping Canadian policy",
+              "He led Canada through the Confederation negotiations of the 1860s",
               "His time in office had no lasting effect on Canada"
             ],
             "answer": 0
@@ -34674,7 +34674,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a reviewer discuss differing authorial choices, such as tone or structure, between two texts?",
             "options": [
               "Highlighting these differences can show how each author achieves a distinct effect on readers",
-              "Tone and structure are irrelevant to a books overall effect",
+              "Reviewers compare tone and structure only to decide which book has fewer pages",
               "All authors make identical choices regardless of the text",
               "Authorial choices never affect how a reader experiences a text"
             ],
@@ -34775,7 +34775,7 @@ const curriculum: DayContent[] = [
               "Reflected sunlight bouncing off the moon",
               "An electrical storm within outer space",
               "Debris burning up as it enters Earths atmosphere",
-              "A permanent glow with no connection to the atmosphere"
+              "Sunlight reflecting off ice crystals in the clouds"
             ],
             "answer": 2
           },
@@ -34785,7 +34785,7 @@ const curriculum: DayContent[] = [
               "Comets are ignited by nearby stars",
               "Heat from the sun causes ice within the comet to vaporize, releasing gas and dust",
               "Tails form only when comets are farthest from the sun",
-              "Comets have no connection to heat or the sun"
+              "The comet’s rocky core burns like a torch as it falls toward the sun"
             ],
             "answer": 1
           },
@@ -34842,7 +34842,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might rapid population growth lead a territory to be reorganized into a full province?",
             "options": [
-              "Population growth has no connection to provincial status",
+              "A growing population requires the territory to be handed over to a neighbouring province",
               "Territories automatically become provinces regardless of population",
               "A larger population often requires greater local political representation and self-government",
               "Provinces are created only when population decreases"
@@ -34910,7 +34910,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A list of characters and their traits",
               "Why an event happened and what resulted from it",
-              "A comparison between two unrelated topics",
+              "How two topics are alike and different",
               "The exact chronological order of unrelated events"
             ],
             "answer": 1
@@ -35144,7 +35144,7 @@ const curriculum: DayContent[] = [
               "Readers never notice a shift in verb tense",
               "They always make a sentence easier to follow",
               "They make it unclear when events in a narrative are taking place",
-              "Tense has no connection to when an event occurs"
+              "Tense only shows who performed the action"
             ],
             "answer": 2
           },
@@ -35164,7 +35164,7 @@ const curriculum: DayContent[] = [
               "Readers prefer narratives with constantly changing tense",
               "It helps readers follow the sequence of events clearly without confusion",
               "Narratives are not written using verbs",
-              "Consistent tense has no effect on narrative clarity"
+              "Tense mainly affects punctuation, not the order of events"
             ],
             "answer": 1
           }
@@ -35314,7 +35314,7 @@ const curriculum: DayContent[] = [
               "That it would eliminate the office of prime minister",
               "That it might weaken Canadas economic and political ties with Britain",
               "That it would immediately end all Canadian exports",
-              "That it had no connection to trade with the United States"
+              "That it would give the United States control of Canadian railways"
             ],
             "answer": 1
           },
@@ -35406,7 +35406,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is proofreading for homophones an important editing step?",
             "options": [
-              "Proofreading has no connection to word choice",
+              "Proofreading focuses only on punctuation, not word choice",
               "Spell-check programs always catch every homophone error automatically",
               "Homophones are never a source of writing errors",
               "Spell-check programs often fail to catch homophone errors since the words are spelled correctly, just used incorrectly"
@@ -35587,7 +35587,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a provincial government restricting a minority language in schools create lasting political tension?",
             "options": [
               "Minority communities are always unaffected by education policy",
-              "Language policy has no connection to cultural identity",
+              "Language laws mainly affect the cost of school textbooks",
               "It can be seen as threatening a communitys cultural identity and access to education in their own language",
               "Restricting a language in schools never creates any tension"
             ],
@@ -35635,7 +35635,7 @@ const curriculum: DayContent[] = [
               "Differences in what each character knows, believes, or chooses to share",
               "That only one character is ever telling the truth",
               "That both characters always describe the event identically",
-              "That point of view has no effect on how an event is described"
+              "That the narrator's name changes between the accounts"
             ],
             "answer": 0
           },
@@ -35653,7 +35653,7 @@ const curriculum: DayContent[] = [
             "q": "Why is analyzing multiple points of view a valuable reading skill?",
             "options": [
               "It prevents readers from understanding any character at all",
-              "This skill has no connection to understanding a text",
+              "It lets readers decide which narrator to ignore",
               "It helps readers recognize that a single perspective may not tell the whole story",
               "Multiple points of view are never used in literature"
             ],
@@ -35763,7 +35763,7 @@ const curriculum: DayContent[] = [
             "q": "What is a fjord?",
             "options": [
               "A type of freshwater lake found only in the tropics",
-              "A shallow desert canyon with no connection to ice",
+              "A flat plain formed by sediment deposited at a river’s mouth",
               "A deep, narrow coastal valley carved by glacial activity and later flooded by the sea",
               "A landform created entirely by wind erosion"
             ],
@@ -35775,7 +35775,7 @@ const curriculum: DayContent[] = [
               "Changes in glacier size can reveal information about long-term shifts in global temperature and precipitation",
               "Studying glaciers provides no scientific information",
               "Glacier size never changes over time",
-              "Glaciers have no connection to climate patterns"
+              "Glacier size depends only on volcanic activity, not on temperature or precipitation"
             ],
             "answer": 0
           }
@@ -36069,7 +36069,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the Statute of Westminster considered an important step in Canadian history?",
             "options": [
               "It ended all connections between Canada and Britain immediately",
-              "It had no effect on how Canada was governed",
+              "It gave Britain full control over Canadian lawmaking",
               "It only applied to trade agreements, not lawmaking",
               "It expanded Canadas ability to make its own laws separate from Britain"
             ],
@@ -36113,7 +36113,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might two news outlets describe the same event very differently?",
             "options": [
-              "Framing has no influence on how an event is described",
+              "One outlet always invents the event",
               "Each outlet may choose different words, images, and details to emphasize",
               "Only one outlet is ever allowed to report on a given event",
               "News outlets are required by law to describe events identically"
@@ -36133,9 +36133,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is recognizing framing an important media literacy skill?",
             "options": [
-              "Framing has no effect on how a reader interprets a story",
+              "It lets readers identify which outlet has the biggest audience",
               "It helps readers notice how language choices can subtly influence their opinion of an event",
-              "This skill has no connection to understanding the news",
+              "It shows readers which news stories are paid advertisements",
               "Recognizing framing prevents a reader from understanding any article"
             ],
             "answer": 1
@@ -36263,7 +36263,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is photosynthesis considered essential to most life on Earth?",
             "options": [
-              "Photosynthesis has no connection to the oxygen in the atmosphere",
+              "It absorbs the oxygen that animals breathe out, which plants need to survive",
               "Photosynthesis only occurs in animals, not plants",
               "Most organisms do not rely on plants for food in any way",
               "It produces the oxygen many organisms need to breathe and forms the base of most food chains"
@@ -36315,7 +36315,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Women were barred from all political activity",
               "Women lost their existing legal rights entirely",
-              "The case had no impact on Canadian law",
+              "Women were granted the right to vote in federal elections immediately",
               "Women were legally recognized as persons under Canadian law"
             ],
             "answer": 3
@@ -36325,7 +36325,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Her activism helped advance both voting rights and legal recognition for women in Canada",
               "She opposed all efforts to expand womens rights",
-              "She played no role in any womens rights movement",
+              "She led the campaign for Canada's entry into the First World War",
               "Her work had no lasting impact on Canadian law"
             ],
             "answer": 0
@@ -36491,7 +36491,7 @@ const curriculum: DayContent[] = [
               "The fire burns even more intensely",
               "The combustion reaction can no longer continue, and the fire goes out",
               "The fire triangle only applies to electrical fires",
-              "Removing any part has no effect on the fire"
+              "The fire continues, using the remaining two parts to make up for the missing one"
             ],
             "answer": 1
           },
@@ -36500,7 +36500,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Blowing adds additional fuel to the flame",
               "It can remove enough heat or disrupt the fuel and oxygen mixture to stop combustion",
-              "Air has no effect on a burning flame",
+              "Blowing increases the carbon dioxide around the flame, which feeds it",
               "Blowing on a flame always makes it burn hotter"
             ],
             "answer": 1
@@ -36508,7 +36508,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding the fire triangle useful for fire prevention and safety?",
             "options": [
-              "Understanding combustion has no connection to fire safety",
+              "Understanding combustion only explains how fires start, not how to stop them",
               "Fires cannot be prevented or extinguished using this concept",
               "It helps people identify effective ways to prevent or extinguish fires by removing one of the three necessary components",
               "The fire triangle has no practical safety applications"
@@ -36567,9 +36567,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is Lester B. Pearsons Nobel Peace Prize significant to Canadian history?",
             "options": [
-              "Pearson received the award for actions unrelated to diplomacy",
+              "Pearson received the award for negotiating the Canada-United States free trade agreement",
               "Peacekeeping has never been associated with Canada",
-              "It had no connection to Canadas role in world affairs",
+              "It reflected Canada's decision to stay out of the Suez Crisis",
               "It highlighted Canadas emerging role in international diplomacy and peacekeeping"
             ],
             "answer": 3
@@ -36623,7 +36623,7 @@ const curriculum: DayContent[] = [
             "q": "Which type of source might an eponym commonly be derived from?",
             "options": [
               "A grammatical tense",
-              "A number with no connection to a name",
+              "A place name, such as a city or mountain",
               "A persons name, such as an inventor or historical figure",
               "A punctuation mark"
             ],
@@ -36753,7 +36753,7 @@ const curriculum: DayContent[] = [
             "q": "Why are pollinators considered essential to many ecosystems and agricultural systems?",
             "options": [
               "Agricultural systems never rely on pollinators",
-              "Pollinators have no connection to plant reproduction",
+              "Pollinators mainly help plants by supplying them with water and nutrients",
               "Most plants can reproduce without any pollination at all",
               "Many food crops and wild plants depend on pollinators to reproduce successfully"
             ],
@@ -36815,7 +36815,7 @@ const curriculum: DayContent[] = [
               "It helps maintain public confidence in financial institutions and supports consistent economic growth",
               "A regulated banking system always harms economic growth",
               "Unregulated banking systems are always more stable",
-              "Banking regulation has no connection to public confidence"
+              "Banks are regulated only to set the price of stocks"
             ],
             "answer": 0
           }
@@ -36878,9 +36878,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is analyzing narrative structure a valuable literary skill?",
             "options": [
-              "Narrative structure has no effect on how a story is understood",
+              "Narrative structure only determines the length of a story",
               "It helps readers understand how an authors structural choices shape meaning and reader experience",
-              "This skill has no connection to literary analysis",
+              "It lets readers decide the order of chapters themselves",
               "Every narrative uses the exact same structure"
             ],
             "answer": 1
@@ -37094,7 +37094,7 @@ const curriculum: DayContent[] = [
             "q": "What might an investigative report include to support its findings?",
             "options": [
               "No supporting evidence of any kind",
-              "A summary of an unrelated topic",
+              "The author's guesses about what might have happened",
               "Background context, data, and expert perspectives",
               "Only the writers personal opinion"
             ],
@@ -37103,7 +37103,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is evidence particularly important in an investigative report?",
             "options": [
-              "Evidence has no role in investigative journalism",
+              "Evidence is used to make the report longer",
               "Investigative reports are never expected to be credible",
               "Readers never expect a report to include evidence",
               "It supports the reports findings and helps establish credibility with readers"
@@ -37123,7 +37123,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might an investigative report take longer to produce than a typical news article?",
             "options": [
-              "Fact-checking has no connection to how long a report takes",
+              "Investigative reports are written in a more poetic style",
               "Thorough research, fact-checking, and data analysis often require significant time and effort",
               "Investigative reports require no research at all",
               "Typical news articles always take longer to produce"
@@ -37226,7 +37226,7 @@ const curriculum: DayContent[] = [
               "Erosion only affects land that is already barren",
               "Erosion always adds more nutrients to farmland",
               "It can strip away the nutrient-rich topsoil that plants need to grow",
-              "Erosion has no effect on agricultural land"
+              "Erosion mainly packs soil more tightly, making it easier for roots to grow"
             ],
             "answer": 2
           },
@@ -37295,7 +37295,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It proves Canada was never part of the British Empire",
               "It reflects how closely tied Canadas legal identity remained to Britain even decades after Confederation",
-              "It had no connection to Canadian identity at all",
+              "It shows that Canada had its own citizenship from 1867",
               "It shows that Canada had no legal connection to Britain after 1867"
             ],
             "answer": 1
@@ -37305,7 +37305,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Canada has never had any laws governing citizenship",
               "Canadian identity has remained completely unchanged since 1867",
-              "Citizenship laws have no connection to national identity",
+              "Citizenship laws only affected people who lived in Britain",
               "It shows how Canadas sense of independent national identity developed gradually over time"
             ],
             "answer": 3
@@ -37613,7 +37613,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Overuse can make writing sound awkward or overly formal",
               "It always makes writing clearer the more it is used",
-              "Inverted structure has no effect on tone",
+              "It makes the writing sound more formal",
               "Readers never notice a change in sentence order"
             ],
             "answer": 0
@@ -37783,7 +37783,7 @@ const curriculum: DayContent[] = [
             "options": [
               "As unfair to Canadian interests",
               "As entirely favourable to Canada",
-              "As having no effect on Canada at all",
+              "As a decision made by Canada alone",
               "As a decision that ignored Britain completely"
             ],
             "answer": 0
@@ -37794,7 +37794,7 @@ const curriculum: DayContent[] = [
               "Canada had no relationship with Britain at the time of the dispute",
               "The dispute strengthened Canadians trust in Britain completely",
               "It highlighted that Britain sometimes prioritized its own interests over Canadas in international decisions",
-              "The dispute had no effect on Canada-Britain relations"
+              "The dispute convinced Canadians that Canada should join the United States"
             ],
             "answer": 2
           }
@@ -37858,7 +37858,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Recognizing slang prevents a reader from understanding a text",
               "Slang words are always identical to formal vocabulary",
-              "Slang has no connection to a texts tone or setting",
+              "Slang shows only the author's level of education",
               "It helps a reader understand a texts tone, audience, and time period"
             ],
             "answer": 3
@@ -37977,7 +37977,7 @@ const curriculum: DayContent[] = [
             "q": "Why do some materials build up static charge more easily than others?",
             "options": [
               "All materials hold electrons with exactly equal strength",
-              "Static electricity has no connection to a materials properties",
+              "Static charge builds up only in materials with a larger mass",
               "Static charge only forms in materials that conduct electricity perfectly",
               "Different materials hold onto or give up electrons more readily than others"
             ],
@@ -38104,7 +38104,7 @@ const curriculum: DayContent[] = [
               "Recognizing character types prevents readers from understanding a plot",
               "It helps readers understand how and why a story develops its characters over time",
               "Every character in every story is exactly the same type",
-              "This distinction has no connection to understanding a story"
+              "It tells readers which characters are the narrators"
             ],
             "answer": 1
           }
@@ -38306,7 +38306,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does a problem-solution essay identify?",
             "options": [
-              "A random collection of unrelated topics",
+              "A summary of a novel's plot",
               "A single sentence with no supporting explanation",
               "A list of characters from a novel",
               "A specific issue along with its causes and effects"
@@ -38319,7 +38319,7 @@ const curriculum: DayContent[] = [
               "No supporting explanation whatsoever",
               "A single unsupported opinion",
               "Evidence and reasoning",
-              "A completely unrelated topic"
+              "A list of the writer's favourite things"
             ],
             "answer": 2
           },
@@ -38347,7 +38347,7 @@ const curriculum: DayContent[] = [
             "q": "Why is a problem-solution essay considered a persuasive form of writing?",
             "options": [
               "It never tries to convince a reader of anything",
-              "Persuasion has no role in this type of essay",
+              "It is written to entertain readers with a fictional story",
               "It aims to convince readers that a particular solution is reasonable and effective",
               "It only presents facts with no argument at all"
             ],
@@ -38447,7 +38447,7 @@ const curriculum: DayContent[] = [
             "q": "Why are decomposers considered essential to nutrient cycling?",
             "options": [
               "Nutrient cycling occurs with no involvement from decomposers",
-              "Decomposers have no role in an ecosystems nutrient supply",
+              "Decomposers mainly supply an ecosystems nutrients by capturing energy from sunlight",
               "Decomposers remove all nutrients permanently from an ecosystem",
               "They return nutrients from dead matter to the ecosystem so they can be used again"
             ],
@@ -38469,7 +38469,7 @@ const curriculum: DayContent[] = [
               "They convert waste and dead material into reusable nutrients for other living things",
               "They destroy nutrients permanently with no benefit to an ecosystem",
               "They produce waste rather than breaking it down",
-              "They have no connection to recycling of any kind"
+              "They capture sunlight to make food that other living things can eat"
             ],
             "answer": 0
           }
@@ -38518,7 +38518,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Canada already had a fully connected transportation network in 1867",
               "It helped connect distant regions, encouraging settlement, trade, and a sense of national unity",
-              "Railways had no effect on connecting different regions of a country",
+              "Railways reduced the need for settlement in distant regions",
               "The railway was built only for scenic tourism purposes"
             ],
             "answer": 1
@@ -38958,7 +38958,7 @@ const curriculum: DayContent[] = [
             "q": "Why is extremely precise timing important for GPS accuracy?",
             "options": [
               "Even tiny timing errors can translate into significant errors in calculated position",
-              "Timing has no effect on the accuracy of a GPS location",
+              "Timing is only needed to keep satellites in orbit, not to calculate a location",
               "Precise timing only matters for satellites, never for receivers",
               "GPS satellites do not use timing information at all"
             ],
@@ -39006,7 +39006,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might unresolved land disputes have led to armed conflict in the North-West Territories?",
             "options": [
-              "The North-West Territories had no connection to land or settlement issues",
+              "Land disputes in the region arose only from conflicts between Indigenous nations",
               "Land disputes in the region were always resolved through negotiation with no conflict",
               "When peaceful negotiations failed to address grievances, tensions escalated into open resistance",
               "The government agreed immediately to every demand made by Metis leaders"
@@ -39017,7 +39017,7 @@ const curriculum: DayContent[] = [
             "q": "Why does the North-West Rebellion remain an important event for understanding Metis history in Canada?",
             "options": [
               "The rebellion had no lasting impact on Metis communities",
-              "Metis history has no connection to events in the North-West Territories",
+              "Métis history is limited to the Red River region in 1870",
               "The event is remembered only for its effect on railway construction",
               "It highlights long-standing struggles over land, identity, and self-government that still resonate today"
             ],
@@ -39082,7 +39082,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is studying clipped words useful when analyzing how language changes?",
             "options": [
-              "Clipping has no connection to the study of language change",
+              "Clipped words show that all words eventually become longer",
               "It shows one common way that vocabulary evolves to become more efficient over time",
               "Vocabulary never changes or evolves over time",
               "Clipped words provide no insight into how language evolves"
@@ -39262,7 +39262,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the ombudsmans role considered an important part of government accountability?",
             "options": [
-              "The ombudsman has no connection to how citizens interact with government",
+              "An ombudsman writes laws that bind government departments",
               "Citizens are never allowed to raise concerns about government departments",
               "It gives citizens a formal, independent channel to seek fair resolution when they believe they have been treated unfairly",
               "Government accountability does not require any independent oversight"
@@ -39330,7 +39330,7 @@ const curriculum: DayContent[] = [
               "It helps readers understand whether an author intends to criticize or celebrate the work being imitated",
               "Parody and pastiche always have the exact same purpose",
               "Only professional critics can ever notice this distinction",
-              "This distinction has no effect on understanding a text"
+              "Parody and pastiche only appear in poetry"
             ],
             "answer": 0
           }
@@ -39497,7 +39497,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a government create rules requiring a minimum amount of Canadian content in broadcasting?",
             "options": [
-              "Broadcasting content has no connection to supporting a countrys culture or industries",
+              "Such rules are meant to reduce the amount of music available to listeners",
               "Such rules can help support Canadian artists, storytellers, and industries while promoting Canadian culture",
               "Content rules are intended to eliminate all Canadian-made programming",
               "Canadian content rules apply only to countries other than Canada"
@@ -39507,8 +39507,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might regulating broadcasting be considered an important role for a government in the modern media landscape?",
             "options": [
-              "Regulating broadcasting has no connection to protecting Canadian culture or industries",
-              "Broadcasting has no influence on how the public understands information",
+              "Broadcasting rules are mainly meant to set the price of cable subscriptions",
+              "Broadcasters operate only in other countries, so Canada has no part in regulating them",
               "Government oversight of broadcasting was never considered necessary in Canada",
               "Broadcasting reaches large audiences and can shape public understanding, making oversight important for fairness and accountability"
             ],
@@ -39554,7 +39554,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Including mannerisms always makes a sketch less effective",
               "A character sketch is required to exclude all behavioural detail",
-              "Mannerisms have no connection to a characters personality",
+              "Mannerisms show the setting of the story",
               "Small habits and gestures can reveal personality more effectively than direct statements"
             ],
             "answer": 3
@@ -39575,7 +39575,7 @@ const curriculum: DayContent[] = [
               "Vague descriptions always create a clearer image than specific ones",
               "Specific, concrete details help a reader form a clear and vivid mental image of the character",
               "A character sketch should avoid describing the character entirely",
-              "Precision has no effect on how a reader imagines a character"
+              "Precision turns the sketch into a summary of the plot"
             ],
             "answer": 1
           }
@@ -39753,7 +39753,7 @@ const curriculum: DayContent[] = [
             "q": "Why do economists often pay close attention to the size of a countrys national debt compared to the size of its economy?",
             "options": [
               "Economists never consider a countrys debt when studying its economy",
-              "The size of a national debt has no connection to a countrys economic health",
+              "National debt only matters to banks, not governments",
               "National debt is always considered equally serious regardless of the size of the economy",
               "This comparison helps indicate whether the debt level is manageable or could create future financial challenges"
             ],
@@ -39809,7 +39809,7 @@ const curriculum: DayContent[] = [
             "q": "What does a problem-solution essay identify?",
             "options": [
               "A specific issue along with its causes and effects",
-              "A random collection of unrelated topics",
+              "A story told from several narrators' views",
               "A single sentence with no supporting explanation",
               "A list of characters from a novel"
             ],
@@ -39899,7 +39899,7 @@ const curriculum: DayContent[] = [
             "q": "The law of reflection states that the angle of incidence is:",
             "options": [
               "Always less than the angle of reflection",
-              "Not related to the angle of reflection",
+              "Always equal to the angle of refraction",
               "Always greater than the angle of reflection",
               "Always equal to the angle of reflection"
             ],
@@ -40065,7 +40065,7 @@ const curriculum: DayContent[] = [
               "It helps a writer report dialogue and statements accurately in narrative and nonfiction writing",
               "Indirect speech is never used in any type of writing",
               "Direct speech and indirect speech always mean exactly the same thing",
-              "It has no effect on how dialogue is written"
+              "It changes the meaning of dialogue entirely"
             ],
             "answer": 0
           }
@@ -40232,7 +40232,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might activists like Nellie McClung have used writing and public speaking to advance their cause?",
             "options": [
-              "Writing and speaking had no effect on public opinion at the time",
+              "Speeches and writing were the only legal way to vote at the time",
               "Only government officials were permitted to discuss voting laws",
               "Activists were legally required to remain silent about their views",
               "Public writing and speaking could reach and persuade a wide audience, building support for changing unfair laws"
@@ -40245,7 +40245,7 @@ const curriculum: DayContent[] = [
               "The movement had no lasting impact on Canadian law",
               "Voting rights in Canada have never changed since Confederation",
               "It highlights how organized advocacy can lead to meaningful legal change and expanded rights over time",
-              "Studying past advocacy movements has no relevance to understanding rights today"
+              "Studying advocacy movements is useful only for understanding other countries' laws"
             ],
             "answer": 2
           }
@@ -40480,7 +40480,7 @@ const curriculum: DayContent[] = [
               "Redistribution can help ensure that residents across the country have access to comparable services such as healthcare and education, regardless of where they live",
               "Redistributing funds always reduces the quality of services in every province",
               "Provinces are never permitted to have differing levels of wealth",
-              "Equalization payments have no connection to public services"
+              "Equalization payments are used mainly to fund the federal military"
             ],
             "answer": 0
           },
@@ -40553,7 +40553,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is diction considered a powerful literary tool?",
             "options": [
-              "Word choice has no effect on how a text is interpreted",
+              "Diction determines the plot structure of a text",
               "Diction only matters in poetry, never in prose",
               "Small differences in word choice can significantly change how a reader interprets a text",
               "Every word in a language carries the exact same tone"
@@ -40635,7 +40635,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Instantly turns rock into water",
               "Breaks it down through physical and chemical processes",
-              "Has no effect on rock of any kind",
+              "Only changes the colour of rock without breaking it down",
               "Makes rock permanently indestructible"
             ],
             "answer": 1
@@ -40676,7 +40676,7 @@ const curriculum: DayContent[] = [
               "Limestone dissolves faster than any other type of rock",
               "Chemical weathering by water dissolves rock only very gradually",
               "Caves form instantly the moment water touches rock",
-              "Weathering has no connection to how caves are formed"
+              "Cave formation depends mainly on volcanic heat rather than on weathering"
             ],
             "answer": 1
           }
@@ -41226,7 +41226,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The Indian Act has already been fully replaced with new legislation",
               "They argue that greater self-governance and control over their own affairs would better respect First Nations rights and better reflect modern relationships between First Nations and the Canadian government",
-              "Self-governance has no connection to respecting First Nations rights",
+              "Self-governance applies only to municipal councils",
               "Advocates believe the Indian Act requires no changes of any kind"
             ],
             "answer": 1
@@ -41526,7 +41526,7 @@ const curriculum: DayContent[] = [
               "Because an anagram is a rearrangement, not a substitution, of letters",
               "Anagrams are allowed to add extra letters freely",
               "Anagrams only need to share a single letter with the original word",
-              "Anagrams have no connection to the letters in the original word"
+              "Anagrams must follow the same rhyme scheme as the original"
             ],
             "answer": 0
           },
@@ -41643,7 +41643,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why must traditional film be handled in darkness before it is developed?",
             "options": [
-              "Darkness has no effect on undeveloped film",
+              "Darkness is needed to keep the film from getting too cold",
               "Light exposure always improves the quality of the final image",
               "Any additional light exposure would alter the chemical reaction and ruin the image",
               "Film only reacts to light after it has already been developed"
@@ -41881,7 +41881,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A wide base always raises an objects center of mass",
               "A wide base makes an object heavier than a narrow one",
-              "A wide base has no effect on an objects stability",
+              "A wide base shifts the center of mass outside the base of support",
               "A wider base makes it more likely the center of mass stays above the base of support"
             ],
             "answer": 3
@@ -41902,7 +41902,7 @@ const curriculum: DayContent[] = [
               "It increases their height to see farther ahead",
               "It is used only to measure the length of the rope",
               "It helps lower and adjust their overall center of mass for better balance",
-              "It has no effect on their balance at all"
+              "It raises their center of mass so they can step more easily"
             ],
             "answer": 2
           }
@@ -42087,7 +42087,7 @@ const curriculum: DayContent[] = [
               "Removing outliers never has any effect on the conclusions drawn",
               "Removing outliers can significantly change the conclusions drawn from the data",
               "Data sets are not permitted to contain outliers",
-              "Outliers are not relevant to any statistical report"
+              "Outliers only affect the median, never the mean"
             ],
             "answer": 1
           }
@@ -42370,7 +42370,7 @@ const curriculum: DayContent[] = [
             "q": "What does weathering do to rock over time?",
             "options": [
               "Makes rock permanently indestructible",
-              "Has no effect on rock of any kind",
+              "Only changes the colour of rock without breaking it down",
               "Instantly turns rock into water",
               "Breaks it down through physical and chemical processes"
             ],
@@ -42422,7 +42422,7 @@ const curriculum: DayContent[] = [
               "A religious cause",
               "An economic cause only",
               "A military/security cause",
-              "A cause unrelated to Confederation"
+              "A cultural cause"
             ],
             "answer": 2
           },
@@ -42821,7 +42821,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They only apply to numbers greater than one hundred",
               "They show how a simple sum of consecutive numbers can correspond to a geometric pattern",
-              "They have no connection to any geometric shape",
+              "They are formed by multiplying a number by itself",
               "They can never be represented visually"
             ],
             "answer": 1
@@ -42870,7 +42870,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the first hill of a roller coaster typically the tallest hill on the ride?",
             "options": [
               "The first hill produces no potential energy at all",
-              "The height of hills has no effect on a roller coasters speed",
+              "The height of hills determines only how long the ride lasts",
               "Later hills always need to be taller than the first",
               "It must provide enough initial potential energy for the rest of the ride, since energy is gradually lost to friction and air resistance"
             ],
@@ -42922,8 +42922,8 @@ const curriculum: DayContent[] = [
             "options": [
               "That treaties were purely ceremonial",
               "Ongoing responsibilities and legacies connected to past decisions",
-              "That historical agreements have no effect today",
-              "That the past has no connection to the present"
+              "That treaties were written only to settle trade disputes",
+              "That treaty promises ended once the treaties were signed"
             ],
             "answer": 1
           },
@@ -43127,7 +43127,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Different cloud types are associated with different atmospheric conditions and upcoming weather changes",
               "All clouds indicate exactly the same type of weather",
-              "Cloud shape has no connection to weather conditions",
+              "Cloud shape only shows how far away the clouds are, not upcoming weather",
               "Cloud identification can only be done using satellite imagery"
             ],
             "answer": 0
@@ -43243,7 +43243,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A reader must be able to follow and repeat the steps accurately",
               "Vague language makes a process easier to follow",
-              "Precision does not matter in this type of essay",
+              "Precision only matters in persuasive essays",
               "A process essay is never meant to be understood by readers"
             ],
             "answer": 0
@@ -43343,7 +43343,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The diffusion of water across a selectively permeable membrane",
               "The diffusion of solid particles through a rigid wall",
-              "A process unrelated to concentration differences",
+              "The active transport of water using energy from the cell",
               "The movement of energy through a cell"
             ],
             "answer": 0
@@ -43476,7 +43476,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What concern do some media critics raise about paywalls?",
             "options": [
-              "Paywalls have no effect on who can access the news",
+              "Paywalls only affect advertisers, not readers",
               "Paywalls only exist for entertainment websites",
               "They may limit access to reliable information for readers who cannot pay",
               "Paywalls guarantee that all information becomes completely free"
@@ -43499,7 +43499,7 @@ const curriculum: DayContent[] = [
               "It helps a reader consider what influences might shape the coverage they read",
               "Funding sources never influence how a story is reported",
               "All news organizations are funded in exactly the same way",
-              "Media literacy has no connection to how journalism is funded"
+              "Journalism funding only affects the font on news websites"
             ],
             "answer": 0
           }
@@ -43617,7 +43617,7 @@ const curriculum: DayContent[] = [
             "q": "Why has space debris become a growing concern as more satellites are launched?",
             "options": [
               "More satellites in orbit always reduces the total amount of debris",
-              "Space debris has no connection to the number of active satellites",
+              "Space debris comes mainly from meteorites rather than human-made satellites",
               "Satellites launched today can never contribute to space debris",
               "A greater number of objects in orbit increases the chances of future collisions and further debris"
             ],
@@ -43866,7 +43866,7 @@ const curriculum: DayContent[] = [
               "Streak can only be tested on gemstones",
               "A mineral's outer colour can vary due to impurities, but its streak colour is usually consistent",
               "Streak colour always matches the outer colour exactly",
-              "Streak has nothing to do with identification"
+              "Streak is a measure of hardness, so it replaces the hardness test"
             ],
             "answer": 1
           }
@@ -44040,7 +44040,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It can make the results fail to accurately represent the larger population",
               "Bias can only occur when sampling animals, not people",
-              "It has no effect on the reliability of survey results",
+              "It only affects surveys given online",
               "It always makes results more accurate than a full survey"
             ],
             "answer": 0
@@ -44081,7 +44081,7 @@ const curriculum: DayContent[] = [
               "It removes all water from the food instantly",
               "It slows the growth of microorganisms that cause spoilage",
               "It speeds up chemical reactions that cause spoilage",
-              "It has no effect on microorganisms at all"
+              "It kills all microorganisms in the food permanently"
             ],
             "answer": 1
           },
@@ -44090,7 +44090,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It adds extra moisture to prevent spoilage",
               "It increases the temperature of the food indefinitely",
-              "It has no connection to microbial growth",
+              "It makes microorganisms grow faster by concentrating nutrients",
               "It removes moisture that microorganisms need to grow"
             ],
             "answer": 3
@@ -44108,7 +44108,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding food preservation important for reducing food waste and foodborne illness?",
             "options": [
-              "Food preservation has no effect on food safety",
+              "Food preservation only changes how food tastes, not how long it stays safe",
               "Proper preservation methods can extend how long food remains safe, reducing spoilage and health risks",
               "Preservation methods always make food unsafe to eat",
               "All food spoils at exactly the same rate regardless of preservation"
@@ -44235,7 +44235,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Skipping an epigraph never affects understanding of a text",
               "An epigraph always reveals the complete ending of a story",
-              "Epigraphs are always unrelated to the rest of the text",
+              "Epigraphs are always written by the author of the text",
               "It may offer a useful lens for interpreting the theme or tone of what follows"
             ],
             "answer": 3
@@ -44479,7 +44479,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why can a well-written letter to the editor be an effective form of civic participation?",
             "options": [
-              "This form of writing has no connection to real community issues",
+              "It guarantees that the newspaper will print the writer's proposed policy",
               "It allows a member of the public to share an opinion and potentially influence public discussion",
               "Letters to the editor are never read by anyone",
               "Only elected officials are permitted to write to a newspaper"
@@ -44904,7 +44904,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The March West is often studied alongside earlier events like the Cypress Hills Massacre because both relate to:",
             "options": [
-              "Unrelated topics with no connection",
+              "The construction of the Canadian Pacific Railway",
               "The Quiet Revolution",
               "The establishment and early role of federal policing authority in the North-West Territories",
               "The building of the CBC"
@@ -45091,7 +45091,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It helps explain why a recipe rises properly and how substituting ingredients might change the result",
               "Chemical reactions never occur during baking",
-              "Leavening agents have no effect on how baked goods turn out",
+              "Leavening agents only change the colour of baked goods",
               "Baking never involves any chemical changes"
             ],
             "answer": 0
@@ -45151,7 +45151,7 @@ const curriculum: DayContent[] = [
               "It was discovered outside of Canada by a different research team",
               "It gave people with diabetes a life-saving treatment that had not existed before",
               "It cured every known disease immediately",
-              "It had no effect on medical treatment anywhere in the world"
+              "It was an experimental treatment that was banned soon after"
             ],
             "answer": 1
           }
@@ -45216,7 +45216,7 @@ const curriculum: DayContent[] = [
               "Effective writing matches its vocabulary to what the intended audience is likely to understand",
               "Every reader understands specialized vocabulary from every field equally well",
               "Jargon should always be used regardless of who is reading",
-              "Audience has no effect on what vocabulary a writer should choose"
+              "A writer should choose vocabulary based on what sounds most impressive rather than on who will read it"
             ],
             "answer": 0
           }
@@ -45326,7 +45326,7 @@ const curriculum: DayContent[] = [
               "The shapes are always physically different sizes in reality",
               "The eyes physically change shape when viewing an illusion",
               "Surrounding patterns and context can cause the brain to misjudge relative size",
-              "Light has no effect on how size is perceived"
+              "Differences in air temperature change the actual size of the shapes"
             ],
             "answer": 2
           },
@@ -45336,7 +45336,7 @@ const curriculum: DayContent[] = [
               "They reveal how the brain processes and sometimes misinterprets visual information",
               "Illusions only occur in printed photographs, never in real life",
               "Studying illusions provides no scientific insight of any kind",
-              "Optical illusions have no connection to how the brain works"
+              "Illusions occur only because of damage to the eye, not because of the brain"
             ],
             "answer": 0
           }
@@ -45396,7 +45396,7 @@ const curriculum: DayContent[] = [
               "That the CPR was built entirely without immigrant labour",
               "That railway work was always safe and well-paid",
               "The unequal treatment immigrant workers often faced despite their essential contributions to nation-building",
-              "That Chinese immigration had no connection to the CPR"
+              "That Chinese workers were paid higher wages than other workers"
             ],
             "answer": 2
           }
@@ -45459,7 +45459,7 @@ const curriculum: DayContent[] = [
             "q": "Why is recognizing circular structure a useful reading skill?",
             "options": [
               "It prevents a reader from understanding the plot",
-              "It has no effect on how a story can be interpreted",
+              "It shows that a story's ending is always a happy one",
               "It only applies to stories written before the twentieth century",
               "It helps readers see how an author uses repetition to emphasize a storys central meaning"
             ],
@@ -45641,7 +45641,7 @@ const curriculum: DayContent[] = [
               "It was demolished shortly after being completed",
               "It demonstrated advanced construction techniques and became internationally recognized as a Canadian landmark",
               "It was built entirely outside of Canada",
-              "It had no impact on how Canada was viewed internationally"
+              "It was built mainly as a military radio station"
             ],
             "answer": 1
           }
@@ -45684,7 +45684,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important to listen carefully to an opponents argument before writing a rebuttal?",
             "options": [
               "A rebuttal never needs to reference the opposing side",
-              "Listening has no effect on the quality of a rebuttal",
+              "Listening helps a debater prepare a longer speech but does not change what the rebuttal should address",
               "A rebuttal must accurately address the specific points the opponent actually made",
               "Debates do not allow any listening at all"
             ],
@@ -45816,7 +45816,7 @@ const curriculum: DayContent[] = [
               "Bright colouration that signals to predators that an animal may be toxic or dangerous",
               "Colouration used only to attract mates, never to warn predators",
               "A colour pattern found only in plants",
-              "Colouration that has no effect on predators at all"
+              "Dull colouration that helps an animal blend into its background"
             ],
             "answer": 0
           },
@@ -45826,7 +45826,7 @@ const curriculum: DayContent[] = [
               "They are found only in animals living in zoos",
               "They always make an animal more visible to predators",
               "They increase an individual animals chances of survival, making these traits more likely to be passed on",
-              "They have no connection to an animals survival"
+              "They are mainly used to attract mates rather than to avoid predators"
             ],
             "answer": 2
           }
@@ -45866,7 +45866,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Railways did not use clocks",
               "Trains had no problems with scheduling",
-              "Standard time was unrelated to railways",
+              "Railways ran on time zones set by the British Parliament",
               "Confusing and inconsistent local times made railway scheduling and safety difficult across long distances"
             ],
             "answer": 3
@@ -45886,7 +45886,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A failed idea that was never adopted",
               "A purely artistic Canadian invention with no practical use",
-              "An idea unrelated to transportation",
+              "A scheme to change Canada's calendar year",
               "Canadian innovation solving a real-world problem with global impact"
             ],
             "answer": 3
@@ -45951,7 +45951,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Satire and misinformation always have identical goals",
               "Misreading either one can lead to spreading false beliefs or missing an intended critique",
-              "This distinction has no effect on how information spreads",
+              "It lets readers assume that any humorous article is automatically accurate",
               "Only professional journalists need to make this distinction"
             ],
             "answer": 1
@@ -46040,9 +46040,9 @@ const curriculum: DayContent[] = [
             "q": "Why is searching for water on Mars important to scientists studying the possibility of life there?",
             "options": [
               "Mars is already known to be completely lifeless with certainty",
-              "Water has no connection to the possibility of life",
+              "Water is only important to life on Earth, not to any possible life elsewhere",
               "Water is considered essential for life as we understand it",
-              "Water searches are unrelated to any scientific goal"
+              "Water would be needed only to build future rockets, not to support life"
             ],
             "answer": 2
           },
@@ -46070,7 +46070,7 @@ const curriculum: DayContent[] = [
             "q": "Why does the possible presence of ancient water make Mars a major focus of space exploration?",
             "options": [
               "Water has never been detected anywhere on Mars",
-              "Mars is known to have no connection to questions about life",
+              "Ancient water proves that Mars once had complex animals",
               "It raises the possibility that Mars could have once supported simple forms of life",
               "Searching for water on Mars provides no scientific value"
             ],
@@ -46129,7 +46129,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the Confederation Bridge considered a significant piece of Canadian infrastructure?",
             "options": [
-              "It has no connection to Prince Edward Islands history with Confederation",
+              "It was built to connect Prince Edward Island to Newfoundland",
               "It was never actually completed",
               "It disconnected Prince Edward Island from the rest of Canada",
               "It provided Prince Edward Island with a permanent, reliable land connection to the rest of Canada"
@@ -46296,7 +46296,7 @@ const curriculum: DayContent[] = [
             "q": "In reverse osmosis, what does a special membrane do?",
             "options": [
               "Removes all molecules, including water, completely",
-              "Has no effect on water or salt at all",
+              "Evaporates the water so the salt is left behind",
               "Blocks water while allowing salt to pass through freely",
               "Blocks salt while allowing water molecules to pass through"
             ],
@@ -46589,7 +46589,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why was a promise to build the Intercolonial Railway important in convincing the Maritime colonies to join Confederation?",
             "options": [
-              "It was unrelated to Confederation negotiations",
+              "It was a promise to build a railway across the Prairies",
               "It promised to disconnect the Maritimes from Canada",
               "It offered better transportation links for trade and defence, addressing Maritime concerns about isolation",
               "It had no relation to Maritime concerns"
@@ -46669,7 +46669,7 @@ const curriculum: DayContent[] = [
               "Someone else's life story, not the writer's own",
               "An entire life story from birth to present",
               "One meaningful, specific moment rather than a whole life story",
-              "A completely unrelated topic"
+              "A list of every event that happened in the writer's school year"
             ],
             "answer": 2
           },
@@ -46716,7 +46716,7 @@ const curriculum: DayContent[] = [
             "q": "A perfect square is the result of ___.",
             "options": [
               "Any two different numbers added together",
-              "A concept unrelated to perfect squares",
+              "A whole number added to itself",
               "A whole number multiplied by itself",
               "A whole number divided by itself"
             ],
@@ -46745,7 +46745,7 @@ const curriculum: DayContent[] = [
             "q": "Heredity refers to ___.",
             "options": [
               "The passing of traits from parents to offspring",
-              "A process unrelated to living things",
+              "The process by which rocks change form over time",
               "A type of rock formation",
               "A type of weather pattern"
             ],
@@ -46873,7 +46873,7 @@ const curriculum: DayContent[] = [
               "The deeper meaning of a complex or abstract term",
               "A term with no meaningful complexity",
               "Only a simple dictionary definition",
-              "A completely unrelated topic"
+              "A list of facts about the history of a word's spelling"
             ],
             "answer": 0
           },
@@ -46920,7 +46920,7 @@ const curriculum: DayContent[] = [
             "q": "What does slope describe about a line?",
             "options": [
               "Its steepness",
-              "A concept unrelated to geometry",
+              "How far it is from the origin",
               "Its exact length",
               "Its colour"
             ],
@@ -47067,7 +47067,7 @@ const curriculum: DayContent[] = [
               "Is entirely without flaws",
               "Has a significant flaw that leads to their downfall",
               "Never experiences any hardship",
-              "Is a minor character with no impact on the plot"
+              "A villain who is defeated because of bad luck rather than any personal choice"
             ],
             "answer": 1
           },
@@ -47103,7 +47103,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Similar figures have side lengths that are ___.",
             "options": [
-              "Completely unrelated to each other",
+              "Equal to the sum of the other figure's sides",
               "Proportional to each other",
               "Impossible to compare",
               "Always identical in length"
@@ -47123,7 +47123,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What do we call extra money earned based on a percentage of an original amount?",
             "options": [
-              "A concept unrelated to money",
+              "A deposit",
               "Simple interest",
               "A discount",
               "A tax"
@@ -47172,7 +47172,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Density describes ___.",
             "options": [
-              "A concept unrelated to density",
+              "How much space an object takes up regardless of its mass",
               "The colour of an object",
               "How much mass is packed into a given volume",
               "How heavy an object feels when held"
@@ -47379,7 +47379,7 @@ const curriculum: DayContent[] = [
               "An acid",
               "Neutral",
               "A base",
-              "A term unrelated to the pH scale"
+              "A salt"
             ],
             "answer": 0
           },
@@ -47484,7 +47484,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Someone else’s beliefs and values",
               "Core beliefs and values",
-              "A completely unrelated topic",
+              "A list of rules that other people must follow",
               "A summary of unrelated facts"
             ],
             "answer": 1
@@ -47560,7 +47560,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Sustainable agriculture aims to ___.",
             "options": [
-              "Have no connection to environmental impact",
+              "Maximize crop yields by using as many chemical fertilizers as possible",
               "Ignore food production entirely",
               "Increase food production efficiency while minimizing environmental impact",
               "Maximize environmental harm with no consideration of efficiency"
@@ -47582,7 +47582,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Moves from one object or place to another",
               "Is destroyed completely with no trace",
-              "A concept unrelated to energy",
+              "Is created from nothing whenever an object moves",
               "Never moves or changes in any way"
             ],
             "answer": 0
@@ -47669,7 +47669,7 @@ const curriculum: DayContent[] = [
               "Never appears in the sentence at all",
               "Receives the action",
               "Performs the action",
-              "A concept unrelated to voice"
+              "Is placed at the end of the sentence after the word \"by\""
             ],
             "answer": 2
           },
@@ -47686,7 +47686,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An editorial or op-ed is written to ___.",
             "options": [
-              "A concept unrelated to this type of writing",
+              "Advertise a product or service to potential customers",
               "Report only neutral facts with no opinion at all",
               "Tell a completely fictional story",
               "Present a writer’s opinion on a current issue"
@@ -47766,7 +47766,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Layers of sediment are compressed over time",
               "Existing rock is transformed by heat and pressure alone",
-              "A process unrelated to igneous rock",
+              "Fossils are pressed into layers of mud",
               "Molten rock cools and solidifies"
             ],
             "answer": 3
@@ -47784,7 +47784,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does genetic engineering allow scientists to do?",
             "options": [
-              "A concept unrelated to biology",
+              "Change the weather conditions around an organism",
               "Only observe an organism from a distance",
               "Nothing at all related to genes",
               "Directly modify an organism’s genes"
@@ -47816,7 +47816,7 @@ const curriculum: DayContent[] = [
               "Western Canada",
               "Upper and Lower Canada",
               "The Maritime colonies",
-              "A region unrelated to the Rebellions of 1837-38"
+              "The Prairies and the North-West Territories"
             ],
             "answer": 1
           },
@@ -47834,7 +47834,7 @@ const curriculum: DayContent[] = [
             "q": "The Chinese Head Tax was a policy that required ___.",
             "options": [
               "Chinese immigrants to pay a fee to enter Canada",
-              "A policy unrelated to the Chinese Head Tax",
+              "Chinese immigrants to serve in the military",
               "All immigrants entering Canada to pay an equal fee",
               "Chinese immigrants to receive free passage to Canada"
             ],
@@ -47870,9 +47870,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A personal narrative essay recounts ___.",
             "options": [
-              "A concept unrelated to this type of writing",
+              "A researched report on a historical event the writer studied",
               "A meaningful experience from the writer’s own life",
-              "A completely fictional story with no connection to the writer",
+              "A scientific explanation of how something works",
               "Only factual, impersonal information with no story involved"
             ],
             "answer": 1
@@ -47892,7 +47892,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Triggering feelings, such as happiness or fear, to influence a decision",
               "Avoiding any connection to the audience’s emotions",
-              "A concept unrelated to advertising techniques",
+              "Using technical statistics and charts to prove a product's quality",
               "Presenting only neutral, unbiased facts with no persuasive intent"
             ],
             "answer": 0
@@ -47940,7 +47940,7 @@ const curriculum: DayContent[] = [
             "q": "A weighted average differs from a simple average because it ___.",
             "options": [
               "Ignores every value except the highest one",
-              "A concept unrelated to weighted averages",
+              "Uses only the middle value of the data set",
               "Accounts for the varying importance, or weight, of each value",
               "Treats every value in a data set with equal importance"
             ],
@@ -47968,7 +47968,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The periodic table organizes elements by ___.",
             "options": [
-              "A concept unrelated to the periodic table",
+              "The date each element was discovered",
               "Random order with no organizing pattern",
               "Increasing atomic number",
               "Alphabetical order of their names"
@@ -47988,7 +47988,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a lever?",
             "options": [
-              "A concept unrelated to simple machines",
+              "A simple machine made of a sloped surface that raises loads",
               "A tool used only for cutting",
               "A simple machine made of a rigid bar that pivots on a fulcrum",
               "A machine that only spins in circles"
@@ -48020,7 +48020,7 @@ const curriculum: DayContent[] = [
               "Never cooperate with one another on any issue",
               "Compete against each other militarily",
               "Support one another for collective defence and security",
-              "A concept unrelated to international alliances"
+              "Share resources equally through a world government"
             ],
             "answer": 2
           },
@@ -48039,7 +48039,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only North America",
               "The Middle East, North Africa, and southeastern Europe",
-              "A region unrelated to the Ottoman Empire",
+              "Scandinavia and the British Isles",
               "Only a single small city with no wider territory"
             ],
             "answer": 1
@@ -48076,7 +48076,7 @@ const curriculum: DayContent[] = [
             "options": [
               "An author hints at events that will happen later in the story",
               "A story never contains any hints about future events",
-              "A concept unrelated to foreshadowing",
+              "An author repeats the same sound at the start of several nearby words",
               "An author only describes events that already occurred"
             ],
             "answer": 0
@@ -48094,7 +48094,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A compare-and-contrast essay examines ___.",
             "options": [
-              "A concept unrelated to this essay type",
+              "How one subject changed over time from beginning to end",
               "Only the similarities between two subjects, with no differences",
               "A single subject with no comparison involved",
               "The similarities and differences between two subjects"
@@ -48144,7 +48144,7 @@ const curriculum: DayContent[] = [
             "q": "The mean of a data set is calculated by ___.",
             "options": [
               "Selecting only the highest value in the set",
-              "A concept unrelated to measures of central tendency",
+              "Subtracting the lowest value from the highest value",
               "Adding all the values and dividing by the number of values",
               "Selecting the value that appears most often"
             ],
@@ -48173,8 +48173,8 @@ const curriculum: DayContent[] = [
             "q": "A watershed is best described as ___.",
             "options": [
               "A structure built specifically to store drinking water",
-              "A single isolated pond with no connection to surrounding land",
-              "A concept unrelated to watersheds",
+              "An underground layer of rock that holds groundwater",
+              "A boundary line that separates two countries along a river",
               "An area of land where all water drains into a common river, lake, or ocean"
             ],
             "answer": 3
@@ -48193,7 +48193,7 @@ const curriculum: DayContent[] = [
             "q": "Groundwater is water that is stored ___.",
             "options": [
               "Beneath Earth’s surface in soil and rock",
-              "A concept unrelated to groundwater",
+              "Only in the atmosphere as water vapour",
               "Only in rivers and lakes above the surface",
               "Exclusively inside glaciers and ice caps"
             ],
@@ -48224,7 +48224,7 @@ const curriculum: DayContent[] = [
               "Louis Riel and the Métis",
               "British colonial troops",
               "John A. Macdonald and the federal government",
-              "A group unrelated to the Red River Resistance"
+              "The Hudson's Bay Company and the North-West Mounted Police"
             ],
             "answer": 0
           },
@@ -48243,7 +48243,7 @@ const curriculum: DayContent[] = [
             "options": [
               "1914",
               "1867",
-              "A year unrelated to the Canadian Pacific Railway",
+              "1905",
               "1885"
             ],
             "answer": 3
@@ -48281,7 +48281,7 @@ const curriculum: DayContent[] = [
               "A person’s skills, experience, and education",
               "A completely fictional account of a person’s life",
               "Only a person’s personal opinions with no factual information",
-              "A concept unrelated to resumes"
+              "A person's favourite hobbies and weekend activities"
             ],
             "answer": 0
           },
@@ -48300,7 +48300,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Never appears in everyday spoken or written language",
               "Cannot be understood from the literal definitions of its individual words",
-              "A concept unrelated to idioms",
+              "Is determined only by the first word in the phrase",
               "Is always identical to its literal, word-for-word meaning"
             ],
             "answer": 1
@@ -48329,7 +48329,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only a single numerical value with no variables",
               "Multiple variables, often representing a formula",
-              "A concept unrelated to literal equations",
+              "Variables that are always equal to zero",
               "No variables of any kind"
             ],
             "answer": 1
@@ -48347,7 +48347,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Two figures are congruent if they have ___.",
             "options": [
-              "A concept unrelated to congruence",
+              "Matching angles but sides of different lengths",
               "The same shape but different sizes",
               "Exactly the same size and shape",
               "The same size but different shapes"
@@ -48376,7 +48376,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Density is best described as ___.",
             "options": [
-              "A concept unrelated to density",
+              "The amount of space an object takes up",
               "The amount of mass contained in a given volume",
               "The temperature of an object’s surroundings",
               "The total weight of an object regardless of its size"
@@ -48396,7 +48396,7 @@ const curriculum: DayContent[] = [
           {
             "q": "On the pH scale, a value below 7 indicates ___.",
             "options": [
-              "A concept unrelated to the pH scale",
+              "A salt",
               "An acid",
               "A base",
               "A completely neutral substance"
@@ -48425,7 +48425,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The Industrial Revolution brought major changes to how ___.",
             "options": [
-              "A concept unrelated to this historical period",
+              "Farming methods and trade stayed almost the same as in the Middle Ages",
               "Countries interacted before any trade existed",
               "Goods were produced and how people lived and worked",
               "Ancient civilizations first began, thousands of years earlier"
@@ -48446,7 +48446,7 @@ const curriculum: DayContent[] = [
             "q": "The Indus Valley Civilization is known for its advanced ___.",
             "options": [
               "City planning, including organized streets and drainage systems",
-              "A concept unrelated to the Indus Valley Civilization",
+              "Large pyramid tombs built for pharaohs along the Nile",
               "Complete absence of any cities or towns",
               "Reliance on hunting and gathering, with no settled towns"
             ],
@@ -48504,7 +48504,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The emotional atmosphere a reader feels while reading",
               "The physical setting where a story takes place",
-              "A concept unrelated to mood",
+              "The central message or lesson a story teaches",
               "The exact number of characters in a story"
             ],
             "answer": 0
@@ -48534,7 +48534,7 @@ const curriculum: DayContent[] = [
               "The point exactly halfway between two given coordinates",
               "The slope of the line connecting two coordinates",
               "The total distance between two given coordinates",
-              "A concept unrelated to the midpoint formula"
+              "The coordinates of the point where the line crosses the y-axis"
             ],
             "answer": 0
           },
@@ -48551,7 +48551,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Prime factorization expresses a number as ___.",
             "options": [
-              "A concept unrelated to prime factorization",
+              "A quotient of two prime numbers",
               "A product of prime numbers",
               "A sum of consecutive integers",
               "The square root of the original number"
@@ -48601,7 +48601,7 @@ const curriculum: DayContent[] = [
             "q": "A load applied to a structure is best described as ___.",
             "options": [
               "A colour applied to the surface of a structure",
-              "A concept unrelated to structural load",
+              "The mass of the structure’s building materials only",
               "A force the structure must support or withstand",
               "A measurement of a structure’s height only"
             ],
@@ -48650,7 +48650,7 @@ const curriculum: DayContent[] = [
             "q": "The Klondike Gold Rush took place primarily in ___.",
             "options": [
               "Southern Ontario",
-              "A region unrelated to the Klondike Gold Rush",
+              "British Columbia's Fraser Valley",
               "The Yukon",
               "Nova Scotia"
             ],
@@ -48687,7 +48687,7 @@ const curriculum: DayContent[] = [
             "q": "Fact-checking involves ___.",
             "options": [
               "Sharing information immediately with no review",
-              "A concept unrelated to fact-checking",
+              "Correcting spelling and punctuation mistakes in an article",
               "Verifying claims against reliable, independent sources",
               "Accepting every claim without question"
             ],
@@ -48707,7 +48707,7 @@ const curriculum: DayContent[] = [
             "q": "An unreliable narrator is a storyteller whose ___.",
             "options": [
               "Credibility is compromised, requiring readers to question their account",
-              "A concept unrelated to unreliable narrators",
+              "Point of view is limited to describing only the setting",
               "Account is always completely accurate and trustworthy",
               "Perspective is identical to every other character in the story"
             ],
@@ -48719,7 +48719,7 @@ const curriculum: DayContent[] = [
               "persuade the reader to agree with an opinion",
               "walk the reader through steps in a clear, sequential order",
               "describe a character's emotional journey",
-              "compare two unrelated topics side by side"
+              "argue for one side of a debate using supporting evidence"
             ],
             "answer": 1
           }
@@ -48735,7 +48735,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A two-way table organizes data by ___.",
             "options": [
-              "A concept unrelated to two-way tables",
+              "Two numerical variables plotted on x- and y-axes",
               "A single variable displayed in one row only",
               "Numerical data with no categories involved",
               "Two categorical variables displayed in rows and columns"
@@ -48757,7 +48757,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The exact dollar amount of an item with no percentage involved",
               "A value that never changes regardless of price adjustments",
-              "A concept unrelated to percent change",
+              "The difference between two prices without comparing it to the original",
               "How much a value has increased or decreased relative to its original amount"
             ],
             "answer": 3
@@ -48784,7 +48784,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does the greenhouse effect do?",
             "options": [
-              "A concept unrelated to Earth science",
+              "Reflects all sunlight back into space",
               "Cools Earth’s surface rapidly",
               "Removes all heat from the atmosphere",
               "Traps heat from the sun near Earth’s surface"
@@ -48836,7 +48836,7 @@ const curriculum: DayContent[] = [
               "Widespread inequality and a financial crisis affecting the country",
               "An agreement between all social classes with no conflict",
               "A period with no economic or social problems at all",
-              "A concept unrelated to the French Revolution"
+              "A successful harvest that made food cheap and ended all unrest"
             ],
             "answer": 0
           },
@@ -48855,7 +48855,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A set of rules that apply only to elected officials",
               "A part of Canada’s Constitution that guarantees fundamental rights and freedoms",
-              "A concept unrelated to Canadian rights",
+              "A treaty signed between Canada and Britain in 1867 to create the country",
               "A document with no legal significance in Canada"
             ],
             "answer": 1
@@ -48892,7 +48892,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only reveals traits through a character’s actions",
               "Never describes a character in any way",
-              "A concept unrelated to direct characterization",
+              "Reveals traits through what other characters say about the character",
               "Explicitly states a character’s traits"
             ],
             "answer": 3
@@ -48912,7 +48912,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A subject, verb, or complete thought",
               "Only a title at the beginning",
-              "A concept unrelated to sentence fragments",
+              "Correct punctuation at the end",
               "A specific number of words"
             ],
             "answer": 0
@@ -48939,7 +48939,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does expected value represent?",
             "options": [
-              "A value that has no connection to probability",
+              "The outcome that is most likely to occur on the next trial",
               "The largest possible outcome in an experiment",
               "The average outcome of an experiment if it were repeated many times",
               "The single outcome that will always occur every time"
@@ -48959,7 +48959,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A line of best fit is used to ___.",
             "options": [
-              "A concept unrelated to lines of best fit",
+              "Calculate the mean of the x-values only",
               "Connect every single data point exactly with no approximation",
               "Approximate the overall trend shown in a scatter plot",
               "Remove all the data points from a scatter plot"
@@ -48991,7 +48991,7 @@ const curriculum: DayContent[] = [
               "Subtractive manufacturing",
               "Additive manufacturing",
               "Traditional casting",
-              "A concept unrelated to 3D printing"
+              "Injection moulding"
             ],
             "answer": 1
           },
@@ -49037,7 +49037,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What was the Space Race?",
             "options": [
-              "A concept unrelated to history",
+              "A rivalry between countries to build the longest railway network",
               "A modern car racing competition",
               "A sporting event held on the Moon",
               "A period of competition to achieve milestones in space exploration"
@@ -49059,7 +49059,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The growth of cities as more people move from rural areas",
               "The shrinking of cities over time",
-              "A concept unrelated to geography",
+              "The movement of people from cities to northern wilderness areas",
               "The growth of rural farmland only"
             ],
             "answer": 0
@@ -49116,7 +49116,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only the sounds of one single word",
               "The sounds and meanings of two existing words",
-              "A concept unrelated to vocabulary",
+              "The prefix and suffix of a single root word",
               "Two completely unrelated random sounds"
             ],
             "answer": 1
@@ -49192,7 +49192,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What builds a coral reef?",
             "options": [
-              "A concept unrelated to marine biology",
+              "Layers of volcanic ash",
               "Sand carried by ocean currents",
               "Large rocks that fall from cliffs",
               "Colonies of tiny coral organisms"
@@ -49212,7 +49212,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a watershed?",
             "options": [
-              "A body of water with no connection to surrounding land",
+              "A stretch of coastline where rivers meet the ocean",
               "A type of underground cave system",
               "A device used to measure rainfall",
               "An area of land where all surface water drains into a common body of water"
@@ -49244,7 +49244,7 @@ const curriculum: DayContent[] = [
               "Trade routes",
               "Only through modern air travel",
               "Religions have never spread anywhere",
-              "A concept unrelated to religious history"
+              "Armies of the Roman Empire forbidding travel between regions"
             ],
             "answer": 0
           },
@@ -49263,7 +49263,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A modern country in North America",
               "One of the largest empires in the ancient world, centred in ancient Persia",
-              "A concept unrelated to ancient history",
+              "A medieval kingdom based in western Europe",
               "A small city-state with no influence beyond its borders"
             ],
             "answer": 1
@@ -49299,7 +49299,7 @@ const curriculum: DayContent[] = [
             "q": "What does an op-ed rebuttal respond to?",
             "options": [
               "A math textbook",
-              "A concept unrelated to writing",
+              "A news report about a local event",
               "A recipe for baking bread",
               "Another published opinion piece"
             ],
@@ -49320,7 +49320,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A completely unedited, original recording",
               "A traditional printed newspaper article",
-              "A concept unrelated to media literacy",
+              "A satirical article written to entertain readers",
               "A digitally altered video or image"
             ],
             "answer": 3
@@ -49397,7 +49397,7 @@ const curriculum: DayContent[] = [
             "q": "What are bioplastics made from?",
             "options": [
               "Only metal and glass",
-              "A concept unrelated to materials science",
+              "Only synthetic fibres made from natural gas",
               "Renewable sources, such as corn starch or sugarcane",
               "Only petroleum, just like traditional plastic"
             ],
@@ -49446,7 +49446,7 @@ const curriculum: DayContent[] = [
             "q": "During which conflict were Japanese Canadians forcibly interned by the Canadian government?",
             "options": [
               "World War I",
-              "A concept unrelated to Canadian history",
+              "The Great Depression",
               "World War II",
               "The Cold War"
             ],
@@ -49621,7 +49621,7 @@ const curriculum: DayContent[] = [
             "q": "What is a volcano?",
             "options": [
               "An opening in Earth’s crust where molten rock, gas, and ash can escape",
-              "A concept unrelated to earth science",
+              "A fold in Earth’s crust formed when two plates collide",
               "A large flat area with no geological activity",
               "A type of cloud formation"
             ],
@@ -49708,8 +49708,8 @@ const curriculum: DayContent[] = [
             "options": [
               "A word that has existed unchanged for centuries",
               "A newly coined word or expression",
-              "A concept unrelated to vocabulary",
-              "A grammatical rule with no connection to words"
+              "A word borrowed from another language",
+              "A rule for forming the plural of a noun"
             ],
             "answer": 1
           },
@@ -49758,7 +49758,7 @@ const curriculum: DayContent[] = [
               "By subtracting the previous two numbers",
               "By multiplying the previous number by 2",
               "By adding the two numbers before it",
-              "A concept unrelated to the Fibonacci sequence"
+              "By dividing the previous number by the one before it"
             ],
             "answer": 2
           },
@@ -49778,7 +49778,7 @@ const curriculum: DayContent[] = [
               "The average of a set of numbers",
               "All possible outcomes of a multi-stage event",
               "Only a single outcome with no branches",
-              "A concept unrelated to probability"
+              "The mean of the outcomes at each stage"
             ],
             "answer": 1
           },
@@ -49854,7 +49854,7 @@ const curriculum: DayContent[] = [
             "q": "What government position did Clifford Sifton hold?",
             "options": [
               "Minister of the Interior",
-              "A concept unrelated to Canadian history",
+              "Minister of Finance",
               "Governor General",
               "Prime Minister"
             ],
@@ -49913,7 +49913,7 @@ const curriculum: DayContent[] = [
               "No",
               "Subordinate clauses never contain a subject or verb",
               "Yes, a subordinate clause is always a complete sentence on its own",
-              "A concept unrelated to grammar"
+              "Only if it is followed by a period"
             ],
             "answer": 0
           },
@@ -49932,7 +49932,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A recurring image, symbol, or idea in a text",
               "A single event that happens only once in a story",
-              "A concept unrelated to reading",
+              "The final sentence of a story",
               "The title of a book with no deeper meaning"
             ],
             "answer": 0
@@ -50010,7 +50010,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A single small cloud with no size at all",
               "A type of ocean current",
-              "A concept unrelated to earth science",
+              "A layer of the atmosphere that traps heat",
               "A large body of air with fairly uniform temperature and humidity"
             ],
             "answer": 3
@@ -50031,7 +50031,7 @@ const curriculum: DayContent[] = [
               "A type of external weather pattern",
               "An internal, roughly 24-hour biological clock",
               "A device used to measure temperature",
-              "A concept unrelated to biology"
+              "A seasonal migration pattern of animals"
             ],
             "answer": 1
           },
@@ -50115,7 +50115,7 @@ const curriculum: DayContent[] = [
             "q": "What is a memoir?",
             "options": [
               "A fictional story with invented characters and events",
-              "A concept unrelated to writing",
+              "A persuasive essay arguing for a change in policy",
               "A set of instructions for completing a task",
               "A nonfiction narrative in which a writer recounts personal experiences and reflects on their meaning"
             ],
@@ -50127,7 +50127,7 @@ const curriculum: DayContent[] = [
               "A word borrowed from another language and adopted into everyday use, such as \"kindergarten\" from German",
               "A word that has been shortened to make an acronym",
               "A word invented purely for advertising purposes",
-              "A grammatical term with no connection to vocabulary"
+              "A word whose meaning is the opposite of another word"
             ],
             "answer": 0
           },
@@ -50137,7 +50137,7 @@ const curriculum: DayContent[] = [
               "A question rather than a statement",
               "A completed action relative to another point in time",
               "An action that will never happen",
-              "A concept unrelated to grammar"
+              "A habitual action that happens every day"
             ],
             "answer": 1
           },
@@ -50232,7 +50232,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does the ozone layer absorb?",
             "options": [
-              "A concept unrelated to earth science",
+              "Most of the sun’s infrared heat",
               "All visible light from the sun",
               "Most of Earth’s oxygen supply",
               "Most of the sun’s harmful ultraviolet radiation"
@@ -50319,7 +50319,7 @@ const curriculum: DayContent[] = [
             "q": "What does setting refer to in a story?",
             "options": [
               "The main character’s personality traits",
-              "A concept unrelated to reading",
+              "The central message the author wants the reader to learn",
               "The title and author of a story",
               "The time and place in which a story occurs"
             ],
@@ -50340,7 +50340,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Reports only the most basic facts of a breaking event",
               "Lists a set of unrelated numerical statistics",
-              "A concept unrelated to writing",
+              "Argues for a position using only the writer's personal opinions",
               "Explores a topic, person, or event in greater depth than a straightforward news report"
             ],
             "answer": 3
@@ -50417,7 +50417,7 @@ const curriculum: DayContent[] = [
             "q": "Where does most of Earth’s internal geothermal heat come from?",
             "options": [
               "Wind currents in the atmosphere",
-              "A concept unrelated to earth science",
+              "Friction between ocean waves and the seabed",
               "The decay of radioactive elements",
               "Sunlight absorbed by the oceans"
             ],
@@ -50438,7 +50438,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No, bacteria are always made up of many cells",
               "Yes",
-              "A concept unrelated to biology",
+              "Only some bacteria, which are made of two cells",
               "Bacteria are never considered living organisms"
             ],
             "answer": 1
@@ -50523,7 +50523,7 @@ const curriculum: DayContent[] = [
             "q": "What defines a round character?",
             "options": [
               "A character who never appears more than once",
-              "A concept unrelated to reading",
+              "A character who stays the same throughout the story",
               "A complex, multidimensional character with a fully developed personality",
               "A character with no name given in the text"
             ],
@@ -50621,7 +50621,7 @@ const curriculum: DayContent[] = [
             "q": "What organ pumps blood through the circulatory system?",
             "options": [
               "The lungs",
-              "A concept unrelated to biology",
+              "The liver",
               "The heart",
               "The stomach"
             ],
@@ -51144,7 +51144,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In a story, what is the main role of an antagonist?",
             "options": [
-              "A minor character with no impact on the plot",
+              "A character who helps the protagonist reach their goal",
               "The author's stand-in in the story",
               "A character who opposes the protagonist and drives the central conflict",
               "The narrator who tells the story"
@@ -51747,7 +51747,7 @@ const curriculum: DayContent[] = [
             "q": "What does a cause and effect structure explain in a nonfiction text?",
             "options": [
               "The exact chronological order of unrelated events",
-              "A comparison between two unrelated topics",
+              "A description of a topic using the five senses",
               "Why an event happened and what resulted from it",
               "A list of characters and their traits"
             ],
@@ -52110,7 +52110,7 @@ const curriculum: DayContent[] = [
               "It expanded French-language instruction in all Ontario schools",
               "It restricted the use of French as a language of instruction in Ontario schools",
               "It created new French-only school boards across Canada",
-              "It had no impact on education in Ontario"
+              "It made French the only language of instruction in Ontario schools"
             ],
             "answer": 1
           },
@@ -52582,7 +52582,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does a problem-solution essay identify?",
             "options": [
-              "A random collection of unrelated topics",
+              "A summary of the plot of a short story",
               "A single sentence with no supporting explanation",
               "A list of characters from a novel",
               "A specific issue along with its causes and effects"
@@ -53807,7 +53807,7 @@ const curriculum: DayContent[] = [
             "q": "When evaluating a source for media literacy, why is it useful to know who published it?",
             "options": [
               "The publisher's background can reveal potential bias or purpose",
-              "It has no effect on how reliable the information is",
+              "It tells the reader whether the article is long enough to be accurate",
               "Only newspapers can be considered publishers",
               "Published sources are always completely neutral"
             ],
