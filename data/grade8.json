@@ -26783,6 +26783,7 @@
         "summary": "Grade 8 Language strand: a feature article is a piece of journalistic writing that explores a topic, person, or event in greater depth and with more creative style than a straightforward news report.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=J73dQIOa1h8",
         "quiz": [
           {
             "q": "What does a feature article do?",
@@ -26844,6 +26845,7 @@
         "resourceLabel": "YouTube: Laws of Exponents: Multiplying and Dividing Powers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Laws%20of%20Exponents%3A%20Multiplying%20and%20Dividing%20Powers%20grade%208%20educational",
         "topic": "Exponents & Powers",
+        "videoUrl": "https://www.youtube.com/watch?v=CZ5ne_mX5_I",
         "quiz": [
           {
             "q": "Simplify: 2^3 × 2^4",
@@ -26903,6 +26905,7 @@
         "summary": "Grade 8 Science strand: bacteria are single-celled living organisms that can reproduce independently, while viruses are not made of cells and can only reproduce by infecting and hijacking a host organism’s cells.",
         "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=mQZDyLtCu5E",
         "quiz": [
           {
             "q": "Are bacteria made up of a single cell?",
@@ -26962,6 +26965,17 @@
         "summary": "Grade 6 Social Studies strand review: students revisit the Chinese Head Tax, the Quebec referendums, the discovery of insulin, the Battle of Vimy Ridge, and the printing press.",
         "resourceLabel": "YouTube: Social Studies Review: Canadian History and World Innovations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Canadian%20History%20and%20World%20Innovations%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uu-uDSS0LOg",
+        "videoUrls": [
+          {
+            "label": "Quebec Referendums and Canadian National Unity",
+            "url": "https://www.youtube.com/watch?v=3oN-eej6f5Q"
+          },
+          {
+            "label": "The Battle of Vimy Ridge and Canadian Identity",
+            "url": "https://www.youtube.com/watch?v=-wx5zkmtDxE"
+          }
+        ],
         "quiz": [
           {
             "q": "What was the Chinese Head Tax?",

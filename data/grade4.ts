@@ -27777,6 +27777,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: when using more than one adjective before a noun, there is often a natural order, such as saying a big red ball rather than a red big ball.",
         "resourceLabel": "YouTube: Adjective Order: Which Word Comes First?",
         "resourceUrl": "https://www.youtube.com/results?search_query=Adjective%20Order%3A%20Which%20Word%20Comes%20First%3F%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qcOfYlMfDz0",
         "quiz": [
           {
             "q": "Which phrase uses correct adjective order?",
@@ -27837,6 +27838,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: people can pay for goods and services using cash, debit cards, or credit cards, and each method has its own advantages and things to keep track of.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=kQlf0apGUuA",
         "quiz": [
           {
             "q": "Name one way people can pay for goods besides cash.",
@@ -27897,6 +27899,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: pitch describes how high or low a sound is and depends on how fast an object vibrates, while volume describes how loud or soft a sound is and depends on the size of the vibration.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=9QSwD73ujPI",
         "quiz": [
           {
             "q": "What do we call the description of how high or low a sound is?",

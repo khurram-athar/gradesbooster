@@ -26834,6 +26834,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: effective interviewing involves preparing open-ended questions in advance, listening actively to responses, and asking thoughtful follow-up questions to gather detailed information from the person being interviewed.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=xCO5WoMJb-U",
         "quiz": [
           {
             "q": "What type of questions should be prepared in advance for an effective interview?",
@@ -26894,6 +26895,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: scaling a recipe means multiplying every ingredient amount by the same ratio to increase or decrease the number of servings while keeping the proportions the same.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=P_J2DlLMbvA",
         "quiz": [
           {
             "q": "What does it mean to scale a recipe?",
@@ -26954,6 +26956,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: many bird species migrate long distances each year to find better food sources and nesting conditions, using cues such as the position of the sun and stars, Earth’s magnetic field, and landmarks to navigate.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=jLzprmI1l20",
         "quiz": [
           {
             "q": "Why do many bird species migrate?",
@@ -27014,6 +27017,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the World Health Organization is an agency of the United Nations that works to coordinate international responses to health emergencies, promote disease prevention, and improve health outcomes worldwide.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=pDmZAR2ohbc",
         "quiz": [
           {
             "q": "What is the World Health Organization an agency of?",
