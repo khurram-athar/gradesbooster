@@ -3050,7 +3050,7 @@ const curriculum: DayContent[] = [
               "shared concerns despite differences",
               "all cultures are identical",
               "stories that work everywhere are identical",
-              "cultural context is irrelevant"
+              "cultural context only matters in non-fiction"
             ],
             "answer": 0
           }
@@ -3410,7 +3410,7 @@ const curriculum: DayContent[] = [
               "evolution can occur without genetic change",
               "evolution is, at the molecular level, change in allele frequencies over time",
               "mutations only matter for individual organisms",
-              "genetics is not relevant to populations"
+              "genetics only explains traits in individual organisms"
             ],
             "answer": 1
           },
@@ -3714,7 +3714,7 @@ const curriculum: DayContent[] = [
               "decrease the Keq",
               "shift equilibrium toward C and D",
               "shift equilibrium to the left",
-              "have no effect"
+              "decrease the concentration of C and D"
             ],
             "answer": 1
           },
@@ -5145,7 +5145,7 @@ const curriculum: DayContent[] = [
             "q": "Habitat corridors are important for conservation because ___.",
             "options": [
               "they connect fragmented habitat patches",
-              "corridors have no effect on genetic diversity",
+              "they reduce the need to protect each patch",
               "all species can survive in isolated patches indefinitely",
               "they eliminate the need for large reserves"
             ],
@@ -6888,7 +6888,7 @@ const curriculum: DayContent[] = [
               "causes competitive exclusion",
               "only affects one prey species",
               "stabilises the ecosystem",
-              "has no effect"
+              "increases the stability of the food web"
             ],
             "answer": 0
           },
@@ -7132,7 +7132,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Biology's greatest lesson for your generation is ___.",
             "options": [
-              "that biodiversity doesn't matter economically",
+              "that biodiversity is only important for tourism",
               "that nature is separate from human society",
               "that humans are biological organisms embedded in and dependent on living systems",
               "that technology will solve all biological challenges"
@@ -7556,7 +7556,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important to identify the domain restrictions for each piece of a piecewise function?",
             "options": [
               "A piecewise function has no domain restrictions at all",
-              "Domain restrictions have no effect on how a piecewise function is evaluated",
+              "Domain restrictions only change the units of the answer",
               "Every piece of the function applies across the entire domain",
               "Each expression only applies within its specified interval"
             ],
@@ -7618,7 +7618,7 @@ const curriculum: DayContent[] = [
             "options": [
               "White blood cells that identify and attack foreign invaders",
               "Structures that only respond to physical injury",
-              "Cells that have no role in fighting disease",
+              "Platelets that only help blood clot after an injury",
               "Enzymes that break down nutrients before they can be absorbed"
             ],
             "answer": 0
@@ -7626,7 +7626,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a vaccine help the immune system respond more effectively to a future infection?",
             "options": [
-              "Vaccines have no effect on how the immune system responds",
+              "Vaccines work by directly killing every virus in the body",
               "The immune system never learns to recognize new pathogens",
               "It exposes the immune system to a harmless form of a pathogen, helping it recognize the real one later",
               "It permanently removes the pathogen's genetic material from the body"
@@ -7826,7 +7826,7 @@ const curriculum: DayContent[] = [
               "Degree measure is always the only appropriate choice in advanced mathematics",
               "Radian measure simplifies many mathematical relationships involving circular and periodic functions",
               "Radian measure has no advantages over degree measure in any context",
-              "This distinction has no relevance to how angles are used in mathematics"
+              "Radians are used only in measuring distances on maps"
             ],
             "answer": 1
           }
@@ -7915,7 +7915,7 @@ const curriculum: DayContent[] = [
           {
             "q": "VSEPR theory is based on the idea that electron pairs around a central atom ___.",
             "options": [
-              "Have no effect on a molecule’s shape",
+              "Always attract each other to form bonds",
               "Always attract each other with no repulsion involved",
               "Never influence how a molecule is arranged",
               "Repel each other and arrange themselves to minimize this repulsion"
@@ -8046,7 +8046,7 @@ const curriculum: DayContent[] = [
               "All possible solutions are always valid for a rational equation",
               "Rational equations never have any restricted values",
               "A solution that makes any original denominator equal to zero must be excluded",
-              "Restrictions have no effect on the solutions of a rational equation"
+              "Restrictions only apply to the numerators of the equation"
             ],
             "answer": 2
           },
@@ -8127,7 +8127,7 @@ const curriculum: DayContent[] = [
               "All biomes have identical climate conditions, resulting in similar organisms",
               "Organisms evolve adaptations suited to the specific climate and conditions of their biome",
               "Species migrate randomly between biomes until diversity evens out",
-              "Biomes have no influence on the types of organisms found within them"
+              "Biomes are determined by the number of species they contain"
             ],
             "answer": 1
           },
@@ -8135,7 +8135,7 @@ const curriculum: DayContent[] = [
             "q": "Why is studying global biomes important for understanding the impact of climate change?",
             "options": [
               "Because it mainly helps predict short-term weather, not long-term change",
-              "This topic has no relevance to environmental science",
+              "Biomes are only useful for classifying soil types",
               "Because biome boundaries are determined solely by soil type, not climate",
               "Changes in climate can significantly alter the conditions that define and support each biome"
             ],
@@ -8175,7 +8175,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A catalyst affects a reaction’s rate by ___.",
             "options": [
-              "Having no effect on the reaction whatsoever",
+              "Increasing the temperature of the reaction mixture",
               "Increasing the amount of reactants needed",
               "Providing an alternative pathway with lower activation energy",
               "Being consumed completely during the reaction"
@@ -8253,7 +8253,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding advanced syntax valuable for a writer aiming for a specific tone or effect?",
             "options": [
               "Advanced syntax should always be avoided in effective writing",
-              "Sentence structure has no influence on how a piece of writing is received",
+              "Sentence structure only matters for grammar checking",
               "Syntax matters only in poetry, not in prose",
               "Deliberate sentence choices can reinforce the emotional or rhetorical impact of the writing"
             ],
@@ -8376,7 +8376,7 @@ const curriculum: DayContent[] = [
               "Only the digestive system is affected by changes in water balance",
               "The body never needs to regulate its water balance",
               "Imbalances can affect cell function and the concentration of substances in the blood",
-              "This concept has no relevance to homeostasis"
+              "It only matters during intense exercise"
             ],
             "answer": 2
           },
@@ -8443,7 +8443,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful to understand that colligative properties depend on particle count rather than particle identity?",
             "options": [
-              "This distinction has no relevance to predicting solution properties",
+              "It lets us predict only the colour of the solution",
               "Colligative properties are always identical regardless of particle count",
               "Only certain specific solutes ever affect colligative properties",
               "It helps predict how different solutes will affect properties like freezing and boiling points based on concentration"
@@ -8594,7 +8594,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Primarily the production of new blood cells",
               "Structure, support, and the ability to move",
-              "Only protection, with no role in movement",
+              "Only protection and blood cell production",
               "No structural support of any kind"
             ],
             "answer": 1
@@ -8625,7 +8625,7 @@ const curriculum: DayContent[] = [
               "It also protects internal organs and plays a role in processes like blood cell production",
               "The skeletal system has no function beyond supporting movement",
               "Bones primarily function to store excess fat for energy",
-              "This system has no role in any bodily process besides movement"
+              "It mainly serves to digest the nutrients in food"
             ],
             "answer": 0
           },
@@ -8634,7 +8634,7 @@ const curriculum: DayContent[] = [
             "options": [
               "This knowledge has no practical, real-world application",
               "Physiotherapy never involves an understanding of muscles or bones",
-              "These systems have no relevance to physiotherapy or injury treatment",
+              "These systems are studied only in veterinary science",
               "It helps professionals diagnose and treat injuries or conditions affecting movement and structure"
             ],
             "answer": 3
@@ -8696,7 +8696,7 @@ const curriculum: DayContent[] = [
               "This concept only applies to purely theoretical chemistry",
               "Different isomers of the same drug can sometimes have significantly different effects on the body",
               "All isomers of a compound always behave identically in the body",
-              "Isomerism has no relevance to how pharmaceuticals function"
+              "Isomers always have a different number of atoms"
             ],
             "answer": 1
           }
@@ -8731,7 +8731,7 @@ const curriculum: DayContent[] = [
             "q": "Why is quick critical thinking important for effective impromptu speaking?",
             "options": [
               "It helps the speaker organize their thoughts and respond coherently under time pressure",
-              "Critical thinking has no role in impromptu speaking",
+              "Quick thinking is needed only to memorize a speech",
               "Impromptu speeches require no organization of thought at all",
               "This skill is only relevant to prepared, scripted speeches"
             ],
@@ -8762,7 +8762,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It requires the speaker to genuinely evaluate and form a thoughtful position on the topic",
               "A response can be effective with no actual evaluation of the topic",
-              "Critical response has no role in impromptu speaking",
+              "It is needed only when preparing a written speech",
               "Critical response is only necessary in formal debate competitions"
             ],
             "answer": 0
@@ -8865,7 +8865,7 @@ const curriculum: DayContent[] = [
               "Different genes are needed for different cell functions or at different developmental stages",
               "Every cell contains a completely different set of genes",
               "All genes in every cell are always expressed identically at all times",
-              "This concept has no relevance to how cells function"
+              "Genes that are not expressed are removed from the cell"
             ],
             "answer": 0
           },
@@ -8885,7 +8885,7 @@ const curriculum: DayContent[] = [
               "Cancer results only from external toxins, never from gene activity",
               "Abnormal gene expression can contribute to uncontrolled cell growth seen in cancer",
               "Cancer research never considers how genes are expressed or regulated",
-              "This concept has no relevance to understanding disease"
+              "Gene regulation is relevant only to plant biology"
             ],
             "answer": 1
           }
@@ -8991,7 +8991,7 @@ const curriculum: DayContent[] = [
             "q": "Why is a distinctive voice important in a personal essay?",
             "options": [
               "Voice matters only in fiction, not personal essays",
-              "A distinctive voice has no role in personal essay writing",
+              "Voice is determined by the essay's length",
               "All personal essays should sound identical, with no unique voice",
               "It reflects the writer’s unique perspective, making the essay feel authentic"
             ],
@@ -9114,7 +9114,7 @@ const curriculum: DayContent[] = [
             "options": [
               "This type of information is never considered sensitive",
               "Genetic test results are always publicly available by law",
-              "Privacy concerns have no relevance to genetic testing",
+              "Genetic tests are used only to determine eye colour",
               "Genetic information can reveal sensitive details about a person’s health and even their family members"
             ],
             "answer": 3
@@ -9122,7 +9122,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is informed consent important before someone undergoes genetic testing?",
             "options": [
-              "Consent has no relevance to genetic testing procedures",
+              "Consent is only needed to pay for genetic testing",
               "It ensures the individual understands the potential implications of the test results",
               "Consent is only required for testing done on minors",
               "Genetic testing never requires any form of consent"
@@ -9262,7 +9262,7 @@ const curriculum: DayContent[] = [
               "A well-developed alternative world can make the story’s themes and ideas more compelling and believable",
               "Authors of speculative fiction never need to develop a story’s setting",
               "World-building matters only for a book's cover art",
-              "This skill has no relevance to this genre of writing"
+              "World-building is needed only for historical fiction"
             ],
             "answer": 0
           }
@@ -9311,7 +9311,7 @@ const curriculum: DayContent[] = [
             "q": "Why must a function be one-to-one for its inverse to also be a function?",
             "options": [
               "Every function automatically has an inverse that is also a function",
-              "This property has no relevance to determining whether an inverse exists",
+              "Inverse functions exist only for linear equations",
               "A one-to-one function is always identical to its own inverse",
               "A one-to-one function ensures each output corresponds to exactly one input, which the inverse relationship requires"
             ],
@@ -9571,7 +9571,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It builds flexibility in manipulating trigonometric expressions in different problem-solving contexts",
               "Each new identity replaces the ones learned before it",
-              "This skill has no relevance to more complex mathematical applications",
+              "It is needed only for graphing sine and cosine",
               "Trigonometric identities are never useful beyond simple, isolated proofs"
             ],
             "answer": 0
@@ -9632,8 +9632,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Plants have no need to respond to their environment in any way",
               "These responses help plants orient themselves for optimal growth and resource access",
-              "Environmental stimuli have no effect on how plants grow",
-              "This concept has no relevance to plant survival"
+              "Environmental stimuli only influence a plant's flower colour",
+              "Plants respond to stimuli only during winter dormancy"
             ],
             "answer": 1
           }
@@ -9653,8 +9653,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Harmful ultraviolet radiation",
               "Excess oxygen in the atmosphere",
-              "Infrared radiation exclusively, with no effect on ultraviolet levels",
-              "Cosmic rays exclusively, with no effect on ultraviolet exposure"
+              "Sulfur dioxide pollution from industrial smoke",
+              "Excess carbon dioxide in the lower atmosphere"
             ],
             "answer": 0
           },
@@ -9663,7 +9663,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Releasing heat completely out of the atmosphere",
               "Reflecting all incoming sunlight back into space before it reaches Earth",
-              "Having no effect on atmospheric temperature",
+              "Converting carbon dioxide directly into oxygen",
               "Trapping heat in the atmosphere"
             ],
             "answer": 3
@@ -9681,7 +9681,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why has the depletion of the ozone layer been a significant environmental concern?",
             "options": [
-              "This concern has no relevance to environmental chemistry",
+              "Reduced ozone causes more acid rain to fall on cities",
               "Reduced ozone allows more harmful ultraviolet radiation to reach Earth’s surface",
               "It has caused a permanent decrease in Earth's average temperature",
               "The ozone layer has no protective function for Earth"
@@ -10004,7 +10004,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a playwright present a universe as “indifferent” or “absurd” in an existentialist work?",
             "options": [
               "This portrayal always removes any depth from a play",
-              "Absurdity has no role in this genre of drama",
+              "Absurdity is used only to make the plot easier to predict",
               "An indifferent universe is used only for comic effect",
               "To highlight a character’s struggle to create meaning despite a lack of inherent purpose"
             ],
@@ -10035,7 +10035,7 @@ const curriculum: DayContent[] = [
             "options": [
               "This genre of drama has no lasting significance",
               "These questions were only relevant during a specific historical period",
-              "Existentialist themes have no relevance to modern audiences",
+              "Existentialist plays deal only with questions about political systems",
               "Questions about purpose and meaning remain universally significant to human experience"
             ],
             "answer": 3
@@ -10134,7 +10134,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why are nutrient cycles important for sustaining life on Earth?",
             "options": [
-              "This concept has no relevance to ecosystem health",
+              "They mainly control the movement of tectonic plates",
               "Nutrient cycles mainly affect weather patterns, not living organisms",
               "These cycles serve no biological purpose",
               "They ensure essential elements remain available for use by living organisms over time"
@@ -10154,7 +10154,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might human activities, such as burning fossil fuels, disrupt natural nutrient cycles?",
             "options": [
-              "Human activities have no effect on natural nutrient cycles",
+              "Burning fossil fuels mainly adds oxygen to the atmosphere",
               "Nutrient cycles are entirely unaffected by any external factors",
               "Fossil fuel burning only affects the nitrogen cycle, not carbon",
               "They can release stored carbon at a rate faster than natural processes can absorb it"
@@ -10194,7 +10194,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a substance with stronger intermolecular forces generally have a higher boiling point?",
             "options": [
-              "Intermolecular forces have no effect on a substance’s boiling point",
+              "Stronger forces only affect a substance's colour and odour",
               "Stronger intermolecular forces increase a substance's density, which directly raises its boiling point",
               "Boiling point is determined entirely by atomic mass, with no other factors",
               "More energy is required to overcome the stronger attractions between molecules"
@@ -10254,7 +10254,7 @@ const curriculum: DayContent[] = [
               "Logic always weakens the emotional impact of an argument",
               "An op-ed should avoid using any reasoning or evidence",
               "Sound reasoning strengthens the credibility and persuasiveness of the piece",
-              "Logical reasoning has no role in persuasive writing"
+              "Reasoning is used only in scientific lab reports"
             ],
             "answer": 2
           },
@@ -10272,7 +10272,7 @@ const curriculum: DayContent[] = [
             "q": "Which is an example of an appropriate topic for a public argument in an op-ed?",
             "options": [
               "A current policy debate affecting the community",
-              "A subject with no relevance to readers at all",
+              "A topic from a distant historical era that no one debates",
               "A recipe for a personal family dish",
               "A purely factual, non-debatable topic"
             ],
@@ -10394,7 +10394,7 @@ const curriculum: DayContent[] = [
             "q": "Why might environmental factors also influence traits controlled by polygenic inheritance?",
             "options": [
               "Environmental factors can permanently alter an organism's DNA sequence",
-              "Environmental factors have no effect on polygenic traits",
+              "Environmental factors change only the number of chromosomes",
               "Environmental conditions, alongside genetics, can affect how a continuous trait is ultimately expressed",
               "Polygenic traits are influenced only by genetics, with no other factors involved"
             ],
@@ -10405,7 +10405,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Polygenic traits are controlled by genes located on a single chromosome only",
               "Multiple genes interacting make it harder to predict exact outcomes for offspring",
-              "Multiple genes have no effect on the complexity of inheritance patterns",
+              "Multiple genes always produce exactly two distinct phenotypes",
               "Polygenic inheritance is always simpler to study than single-gene traits"
             ],
             "answer": 1
@@ -10466,7 +10466,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Medical treatments never involve any use of radioactive isotopes",
               "It helps determine safe and effective dosages and timing for treatment",
-              "Half-life has no relevance to medical treatments",
+              "Half-life is used only to measure the age of fossils",
               "This concept only applies to purely theoretical chemistry"
             ],
             "answer": 1
@@ -10623,7 +10623,7 @@ const curriculum: DayContent[] = [
             "q": "Which is an example of a lifestyle factor that might influence cardiovascular disease risk?",
             "options": [
               "Diet and physical activity level",
-              "A factor with no relevance to cardiovascular health",
+              "The colour of a person's clothing",
               "Age alone, since younger people are never at risk of heart disease",
               "The number of hours spent reading each week"
             ],
@@ -10634,7 +10634,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Physical activity mainly affects muscle mass, not heart function",
               "Exercise always increases the risk of cardiovascular disease",
-              "This factor has no relevance to disease prevention",
+              "Exercise mainly affects the digestive system",
               "It can strengthen the heart and improve overall circulatory efficiency"
             ],
             "answer": 3
@@ -10653,7 +10653,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding the cardiovascular system valuable for making informed health decisions?",
             "options": [
               "This knowledge provides no useful, practical benefit",
-              "The cardiovascular system has no relevance to overall health",
+              "The cardiovascular system only matters during exercise",
               "It can help individuals recognize how their choices affect their long-term heart health",
               "This knowledge is useful only for medical professionals, never individuals"
             ],
@@ -10880,7 +10880,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the decomposition process carried out by fungi important for an ecosystem?",
             "options": [
-              "This process has no relevance to ecosystem health",
+              "Fungi mainly help animals digest their food",
               "Fungi provide no meaningful ecological benefit",
               "It recycles nutrients back into the ecosystem, making them available for other organisms",
               "Decomposition mainly affects soil colour, not nutrient content"
@@ -10953,7 +10953,7 @@ const curriculum: DayContent[] = [
               "These functional groups help determine the structure and function of important biological compounds",
               "Esters and amides are never found in naturally occurring molecules",
               "Functional groups only matter in laboratory-synthesized molecules, not natural ones",
-              "This concept has no relevance to studying biology or biochemistry"
+              "Esters and amides are found only in metals"
             ],
             "answer": 0
           },
@@ -10962,7 +10962,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They form the basis of the peptide bonds that link amino acids together to form proteins",
               "Amide bonds are only found in carbohydrates, not in proteins",
-              "This concept has no relevance to biological chemistry",
+              "Amide bonds mainly join glucose molecules into starch",
               "Proteins are never formed using any type of chemical bond"
             ],
             "answer": 0
@@ -11128,7 +11128,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might genetic drift have a more significant impact on small populations than on large ones?",
             "options": [
-              "This concept has no relevance to understanding population genetics",
+              "Small populations are less affected because mutations are more frequent",
               "Larger populations always experience more genetic drift than smaller ones",
               "Genetic drift affects large and small populations in an identical way",
               "Random changes in allele frequency tend to have a proportionally greater effect in smaller populations"
@@ -11140,7 +11140,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The founder effect always increases genetic diversity in a new population",
               "Only a limited sample of the original population’s genetic variation is carried forward",
-              "This concept has no relevance to evolutionary biology",
+              "Founder populations always carry more alleles than the original population",
               "New populations always regain full genetic diversity within one generation"
             ],
             "answer": 1
@@ -11148,7 +11148,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why are genetic drift and the founder effect important concepts for understanding evolutionary change?",
             "options": [
-              "This topic has no relevance to studying biology",
+              "Genetic drift only occurs in populations larger than a million individuals",
               "They illustrate how chance events, not just natural selection, can shape a population’s genetic makeup over time",
               "Evolution occurs exclusively through natural selection, with no other contributing factors",
               "These concepts apply only to plant populations, never animals"
@@ -11329,7 +11329,7 @@ const curriculum: DayContent[] = [
               "Vectors never involve any directional component",
               "A scalar and a vector are always identical to one another",
               "It provides crucial information about which way a quantity is acting, not just how much",
-              "Direction has no relevance to how a vector is used or interpreted"
+              "Direction only matters for scalar quantities like mass"
             ],
             "answer": 2
           },
@@ -11389,7 +11389,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Coordinated group behaviour can improve outcomes like finding food or avoiding predators",
               "Social structures provide no benefit to a species’ survival",
-              "This concept has no relevance to understanding animal behaviour",
+              "Cooperative behaviour mainly increases competition for food",
               "Social structures form only after communication abilities are lost"
             ],
             "answer": 0
@@ -11400,7 +11400,7 @@ const curriculum: DayContent[] = [
               "It can reveal how species adapt and interact within their environments and social groups",
               "Communication patterns in animals provide no useful scientific insight",
               "Animal communication patterns remain identical across all species and environments",
-              "This topic has no relevance to biology as a field of study"
+              "Animal communication only matters for pet owners"
             ],
             "answer": 0
           }
@@ -11568,7 +11568,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Flip the graph across the y-axis",
               "Change the type of function entirely",
-              "Have no effect on the graph at all",
+              "Move the graph up by the same amount",
               "Only move the graph vertically"
             ],
             "answer": 0
@@ -11650,7 +11650,7 @@ const curriculum: DayContent[] = [
               "New discoveries continue to expand understanding of stem cells’ potential applications",
               "This field of research has remained completely unchanged over time",
               "Stem cell research reached its final conclusions decades ago",
-              "This topic has no relevance to modern biological research"
+              "Stem cell research is limited to plant biology"
             ],
             "answer": 0
           }
@@ -11888,7 +11888,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A larger surface area mainly helps produce more mucus, not gas exchange",
               "Gas exchange never depends on the surface area of the lungs",
-              "This concept has no relevance to respiratory function",
+              "A larger surface area slows the movement of gases",
               "It allows for a greater area over which oxygen and carbon dioxide can be exchanged"
             ],
             "answer": 3
@@ -11896,7 +11896,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might understanding the respiratory system be relevant to studying diseases like asthma?",
             "options": [
-              "Diseases like asthma have no relevance to studying human physiology",
+              "Asthma is caused mainly by bacteria in the stomach",
               "It helps explain how conditions affecting the airways or lungs can impair effective gas exchange",
               "Asthma primarily affects the digestive system, not the lungs",
               "This knowledge provides no useful understanding of respiratory conditions"
@@ -12015,7 +12015,7 @@ const curriculum: DayContent[] = [
             "options": [
               "This technique always makes a story less engaging or effective",
               "It can create suspense, complexity, or deeper thematic exploration by challenging readers’ assumptions",
-              "Unreliable narrators have no impact on a reader’s experience of a story",
+              "Unreliable narrators always reveal the full truth in the first chapter",
               "This narrative choice serves no meaningful literary purpose"
             ],
             "answer": 1
@@ -12127,7 +12127,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Invasive species often disrupt local ecosystems by ___.",
             "options": [
-              "Having no effect on the native species in an ecosystem",
+              "Producing food that native species depend on",
               "Forming symbiotic relationships that strengthen native species",
               "Only benefiting native species with no negative impact",
               "Outcompeting native species for resources"
@@ -12147,10 +12147,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the introduction of invasive species considered a significant conservation concern?",
             "options": [
-              "Invasive species have no impact on conservation efforts",
+              "Invasive species mainly increase the number of native predators",
               "The introduction of new species always benefits an ecosystem with no drawbacks",
               "It can lead to declines in native species populations and disrupt ecosystem balance",
-              "This concept has no relevance to studying ecosystems"
+              "Invasive species only affect plants grown in gardens"
             ],
             "answer": 2
           },
@@ -12209,7 +12209,7 @@ const curriculum: DayContent[] = [
             "q": "Why is balancing efficiency and environmental impact an important consideration in industrial chemistry?",
             "options": [
               "Efficiency and environmental impact are always perfectly aligned, with no trade-offs",
-              "This balance has no relevance to real-world chemical production",
+              "Industrial chemists focus only on packaging rather than reactions",
               "Industrial processes never need to consider environmental impact",
               "Processes need to remain practical and cost-effective while also minimizing harm to the environment"
             ],
@@ -12695,7 +12695,7 @@ const curriculum: DayContent[] = [
               "The lymphatic system replaces the cardiovascular system entirely in some people",
               "The two systems work closely together to circulate fluid and maintain the body’s internal balance",
               "These two systems function in complete isolation from one another",
-              "This knowledge has no relevance to human physiology"
+              "The lymphatic system only functions in the lungs"
             ],
             "answer": 1
           }
@@ -12932,7 +12932,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a cell placed in a hypertonic solution lose water through osmosis?",
             "options": [
               "Water always moves toward the lower solute concentration in this situation",
-              "Hypertonic solutions have no effect on water movement",
+              "Water moves out because the cell membrane is permeable only to solutes",
               "Water moves toward the higher solute concentration outside the cell",
               "Cells never lose water regardless of the surrounding solution"
             ],
@@ -12942,7 +12942,7 @@ const curriculum: DayContent[] = [
             "q": "Why is active transport essential for cells that need to move substances against their concentration gradient?",
             "options": [
               "Substances can never move against a concentration gradient under any circumstances",
-              "This process has no relevance to cell function",
+              "Active transport only moves water across the membrane",
               "Active transport only works when concentrations are already equal on both sides",
               "It allows a cell to accumulate substances even when they are already more concentrated inside the cell"
             ],
@@ -13544,7 +13544,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which is an example of a potential consequence of algorithmic bias on a media platform?",
             "options": [
-              "Algorithms having no effect on which content becomes popular",
+              "Algorithms deleting all content that gets a lot of views",
               "A user being repeatedly shown content that reinforces their existing beliefs",
               "A platform experiencing a temporary server outage",
               "Every user seeing an identical, unbiased selection of content"
@@ -13557,7 +13557,7 @@ const curriculum: DayContent[] = [
               "This skill matters only for professional data analysts",
               "Recommended content is always presented with no underlying algorithmic influence",
               "It helps individuals recognize when their information may be shaped by an algorithm rather than by balanced coverage",
-              "Media literacy has no relevance to how algorithms curate content"
+              "Algorithms only affect websites that sell products"
             ],
             "answer": 2
           },
@@ -13566,7 +13566,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It can influence public opinion and limit exposure to diverse perspectives at a large scale",
               "Algorithmic bias has no meaningful impact on public opinion",
-              "Media platforms have no influence on public discourse",
+              "Platforms only influence what users watch, not what they believe",
               "Because algorithmic bias only affects entertainment, not news"
             ],
             "answer": 0
@@ -13687,7 +13687,7 @@ const curriculum: DayContent[] = [
             "q": "Why might sweating be considered an example of the skin’s role in temperature regulation?",
             "options": [
               "Sweating always raises the body’s internal temperature instead of lowering it",
-              "The skin plays no role in maintaining a stable internal temperature",
+              "Sweat glands only produce oils that waterproof the skin",
               "The evaporation of sweat from the skin’s surface helps cool the body down",
               "Sweating primarily removes toxins rather than affecting temperature"
             ],
@@ -13747,7 +13747,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why are amines considered important in biological molecules, such as amino acids and neurotransmitters?",
             "options": [
-              "This concept has no relevance to biochemistry",
+              "Amines are mainly responsible for storing genetic information as sugars",
               "Amino acids and neurotransmitters never contain nitrogen",
               "Amines are important only in synthetic drugs, never in naturally occurring molecules",
               "The nitrogen-containing amine group contributes to the structure and function of these essential molecules"
@@ -13935,9 +13935,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is antibiotic resistance considered a significant concern for public health?",
             "options": [
-              "Antibiotic resistance has no impact on how infections are treated",
+              "Antibiotic resistance only affects people who take antibiotics for the first time",
               "Resistant bacteria are always easier to treat than non-resistant bacteria",
-              "This concept has no relevance to public health",
+              "Resistance mainly affects the cost of medical equipment",
               "It can make common bacterial infections increasingly difficult to treat effectively"
             ],
             "answer": 3
@@ -13988,7 +13988,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Emulsions never require any additional ingredient to remain stable",
               "Emulsifying agents work by evaporating one of the two liquids",
-              "Emulsifying agents have no effect on the stability of a mixture",
+              "Emulsifying agents make the two liquids separate faster",
               "An emulsifier helps keep the two normally immiscible liquids evenly dispersed rather than separating"
             ],
             "answer": 3
@@ -14055,7 +14055,7 @@ const curriculum: DayContent[] = [
               "A speaker’s appeals are often shaped specifically to resonate with that audience’s values and concerns",
               "Audience only matters for written speeches, not spoken ones",
               "Every historical speech is written with no audience in mind at all",
-              "The intended audience has no influence on a speaker’s rhetorical choices"
+              "Audience matters only for the speech's length"
             ],
             "answer": 0
           },
@@ -14064,7 +14064,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They build skills in recognizing persuasive techniques used in both historical and contemporary communication",
               "Rhetorical analysis is only useful for studying speeches, with no broader application",
-              "This skill has no relevance to understanding modern communication",
+              "This skill is useful only for analyzing poems",
               "Historical speeches have no lasting relevance to contemporary rhetorical study"
             ],
             "answer": 0
@@ -14174,7 +14174,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might environmental pressures, such as predation risk or resource availability, influence which reproductive strategy a species evolves?",
             "options": [
-              "Environmental pressures have no influence on reproductive strategies",
+              "Predation risk only affects the colour of offspring",
               "Reproductive strategies are determined entirely by an organism's size, not its environment",
               "These pressures shape which strategy is most likely to result in successful offspring survival over time",
               "All species evolve the exact same reproductive strategy regardless of their environment"
@@ -14184,7 +14184,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is studying diverse animal reproductive strategies valuable for understanding evolutionary biology?",
             "options": [
-              "This topic has no relevance to studying biology",
+              "Reproductive strategies are studied only in insects",
               "It reveals how natural selection can favour very different solutions to the same challenge of successful reproduction",
               "Reproductive strategies remain fixed and never evolve within a species",
               "All animal species share an identical reproductive strategy"
@@ -14238,7 +14238,7 @@ const curriculum: DayContent[] = [
               "The steel always corrodes at a faster rate than the sacrificial metal",
               "Zinc physically blocks water from reaching the steel surface",
               "The zinc corrodes preferentially, protecting the more valuable steel structure from oxidation",
-              "Sacrificial anodes have no effect on preventing corrosion"
+              "Sacrificial anodes seal the steel with a layer of paint"
             ],
             "answer": 2
           },
@@ -14301,10 +14301,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might asking good questions be an important part of active listening?",
             "options": [
-              "Questions have no role in demonstrating engagement with a speaker",
+              "Questions mainly interrupt the speaker and signal boredom",
               "Good questions show genuine engagement and help clarify or deepen understanding of the message",
               "Asking questions always distracts from what the speaker is saying",
-              "This concept has no relevance to oral communication"
+              "Active listening means staying silent and never responding"
             ],
             "answer": 1
           },
@@ -14423,7 +14423,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might hormone levels play a role in triggering an animal’s migratory behaviour?",
             "options": [
-              "This concept has no relevance to understanding animal migration",
+              "Hormones mainly control the colour of migratory birds' feathers",
               "Hormonal changes can prepare an animal’s body for the physical demands of a long journey",
               "Migratory behaviour is never influenced by any internal physiological signal",
               "Hormone levels only affect migration timing, never physical readiness"
@@ -14433,7 +14433,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is studying animal migration valuable for conservation efforts?",
             "options": [
-              "This topic has no relevance to studying biology",
+              "Studying migration is helpful only for predicting weather",
               "Understanding migratory patterns helps identify and protect the habitats and routes species depend on",
               "Migration studies mainly help predict population colours and markings",
               "Migratory species require no special conservation considerations"
@@ -14685,7 +14685,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Because their original writings contain modern genetic data",
               "It provides important context for understanding how a foundational scientific theory developed and gained acceptance",
-              "Their historical work has no relevance to modern biology",
+              "Their theory was developed only after DNA was discovered",
               "Darwin and Wallace’s theory has since been proven to have no scientific basis"
             ],
             "answer": 1
@@ -15472,7 +15472,7 @@ const curriculum: DayContent[] = [
               "The change can favour certain alleles over others, altering allele frequencies through natural selection",
               "Environmental change never has any effect on allele frequencies",
               "A population’s allele frequencies are always completely unaffected by its environment",
-              "This concept has no relevance to population genetics"
+              "Environmental change affects only the size of the population"
             ],
             "answer": 0
           }
@@ -15599,7 +15599,7 @@ const curriculum: DayContent[] = [
             "options": [
               "All information shared on social media is automatically verified before posting",
               "Information can spread quickly on social media before its accuracy has been verified by anyone",
-              "This skill has no relevance to how people consume news today",
+              "Social media posts are always reviewed by editors before posting",
               "Fact-checking is never necessary for information found on social media"
             ],
             "answer": 1
@@ -15660,7 +15660,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The ambiguous case only applies to right triangles, never to any other triangle",
               "Failing to check can lead to reporting only one solution when a second valid triangle also exists",
-              "This concept has no relevance to correctly solving a triangle",
+              "The ambiguous case only affects triangles with three equal sides",
               "Checking for the ambiguous case is never necessary when solving a triangle"
             ],
             "answer": 1
@@ -15722,7 +15722,7 @@ const curriculum: DayContent[] = [
               "Structural similarities in living species can reveal shared ancestry even when a complete fossil record is unavailable",
               "Anatomical evidence is always less reliable than every other type of evidence",
               "Comparative anatomy can only be used when fossils are also available",
-              "This field has no relevance to the study of evolutionary biology"
+              "Comparative anatomy can only be studied in extinct species"
             ],
             "answer": 0
           }
@@ -15909,7 +15909,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The mean is always the more appropriate measure regardless of outliers",
               "The median is always affected more strongly by an outlier than the mean is",
-              "Outliers have no effect on either the mean or the median",
+              "Outliers always make the median larger than the mean",
               "The median is not pulled toward an extreme value the way the mean can be"
             ],
             "answer": 3
@@ -15960,7 +15960,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It shows that life can adapt to conditions once assumed to make survival impossible, broadening the search for life on other worlds",
               "The discovery of extremophiles proved that life can only exist under mild, Earth-like conditions",
-              "This discovery has no relevance to astrobiology or the study of extreme environments",
+              "Extremophiles are found only in oxygen-rich environments",
               "Extremophiles can only survive on Earth, never other planets"
             ],
             "answer": 0
@@ -15978,7 +15978,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do scientists classify many extremophiles within the domain Archaea rather than Bacteria or Eukarya?",
             "options": [
-              "This concept has no relevance to the classification of living things",
+              "Archaea are classified by their size rather than their cell structure",
               "All extremophiles are classified identically within a single domain with no distinctions made",
               "Archaea often possess distinct cellular and genetic features suited to surviving extreme environments",
               "All extremophiles belong to the domain Eukarya due to their complex cells"
@@ -16041,7 +16041,7 @@ const curriculum: DayContent[] = [
               "Reducing the emission of these gases directly reduces the raw materials available to form sulphuric and nitric acid in the atmosphere",
               "Emission regulations always increase the rate of acid rain formation instead",
               "Acid rain formation depends only on natural volcanic activity, not industrial emissions",
-              "These regulations mainly target carbon dioxide, which plays no role in acid rain formation"
+              "These regulations mainly target ozone-depleting gases, which are the main cause of acid rain"
             ],
             "answer": 0
           }
@@ -16219,7 +16219,7 @@ const curriculum: DayContent[] = [
               "Attracting a specific animal pollinator is unnecessary when pollen is instead carried by the wind",
               "Wind-pollinated flowers lose their colour due to constant exposure to wind",
               "Wind-pollinated plants always produce the most brightly coloured, strongly scented flowers",
-              "This concept has no relevance to understanding plant reproduction"
+              "Wind-pollinated flowers rely on nectar-feeding birds, so they do not need bright petals"
             ],
             "answer": 0
           },
@@ -16227,7 +16227,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the coevolutionary relationship between plants and pollinators considered ecologically significant?",
             "options": [
               "Plants and their pollinators have no meaningful ecological connection to one another",
-              "Pollinator populations have no effect on plant reproduction rates",
+              "Pollinators mainly affect the colour of flowers, not how many seeds plants produce",
               "This relationship has no broader significance for ecosystems",
               "A decline in pollinator populations can directly threaten the reproduction of the plant species that depend on them"
             ],
@@ -16626,7 +16626,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A poet may shape or heighten real experiences for artistic effect, blurring the line between fact and craft",
               "Every confessional poem is always an exact, unaltered record of true events",
-              "This question has no relevance to interpreting confessional poetry",
+              "Critics debate it only because confessional poems are never published under the poet's real name",
               "Confessional poems never contain any element of artistic shaping or invention"
             ],
             "answer": 0
@@ -16707,7 +16707,7 @@ const curriculum: DayContent[] = [
             "q": "An adaptation is best described as a trait that ___.",
             "options": [
               "Always harms an organism’s chances of survival",
-              "Has no effect at all on an organism’s survival or reproduction",
+              "Is acquired through exercise and then passed directly to the organism's offspring",
               "Develops within a single organism's lifetime in response to need",
               "Improves an organism’s ability to survive and reproduce in its environment"
             ],
@@ -16738,7 +16738,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Being active only at night mainly helps animals avoid predators, not heat",
               "Being active only at night always increases an animal’s risk of overheating",
-              "This concept has no relevance to understanding animal adaptations",
+              "Being active only at night helps desert animals because the cool air lets them absorb more sunlight",
               "Avoiding activity during the hottest part of the day can reduce water loss and the risk of overheating"
             ],
             "answer": 3
@@ -16748,7 +16748,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Oxygen availability is identical at every altitude, with no variation at all",
               "Air at high altitudes contains less available oxygen, so the body must adapt to transport it more efficiently",
-              "This concept has no relevance to understanding animal physiology",
+              "Thinner air at high altitude makes animals lose blood cells, so they must conserve oxygen by moving less",
               "Increased red blood cells mainly help regulate body temperature, not oxygen transport"
             ],
             "answer": 1
@@ -16867,7 +16867,7 @@ const curriculum: DayContent[] = [
               "Sensory detail can help preserve and honour a specific memory of what has been lost",
               "Elegies are always written using flat, unemotional language with no imagery",
               "Imagery matters only in elegies written in free verse",
-              "This technique has no relevance to commemorative writing"
+              "Vivid imagery is used mainly to make an elegy sound cheerful and humorous"
             ],
             "answer": 0
           },
@@ -16987,7 +16987,7 @@ const curriculum: DayContent[] = [
             "q": "Why might damage to the cerebellum specifically affect a person’s balance and coordination, rather than their ability to think abstractly?",
             "options": [
               "Different brain regions are specialized for different functions, so damage to one region primarily affects the processes it controls",
-              "This concept has no relevance to understanding brain structure",
+              "The cerebellum mainly controls abstract thinking, so its damage would affect both balance and reasoning equally",
               "The cerebellum primarily controls emotional responses, not movement",
               "Every region of the brain performs an identical function, so damage anywhere produces identical effects"
             ],
@@ -17235,7 +17235,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might excess nutrient runoff from surrounding farmland negatively affect the health of a freshwater lake within its watershed?",
             "options": [
-              "This concept has no relevance to understanding freshwater ecosystems",
+              "Runoff mainly adds heavy metals that make lake water too cold for fish to survive",
               "Nutrient runoff always improves the overall health of a freshwater ecosystem",
               "Excess nutrients can trigger algal blooms that deplete oxygen levels in the water as they decompose",
               "Nutrient runoff only affects groundwater, never surface lakes"
@@ -17247,8 +17247,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Pollutants are never filtered or reduced by any natural process within a wetland",
               "Wetland vegetation and soil can trap and break down certain pollutants as water slowly moves through them",
-              "This concept has no relevance to understanding watershed health",
-              "Wetlands have no effect on the water quality of a connected watershed"
+              "Wetlands filter pollutants mainly by heating the water, which makes the contaminants evaporate",
+              "Wetlands mainly increase the amount of pollutants in a watershed by trapping and releasing them unchanged"
             ],
             "answer": 1
           },
@@ -17256,7 +17256,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding the connection between land use and water quality important for protecting freshwater ecosystems within a watershed?",
             "options": [
               "Human activity anywhere within a watershed can ultimately affect the water quality of the freshwater systems it drains into",
-              "This concept has no relevance to ecological conservation efforts",
+              "Land use matters only for protecting soil quality and does not influence the water that drains from it",
               "Freshwater ecosystems are always completely unaffected by human activity",
               "Land use has no meaningful connection to the health of a freshwater ecosystem"
             ],
@@ -17746,7 +17746,7 @@ const curriculum: DayContent[] = [
               "Division by zero is undefined, so those values must be excluded from the domain",
               "Simplifying never requires considering the denominator’s value",
               "The denominator can always safely equal zero",
-              "Restrictions have no relevance to rational expressions"
+              "Restrictions are needed only to make the final answer look simpler"
             ],
             "answer": 0
           },
@@ -17942,7 +17942,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the presence of a silent, implied listener significant in a dramatic monologue?",
             "options": [
-              "This concept has no relevance to interpreting a dramatic monologue",
+              "The silent listener is included only so the poem can rhyme at the end of each line",
               "A dramatic monologue never involves any implied listener within the poem",
               "The speaker’s words are shaped by an audience within the poem, giving the monologue a sense of dramatic occasion and urgency",
               "The listener's presence matters only when the listener responds aloud"
@@ -18065,7 +18065,7 @@ const curriculum: DayContent[] = [
             "options": [
               "This process occurs in the nucleus, since ribosomes are only found there where translation begins",
               "The ribosome is the cellular structure that reads the RNA sequence and assembles the corresponding chain of amino acids",
-              "Ribosomes have no role in converting an RNA sequence into a protein",
+              "Ribosomes only copy the DNA into more RNA and do not build the protein",
               "Translation can occur anywhere in the cell with no involvement of the ribosome at all"
             ],
             "answer": 1
@@ -18192,7 +18192,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Every graph published in a credible source is guaranteed to use an unbiased scale",
               "Checking a graph’s scale and labels never affects how its implied conclusion should be interpreted",
-              "This concept has no relevance to evaluating media messages",
+              "Scales are mainly checked so that the graph's colours match the article's headline",
               "Careful labels reveal whether the visual difference between values genuinely reflects the size of the underlying difference"
             ],
             "answer": 3
@@ -18200,7 +18200,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might understanding statistical rhetoric be considered an extension of the media literacy skills used to detect other forms of bias, such as biased word choice?",
             "options": [
-              "This concept has no relevance to developing critical media literacy skills",
+              "Statistical rhetoric is unlike biased word choice because it involves only numbers, which cannot shape an impression",
               "Both require a reader to look past a surface presentation to evaluate how a message has been shaped to support a particular impression",
               "Data visualizations can never be used to shape a reader’s impression of an issue",
               "Statistical rhetoric applies only to graphs, never to written text"
@@ -18322,7 +18322,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might the three-domain system be considered a more accurate reflection of evolutionary relationships than older classification systems based mainly on visible physical traits?",
             "options": [
-              "This concept has no relevance to the modern study of taxonomy",
+              "The three-domain system was created to sort organisms by size, which is a more reliable trait than genetics",
               "It relies on genetic and biochemical evidence that can reveal deep evolutionary divisions not always visible through physical appearance alone",
               "Physical appearance always provides a completely accurate picture of evolutionary relationships",
               "Genetic evidence never reveals any information relevant to classifying organisms"
@@ -18440,7 +18440,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why must a literary journalist balance the narrative techniques of fiction with a responsibility to represent real events accurately?",
             "options": [
-              "This balance has no relevance to how creative non-fiction is evaluated",
+              "A literary journalist is expected to invent events freely, since creative non-fiction is judged only on style",
               "This balance matters only in journalism written for print, not online",
               "Using fiction-like techniques irresponsibly could mislead a reader into doubting where factual reporting ends and creative embellishment begins",
               "A literary journalist has no responsibility to represent real events accurately"
@@ -18451,7 +18451,7 @@ const curriculum: DayContent[] = [
             "q": "Why might literary journalism be considered a valuable bridge between the reporting skills developed in media literacy study and the narrative skills developed in fiction writing?",
             "options": [
               "Reporting skills and narrative skills can never be combined in a single piece of writing",
-              "This concept has no relevance to studying different forms of writing",
+              "Literary journalism combines mainly poetry techniques, so it applies only to reading and writing verse",
               "It shows how the two skill sets can combine to make factual material more engaging without sacrificing accuracy",
               "Literary journalism has no meaningful connection to either media literacy or fiction writing"
             ],
@@ -18564,7 +18564,7 @@ const curriculum: DayContent[] = [
               "Kelp forests remain completely unaffected regardless of how many sea otters are present",
               "Sea otters control sea urchin populations that would otherwise overgraze and destroy the kelp forest habitat",
               "Sea otters have no measurable effect on sea urchin populations or kelp forest health",
-              "This example has no relevance to understanding keystone species"
+              "Sea otters mainly help kelp forests by eating the kelp itself, which stops it from growing too thick"
             ],
             "answer": 1
           },
@@ -18632,7 +18632,7 @@ const curriculum: DayContent[] = [
             "q": "Why are extremely high temperatures and pressures required to sustain a nuclear fusion reaction?",
             "options": [
               "Overcoming the strong electrostatic repulsion between positively charged nuclei requires an enormous amount of energy to force them close enough to fuse",
-              "Only high temperature is required to sustain fusion; pressure has no role in overcoming nuclear repulsion",
+              "Pressure alone is enough to sustain fusion, while the temperature needed is only a few hundred degrees",
               "Fusion reactions can occur spontaneously at room temperature and normal atmospheric pressure",
               "This concept has no basis in the physics of nuclear fusion"
             ],
@@ -18689,7 +18689,7 @@ const curriculum: DayContent[] = [
               "An anecdote never needs to connect to any larger point within a speech",
               "Without a clear connection, an audience may enjoy the story but miss the point it was meant to illustrate",
               "Audiences always understand the intended connection automatically, without it ever being stated",
-              "This concept has no relevance to effective public speaking"
+              "The anecdote should be left unconnected so the audience can decide on its own meaning"
             ],
             "answer": 1
           },
@@ -18699,7 +18699,7 @@ const curriculum: DayContent[] = [
               "Anecdotes of any length always strengthen a speech with no possible drawback",
               "A well-organized speech should always include as many anecdotes as possible, regardless of length",
               "Excessive length can crowd out other important content and cause an audience to lose track of the speaker’s overall structure",
-              "This concept has no relevance to organizing an effective speech"
+              "Lengthy anecdotes make a speech weaker only when they are told after the conclusion"
             ],
             "answer": 2
           }
@@ -18760,7 +18760,7 @@ const curriculum: DayContent[] = [
               "A vertical shift adjusts the midline of the graph to match the actual average value around which the temperature fluctuates",
               "A vertical shift always changes how frequently the temperature pattern repeats",
               "A vertical shift changes the amplitude of the temperature fluctuations",
-              "This concept has no relevance to modelling seasonal temperature data"
+              "A vertical shift is used only to make the graph start at the origin"
             ],
             "answer": 0
           }
@@ -18928,7 +18928,7 @@ const curriculum: DayContent[] = [
               "A semicolon always weakens the logical connection between two related ideas",
               "A semicolon signals a closer logical relationship between the two ideas than two separate, disconnected sentences would suggest",
               "Semicolons can never be used to connect two related independent clauses",
-              "Sentence-combining techniques have no effect on a piece of writing’s sophistication"
+              "Combining sentences with a semicolon makes writing less sophisticated because it creates run-ons"
             ],
             "answer": 1
           },
@@ -18996,7 +18996,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a box-and-whisker plot be a more useful visual summary than a single average value when comparing two data sets?",
             "options": [
-              "This concept has no relevance to interpreting or comparing data",
+              "A box-and-whisker plot is better only because it shows each individual data value",
               "A box-and-whisker plot provides no more information than a single average value",
               "Comparing two data sets never benefits from information about spread or skew",
               "It reveals the spread and skew of each data set, not just a single central value, allowing a more complete comparison"
@@ -19068,9 +19068,9 @@ const curriculum: DayContent[] = [
             "q": "Why might the open ocean zone support a different community of organisms than the shallower neritic zone closer to shore?",
             "options": [
               "Differences in light, pressure, temperature, and nutrient availability between the zones favour organisms adapted to each specific set of conditions",
-              "This concept has no relevance to understanding marine ecosystems",
+              "The zones differ mainly because the open ocean has freshwater while the neritic zone has saltwater",
               "Every zone of the ocean supports an identical community of organisms with no variation at all",
-              "Depth and distance from shore have no effect on which organisms can survive in a given zone"
+              "Only the temperature of the water matters, since depth does not change light or pressure"
             ],
             "answer": 0
           }
@@ -19175,7 +19175,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might an author of historical fiction research a time period extensively before beginning to write invented scenes set within it?",
             "options": [
-              "This concept has no relevance to writing historical fiction",
+              "Authors research mainly so that they can copy whole passages from historical documents into the story",
               "Authors of historical fiction never need to research the time periods they write about",
               "Grounding invented events in accurate historical detail can make the fictional narrative feel authentic and respectful of the real past it depicts",
               "Because publishers require a full bibliography attached to every historical novel"
@@ -19187,7 +19187,7 @@ const curriculum: DayContent[] = [
             "options": [
               "This kind of invention is never included in historical fiction",
               "Doing so blurs the line between documented fact and imaginative interpretation, which can shape how readers understand that real person",
-              "This question has no relevance to evaluating historical fiction",
+              "This question arises only because historical figures never appear as characters in novels",
               "Because copyright law strictly forbids quoting a real historical figure's actual words"
             ],
             "answer": 1
@@ -19196,7 +19196,7 @@ const curriculum: DayContent[] = [
             "q": "Why might historical fiction be considered a valuable way to engage readers with a period of history, despite its blend of fact and invention?",
             "options": [
               "A compelling narrative can make historical events feel immediate and human in a way that a purely factual account sometimes cannot",
-              "This concept has no relevance to why readers engage with historical fiction",
+              "Historical fiction is valuable mainly because it replaces textbooks as the most accurate record of events",
               "Historical fiction always distorts a reader’s understanding of history with no possible benefit",
               "Fiction and factual history can never be meaningfully connected in a single work"
             ],
@@ -19248,7 +19248,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Factoring a rational function never affects whether a restricted value produces a hole or a vertical asymptote",
               "Factoring reveals whether the problematic factor cancels out entirely or remains only in the denominator, which determines which feature appears",
-              "This concept has no relevance to graphing rational functions",
+              "Factoring is needed mainly to find the y-intercept of the graph, not to identify discontinuities",
               "Every restricted value of a rational function always produces a vertical asymptote, with no exceptions"
             ],
             "answer": 1
@@ -19256,7 +19256,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a graphing calculator fail to visually display a point discontinuity in a rational function’s graph, even though it exists?",
             "options": [
-              "This concept has no relevance to interpreting a rational function’s graph",
+              "Calculators can only plot straight lines, so they cannot display a rational function with any holes",
               "Graphing calculators always display every point discontinuity with complete accuracy",
               "Graphing calculators always highlight discontinuities in a different colour",
               "The graphing screen’s resolution often cannot represent a single missing point precisely, so the hole may not appear as a visible gap"
@@ -19298,7 +19298,7 @@ const curriculum: DayContent[] = [
             "q": "Why does the hypothalamus signal the pituitary gland rather than the adrenal glands directly at the start of the stress response?",
             "options": [
               "The hypothalamic-pituitary-adrenal axis relies on a sequential chain of hormonal signals, with the pituitary gland acting as an intermediate step",
-              "The pituitary gland has no role whatsoever in the body’s stress response",
+              "The pituitary gland only releases growth hormone, so it takes part in the stress response only when a person is growing",
               "This sequence has no basis in how the stress response is physiologically coordinated",
               "The hypothalamus always signals the adrenal glands directly, with no involvement from the pituitary gland at all"
             ],
@@ -19318,8 +19318,8 @@ const curriculum: DayContent[] = [
             "q": "Why might chronic activation of the stress response, with prolonged elevated cortisol, be associated with negative long-term health effects?",
             "options": [
               "Chronic activation of the stress response always has an identical effect to a single short-term stress response",
-              "Cortisol only affects mood, with no impact on physical health such as blood pressure or immune function",
-              "This concept has no relevance to understanding the HPA axis",
+              "Cortisol affects only the digestive system, so chronic elevation mainly causes stomach upset",
+              "Prolonged cortisol raises the body's energy reserves permanently, so it is considered beneficial over the long term",
               "A stress response evolved for short-term threats can disrupt normal physiological processes if it remains active over a long period"
             ],
             "answer": 3
@@ -19445,7 +19445,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a definition essay be considered a genuinely argumentative form of writing, despite resembling an extended explanation?",
             "options": [
               "A definition essay never takes any specific position on how a term should be understood",
-              "This concept has no relevance to understanding the purpose of a definition essay",
+              "A definition essay is argumentative only because it must quote a dictionary at the start",
               "It takes and defends a specific, debatable position on how a contested term should be understood, rather than simply reporting an agreed-upon fact",
               "Argumentative writing and definition essays have no meaningful connection to one another"
             ],
@@ -19505,7 +19505,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a biologist modelling continuous population growth choose to use a natural exponential function with base e?",
             "options": [
-              "This concept has no relevance to modelling growth in a real-world context",
+              "A natural exponential function is chosen mainly because e is a whole number that is easy to calculate",
               "It closely reflects how population growth can compound continuously rather than only at fixed, discrete time intervals",
               "Population growth never occurs in a way that could be modelled using an exponential function",
               "Natural exponential functions can never be used to model any real-world biological process"
@@ -19627,7 +19627,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the amount of energy released per unit of fuel an important factor when comparing different fuels for practical use, such as in vehicles?",
             "options": [
-              "Energy released per unit of fuel affects cost but has no bearing on a vehicle's performance",
+              "Energy per unit of fuel affects the fuel's colour and smell but not its cost or performance",
               "This concept only applies to purely theoretical chemistry problems",
               "Every fuel releases an identical amount of energy per unit of mass, regardless of its chemical composition",
               "A fuel that releases more usable energy per unit of mass or volume can potentially provide more power or range for the same quantity of fuel"
@@ -19817,7 +19817,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Ecological succession provides no useful information for predicting how an ecosystem will change after a disturbance",
               "It provides a general model for the sequence of species likely to colonize and gradually transform the disturbed area over time",
-              "This concept has no relevance to understanding ecosystem recovery",
+              "Succession is useful mainly for predicting the exact date on which a disturbed area will fully recover",
               "Every disturbed ecosystem recovers in a completely random, unpredictable way with no general pattern at all"
             ],
             "answer": 1
@@ -19847,7 +19847,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Calcium carbonate",
               "Carbonic acid",
-              "A stable, unreactive compound with no effect on pH",
+              "Carbon monoxide, which raises the water's pH",
               "Sodium bicarbonate"
             ],
             "answer": 1
@@ -19876,7 +19876,7 @@ const curriculum: DayContent[] = [
             "q": "Why is ocean acidification considered closely linked to the same rising atmospheric carbon dioxide levels associated with climate change?",
             "options": [
               "Much of the excess carbon dioxide released by human activity is absorbed by the ocean, directly connecting atmospheric emissions to changing ocean chemistry",
-              "This concept has no relevance to understanding global environmental chemistry",
+              "Ocean acidification is caused mainly by oil spills that add acidic chemicals to seawater",
               "Ocean acidification is caused mainly by volcanic activity rather than human carbon dioxide emissions",
               "The ocean never absorbs any atmospheric gases under any circumstances"
             ],
@@ -20364,7 +20364,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding photoperiodism useful for farmers growing crops on a commercial schedule?",
             "options": [
               "Farmers never need to consider day length when growing crops",
-              "This concept has no relevance to biology",
+              "Photoperiodism lets farmers predict rainfall, which is the main factor that triggers flowering",
               "It can help them control lighting conditions to influence when crops flower and produce yield",
               "Photoperiodism has no practical application for commercial farming"
             ],
@@ -20374,7 +20374,7 @@ const curriculum: DayContent[] = [
             "q": "Why might plants native to different latitudes have evolved different photoperiodic responses?",
             "options": [
               "Photoperiodic responses are determined entirely by soil type, not by geographic location",
-              "This concept has no relevance to biology",
+              "Plants from different latitudes differ only in their seed colour, not in their flowering response",
               "Photoperiodic responses never vary between plants from different regions",
               "Day length patterns vary significantly with latitude and season, favouring different flowering strategies"
             ],
@@ -20435,8 +20435,8 @@ const curriculum: DayContent[] = [
             "q": "Why are buffer solutions important in biological systems, such as human blood?",
             "options": [
               "They help maintain a stable pH despite small chemical changes, which is essential for proper cell function",
-              "Buffer solutions have no role in maintaining stable conditions in biological systems",
-              "This concept has no relevance to chemistry",
+              "Buffers mainly raise the pH of blood as high as possible, which is essential for cell function",
+              "Buffer solutions are used only in laboratories to speed up chemical reactions in blood tests",
               "Human blood never requires any pH regulation at all"
             ],
             "answer": 0
@@ -20564,7 +20564,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Certain natural growth patterns closely resemble the proportions found within the Fibonacci sequence",
               "Natural growth patterns are always completely random with no mathematical structure",
-              "This concept has no relevance to functions",
+              "The Fibonacci sequence is of interest to biologists because it records the number of species in a habitat",
               "Biologists have proven that no natural structures follow mathematical ratios"
             ],
             "answer": 0
@@ -20624,7 +20624,7 @@ const curriculum: DayContent[] = [
             "q": "Why might weight-bearing exercise help strengthen bones over time?",
             "options": [
               "Mechanical stress can stimulate the bone remodelling process, encouraging the formation of stronger bone tissue",
-              "Exercise strengthens bones only by increasing blood flow, with no effect on the remodelling process itself",
+              "Exercise strengthens bones only by raising body temperature, which melts away weaker bone tissue",
               "Weight-bearing exercise strengthens muscles surrounding the bone but leaves bone density unchanged",
               "Bones never respond to mechanical stress in any way"
             ],
@@ -20635,8 +20635,8 @@ const curriculum: DayContent[] = [
             "options": [
               "It allows damaged bone tissue to be broken down and replaced with new, healthy bone over time",
               "Fractures heal without any involvement of bone tissue remodelling",
-              "Bone remodelling has no role in healing a fracture",
-              "This concept has no relevance to biology"
+              "Remodelling slows fracture healing by removing new bone that has just formed",
+              "Remodelling repairs a fracture only in children, since adult bones stop breaking down and rebuilding"
             ],
             "answer": 0
           }
@@ -20696,7 +20696,7 @@ const curriculum: DayContent[] = [
             "options": [
               "More efficient reactions can require less energy and produce less waste overall",
               "Catalysis reduces waste primarily in laboratory-scale reactions, not in large industrial processes",
-              "This concept has no relevance to chemistry",
+              "Catalysis reduces environmental impact only by making reactions slower so less product is released",
               "Industrial processes always produce the same amount of waste regardless of catalyst use"
             ],
             "answer": 0
@@ -20760,7 +20760,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is developing critical media literacy skills increasingly important as synthetic media technology improves?",
             "options": [
-              "This concept has no relevance to media literacy",
+              "Media literacy matters only for judging printed newspapers, since synthetic media cannot spread online",
               "Improved technology has made synthetic media easier to detect than ever before",
               "As fabricated content becomes harder to detect, viewers need stronger tools to evaluate what they see and hear",
               "Because schools are required to teach a fixed media literacy curriculum every year"
@@ -20884,7 +20884,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Commensalism only occurs between two closely related species, making it easy to predict",
               "One species benefits while the other is neither helped nor harmed, which can be subtle to observe and confirm",
-              "This concept has no relevance to biology",
+              "Commensalism is hard to identify because both species always benefit equally, which looks like mutualism",
               "Commensalism always produces dramatic, easily observable effects on both species involved"
             ],
             "answer": 1
@@ -20944,7 +20944,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only isotopes with extremely short half-lives can ever be used for dating rocks",
               "The choice of isotope never matters when dating a rock formation",
-              "This concept has no relevance to chemistry",
+              "Short half-lives are preferred because they decay faster, which lets scientists date very old rocks more quickly",
               "An isotope with a longer half-life remains measurable over much greater spans of time, suiting very old samples"
             ],
             "answer": 3
@@ -21200,7 +21200,7 @@ const curriculum: DayContent[] = [
             "q": "Why is developing biodegradable plastics considered an important goal for reducing environmental plastic waste?",
             "options": [
               "Biodegradable plastics mainly matter for reducing production costs, not environmental waste",
-              "This concept has no relevance to chemistry",
+              "Biodegradable plastics matter mainly because they are stronger than conventional plastics",
               "All types of plastic accumulate in the environment at exactly the same rate",
               "Materials that break down more readily could reduce the long-term accumulation of plastic waste in landfills and oceans"
             ],
@@ -21327,7 +21327,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a quality control inspector use a binomial distribution to model the number of defective items in a batch?",
             "options": [
-              "This concept has no relevance to statistics",
+              "A binomial distribution is used because defective items always appear in a regular repeating pattern",
               "A binomial distribution has no application in quality control or inspection",
               "Defective items can never be modelled using any probability distribution",
               "Each item can be checked independently, and each check has the same probability of being defective"
@@ -21368,7 +21368,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Can widespread vaccination help slow the spread of a disease through a population?",
             "options": [
-              "Only if 100% of the population is vaccinated, otherwise it has no effect",
+              "Only if more than 50% of people are vaccinated at the same moment, otherwise the disease spreads unchanged",
               "Vaccination only works if every single person in the population is vaccinated at the same time",
               "Disease spread is never affected by how many people are vaccinated",
               "Yes"
@@ -21388,7 +21388,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the percentage of a population that needs to be vaccinated to achieve herd immunity different for different diseases?",
             "options": [
-              "This concept has no relevance to biology",
+              "The threshold differs mainly because each disease has a different vaccine brand, not because of how it spreads",
               "The vaccination threshold depends only on the size of the population, not on how contagious the disease is",
               "More contagious diseases generally require a higher percentage of immune individuals to effectively stop transmission",
               "The vaccination threshold for herd immunity is always exactly the same for every disease"
@@ -21421,8 +21421,8 @@ const curriculum: DayContent[] = [
             "options": [
               "No, fireworks require no combustion reaction at all",
               "Yes",
-              "Only oxidizers are needed; fuel plays no role in the reaction",
-              "Only fuel is needed; an external oxidizer plays no role in the reaction"
+              "Only oxidizers are needed, because the fuel in a firework serves just to colour the flame",
+              "Only fuel is needed, because oxygen from the air supplies all the oxidizer a firework requires"
             ],
             "answer": 1
           },
@@ -21450,7 +21450,7 @@ const curriculum: DayContent[] = [
             "q": "Why do chemists carefully control the ratio of fuel to oxidizer when designing a firework?",
             "options": [
               "The correct ratio ensures a controlled, safe combustion reaction that produces the desired visual effect",
-              "This concept has no relevance to chemistry",
+              "The ratio is mainly adjusted so that the firework weighs less and is easier to launch",
               "The ratio only affects how loud the explosion is, not its visual appearance",
               "Fireworks never actually involve any chemical reaction between fuel and oxidizer"
             ],
@@ -21639,7 +21639,7 @@ const curriculum: DayContent[] = [
               "Marine species never depend on coral reefs for survival",
               "Coral reefs support only a small handful of highly specialized species found nowhere else",
               "They support a huge variety of marine species that depend on the reef ecosystem for habitat and food",
-              "This concept has no relevance to biology"
+              "Coral reefs matter mainly because they supply most of the oxygen that deep-sea fish breathe"
             ],
             "answer": 2
           }
@@ -21763,8 +21763,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is active listening an important skill for participants in a Socratic seminar?",
             "options": [
-              "Active listening has no role in a successful Socratic seminar discussion",
-              "This concept has no relevance to oral communication",
+              "Active listening matters only for the seminar leader, since other participants simply wait for their turn to speak",
+              "Listening is useful mainly because the teacher grades each student on how quietly they sit",
               "Participants never need to listen to each other in this type of discussion",
               "Responding thoughtfully to others’ ideas requires genuinely understanding what they have said"
             ],
@@ -21878,7 +21878,7 @@ const curriculum: DayContent[] = [
               "Antibiotics only ever target harmful bacteria and never affect beneficial ones",
               "Antibiotics disrupt digestion only if taken on an empty stomach, regardless of their effect on bacteria",
               "Antibiotics can kill beneficial bacteria in the microbiome along with the harmful bacteria causing the infection",
-              "Antibiotics have no effect on any bacteria living within the human body"
+              "Antibiotics mainly kill human cells in the gut, which is why the digestive system is affected"
             ],
             "answer": 2
           },
@@ -21886,7 +21886,7 @@ const curriculum: DayContent[] = [
             "q": "Why is ongoing research into the human microbiome considered valuable for understanding overall health?",
             "options": [
               "Microbiome composition is identical in every person, so individual research provides no new information",
-              "This concept has no relevance to biology",
+              "Microbiome research matters mainly because it shows which bacteria should be removed from the body entirely",
               "Scientists have already fully understood every aspect of the human microbiome with no ongoing questions",
               "A growing body of evidence links microbiome balance to digestion, immunity, and even other aspects of health"
             ],
@@ -21947,7 +21947,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Better batteries could allow vehicles to store more energy and travel farther on a single charge",
               "Better batteries mainly reduce vehicle cost, with little effect on driving range",
-              "This concept has no relevance to chemistry",
+              "Better batteries matter mainly because they would make electric vehicles louder and easier to hear",
               "Electric vehicles never actually rely on any battery technology"
             ],
             "answer": 0
@@ -22134,7 +22134,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is genetic counselling considered valuable even when a genetic test result is uncertain or inconclusive?",
             "options": [
-              "This concept has no relevance to biology",
+              "Genetic counselling is valuable mainly because a counsellor can change the result of an uncertain test",
               "Genetic counselling only ever applies when a test result is completely certain",
               "A counsellor can help interpret the meaning and limitations of the results and guide informed next steps",
               "Uncertain genetic test results provide no useful information worth discussing with a counsellor"
@@ -22196,8 +22196,8 @@ const curriculum: DayContent[] = [
             "q": "Why is precise chemical analysis important in forensic investigations?",
             "options": [
               "Trace evidence never provides any useful information in a criminal investigation",
-              "This concept has no relevance to chemistry",
-              "Chemical analysis has no relevance to forensic investigations or legal proceedings",
+              "Chemical analysis is used mainly to estimate how long ago a crime scene was last cleaned",
+              "Chemical analysis mainly helps identify suspects from fingerprints, not from trace materials like fibres or paint",
               "Accurate identification of trace evidence can provide critical, reliable information used in legal proceedings"
             ],
             "answer": 3
@@ -22261,7 +22261,7 @@ const curriculum: DayContent[] = [
             "q": "Why might white space and line breaks in a verse novel affect how a reader experiences the pacing of the story?",
             "options": [
               "White space and line breaks never have any effect on how a reader experiences a story",
-              "This concept has no relevance to literature",
+              "Line breaks mainly serve to make a verse novel look shorter than a traditional novel",
               "These structural choices can control rhythm and emphasis, shaping how quickly or slowly a reader moves through events",
               "Pacing in a verse novel is never influenced by its poetic structure"
             ],
@@ -22323,7 +22323,7 @@ const curriculum: DayContent[] = [
               "It isolates the component of the force acting in the direction of motion, which determines the work performed",
               "Work is calculated using the full magnitude of the force, regardless of its angle",
               "Work is never affected by the direction of an applied force",
-              "This concept has no relevance to functions"
+              "Vector projections are used mainly to find the direction in which a force should be applied to reduce friction"
             ],
             "answer": 0
           }
@@ -22363,7 +22363,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only for marine species, since land species are unaffected by continental movement",
               "Yes",
-              "Continental movement affects climate but has no influence on where species are found",
+              "Continental movement changed ocean currents, but related species are spread only by long-distance migration",
               "Species distribution has never changed throughout Earth’s history"
             ],
             "answer": 1
@@ -22393,7 +22393,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Species distribution never provides any insight into evolutionary processes",
               "Patterns in species distribution can reveal how populations became separated and evolved independently over time",
-              "This concept has no relevance to biology",
+              "Biogeography mainly shows which species have the largest populations in their regions",
               "It shows exactly when a species will become extinct, based on its current range"
             ],
             "answer": 1
@@ -22434,7 +22434,7 @@ const curriculum: DayContent[] = [
               "Only in products intended for a very short shelf life of a few days",
               "Preservatives are never actually used in personal care products",
               "Yes",
-              "No, preservatives have no effect on product stability or safety"
+              "No, preservatives mainly change a product's scent and colour, not its stability or safety"
             ],
             "answer": 2
           },
@@ -22454,7 +22454,7 @@ const curriculum: DayContent[] = [
               "Understanding this chemistry mainly helps with marketing claims, not actual safety or effectiveness",
               "Personal care products contain no chemical ingredients worth understanding",
               "It helps consumers and scientists understand how ingredients interact and what role each one plays in the final product",
-              "This concept has no relevance to chemistry"
+              "Understanding the chemistry mainly lets consumers predict how much a product will cost"
             ],
             "answer": 2
           }
@@ -22837,7 +22837,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Adding the two functions produces a single function representing the combined total at every value of x",
               "Revenue from two different sources can never be modelled using functions",
-              "This concept has no relevance to functions",
+              "Adding functions is useful mainly because it makes the graph steeper than either original function",
               "Adding two functions together never produces a meaningful new function"
             ],
             "answer": 0
@@ -22897,7 +22897,7 @@ const curriculum: DayContent[] = [
             "q": "Why might endothermy allow an animal to remain active across a wider range of environmental temperatures than ectothermy?",
             "options": [
               "Endotherms can only remain active in warm climates, unlike ectotherms which thrive in the cold",
-              "This concept has no relevance to biology",
+              "Endothermy lets an animal stay active mainly because it removes the need to eat as often",
               "Endothermy never provides any advantage over ectothermy in varying temperatures",
               "Generating heat internally lets an endotherm maintain a stable body temperature regardless of surrounding conditions"
             ],
@@ -22958,7 +22958,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The arrangement of valence electrons largely determines how an atom will bond and react with other atoms",
               "An atom's chemical behaviour depends only on its total electron count, not their orbital arrangement",
-              "This concept has no relevance to chemistry",
+              "Electron configuration mainly predicts an element's atomic mass, not how it reacts",
               "An element’s chemical behaviour is never related to its electron arrangement"
             ],
             "answer": 0
@@ -23026,7 +23026,7 @@ const curriculum: DayContent[] = [
               "Historical events are never reflected in personal diaries or journals",
               "Diaries provide no useful information to historians studying past events",
               "They can offer an intimate, first-hand perspective on how ordinary individuals experienced and reacted to those events",
-              "This concept has no relevance to writing"
+              "Diaries are valuable to historians mainly because they are usually written in formal, standardized language"
             ],
             "answer": 2
           }
@@ -23086,7 +23086,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Evaluating the polynomial at that value instantly reveals whether the remainder is zero, indicating a root",
               "Testing for a root always requires fully factoring the entire polynomial first",
-              "This concept has no relevance to functions",
+              "The remainder theorem is useful mainly because it lets a student skip evaluating the polynomial at all",
               "The remainder theorem never helps identify whether a value is a root"
             ],
             "answer": 0
@@ -23208,7 +23208,7 @@ const curriculum: DayContent[] = [
             "options": [
               "An unstable compound could break down under sunlight exposure, reducing its ability to continue absorbing or blocking UV radiation",
               "Chemical stability only affects a sunscreen's shelf life in the bottle, not how well it works once applied",
-              "This concept has no relevance to chemistry",
+              "Stability matters mainly because stable ingredients make the sunscreen smell more pleasant",
               "Sunscreen ingredients never break down or change under sunlight exposure"
             ],
             "answer": 0
@@ -23272,7 +23272,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why has the sonnet remained a popular poetic form across centuries?",
             "options": [
-              "This concept has no relevance to poetry",
+              "The sonnet has endured mainly because its fixed rhyme scheme is easier to write than free verse",
               "Poets have never adapted the sonnet form for any new purpose",
               "Its fixed structure offers a disciplined framework that many poets have adapted to explore a wide range of themes",
               "Because sonnets are the only poetic form still taught in schools today"
@@ -23333,7 +23333,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why must a student keep careful track of positive and negative signs when applying the sum and difference identities?",
             "options": [
-              "This concept has no relevance to trigonometry",
+              "Signs matter only when calculating angles in degrees, not when using radians",
               "Sum and difference identities never involve any subtraction of terms",
               "Signs never affect the outcome when applying these trigonometric identities",
               "A sign error would produce an entirely different value, since the identities involve both addition and subtraction of terms"
@@ -23396,7 +23396,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Plant chemical defences never create any evolutionary pressure on herbivores",
               "An evolutionary arms race can occur, where herbivores that tolerate a toxin gain access to a food source that competitors cannot use",
-              "This concept has no relevance to biology",
+              "Herbivores develop resistance mainly because plants stop producing toxins after being eaten",
               "Herbivores can never evolve any resistance to a plant’s chemical defences"
             ],
             "answer": 1
@@ -23655,7 +23655,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Real environments have finite resources, which eventually limit population growth rather than allowing it to increase indefinitely",
               "Natural populations can always grow indefinitely without any resource limitations",
-              "This concept has no relevance to biology",
+              "The logistic model is more realistic mainly because it predicts that populations never change in size",
               "The exponential model is actually more accurate for describing most wild populations over long time periods"
             ],
             "answer": 0
@@ -23901,7 +23901,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding biomagnification important for setting guidelines on fish consumption?",
             "options": [
-              "This concept has no relevance to biology",
+              "Biomagnification matters mainly because it explains why larger fish are always safer to eat",
               "All fish species contain exactly the same concentration of toxins regardless of diet",
               "It helps identify which species, often top predators, are more likely to contain unsafe concentrations of accumulated toxins",
               "It helps determine which fish species grow the fastest, regardless of toxin content"
@@ -24029,7 +24029,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is identifying a target audience important when writing an effective public service announcement?",
             "options": [
-              "This concept has no relevance to writing",
+              "Identifying the audience is mainly done to decide which font and colours the announcement should use",
               "Language, tone, and examples can be tailored to resonate with a specific audience, increasing the message’s persuasive impact",
               "Identifying a target audience never affects how persuasive a message is",
               "A public service announcement is always equally effective regardless of its intended audience"
@@ -24093,7 +24093,7 @@ const curriculum: DayContent[] = [
               "Radical expressions can never be rewritten using exponent notation",
               "Rational exponents allow the standard laws of exponents to be applied directly, rather than working with radical notation",
               "Rewriting a radical expression as a rational exponent never simplifies an algebraic expression",
-              "This concept has no relevance to functions"
+              "Rational exponents are used mainly to turn every radical expression into a whole number"
             ],
             "answer": 1
           }
@@ -24154,7 +24154,7 @@ const curriculum: DayContent[] = [
               "Environmental pressures never have any influence on how a species evolves",
               "Comparing convergent and divergent evolution provides no insight into how species change over time",
               "It highlights how similar pressures can produce similar traits in unrelated species, while shared ancestry can still lead to divergence under different pressures",
-              "This concept has no relevance to biology"
+              "The comparison shows that convergent and divergent evolution are two names for the same process"
             ],
             "answer": 2
           }
@@ -24215,7 +24215,7 @@ const curriculum: DayContent[] = [
               "The underlying mechanism only affects which colour is produced, not the accuracy of the endpoint",
               "It helps explain why the colour change occurs at a specific pH, allowing more precise determination of the endpoint",
               "Titration endpoints can never be determined using a colour-change indicator",
-              "This concept has no relevance to chemistry"
+              "The mechanism is useful mainly for choosing which indicator is cheapest to buy"
             ],
             "answer": 1
           }
@@ -24400,7 +24400,7 @@ const curriculum: DayContent[] = [
             "q": "Why is recombination frequency useful to geneticists constructing a chromosome map?",
             "options": [
               "Recombination frequency reveals the exact DNA sequence of each gene, rather than their relative positions",
-              "This concept has no relevance to biology",
+              "Recombination frequency is useful mainly for measuring the physical length of each gene in base pairs",
               "Chromosome maps can never be constructed using information about gene recombination",
               "It provides an estimate of the relative distance between genes, helping to determine their order and spacing along a chromosome"
             ],
@@ -24462,7 +24462,7 @@ const curriculum: DayContent[] = [
             "options": [
               "More efficient extraction processes can reduce energy use, cost, and environmental impact while producing usable metal from raw ore",
               "Efficient metallurgical extraction mainly affects a metal's purity, not its cost or environmental impact",
-              "This concept has no relevance to chemistry",
+              "Efficient extraction matters mainly because it changes the colour of the refined metal",
               "Metal extraction processes never have any effect on the environment"
             ],
             "answer": 0
@@ -24527,7 +24527,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Its meaning depends heavily on the live, aural, and physical elements of delivery, not just the words themselves",
               "Performance poetry has no meaningful difference from poetry read silently on a page",
-              "This concept has no relevance to oral communication",
+              "Performance poetry is distinct mainly because it never uses rhyme or rhythm",
               "The words themselves are always the only element that matters in any form of poetry"
             ],
             "answer": 0
@@ -24589,7 +24589,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Finite differences are never useful when only a table of data is available",
               "Identifying a polynomial’s degree always requires knowing its equation beforehand",
-              "This concept has no relevance to functions",
+              "Finite differences are useful mainly for finding the y-intercept of a polynomial from a table",
               "It allows the degree of the underlying polynomial to be identified directly from patterns in the data, without needing to know the function’s equation in advance"
             ],
             "answer": 3
@@ -24648,7 +24648,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding the difference between the lytic and lysogenic cycles important for developing antiviral treatments?",
             "options": [
-              "This concept has no relevance to biology",
+              "The difference matters mainly because lysogenic viruses cannot enter host cells",
               "All viruses replicate using exactly the same strategy regardless of species",
               "Different replication strategies may require different approaches to detect, prevent, or interrupt viral activity within the host",
               "Only the lytic cycle can ever be targeted by antiviral drugs; the lysogenic cycle cannot be affected by any treatment"
@@ -24677,7 +24677,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Does the Haber-Bosch process apply principles of chemical equilibrium to maximize yield?",
             "options": [
-              "Only pressure is adjusted; equilibrium principles play no role in the process",
+              "Only temperature is adjusted; pressure does not shift the position of the equilibrium",
               "No, the reaction is driven to completion and never reaches equilibrium",
               "Chemical equilibrium is never relevant to industrial ammonia production",
               "Yes"
@@ -24689,7 +24689,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only the concentration of nitrogen gas is adjusted; pressure and temperature are held constant throughout",
               "Yes",
-              "No, temperature and pressure have no effect on ammonia yield",
+              "No, only the catalyst affects ammonia yield, so temperature and pressure are not adjusted",
               "Ammonia yield is never affected by reaction conditions"
             ],
             "answer": 1
@@ -24708,7 +24708,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the Haber-Bosch process considered one of the most significant achievements in industrial chemistry?",
             "options": [
               "Ammonia produced by this process has never been used for any practical purpose",
-              "This concept has no relevance to chemistry",
+              "It is considered significant mainly because it was the first process to produce hydrogen fuel for vehicles",
               "The Haber-Bosch process is used mainly to produce plastics, not fertilizer",
               "It enabled the large-scale production of ammonia for fertilizer, dramatically increasing global agricultural output"
             ],
@@ -24897,7 +24897,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Balance disorders are never related to any structure located within the ear",
               "Many balance disorders originate from disruptions in the vestibular system, so identifying the affected structure can guide accurate diagnosis and treatment",
-              "This concept has no relevance to biology",
+              "Inner ear structures are important mainly for hearing, so they are checked only in cases of hearing loss",
               "Vertigo is always caused by problems in the brain, never by structures within the inner ear"
             ],
             "answer": 1
@@ -24959,7 +24959,7 @@ const curriculum: DayContent[] = [
               "Nutrient runoff mainly affects soil quality on land, not the health of nearby water ecosystems",
               "Algal blooms are never linked to excess nutrients entering a body of water",
               "Excess nutrients entering waterways can trigger algal blooms that deplete oxygen and harm aquatic life",
-              "This concept has no relevance to chemistry"
+              "Nutrient runoff mainly raises the water temperature, which makes aquatic animals migrate away"
             ],
             "answer": 2
           }
@@ -25300,8 +25300,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Horror and suspense genres never draw on any earlier literary conventions",
               "Its techniques for building dread, atmosphere, and psychological unease established conventions that later writers continued to adapt",
-              "Gothic fiction has had no influence on any later literary genre",
-              "This concept has no relevance to literature"
+              "Gothic fiction influenced only poetry, not later horror or suspense fiction",
+              "Gothic fiction is mainly remembered for its humour, which later romance writers adopted"
             ],
             "answer": 1
           }
@@ -25352,7 +25352,7 @@ const curriculum: DayContent[] = [
               "Loan payments are always identical regardless of amortization schedule",
               "It guarantees the borrower will receive the lowest possible interest rate",
               "It helps borrowers understand the total cost of a loan and how payments are applied over time",
-              "This concept has no relevance to personal financial decisions"
+              "Amortization mainly applies to savings accounts, not to loan payments"
             ],
             "answer": 2
           },
@@ -25402,7 +25402,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only certain species of ruminants host cellulose-fermenting microbes; most do not",
               "Yes",
-              "No, microbes play no role in a ruminant’s digestion",
+              "No, a ruminant's own stomach enzymes break down cellulose without help from microbes",
               "Cellulose can always be digested directly by an animal’s own enzymes alone"
             ],
             "answer": 1
@@ -25421,7 +25421,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding the difference between ruminant and monogastric digestion useful for agricultural feed planning?",
             "options": [
               "All animals digest exactly the same types of feed with equal efficiency",
-              "This concept has no relevance to biology",
+              "Feed planning mainly depends on the animal's colour and size, not on how it digests food",
               "Digestive strategy only matters for wild animals, not for domesticated livestock",
               "Different digestive strategies process nutrients differently, so feed composition can be tailored to what each type of animal can efficiently digest"
             ],
@@ -25483,7 +25483,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It allows the volume of a gas to be converted directly into moles, without needing to measure its mass",
               "Molar volume at STP applies only to liquids, not to gaseous reactants or products",
-              "This concept has no relevance to chemistry",
+              "Molar volume at STP is mainly used to find the boiling point of a gas",
               "Gas volumes can never be used in stoichiometric calculations"
             ],
             "answer": 0
@@ -25550,7 +25550,7 @@ const curriculum: DayContent[] = [
               "Free verse is always considered a more disciplined form than any fixed form",
               "Fixed poetic forms never influence a poem’s language or meaning",
               "Working within strict formal constraints can push a poet toward unexpected, inventive language and can reinforce a poem’s meaning through its structure",
-              "This concept has no relevance to poetry"
+              "Poets use fixed forms mainly because they are faster to write than free verse"
             ],
             "answer": 2
           }
@@ -25672,7 +25672,7 @@ const curriculum: DayContent[] = [
               "Allowing internal concentration to match a stable external environment avoids the continuous energy expenditure required to actively pump ions against a gradient",
               "Osmoconformity requires the same amount of energy as osmoregulation, but distributes it more evenly over time",
               "Osmoconformity always requires more energy than osmoregulation",
-              "This concept has no relevance to biology"
+              "Osmoconformers save energy mainly because they live in freshwater, where there is no salt to pump"
             ],
             "answer": 0
           }
@@ -25730,8 +25730,8 @@ const curriculum: DayContent[] = [
             "q": "Why is the common ion effect an important consideration when calculating the solubility of a compound in a solution that already contains dissolved ions?",
             "options": [
               "Ignoring the presence of a common ion would lead to an inaccurate, overestimated solubility calculation for that compound",
-              "The common ion effect has no relevance to accurately calculating a compound’s solubility",
-              "This concept has no relevance to chemistry",
+              "The common ion effect increases solubility, so ignoring it would lead to an underestimate",
+              "The common ion effect applies only to gases, so it is not used for dissolved compounds",
               "Solubility calculations are never affected by other ions already present in a solution"
             ],
             "answer": 0
@@ -25795,7 +25795,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the character sketch a useful exercise for writers developing longer works of fiction?",
             "options": [
-              "This concept has no relevance to writing",
+              "A character sketch is useful mainly because it determines the length of the final story",
               "Writers never need to understand a character’s personality before writing a longer narrative",
               "Focusing closely on a single character’s traits and mannerisms can help a writer develop a consistent, believable voice before drafting a full narrative",
               "Because character sketches are required as a separate graded assignment in most courses"
@@ -25932,7 +25932,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The camera eye and compound eye are always considered identical in structure and function",
               "Both structures independently evolved solutions for sensing light and forming a usable image, despite arising in very different evolutionary lineages",
-              "This concept has no relevance to biology",
+              "The comparison matters mainly because the camera eye evolved from the compound eye",
               "Comparing these two eye types provides no insight into how vision evolved"
             ],
             "answer": 1
@@ -25993,7 +25993,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Reaction rate is never sensitive to changes in temperature",
               "The Arrhenius equation predicts how concentration affects rate, not how temperature does",
-              "This concept has no relevance to chemistry",
+              "The Arrhenius equation is useful mainly for finding the mass of the products formed",
               "It shows mathematically that even small increases in temperature can produce large increases in reaction rate, particularly for reactions with high activation energy"
             ],
             "answer": 3
@@ -26058,10 +26058,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does the trickster archetype remain a compelling figure in contemporary fiction and film?",
             "options": [
-              "This concept has no relevance to literature",
+              "The trickster endures mainly because the character is always the hero who defeats the villain",
               "Contemporary fiction never draws on archetypes found in traditional folklore",
               "Its blend of cleverness, unpredictability, and moral ambiguity continues to offer writers a flexible way to critique authority and entertain audiences",
-              "The trickster archetype has no relevance to any contemporary fiction or film"
+              "The trickster appears only in ancient myths and has been replaced by other archetypes in modern stories"
             ],
             "answer": 2
           }
@@ -26121,7 +26121,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Three-dimensional lines are always described using slope-intercept form instead",
               "The same parameter-based approach extends naturally from two dimensions into three, where slope-intercept form no longer directly applies",
-              "This concept has no relevance to functions",
+              "Vector equations are useful mainly because they replace the need for coordinates in three dimensions",
               "Three-dimensional geometry never requires any concept related to vectors"
             ],
             "answer": 1
@@ -26182,7 +26182,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Because larvae and adults often occupy different habitats and eat different foods, they are less likely to compete directly with one another for the same limited resources",
               "Larvae and adults of the same species always compete directly for identical resources",
-              "This concept has no relevance to biology",
+              "Metamorphosis mainly lets larvae and adults share the same food, which saves energy for the species",
               "Complete metamorphosis never affects how young and adult insects compete for resources"
             ],
             "answer": 0
@@ -26242,7 +26242,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding the distinction between addition and condensation polymerization important for predicting a polymer’s properties and byproducts?",
             "options": [
               "This distinction only matters for naming a polymer, not for predicting its actual properties or byproducts",
-              "This concept has no relevance to chemistry",
+              "The distinction matters mainly because only condensation polymers can be recycled",
               "All polymerization reactions always produce identical byproducts regardless of mechanism",
               "Knowing the mechanism reveals what byproducts, if any, are released and helps explain differences in the resulting polymer’s structure and characteristics"
             ],
@@ -26319,8 +26319,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Memes are never used to advance any persuasive argument or claim",
               "It helps readers recognize when humour or irony is being used to advance a persuasive argument or misleading claim, rather than accepting a message uncritically",
-              "Analyzing memes has no relevance to understanding contemporary digital culture",
-              "This concept has no relevance to media literacy"
+              "Memes are best analyzed mainly for their artistic quality rather than for the messages they convey",
+              "Meme analysis is mainly useful for learning how to create images with editing software"
             ],
             "answer": 1
           }
@@ -26439,7 +26439,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is comparing open and closed circulatory systems useful for understanding the physiological limits on body size and activity level across animal groups?",
             "options": [
-              "This concept has no relevance to biology",
+              "The comparison matters mainly because open systems carry blood faster than closed systems in all animals",
               "Body size and activity level are never influenced by an animal’s circulatory system",
               "The efficiency of a circulatory system can constrain how large or active an animal can become, helping explain differences between phyla like arthropods and vertebrates",
               "Circulatory system type is determined entirely by an animal's diet, not by its body size or activity level"
@@ -26501,7 +26501,7 @@ const curriculum: DayContent[] = [
             "q": "Why are Faraday’s laws of electrolysis important for industries that rely on electroplating or metal refining?",
             "options": [
               "They allow precise calculation of the electric charge needed to produce a desired quantity of metal, supporting efficient and predictable industrial processes",
-              "This concept has no relevance to chemistry",
+              "Faraday's laws mainly calculate how hot the solution becomes during plating",
               "Faraday’s laws have no practical application for industries involving electroplating or metal refining",
               "Industrial electroplating processes never rely on any quantitative calculation involving charge"
             ],
@@ -26567,7 +26567,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is representing dialect and code-switching accurately considered important for authentic literary representation?",
             "options": [
-              "This concept has no relevance to literature",
+              "Dialect is represented accurately mainly so that the author can avoid using standard spelling",
               "It can honour the lived linguistic realities of a community and avoid flattening a character’s cultural identity into a single, generic voice",
               "Because standardized grammar rules require every character to speak identically",
               "Dialect and code-switching are never connected to a character’s cultural identity"
@@ -26690,7 +26690,7 @@ const curriculum: DayContent[] = [
               "Aquatic animals never need to consider the toxicity of the nitrogenous waste they produce",
               "Ammonia is never toxic to any animal that excretes it",
               "Ammonia can be rapidly diluted and washed away into the surrounding water before it accumulates to toxic levels within the animal’s body",
-              "This concept has no relevance to biology"
+              "Aquatic animals excrete ammonia safely because their bodies convert it to a harmless solid first"
             ],
             "answer": 2
           }
@@ -26813,7 +26813,7 @@ const curriculum: DayContent[] = [
             "q": "Why does the structured, clue-based format of detective fiction appeal to readers across many different eras and cultures?",
             "options": [
               "The structured format of detective fiction has no appeal to readers in any era or culture",
-              "This concept has no relevance to literature",
+              "Detective fiction appeals to readers mainly because the culprit is revealed on the first page",
               "Puzzle-solving and logical reasoning are never connected to why readers enjoy a narrative",
               "It engages readers actively in a puzzle-solving process, offering the satisfaction of logical reasoning combined with narrative suspense"
             ],
@@ -26875,7 +26875,7 @@ const curriculum: DayContent[] = [
               "The rational root theorem has no useful relationship with the remainder theorem",
               "Testing random values is always more efficient than using the rational root theorem to narrow down candidates",
               "It narrows down which values are worth testing with the remainder theorem, making the process of finding an actual root far more efficient than guessing randomly",
-              "This concept has no relevance to functions"
+              "The rational root theorem is useful mainly because it gives the exact roots without any testing"
             ],
             "answer": 2
           }
@@ -26913,7 +26913,7 @@ const curriculum: DayContent[] = [
             "q": "Does ground tissue carry out functions such as photosynthesis and storage in a plant?",
             "options": [
               "No, ground tissue never carries out photosynthesis or storage",
-              "Ground tissue carries out photosynthesis but plays no role in storage",
+              "Ground tissue carries out storage but photosynthesis is done only by the vascular tissue",
               "Yes",
               "Photosynthesis and storage are functions of dermal tissue, not ground tissue"
             ],
@@ -26933,7 +26933,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding the three plant tissue systems useful for explaining how a plant’s different organs, such as leaves, stems, and roots, function together?",
             "options": [
               "Each plant organ is built from a completely unique tissue type found nowhere else in the plant",
-              "This concept has no relevance to biology",
+              "The three tissue systems mainly explain why plants grow upward rather than how organs work together",
               "Leaves, stems, and roots are never built from any shared type of plant tissue",
               "Each organ is built from the same three tissue systems arranged differently, so recognizing this shared organization helps explain how structure supports each organ’s specific function"
             ],
@@ -26994,7 +26994,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It provides a particle-level model of motion, collision, and energy that explains why gases behave in the predictable, measurable ways described by those laws",
               "The kinetic molecular theory applies only to liquids, not to the behaviour described by the gas laws",
-              "This concept has no relevance to chemistry",
+              "The kinetic molecular theory mainly explains why gases are denser than liquids at room temperature",
               "The empirical gas laws were developed with no reference to any theory about particle motion"
             ],
             "answer": 0
@@ -27059,8 +27059,8 @@ const curriculum: DayContent[] = [
             "q": "Why is active listening considered an important skill during a formal interview, not just when answering questions?",
             "options": [
               "Listening carefully to the interviewer’s questions and follow-ups allows a candidate to respond precisely to what is actually being asked, rather than a rehearsed but unrelated answer",
-              "Active listening has no relevance to how a candidate performs during a formal interview",
-              "This concept has no relevance to oral communication",
+              "Active listening is mainly useful for taking detailed notes that the candidate can read back to the interviewer",
+              "Listening matters only after the interview, when a candidate decides whether to accept the job",
               "A candidate’s listening skills are never evaluated as part of a formal interview"
             ],
             "answer": 0
@@ -27177,7 +27177,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is comparing locomotor adaptations across land, water, and air useful for understanding how physical environment shapes an animal’s body plan?",
             "options": [
-              "This concept has no relevance to biology",
+              "The comparison mainly shows that all animals evolved the same body plan regardless of their medium",
               "An animal’s physical environment never influences the evolution of its body plan",
               "It reveals how the specific physical demands of moving through a particular medium, such as air resistance or water drag, have driven the evolution of very different structural solutions",
               "Comparing locomotor adaptations across environments provides no insight into how an animal’s body plan evolved"
@@ -27238,7 +27238,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding the acid-base chemistry behind leavening agents useful for adapting a recipe that changes its acidic ingredients?",
             "options": [
               "A recipe’s ability to rise is never affected by changes to its acidic ingredients",
-              "This concept has no relevance to chemistry",
+              "The chemistry is useful mainly because acids make baked goods taste sweeter",
               "This chemistry only matters when substituting baking powder for baking soda, never the other way around",
               "Recognizing the underlying acid-base reaction helps a baker adjust the amount of leavening agent needed to maintain a properly balanced reaction and consistent rise"
             ],
@@ -27302,8 +27302,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the book review considered a valuable form of public literary discourse?",
             "options": [
-              "Book reviews have no influence on how a text is understood or received by a wider readership",
-              "This concept has no relevance to writing",
+              "Book reviews mainly summarize the plot, so they do not shape how a text is received",
+              "Book reviews are valuable mainly because they are written by the author of the book",
               "It offers accessible, critical engagement with a text that can shape a wider readership’s understanding of and interest in that work",
               "Public literary discourse is never shaped by any critical engagement with a text"
             ],
@@ -27362,9 +27362,9 @@ const curriculum: DayContent[] = [
             "q": "Why is calculating the effective annual rate important for a consumer comparing loan offers from different lenders?",
             "options": [
               "It reveals the true annual cost of borrowing for each option, allowing an accurate comparison beyond simply looking at each loan’s stated nominal rate",
-              "The effective annual rate has no relevance to comparing loan offers from different lenders",
+              "The effective annual rate matters mainly for savings accounts, not for the cost of borrowing",
               "A loan’s stated nominal rate always provides a complete and accurate picture of its true cost",
-              "This concept has no relevance to functions"
+              "The effective annual rate is mainly used to calculate a loan's monthly payment, not to compare lenders"
             ],
             "answer": 0
           }
@@ -27422,7 +27422,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Cancer development is never related to any failure of cell cycle regulation",
               "Many cancers arise when mutations disable checkpoint regulation, allowing damaged cells to divide uncontrollably rather than being halted or destroyed",
-              "This concept has no relevance to biology",
+              "Checkpoint regulation explains cancer mainly by showing that cells stop dividing too early",
               "Cancer results only from external carcinogens, never from failures in the cell's own checkpoint regulation"
             ],
             "answer": 1
@@ -27480,10 +27480,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding the weighted-average nature of atomic mass important when performing mole calculations in stoichiometry?",
             "options": [
-              "The weighted-average nature of atomic mass has no relevance to mole calculations in stoichiometry",
+              "Weighted-average atomic mass is only needed for radioactive elements, not for ordinary mole calculations",
               "Stoichiometric calculations never rely on any value related to atomic mass",
               "Using the periodic table’s average atomic mass accounts for the natural mixture of isotopes in a real sample, giving accurate results for calculations involving moles and molar mass",
-              "This concept has no relevance to chemistry"
+              "Atomic mass is a weighted average mainly because every isotope is equally abundant in nature"
             ],
             "answer": 2
           }
@@ -28446,7 +28446,7 @@ const curriculum: DayContent[] = [
               "The endocrine system responds only to internal changes, never to changes in the external environment",
               "The endocrine system never responds to external changes",
               "Hormonal signals can help the body adjust and maintain internal stability",
-              "External changes have no effect on the body’s internal balance"
+              "The body's internal balance is controlled only by the nervous system, never by hormones"
             ],
             "answer": 2
           },
@@ -29325,7 +29325,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Surveyors never need to measure any triangular shapes",
               "The law of cosines never applies to real-world measurement problems",
-              "This concept has no relevance to math",
+              "The law of cosines mainly helps surveyors find the area of a circle",
               "It allows them to calculate an unknown side or angle without needing a right angle"
             ],
             "answer": 3
@@ -29812,7 +29812,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding normal distribution useful for interpreting large data sets?",
             "options": [
               "It helps identify what values are typical versus unusually high or low",
-              "This concept has no relevance to statistics",
+              "Normal distributions mainly show that every data value appears the same number of times",
               "Normal distribution never helps with interpreting any data",
               "All data sets always form the exact same shape regardless of pattern"
             ],
@@ -30240,7 +30240,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a reader track a recurring motif while reading?",
             "options": [
-              "Motifs have no effect on interpretation",
+              "Motifs mainly show the author's age when the story was written",
               "To identify grammatical errors only",
               "To count how many words are in the chapter",
               "To notice how the pattern deepens or shifts the meaning of the text over time"
@@ -30412,7 +30412,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Cellular respiration is essential only for muscle cells, not for other types of cells",
               "Cells never require energy to function",
-              "Cellular respiration has no role in providing energy",
+              "Cellular respiration mainly stores sunlight so that cells can make food",
               "It provides the usable energy cells need to carry out their functions"
             ],
             "answer": 3
@@ -30789,7 +30789,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding amortization useful when considering a major purchase, like a home?",
             "options": [
-              "This concept has no relevance to financial literacy",
+              "Amortization mainly applies to renting, since a purchased home has no payment schedule",
               "It helps someone understand the total cost and time it will take to pay off a loan",
               "Loans never need to be paid back over time",
               "Amortization never affects how someone plans a major purchase"
@@ -30841,7 +30841,7 @@ const curriculum: DayContent[] = [
               "Polyploidy prevents any reproduction from occurring",
               "Polyploidy always produces offspring identical to a single parent species",
               "Changes in chromosome number can create reproductive barriers with the original species",
-              "It has no role in speciation whatsoever"
+              "Polyploidy mainly speeds up how quickly a plant ages, without changing how it reproduces"
             ],
             "answer": 2
           },
@@ -31220,7 +31220,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It plays on the tension between what feels familiar and what feels wrong, unsettling the reader",
               "The uncanny never contributes to suspense in a story",
-              "This concept has no relevance to reading comprehension",
+              "The uncanny mainly helps readers decode difficult vocabulary and sentence structure",
               "Suspense is never connected to feelings of familiarity or strangeness"
             ],
             "answer": 0
@@ -32200,7 +32200,7 @@ const curriculum: DayContent[] = [
               "Cultural context never affects how a text should be translated",
               "Every language shares identical cultural expressions with no differences",
               "Certain words or expressions may carry meanings specific to a culture that do not directly translate",
-              "This concept has no relevance to reading comprehension"
+              "Translators consider cultural context mainly to decide how long the translated text should be"
             ],
             "answer": 2
           }
@@ -32259,7 +32259,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Earthquake magnitude is never measured using any mathematical scale",
               "Because earthquakes only occur at whole-number magnitudes",
-              "This concept has no relevance to math",
+              "Logarithms are used because the Richter scale measures the distance from the epicentre",
               "They can compress an enormous range of values into a more manageable scale"
             ],
             "answer": 3
@@ -33542,7 +33542,7 @@ const curriculum: DayContent[] = [
               "It prevents any interaction with the surrounding environment",
               "It helps identify food, danger, and chemical signals in the environment",
               "It only functions in plants, never in animals",
-              "It has no role in an organisms ability to survive"
+              "It mainly helps an organism regulate its body temperature, not detect chemicals around it"
             ],
             "answer": 1
           }
@@ -33666,7 +33666,7 @@ const curriculum: DayContent[] = [
               "A circular structure never changes how a reader understands the opening scene",
               "The ending of a circular narrative never connects back to its beginning",
               "New information revealed throughout the story can change how the reader interprets the earlier scene",
-              "This concept has no relevance to reading comprehension"
+              "A circular structure mainly reveals the author's biography at the end of the story"
             ],
             "answer": 2
           }
@@ -33903,10 +33903,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why should readers ask who benefits from a message before trusting it?",
             "options": [
-              "Because asking this question has no bearing on media literacy",
+              "Readers ask this mainly to check how many people have liked or shared the message",
               "Because all messages online are equally trustworthy by default",
               "Because a hidden sponsor may be manufacturing the appearance of public support",
-              "Because the identity of a messages sponsor is always irrelevant"
+              "Readers ask this mainly to find out the sponsor's age and location"
             ],
             "answer": 2
           },
@@ -34044,7 +34044,7 @@ const curriculum: DayContent[] = [
             "q": "Why are autoimmune disorders often difficult to treat?",
             "options": [
               "Autoimmune disorders have no known treatments being researched",
-              "The immune system plays no role in autoimmune disease treatment",
+              "The immune system causes autoimmune disease, so treatments focus only on strengthening it",
               "Suppressing the immune response to protect healthy tissue can also reduce the bodys ability to fight infection",
               "Treating autoimmune disorders always cures them within a single day"
             ],
@@ -35086,7 +35086,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding electric fields important in fields like electronics engineering?",
             "options": [
               "It helps explain how charged components interact and influence one another in a circuit or device",
-              "Electric fields have no relevance to electronics or engineering",
+              "Electric fields apply mainly to large power lines, not to the small components inside electronics",
               "This concept only applies to naturally occurring static electricity, not engineered devices",
               "Electric fields never influence how electronic components function"
             ],
@@ -35811,7 +35811,7 @@ const curriculum: DayContent[] = [
             "q": "Why might an enzyme’s shape be important to its function?",
             "options": [
               "Its shape allows it to bind specifically to a particular substrate molecule",
-              "This concept has no relevance to biological catalysts",
+              "An enzyme's shape mainly determines its colour, which helps it dissolve in water",
               "Only mattering for enzymes that work outside of living cells",
               "Enzymes can bind to any molecule regardless of shape"
             ],
@@ -36311,7 +36311,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It allows scientists to engineer materials with specific, intentional properties not found in bulk materials",
               "It matters only for materials used in electronics, not in other fields",
-              "This concept has no relevance to nanotechnology",
+              "Atomic-level control matters mainly because it makes materials cheaper to produce in bulk",
               "Materials can never be engineered with any intentional design at this scale"
             ],
             "answer": 0
@@ -37080,7 +37080,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What role does the physical layout play in a concrete poem?",
             "options": [
-              "It is a neutral container with no effect on meaning",
+              "Layout is mainly used to make the poem fit the page, and it does not contribute to its meaning",
               "Layout has no relationship to a poems subject in any form",
               "It becomes an active part of the poems meaning",
               "Layout is chosen entirely at random by a printer"
@@ -37281,7 +37281,7 @@ const curriculum: DayContent[] = [
             "q": "Why might scientists be interested in how stress affects gene expression?",
             "options": [
               "Gene expression is never affected by any outside factor",
-              "This concept has no relevance to science",
+              "Scientists study stress mainly because it changes the sequence of bases in every cell's DNA",
               "Because stress always causes permanent, irreversible mutations in DNA",
               "Understanding these effects could reveal connections between environment and health outcomes"
             ],
@@ -37293,7 +37293,7 @@ const curriculum: DayContent[] = [
               "Gene expression was fully explained centuries ago",
               "Epigenetics has already been completely understood with nothing left to discover",
               "Scientists are still working to understand the full range of factors that can influence gene expression",
-              "This concept has no relevance to science"
+              "Epigenetics is considered new mainly because it was discovered to replace the study of genes"
             ],
             "answer": 2
           }
@@ -37700,7 +37700,7 @@ const curriculum: DayContent[] = [
             "options": [
               "By evaporating all rainfall before it can accumulate",
               "By storing floodwater and slowing its release",
-              "By having no effect on water flow whatsoever",
+              "By absorbing floodwater and then releasing it all downstream in a single surge",
               "By immediately releasing all stored water at once"
             ],
             "answer": 1
@@ -37926,7 +37926,7 @@ const curriculum: DayContent[] = [
               "Convert DNA directly into a protein with no intermediate steps",
               "Permanently destroy all DNA they contact",
               "Cut it at specific recognition sequences",
-              "Have no effect on DNA of any kind"
+              "Join DNA fragments together without cutting them first"
             ],
             "answer": 2
           },
@@ -38269,7 +38269,7 @@ const curriculum: DayContent[] = [
             "q": "Why is widespread vaccination in a community sometimes linked to protecting people through herd immunity?",
             "options": [
               "Vaccinating a community never has any effect on how a disease spreads",
-              "This concept has no relevance to science",
+              "Herd immunity works mainly because vaccinated people stay away from those who are unvaccinated",
               "Herd immunity only works if 100% of a population is vaccinated",
               "When enough people are immune, a disease has a harder time spreading, protecting those who cannot be vaccinated"
             ],
@@ -38495,7 +38495,7 @@ const curriculum: DayContent[] = [
               "By disrupting proteins and cell membranes through oxidation",
               "By providing nutrients that microorganisms need to thrive",
               "By freezing microorganisms at room temperature",
-              "By having no effect on microorganisms whatsoever"
+              "By dissolving the cell wall and then supplying nutrients for the microorganism to rebuild itself"
             ],
             "answer": 0
           },
@@ -39036,7 +39036,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What should a strong cover letter connect?",
             "options": [
-              "Nothing in particular, since content does not matter",
+              "Only the applicant's personal opinions about the employer",
               "The applicants unrelated hobbies to a random topic",
               "The reader to a completely unrelated organization",
               "The applicants specific experience to the specific opportunity"
@@ -39361,7 +39361,7 @@ const curriculum: DayContent[] = [
             "q": "Why are critical points important in solving an optimization problem?",
             "options": [
               "They locate the points where the function may reach a maximum or minimum value",
-              "Critical points have no relevance to maximum or minimum values",
+              "Critical points are where a function always changes from increasing to constant",
               "Critical points always indicate where a function is undefined",
               "Critical points only exist for functions with no derivative"
             ],
@@ -40388,7 +40388,7 @@ const curriculum: DayContent[] = [
             "q": "What substance does the liver produce to aid in fat digestion?",
             "options": [
               "Bile",
-              "A substance with no role in digestion",
+              "Pepsin, which breaks down proteins in the stomach",
               "Stomach acid exclusively",
               "Insulin exclusively"
             ],
@@ -40397,7 +40397,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the liver considered central to detoxification?",
             "options": [
-              "It only processes water, with no role in toxin removal",
+              "It filters mainly the carbon dioxide out of the blood before it returns to the lungs",
               "It has no ability to interact with toxins of any kind",
               "It breaks down or neutralizes toxins and metabolic waste products",
               "Detoxification occurs exclusively in the lungs, not the liver"
@@ -41201,7 +41201,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the malleability of metals, allowing them to be shaped without breaking, explained by the structure of metallic bonding?",
             "options": [
-              "This concept has no relevance to science",
+              "Malleability is explained mainly by the ionic charges that hold the metal atoms in a rigid lattice",
               "Metals are never able to be shaped or bent under any circumstances",
               "The freely moving electrons allow metal atoms to shift position relative to each other without breaking the overall bond",
               "Because metallic bonds are much weaker than ionic or covalent bonds"
@@ -41257,7 +41257,7 @@ const curriculum: DayContent[] = [
             "q": "What should an effective proposal argument anticipate?",
             "options": [
               "Objections to the proposed solution",
-              "Nothing at all, since objections are irrelevant",
+              "Only the writer's own preferences for how the solution should be funded",
               "A total absence of any possible counterargument",
               "Only objections raised by the writer themselves"
             ],
@@ -41982,7 +41982,7 @@ const curriculum: DayContent[] = [
               "To keep readers subscribing to the next instalment",
               "To ensure readers stop reading immediately after the first instalment",
               "Cliffhangers were strictly forbidden in serial fiction",
-              "Cliffhangers have no effect on reader interest of any kind"
+              "Cliffhangers mainly helped the author fill the required page count for each instalment"
             ],
             "answer": 0
           },
@@ -42178,7 +42178,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is diffusion important for cells to obtain oxygen and nutrients?",
             "options": [
-              "This concept has no relevance to science",
+              "Diffusion is mainly how cells remove heat, not how they obtain oxygen and nutrients",
               "Cells always require large amounts of energy to move oxygen and nutrients in by diffusion",
               "Diffusion never allows any particles to cross a cell membrane",
               "It allows particles to move passively across cell membranes without requiring extra cellular energy"
@@ -42667,7 +42667,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is comparing formal charges useful when more than one Lewis structure can be drawn for a molecule?",
             "options": [
-              "Formal charge has no bearing on which structure is more likely",
+              "Formal charge is used mainly to count the total number of electrons in the molecule",
               "Only one Lewis structure can ever be drawn for any molecule",
               "The structure with formal charges closest to zero and placed on the most electronegative atoms is usually favoured",
               "The structure with the largest formal charges is always correct"
@@ -42715,7 +42715,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They occur only after the journey has already ended",
               "They accumulate to shape the protagonists development",
-              "They have no effect on the protagonist whatsoever",
+              "They mainly delay the plot, leaving the protagonist unchanged by the journey",
               "They are always identical to one another with no variation"
             ],
             "answer": 1
@@ -43158,7 +43158,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important that gametes produced by meiosis have half the normal chromosome number?",
             "options": [
               "So that when two gametes combine during fertilization, the resulting offspring has the correct full chromosome number",
-              "This concept has no relevance to science",
+              "Meiosis halves the chromosome number mainly so that gametes are smaller and easier to transport",
               "Fertilization always results in offspring with double the normal chromosome number",
               "Gametes never need to have a reduced chromosome number for reproduction to work"
             ],
@@ -43716,7 +43716,7 @@ const curriculum: DayContent[] = [
               "Filter bubbles only affect printed media, never online platforms",
               "Understanding filter bubbles guarantees a reader will never encounter biased content again",
               "Recognizing a filter bubble helps a reader seek out perspectives the algorithm might otherwise hide",
-              "Filter bubbles have no relevance to evaluating information at all"
+              "Filter bubbles mainly affect how fast a page loads, not what information a reader sees"
             ],
             "answer": 2
           }
@@ -44097,7 +44097,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What are enzymes classified as?",
             "options": [
-              "A substance with no effect on reaction rate",
+              "A substance that is consumed during a reaction and slows the reaction down",
               "Biological catalysts",
               "Structural proteins with no catalytic role",
               "A type of inorganic mineral"
@@ -44859,7 +44859,7 @@ const curriculum: DayContent[] = [
             "q": "What are enzymes classified as?",
             "options": [
               "A type of inorganic mineral",
-              "A substance with no effect on reaction rate",
+              "A substance that is consumed during a reaction and slows the reaction down",
               "Structural proteins with no catalytic role",
               "Biological catalysts"
             ],
@@ -45279,7 +45279,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Mast cells",
               "Muscle cells",
-              "A cell type with no role in immune responses",
+              "Platelets, which release histamine to clot the blood",
               "Red blood cells"
             ],
             "answer": 0
@@ -45570,7 +45570,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why are consistent rules for significant figures applied during calculations?",
             "options": [
-              "Significant figures have no effect on the precision implied by an answer",
+              "Significant figures are used mainly to round every answer to a whole number",
               "To ensure a final answer does not falsely imply more precision than the original data supports",
               "To remove all decimal points from every calculated value",
               "To make every calculated answer appear as precise as possible regardless of the data"
@@ -45602,7 +45602,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Significant figures are only relevant to qualitative, not quantitative, chemistry",
               "It ensures other scientists can accurately judge the reliability of the reported data",
-              "Precision has no bearing on how other scientists interpret results",
+              "Precision mainly affects how fast an experiment can be repeated, not how results are interpreted",
               "Reported results never need to reflect the precision of the original measurement"
             ],
             "answer": 1
@@ -45775,7 +45775,7 @@ const curriculum: DayContent[] = [
             "q": "What can the edge effect do to species adapted to interior habitat conditions?",
             "options": [
               "Expose them to unfavourable conditions that can reduce biodiversity",
-              "Have no effect on interior species whatsoever",
+              "Make them more likely to thrive because predators rarely reach the forest edge",
               "Guarantee an increase in their population size",
               "Immediately improve their survival with no negative effect at all"
             ],
@@ -46906,7 +46906,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Primarily the ability to digest and absorb nutrients",
               "Structure, support, and the ability to move",
-              "Only protection, with no role in movement",
+              "Only the production of blood cells, with a limited role in movement",
               "No structural support of any kind"
             ],
             "answer": 1
@@ -47109,7 +47109,7 @@ const curriculum: DayContent[] = [
             "q": "Plant hormones play a key role in regulating ___.",
             "options": [
               "Primarily the plant's resistance to freezing temperatures",
-              "The rate of photosynthesis exclusively, with no role in growth",
+              "Only the plant's response to touch, such as a leaf folding when pressed",
               "Growth and development",
               "Only the colour of a plant’s leaves"
             ],
@@ -47752,7 +47752,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Is composed of a single tissue type with one isolated function",
               "Consists of multiple tissue types working together to perform functions such as protection and thermoregulation",
-              "Has no role in maintaining homeostasis",
+              "Is only an outer covering that absorbs nutrients from food",
               "Skin cells dividing more rapidly than cells in other organs"
             ],
             "answer": 1
@@ -48343,7 +48343,7 @@ const curriculum: DayContent[] = [
             "q": "An adaptation is best described as a trait that ___.",
             "options": [
               "Always harms an organism’s chances of survival",
-              "Has no effect at all on an organism’s survival or reproduction",
+              "Is a trait gained by practice during a lifetime and passed on to offspring",
               "A trait acquired during an organism's lifetime and passed to offspring",
               "Improves an organism’s ability to survive and reproduce in its environment"
             ],
@@ -54006,7 +54006,7 @@ const curriculum: DayContent[] = [
             "q": "The formula nPr is used to count...",
             "options": [
               "Arrangements where order matters",
-              "Selections where order does not matter",
+              "Arrangements where every item is identical",
               "The total number of possible outcomes regardless of order",
               "Combinations only"
             ],

@@ -45099,7 +45099,7 @@ const curriculum: DayContent[] = [
             "options": [
               "7/5",
               "75/10",
-              "0.75/1",
+              "3/5",
               "75/100"
             ],
             "answer": 3

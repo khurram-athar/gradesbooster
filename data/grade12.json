@@ -3515,7 +3515,7 @@
             "q": "Reading literature throughout your adult life ___.",
             "options": [
               "is only for people who study English",
-              "is largely irrelevant after graduation",
+              "mainly benefits people who plan to teach literature",
               "sustains growth, meaning, and skill",
               "becomes unnecessary once formal literary analysis ends with graduation"
             ],
@@ -4275,7 +4275,7 @@
           {
             "q": "The danger of applying theory mechanically is ___.",
             "options": [
-              "the theory becomes irrelevant",
+              "the text can no longer be interpreted at all",
               "theory always improves a reading",
               "the text is reduced to an illustration of the theory",
               "no danger exists in using theory"
@@ -6772,7 +6772,7 @@
             "options": [
               "only useful for English exams",
               "impossible without notes",
-              "irrelevant to real university skill",
+              "easier than untimed writing for every student",
               "challenging but empowering"
             ],
             "answer": 3
@@ -7469,7 +7469,7 @@
           {
             "q": "Algorithmic bias occurs when content-curating systems ___.",
             "options": [
-              "Have no influence on what audiences see",
+              "Display identical content to every user",
               "Are entirely random with no underlying pattern",
               "Present every perspective with perfectly equal weight",
               "Systematically favour certain perspectives"
@@ -8486,7 +8486,7 @@
             "q": "Why must debaters be able to respond persuasively to complex counterarguments?",
             "options": [
               "This skill matters only in casual conversation, not competitive debate",
-              "Counterarguments have no role in a formal debate format",
+              "Counterarguments are only allowed during the closing statement",
               "Debaters should always ignore any counterarguments presented by the opposing side",
               "A strong debate requires directly and effectively addressing points raised by the opposing side"
             ],
@@ -8688,7 +8688,7 @@
             "q": "Why is understanding capacitors important for designing modern electronic devices?",
             "options": [
               "Electronic devices never require any form of energy storage components",
-              "Capacitors have no role in modern electronic device design",
+              "Capacitors are used only to generate power, never to store it",
               "Capacitors play a key role in managing and storing electrical energy within many circuits",
               "Capacitors are only used in circuits that never need rapid energy storage"
             ],
@@ -9416,7 +9416,7 @@
             "q": "Why are strong magnetic fields necessary in a particle accelerator?",
             "options": [
               "Magnetic fields can steer and control the path of fast-moving charged particles",
-              "Magnetic fields have no role in the operation of a particle accelerator",
+              "Magnetic fields are used mainly to increase the mass of the particles",
               "Only electric fields, not magnetic fields, are needed to steer particles",
               "Charged particles are never affected by magnetic fields in any way"
             ],
@@ -11497,7 +11497,7 @@
             "options": [
               "A clear structure helps ensure the core idea is communicated efficiently and memorably within limited time",
               "Structure matters only for talks longer than twenty minutes",
-              "A time limit has no influence on how a talk should be structured",
+              "A strict time limit means a speaker should skip structure and improvise",
               "This concept applies only to written speeches, not live presentations"
             ],
             "answer": 0
@@ -11688,7 +11688,7 @@
           {
             "q": "Why do musical instrument designers carefully consider the shape and material of an instrument’s body?",
             "options": [
-              "The shape and material of an instrument have no effect on the sound it produces",
+              "Body shape affects only how loud the instrument is, never its tone",
               "An instrument's shape affects only its appearance, not the sound it produces",
               "Acoustic design principles apply only to electronic instruments, not acoustic ones",
               "These factors influence the instrument’s resonant properties, shaping the sound quality it produces"
@@ -13792,7 +13792,7 @@
             "options": [
               "It critically assesses the strength of the argument and evidence, offering an informed evaluation grounded in the wider field",
               "This type of writing is evaluated only on grammatical correctness",
-              "Critical evaluation has no role in this type of writing",
+              "Its main purpose is to retell the plot in as much detail as possible",
               "An academic book review is identical in every way to a simple personal opinion"
             ],
             "answer": 0
@@ -14463,7 +14463,7 @@
             "options": [
               "A statistical artifact arising from limitations in current experimental apparatus",
               "Completely avoidable with sufficiently advanced instruments",
-              "Irrelevant to how particles actually behave",
+              "Caused only by the observer's reaction time",
               "Fundamental"
             ],
             "answer": 3
@@ -14473,7 +14473,7 @@
             "options": [
               "According to the uncertainty principle, the product of the uncertainties in these two properties cannot fall below a fundamental limit",
               "Position and momentum have no established mathematical relationship at the quantum scale",
-              "Measuring position more precisely always has no effect whatsoever on how precisely momentum can be known",
+              "Measuring position more precisely makes momentum exactly known as well",
               "The uncertainty arises purely from calibration errors in the position-measuring instrument"
             ],
             "answer": 0
@@ -14537,7 +14537,7 @@
           {
             "q": "Why might a writer choose a semicolon over a period when connecting two related independent clauses?",
             "options": [
-              "Semicolons have no effect on how closely two ideas feel connected",
+              "A semicolon is used mainly to introduce a list of items",
               "A semicolon can signal a closer, more immediate relationship between the two ideas than a full stop would suggest",
               "A semicolon always creates a greater sense of separation between two ideas than a period",
               "This choice matters only in academic writing, never in creative prose"
@@ -15069,7 +15069,7 @@
               "Only scientific truths verifiable through empirical experimentation",
               "Historical",
               "Concepts entirely disconnected from any lived reality",
-              "Truths that have no bearing on any real-world context"
+              "Truths about future technology only"
             ],
             "answer": 1
           },
@@ -15259,7 +15259,7 @@
           {
             "q": "Why is the wave nature of everyday macroscopic objects, such as a thrown ball, never noticeably observed?",
             "options": [
-              "The de Broglie hypothesis applies only to light and has no bearing on matter with mass",
+              "Matter waves exist only for objects moving at the speed of light",
               "Macroscopic objects never possess any momentum, so no wavelength can be calculated",
               "Macroscopic objects obey entirely different physical laws that exclude any wave description",
               "The de Broglie wavelength of an object with significant mass and momentum is extraordinarily small compared to any observable scale"
@@ -15648,7 +15648,7 @@
             "options": [
               "A function can have an oblique asymptote only if it also has a horizontal one",
               "A rational function can freely have both an oblique and a horizontal asymptote simultaneously in every case",
-              "The degrees of the numerator and denominator have no bearing on the type of asymptote a function has",
+              "A function has an oblique asymptote whenever its denominator has a higher degree than its numerator",
               "These two types of asymptotes depend on different, mutually exclusive relationships between the numerator’s and denominator’s degrees"
             ],
             "answer": 3
@@ -15700,7 +15700,7 @@
               "The absolute maximum or minimum on a closed interval could occur at an endpoint rather than at any interior critical point",
               "Endpoints only need to be checked if no critical points exist within the interval",
               "The endpoints of a closed interval never need to be checked when searching for an absolute extremum",
-              "A function’s value at its endpoints has no bearing on identifying its absolute maximum or minimum"
+              "Endpoint values are only used to confirm that a critical point is a maximum"
             ],
             "answer": 0
           },
@@ -15759,7 +15759,7 @@
             "q": "Why does genetic engineering raise ethical considerations?",
             "options": [
               "Ethical concerns apply only to animal research, never to plant or microbial engineering",
-              "Ethical considerations are irrelevant to scientific research",
+              "Ethical concerns arise only when engineered organisms are sold for profit",
               "It has the potential to significantly alter living organisms, raising questions about appropriate use",
               "Genetic engineering has no ethical implications at all"
             ],
@@ -16054,7 +16054,7 @@
             "q": "Why do admissions readers generally prefer a narrow, concrete moment over a broad summary of accomplishments?",
             "options": [
               "A broad summary is always more memorable than a specific moment",
-              "This distinction has no bearing on how an essay is read",
+              "Readers tend to favour essays that mention as many awards as possible",
               "A concrete moment lets the reader see the writer’s thinking and personality in action, rather than just a list of achievements",
               "Concrete moments are never appropriate in a college essay"
             ],
@@ -16064,7 +16064,7 @@
             "q": "A college application essay typically avoids simply listing achievements, favouring ___ instead.",
             "options": [
               "A polished list of standardized test scores and GPA figures",
-              "A title, which has no bearing on the essay’s central content",
+              "A detailed timeline of every activity from Grade 9 onward",
               "A resume-style format with no narrative at all",
               "A genuine, reflective story that shows growth or insight"
             ],
@@ -17082,7 +17082,7 @@
             "q": "Why might a writer use formal, precise language when addressing a specific official in a public letter, even while writing partly for a broader audience?",
             "options": [
               "Because formal language is a legal requirement for all public correspondence",
-              "The tone and precision of language have no bearing on how a public letter is received",
+              "Informal slang makes a letter seem more credible to an official reader",
               "Formal language always alienates a public letter’s broader intended readership",
               "Formal precision signals credibility and seriousness to the named recipient, while remaining accessible and persuasive enough to resonate with a broader public readership"
             ],
@@ -17618,7 +17618,7 @@
               "A verse novel with multiple voices always presents an identical, unified perspective with no variation between speakers",
               "Each voice offers a different, partial perspective on shared events, requiring the reader to assemble a fuller picture of the story’s truth from fragments of subjective experience",
               "Because alternating voices function identically to footnotes in a critical edition",
-              "Multiple first-person voices have no effect on how a reader interprets a narrative’s events"
+              "Multiple voices mainly make a verse novel shorter than a prose narrative"
             ],
             "answer": 1
           }
@@ -17801,7 +17801,7 @@
             "options": [
               "This field of study provides no useful information for hazard preparedness",
               "Natural hazards are equally likely to occur in any location, regardless of geological setting",
-              "Plate boundaries are static features that play no role in triggering earthquakes or volcanoes",
+              "Plate boundaries are zones where earthquakes and volcanoes are caused mainly by weather patterns",
               "It helps identify regions at higher risk, informing safety and preparedness efforts"
             ],
             "answer": 3
@@ -18032,7 +18032,7 @@
               "The specific arrangement of atoms in a functional group influences how a molecule reacts",
               "Chemical reactivity depends only on a molecule's total number of atoms, not their arrangement",
               "All organic compounds behave in an identical way regardless of structure",
-              "Functional groups have no effect on a molecule’s properties"
+              "Functional groups affect only the colour of a compound, not its reactivity"
             ],
             "answer": 0
           },
@@ -18117,7 +18117,7 @@
             "q": "Why is drawing attention to its own fictional construction a defining feature of historiographic metafiction, rather than an incidental stylistic choice?",
             "options": [
               "Because readers of historical fiction generally prefer dense footnoting over narrative immersion",
-              "A text’s self-awareness about its own construction has no bearing on how a reader might view historical narratives generally",
+              "Self-awareness in a text is meant mainly to correct factual errors in history books",
               "Historiographic metafiction never draws any attention to its own fictional or narrative nature",
               "By foregrounding its own artifice, the text invites readers to question the similarly constructed, selective nature of official historical narratives themselves"
             ],
@@ -18408,7 +18408,7 @@
             "options": [
               "True",
               "Only partially true, an inaccurate description of this assumption",
-              "Irrelevant, an inaccurate description of the default claim’s role in this calculation",
+              "Proven, an inaccurate description of the default claim's status in this calculation",
               "False, an inaccurate description of what a p-value assumes when it is calculated"
             ],
             "answer": 0
@@ -18426,7 +18426,7 @@
           {
             "q": "Why does a very small p-value provide stronger evidence against an assumed default claim than a large p-value does?",
             "options": [
-              "The size of a p-value has no bearing on how much evidence the data provide against a default claim",
+              "A small p-value shows that the default claim is certainly true",
               "A small p-value indicates the observed data would be quite unlikely if the default claim were true, suggesting the data are better explained by some alternative explanation",
               "A small p-value simply reflects a larger sample size, not stronger evidence",
               "A small p-value indicates the observed data are exactly what would be expected under the default claim"
@@ -18529,7 +18529,7 @@
             "options": [
               "Solid medium exclusively, an inaccurate description that misrepresents this phenomenon’s defining speed comparison",
               "Charged medium exclusively, an inaccurate and overly narrow description",
-              "Plasma, a state of matter not relevant to the standard statement of this comparison",
+              "Water, an inaccurate description since the particle exceeds light's speed there",
               "Vacuum"
             ],
             "answer": 3
@@ -18798,7 +18798,7 @@
               "Earth’s magnetic field lines funnel incoming charged particles from the solar wind toward the magnetic poles, concentrating the resulting atmospheric collisions and light emission in those polar regions",
               "The aurora is produced with no connection whatsoever to Earth’s magnetic field",
               "Earth's atmosphere is simply thinner near the poles, allowing more light to escape",
-              "Earth’s magnetic field has no influence on where charged particles from the solar wind travel within the atmosphere"
+              "Earth's magnetic field pushes charged particles away from the poles toward the equator"
             ],
             "answer": 0
           },
@@ -19331,7 +19331,7 @@
             "options": [
               "Author's biography exclusively, with no reference to the text's own conventions",
               "Genre",
-              "Publication date exclusively, a detail with no bearing on a text's literary style",
+              "Print format exclusively, a layout detail rather than a stylistic convention",
               "Translation history exclusively, a publishing detail rather than a stylistic convention"
             ],
             "answer": 1
@@ -19362,7 +19362,7 @@
               "Because copyright law requires written permission before parodying any text",
               "Effective parody depends on precisely reproducing recognizable features of the original, so its exaggerations and distortions land as intentional and pointed rather than as simple misunderstanding",
               "A writer can successfully parody a text without any familiarity with its style or conventions",
-              "Understanding an original text has no bearing on a writer’s ability to imitate or exaggerate its features"
+              "Parody works best when the writer avoids studying the original too closely"
             ],
             "answer": 1
           },
@@ -19558,7 +19558,7 @@
               "The total applied force alone always provides a complete and sufficient description of how a material will respond to a load",
               "Defining stress relative to a material’s cross-sectional area allows meaningful comparisons between materials or objects of different sizes, since the same total force can produce very different internal effects depending on how it is distributed",
               "Total applied force already accounts for an object's size and shape without needing area",
-              "Cross-sectional area has no bearing on how a material internally responds to an applied force"
+              "Stress is defined per unit area only so that its units match those of fluid pressure"
             ],
             "answer": 1
           },
@@ -19633,7 +19633,7 @@
             "q": "Why does performing verse drama require particular attention from actors to rhythm and metre, beyond the demands of naturalistic prose dialogue?",
             "options": [
               "The underlying poetic structure carries meaning and emotional emphasis of its own, so honouring the metre’s rhythm while still sounding natural is a distinct performance challenge compared to conversational prose delivery",
-              "Rhythm and metre have no bearing on how a line of verse drama should be performed",
+              "Metre matters only for actors reading verse silently, not performing it",
               "Verse drama places no additional demand on actors beyond what naturalistic prose dialogue requires",
               "Because actors performing verse drama are exempt from memorizing exact lines"
             ],
@@ -19786,7 +19786,7 @@
             "q": "In the twin paradox, the travelling twin ages ___ than the twin who remained on Earth.",
             "options": [
               "Less",
-              "Identically to how they would age without any travel at all, since motion has no effect",
+              "Slightly less only while accelerating, then identically after turning around",
               "Exactly the same amount as, an inaccurate description that would eliminate the paradox’s central result",
               "More, an inaccurate description of the outcome predicted for the travelling twin"
             ],
@@ -20355,7 +20355,7 @@
             "options": [
               "This process requires no connection between magnetism and electricity",
               "The changing magnetic field induces a current in the wire",
-              "Magnets have no effect on electric currents in nearby wires",
+              "Magnets produce current only when pressed directly against the wire",
               "A stationary magnet would produce the exact same effect"
             ],
             "answer": 1
@@ -22006,7 +22006,7 @@
             "options": [
               "Only a single item is being arranged",
               "Order matters",
-              "Order does not matter at all",
+              "Items are chosen from a group without being arranged",
               "Only two items are available to be arranged, regardless of order"
             ],
             "answer": 1
@@ -22663,7 +22663,7 @@
               "Personal essays should only describe events with no insight",
               "Growth and insight are never relevant to this type of essay",
               "It shows how an experience shaped the writer’s understanding, values, or growth",
-              "Reflection has no role in personal essay writing"
+              "Reflection is used only to summarize the plot in the final paragraph"
             ],
             "answer": 2
           },
@@ -22798,7 +22798,7 @@
               "Only when every item being arranged is identical",
               "Order matters",
               "Only a single item is being arranged",
-              "Order does not matter at all"
+              "Only items from different groups are selected"
             ],
             "answer": 1
           },
@@ -23426,7 +23426,7 @@
           {
             "q": "Why might rearranging an ordinary text, like a legal notice, into a found poem change how a reader experiences its meaning?",
             "options": [
-              "Line breaks and structure have no effect on how any text is experienced by a reader",
+              "Line breaks only change a text's font, not how it is read",
               "Rearranging a text into a found poem never changes how a reader experiences it",
               "The new line breaks and structure can draw attention to particular words or phrases and highlight unintended ironies or rhythms",
               "Because legal documents are always rewritten entirely before becoming poems"
@@ -23767,7 +23767,7 @@
             "q": "A permutation counts the number of ways items can be arranged when ___.",
             "options": [
               "Order matters",
-              "Order does not matter at all",
+              "Items are selected without being placed in any sequence",
               "Only one item is available to arrange",
               "Only two items are available to be arranged at a time"
             ],
@@ -23924,7 +23924,7 @@
             "q": "Why might a New Journalism piece be considered more subjective than a traditional news report, even though it is still grounded in factual reporting?",
             "options": [
               "Its novelistic techniques, like a chosen narrative perspective and selective scene-building, shape the reader’s experience in ways closer to fiction",
-              "Narrative perspective and scene-building have no effect on how a reader experiences a nonfiction text",
+              "Its use of interview quotations makes it less grounded in factual reporting",
               "New Journalism pieces are always considered exactly as objective as a traditional wire report",
               "Because New Journalism articles are always fact-checked less rigorously than wire reports"
             ],
@@ -24173,7 +24173,7 @@
             "q": "Why might an author use a palimpsest structure to explore themes of memory or colonial history?",
             "options": [
               "A palimpsest structure never has any connection to themes of memory or history",
-              "Earlier histories are always completely irrelevant to any present-day narrative",
+              "Earlier histories are erased once a new story is written over them",
               "Because palimpsest structures are required by convention in postcolonial fiction",
               "It can visually and structurally represent how earlier histories continue to shape and show through a present-day narrative, even when suppressed"
             ],
@@ -25157,7 +25157,7 @@
               "A young character who grows and changes significantly over the story",
               "An omniscient narrator who never appears as a character",
               "A fully mature adult who never changes throughout the story",
-              "A minor character with no role in the plot"
+              "A villain who opposes the hero throughout the story"
             ],
             "answer": 0
           },
@@ -25360,7 +25360,7 @@
               "Every alpha particle was expected to collide directly with a nucleus, regardless of the nucleus’s size",
               "The nucleus occupies almost the entire volume of the atom",
               "Most alpha particles pass through the mostly empty space of the atom, only occasionally coming close enough to the small nucleus to be strongly deflected",
-              "The size of the nucleus has no bearing on how many alpha particles are deflected"
+              "Alpha particles were deflected mainly by electrons in the atom"
             ],
             "answer": 2
           }
@@ -25414,7 +25414,7 @@
             "q": "Why might a Gothic novel use a decaying, labyrinthine setting rather than a familiar, orderly one?",
             "options": [
               "Because Gothic novels are required to be set in a specific historical century",
-              "Setting has no bearing on how a Gothic novel creates its effect on a reader",
+              "Gothic settings are chosen mainly to teach readers about architectural history",
               "Gothic novels always use only cheerful, brightly lit settings with no atmosphere of unease",
               "A disorienting, decaying space can mirror characters’ psychological unease and heighten a sense of hidden danger or transgression"
             ],
@@ -26644,7 +26644,7 @@
           {
             "q": "Why might an author include a narrator-commentator figure?",
             "options": [
-              "To confuse the audience with irrelevant information",
+              "To replace the plot with the author's biography",
               "To remove the need for any characters",
               "To offer the audience insight or perspective the characters themselves may lack",
               "To eliminate all perspective from the story"
@@ -26910,7 +26910,7 @@
             "options": [
               "Because paratextual elements are added only after a book has gone out of print",
               "A preface or epigraph is always required to be physically removed before a text can be properly interpreted",
-              "Paratextual elements are universally agreed to have absolutely no influence on how a reader interprets a text",
+              "Paratextual elements affect only the physical weight and size of the book",
               "These framing elements can establish expectations, tone, or thematic emphasis that colour how the reader subsequently approaches the main text"
             ],
             "answer": 3
@@ -27145,7 +27145,7 @@
               "Because competition rules require poets to recite from a printed page",
               "A poem’s meaning is always completely unaffected by any choices made in its live performance",
               "Performance elements like pacing and emphasis actively shape how the audience experiences meaning and emotion in the moment of delivery",
-              "Vocal delivery is considered entirely irrelevant to how a slam poem communicates its meaning"
+              "Vocal delivery only matters when the poem is written in rhyme"
             ],
             "answer": 2
           },
@@ -27324,7 +27324,7 @@
             "options": [
               "Insulators allow charges to move and redistribute just as freely as conductors",
               "Insulating materials are always more effective at shielding electric fields than conductors",
-              "The material used has no effect whatsoever on whether shielding occurs",
+              "The material matters only for the cage's weight, not for shielding",
               "Only a conductor allows free charges to move and redistribute quickly enough to cancel the external field within the enclosure"
             ],
             "answer": 3
@@ -27457,7 +27457,7 @@
           {
             "q": "Why does extending inclusion-exclusion to three overlapping sets require adding back the size of the triple intersection |A ∩ B ∩ C| after subtracting all three pairwise intersections?",
             "options": [
-              "The triple intersection term is always irrelevant and never needs to be included in any inclusion-exclusion calculation",
+              "The triple intersection is added only when the three sets are identical",
               "Extending inclusion-exclusion to three sets requires subtracting the triple intersection twice more, not adding it back",
               "Elements belonging to all three sets get subtracted three times during the pairwise-intersection step, so they must be added back once to be counted correctly overall",
               "The triple intersection should be subtracted a second time, not added back"
@@ -27577,9 +27577,9 @@
             "q": "Why are transformer cores often laminated (built from thin, insulated sheets) rather than made from a single solid block of metal?",
             "options": [
               "Lamination breaks up the paths available for eddy currents to circulate, reducing the energy wasted as heat within the core",
-              "Lamination is used purely to reduce the transformer’s overall weight, with no effect on eddy currents",
+              "Lamination mainly makes the core cheaper to manufacture than a solid block",
               "A solid metal core always produces fewer eddy currents than a laminated one",
-              "Lamination increases the core's magnetic permeability, with no effect on eddy currents"
+              "Lamination prevents the core from ever becoming magnetized"
             ],
             "answer": 0
           }
@@ -29099,7 +29099,7 @@
             "options": [
               "It replaces the need to read the text at all",
               "It can provide context that deepens understanding of the texts themes or choices",
-              "Historical context is always completely irrelevant to a text",
+              "Historical context is useful only for texts written in the last decade",
               "It guarantees a single, definitive interpretation of every text"
             ],
             "answer": 1
@@ -29341,7 +29341,7 @@
           {
             "q": "Why might disability studies scholars value narratives written by disabled authors?",
             "options": [
-              "These narratives are considered entirely irrelevant to literary study",
+              "They are valued mainly because they use more complex vocabulary",
               "They can offer authentic perspectives often missing from mainstream portrayals",
               "Authorship matters only when the author has received formal literary training",
               "Disabled authors are never interested in writing about disability"
@@ -30661,7 +30661,7 @@
             "options": [
               "They only apply to whole numbers",
               "They are used to formally define the derivative",
-              "Limits are only used to test continuity and play no role in defining the derivative",
+              "Limits are used only to calculate the areas of rectangles",
               "They eliminate the need to study functions"
             ],
             "answer": 1
@@ -32694,7 +32694,7 @@
             "options": [
               "It increases R proportionally, since more slits produce sharper, narrower principal maxima",
               "It decreases R, since more lines cause more overlap between orders",
-              "It has no effect, since R depends only on the order m",
+              "It changes R only if the slit spacing d is also changed",
               "It increases R only by increasing the diffraction angle"
             ],
             "answer": 0
@@ -33041,7 +33041,7 @@
             "q": "What is a prior probability, in the context of Bayes theorem?",
             "options": [
               "An initial estimate of a hypothesis probability before new evidence is considered",
-              "A value that has no role in Bayes theorem",
+              "The probability of the evidence given that the hypothesis is false",
               "The final answer produced after all evidence is considered",
               "A probability that must always equal one"
             ],
@@ -35621,7 +35621,7 @@
             "q": "Why must light travel from a denser to a less dense medium for total internal reflection to be possible?",
             "options": [
               "A critical angle, beyond which total internal reflection occurs, exists only when moving toward a lower refractive index",
-              "Refractive index has no role in this phenomenon",
+              "Light must travel from a lower to a higher refractive index for a critical angle to exist",
               "Light must first stop moving entirely for reflection to occur",
               "Total internal reflection occurs equally in every direction of travel"
             ],
@@ -35698,7 +35698,7 @@
               "Naturalist characters are entirely free of environmental influence",
               "Characters have complete, unlimited control over every outcome",
               "Characters have limited control, being largely shaped by forces beyond them",
-              "Agency plays no role in naturalist fiction at all"
+              "Characters gain more agency the more their environment pressures them"
             ],
             "answer": 2
           }
@@ -36099,7 +36099,7 @@
             "options": [
               "A larger radius spreads the same charge over more surface area, reducing surface charge density and allowing higher voltage before air breakdown",
               "A pointed shape would attract charge from the belt more efficiently",
-              "The spherical shape is purely for aesthetic and safety appearance, with no effect on the physics",
+              "The spherical shape mainly keeps the belt from slipping off the rollers",
               "A smaller dome would generate a stronger internal magnetic field"
             ],
             "answer": 0
@@ -36183,7 +36183,7 @@
             "q": "How does the ballads oral, musical origin shape its form?",
             "options": [
               "It favours memorable rhythm, repetition, and simple structure suited to singing",
-              "It has no influence on the poems structure at all",
+              "It leads ballads to use complex, unpredictable structures that are hard to remember",
               "It requires the poem to be read silently and never performed",
               "It requires the poem to be entirely unrhymed and unmetered"
             ],
@@ -39905,7 +39905,7 @@
               "Degrees of freedom only matter for the normal distribution, not the t-distribution",
               "The t-distribution ignores sample size entirely",
               "It reflects the sample size and determines the exact shape of the t-distribution being used",
-              "Degrees of freedom have no effect on the shape of the distribution"
+              "Degrees of freedom depend only on the population mean"
             ],
             "answer": 2
           }
@@ -40022,7 +40022,7 @@
           {
             "q": "What role does acceleration play in correctly resolving the twin paradox using special relativity?",
             "options": [
-              "Acceleration is irrelevant; the paradox is resolved purely by considering velocity alone",
+              "Acceleration matters only for the Earth-bound twin, who must turn around",
               "The traveling twin's acceleration during turnaround identifies them as the one who leaves the single inertial frame, making their situation physically distinct from the Earth-bound twin's",
               "Acceleration doubles the time dilation effect experienced by the traveling twin",
               "Acceleration causes the Earth-bound twin's clock to run fast instead of the traveling twin's clock running slow"
@@ -40453,7 +40453,7 @@
               "Outside that range, the terms do not shrink toward zero, so the partial sums never settle on a finite value",
               "A common ratio outside that range always produces a sum of exactly zero",
               "Any common ratio always results in a convergent series",
-              "The common ratio has no effect whatsoever on convergence"
+              "Convergence depends only on the first term, not on the ratio"
             ],
             "answer": 0
           }
@@ -40576,7 +40576,7 @@
             "q": "Why might a closet drama be considered a genuinely distinct literary form, rather than simply an unperformed stage play?",
             "options": [
               "Its intended mode of reception as a text shapes choices a writer makes about scale, imagery, and structure from the outset",
-              "The intended audience has no influence on how a dramatic work is written",
+              "Closet dramas are written to rely on elaborate costumes and stage sets",
               "A closet drama is identical in every respect to a play that simply has not yet been staged",
               "Closet dramas are always converted into conventional novels before publication"
             ],
@@ -41000,7 +41000,7 @@
             "q": "Why are polarizing filters useful in applications such as sunglasses and camera lenses?",
             "options": [
               "Polarizing filters only function with light that carries no electric field at all",
-              "Polarizing filters have no effect on the light passing through them",
+              "Polarizing filters work by making all light brighter",
               "They can selectively block light oscillating in certain directions, reducing glare from reflected, partially polarized light",
               "Polarizing filters block all light regardless of its polarization direction"
             ],
@@ -41066,7 +41066,7 @@
             "q": "Why might a poet choose an existing, well-known text as the basis for an erasure poem?",
             "options": [
               "Using a well-known text removes any possibility of creating new meaning",
-              "The identity of the source text has no bearing on the finished poems meaning",
+              "Readers can only appreciate an erasure poem if they have never seen the source text",
               "Erasure poems can only ever be created from entirely obscure, unknown texts",
               "Working against a recognizable original can add an extra layer of meaning through the contrast between what is kept and what is removed"
             ],
@@ -42592,7 +42592,7 @@
             "options": [
               "ANOVA and other hypothesis tests are immune to both types of error",
               "It helps researchers balance the risk of falsely finding an effect against the risk of missing a real one, shaping design choices such as sample size",
-              "Understanding these errors has no bearing on how a hypothesis test is designed",
+              "Understanding these errors is only needed after the results are published",
               "A well-designed test can always guarantee zero risk of either type of error"
             ],
             "answer": 1
@@ -43268,7 +43268,7 @@
               "Its bold, declarative rhetoric can rally support and clearly define a shared identity and program for an audience",
               "A manifesto is incapable of rallying any audience support",
               "The manifesto form always weakens a groups stated cause",
-              "Declarative public rhetoric has no role in announcing a new movement"
+              "Declarative public rhetoric is used mainly in private diaries"
             ],
             "answer": 0
           }
@@ -43512,7 +43512,7 @@
               "Media literacy applies only to traditional print journalism, not internet content",
               "Memes always convey their full meaning literally with no need for interpretation",
               "Memes can shape public opinion and cultural conversation rapidly, so recognizing how they compress and mutate meaning helps a reader interpret them critically",
-              "Memes have no influence on public opinion or cultural conversation"
+              "Memes influence only the people who create them"
             ],
             "answer": 2
           }
@@ -43538,7 +43538,7 @@
           {
             "q": "What counterintuitive result does the Monty Hall problem demonstrate about switching doors after one is revealed to be empty?",
             "options": [
-              "Switching has no effect at all on the contestants probability of winning",
+              "Switching and staying each give the contestant an equal one-half chance",
               "Switching doubles the contestants probability of winning compared to staying with the original choice",
               "Staying with the original door always doubles the winning probability instead",
               "Switching always guarantees a loss for the contestant"
@@ -44731,7 +44731,7 @@
             "options": [
               "Its integration of music, dance, elaborate design, and courtly performance influenced the later development of staged spectacle and opera",
               "Masques were purely literary texts never actually staged or performed",
-              "It had no influence on any later form of staged performance",
+              "It was the first form of theatre performed outdoors for ordinary audiences",
               "The masque eliminated the need for any further development of theatrical spectacle"
             ],
             "answer": 0
@@ -44975,9 +44975,9 @@
             "q": "Why is it useful for a writer or reader to distinguish between Horatian and Juvenalian satiric tone?",
             "options": [
               "Recognizing the intended tone shapes how sharply a satire is meant to sting and how an audience is meant to respond to its criticism",
-              "Tone is irrelevant to the effectiveness of satire as a literary mode",
+              "Tone matters only for poetry, not for prose satire",
               "Every satirical work uses exactly the same tone regardless of its author or purpose",
-              "The distinction has no bearing on how a satirical text should be read or written"
+              "Horatian satire is always more aggressive than Juvenalian satire"
             ],
             "answer": 0
           }
@@ -45321,7 +45321,7 @@
               "No further testing is ever required after finding a critical point",
               "Critical points are always automatically maximum values with no further testing",
               "Test the critical point, often using the sign of the derivative or second derivative nearby",
-              "The value of the function at a critical point is always irrelevant"
+              "The critical point is a maximum whenever the function's value there is positive"
             ],
             "answer": 2
           },
@@ -46402,7 +46402,7 @@
           {
             "q": "Algorithmic bias occurs when content-curating systems ___.",
             "options": [
-              "Have no influence on what audiences see",
+              "Display identical content to every user",
               "Are entirely random with no underlying pattern",
               "Present every perspective with perfectly equal weight",
               "Systematically favour certain perspectives"
@@ -46423,7 +46423,7 @@
             "q": "When reading literature in translation, readers should recognize that a translator's choices about diction and idiom can ___ the original text's tone and meaning.",
             "options": [
               "Guarantee an exact, word-for-word replication of the original with no interpretive choices",
-              "Have no effect whatsoever on how the work is experienced",
+              "Preserve every idiom exactly as it was in the source language",
               "Subtly shift or reshape",
               "Automatically erase any cultural context from the source language"
             ],
@@ -49571,7 +49571,7 @@
             "q": "A permutation counts the number of ways items can be arranged when ___.",
             "options": [
               "Order matters",
-              "Order does not matter at all",
+              "Items are grouped into sets rather than sequences",
               "Only one item is available to arrange",
               "Only situations where repeated items are allowed in the arrangement"
             ],
@@ -49998,7 +49998,7 @@
           {
             "q": "A vector, as opposed to a scalar quantity, is defined by:",
             "options": [
-              "Magnitude only, with direction being irrelevant",
+              "Magnitude only, expressed with a unit but no sign",
               "Both magnitude and direction",
               "Direction only, with no defined magnitude",
               "A quantity that can only take on negative values, never positive ones"
@@ -52294,7 +52294,7 @@
               "muons travelling faster than the speed of light",
               "muons being continuously regenerated in the lower atmosphere",
               "relativistic time dilation extending the muons' apparent lifetime as observed from the ground",
-              "Earth's atmosphere having no effect on muon decay rates"
+              "Earth's atmosphere slowing the muons so they decay more rarely"
             ],
             "answer": 2
           }

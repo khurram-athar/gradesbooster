@@ -4425,7 +4425,7 @@ const curriculum: DayContent[] = [
               "opposes current and creates heat",
               "increases current flow",
               "makes voltage higher",
-              "has no effect"
+              "lowers the amount of voltage in the battery"
             ],
             "answer": 0
           }
@@ -5409,7 +5409,7 @@ const curriculum: DayContent[] = [
             "q": "An invasive species ___.",
             "options": [
               "is native to the ecosystem",
-              "has no effect in new environments",
+              "always dies out in new environments",
               "a species that spreads and harms others",
               "helps native species recover"
             ],
@@ -5639,7 +5639,7 @@ const curriculum: DayContent[] = [
               "only reflects light",
               "converges light rays",
               "diverges light rays outward",
-              "has no effect"
+              "focuses light to a single point"
             ],
             "answer": 2
           },
@@ -6086,7 +6086,7 @@ const curriculum: DayContent[] = [
             "options": [
               "make calculations easier",
               "make a graph look better",
-              "have no effect on conclusions",
+              "make the average of the data larger",
               "give misleading results"
             ],
             "answer": 3
@@ -6104,7 +6104,7 @@ const curriculum: DayContent[] = [
           {
             "q": "If a graph's y-axis doesn't start at 0, it can ___.",
             "options": [
-              "have no effect",
+              "make the graph easier to read",
               "always be trusted",
               "exaggerate differences between values",
               "make data more accurate"
@@ -7872,7 +7872,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Multiplication or division",
               "Neither operation needs to be undone",
-              "It does not matter at all",
+              "Whichever operation is written last",
               "Addition or subtraction"
             ],
             "answer": 3
@@ -8419,7 +8419,7 @@ const curriculum: DayContent[] = [
             "q": "Some bacteria can be helpful to humans by ___.",
             "options": [
               "Aiding in digestion",
-              "Having no role in the human body",
+              "Making all the food in the body spoil",
               "Always causing severe illness with no exceptions",
               "Destroying all food sources"
             ],
@@ -8450,7 +8450,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They are not considered part of biology",
               "Studying microorganisms serves no purpose",
-              "Microorganisms have no impact on living things",
+              "Microorganisms only affect plants",
               "They play significant roles in health, ecosystems, and disease"
             ],
             "answer": 3
@@ -8877,8 +8877,8 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful to calculate percent discounts before making a purchase?",
             "options": [
               "It helps determine the actual amount you will pay and compare deals",
-              "Discounts are always irrelevant to shopping decisions",
-              "Percent discounts have no effect on the final price",
+              "Discounts only apply to expensive items",
+              "Percent discounts are always the same dollar amount",
               "Calculating discounts wastes time with no benefit"
             ],
             "answer": 0
@@ -9486,7 +9486,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Globalization can affect Canada’s economy by ___.",
             "options": [
-              "Having no effect on the economy at all",
+              "Making all Canadian products cost more",
               "Preventing any international business activity",
               "Eliminating all trade between countries",
               "Creating both opportunities and challenges through international trade"
@@ -9577,7 +9577,7 @@ const curriculum: DayContent[] = [
               "A strong ending is never necessary",
               "To leave a lasting, memorable impression on the reader",
               "It should always contradict the essay’s main argument",
-              "Endings have no effect on how a reader remembers an essay"
+              "A weak ending makes a reader remember the argument better"
             ],
             "answer": 1
           }
@@ -10062,7 +10062,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a speaker use rhetorical devices in a speech?",
             "options": [
-              "They have no effect on an audience",
+              "They make the speech shorter",
               "Rhetorical devices weaken every argument",
               "They should never be used in speeches",
               "To make their argument more persuasive and memorable"
@@ -10187,7 +10187,7 @@ const curriculum: DayContent[] = [
               "It removes all oxygen from the atmosphere",
               "It mainly provides shade for animals, not oxygen",
               "It produces oxygen that many organisms need to survive",
-              "Photosynthesis has no effect beyond the plant itself"
+              "Photosynthesis only helps the plant grow taller"
             ],
             "answer": 2
           },
@@ -10686,7 +10686,7 @@ const curriculum: DayContent[] = [
               "Fevers are caused by the body losing its ability to regulate temperature",
               "It can be part of the immune system’s response to help fight off pathogens",
               "Fevers always indicate a completely healthy body",
-              "The immune system has no role in body temperature"
+              "A fever is the body's way of cooling down after exercise"
             ],
             "answer": 1
           },
@@ -10793,7 +10793,7 @@ const curriculum: DayContent[] = [
             "options": [
               "All cultures use identical idioms",
               "Cultures never develop unique expressions",
-              "Idioms are created randomly with no link to how people live",
+              "Idioms come from the same set of words in every language",
               "Language and expressions are shaped by a culture’s history and experiences"
             ],
             "answer": 3
@@ -11321,7 +11321,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a persuasive letter end with a clear call to action?",
             "options": [
-              "Endings have no effect on persuasive writing",
+              "A call to action makes the letter sound more polite",
               "Persuasive letters should never state what the writer wants",
               "A call to action weakens a persuasive letter",
               "It tells the reader exactly what the writer hopes will happen next"
@@ -11444,7 +11444,7 @@ const curriculum: DayContent[] = [
             "q": "Why has robotic technology become increasingly important in space exploration?",
             "options": [
               "Robotic exploration has replaced the need for any spacecraft",
-              "Robotic technology has no role in space exploration",
+              "Robots are mainly used to take photos of the Moon",
               "It allows for exploration of distant or hazardous locations more safely and often at lower cost",
               "Robots cannot function in space at all"
             ],
@@ -11484,7 +11484,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Do immigrants contribute to Canada’s diversity?",
             "options": [
-              "No, immigrants have no effect on Canada’s diversity",
+              "No, immigrants only add to Canada's population numbers",
               "Diversity in Canada comes only from its founding European settlers",
               "Immigration policies apply only to refugees, not workers or students",
               "Yes"
@@ -11531,7 +11531,7 @@ const curriculum: DayContent[] = [
             "q": "Comparing multiple news outlets on the same event can reveal ___.",
             "options": [
               "That all outlets always report identically",
-              "Only irrelevant details",
+              "Only which outlet has the most reporters",
               "Nothing useful about the coverage",
               "Differences in tone, word choice, and focus"
             ],
@@ -11561,7 +11561,7 @@ const curriculum: DayContent[] = [
             "q": "Word choice in a news report, such as calling a group protesters versus rioters, can ___.",
             "options": [
               "Always be completely neutral with no impact",
-              "Have no effect on how readers understand a story",
+              "Make the story longer",
               "Influence how readers perceive the event",
               "Never appear in real news coverage"
             ],
@@ -11823,7 +11823,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Confused words never impact meaning",
               "It helps writers choose the correct word and avoid unclear or incorrect sentences",
-              "These word pairs have no effect on writing clarity",
+              "Confused word pairs always have the same meaning",
               "Only one of each pair is ever a real word"
             ],
             "answer": 1
@@ -11903,7 +11903,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A low pressure system is often associated with ___.",
             "options": [
-              "No effect on weather at all",
+              "Only strong winds from the south",
               "Only warm temperatures with no variation",
               "Clear, sunny weather with no clouds",
               "Cloudy, stormy weather"
@@ -12236,7 +12236,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Climate change only affects one specific country",
               "Its causes and effects cross national borders and require coordinated action",
-              "International cooperation has no role in environmental issues",
+              "Pollution and warming stop at each country's border",
               "Countries never need to work together on shared problems"
             ],
             "answer": 1
@@ -12257,7 +12257,7 @@ const curriculum: DayContent[] = [
               "Climate change is studied only in science class, never by governments",
               "Only scientists need to consider climate change",
               "It involves political, economic, and social decisions among countries and communities",
-              "Governments have no role in addressing climate change"
+              "Governments only get involved after scientists finish their work"
             ],
             "answer": 2
           }
@@ -12450,7 +12450,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Newton’s first law describes how objects behave when ___.",
             "options": [
-              "Forces have no effect on motion",
+              "Forces are always acting on them in the same direction",
               "No force acts on them",
               "They have no mass",
               "They are always accelerating with no cause"
@@ -12734,7 +12734,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They make animals more visible to predators",
               "They mainly help animals find mates more easily",
-              "They have no effect on an animal’s chances of survival",
+              "They only help animals stay warm in winter",
               "They help animals avoid predators or better catch prey"
             ],
             "answer": 3
@@ -13022,7 +13022,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Does the Governor General formally approve new laws passed by Parliament?",
             "options": [
-              "No, the Governor General has no role in approving laws",
+              "No, the Governor General only approves laws about trade",
               "Yes",
               "Only approves laws related to foreign policy",
               "Only mayors approve laws in Canada"
@@ -13221,7 +13221,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a river canyon form over thousands of years?",
             "options": [
-              "Rivers have no effect on the land around them",
+              "Rivers only move water and leave the rock around them unchanged",
               "Canyons form instantly, with no gradual process involved",
               "Sudden earthquakes splitting the land apart in seconds",
               "Flowing water gradually erodes and carves away rock and soil"
@@ -14229,7 +14229,7 @@ const curriculum: DayContent[] = [
             "q": "Why might disrupting a nutrient cycle affect an entire ecosystem?",
             "options": [
               "Ecosystems are never affected by changes to nutrient availability",
-              "Nutrient cycles have no effect on the organisms in an ecosystem",
+              "Nutrient cycles only matter to the plants and not to animals",
               "Many living things depend on the steady availability of these essential elements",
               "Ecosystems have unlimited backup supplies of every nutrient"
             ],
@@ -15213,7 +15213,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An adaptation is best described as ___.",
             "options": [
-              "A random change with no effect on survival",
+              "A change that happens to an animal only during its own lifetime",
               "A skill an animal learns by watching its parents just once",
               "A feature that always harms an organism’s chances of survival",
               "A physical feature or behaviour that helps an organism survive in its environment"
@@ -16052,7 +16052,7 @@ const curriculum: DayContent[] = [
               "Without gravity, orbits would remain exactly the same",
               "It holds planets, moons, and other objects in consistent orbital paths",
               "Gravity's role is limited to keeping objects on the ground, not in orbit",
-              "Gravity has no role in how the solar system is organized"
+              "Gravity only affects the Sun and not the planets"
             ],
             "answer": 1
           }
@@ -16342,7 +16342,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No Loyalists ever settled in British North America",
               "Loyalists settled only in uninhabited wilderness with no local impact",
-              "Loyalist migration had no effect on the communities they settled in",
+              "Loyalists only settled in Quebec and did not change other communities",
               "They brought new populations, skills, and ideas that influenced how these communities developed"
             ],
             "answer": 3
@@ -16679,7 +16679,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Active listening is only important during formal presentations",
               "It helps build understanding, respect, and clear communication with others",
-              "Listening skills are not connected to understanding a speaker",
+              "Listening is the same as just waiting for your turn to talk",
               "Active listening has no real benefit in communication"
             ],
             "answer": 1
@@ -16852,7 +16852,7 @@ const curriculum: DayContent[] = [
               "To choose the candidate or party whose ideas best match their own views",
               "Platforms are randomly assigned to voters before elections",
               "All political parties always have identical platforms",
-              "Platforms have no influence on how people decide to vote"
+              "Platforms are written only after the votes are counted"
             ],
             "answer": 0
           },
@@ -17070,7 +17070,7 @@ const curriculum: DayContent[] = [
               "Studying atmospheric layers only helps predict earthquakes",
               "Earth’s atmosphere is a single uniform layer with no distinct sections",
               "It helps explain weather patterns, climate, and how the atmosphere protects life on Earth",
-              "The atmosphere’s layers have no effect on weather or climate"
+              "Each layer has the same temperature and air pressure"
             ],
             "answer": 2
           }
@@ -17325,7 +17325,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It could reduce plant reproduction and disrupt food webs that depend on those plants",
               "A decline in pollinators would only affect zoos, not wild ecosystems",
-              "A decline in pollinators would have no effect on ecosystems",
+              "A decline in pollinators would only affect honey production",
               "Plants can reproduce just as well without any pollinators present"
             ],
             "answer": 0
@@ -17585,7 +17585,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An adaptation is best described as ___.",
             "options": [
-              "A random change with no effect on survival",
+              "A change an animal makes on purpose during its lifetime",
               "A skill every animal is born already knowing how to use perfectly",
               "A feature that always harms an organism’s chances of survival",
               "A physical feature or behaviour that helps an organism survive in its environment"
@@ -17832,7 +17832,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It allows quick mental calculations without long multiplication or division",
               "This pattern only works for numbers less than one",
-              "Powers of ten have no effect on decimal numbers",
+              "Powers of ten only change the sign of a decimal number",
               "This pattern never applies to decimal numbers"
             ],
             "answer": 0
@@ -17944,7 +17944,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Successfully defending the colonies helped foster pride and a sense of shared identity",
               "The war was fought entirely by British soldiers with no colonial involvement",
-              "The war had no effect on the colonies’ sense of identity",
+              "The war ended with the colonies giving up their land to the United States",
               "The colonies were conquered and lost all self-governance"
             ],
             "answer": 0
@@ -19660,7 +19660,7 @@ const curriculum: DayContent[] = [
               "To reduce air resistance and improve fuel efficiency at higher speeds",
               "Smooth shapes are designed only for appearance, with no functional benefit",
               "To increase the friction between the tires and the road",
-              "Streamlined shapes have no effect on a car’s movement through air"
+              "Streamlined shapes make a car heavier so it grips the road better"
             ],
             "answer": 0
           }
@@ -19910,7 +19910,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How does the skin help regulate body temperature?",
             "options": [
-              "The skin has no role in regulating body temperature",
+              "The skin only keeps water out and does nothing about body heat",
               "By growing extra fur to trap heat",
               "Through processes like sweating, which cools the body as moisture evaporates",
               "By preventing the body from ever losing heat"
@@ -20479,7 +20479,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "It only applied to raising livestock, not growing crops",
               "No, it decreased crop yields worldwide",
-              "It had no effect on crop yields at all"
+              "It only increased yields in Canada"
             ],
             "answer": 0
           },
@@ -21228,7 +21228,7 @@ const curriculum: DayContent[] = [
               "Trade agreements only affect currency exchange rates",
               "No, trade agreements make trading less predictable",
               "Yes",
-              "Trade agreements have no effect on predictability"
+              "Trade agreements only apply to goods made by farmers"
             ],
             "answer": 2
           },
@@ -21435,7 +21435,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Vaccines are mainly used to treat diseases after people get sick",
               "Vaccines only affect a single individual, never a community",
-              "Vaccines have no effect on public health",
+              "Vaccines only work for people who are already sick",
               "They can help prevent the spread of diseases within a community"
             ],
             "answer": 3
@@ -21971,7 +21971,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it important for courts to be fair?",
             "options": [
-              "Fairness does not matter",
+              "Fairness only matters in very serious cases",
               "So everyone is treated fairly under the rules",
               "Courts do not need to be fair",
               "Only some people deserve fairness"
@@ -22955,7 +22955,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "Hormones only affect breathing",
               "Hormones only affect physical growth, never emotions",
-              "No, hormones have no effect on the body"
+              "No, hormones only control digestion"
             ],
             "answer": 0
           },
@@ -23305,7 +23305,7 @@ const curriculum: DayContent[] = [
             "q": "Why might tourism at a World Heritage Site present both benefits and challenges?",
             "options": [
               "Heritage sites are never visited by tourists",
-              "Tourism revenue has no bearing on how a site is maintained",
+              "Tourism money is always spent on new buildings instead of repairs",
               "Tourism can support the local economy but may also put pressure on fragile sites",
               "Tourism never has any effect on a heritage site"
             ],
@@ -23991,7 +23991,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Reducing landfill waste always harms the environment more",
               "Landfill waste only affects the specific area it's buried in",
-              "Landfills have no impact on the environment at all",
+              "Landfills break down all waste into harmless soil right away",
               "Landfills can take up land and release harmful substances as waste breaks down"
             ],
             "answer": 3
@@ -25491,7 +25491,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "Only the skeletal system fights infection",
               "Only works when a person already has a cold",
-              "No, the lymphatic system has no role in fighting infection"
+              "No, the lymphatic system only helps move blood through the body"
             ],
             "answer": 0
           },
@@ -26304,7 +26304,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might the Group of Seven have chosen to paint the rugged Canadian landscape instead of following European artistic traditions?",
             "options": [
-              "European artistic traditions had no influence on any Canadian painters",
+              "European painters were the only artists who could paint landscapes",
               "They wanted to create art that reflected Canada’s own unique natural environment and identity",
               "They were required by law to paint only landscapes",
               "European landscapes offered more variety than Canada's own terrain"
@@ -26805,7 +26805,7 @@ const curriculum: DayContent[] = [
               "It should never be discussed",
               "It helps Canadians understand history and support reconciliation efforts",
               "Residential schools are a topic too recent to study in school",
-              "It is not connected to reconciliation at all"
+              "It only helps people learn about events in other countries"
             ],
             "answer": 1
           },
@@ -27533,7 +27533,7 @@ const curriculum: DayContent[] = [
             "q": "Did the completion of the Trans-Canada Highway improve transportation and trade across the country?",
             "options": [
               "Yes",
-              "No, it had no effect on transportation or trade",
+              "No, it only helped tourists and not trade",
               "It only connected two cities in one province",
               "A series of separate highways with no shared name"
             ],
@@ -27861,7 +27861,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a haikus short length be challenging to write?",
             "options": [
-              "Length does not matter in a haiku",
+              "A haiku can be as long as the poet wants",
               "Haiku must always rhyme",
               "Haiku have no rules at all",
               "Every word must be chosen carefully to fit the syllable count"
@@ -28196,7 +28196,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How do antibiotics typically work?",
             "options": [
-              "They have no effect on bacteria",
+              "They cause bacteria to multiply faster",
               "They cure all illnesses instantly",
               "They only treat viruses",
               "They kill bacteria or stop their growth"
@@ -28443,7 +28443,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The body needs only one nutrient",
               "Different nutrients support different body functions",
-              "Nutrients have no effect on the body",
+              "Nutrients only help the body when we are sick",
               "Variety has no benefit"
             ],
             "answer": 1
@@ -29071,7 +29071,7 @@ const curriculum: DayContent[] = [
             "options": [
               "To hide the main point until the end",
               "To confuse the reader on purpose",
-              "Order does not matter in news writing",
+              "Readers prefer to find the key facts at the end",
               "So readers get key facts even if they stop reading early"
             ],
             "answer": 3
@@ -29251,7 +29251,7 @@ const curriculum: DayContent[] = [
               "Standardization has no purpose",
               "Currency should change value randomly",
               "So people can reliably use it to trade goods and services",
-              "Trust does not matter for currency"
+              "People should be able to make their own coins at home"
             ],
             "answer": 2
           },
@@ -29995,7 +29995,7 @@ const curriculum: DayContent[] = [
             "q": "How did the Klondike Gold Rush affect northern Canada?",
             "options": [
               "It only affected southern Canada",
-              "It had no effect on the region",
+              "It mostly caused people to leave the region",
               "It brought rapid population growth and development to the region",
               "It caused the region to disappear"
             ],
@@ -31111,7 +31111,7 @@ const curriculum: DayContent[] = [
             "options": [
               "To make math harder on purpose",
               "Order never affects the answer",
-              "It does not matter what order we use",
+              "Each person should choose the order that feels easiest to them",
               "So everyone gets the same answer to the same expression"
             ],
             "answer": 3
@@ -31521,7 +31521,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a company pay for positive reviews?",
             "options": [
-              "Positive reviews have no effect on sales",
+              "Companies pay for reviews to lower the price of the product",
               "Paid reviews are always required by law",
               "Companies never have any influence over online reviews",
               "To make their product appear more trustworthy or popular than it really is"
@@ -31848,7 +31848,7 @@ const curriculum: DayContent[] = [
             "q": "In a weighted average, what happens to a value with a very high weight?",
             "options": [
               "It has a greater influence on the overall average",
-              "It has no influence on the overall average",
+              "It is counted as one of the lowest values",
               "It always lowers the final result",
               "It is automatically excluded from the calculation"
             ],
@@ -32460,7 +32460,7 @@ const curriculum: DayContent[] = [
             "q": "Why do watersheds matter for the environment?",
             "options": [
               "They determine provincial election boundaries",
-              "They have no effect on wildlife",
+              "They only affect where cities are built",
               "Pollution entering a river anywhere in its watershed can affect water quality far downstream",
               "They only matter for boat traffic"
             ],
@@ -32705,7 +32705,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It connected Canada to another continent by land",
               "It replaced all water-based transportation in Canada",
-              "It had no effect on transportation in Canada",
+              "It only connected Canada to the United States",
               "It connected the country from coast to coast"
             ],
             "answer": 3
@@ -33382,7 +33382,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Nitrogen is a necessary building block for proteins in living organisms",
               "Only bacteria require nitrogen to survive",
-              "Nitrogen has no role in supporting living organisms",
+              "Nitrogen is only needed by plants, not by animals",
               "The nitrogen cycle only affects the atmosphere"
             ],
             "answer": 0
@@ -33422,7 +33422,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It transformed diabetes from a fatal condition into a manageable one",
               "It made diabetes impossible to diagnose",
-              "It had no effect on how diabetes was treated",
+              "It only helped people who lived in large cities",
               "It eliminated the need for any medical treatment at all"
             ],
             "answer": 0
@@ -33628,7 +33628,7 @@ const curriculum: DayContent[] = [
               "Tracking storms has no practical purpose",
               "To warn communities and reduce the risk to lives and property",
               "Extreme weather events cannot be tracked or predicted",
-              "These events have no effect on communities"
+              "Storms only form over the ocean, far from communities"
             ],
             "answer": 1
           }
@@ -34119,7 +34119,7 @@ const curriculum: DayContent[] = [
               "A ramp always requires more force than lifting straight up",
               "Using a ramp removes the need for any force at all",
               "It spreads the work over a longer distance, reducing the force needed at any moment",
-              "Ramps have no effect on the force needed to move an object"
+              "A ramp makes the object lighter"
             ],
             "answer": 2
           }
@@ -34234,7 +34234,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Agreeing on norms always slows down a discussion unnecessarily",
               "It helps ensure the conversation stays respectful and productive",
-              "Group norms have no effect on how a discussion goes",
+              "Group norms only decide who sits where",
               "Norms are only useful for written work, not discussions"
             ],
             "answer": 1
@@ -35139,7 +35139,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It caused Canada to lose its independence",
               "It ended the First World War immediately",
-              "It had no impact on how Canadians saw themselves",
+              "Canadians stopped thinking of themselves as part of a nation",
               "Many historians say it helped Canada gain more recognition and pride as a distinct nation"
             ],
             "answer": 3
@@ -35577,7 +35577,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How might a drought affect the carrying capacity of a grassland ecosystem?",
             "options": [
-              "Droughts have no effect on carrying capacity",
+              "A drought only changes the temperature, not the food supply",
               "It could lower the carrying capacity by reducing available food and water",
               "It would always increase the carrying capacity",
               "It would only affect predators, not prey"
@@ -35884,7 +35884,7 @@ const curriculum: DayContent[] = [
               "To educate the public and encourage reflection on rights and responsibilities",
               "To avoid discussing difficult parts of history",
               "Human rights are not considered an important topic to teach",
-              "Museums have no role in educating the public"
+              "Museums only store old objects and never teach visitors"
             ],
             "answer": 0
           },
@@ -35948,7 +35948,7 @@ const curriculum: DayContent[] = [
             "q": "Why should a critical reader check whether an online article is sponsored?",
             "options": [
               "Sponsored content is always more accurate than regular articles",
-              "Sponsored labels have no effect on how a reader should judge content",
+              "Sponsored labels mean the content was checked by the government",
               "Only textbooks can ever be considered sponsored",
               "Sponsored content may be biased toward promoting a product or service"
             ],
@@ -36797,7 +36797,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A decrease in skin temperature",
               "Sunburn and long-term skin damage",
-              "No effect on the skin whatsoever",
+              "The skin becomes thicker and fully protected",
               "Immediate and permanent healing of the skin"
             ],
             "answer": 1
@@ -37000,7 +37000,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful to compare the cost per feature when evaluating subscription plans?",
             "options": [
-              "Comparing costs has no impact on making a wise financial choice",
+              "Comparing costs only helps when buying very expensive items",
               "It helps determine which plan provides more value for the money spent",
               "Every subscription plan provides the exact same features",
               "Cost per feature is impossible to calculate"
@@ -37052,7 +37052,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Deep foundations make a building more likely to collapse",
               "Foundations are not necessary for earthquake resistance",
-              "Deep foundations have no effect on a buildings stability",
+              "Deep foundations make a building lighter",
               "To help anchor and stabilize the structure during ground movement"
             ],
             "answer": 3
@@ -37245,7 +37245,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it important for scientists to use both accurate and precise measurements?",
             "options": [
-              "Accuracy and precision have no effect on the reliability of data",
+              "Only large measurements need to be accurate",
               "Only accuracy matters in scientific measurement, never precision",
               "Only precision matters in scientific measurement, never accuracy",
               "Reliable data depends on measurements that are both close to the true value and consistent"
@@ -38522,7 +38522,7 @@ const curriculum: DayContent[] = [
               "Decomposers destroy soil nutrients rather than releasing them",
               "Decomposers only affect non-biodegradable plastics",
               "They break down organic matter into simpler substances that return nutrients to the soil",
-              "Decomposers have no role in breaking down any materials"
+              "Decomposers only break down materials that are made of metal"
             ],
             "answer": 2
           },
@@ -38531,7 +38531,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It can accumulate in ecosystems and harm wildlife over long periods of time",
               "Non-biodegradable waste always disappears quickly with no lasting effect",
-              "This type of waste has no impact on wildlife or ecosystems",
+              "It only harms the people who dispose of it",
               "Non-biodegradable materials break down faster than biodegradable ones"
             ],
             "answer": 0
@@ -38893,7 +38893,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It helps them recognize that they may be seeing a limited range of perspectives",
               "Being aware of algorithms has no practical benefit",
-              "Algorithms have no effect on what content a user sees",
+              "Algorithms show every user the same content in the same order",
               "All users automatically see identical, unfiltered content"
             ],
             "answer": 0
@@ -39176,7 +39176,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might someone divide their allowance into different categories?",
             "options": [
-              "Categories have no effect on how money is managed",
+              "Categories only matter when someone receives a large allowance",
               "All money should always be spent as soon as it is received",
               "It helps them balance saving for the future with spending in the present",
               "Dividing money into categories makes budgeting impossible"
@@ -39326,7 +39326,7 @@ const curriculum: DayContent[] = [
             "q": "Why might learning about Emancipation Day help Canadians understand the countrys history more fully?",
             "options": [
               "It highlights an important part of the history of Black communities often left out of standard accounts",
-              "This history has no bearing on understanding Canada today",
+              "This history only matters to people who live in one province",
               "Emancipation Day marks the founding of Canada's first university",
               "Slavery never existed anywhere in British North America"
             ],
@@ -39809,7 +39809,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The Assembly of First Nations was created to manage provincial parks",
               "Advocacy organizations are not permitted to represent multiple communities",
-              "National organizations have no role in supporting community advocacy",
+              "National organizations only organize sports events",
               "It allows First Nations communities to present unified positions on shared issues"
             ],
             "answer": 3
@@ -39818,7 +39818,7 @@ const curriculum: DayContent[] = [
             "q": "Why might understanding organizations like the Assembly of First Nations help explain modern Indigenous political leadership in Canada?",
             "options": [
               "National advocacy organizations only existed in the nineteenth century",
-              "This organization has no role in Canadian political life",
+              "It only handles the business of one community",
               "It shows how Indigenous communities organize to advocate for their rights at a national level",
               "Indigenous political leadership does not exist in modern Canada"
             ],
@@ -40236,7 +40236,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do bicycles use different sized gears?",
             "options": [
-              "Gears on a bicycle have no effect on riding",
+              "Gears on a bicycle only change how loud the chain sounds",
               "Different gear sizes only change the appearance of a bicycle",
               "Bicycles never use more than one gear",
               "To let a rider trade speed for force depending on the terrain"
@@ -40554,7 +40554,7 @@ const curriculum: DayContent[] = [
             "q": "Mountain ranges like the Rockies can affect nearby climate by:",
             "options": [
               "Eliminating winter completely",
-              "Having no effect on weather",
+              "Only making the air warmer on both sides",
               "Making the entire province tropical",
               "Blocking moisture, creating wetter conditions on one side and drier conditions on the other"
             ],
@@ -40987,7 +40987,7 @@ const curriculum: DayContent[] = [
               "Multiple countries share the resources, funding, and expertise needed to operate it",
               "The station requires no ongoing maintenance or support",
               "The station is operated entirely by a single country with no outside help",
-              "International cooperation has no role in space exploration"
+              "International cooperation only matters for building the rockets"
             ],
             "answer": 0
           }
@@ -41092,7 +41092,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Digitally altered videos can never mislead anyone",
               "They can spread false information that looks convincingly real",
-              "Deepfakes have no effect on what people believe",
+              "Deepfakes only change the sound of a video, never the pictures",
               "Deepfakes are always immediately obvious to every viewer"
             ],
             "answer": 1
@@ -41528,7 +41528,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It is sometimes combined with modern science to understand Arctic change, such as climate impacts",
               "It has been replaced completely by satellites",
-              "It is considered irrelevant to conservation",
+              "It is only used to teach children about the Arctic",
               "It is ignored by scientists"
             ],
             "answer": 0
@@ -41848,7 +41848,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Revising a sentence always makes its meaning less clear",
               "Misplaced modifiers never need to be corrected",
-              "Modifiers have no effect on the clarity of a sentence",
+              "Modifiers only change the spelling of the words they describe",
               "Correcting them helps ensure the sentence clearly expresses the intended meaning"
             ],
             "answer": 3
@@ -43497,7 +43497,7 @@ const curriculum: DayContent[] = [
             "q": "What was the immediate effect of the moratorium on coastal communities?",
             "options": [
               "An immediate increase in fishing jobs",
-              "No effect on employment at all",
+              "Fishing boats were able to hire more workers",
               "The loss of thousands of fishing-related jobs",
               "A sudden rise in cod populations"
             ],
@@ -43694,7 +43694,7 @@ const curriculum: DayContent[] = [
               "Because no light escapes a black hole, it cannot be seen directly and must be detected through its effects on nearby matter",
               "Scientists have never attempted to study black holes",
               "Black holes emit extremely bright light that is easy to see with the naked eye",
-              "Black holes have no effect on any surrounding matter or light"
+              "Black holes give off so much heat that they melt nearby telescopes"
             ],
             "answer": 0
           },
@@ -43808,7 +43808,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It can reduce a character to a single, oversimplified trait rather than showing complexity",
               "It always makes a character more realistic and complex",
-              "Stereotypes have no effect on how characters are written",
+              "A stereotype only changes the setting of a story",
               "A stereotype guarantees that a character will be portrayed fairly"
             ],
             "answer": 0
@@ -44005,7 +44005,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important for a countrys coins to include security features that are difficult to copy?",
             "options": [
               "Counterfeiting coins is not considered a concern for a countrys currency",
-              "Security features have no effect on preventing counterfeit coins",
+              "Security features only change the colour of a coin",
               "Security features help prevent counterfeiting and maintain public trust in the currency",
               "Coins do not require any special features to be trusted by the public"
             ],
@@ -44251,7 +44251,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Multiple levels of review can catch potential problems and encourage broader agreement before a law is finalized",
               "A single legislative body always produces the most carefully considered laws",
-              "Additional review steps have no effect on the quality of a law",
+              "A second review only changes how the law is worded",
               "Requiring more than one approval step always delays laws with no benefit"
             ],
             "answer": 0
@@ -45565,7 +45565,7 @@ const curriculum: DayContent[] = [
             "q": "Why might including a specific accomplishment or credential in an introduction help the audience?",
             "options": [
               "General statements always build more trust than specific details",
-              "Credentials have no effect on how an audience perceives a speaker",
+              "Credentials only make an introduction longer",
               "Specific details can establish why the speaker is worth listening to, building trust and interest before they even begin",
               "Specific details always make an introduction less credible"
             ],
@@ -46199,7 +46199,7 @@ const curriculum: DayContent[] = [
             "q": "Why is international cooperation, such as agreements to reduce ozone-depleting chemicals, important for protecting the ozone layer?",
             "options": [
               "Because the atmosphere circulates globally, chemicals released in one country can affect the ozone layer worldwide, so coordinated action is more effective than isolated efforts",
-              "International agreements have no effect on atmospheric chemical levels",
+              "International agreements only change the price of chemicals",
               "Chemicals released in one country never affect the atmosphere anywhere else",
               "The ozone layer can be fully protected by a single country acting alone"
             ],
@@ -46251,14 +46251,14 @@ const curriculum: DayContent[] = [
               "No discussion was ever allowed",
               "Decisions were always made by a single unelected ruler",
               "Councils and consensus-building often played an important role",
-              "Women had no role in any governance system"
+              "Only elders from one family could take part in any decision"
             ],
             "answer": 2
           },
           {
             "q": "Why is it important to study Indigenous governance systems that existed before European contact?",
             "options": [
-              "They had no influence on anything",
+              "They were copied from European governments",
               "They are identical to the Canadian government today",
               "It shows that organized, sophisticated systems of government existed in North America long before Confederation",
               "They were invented recently"
@@ -47687,7 +47687,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A low pressure system is often associated with ___.",
             "options": [
-              "No effect on weather at all",
+              "Mostly dry, windy weather with no change in clouds",
               "Only warm temperatures with no variation",
               "Clear, sunny weather with no clouds",
               "Cloudy, stormy weather"
@@ -48299,7 +48299,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An adaptation is best described as ___.",
             "options": [
-              "A random change with no effect on survival",
+              "A habit an animal picks up from other animals around it",
               "A skill an animal learns by watching its parents, not one it inherits",
               "A feature that always harms an organism’s chances of survival",
               "A physical feature or behaviour that helps an organism survive in its environment"

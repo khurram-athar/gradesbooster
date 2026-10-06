@@ -428,7 +428,7 @@ const curriculum: DayContent[] = [
             "q": "Valence electrons are important in bonding because ___.",
             "options": [
               "only metals have them",
-              "they are irrelevant to chemical reactions",
+              "they only matter for noble gases",
               "atoms share or transfer them when bonding",
               "they are in the nucleus"
             ],
@@ -715,7 +715,7 @@ const curriculum: DayContent[] = [
           {
             "q": "War industries in Canada during WWII ___.",
             "options": [
-              "had no impact on the economy",
+              "only affected rural communities",
               "made Canada a major industrial power",
               "led to economic depression",
               "employed only men"
@@ -1290,7 +1290,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Varied sentence length in academic writing ___.",
             "options": [
-              "is irrelevant to quality",
+              "only matters in poetry",
               "creates rhythm and prevents monotony",
               "is only for creative writing",
               "should be avoided in formal essays"
@@ -3715,7 +3715,7 @@ const curriculum: DayContent[] = [
               "only governments need it",
               "citizens who can critically evaluate media",
               "it is only for media professionals",
-              "it is not relevant to democracy"
+              "it only applies to elections held every four years"
             ],
             "answer": 1
           },
@@ -4194,7 +4194,7 @@ const curriculum: DayContent[] = [
               "was rejected by Canada",
               "only applied to Mexico and the US",
               "eliminated most tariffs among them",
-              "had no impact on Canadian employment"
+              "it lowered tariffs but only on agricultural goods"
             ],
             "answer": 2
           },
@@ -4949,7 +4949,7 @@ const curriculum: DayContent[] = [
             "options": [
               "today's choices burden the future",
               "older generations should pay all costs",
-              "young people have no role in the debate",
+              "older generations are solely responsible for future decisions",
               "only current generations matter"
             ],
             "answer": 0
@@ -5196,7 +5196,7 @@ const curriculum: DayContent[] = [
             "q": "Truth and Reconciliation in Canada is ___.",
             "options": [
               "only about acknowledging the past",
-              "not relevant to young Canadians",
+              "only about historical events and not today's issues",
               "ongoing healing and structural change",
               "complete"
             ],
@@ -5272,7 +5272,7 @@ const curriculum: DayContent[] = [
             "q": "Publishing or presenting a culminating piece to a real audience ___.",
             "options": [
               "gives writing real purpose",
-              "is irrelevant to the work's quality",
+              "only matters for a final mark",
               "only stresses students",
               "should be avoided"
             ],
@@ -5761,7 +5761,7 @@ const curriculum: DayContent[] = [
               "that translation always involves interpretation",
               "translations are always perfect",
               "no meaning is lost in translation",
-              "the original text is irrelevant"
+              "the translator's opinion is the only thing that matters"
             ],
             "answer": 0
           },
@@ -5960,7 +5960,7 @@ const curriculum: DayContent[] = [
             "q": "Canada's commitment to diversity and human rights is ___.",
             "options": [
               "an ongoing goal needing constant work",
-              "irrelevant to daily life",
+              "only relevant in other countries",
               "perfectly achieved",
               "a fixed achievement that needs no further work"
             ],
@@ -6447,7 +6447,7 @@ const curriculum: DayContent[] = [
               "Canada gained full authority to amend its own Constitution and entrenched rights",
               "Canada lost its independence",
               "it abolished the monarchy in Canada",
-              "it had no impact on Canadian law"
+              "it only changed how federal elections are run"
             ],
             "answer": 0
           },
@@ -6562,7 +6562,7 @@ const curriculum: DayContent[] = [
             "q": "Compound interest on debt (like a credit card at 20% APR) is ___.",
             "options": [
               "easy to pay off",
-              "irrelevant if you make minimum payments",
+              "only a concern for people with low incomes",
               "extremely expensive over time",
               "beneficial to the borrower"
             ],
@@ -6641,7 +6641,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Transportation distance and method (truck, rail, ship) matter in an LCA because ___.",
             "options": [
-              "they have no bearing on environmental impact",
+              "they only matter for the cost of fuel",
               "they only affect delivery time",
               "they are excluded from all LCAs",
               "they contribute to a product's overall carbon footprint"
@@ -6870,7 +6870,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The relationship between science and policy is ___.",
             "options": [
-              "science has no role in policy",
+              "science only matters after policy is decided",
               "science informs policy, not decides it",
               "science automatically determines policy",
               "scientists should make all decisions"
@@ -7256,7 +7256,7 @@ const curriculum: DayContent[] = [
             "options": [
               "only matter for literary study",
               "have expanded your view of the world",
-              "are now irrelevant to your life",
+              "only useful for readers of older books",
               "are useful only for passing standardized tests, not for everyday life"
             ],
             "answer": 1
@@ -7482,7 +7482,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Primarily lighthearted children's stories with simple, uncomplicated morals",
               "Grammar rules with no thematic content",
-              "Local folklore passed down with no bearing on broader political history",
+              "Folktales that were written to entertain colonial governments",
               "Power, identity, and voice in relation to colonialism"
             ],
             "answer": 3
@@ -7752,7 +7752,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It shows how the writer has grown or what they learned from an experience",
               "Personal narratives should never include any reflection",
-              "Reflection has no role in this type of writing",
+              "Reflection only matters for science writing",
               "This element replaces the need to describe the experience"
             ],
             "answer": 0
@@ -8111,7 +8111,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Natural selection favours traits that ___.",
             "options": [
-              "Have no effect on survival",
+              "Only appear in a single generation",
               "Improve an organism’s chances of survival and reproduction",
               "Always decrease an organism’s chances of survival",
               "Determined solely by random mutation rates each generation"
@@ -8389,7 +8389,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding DNA’s structure important in biology?",
             "options": [
-              "DNA plays no role in inherited traits",
+              "DNA only determines how fast a body grows",
               "DNA structure only determines an organism's blood type",
               "This structure has no scientific significance",
               "It helps explain how genetic information is stored and passed on"
@@ -8669,7 +8669,7 @@ const curriculum: DayContent[] = [
             "q": "The Chinese Exclusion Act ___.",
             "options": [
               "Applied to all immigrant groups equally",
-              "Had no effect on immigration policy",
+              "Only applied to people already living in Canada",
               "Encouraged unlimited Chinese immigration to Canada",
               "Significantly restricted Chinese immigration to Canada"
             ],
@@ -8886,7 +8886,7 @@ const curriculum: DayContent[] = [
             "q": "Why is biomedical engineering considered an important and growing field?",
             "options": [
               "It is valuable mainly for cutting manufacturing costs in consumer electronics",
-              "This field has no impact on healthcare",
+              "It is valuable mainly for building larger hospitals",
               "Biomedical engineering has no real-world applications",
               "It has the potential to significantly improve patient care and health outcomes"
             ],
@@ -8907,7 +8907,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Primarily French-Canadian settler families",
               "Indigenous children and communities",
-              "Only adults, with no effect on children",
+              "Mainly adult workers on reserves",
               "No specific group of people"
             ],
             "answer": 1
@@ -9261,7 +9261,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why are debate and rebuttal skills valuable beyond formal debate settings?",
             "options": [
-              "Debate skills are irrelevant to everyday communication",
+              "Debate skills only help in law school",
               "These skills have no application outside of formal debates",
               "Rebuttal techniques only apply to competitive debate events",
               "They support critical thinking and effective communication in many real-world situations"
@@ -9303,7 +9303,7 @@ const curriculum: DayContent[] = [
             "q": "A reflection of an exponential function’s graph across the x-axis would ___.",
             "options": [
               "Only move the graph horizontally",
-              "Have no effect on the graph at all",
+              "Only make the graph steeper",
               "Flip the graph vertically",
               "Change the function into a linear function"
             ],
@@ -9313,7 +9313,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful to understand how transformations affect an exponential function’s graph?",
             "options": [
               "This concept has no practical application",
-              "Transformations have no effect on how a graph should be interpreted",
+              "Transformations only change a graph's colour scheme",
               "Exponential functions can never be transformed",
               "It helps predict and interpret changes in real-world exponential models"
             ],
@@ -9682,7 +9682,7 @@ const curriculum: DayContent[] = [
           {
             "q": "One of the major criticisms of the War Measures Act during the October Crisis was that it ___.",
             "options": [
-              "Had no impact on anyone’s rights",
+              "Applied only to wartime soldiers",
               "Suspended civil liberties and allowed arrests without charge",
               "Only applied to government officials",
               "Was welcomed without any public debate"
@@ -9882,7 +9882,7 @@ const curriculum: DayContent[] = [
               "It affects only external appearance, not internal processes",
               "The body functions with no hormonal regulation at all",
               "It helps regulate many internal processes needed for healthy functioning",
-              "The endocrine system has no role in maintaining balance"
+              "It only controls how quickly the body digests food"
             ],
             "answer": 2
           }
@@ -9929,7 +9929,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is regionalism considered a recurring theme in Canadian political history?",
             "options": [
-              "It played no role in shaping federal-provincial relations",
+              "It led provinces to give up control over their own resources",
               "Regional grievances have surfaced repeatedly across different eras of Canadian history",
               "Canada has never experienced any regional political tension",
               "This concept only applies to very recent Canadian politics"
@@ -10117,7 +10117,7 @@ const curriculum: DayContent[] = [
             "q": "Soft materials, like curtains or carpet, tend to ___ sound more than hard surfaces.",
             "options": [
               "Amplify",
-              "Have no effect on",
+              "Bounce it back unchanged into the room",
               "Absorb",
               "Reflect"
             ],
@@ -10179,7 +10179,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Canada has no involvement with the United Nations",
               "Because Canada's UN membership is primarily symbolic and ceremonial",
-              "The United Nations has no role in shaping international relations",
+              "The United Nations only makes decisions about trade between nations",
               "It illustrates how Canada engages with global governance and international cooperation"
             ],
             "answer": 3
@@ -10419,7 +10419,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It was the first strike ever recorded in Canadian history",
               "It represented a significant, large-scale action by workers demanding change",
-              "This event had no impact on Canadian labour history",
+              "It ended all labour organizing in Canada for decades",
               "The strike never actually involved any workers"
             ],
             "answer": 1
@@ -10667,7 +10667,7 @@ const curriculum: DayContent[] = [
               "It legally recognized women’s eligibility for positions previously restricted to men",
               "It granted women the right to vote for the first time in Canada",
               "The Persons Case reduced legal rights for women",
-              "This case had no effect on women’s legal rights"
+              "It gave women the right to serve in the military"
             ],
             "answer": 0
           },
@@ -10714,14 +10714,14 @@ const curriculum: DayContent[] = [
               "Only the artistic quality of the illustrations used",
               "What data is included, how it is visually framed, and what interpretation the design encourages",
               "Only the total number of images used",
-              "Infographics have no influence on audience perception"
+              "Infographics are always unbiased because they use numbers"
             ],
             "answer": 1
           },
           {
             "q": "Why might the choice of chart type (e.g., bar graph vs. pie chart) influence how data is perceived?",
             "options": [
-              "This factor is irrelevant to media analysis",
+              "Chart type only matters for the colours used",
               "Only pie charts are capable of misrepresenting data",
               "All chart types present data in an identical, neutral way",
               "Different chart types can emphasize or downplay certain comparisons within the same data"
@@ -10924,7 +10924,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The War Measures Act was never actually invoked",
               "This action was universally supported with no debate or controversy",
-              "This decision had no effect on government powers or civil liberties",
+              "It limited the powers of the federal government",
               "It significantly expanded government powers, raising concerns about civil liberties"
             ],
             "answer": 3
@@ -11174,7 +11174,7 @@ const curriculum: DayContent[] = [
               "Combining resources and expertise from multiple countries can make ambitious missions possible",
               "Space missions are always conducted by a single country acting alone",
               "It is required only by international law, not by practical necessity",
-              "International collaboration has no role in space exploration"
+              "Space exploration is funded only by private companies"
             ],
             "answer": 0
           },
@@ -11409,7 +11409,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the founding of Nunavut considered a significant event in Canadian history?",
             "options": [
               "It reflects an important step in recognizing Indigenous self-governance and land rights",
-              "This event had no impact on Canadian history",
+              "It ended Indigenous land claims in the North",
               "It marked the creation of Canada's tenth province",
               "It mainly served to expand Quebec's provincial boundaries"
             ],
@@ -11454,7 +11454,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Contemporary Indigenous literature often explores themes of ___.",
             "options": [
-              "Exclusively historical events with no bearing on present-day life",
+              "Only events from long ago that no longer affect people today",
               "Primarily lighthearted folk tales written for young children",
               "Identity, resilience, and connection to land and culture",
               "Grammar rules with no thematic content"
@@ -11666,9 +11666,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a trade agreement like the Auto Pact be historically significant for a country’s economy?",
             "options": [
-              "Trade agreements have no impact on a country’s economic development",
+              "Trade agreements affect only imports of food products",
               "It primarily affected tax policy, not industrial development",
-              "The Auto Pact had no effect on Canada’s economy",
+              "It mainly changed the price of gasoline in Canada",
               "It can shape the growth and structure of key industries over time"
             ],
             "answer": 3
@@ -11714,7 +11714,7 @@ const curriculum: DayContent[] = [
             "q": "Why is confident delivery important when giving a persuasive speech?",
             "options": [
               "Confident delivery matters only in formal debate competitions",
-              "Delivery style is irrelevant to a speech’s persuasive power",
+              "A speaker's delivery matters less than the font used on slides",
               "It can help the speaker appear credible and convincing to the audience",
               "A persuasive speech should always be delivered with hesitation"
             ],
@@ -11918,7 +11918,7 @@ const curriculum: DayContent[] = [
               "It resulted in the immediate transfer of all disputed land to the municipality",
               "It brought national and international attention to ongoing issues of land rights and sovereignty",
               "It was resolved quietly with no media coverage at the time",
-              "This event had no impact on public awareness of Indigenous issues"
+              "It led to the end of all Indigenous land claims in Quebec"
             ],
             "answer": 1
           },
@@ -12177,7 +12177,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The refugee's country of origin's trade balance with Canada",
               "The number of time zones a country spans",
-              "The refugee crisis itself has no influence on any response",
+              "The weather in the refugees' home country on a given day",
               "Public opinion and government policy priorities"
             ],
             "answer": 3
@@ -12223,7 +12223,7 @@ const curriculum: DayContent[] = [
             "q": "Why might two authors writing about a similar topic have very different voices?",
             "options": [
               "Voice is determined entirely by the genre, not by the author",
-              "Style and voice are irrelevant to how a topic is presented",
+              "An author's voice depends only on the length of the text",
               "Each author brings distinct stylistic choices and perspectives to their writing",
               "All authors always write with an identical voice and style"
             ],
@@ -12506,7 +12506,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A detailed description of the setting with no character involvement",
               "A significant challenge that changes how the protagonist sees themselves or the world",
-              "A moment with no impact on the protagonist at all",
+              "A scene where the protagonist's age is first mentioned",
               "A minor, unremarkable event that goes unnoticed by the protagonist"
             ],
             "answer": 1
@@ -12638,7 +12638,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They allow a rapid response to danger before the brain fully processes the situation",
               "They allow the brain to carefully analyze every detail first",
-              "The nervous system has no role in protecting the body",
+              "They are controlled by the muscles alone, without the nervous system",
               "Reflex actions always occur too slowly to provide any protection"
             ],
             "answer": 0
@@ -13011,7 +13011,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful for readers to recognize rhetorical devices in a persuasive text?",
             "options": [
-              "Rhetorical devices have no effect on how a reader interprets an argument",
+              "Rhetorical devices only make a text longer",
               "It helps readers memorize the devices for a vocabulary test",
               "It helps them critically evaluate how an argument is being constructed and its intended effect",
               "Recognizing rhetorical devices never helps with understanding a text"
@@ -13595,7 +13595,7 @@ const curriculum: DayContent[] = [
               "Piecewise functions never have any domain restrictions",
               "Each piece of the function is only valid, and should only be graphed, within its specified interval",
               "Every piece of the function applies across the entire domain regardless of any restriction",
-              "Domain restrictions have no effect on how a piecewise function is graphed"
+              "The domain only affects the colour of the graph"
             ],
             "answer": 1
           }
@@ -13623,7 +13623,7 @@ const curriculum: DayContent[] = [
             "q": "Neurotransmitters are chemical messengers that ___.",
             "options": [
               "Cross the synapse between neurons to transmit a signal",
-              "Have no role in communication between neurons",
+              "Break down food in the digestive system",
               "Only released during sleep, with no other function",
               "Proteins that build and repair muscle tissue"
             ],
@@ -13705,7 +13705,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It was the first law in Canadian history to address any form of inequality",
               "It represented a formal effort to address systemic inequality in Canadian workplaces",
-              "This legislation had no impact on workplace conditions in Canada",
+              "It ended all hiring based on skills in Canada",
               "Labour legislation is studied only in economics courses, not history"
             ],
             "answer": 1
@@ -14141,7 +14141,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Is meiosis a type of cell division?",
             "options": [
-              "No, meiosis is not connected to cell division",
+              "No, meiosis only happens in bacteria",
               "Meiosis only happens in plants, never in animals",
               "A chemical reaction rather than a biological process",
               "Yes"
@@ -14214,7 +14214,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It illustrates conflicts that can arise between federal economic policy and provincial resource interests",
               "It was universally supported by every provincial government",
-              "This policy had no effect on the relationship between federal and provincial governments",
+              "It caused the federal government to give up all control of energy policy",
               "Federal-provincial tensions are a uniquely 21st-century phenomenon"
             ],
             "answer": 0
@@ -14648,7 +14648,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only affects species living in the exact same location",
               "Species interactions never influence how an ecosystem functions",
-              "Symbiotic relationships have no effect on an ecosystem’s overall structure",
+              "They only affect the size of individual organisms",
               "These close interactions can influence population sizes and the flow of energy and resources within a community"
             ],
             "answer": 3
@@ -15503,7 +15503,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the Komagata Maru incident considered historically significant?",
             "options": [
               "It stands as a stark example of exclusionary immigration policy in early twentieth-century Canada",
-              "This incident had no impact on Canadian immigration history",
+              "It led Canada to welcome all immigrants from Asia",
               "It led to an immediate reversal of Canada's immigration restrictions",
               "It is remembered mainly as a maritime engineering failure"
             ],
@@ -16181,7 +16181,7 @@ const curriculum: DayContent[] = [
               "Atomic number",
               "The number of protons in the nucleus",
               "Boiling point",
-              "Melting point only, with no effect on boiling point"
+              "Colour of the substance only"
             ],
             "answer": 2
           },
@@ -16250,7 +16250,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the White Paper of 1969 considered a significant moment in the history of Indigenous political organizing?",
             "options": [
               "Opposition to the policy helped unite and mobilize Indigenous leaders and communities across Canada",
-              "This policy had no effect on Indigenous political organizing",
+              "It convinced Indigenous leaders to accept the policy right away",
               "It led to the immediate abolition of the Department of Indian Affairs",
               "It was largely overshadowed by debates over Quebec sovereignty at the time"
             ],
@@ -16262,7 +16262,7 @@ const curriculum: DayContent[] = [
               "It marked the first time Indigenous leaders were given seats in Parliament",
               "It illustrates a key turning point in the ongoing relationship between the federal government and Indigenous peoples",
               "The federal government’s relationship with Indigenous peoples has never changed over time",
-              "It focused solely on urban Indigenous populations, with no bearing on reserve-based land claims"
+              "It dealt only with fishing rights on the coasts"
             ],
             "answer": 1
           }
@@ -16430,7 +16430,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Enzymes that break down food in the stomach",
               "Only function outside of the human body",
-              "Have no role in the body’s immune response",
+              "Carry oxygen in the blood to the body's tissues",
               "Help identify and neutralize specific pathogens"
             ],
             "answer": 3
@@ -17488,7 +17488,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Antibodies are proteins that ___.",
             "options": [
-              "Have no role in the body’s immune response",
+              "Carry oxygen through the bloodstream to the cells",
               "Only function outside of the human body",
               "Directly destroy pathogens by digesting their cell walls",
               "Help identify and neutralize specific pathogens"
@@ -18014,7 +18014,7 @@ const curriculum: DayContent[] = [
             "q": "Why do the circulatory and respiratory systems work closely together?",
             "options": [
               "Because both systems are controlled by the same single organ",
-              "The respiratory system has no role in delivering oxygen to the body’s cells",
+              "The respiratory system pumps blood to the cells",
               "Because they evolved completely separately with no shared function",
               "The circulatory system carries the oxygen absorbed by the respiratory system to cells throughout the body, and returns carbon dioxide for exhalation"
             ],
@@ -18264,7 +18264,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Repel",
               "Neutralize",
-              "Have no effect on",
+              "Merge with",
               "Attract"
             ],
             "answer": 0
@@ -18344,7 +18344,7 @@ const curriculum: DayContent[] = [
             "q": "Why do historians view the Statute of Westminster as a major turning point in Canada’s relationship with Britain?",
             "options": [
               "It formally recognized Canada’s legal authority to govern itself independently, rather than remaining subordinate to British parliamentary decisions",
-              "The Statute of Westminster had no effect on Canada’s relationship with Britain",
+              "It gave Britain the power to approve all Canadian laws",
               "It is remembered mainly for establishing Canada's current national flag",
               "This legislation increased Britain’s control over Canadian affairs"
             ],
@@ -19041,7 +19041,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Species that are lost from an ecosystem can never be reintroduced",
               "It can help restore a species that has been lost from an ecosystem, supporting the ecosystem’s overall balance and function",
-              "Reintroduction programs have no effect on an ecosystem’s balance",
+              "They permanently remove all predators from an ecosystem",
               "Because it guarantees the complete elimination of invasive species"
             ],
             "answer": 1
@@ -19281,7 +19281,7 @@ const curriculum: DayContent[] = [
             "q": "Why does using a lever allow a person to lift a heavier load with less applied force?",
             "options": [
               "Because levers eliminate the need for any force at all",
-              "Levers have no effect on the amount of force needed to lift a load",
+              "Levers increase the total work done on the load",
               "A lever always requires the exact same amount of force as lifting the load directly",
               "The lever multiplies the applied force by trading off distance, requiring the effort to move a greater distance than the load"
             ],
@@ -19481,7 +19481,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Every quadratic function has an identical graph regardless of its equation",
               "They show how changing values in an equation predictably affects the graph’s shape and position",
-              "Transformations have no effect on a quadratic function’s graph",
+              "Transformations change only the colour of the graph",
               "Transformations only apply to linear functions, not quadratics"
             ],
             "answer": 1
@@ -20097,7 +20097,7 @@ const curriculum: DayContent[] = [
               "It reinforces how these scientific ideas relate to and build on one another",
               "Because standardized tests only cover one concept at a time",
               "Review is never useful at the end of a unit",
-              "Each concept should only be studied right before an exam, not connected to others"
+              "Science concepts should always be studied separately from each other"
             ],
             "answer": 0
           }
@@ -22171,7 +22171,7 @@ const curriculum: DayContent[] = [
             "q": "Why might supporters of the Free Trade Agreement have argued it would benefit the Canadian economy?",
             "options": [
               "Supporters believed it would primarily reduce Canada's reliance on natural resource exports",
-              "Supporters of the agreement believed it would have no effect on the Canadian economy at all",
+              "Supporters believed it would lead to higher taxes for Canadians",
               "Trade agreements never have any connection to a country’s economic growth",
               "They believed easier access to the large American market could boost Canadian trade and economic growth"
             ],
@@ -22411,7 +22411,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Peacekeeping missions were never discussed or reconsidered after these events",
               "His accounts highlighted how peacekeeping forces sometimes lacked the resources or mandate to prevent mass violence",
-              "His experience in Rwanda had no influence on later peacekeeping discussions",
+              "His experience led to peacekeeping missions being expanded with no changes",
               "His experience mainly led to reforms in Canadian military training for domestic disaster response"
             ],
             "answer": 1
@@ -22932,7 +22932,7 @@ const curriculum: DayContent[] = [
               "Tensions arose mainly from disagreements over provincial election boundaries",
               "Expansion threatened Métis land, way of life, and political control in the region",
               "Métis communities were never affected by any government policy",
-              "Westward expansion had no effect on Métis communities"
+              "Expansion only affected the Hudson's Bay Company"
             ],
             "answer": 1
           },
@@ -23128,7 +23128,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the small intestine considered the primary site of nutrient absorption?",
             "options": [
-              "The small intestine has no role in absorbing any nutrients",
+              "It is where most water is absorbed from waste",
               "Its large surface area, created by structures like villi, allows for efficient absorption into the bloodstream",
               "Because the small intestine produces digestive enzymes exclusively",
               "Nutrient absorption occurs entirely within the stomach instead"
@@ -23439,7 +23439,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the Klondike Gold Rush often studied alongside its impact on Indigenous peoples of the Yukon?",
             "options": [
-              "The Gold Rush had no effect on Indigenous peoples living in the Yukon",
+              "It only affected Indigenous peoples in Alaska",
               "The rapid influx of newcomers significantly disrupted the land, resources, and ways of life of local Indigenous communities",
               "This topic is studied mainly for its effect on Canadian mining engineering techniques",
               "Indigenous communities were not present in the Yukon before the Gold Rush"
@@ -23929,7 +23929,7 @@ const curriculum: DayContent[] = [
               "Individual colonies were always better equipped for defence than a unified one",
               "A larger, united colony could organize a stronger, more coordinated defence than several separate small colonies",
               "The threat convinced colonies to seek annexation by the United States instead",
-              "The threat of the raids had no influence on colonial unification efforts"
+              "The raids caused the colonies to prefer staying separate"
             ],
             "answer": 1
           },
@@ -24663,7 +24663,7 @@ const curriculum: DayContent[] = [
             "q": "Did the Pacific Scandal lead to the resignation of Macdonald’s government?",
             "options": [
               "No, the government faced no consequences at all",
-              "The scandal had no effect on Macdonald’s government whatsoever",
+              "Macdonald was replaced by an appointed governor",
               "It led to Macdonald's permanent exile from Canadian politics",
               "Yes"
             ],
@@ -24924,7 +24924,7 @@ const curriculum: DayContent[] = [
               "Canada’s international status remained completely unchanged by this membership",
               "It signalled growing recognition of Canada as a distinct international actor, separate from Britain",
               "It mattered mainly because it gave Canada veto power over League decisions",
-              "Having a separate seat had no effect on how Canada was viewed internationally"
+              "Canada's status was lowered by having a separate seat"
             ],
             "answer": 1
           },
@@ -25410,7 +25410,7 @@ const curriculum: DayContent[] = [
               "Indigenous nations only fought on the American side",
               "Tecumseh's confederacy sided with the Americans against the British",
               "Yes",
-              "No, Indigenous peoples played no role in the war at all"
+              "No, Indigenous allies fought only in the American Revolution"
             ],
             "answer": 2
           },
@@ -25420,7 +25420,7 @@ const curriculum: DayContent[] = [
               "It mattered mainly because it led immediately to full independence from Britain",
               "Repelling an American invasion together gave settlers, militia, and Indigenous allies a shared experience of defending their home territory",
               "The war ended in a decisive American conquest of all of British North America",
-              "The war had no effect on colonial identity in British North America"
+              "The war convinced settlers to return to Britain"
             ],
             "answer": 1
           },
@@ -25952,7 +25952,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is distinguishing between commonly confused words, like affect and effect, important in writing?",
             "options": [
-              "It has no impact on how clearly a piece of writing communicates",
+              "It only matters when writing for a test",
               "Confused words are always interchangeable with no difference in meaning",
               "These words only matter in formal legal writing, not everyday writing",
               "It helps communicate meaning clearly and accurately"
@@ -26094,7 +26094,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Do certain bacteria convert atmospheric nitrogen into a form plants can use during nitrogen fixation?",
             "options": [
-              "No, bacteria play no role in the nitrogen cycle",
+              "No, only lightning can change nitrogen into usable forms",
               "Yes",
               "Plants absorb atmospheric nitrogen directly with no help from bacteria",
               "Only fungi, never bacteria, perform nitrogen fixation"
@@ -26346,7 +26346,7 @@ const curriculum: DayContent[] = [
               "Only wind, never insects, transfers pollen between flowers",
               "Yes",
               "Pollen is never transferred between flowers by any organism",
-              "No, pollinators play no role in pollination"
+              "No, bees only collect nectar and never move pollen"
             ],
             "answer": 1
           },
@@ -27709,7 +27709,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why must writers be careful when omitting words from a quotation with an ellipsis?",
             "options": [
-              "Ellipses have no effect on meaning",
+              "Ellipses always change the quotation's meaning",
               "Omitting words could distort the original meaning if done carelessly",
               "Ellipses always make quotations more accurate",
               "Omitting words is never allowed under any circumstance"
@@ -27900,7 +27900,7 @@ const curriculum: DayContent[] = [
             "q": "Why is Newfoundlands entry into Confederation historically significant?",
             "options": [
               "It caused Canada to lose a province",
-              "It had no impact on Canadian history",
+              "It made Newfoundland a territory instead of a province",
               "It happened before Canada existed",
               "It completed a major stage of Canadas territorial expansion"
             ],
@@ -28310,7 +28310,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is antibiotic resistance a significant global health concern?",
             "options": [
-              "It has no impact on human health",
+              "It only affects animals, not people",
               "It makes some bacterial infections much harder to treat effectively",
               "It only affects a single country",
               "It makes all infections easier to cure"
@@ -28437,7 +28437,7 @@ const curriculum: DayContent[] = [
               "Memes are always completely factual",
               "Critical analysis is never useful for internet content",
               "To understand how internet culture shapes communication and opinion",
-              "Memes have no influence on culture or opinion"
+              "Memes only influence very young children"
             ],
             "answer": 2
           },
@@ -28634,7 +28634,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the training plan significant in Canadian military history?",
             "options": [
               "It only trained Canadian civilians with no military purpose",
-              "It shows Canada had no role in World War II",
+              "It shows Canada stayed neutral during the war",
               "It had no lasting impact on Canadian history",
               "It demonstrated Canadas major contribution to the Allied war effort"
             ],
@@ -28870,7 +28870,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It allowed large ships greater access to inland ports, boosting trade",
               "It closed off the Great Lakes from international shipping",
-              "It had no effect on Canadian industry",
+              "It mainly changed the price of farm equipment",
               "It completely ended all shipping in the region"
             ],
             "answer": 0
@@ -29115,7 +29115,7 @@ const curriculum: DayContent[] = [
             "options": [
               "As unfair to Canadian interests",
               "As entirely fair and favourable to Canada",
-              "As having no effect on Canada",
+              "As a clear win for Canadian claims over the coastline",
               "As a complete victory for Canada"
             ],
             "answer": 0
@@ -29605,7 +29605,7 @@ const curriculum: DayContent[] = [
               "It was the first treaty ever signed between Canada and any Indigenous nation",
               "It set an important precedent for later Indigenous treaties in Canada",
               "It ended all Indigenous rights in Canada",
-              "It had no effect on any future negotiations"
+              "It ended the possibility of negotiating further land claims"
             ],
             "answer": 1
           },
@@ -29838,7 +29838,7 @@ const curriculum: DayContent[] = [
             "q": "What effect did Siftons immigration campaign have on the Prairies?",
             "options": [
               "It dramatically increased population and agricultural output",
-              "It had no effect on the regions population",
+              "It mostly reduced the number of people on the Prairies",
               "It ended all farming in the region",
               "It caused the Prairies to become completely uninhabited"
             ],
@@ -30755,7 +30755,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How do glaciers reshape landscapes?",
             "options": [
-              "Glaciers have no effect on landscapes",
+              "They only flatten mountains by wind",
               "Through processes of erosion and deposition as they move",
               "Only through volcanic activity",
               "Only by melting instantly with no movement"
@@ -30881,7 +30881,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might overusing nominalizations make writing less concise?",
             "options": [
-              "Nominalized words have no effect on sentence length",
+              "Nominalizations always shorten sentences",
               "Nominalization always makes writing shorter and clearer",
               "Concise writing always requires more nominalizations",
               "It can replace strong, direct verbs with wordier noun phrases"
@@ -31004,7 +31004,7 @@ const curriculum: DayContent[] = [
               "By filtering air in the lungs",
               "Through sweating and blood vessel changes near the skins surface",
               "By producing digestive enzymes",
-              "It has no role in temperature regulation"
+              "It only protects the body from the cold"
             ],
             "answer": 1
           },
@@ -31064,7 +31064,7 @@ const curriculum: DayContent[] = [
               "It linked the country from coast to coast and supported western settlement",
               "It disconnected eastern and western Canada",
               "It was used only for local city transportation",
-              "It had no effect on national development"
+              "It mainly carried goods between cities in the Maritimes"
             ],
             "answer": 0
           },
@@ -31129,7 +31129,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They eliminate the need for critical thinking entirely",
               "They can reinforce existing beliefs and reduce exposure to differing viewpoints",
-              "They have no effect on how people understand issues",
+              "They only change the font size of articles",
               "They guarantee complete objectivity in all content"
             ],
             "answer": 1
@@ -31249,7 +31249,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They only support a single species of fish",
               "They provide habitat for a vast range of marine species",
-              "They have no effect on marine biodiversity",
+              "They mainly protect inland farmland from erosion",
               "They exist only in freshwater lakes"
             ],
             "answer": 1
@@ -31638,7 +31638,7 @@ const curriculum: DayContent[] = [
             "q": "Why is clear structure important in an investigative report?",
             "options": [
               "Investigative reports should avoid any organization",
-              "Structure has no impact on how readers understand a report",
+              "Structure only affects how many pages a report has",
               "Structure only matters in fictional writing",
               "It helps readers follow the evidence and understand the findings logically"
             ],
@@ -31817,7 +31817,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why was British Columbias entry into Confederation significant for Canada?",
             "options": [
-              "It had no effect on Canadas geographic extent",
+              "It added land in the Arctic only",
               "It caused Canada to lose access to the Pacific Ocean",
               "It extended Canadian territory to the Pacific coast",
               "It marked the end of Confederation expansion permanently"
@@ -32130,7 +32130,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Their disruptive, boundary-crossing actions challenge the existing order",
               "They are always removed from the plot immediately",
-              "They have no influence on other characters",
+              "They mainly serve as the story's narrator without changing events",
               "They strictly maintain the status quo at all times"
             ],
             "answer": 0
@@ -32250,7 +32250,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They shift the balance of detection and evasion between predators and prey",
               "They guarantee predator species always fail to find food",
-              "They have no effect on predator-prey interactions",
+              "They only change the colour of an animal's eggs",
               "They guarantee prey species always survive"
             ],
             "answer": 0
@@ -33089,7 +33089,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why must a PSA writer define a target audience?",
             "options": [
-              "Because a target audience is irrelevant to persuasive writing",
+              "Because a PSA works best when the audience is as broad as possible",
               "Because a PSA should never be shown to anyone",
               "To tailor the language, tone, and message to the people most likely to act on it",
               "Because PSAs are never meant to be understood"
@@ -36156,7 +36156,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is genetic engineering in agriculture a topic of ongoing debate?",
             "options": [
-              "GMOs have no effect on agriculture at all",
+              "GMOs are used only in laboratory animals",
               "The topic has no scientific basis",
               "People have different views on its safety, ethics, and environmental impact",
               "Everyone agrees completely on every aspect of GMOs"
@@ -37639,7 +37639,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It prevents fluid from building up excessively in tissues while also supporting immune defense",
               "Fluid balance is controlled entirely by the skeletal system",
-              "It has no role in maintaining any bodily balance",
+              "It mainly produces the blood cells that carry oxygen",
               "The lymphatic system only operates during illness"
             ],
             "answer": 0
@@ -37873,7 +37873,7 @@ const curriculum: DayContent[] = [
             "options": [
               "To organize genetic information so it can be accurately copied and passed on",
               "To convert genetic information into energy",
-              "Chromosomes play no role in cell division",
+              "They mainly produce the proteins used to build the cell wall",
               "To destroy genetic information before division occurs"
             ],
             "answer": 0
@@ -38370,7 +38370,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is rocket propulsion considered essential to modern space exploration?",
             "options": [
-              "Rockets have no role in reaching outer space",
+              "They are used mainly to keep satellites cool in orbit",
               "Spacecraft can escape gravity without any propulsion system",
               "Rocket propulsion is only used for travel within the atmosphere",
               "It provides the only currently practical way to generate enough thrust to escape Earths gravity"
@@ -38598,7 +38598,7 @@ const curriculum: DayContent[] = [
               "The brain prevents any internal cycle from forming",
               "A specific brain region helps synchronize bodily processes with the day-night cycle",
               "The brain only regulates digestion, not sleep patterns",
-              "The brain has no role in regulating sleep at all"
+              "The brain controls sleep only through the digestive system"
             ],
             "answer": 1
           },
@@ -39104,7 +39104,7 @@ const curriculum: DayContent[] = [
             "q": "Why do scientists study changes in ocean currents when researching climate change?",
             "options": [
               "Studying currents provides no useful climate information",
-              "Currents have no influence on weather patterns",
+              "Currents only affect the depth of the ocean floor",
               "Ocean currents never change over time",
               "Shifts in current patterns can significantly affect global weather and temperature distribution"
             ],
@@ -39594,7 +39594,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They exclusively pollinate a single species of plant worldwide",
               "They prevent all plant reproduction from occurring",
-              "They have no role in any ecosystem outside of farmland",
+              "They only matter for pollinating plants grown in greenhouses",
               "They also support the reproduction of many wild plant species within natural ecosystems"
             ],
             "answer": 3
@@ -39654,7 +39654,7 @@ const curriculum: DayContent[] = [
               "It demonstrates that only men were permitted to support the war effort in any capacity",
               "It proves that the military structure remained completely unchanged throughout the war",
               "It illustrates how the demands of total war expanded opportunities for women in official military roles",
-              "It shows that women played no role in Canada during the Second World War"
+              "It shows that women served only as nurses in hospitals overseas"
             ],
             "answer": 2
           }
@@ -39837,7 +39837,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They permanently prevent any reaction from occurring",
               "They always make industrial processes slower and less efficient",
-              "Catalysts have no role in any industrial process",
+              "They are mainly used to add colour to chemical products",
               "They can make reactions faster and more energy-efficient on a large scale"
             ],
             "answer": 3
@@ -40876,7 +40876,7 @@ const curriculum: DayContent[] = [
             "q": "Why was the Gouzenko Affair significant for Canada-Soviet relations among wartime allies?",
             "options": [
               "It exposed espionage that undermined trust between former wartime allies",
-              "It had no effect on international relations of any kind",
+              "It led Canada to withdraw from the United Nations",
               "It led to an immediate military alliance between Canada and the Soviet Union",
               "It strengthened trust between Canada and the Soviet Union permanently"
             ],
@@ -42459,7 +42459,7 @@ const curriculum: DayContent[] = [
             "q": "For a fixed perimeter, which shape of rectangle encloses the maximum area?",
             "options": [
               "A square",
-              "It doesn't matter -- all rectangles with the same perimeter have the same area",
+              "A rectangle with one side twice as long as the other",
               "A very long, thin rectangle",
               "A triangle"
             ],
@@ -42773,7 +42773,7 @@ const curriculum: DayContent[] = [
             "q": "Why must photographic film traditionally be handled in a darkroom before development?",
             "options": [
               "Exposure to additional light would alter or destroy the latent image",
-              "Darkrooms have no effect on light-sensitive compounds",
+              "Darkrooms keep the film at a cooler temperature",
               "Film is only light-sensitive after development is complete",
               "Light exposure has no chemical effect on silver halide compounds"
             ],
@@ -43124,7 +43124,7 @@ const curriculum: DayContent[] = [
               "By reading directly from an unrelated script with no analysis",
               "Through word choice, tone, and the narratives they choose to emphasize",
               "By remaining completely silent throughout the broadcast",
-              "Commentary has no influence on how an audience understands a game"
+              "Commentary only changes the volume of the broadcast"
             ],
             "answer": 1
           },
@@ -43300,7 +43300,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How did the nuclear weapons controversy affect the Diefenbaker cabinet?",
             "options": [
-              "It had no effect on the cabinet at all",
+              "It strengthened the cabinet's agreement on defence policy",
               "It caused the cabinet to unanimously support the warheads immediately",
               "It divided the cabinet over whether to accept the warheads",
               "It led to the permanent cancellation of the cabinet"
@@ -44841,7 +44841,7 @@ const curriculum: DayContent[] = [
             "q": "What might a flashback highlight about the relationship between past and present events?",
             "options": [
               "That the two time periods are entirely unrelated",
-              "That the present has no bearing on the story",
+              "That the flashback is only a repeat of the previous chapter",
               "That the past can never influence a character",
               "A meaningful connection between them"
             ],
@@ -45694,7 +45694,7 @@ const curriculum: DayContent[] = [
             "q": "Why are decomposers considered essential to nutrient cycling?",
             "options": [
               "They allow nutrients from dead organisms to be reused by other living things",
-              "They have no effect on the availability of nutrients",
+              "They mainly remove oxygen from the soil",
               "They only cycle nutrients within their own bodies",
               "They remove all nutrients from an ecosystem permanently"
             ],
@@ -46642,7 +46642,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Heritable variation that affects survival and reproduction",
               "Traits acquired during an organism's lifetime",
-              "Random mutations with no effect on fitness",
+              "Traits an organism gains through use or disuse",
               "Only physical traits visible to predators"
             ],
             "answer": 0
@@ -46885,7 +46885,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Primarily affected recent European immigrant families",
               "Indigenous children and communities",
-              "Only adults, with no effect on children",
+              "Mainly adult workers in northern communities",
               "No specific group of people"
             ],
             "answer": 1
@@ -47147,7 +47147,7 @@ const curriculum: DayContent[] = [
               "Only the colour scheme used in the design",
               "What data is included, how it is visually framed, and what interpretation the design encourages",
               "Only the total number of images used",
-              "Infographics have no influence on audience perception"
+              "Infographics only show information in text form"
             ],
             "answer": 1
           },
@@ -52879,7 +52879,7 @@ const curriculum: DayContent[] = [
               "the antagonist who opposes the hero throughout the story",
               "the specific goal, item, or person the protagonist is seeking",
               "the setting where the story begins",
-              "a minor character with no bearing on the plot"
+              "the narrator who describes the hero's journey"
             ],
             "answer": 1
           }

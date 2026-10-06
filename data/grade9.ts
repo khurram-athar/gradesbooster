@@ -160,7 +160,7 @@ const curriculum: DayContent[] = [
               "Always improve ecosystems",
               "Only affect oceans",
               "Reduce biodiversity and disrupt ecosystems",
-              "Have no effect on ecosystems"
+              "Only change the soil and not the plants or animals"
             ],
             "answer": 2
           },
@@ -170,7 +170,7 @@ const curriculum: DayContent[] = [
               "Is always a predator",
               "Has an outsized effect on its ecosystem",
               "Only exists in oceans",
-              "Has no impact on its ecosystem"
+              "Is always the smallest species in its food web"
             ],
             "answer": 1
           },
@@ -552,7 +552,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A credible source is one that is...",
             "options": [
-              "Irrelevant to the topic",
+              "Popular with the most people",
               "Always anonymous",
               "Reliable, accurate, and well-supported",
               "Always biased"
@@ -944,7 +944,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Many Indigenous perspectives view land as...",
             "options": [
-              "Irrelevant to identity",
+              "Separate from culture and community",
               "Owned only by governments",
               "Something to respect and care for",
               "A resource to exploit with no responsibility"
@@ -1025,7 +1025,7 @@ const curriculum: DayContent[] = [
               "A question",
               "Vague",
               "Clear and arguable",
-              "Irrelevant"
+              "Copied directly from a source"
             ],
             "answer": 2
           },
@@ -1174,7 +1174,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Large ecosystem effect for its abundance",
               "Effect only as a predator",
-              "No effect on its ecosystem",
+              "Smaller effect than the average species",
               "Effect only in oceans"
             ],
             "answer": 0
@@ -1881,7 +1881,7 @@ const curriculum: DayContent[] = [
             "q": "Greenhouse gases trap heat by...",
             "options": [
               "Cooling the surface directly",
-              "Having no effect on temperature",
+              "Reflecting visible light back into space",
               "Blocking all sunlight completely",
               "Trapping infrared radiation"
             ],
@@ -2009,7 +2009,7 @@ const curriculum: DayContent[] = [
             "q": "Eye contact during a presentation helps...",
             "options": [
               "Engage the audience",
-              "Has no effect",
+              "Make the speaker look more nervous",
               "Distract the audience",
               "Is never recommended"
             ],
@@ -2956,7 +2956,7 @@ const curriculum: DayContent[] = [
               "Lower unemployment rates always",
               "Losing business to foreign rivals",
               "Increased demand for local products always",
-              "No impact on local businesses"
+              "Rising wages for all workers"
             ],
             "answer": 1
           },
@@ -2973,7 +2973,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Trade agreements between countries are designed to...",
             "options": [
-              "Have no effect on prices",
+              "Raise the cost of all imported goods",
               "Only benefit one country",
               "Reduce barriers to trade",
               "Stop all international trade"
@@ -3216,7 +3216,7 @@ const curriculum: DayContent[] = [
               "Transferring heat or cold from one region to another",
               "Only affecting deep sea environments",
               "Only affecting rainfall, never temperature",
-              "Having no effect on nearby land temperatures"
+              "Only change the salt content of the ocean"
             ],
             "answer": 0
           },
@@ -3747,7 +3747,7 @@ const curriculum: DayContent[] = [
             "q": "One potential negative effect of globalization on a local economy is...",
             "options": [
               "Always lower unemployment",
-              "No impact on businesses",
+              "Guaranteed higher wages for all workers",
               "Losing business to foreign rivals",
               "Increased demand for local products"
             ],
@@ -4236,7 +4236,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only matter for passenger travel",
               "Only exist in wealthy countries",
-              "Have no effect on trade",
+              "Make all goods cheaper automatically",
               "Connect producers to markets"
             ],
             "answer": 3
@@ -4462,7 +4462,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Increasing the resistance in a circuit (while voltage stays constant) will...",
             "options": [
-              "Have no effect on the current",
+              "Cause the current to stay the same",
               "Increase the voltage",
               "Decrease the current",
               "Increase the current"
@@ -5884,7 +5884,7 @@ const curriculum: DayContent[] = [
               "Stop reading the text",
               "Skip the passage entirely",
               "Mark it and revisit the confusion later",
-              "Assume the confusion does not matter"
+              "Decide the passage is not worth finishing"
             ],
             "answer": 2
           },
@@ -6812,7 +6812,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Agricultural use of nitrogen-based fertilizers can disrupt the nitrogen cycle by...",
             "options": [
-              "Having no effect on aquatic ecosystems",
+              "Making soil lose nutrients to the atmosphere",
               "Causing runoff and eutrophication",
               "Always improving water quality",
               "Removing nitrogen from the atmosphere permanently"
@@ -7043,7 +7043,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only affecting non-food plants",
               "Only being a problem in tropical climates",
-              "Having no effect on human health",
+              "Only affecting people who touch the soil directly",
               "Entering the food chain long-term"
             ],
             "answer": 3
@@ -7453,7 +7453,7 @@ const curriculum: DayContent[] = [
             "q": "A rebuttal explains why the counter-argument is...",
             "options": [
               "Less convincing than it first appears",
-              "Not relevant to mention",
+              "Worth ignoring completely",
               "The same as the writer's own view",
               "Completely correct"
             ],
@@ -7730,7 +7730,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The mentor archetype typically ___.",
             "options": [
-              "Has no role in a story’s plot",
+              "Serves only as the main antagonist",
               "Always opposes the main character with no other function",
               "Guides or teaches the main character",
               "Appears only in nonfiction texts"
@@ -7741,7 +7741,7 @@ const curriculum: DayContent[] = [
             "q": "Why is recognizing archetypes considered a valuable literary analysis skill?",
             "options": [
               "Recognizing archetypes replaces the need to understand plot",
-              "Archetypes are irrelevant to understanding a story",
+              "Archetypes only appear in ancient myths and not in modern stories",
               "It helps readers see connections between different stories and understand broader patterns",
               "Requires memorizing a fixed list of character names rather than patterns"
             ],
@@ -7842,7 +7842,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is cell division important for healing an injury, such as a cut?",
             "options": [
-              "Cell division has no role in healing",
+              "Cell division stops during healing so the body can rest",
               "New cells are produced to repair and replace damaged tissue",
               "Injuries heal with no biological process involved",
               "Cell division only occurs before birth"
@@ -7962,7 +7962,7 @@ const curriculum: DayContent[] = [
               "Evidence always weakens a literary interpretation",
               "A literary response essay should never reference the text",
               "It supports the writer’s interpretation with specific, relevant examples",
-              "Evidence has no role in this type of essay"
+              "Evidence is only needed in science reports, not literary essays"
             ],
             "answer": 2
           },
@@ -8242,7 +8242,7 @@ const curriculum: DayContent[] = [
               "Fragments and run-ons always improve a sentence’s clarity",
               "Formal writing should always include grammatical errors",
               "It helps ensure clarity and proper sentence structure for the reader",
-              "These corrections have no effect on writing clarity"
+              "Teachers correct them only to make the writing longer"
             ],
             "answer": 2
           }
@@ -8423,7 +8423,7 @@ const curriculum: DayContent[] = [
             "q": "Why is studying climate refugees relevant to understanding global geography?",
             "options": [
               "Climate refugees are counted the same way as economic migrants",
-              "Climate refugees have no impact on population patterns",
+              "Climate refugees are always counted as tourists",
               "It mainly explains historical migration, not current patterns",
               "It highlights how environmental changes are reshaping population patterns worldwide"
             ],
@@ -8449,7 +8449,7 @@ const curriculum: DayContent[] = [
           {
             "q": "In persuasive writing, connotation is used to ___.",
             "options": [
-              "Have no effect on the audience at all",
+              "Make the writing sound more scientific and factual",
               "Confuse readers with no clear purpose",
               "Replace the need for any logical argument",
               "Influence how an audience emotionally responds to an argument"
@@ -8459,7 +8459,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a persuasive writer choose the word reckless instead of bold, despite a similar denotation?",
             "options": [
-              "Connotation has no role in persuasive writing",
+              "The two words are interchangeable in every context",
               "The two words have completely different denotations",
               "Word choice never affects a persuasive argument",
               "Reckless carries a more negative connotation, shaping a more critical perspective"
@@ -8665,7 +8665,7 @@ const curriculum: DayContent[] = [
               "Trade blocs eliminate the need for any international markets",
               "They can shift where goods are produced, bought, and sold among member countries",
               "They mainly determine currency exchange rates directly",
-              "Trade blocs have no effect on global markets"
+              "Trade blocs only change the language used in trade"
             ],
             "answer": 1
           },
@@ -9043,7 +9043,7 @@ const curriculum: DayContent[] = [
               "Always increase indefinitely with no limit",
               "Decrease",
               "Immediately double",
-              "Have no effect on"
+              "Make the perimeter larger"
             ],
             "answer": 1
           },
@@ -9229,10 +9229,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding echo chambers and filter bubbles considered an important media literacy skill?",
             "options": [
-              "Algorithms have no influence on social media experiences",
+              "Algorithms only show users content in alphabetical order",
               "It helps users recognize how their online experience may be shaped and limited",
               "This understanding has no practical value",
-              "Filter bubbles have no effect on the content users see"
+              "Filter bubbles make users see every viewpoint equally"
             ],
             "answer": 1
           },
@@ -9403,7 +9403,7 @@ const curriculum: DayContent[] = [
             "q": "Why might infrastructure, such as roads and utilities, be relevant to comparing regions?",
             "options": [
               "Infrastructure can significantly affect a region’s economic opportunities and quality of life",
-              "Roads and utilities have no effect on economic opportunity",
+              "Roads and utilities are the only factors that determine a region's wealth",
               "Infrastructure quality is identical in every region of the world",
               "Roads and utilities affect tourism but not daily economic activity"
             ],
@@ -9491,7 +9491,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Clear, unambiguous sentences support the reader’s accurate understanding of complex ideas",
               "Misplaced modifiers only cause confusion in casual text messages",
-              "These corrections have no impact on academic clarity",
+              "Modifier errors only matter in poetry, not academic writing",
               "Formal writing should always contain ambiguous sentences"
             ],
             "answer": 0
@@ -9513,7 +9513,7 @@ const curriculum: DayContent[] = [
               "Order matters",
               "Only one arrangement is ever possible",
               "The total number of objects involved, regardless of their order",
-              "Order does not matter at all"
+              "Only the type of object matters"
             ],
             "answer": 0
           },
@@ -9710,7 +9710,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Extended metaphors always weaken a piece of writing",
               "A brief comparison always creates more meaning than an extended one",
-              "Extended metaphors have no effect on a reader’s understanding",
+              "Extended metaphors only work in poetry, never in stories",
               "It can create a more cohesive and deeply developed sense of meaning throughout the piece"
             ],
             "answer": 3
@@ -9850,7 +9850,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why are bioaccumulation and biomagnification considered important environmental concerns?",
             "options": [
-              "These processes have no effect on ecosystems",
+              "They only happen in laboratories, not in natural ecosystems",
               "Harmful substances can become increasingly concentrated and dangerous as they move up a food chain",
               "These substances always break down before reaching predators",
               "Substances always become less harmful as they move through a food chain"
@@ -10151,7 +10151,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do unresolved land claims still matter today?",
             "options": [
-              "They have no effect on modern decision-making",
+              "They were settled by a single court decision in the last year",
               "They can affect current resource development, land use, and governance",
               "They were all fully resolved centuries ago",
               "They only apply to historical documents with no present impact"
@@ -10174,7 +10174,7 @@ const curriculum: DayContent[] = [
               "Treaties mainly concern cultural ceremonies, not land use",
               "Land claims and treaties directly shape how land and resources are used and governed",
               "Land claims only affect provincial boundary lines",
-              "These agreements have no bearing on present-day Canada"
+              "Treaties are only relevant to the history of other countries"
             ],
             "answer": 1
           }
@@ -10672,7 +10672,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Pandemic planning never considers geographic patterns",
               "It mainly helps predict stock market reactions to outbreaks",
-              "Geographic factors have no influence on health outcomes",
+              "Disease spread depends only on the weather, not on geography",
               "It helps identify patterns and vulnerabilities that can inform more effective responses"
             ],
             "answer": 3
@@ -10910,7 +10910,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which is a potential environmental cost associated with urban sprawl?",
             "options": [
-              "No effect on the surrounding environment",
+              "Surrounding wildlife benefits from the added roads and buildings",
               "A reduction in land use overall",
               "Increased protection of natural habitats with no land development",
               "Loss of natural habitat as land is developed"
@@ -10979,7 +10979,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Ambiguous words can create confusion about the intended, specific meaning",
               "Words with multiple meanings always improve technical clarity",
-              "Multiple meanings have no effect on clarity in this context",
+              "Words with several meanings are always shorter and easier to read",
               "Technical writing should always use complex, ambiguous vocabulary"
             ],
             "answer": 0
@@ -11568,7 +11568,7 @@ const curriculum: DayContent[] = [
           {
             "q": "An invasive species is best described as ___.",
             "options": [
-              "A species with no impact on its environment",
+              "A species that was introduced to help restore an ecosystem",
               "A native species that has always lived in that ecosystem",
               "A species that has gone extinct in its original habitat",
               "A non-native organism that causes harm in a new environment"
@@ -11609,7 +11609,7 @@ const curriculum: DayContent[] = [
             "q": "Why are invasive species considered a significant environmental concern?",
             "options": [
               "Native biodiversity is never affected by non-native species",
-              "Invasive species have no effect on local ecosystems",
+              "Invasive species mainly help native species by sharing food",
               "Invasive species always die out within a single season",
               "They can disrupt local ecosystems and threaten native biodiversity"
             ],
@@ -11706,7 +11706,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a film score change tempo or instrumentation during a tense scene?",
             "options": [
-              "Tempo and instrumentation have no effect on how a scene feels",
+              "Tempo changes are only made to fit a scene into the film's running time",
               "Composers never vary music to match on-screen action",
               "Shifting these elements can heighten suspense and mirror the emotional intensity of the moment",
               "All film music must remain identical throughout an entire movie"
@@ -11910,7 +11910,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Geography never influences cultural or political identity",
               "It helps explain how countries construct and communicate a shared sense of identity",
-              "National symbols are irrelevant to understanding countries",
+              "National symbols only matter for national holidays",
               "It mainly matters for art and design classes, not geography"
             ],
             "answer": 1
@@ -14103,7 +14103,7 @@ const curriculum: DayContent[] = [
             "q": "Why does a vaccine help the immune system respond faster to a real infection later?",
             "options": [
               "The immune system has already learned to recognize the pathogen from the vaccine",
-              "Vaccines have no effect on how the immune system responds",
+              "The vaccine makes the body immune to every disease at once",
               "The immune system forgets the vaccine immediately",
               "The body produces new blood cells faster after vaccination"
             ],
@@ -14133,7 +14133,7 @@ const curriculum: DayContent[] = [
             "q": "Why are vaccines considered an important public health tool?",
             "options": [
               "Vaccines work by permanently curing the disease in one dose",
-              "Vaccines have no effect on how diseases spread through a population",
+              "Vaccines only matter during the year they are given",
               "Vaccines only work for a single person and never affect anyone else",
               "They can reduce the spread and severity of infectious diseases within a population"
             ],
@@ -14406,7 +14406,7 @@ const curriculum: DayContent[] = [
               "The process of appealing a legal decision in federal court",
               "Be governed entirely by decisions made outside their communities",
               "Govern their own affairs, including matters related to their land",
-              "Have no role in decisions affecting their own communities"
+              "Share decision-making equally with every other province"
             ],
             "answer": 2
           },
@@ -14923,7 +14923,7 @@ const curriculum: DayContent[] = [
             "q": "Why might existing community networks influence where refugees choose to settle?",
             "options": [
               "Established communities can provide support, language assistance, and a sense of familiarity",
-              "Community networks have no influence on settlement decisions",
+              "Refugees settle only where housing is cheapest",
               "Refugees always avoid areas with existing community connections",
               "Community networks matter only for refugees seeking employment"
             ],
@@ -15224,7 +15224,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The authority of municipal governments over provincial parks",
               "Govern their own affairs, including matters related to their land",
-              "Have no role in decisions affecting their own communities",
+              "Be represented only by decisions of the federal Parliament",
               "Be governed entirely by decisions made outside their communities"
             ],
             "answer": 1
@@ -15670,7 +15670,7 @@ const curriculum: DayContent[] = [
             "q": "An antibody is best described as a molecule that ___.",
             "options": [
               "A type of sugar used for energy storage",
-              "Has no role in fighting disease",
+              "Is produced only by plant cells",
               "Recognizes and helps neutralize a specific pathogen",
               "Always attacks the body’s own healthy cells"
             ],
@@ -15682,7 +15682,7 @@ const curriculum: DayContent[] = [
               "Vaccines work by increasing a person's overall muscle strength",
               "Vaccines always cause the full disease they are meant to prevent",
               "It trains the immune system to recognize a specific pathogen without causing the actual disease",
-              "Vaccines have no effect on how the immune system responds to pathogens"
+              "Vaccines replace the need for white blood cells altogether"
             ],
             "answer": 2
           }
@@ -15742,7 +15742,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Global coordination never requires any awareness of time differences",
               "It helps determine currency exchange rates between trading countries",
-              "Time zones have no effect on global communication",
+              "Time zones are based only on the length of a country's coastline",
               "It helps people coordinate schedules and transactions accurately across different regions of the world"
             ],
             "answer": 3
@@ -15990,7 +15990,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the urban heat island effect an important consideration for city planners?",
             "options": [
-              "Urban heat islands have no effect on residents’ health or energy use",
+              "Urban heat islands only occur during winter",
               "Urban heat islands only affect industrial zones, never residential neighbourhoods",
               "Higher urban temperatures can increase energy use and pose health risks during heat waves",
               "Urban temperature patterns never need to be considered by planners"
@@ -16609,7 +16609,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Purchasing power never changes based on currency exchange",
               "The exchange rate determines how much local currency, and therefore goods, their money can obtain",
-              "Exchange rates have no effect on how much a traveller can buy",
+              "Exchange rates only change the price of goods in the home country",
               "Purchasing power is fixed by international law and cannot change"
             ],
             "answer": 1
@@ -16617,7 +16617,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do businesses that trade internationally need to monitor currency exchange rates closely?",
             "options": [
-              "Exchange rates have no impact on international business",
+              "Exchange rates only matter for banks, not for importers and exporters",
               "Businesses never need to consider currency values when trading internationally",
               "Fluctuating exchange rates can significantly affect the cost of imports and the value of international sales",
               "Exchange rates only affect tourists, never business transactions"
@@ -16679,7 +16679,7 @@ const curriculum: DayContent[] = [
             "q": "What role do bacteria play in the fermentation process used to make yogurt?",
             "options": [
               "They produce lactic acid, which thickens and flavours the milk",
-              "They have no effect on the milk at all",
+              "They turn the milk's sugars into carbon dioxide gas that makes it fizzy",
               "They break the milk down into pure water",
               "They convert the milk directly into a solid metal"
             ],
@@ -16918,7 +16918,7 @@ const curriculum: DayContent[] = [
             "q": "A warm ocean current flowing toward a coastal region generally has what effect on nearby land temperatures?",
             "options": [
               "Warm currents only affect fish migration, never land temperature",
-              "It has no effect whatsoever on nearby land temperatures",
+              "It causes the nearby land to become drier but not any warmer",
               "It always cools the climate of that coastal region significantly",
               "It tends to warm the climate of that coastal region"
             ],
@@ -16939,7 +16939,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Climate patterns are never influenced by ocean water movement",
               "Ocean currents are studied only in isolation from climate research",
-              "Ocean currents are considered irrelevant to global climate research",
+              "Ocean currents only affect shipping routes rather than climate",
               "Currents significantly influence how heat and energy are distributed across the planet"
             ],
             "answer": 3
@@ -17190,7 +17190,7 @@ const curriculum: DayContent[] = [
               "Antibiotics can kill beneficial bacteria along with harmful ones",
               "Antibiotics change the color of digestive tissue only",
               "Antibiotics only ever affect bacteria found outside the human body",
-              "Antibiotics have no effect on any bacteria in the digestive system"
+              "Antibiotics only affect bacteria on the skin"
             ],
             "answer": 0
           }
@@ -17988,7 +17988,7 @@ const curriculum: DayContent[] = [
             "q": "Why are digestive enzymes important during chemical digestion?",
             "options": [
               "Enzymes only function outside of the digestive tract",
-              "Enzymes have no role in breaking down food",
+              "Enzymes are used only to store energy as fat",
               "They break down large food molecules into smaller molecules the body can absorb and use",
               "Enzymes mainly function to regulate body temperature"
             ],
@@ -18060,7 +18060,7 @@ const curriculum: DayContent[] = [
             "options": [
               "These processes explain how mountains, valleys, and coastlines are gradually reshaped",
               "Landforms never change once they are originally formed",
-              "Weathering and erosion have no effect on the appearance of landscapes",
+              "Weathering and erosion only occur in desert regions",
               "Landscape change is studied only in relation to climate change, not everyday weathering"
             ],
             "answer": 0
@@ -18535,7 +18535,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A major effect of the Great Depression in Canada was ___.",
             "options": [
-              "No effect on Canadian society",
+              "A sharp rise in Canada's population",
               "Immediate prosperity for all Canadians",
               "A booming economy with no challenges",
               "Widespread unemployment and economic hardship"
@@ -19255,7 +19255,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might damage to the spinal cord affect a person’s ability to move certain parts of their body?",
             "options": [
-              "The spinal cord has no role in transmitting signals related to movement",
+              "The spinal cord only controls the beating of the heart",
               "The spinal cord transmits signals between the brain and the rest of the body, so damage can disrupt that communication",
               "The spinal cord only carries signals related to digestion, never movement",
               "Damage to the spinal cord never affects the body’s ability to move"
@@ -19267,7 +19267,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The heart, since it pumps the blood that carries oxygen to the brain",
               "It processes information from the body and environment and directs appropriate responses",
-              "The brain plays no role in processing information or directing responses",
+              "The brain only controls the muscles used for walking",
               "Every response in the body occurs with no involvement from the brain"
             ],
             "answer": 1
@@ -19316,7 +19316,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a housing crisis push lower-income residents farther from a city’s core?",
             "options": [
-              "Housing costs near a city’s core have no effect on where residents choose to live",
+              "Housing costs near the core mainly depend on how many trees are nearby",
               "Lower-income residents are never affected by rising housing costs",
               "Rising housing costs near the core can force residents to seek more affordable housing farther away, often with longer commutes",
               "Lower-income residents are required by law to live only in the city centre"
@@ -25098,7 +25098,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why are scientists concerned about the long-term environmental impact of continuing to burn fossil fuels?",
             "options": [
-              "Greenhouse gases released from fossil fuels have no effect on global temperatures",
+              "Greenhouse gases released by fossil fuels mainly warm the ocean floor, not the atmosphere",
               "Burning fossil fuels affects only local air quality, never the global climate",
               "Long-term climate change is driven mainly by changes in the Sun's brightness, not fuel burning",
               "The greenhouse gases released can trap heat in the atmosphere, contributing to long-term climate change"
@@ -26911,7 +26911,7 @@ const curriculum: DayContent[] = [
               "To align with allies and contribute to collective international security",
               "Canada avoided all international involvement during this period",
               "Alliances provided no benefit to Canada",
-              "Canada had no role in international relations at that time"
+              "Canada's military was fully controlled by another country at that time"
             ],
             "answer": 0
           },
@@ -26920,7 +26920,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It shows how Canada positioned itself within global political tensions",
               "Canada was entirely disconnected from world events during the Cold War",
-              "Canada had no role in Cold War events",
+              "Canada's Cold War role is studied only because of its trade with Asia",
               "The Cold War is studied only in the context of European history"
             ],
             "answer": 0
@@ -27556,7 +27556,7 @@ const curriculum: DayContent[] = [
             "q": "A keystone species is best described as a species that:",
             "options": [
               "Is the most numerous organism in an ecosystem",
-              "Has no impact on other organisms",
+              "Is always the largest predator in its ecosystem",
               "Has a disproportionately large effect on its ecosystem relative to its abundance",
               "Only exists in captivity"
             ],
@@ -28554,7 +28554,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is antibiotic resistance a significant global health concern?",
             "options": [
-              "It has no impact on human health",
+              "It only affects animals, not humans",
               "It makes some bacterial infections much harder to treat effectively",
               "It only affects a single country",
               "It makes all infections easier to cure"
@@ -28604,7 +28604,7 @@ const curriculum: DayContent[] = [
             "q": "How have ride-sharing services affected urban transportation geography?",
             "options": [
               "They only operate in rural farmland",
-              "They have had no effect on urban transportation at all",
+              "They mainly replaced the need for sidewalks in cities",
               "They eliminated the need for any roads",
               "They have reshaped how people move through and access cities"
             ],
@@ -28626,7 +28626,7 @@ const curriculum: DayContent[] = [
               "They only operate in areas with no roads",
               "They always eliminate all traffic everywhere",
               "They can increase traffic congestion in certain areas",
-              "They have no effect on city streets"
+              "They always reduce travel times for every driver"
             ],
             "answer": 2
           },
@@ -28680,7 +28680,7 @@ const curriculum: DayContent[] = [
             "q": "Why must a PSA script be concise?",
             "options": [
               "Concise writing is never valued in media",
-              "Length does not matter in a PSA",
+              "PSAs are usually read aloud only once a year",
               "To effectively deliver the message within a short time frame",
               "PSAs are always extremely long with no time limit"
             ],
@@ -28819,7 +28819,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which is an example of a mutualistic relationship?",
             "options": [
-              "Barnacles attaching to a whale with no effect on the whale",
+              "A cow eating grass while the grass is harmed",
               "A tapeworm living inside and harming a host animal",
               "A shark and a fish with no interaction at all",
               "Bees pollinating flowers while gaining nectar"
@@ -28871,7 +28871,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The Silk Road avoided all cities completely",
               "Cities along the route grew as important trading hubs",
-              "Geography had no effect on any cities along the route",
+              "The Silk Road only passed through uninhabited deserts",
               "All cities along the route disappeared entirely"
             ],
             "answer": 1
@@ -29280,7 +29280,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is following a controlled, consistent procedure important in forensic investigations?",
             "options": [
-              "Procedures have no effect on the reliability of evidence",
+              "Procedures are mainly meant to make investigations take longer",
               "Consistency is never important in scientific investigation",
               "Evidence never needs to be handled carefully",
               "It helps ensure evidence is reliable and not contaminated"
@@ -29397,7 +29397,7 @@ const curriculum: DayContent[] = [
             "q": "What is an anti-hero?",
             "options": [
               "A main character who lacks traditional heroic qualities",
-              "A minor character with no role in the plot",
+              "A character who is always the villain's sidekick",
               "A villain who never appears in the story",
               "A character with no flaws whatsoever"
             ],
@@ -29530,7 +29530,7 @@ const curriculum: DayContent[] = [
               "Is measured or observed as a result of changes to the independent variable",
               "Is kept exactly the same in every trial",
               "The scientist deliberately changes",
-              "Has no role in the experiment"
+              "Is the same as the control group"
             ],
             "answer": 0
           },
@@ -29854,14 +29854,14 @@ const curriculum: DayContent[] = [
               "They increase the length of every shipping route",
               "They significantly reduce shipping time and costs for international trade",
               "They are used only for local fishing boats",
-              "They have no impact on global shipping routes"
+              "They are mainly used to avoid storms rather than to shorten routes"
             ],
             "answer": 1
           },
           {
             "q": "What can happen to global trade if a canal like the Suez is blocked?",
             "options": [
-              "No effect on global trade whatsoever",
+              "Shipping prices would drop because ships would travel faster",
               "Significant delays and disruptions to international shipping",
               "Global trade would increase dramatically",
               "Immediate improvement in shipping times"
@@ -30163,7 +30163,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is an anti-hero?",
             "options": [
-              "A minor character with no role in the plot",
+              "A hero who always wins without any struggle",
               "A main character who lacks traditional heroic qualities",
               "A character with no flaws whatsoever",
               "A villain who never appears in the story"
@@ -30389,7 +30389,7 @@ const curriculum: DayContent[] = [
               "The Oxford comma is required in every single sentence",
               "It can make it unclear whether the final two items in a list are meant to be grouped together",
               "Removing any comma always improves clarity",
-              "Commas have no effect on meaning"
+              "Commas only matter in poetry"
             ],
             "answer": 1
           },
@@ -30909,7 +30909,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful for a writer to understand regionalisms and dialect?",
             "options": [
-              "Because dialects have no effect on meaning",
+              "Because dialects are only found in other languages, not in English",
               "Because recognizing dialect helps a reader interpret unfamiliar vocabulary and helps a writer choose language appropriate to their audience",
               "Because only fictional characters use regional words",
               "Because using regional words is always wrong in formal writing"
@@ -31257,7 +31257,7 @@ const curriculum: DayContent[] = [
               "Liquid water always indicates the presence of intelligent life",
               "It is considered essential for life as we understand it",
               "Liquid water is useful mainly for cooling a planet's surface temperature, not supporting life",
-              "Water is irrelevant to planetary habitability studies"
+              "Liquid water is only important because it makes planets look blue"
             ],
             "answer": 1
           },
@@ -31295,7 +31295,7 @@ const curriculum: DayContent[] = [
             "q": "What role do urban transit systems play in a city?",
             "options": [
               "They shape how efficiently people move through the city and access opportunities",
-              "They have no influence on how a city functions",
+              "They only matter for tourists visiting the city",
               "They eliminate the need for any roads or infrastructure",
               "They only exist in rural farmland with no urban application"
             ],
@@ -31502,7 +31502,7 @@ const curriculum: DayContent[] = [
             "options": [
               "By preventing any heat from ever leaving the body",
               "Through processes like sweating and adjusting blood flow near the surface",
-              "Skin has no role in regulating body temperature",
+              "Skin only regulates temperature when a person is asleep",
               "By converting heat directly into sound"
             ],
             "answer": 1
@@ -31522,7 +31522,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It performs no measurable biological function",
               "It is composed of multiple tissue types working together to perform specific functions",
-              "It is not connected to any other body system",
+              "It is made of a single type of cell",
               "It has no distinct structure or function"
             ],
             "answer": 1
@@ -31618,7 +31618,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It replaces every comma in a sentence",
               "A strong break that emphasizes or interrupts an idea",
-              "No effect on the sentence at all",
+              "It marks the end of a paragraph",
               "It always ends a sentence with a question"
             ],
             "answer": 1
@@ -31636,7 +31636,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why should formal writing use ellipses and em dashes with restraint?",
             "options": [
-              "They have no effect on tone in formal writing",
+              "They are only used in poetry, so they do not belong in formal writing",
               "Overuse can make writing feel informal or disorganized",
               "These marks are banned entirely from formal writing",
               "Formal writing requires using them in every sentence"
@@ -31818,7 +31818,7 @@ const curriculum: DayContent[] = [
               "Increased flooding risk linked to rising sea levels and land subsidence",
               "Deltas face no environmental risks of any kind",
               "Deltas are the least likely landform to ever flood",
-              "Rising sea levels have no effect on delta regions"
+              "Rising sea levels only affect deltas in cold climates"
             ],
             "answer": 0
           },
@@ -31827,7 +31827,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It can reduce the sediment reaching the delta, contributing to land loss over time",
               "Dam construction guarantees a deltas long-term stability",
-              "Upstream dams have no effect on downstream delta regions",
+              "Dams only change the colour of river water, not the delta",
               "Dams always increase the amount of sediment reaching a delta"
             ],
             "answer": 0
@@ -32108,7 +32108,7 @@ const curriculum: DayContent[] = [
             "q": "What effect do malapropisms often create?",
             "options": [
               "An unintentionally humorous or nonsensical effect",
-              "No effect on meaning at all",
+              "A very formal and persuasive tone",
               "A completely serious and formal tone",
               "Perfect clarity with no confusion"
             ],
@@ -32732,7 +32732,7 @@ const curriculum: DayContent[] = [
               "Random, unrelated population changes",
               "That prey populations never change",
               "A repeating cyclical pattern linking predator and prey population sizes",
-              "That predators have no effect on prey"
+              "That predator numbers stay the same every year"
             ],
             "answer": 2
           },
@@ -32875,7 +32875,7 @@ const curriculum: DayContent[] = [
             "q": "Why might leaving out a needed hyphen create ambiguity in a sentence?",
             "options": [
               "Ambiguity can never result from missing punctuation",
-              "Hyphens have no effect on how a sentence is read",
+              "Hyphens only change how a word is pronounced",
               "A reader may misread which words are meant to be grouped together as one description",
               "Removing a hyphen always makes a sentence clearer"
             ],
@@ -33111,7 +33111,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful for readers to understand semantic change?",
             "options": [
               "It helps explain why older texts sometimes use familiar words in unfamiliar ways",
-              "It has no bearing on understanding texts from earlier time periods",
+              "It only helps with understanding modern slang",
               "Understanding word history never helps with reading comprehension",
               "Semantic change only applies to numbers, never words"
             ],
@@ -33292,7 +33292,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Every region on Earth is considered an equal conservation priority",
               "Hotspots are chosen entirely at random with no criteria",
-              "Species count has no bearing on conservation priorities",
+              "A region's species count is the only factor used to choose hotspots",
               "It may lack the combination of high uniqueness and high risk that defines a true hotspot"
             ],
             "answer": 3
@@ -33547,7 +33547,7 @@ const curriculum: DayContent[] = [
             "q": "Why do geographers study unusual political territories such as enclaves and special administrative regions?",
             "options": [
               "All borders around the world are shaped in an identical, simple way",
-              "These territories are considered irrelevant to the study of geography",
+              "These territories are all located in the same region of the world",
               "Political geography never examines unusual or complex borders",
               "To understand how historical events and agreements can shape unusual borders and governance"
             ],
@@ -33794,7 +33794,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They show how political decisions can directly shape the physical geography and layout of a settlement",
               "Planned capital cities are built exclusively on islands for defensive purposes",
-              "Geographers consider urban planning irrelevant to their field",
+              "Planned cities are only built near coastlines",
               "Every capital city in the world was planned in an identical way"
             ],
             "answer": 0
@@ -33841,7 +33841,7 @@ const curriculum: DayContent[] = [
               "Recommendations are always chosen entirely at random",
               "Viewers always see a perfectly balanced range of every possible viewpoint",
               "A viewer may see a narrower range of perspectives over time",
-              "Algorithms have no effect on what content a person is shown"
+              "Algorithms only show content from the newest posts in alphabetical order"
             ],
             "answer": 2
           },
@@ -34343,7 +34343,7 @@ const curriculum: DayContent[] = [
               "As vague and forgettable as possible",
               "Distinct and believable to the reader",
               "Identical to every other character in the story",
-              "Completely irrelevant to the plot"
+              "Identical to the narrator"
             ],
             "answer": 1
           },
@@ -34454,7 +34454,7 @@ const curriculum: DayContent[] = [
               "Y-axis (vertical)",
               "Title only",
               "X-axis (horizontal)",
-              "It does not matter which axis"
+              "It is always placed on the title line"
             ],
             "answer": 2
           },
@@ -35423,7 +35423,7 @@ const curriculum: DayContent[] = [
             "q": "Why do astronomers use radio telescopes in addition to optical (visible light) telescopes?",
             "options": [
               "Radio waves cannot travel through space",
-              "Radio waves are the same as visible light, so it does not matter",
+              "Radio telescopes are used because they are cheaper than optical telescopes",
               "Radio telescopes only work at night",
               "Many objects in space emit radio waves that reveal information invisible light cannot show"
             ],
@@ -35513,7 +35513,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Landlocked countries have no need for any neighbouring cooperation",
               "Its access to global trade routes depends heavily on cooperation with the countries surrounding it",
-              "Neighbouring countries have no influence on trade routes at all",
+              "Neighbouring countries only affect the country's tourism",
               "Its economy is entirely disconnected from its geographic location"
             ],
             "answer": 1
@@ -36240,7 +36240,7 @@ const curriculum: DayContent[] = [
             "q": "What is one benefit of a sovereign wealth fund during a period of low resource prices?",
             "options": [
               "It eliminates the need for any government budget planning",
-              "It has no effect whatsoever on a countrys finances",
+              "It only affects the country's exchange rate with its neighbours",
               "It can provide a financial buffer that helps stabilize government revenue",
               "It guarantees resource prices will immediately rise again"
             ],
@@ -36316,7 +36316,7 @@ const curriculum: DayContent[] = [
             "q": "Why is context important when interpreting a graph or chart?",
             "options": [
               "Every graph is equally clear regardless of the context provided",
-              "Context has no bearing on how a graph should be interpreted",
+              "Context only matters for the colour choices in a graph",
               "Context is only relevant to written text, never to visual data",
               "Without context, a viewer may misunderstand what the data actually represents"
             ],
@@ -38194,7 +38194,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why can disruptions to the semiconductor supply chain have wide-reaching global effects?",
             "options": [
-              "Disruptions to chip supply have no effect on any other industry",
+              "Chip shortages only affect the companies that make the chips",
               "Semiconductor chips are not used in any modern technology",
               "Chips are essential components in a vast range of industries, from electronics to automobiles",
               "Semiconductors are used in only one narrow product with no broader impact"
@@ -38567,7 +38567,7 @@ const curriculum: DayContent[] = [
             "q": "Why does a larger down payment generally reduce the total interest paid over the life of a mortgage?",
             "options": [
               "A smaller loan amount is borrowed, so less interest accrues on the remaining balance over time",
-              "Down payments have no effect on the total interest paid on a mortgage",
+              "Down payments only reduce the property taxes owed",
               "A larger down payment always increases the interest rate charged",
               "Because a larger down payment always shortens the mortgage term automatically"
             ],
@@ -38765,7 +38765,7 @@ const curriculum: DayContent[] = [
               "Podcast hosts are legally required to have no opinions of any kind",
               "It can reveal potential biases, expertise, or funding sources that shape the content",
               "Researching a podcasts producers never reveals any useful information",
-              "This information is always irrelevant to understanding the podcasts content"
+              "A host's background only matters for entertainment podcasts"
             ],
             "answer": 1
           },
@@ -39178,7 +39178,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a major grain-exporting country impose an export restriction during a crisis?",
             "options": [
-              "Export restrictions have no effect on the food supply of any country",
+              "Export restrictions only change shipping routes, not food supply",
               "To prioritize the availability and affordability of food for its own domestic population",
               "To permanently end all agricultural production within its own borders",
               "To intentionally raise global food prices for other countries with no domestic benefit"
@@ -39189,7 +39189,7 @@ const curriculum: DayContent[] = [
             "q": "How can a grain export restriction imposed by one major exporting country affect countries that depend on imports?",
             "options": [
               "It can reduce global supply and sharply raise prices, threatening food security in import-dependent countries",
-              "It has no effect whatsoever on countries that rely on imported grain",
+              "It only affects the exporting country's farmers",
               "Import-dependent countries are entirely unaffected by changes in global grain supply",
               "It always lowers food prices in every importing country"
             ],
@@ -39347,7 +39347,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Repel each other",
               "Attract each other",
-              "Have no effect on each other",
+              "Become neutral",
               "Merge together"
             ],
             "answer": 0
@@ -39876,7 +39876,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is ocean acidification connected to the broader issue of rising atmospheric carbon dioxide levels?",
             "options": [
-              "Atmospheric carbon dioxide levels have no effect on ocean chemistry",
+              "Carbon dioxide in the atmosphere only affects the ozone layer",
               "Ocean acidification occurs entirely independently of atmospheric conditions",
               "The ocean and the atmosphere have no chemical connection to each other",
               "The ocean absorbs a significant portion of the carbon dioxide released into the atmosphere, driving the acidification process"
@@ -40426,7 +40426,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might congestion pricing generate public debate in a city?",
             "options": [
-              "The policy has no impact on residents or businesses in any way",
+              "Congestion pricing only affects drivers from other cities",
               "Public debate about congestion pricing never occurs in any city",
               "Some residents and businesses may see it as an added cost that unfairly affects those who need to drive",
               "Congestion pricing is universally supported with no opposition of any kind"
@@ -40700,7 +40700,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The character who narrates the story from a first-person point of view",
               "The character or force that opposes the protagonist and drives the central conflict",
-              "The narrator of a story who has no influence on the plot",
+              "The character who is always the narrator's closest friend",
               "A minor character who never appears more than once"
             ],
             "answer": 1
@@ -40711,7 +40711,7 @@ const curriculum: DayContent[] = [
               "Readers are never interested in why an antagonist behaves a certain way",
               "It makes the conflict feel more realistic and the antagonist more compelling to readers",
               "Understandable motivations always weaken a story rather than strengthen it",
-              "Motivations make an antagonist completely irrelevant to the plot"
+              "Motivations only matter in nonfiction texts"
             ],
             "answer": 1
           },
@@ -41400,7 +41400,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What geographic factor can make building a new high-speed rail line particularly costly?",
             "options": [
-              "Terrain and geography have no effect on the cost of building rail infrastructure",
+              "Mountains and cities make rail construction cheaper",
               "Building a high-speed rail line never requires any specialized engineering",
               "High-speed rail lines can always be built using existing conventional track with no modification",
               "The need for dedicated, carefully engineered track able to support very high train speeds, especially through mountainous or densely populated terrain"
@@ -41648,7 +41648,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Overhunting has never had any impact on any whale population",
               "Whale populations recover slowly, and overhunting could threaten their long-term survival",
-              "Strict protections have no effect on the long-term survival of whale populations",
+              "Protection mainly affects whales in warm waters, not their long-term survival",
               "Whale populations recover instantly regardless of how many are hunted"
             ],
             "answer": 1
@@ -41960,7 +41960,7 @@ const curriculum: DayContent[] = [
             "q": "Why does a source's publication date matter for credibility, especially for topics like science or current events?",
             "options": [
               "Older information may be outdated or since corrected, so a stale date is a signal to verify whether newer, more accurate information exists",
-              "Publication date is irrelevant to accuracy",
+              "Publication date only matters for fiction",
               "Publication dates are never included on trustworthy sites",
               "Recent articles are always less accurate than older ones"
             ],
@@ -42058,7 +42058,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What role do animal pollinators, such as bees, commonly play in plant reproduction?",
             "options": [
-              "Animal pollinators have no role in plant reproduction of any kind",
+              "Pollinators mainly eat the leaves, which helps seeds spread",
               "Animal pollinators only interact with a plants roots, never its flowers",
               "They help transfer pollen between flowers as they move from plant to plant",
               "Bees prevent pollen from ever reaching a flowers female structures"
@@ -42433,7 +42433,7 @@ const curriculum: DayContent[] = [
               "The character or force that opposes the protagonist and drives the central conflict",
               "The character who narrates the story from a first-person point of view",
               "A minor character who never appears more than once",
-              "The narrator of a story who has no influence on the plot"
+              "The character who narrates in the third person only"
             ],
             "answer": 0
           },
@@ -43503,7 +43503,7 @@ const curriculum: DayContent[] = [
             "q": "What financial habit can help someone avoid relying on high-cost short-term loans like payday loans?",
             "options": [
               "Relying exclusively on payday loans for every unexpected expense",
-              "Emergency savings have no effect on a persons need for a payday loan",
+              "Savings only matter for wealthy households",
               "Building an emergency savings fund to cover unexpected expenses",
               "Avoiding all forms of saving in order to spend every paycheque immediately"
             ],
@@ -43623,7 +43623,7 @@ const curriculum: DayContent[] = [
             "q": "What approach do many governments and conservation groups use to try to reduce illegal wildlife trade?",
             "options": [
               "Combining law enforcement, international cooperation, and community-based conservation programs",
-              "Community-based conservation programs have no role in protecting wildlife",
+              "Community programs mainly increase demand for wildlife products",
               "No government or organization has ever attempted to address illegal wildlife trade",
               "Illegal wildlife trade is addressed only by increasing demand for wildlife products"
             ],
@@ -43851,7 +43851,7 @@ const curriculum: DayContent[] = [
               "Settlements only formed in regions with no access to salt resources",
               "Regions with valuable salt deposits often became centres of production and trade, attracting settlement and route development",
               "Trade routes were never built to transport salt of any kind",
-              "Salt resources had no influence on the location of any historic settlement"
+              "Salt was only used locally and rarely traded"
             ],
             "answer": 1
           },
@@ -44027,7 +44027,7 @@ const curriculum: DayContent[] = [
               "A process that dissolves all solid particles completely, making them undetectable",
               "A process that causes small suspended particles to clump together so they can be more easily removed",
               "A process used only to add colour to treated water",
-              "Coagulation has no role in any water treatment process"
+              "Coagulation is a step that makes water taste saltier"
             ],
             "answer": 1
           },
@@ -44083,7 +44083,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What role do hub cities typically play in global logistics networks?",
             "options": [
-              "Hub cities have no role in coordinating the movement of goods",
+              "Hub cities only handle the paperwork and not the shipments",
               "Every shipment must avoid passing through any hub city",
               "Hub cities exist only to store goods permanently with no further shipment",
               "They serve as central locations for coordinating and redirecting the flow of shipments"
@@ -45390,7 +45390,7 @@ const curriculum: DayContent[] = [
               "Incorrect collocations always create a grammar error that must be corrected",
               "Native speakers expect certain words to be paired together by convention, and unexpected pairings can sound awkward despite being grammatically valid",
               "Every possible word pairing in English is equally natural and common",
-              "Collocations have no effect on how natural a sentence sounds"
+              "Collocations only matter when speaking, not in writing"
             ],
             "answer": 1
           },
@@ -45450,7 +45450,7 @@ const curriculum: DayContent[] = [
               "RRSP contributions always increase taxable income for that year",
               "An RRSP contribution guarantees a full tax refund with no other conditions",
               "It can reduce taxable income for that year, since RRSP contributions are generally tax-deductible",
-              "RRSP contributions have no effect on taxable income in any year"
+              "RRSP contributions only count toward taxes in the year they are withdrawn"
             ],
             "answer": 2
           },
@@ -45580,7 +45580,7 @@ const curriculum: DayContent[] = [
               "It reduced reliance on lighthouses for primary navigation, though many remain in use as a backup or for historical and safety reasons",
               "All lighthouses were immediately destroyed once satellite navigation became available",
               "Lighthouses became more essential to primary navigation after satellite technology was developed",
-              "Modern navigation technology had no effect on the role of lighthouses"
+              "Satellite navigation made lighthouses more necessary for everyday ship navigation"
             ],
             "answer": 0
           },
@@ -45826,7 +45826,7 @@ const curriculum: DayContent[] = [
               "Runoff from these activities can carry pollutants, sediment, or excess nutrients into nearby waterways, affecting the entire watershed",
               "Water quality in a watershed depends only on rainfall totals, regardless of how land is used",
               "Runoff from farming or construction never reaches any connected river or lake",
-              "Land use decisions within a watershed have no effect on nearby water quality"
+              "Land use only affects water quality in oceans, not in rivers or lakes"
             ],
             "answer": 0
           },
@@ -46012,7 +46012,7 @@ const curriculum: DayContent[] = [
               "Waves transport and deposit sand and other sediment along the shoreline, gradually building up a beach over time",
               "Beaches form only through erosion, with no sediment ever deposited",
               "Sand is always removed from a coastline with none ever deposited by waves",
-              "Sediment deposition has no role in the formation of any coastal landform"
+              "Beaches are formed only by tides moving rocks inland"
             ],
             "answer": 0
           },
@@ -46135,7 +46135,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How might the camera angle chosen for a photograph influence audience perception of a subject?",
             "options": [
-              "Camera angle has no effect whatsoever on how a subject is perceived",
+              "Camera angle only changes the brightness of a photograph",
               "Camera angle only matters in video, never in still photography",
               "Every camera angle produces exactly the same impression of a subject",
               "An angle can make a subject appear more powerful, vulnerable, sympathetic, or threatening depending on how it is framed"
@@ -46353,7 +46353,7 @@ const curriculum: DayContent[] = [
             "options": [
               "To create rhythm, avoid monotony, and emphasize different elements of a sentence",
               "Varying sentence openers always makes a paragraph more difficult to understand",
-              "Sentence openers have no effect on the rhythm or flow of a paragraph",
+              "Sentence openers only matter when writing dialogue",
               "Every sentence in a paragraph is required to begin with its subject"
             ],
             "answer": 0
@@ -46640,7 +46640,7 @@ const curriculum: DayContent[] = [
               "Varying sentence openers always makes a paragraph more difficult to understand",
               "To create rhythm, avoid monotony, and emphasize different elements of a sentence",
               "Every sentence in a paragraph is required to begin with its subject",
-              "Sentence openers have no effect on the rhythm or flow of a paragraph"
+              "Sentence openers only matter when writing dialogue"
             ],
             "answer": 1
           }
@@ -46758,7 +46758,7 @@ const curriculum: DayContent[] = [
             "q": "A headline claims \"Study shows coffee drinking causes a longer lifespan\" based on a survey finding coffee drinkers lived longer on average. What is the most scientifically sound critique?",
             "options": [
               "The study proves causation beyond doubt",
-              "The sample size doesn't matter",
+              "Coffee drinkers are always unhealthy, so the study must be wrong",
               "The study shows only a correlation, and other factors could explain the link",
               "Coffee has no health effects of any kind"
             ],
@@ -48227,7 +48227,7 @@ const curriculum: DayContent[] = [
               "Oversight of Indigenous community affairs provided entirely by provincial courts",
               "Be governed entirely by decisions made outside their communities",
               "Govern their own affairs, including matters related to their land",
-              "Have no role in decisions affecting their own communities"
+              "Be governed entirely by the federal government"
             ],
             "answer": 2
           },
@@ -49185,7 +49185,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The ozone layer is primarily important because it absorbs ___.",
             "options": [
-              "Infrared radiation exclusively, with no effect on ultraviolet light",
+              "Infrared radiation exclusively, leaving ultraviolet light untouched",
               "Nitrogen gas released from factories and vehicle exhaust",
               "Most of the Sun’s harmful ultraviolet radiation",
               "Carbon dioxide released from human activity"
@@ -49869,7 +49869,7 @@ const curriculum: DayContent[] = [
               "They completely eliminate all unauthorized crossings",
               "They are inexpensive to build and require no maintenance",
               "They can disrupt wildlife migration and divide border communities without fully stopping crossings",
-              "They have no effect on local ecosystems or communities"
+              "They increase wildlife populations near the border"
             ],
             "answer": 2
           },
@@ -53063,7 +53063,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Repel each other",
               "Attract each other",
-              "Have no effect on each other",
+              "Become neutral",
               "Merge together"
             ],
             "answer": 0

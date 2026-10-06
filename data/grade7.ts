@@ -3468,7 +3468,7 @@ const curriculum: DayContent[] = [
           {
             "q": "The Battle of Vimy Ridge is significant in Canadian history because...",
             "options": [
-              "It had no impact on Canada",
+              "It was the first battle fought on Canadian soil",
               "It's seen as shaping Canadian identity",
               "It took place in Canada",
               "It ended the war immediately"
@@ -4292,7 +4292,7 @@ const curriculum: DayContent[] = [
               "Better accuracy",
               "A biased or misleading impression",
               "A balanced report",
-              "No effect on the reader"
+              "It makes the story easier to double-check"
             ],
             "answer": 1
           },
@@ -4400,7 +4400,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A cold front occurs when...",
             "options": [
-              "Air pressure has no role",
+              "Cold air is replaced by a warm air mass moving away",
               "No air masses move",
               "Cold air pushes into a warm area",
               "Two warm air masses combine"
@@ -4662,7 +4662,7 @@ const curriculum: DayContent[] = [
               "Increased biodiversity always",
               "Loss of species and reduced biodiversity",
               "More food for all species",
-              "No effect on wildlife"
+              "Only the plants nearby are harmed"
             ],
             "answer": 1
           },
@@ -4930,7 +4930,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No air masses move",
               "Two warm air masses combine",
-              "Pressure has no role",
+              "A warm front pushes the cold air out of the way",
               "Cold air pushes into a warm area"
             ],
             "answer": 3
@@ -5240,7 +5240,7 @@ const curriculum: DayContent[] = [
               "Complete economic independence",
               "Always lower prices with no tradeoffs",
               "Job losses in industries that face foreign competition",
-              "No effect on local industries"
+              "Local industries always grow stronger"
             ],
             "answer": 2
           }
@@ -7968,7 +7968,7 @@ const curriculum: DayContent[] = [
               "It provides the usable energy cells need to carry out their functions",
               "Only photosynthesis provides usable energy for cells",
               "Cells never require energy to function",
-              "Cellular respiration has no role in providing energy"
+              "Cellular respiration only gives plants their green colour"
             ],
             "answer": 0
           }
@@ -8345,7 +8345,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Word choice can strongly influence how an audience feels about a topic",
               "Persuasive writing should avoid considering word choice",
-              "Connotation has no role in persuasion",
+              "Connotation only affects how a word is spelled",
               "Connotation only matters in poetry"
             ],
             "answer": 0
@@ -8777,7 +8777,7 @@ const curriculum: DayContent[] = [
             "q": "Learning about Indigenous self-government helps students understand ___.",
             "options": [
               "That treaties are no longer relevant",
-              "That Indigenous communities have no role in modern Canada",
+              "That Indigenous nations only make decisions through the federal government",
               "How Indigenous nations exercise rights and responsibilities today",
               "That Indigenous governance ended in the past"
             ],
@@ -8985,7 +8985,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Critics of globalization often raise concerns about ___.",
             "options": [
-              "Globalization having no effect on any country",
+              "Globalization making every country poorer in the same way",
               "Economic inequality and environmental impact",
               "No concerns exist regarding globalization",
               "Only benefits, with no drawbacks discussed"
@@ -9205,7 +9205,7 @@ const curriculum: DayContent[] = [
             "q": "Why is nitrogen important for plant growth?",
             "options": [
               "Plants never require nitrogen in any form",
-              "Nitrogen has no role in plant growth",
+              "Nitrogen only helps plants make flowers",
               "Nitrogen prevents plant growth entirely",
               "Plants need nitrogen in usable forms to build proteins and grow"
             ],
@@ -9255,7 +9255,7 @@ const curriculum: DayContent[] = [
             "q": "Canada’s involvement in the World Wars is often seen as having helped ___.",
             "options": [
               "Erase Canada’s identity completely",
-              "Have no impact on Canada at all",
+              "Cause Canada to lose control of its own government",
               "Prevent Canada from ever having an army",
               "Shape a stronger sense of national identity"
             ],
@@ -9734,7 +9734,7 @@ const curriculum: DayContent[] = [
             "q": "A push factor in migration is something that ___.",
             "options": [
               "Attracts people to a new location",
-              "Has no influence on migration decisions",
+              "Only affects people who are travelling for a holiday",
               "Encourages people to leave a place",
               "Only applies to animals, never humans"
             ],
@@ -9932,7 +9932,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is peer review important in evaluating scientific claims?",
             "options": [
-              "Peer review has no role in science",
+              "Peer review only checks the spelling in a report",
               "It allows other experts to check the accuracy and validity of the findings",
               "Scientific claims should never be reviewed by anyone",
               "Peer review always makes findings less accurate"
@@ -10759,7 +10759,7 @@ const curriculum: DayContent[] = [
             "q": "Why is learning about the Truth and Reconciliation Commission important for students today?",
             "options": [
               "It helps build understanding of this history and supports ongoing reconciliation efforts",
-              "This history has no relevance today",
+              "It only covers events that happened a very long time ago",
               "It should be avoided in schools entirely",
               "It focuses only on events that took place outside Canada"
             ],
@@ -10928,7 +10928,7 @@ const curriculum: DayContent[] = [
             "q": "Sensors in a robot are used to ___.",
             "options": [
               "Replace the need for any programming",
-              "Have no role in robotic function",
+              "Store the robot's programming in its memory",
               "Prevent the robot from functioning at all",
               "Detect and respond to information from the environment"
             ],
@@ -11219,7 +11219,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding genetics useful for studying how living things are related?",
             "options": [
-              "This concept has no relevance to science",
+              "It explains why every living thing has identical traits",
               "It helps explain why traits are passed down between generations",
               "Traits are never passed down between generations",
               "Traits are determined only by environment, never by genes"
@@ -11253,7 +11253,7 @@ const curriculum: DayContent[] = [
               "Learning about the past never helps understand the present",
               "Because it is required only for students planning to become teachers",
               "It helps build understanding of this history and supports reconciliation",
-              "This history has no relevance to Canada today"
+              "It only happened in a few small communities"
             ],
             "answer": 2
           },
@@ -11283,7 +11283,7 @@ const curriculum: DayContent[] = [
               "Reconciliation can be achieved without ever discussing the past",
               "Acknowledging past harms is an important step toward healing and better relationships",
               "Government policy alone can resolve reconciliation with no public involvement",
-              "The past has no bearing on relationships in the present"
+              "Reconciliation only involves people who were directly affected"
             ],
             "answer": 1
           }
@@ -11523,7 +11523,7 @@ const curriculum: DayContent[] = [
               "Increased access to new markets or increased competition",
               "The complete elimination of that industry with no other outcome",
               "A guaranteed benefit with no possible drawbacks",
-              "No effect on any industry whatsoever"
+              "Every company in that industry is guaranteed to make more money"
             ],
             "answer": 0
           },
@@ -11719,7 +11719,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the lymphatic system considered an important part of the body’s defense against illness?",
             "options": [
-              "This concept has no relevance to science",
+              "It makes red blood cells that carry oxygen to the body",
               "It helps filter out harmful substances and supports the immune response",
               "The body has no natural defenses against illness",
               "It only carries oxygen throughout the body"
@@ -12280,7 +12280,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It proves that only wealthy countries are affected by climate change",
               "International climate agreements have never actually existed",
-              "This topic has no relevance to social studies",
+              "It only matters to people who plan to work in government",
               "It helps them understand how countries collaborate to address a shared global challenge"
             ],
             "answer": 3
@@ -13295,7 +13295,7 @@ const curriculum: DayContent[] = [
               "A law requiring all goods to be made locally",
               "A complete end to all trade with other countries",
               "Increased trade opportunities with other countries",
-              "No effect on Canada’s economy at all"
+              "Canada would stop using its own currency"
             ],
             "answer": 2
           },
@@ -13304,7 +13304,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It helps explain how connected Canada is to the rest of the world",
               "It helps students learn to speak a second language",
-              "Globalization has no relevance to understanding Canada today",
+              "It only matters to businesses that sell products overseas",
               "Canada relies only on its own resources for all needs"
             ],
             "answer": 0
@@ -13740,7 +13740,7 @@ const curriculum: DayContent[] = [
             "q": "Why might meteorologists track air masses and fronts to predict weather?",
             "options": [
               "Weather never actually changes because of fronts",
-              "This concept has no relevance to science",
+              "Fronts only change the amount of daylight each day",
               "Air masses always stay in exactly the same place",
               "Where air masses meet can signal upcoming changes, like rain or temperature shifts"
             ],
@@ -14751,7 +14751,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Acids and bases can never actually be measured",
               "It gives a standard way to measure and compare how acidic or basic something is",
-              "This concept has no relevance to science",
+              "It only measures the temperature of a liquid",
               "It only applies to substances found in liquid form"
             ],
             "answer": 1
@@ -15087,7 +15087,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful for students to learn about international alliances?",
             "options": [
-              "International alliances have no relevance to students",
+              "International alliances only matter to soldiers",
               "Countries never work together on shared goals",
               "It teaches students that every country acts entirely alone",
               "It helps them understand how countries cooperate on global security and issues"
@@ -15265,7 +15265,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do scientists look for signs like bubbles or colour changes when studying a reaction?",
             "options": [
-              "This concept has no relevance to science",
+              "These signs only show that a substance has changed size",
               "These signs can indicate that a new substance has formed",
               "A new substance never actually forms during a reaction",
               "These signs only occur when a reaction fails to happen"
@@ -15828,7 +15828,7 @@ const curriculum: DayContent[] = [
               "He led efforts to protect Métis rights and land during a period of major change",
               "He opposed all forms of Métis representation",
               "He served as Canada's first Governor General",
-              "He played no role in Canadian history"
+              "He was the founder of the first Canadian police force"
             ],
             "answer": 0
           },
@@ -16783,7 +16783,7 @@ const curriculum: DayContent[] = [
             "q": "Why might people be asked not to release aquarium fish into local lakes or rivers?",
             "options": [
               "The fish could become an invasive species and harm the local ecosystem",
-              "This concept has no relevance to science",
+              "Fish from aquariums are always too small to survive in the wild",
               "Aquarium fish can never survive outside a tank",
               "Releasing aquarium fish never has any effect on an ecosystem"
             ],
@@ -16844,7 +16844,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They may have specialized resources and can act independently of government processes",
               "Governments always respond faster than NGOs in every situation",
-              "This concept has no relevance to social studies",
+              "NGOs are always controlled by the government",
               "NGOs are never able to respond to any crisis"
             ],
             "answer": 0
@@ -17091,7 +17091,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it useful to compare urban and rural life in Canada?",
             "options": [
-              "Comparing these areas has no relevance to social studies",
+              "Comparing them only helps people choose where to live",
               "Urban and rural life are always identical in every way",
               "It shows that rural areas no longer exist in Canada",
               "It helps explain how geography and population affect people’s daily lives and opportunities"
@@ -17367,7 +17367,7 @@ const curriculum: DayContent[] = [
               "Natural resource industries operate identically in every province",
               "It replaces the need to study any other economic sector",
               "It helps them understand economic development alongside environmental responsibility",
-              "This topic is not relevant to social studies learning"
+              "Natural resources are found in only one region of Canada"
             ],
             "answer": 2
           }
@@ -18685,7 +18685,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might joining a trade organization benefit a country’s economy?",
             "options": [
-              "This concept has no relevance to social studies",
+              "Trade organizations only set the prices of goods inside a country",
               "Trade organizations only exist to limit a country’s economy",
               "Joining a trade organization never benefits a country’s economy",
               "It can open up new markets and opportunities to sell and buy goods"
@@ -19448,7 +19448,7 @@ const curriculum: DayContent[] = [
               "Freedom of speech mainly helps governments pass laws faster",
               "Citizens are never allowed to share opinions in a democracy",
               "It allows citizens to share their opinions and ideas openly",
-              "This concept has no relevance to social studies"
+              "It makes sure everyone agrees with the government"
             ],
             "answer": 2
           }
@@ -19948,7 +19948,7 @@ const curriculum: DayContent[] = [
               "All provinces and territories joined in the exact same instant",
               "It helps explain how Canada grew and changed shape over time",
               "It shows that Canada's current borders were decided entirely in one single treaty",
-              "This concept has no relevance to social studies"
+              "It shows which province has the most people"
             ],
             "answer": 1
           }
@@ -20257,7 +20257,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is identifying a motif a useful skill when analyzing a novel’s deeper meaning?",
             "options": [
-              "This concept has no relevance to reading comprehension",
+              "A motif is a single word that appears only in a title",
               "A motif only ever appears in poetry, never in novels",
               "Motifs never connect to a story’s themes",
               "It can reveal patterns that connect to the story’s central themes"
@@ -20381,7 +20381,7 @@ const curriculum: DayContent[] = [
               "Succession only applies to habitats destroyed by humans, never natural disasters",
               "It helps scientists predict how an ecosystem might naturally recover over time",
               "Damaged habitats never go through any stages of recovery",
-              "This concept has no relevance to science"
+              "Succession only happens in places where soil is rich"
             ],
             "answer": 1
           }
@@ -20430,7 +20430,7 @@ const curriculum: DayContent[] = [
             "q": "Why might it make sense for education to be handled at the provincial level rather than the federal level?",
             "options": [
               "Every province in Canada must have an identical education system by law",
-              "This concept has no relevance to social studies",
+              "Education is paid for entirely by the federal government",
               "The federal government is constitutionally forbidden from ever discussing education",
               "Provinces can design education systems suited to their own populations and needs"
             ],
@@ -20676,7 +20676,7 @@ const curriculum: DayContent[] = [
             "q": "Does the Bank of Canada help set policies to keep prices and the economy stable?",
             "options": [
               "Yes",
-              "No, the Bank of Canada has no role in the economy",
+              "No, the Bank of Canada only prints the money used by banks",
               "A group that only regulates international trade tariffs",
               "Prices are never affected by any government policy"
             ],
@@ -20687,7 +20687,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It helps manage the money supply and keep the economy stable for everyone",
               "A central bank has no useful purpose",
-              "This concept has no relevance to social studies",
+              "It lets the government decide each person's wages",
               "Every country manages its economy without any central bank"
             ],
             "answer": 0
@@ -20884,7 +20884,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is green architecture becoming more common in new construction projects?",
             "options": [
-              "This concept has no relevance to science",
+              "Green architecture only changes the colour of buildings",
               "Green architecture always costs more with no benefits at all",
               "It can help reduce environmental impact and lower long-term energy costs",
               "Green architecture has no real benefit to builders or the environment"
@@ -20947,7 +20947,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It allows different types of legal issues to be handled with rules suited to their purpose",
               "Criminal law and civil law are always handled in the exact same way",
-              "This concept has no relevance to social studies",
+              "Civil law only applies to serious crimes",
               "Separating criminal and civil law never has any benefit"
             ],
             "answer": 0
@@ -21134,7 +21134,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding combustion important for fire safety?",
             "options": [
               "Fires can never actually be prevented or put out",
-              "This concept has no relevance to science",
+              "Combustion only happens in the Sun",
               "Fires always require extremely high humidity to combust",
               "Knowing what fuels a fire can help people prevent or safely extinguish it"
             ],
@@ -21186,7 +21186,7 @@ const curriculum: DayContent[] = [
               "Every region relies equally on rainfall for drinking water",
               "Less rainfall can mean less available fresh water for drinking, farming, and other uses",
               "Every region receives the exact same amount of rainfall",
-              "This concept has no relevance to social studies"
+              "Regions with less rainfall always have more underground rivers"
             ],
             "answer": 1
           },
@@ -21196,7 +21196,7 @@ const curriculum: DayContent[] = [
               "Water scarcity only affects countries near the equator",
               "International organizations never focus on water access at all",
               "Reliable access to clean water is essential for health, agriculture, and daily life",
-              "This concept has no relevance to global issues"
+              "Clean water only matters to people who live near the ocean"
             ],
             "answer": 2
           }
@@ -21382,7 +21382,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do scientists find studying bioluminescent deep-sea organisms valuable?",
             "options": [
-              "This concept has no relevance to science",
+              "It helps scientists measure how deep the ocean is",
               "Bioluminescent organisms have no scientific value at all",
               "Understanding how they produce light could lead to new scientific or medical discoveries",
               "Everything about bioluminescence has already been fully discovered"
@@ -21640,7 +21640,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a problem with the endocrine system affect a person’s growth or energy levels?",
             "options": [
-              "This concept has no relevance to science",
+              "The endocrine system only controls how fast a person breathes",
               "Hormones help control processes like growth and metabolism, so imbalances can cause noticeable effects",
               "Growth and metabolism are never controlled by hormones",
               "Only the nervous system controls growth and energy levels"
@@ -21702,7 +21702,7 @@ const curriculum: DayContent[] = [
             "q": "Why might changes in global manufacturing trends affect Canada’s auto industry today?",
             "options": [
               "Global manufacturing trends never affect any single country’s industry",
-              "This concept has no relevance to social studies",
+              "Manufacturing trends only change where cars are sold",
               "Shifts in technology, trade, and competition can change where and how vehicles are produced",
               "Canada’s auto industry has never changed since it began"
             ],
@@ -21767,9 +21767,9 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it important for people to be aware of how algorithms curate the content they see?",
             "options": [
-              "This concept has no relevance to media literacy",
+              "Algorithms only decide the speed of a person's internet connection",
               "It can help them understand that their online experience may be shaped by personalized filtering",
-              "Algorithms have no influence on what people believe or see online",
+              "Algorithms only choose which ads appear at the top of a page",
               "Awareness of algorithms never changes how someone understands their online experience"
             ],
             "answer": 1
@@ -21890,7 +21890,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why must an airplane’s thrust be strong enough to overcome drag during flight?",
             "options": [
-              "This concept has no relevance to science",
+              "Drag only matters when a plane is flying backward",
               "Drag only affects airplanes flying at very low altitudes",
               "Drag always helps an airplane move faster, never slower",
               "Thrust needs to push the plane forward against the resistance created by drag"
@@ -21952,7 +21952,7 @@ const curriculum: DayContent[] = [
               "Every country in the world has always agreed on this issue",
               "Daylight saving time has never been debated by anyone",
               "People have different opinions about whether the practice still provides meaningful benefits today",
-              "This concept has no relevance to social studies"
+              "Daylight saving time changes how many hours of sunlight a day has"
             ],
             "answer": 2
           }
@@ -22128,7 +22128,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might evaporation be a good method for separating salt from salt water?",
             "options": [
-              "This concept has no relevance to science",
+              "Evaporation works by filtering the salt out through paper",
               "Evaporation always removes the salt instead of the water",
               "The water dries up and leaves the solid salt behind",
               "Evaporation works by freezing the mixture solid first"
@@ -22192,7 +22192,7 @@ const curriculum: DayContent[] = [
               "Two houses never add any extra review to the law-making process",
               "Having two houses allows for extra review and debate before a bill becomes law",
               "Only one house is ever involved in passing a law in Canada",
-              "This concept has no relevance to social studies"
+              "Each house is responsible for laws in only one half of the country"
             ],
             "answer": 1
           },
@@ -22265,7 +22265,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might readers need to pay close attention to the different layers within a frame narrative?",
             "options": [
-              "This concept has no relevance to reading comprehension",
+              "Readers only need to follow the outer layer and can skip the rest",
               "Frame narratives never actually contain more than one layer",
               "The layers of a frame narrative never affect how a story is interpreted",
               "Understanding who is telling each part of the story can affect how the events are interpreted"
@@ -22398,7 +22398,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding space weather becoming more important as society relies more on satellite technology?",
             "options": [
               "Satellites are completely unaffected by any activity from the sun",
-              "This concept has no relevance to science",
+              "Space weather only changes rain and snowfall patterns on Earth",
               "Space weather only occurs once every hundred years and can be ignored",
               "More reliance on satellites means more potential impact if space weather disrupts them"
             ],
@@ -22429,7 +22429,7 @@ const curriculum: DayContent[] = [
             "q": "Does a Lieutenant Governor formally grant royal assent to provincial laws?",
             "options": [
               "Only if the Governor General personally approves first",
-              "No, a Lieutenant Governor has no role in provincial laws",
+              "No, only the Premier signs provincial bills into law",
               "Only the Prime Minister can approve provincial laws",
               "Yes"
             ],
@@ -22448,7 +22448,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a province have a Lieutenant Governor as well as a Premier?",
             "options": [
-              "This concept has no relevance to social studies",
+              "The Premier represents the monarch while the Lieutenant Governor leads the elected government",
               "A province never needs any representative of the monarch",
               "These two roles are always exactly identical",
               "The Lieutenant Governor represents the monarch while the Premier leads the elected government"
@@ -22704,7 +22704,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might Canada benefit from having a free trade agreement with its neighbouring countries?",
             "options": [
-              "This concept has no relevance to social studies",
+              "It lets Canada charge higher tariffs on goods from those countries",
               "It can make it easier and more affordable to buy and sell goods across borders",
               "Free trade agreements never provide any economic benefit",
               "Trade agreements always make goods more expensive for everyone"
@@ -22907,7 +22907,7 @@ const curriculum: DayContent[] = [
               "The difference between the two circuit types never matters in design",
               "It helps engineers choose the right circuit type for how a device should behave",
               "Series and parallel circuits always behave in exactly the same way",
-              "This concept has no relevance to science"
+              "It tells engineers which circuit type will make a battery last forever"
             ],
             "answer": 1
           }
@@ -22966,7 +22966,7 @@ const curriculum: DayContent[] = [
             "q": "Why might the journey to the Klondike gold fields have been extremely difficult for prospectors?",
             "options": [
               "Prospectors often had to travel through harsh, remote terrain with limited supplies",
-              "This concept has no relevance to social studies",
+              "The main difficulty was that gold mining was illegal in the Yukon",
               "The journey to the Klondike was always simple and required no supplies",
               "The gold fields were located in an easily accessible city centre"
             ],
@@ -23146,7 +23146,7 @@ const curriculum: DayContent[] = [
               "Volcanoes form only in the middle of the ocean floor, never on land",
               "Plate boundaries can create openings where melted rock from inside Earth reaches the surface",
               "Volcanoes are found only in the exact centre of a tectonic plate",
-              "This concept has no relevance to science"
+              "Plate edges are hotter because they are closer to the Sun"
             ],
             "answer": 1
           },
@@ -23282,7 +23282,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Every letter in an epistolary novel always describes the exact same perspective",
               "Epistolary novels never include more than one character’s writing",
-              "This concept has no relevance to reading comprehension",
+              "The letters are always written by an outside narrator rather than the characters",
               "Each letter reflects the personal viewpoint and knowledge of the person writing it"
             ],
             "answer": 3
@@ -23402,7 +23402,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding chemical bonding useful for predicting how substances will behave?",
             "options": [
-              "This concept has no relevance to science",
+              "Bonding only determines the colour of a substance",
               "All chemical bonds produce compounds with identical properties",
               "The type of bond can affect a substance’s properties, like melting point or conductivity",
               "Chemical bonding never affects the properties of a substance"
@@ -23452,7 +23452,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might the Statute of Westminster be considered a significant milestone in Canadian history?",
             "options": [
-              "This concept has no relevance to social studies",
+              "It ended Canada's involvement in the First World War",
               "It allowed Canada to pass its own laws without needing approval from Britain",
               "Canada gained no legislative powers of any kind from this statute",
               "It gave Canada control over the British navy"
@@ -23641,7 +23641,7 @@ const curriculum: DayContent[] = [
             "q": "Why does a ball rolling down a hill have kinetic energy?",
             "options": [
               "A rolling ball never actually has any energy",
-              "This concept has no relevance to science",
+              "It is high above the ground, and height is what kinetic energy describes",
               "Kinetic energy only exists when an object is at rest",
               "It is in motion, and motion is what kinetic energy describes"
             ],
@@ -23650,7 +23650,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a roller coaster at the top of a hill have a lot of potential energy?",
             "options": [
-              "This concept has no relevance to science",
+              "It is moving fastest at the top, and speed is what creates potential energy",
               "Its high position stores energy that can convert to motion as it descends",
               "Speed alone determines all of its potential energy",
               "A roller coaster never has any stored energy"
@@ -23704,7 +23704,7 @@ const curriculum: DayContent[] = [
               "This event took place entirely within international waters with no policy involved",
               "It highlights a period when discriminatory laws limited immigration based on national origin",
               "The event shows that all immigrants were always welcomed equally at that time",
-              "This concept has no relevance to social studies"
+              "It was a naval battle between Canada and Japan during the First World War"
             ],
             "answer": 1
           },
@@ -23714,7 +23714,7 @@ const curriculum: DayContent[] = [
               "Canadian immigration policy has never changed throughout history",
               "The incident only affected trade tariffs, not immigration",
               "It shows how immigration laws have changed and helps explain ongoing efforts toward fairness today",
-              "This concept has no relevance to social studies"
+              "It proves immigration policy only changes when other countries demand it"
             ],
             "answer": 2
           }
@@ -23778,7 +23778,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important for readers to think critically about the source of an infographic before trusting its claims?",
             "options": [
               "The source of an infographic never affects how trustworthy it is",
-              "This concept has no relevance to media literacy",
+              "Readers only need to check how colourful the infographic is, not who made it",
               "Infographics are always completely free of any bias",
               "The creator’s purpose or bias could affect how the data is selected or presented"
             ],
@@ -23899,7 +23899,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is camouflage considered an evolutionary advantage for many prey species?",
             "options": [
-              "This concept has no relevance to science",
+              "Camouflage helps prey by making them faster runners",
               "Camouflage never helps a prey species avoid being caught",
               "Blending into the environment can make it harder for predators to spot and catch them",
               "Predators can always see camouflaged animals with no difficulty"
@@ -24157,7 +24157,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Geothermal energy is only available during daylight hours",
               "Heat from within the Earth is available continuously, regardless of weather or time of day",
-              "This concept has no relevance to science",
+              "Geothermal energy only works when the ground is frozen",
               "Geothermal energy depends entirely on wind conditions"
             ],
             "answer": 1
@@ -24282,7 +24282,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is paying attention to subtext an important reading skill when analyzing a story’s characters?",
             "options": [
-              "This concept has no relevance to reading comprehension",
+              "Subtext helps readers count how many lines each character speaks",
               "It can help readers understand a character’s true motivations beyond their literal words",
               "A character’s literal words always reveal their complete truth",
               "A character's motivations are always stated outright in dialogue"
@@ -24404,7 +24404,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do scientists study the life cycle of stars to better understand the universe?",
             "options": [
-              "This concept has no relevance to science",
+              "Studying stars is mainly useful for predicting daily weather on Earth",
               "Stars remain completely unchanged from birth to death",
               "Stars never change or evolve in any way over time",
               "It can reveal how elements are formed and how galaxies change over time"
@@ -24456,7 +24456,7 @@ const curriculum: DayContent[] = [
             "q": "Why might Canada’s contribution of the Canadarm be considered an important part of its space program?",
             "options": [
               "Canada’s space program has never included any technological contributions",
-              "This concept has no relevance to social studies",
+              "It was the first robotic arm sent to land on the Moon",
               "The Canadarm was never actually used on any space mission",
               "It showcased Canadian engineering and became a recognizable part of international space missions"
             ],
@@ -24468,7 +24468,7 @@ const curriculum: DayContent[] = [
               "Every country conducts space missions completely independently with no cooperation",
               "International collaboration never benefits space exploration efforts",
               "Combining resources and expertise from multiple countries can achieve more than any single country alone",
-              "This concept has no relevance to social studies"
+              "Sharing technology means countries must give up their own space programs"
             ],
             "answer": 2
           }
@@ -24653,8 +24653,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding the difference between bacteria and viruses important for public health?",
             "options": [
-              "This concept has no relevance to science",
-              "The difference between bacteria and viruses has no relevance to public health",
+              "Bacteria are found only in hospitals while viruses are found only in food",
+              "Knowing the difference only matters for naming new diseases",
               "Bacteria and viruses always require identical treatment methods",
               "It helps determine the most effective treatment and prevention strategies for different infections"
             ],
@@ -24706,14 +24706,14 @@ const curriculum: DayContent[] = [
               "These policies applied equally to every immigrant group without exception",
               "These laws mainly regulated trade tariffs, not immigration",
               "They specifically targeted and restricted people based on their Chinese origin",
-              "This concept has no relevance to social studies"
+              "They taxed all newcomers from Asia and Europe equally"
             ],
             "answer": 2
           },
           {
             "q": "Why might the Canadian government’s later formal apology for these policies be considered significant?",
             "options": [
-              "This concept has no relevance to Canadian history",
+              "It officially ended all immigration restrictions in Canada",
               "The government has never acknowledged these historical policies",
               "It acknowledged the historical harm caused by discriminatory immigration laws",
               "An apology for these policies would have no significance at all"
@@ -24778,7 +24778,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it important for readers to recognize euphemisms and doublespeak in persuasive or official language?",
             "options": [
-              "This concept has no relevance to vocabulary",
+              "Euphemisms always make language clearer and more direct",
               "Euphemisms and doublespeak are never used in real communication",
               "Recognizing these terms never helps with understanding a message",
               "It helps them understand the real meaning behind softened or misleading language"
@@ -24839,7 +24839,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it important to carefully examine the scale and labels on a graph before drawing conclusions from it?",
             "options": [
-              "This concept has no relevance to math",
+              "Labels on a graph are mostly decoration and can be skipped",
               "Every graph is guaranteed to be completely accurate and unbiased",
               "A distorted scale or unclear label can lead to an inaccurate understanding of the data",
               "The scale and labels on a graph never affect how it should be interpreted"
@@ -24892,7 +24892,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Kelp forests grow better without any otters present",
               "They fertilize the kelp with nutrients from their fur",
-              "This concept has no relevance to science",
+              "They eat the kelp directly to clear space for new plants",
               "They control sea urchin populations that would otherwise overeat the kelp"
             ],
             "answer": 3
@@ -24902,7 +24902,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Losing a keystone species can cause much bigger changes than losing other species",
               "Keystone species are never actually important to an ecosystem",
-              "This concept has no relevance to science",
+              "Keystone species are always the largest animals in the ecosystem",
               "All species have exactly the same impact on an ecosystem"
             ],
             "answer": 0
@@ -25414,7 +25414,7 @@ const curriculum: DayContent[] = [
               "X-rays are never able to pass through any part of the human body",
               "X-rays can pass through soft tissue but are absorbed by denser material like bone, creating an image",
               "X-rays and visible light behave in exactly the same way inside the body",
-              "This concept has no relevance to science"
+              "X-rays bounce off bones the same way light bounces off a mirror"
             ],
             "answer": 1
           }
@@ -25444,7 +25444,7 @@ const curriculum: DayContent[] = [
             "options": [
               "1931",
               "1867",
-              "1867",
+              "1885",
               "1919"
             ],
             "answer": 3
@@ -25465,7 +25465,7 @@ const curriculum: DayContent[] = [
               "The strike involved only a handful of workers with no impact",
               "It had no lasting effect on labour rights in Canada",
               "It showed the scale of worker frustration and helped shape future labour rights movements in Canada",
-              "This concept has no relevance to social studies"
+              "It was mainly a protest against Canada entering the First World War"
             ],
             "answer": 2
           },
@@ -25663,7 +25663,7 @@ const curriculum: DayContent[] = [
               "They are made mostly of ice crystals at a high altitude where temperatures are very cold",
               "Cirrus clouds are always found at ground level",
               "Cirrus clouds are made entirely of liquid water droplets",
-              "This concept has no relevance to science"
+              "Strong winds near the ground tear them into thin strips"
             ],
             "answer": 0
           }
@@ -25712,7 +25712,7 @@ const curriculum: DayContent[] = [
             "q": "Why might the Halifax Explosion be considered one of the largest man-made explosions before the nuclear age?",
             "options": [
               "The explosion released almost no energy at all",
-              "This concept has no relevance to social studies",
+              "The explosion was caused by a volcanic eruption near the harbour",
               "The blast released an enormous amount of energy that flattened much of the city’s north end",
               "The explosion had no lasting effect on the city"
             ],
@@ -25788,7 +25788,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Allusions always work regardless of a reader’s background knowledge",
               "Every reader automatically recognizes every allusion in a text",
-              "This concept has no relevance to reading comprehension",
+              "Every text explains each allusion in a footnote",
               "The reader may miss the deeper connection the writer intended to create"
             ],
             "answer": 3
@@ -25908,7 +25908,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might some critics raise concerns about using food crops to produce large amounts of biofuel?",
             "options": [
-              "This concept has no relevance to science",
+              "Biofuel crops cannot grow in any Canadian climate, so farmers refuse to plant them",
               "Biofuels are always produced without using any farmland",
               "Using farmland for fuel crops instead of food crops could affect food supply and prices",
               "Growing crops for fuel never has any effect on food supply"
@@ -25971,7 +25971,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It is a secret citizens cannot learn about",
               "It helps citizens understand economic decisions and their effects",
-              "It has no relevance to citizens",
+              "It tells citizens exactly how much money they personally owe the government",
               "Only banks need this understanding"
             ],
             "answer": 1
@@ -26153,7 +26153,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might some microorganisms, like certain bacteria and viruses, cause illness in humans?",
             "options": [
-              "This concept has no relevance to science",
+              "All microorganisms are harmful, so any that enter the body cause illness",
               "Illness is never connected to microorganisms in any way",
               "They can multiply inside the body and disrupt normal bodily functions",
               "Microorganisms never cause any illness"
@@ -26282,7 +26282,7 @@ const curriculum: DayContent[] = [
             "q": "Why is background knowledge of a current event often necessary to fully understand a political cartoon?",
             "options": [
               "Every viewer understands a political cartoon in exactly the same way regardless of context",
-              "This concept has no relevance to media literacy",
+              "Cartoonists draw characters at random, so viewers only need to enjoy the colours",
               "The cartoon’s meaning often depends on recognizing the specific issue or people being referenced",
               "Political cartoons never reference any real events"
             ],
@@ -26352,7 +26352,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is a histogram different from a bar graph that compares separate categories?",
             "options": [
-              "This concept has no relevance to math",
+              "A histogram uses separated bars to compare separate categories like favourite colours",
               "A histogram groups continuous numerical data into ranges rather than comparing distinct categories",
               "A histogram and a bar graph are always exactly the same thing",
               "A histogram can only display a single data value at a time"
@@ -26403,7 +26403,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might a geologist use the Mohs hardness scale when identifying an unknown mineral?",
             "options": [
-              "This concept has no relevance to science",
+              "Geologists use the Mohs scale to measure a mineral's weight",
               "It provides a standard way to compare how easily a mineral can be scratched",
               "The Mohs scale measures a mineral's exact chemical composition",
               "Hardness can only be measured using a microscope"
@@ -26455,7 +26455,7 @@ const curriculum: DayContent[] = [
             "q": "Does the Indian Act continue to have an impact on Indigenous rights today?",
             "options": [
               "Only in provinces west of Ontario",
-              "No, the Indian Act was repealed long ago and has no impact",
+              "No, it was replaced by the Constitution Act and no longer applies today",
               "Yes",
               "The Indian Act has never affected Indigenous peoples in any way"
             ],
@@ -26467,14 +26467,14 @@ const curriculum: DayContent[] = [
               "It gave the federal government significant control over the lives of First Nations peoples without their consent",
               "It applied only to non-Indigenous Canadians",
               "It was created entirely by First Nations peoples for their own benefit",
-              "This concept has no relevance to social studies"
+              "It was passed mainly to give Indigenous peoples control over federal taxes"
             ],
             "answer": 0
           },
           {
             "q": "Why is understanding the Indian Act important for learning about the relationship between the Canadian government and Indigenous peoples?",
             "options": [
-              "This concept has no relevance to Canadian history",
+              "It explains how Indigenous peoples first arrived in Canada from other continents",
               "The relationship between the government and Indigenous peoples has never involved any legislation",
               "The Indian Act was fully repealed shortly after it was introduced",
               "It helps explain many of the historical policies and ongoing issues affecting Indigenous rights and self-government"
@@ -26671,7 +26671,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A pendulum’s period changes randomly and cannot be relied upon",
               "A pendulum’s period stays fairly consistent, allowing it to reliably mark equal intervals of time",
-              "This concept has no relevance to science",
+              "Pendulums swing faster every minute, which helps the clock make up lost time",
               "Pendulums have never been used in any type of clock"
             ],
             "answer": 1
@@ -26721,7 +26721,7 @@ const curriculum: DayContent[] = [
             "q": "Why do questions about the interpretation and fulfillment of the Numbered Treaties remain important today?",
             "options": [
               "Every detail of the treaties has already been fully resolved with no disagreement",
-              "This concept has no relevance to social studies",
+              "They are mostly about trade between provinces and matter only to businesses",
               "The Numbered Treaties were fully cancelled decades ago",
               "Disagreements about what was originally promised continue to affect Indigenous rights and land claims"
             ],
@@ -26796,7 +26796,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might understanding colloquialisms help someone communicate more naturally with people from a different region?",
             "options": [
-              "This concept has no relevance to vocabulary",
+              "Colloquialisms are formal words found only in dictionaries, so they are easy to learn",
               "Recognizing regional expressions can help avoid confusion and connect more easily with local speech patterns",
               "Every region of the world uses identical colloquial expressions",
               "Colloquialisms never affect how people understand each other"
@@ -26918,7 +26918,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is biomagnification an important concept for understanding the effects of pollution on ecosystems?",
             "options": [
-              "This concept has no relevance to science",
+              "Biomagnification helps pollution break down faster higher up the food chain",
               "Biomagnification only occurs in freshwater lakes, never oceans",
               "Pollution only ever affects the very first organism it touches",
               "It shows how even low levels of pollution can seriously harm organisms higher up the food chain"
@@ -26952,7 +26952,7 @@ const curriculum: DayContent[] = [
               "Yes",
               "Only military vessels are permitted to use the seaway",
               "No, ships can never reach the Great Lakes from the ocean",
-              "The Great Lakes are not connected to the seaway in any way"
+              "The seaway connects only to Hudson Bay, far from the Great Lakes"
             ],
             "answer": 0
           },
@@ -26982,7 +26982,7 @@ const curriculum: DayContent[] = [
               "The seaway was built entirely without any international cooperation",
               "Only one country benefits from the seaway, with no involvement from the other",
               "Both countries share the waterway and benefit economically from the trade it supports",
-              "This concept has no relevance to social studies"
+              "The seaway was funded entirely by Britain, with neither country paying"
             ],
             "answer": 2
           }
@@ -27046,7 +27046,7 @@ const curriculum: DayContent[] = [
             "q": "Why is recognizing genre conventions, like clues and red herrings, helpful when reading a mystery story?",
             "options": [
               "It helps readers actively look for evidence and try to solve the puzzle alongside the characters",
-              "This concept has no relevance to reading comprehension",
+              "It lets readers guess the ending without reading the clues",
               "Mystery stories never follow any recognizable conventions",
               "Genre conventions never help a reader understand a mystery story"
             ],
@@ -27165,7 +27165,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might scientists study animal migration patterns to help with conservation efforts?",
             "options": [
-              "This concept has no relevance to science",
+              "Tracking migration is mainly done to count how many animals live in zoos",
               "Migration data is only useful for naming new species",
               "Protecting habitats never requires understanding where animals travel",
               "Understanding migration routes can help protect the habitats animals depend on along their journey"
@@ -27412,7 +27412,7 @@ const curriculum: DayContent[] = [
             "q": "Why might soil composition vary significantly between different regions?",
             "options": [
               "Soil composition is always exactly the same everywhere on Earth",
-              "This concept has no relevance to science",
+              "Soil composition varies because the Moon pulls different minerals into the ground in each region",
               "Climate and rock material never have any effect on soil formation",
               "Differences in climate, parent rock material, and organic activity affect how soil forms in each region"
             ],
@@ -27471,7 +27471,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the Canadian Shield considered economically important despite its limitations for farming?",
             "options": [
-              "This concept has no relevance to social studies",
+              "Its thick, fertile soil supports most of Canada's wheat production",
               "The Canadian Shield has no economic importance of any kind",
               "Mining has never taken place anywhere within the Canadian Shield",
               "Its mineral resources support significant mining industries across the region"
@@ -28450,7 +28450,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is debate an important part of how the House of Commons works?",
             "options": [
-              "This concept has no relevance to Canadian government",
+              "Debate is used only to decide which party sits where in the House",
               "Debate never influences a final law",
               "Bills are never discussed before becoming law",
               "It allows different viewpoints to be considered before a law is passed"
@@ -28943,7 +28943,7 @@ const curriculum: DayContent[] = [
               "They were signed only after all conflicts had already ended peacefully",
               "The treaties only affected people outside of Canada",
               "They help explain the historical relationship between First Nations and the Canadian government",
-              "This concept has no relevance to social studies"
+              "They set out the border between Canada and the United States"
             ],
             "answer": 2
           }
@@ -29185,8 +29185,8 @@ const curriculum: DayContent[] = [
             "q": "Why is the flag debate considered an important moment in Canadian history?",
             "options": [
               "The debate ended without any flag being chosen",
-              "It had no impact on Canadian identity",
-              "This concept has no relevance to social studies",
+              "It resulted in Canada adopting the Union Jack as its official flag",
+              "It was the first vote to choose Canada's national anthem",
               "It reflected growing Canadian independence and national identity"
             ],
             "answer": 3
@@ -29421,7 +29421,7 @@ const curriculum: DayContent[] = [
             "options": [
               "As a complete victory for Canada",
               "As unfair to Canadian interests",
-              "As having no effect on Canada",
+              "As proof that Britain always sided with Canada",
               "As entirely fair and favourable to Canada"
             ],
             "answer": 1
@@ -29677,7 +29677,7 @@ const curriculum: DayContent[] = [
               "It only affected a single individual with no broader significance",
               "It changed how the law defined who could participate fully in government",
               "It had no lasting legal impact",
-              "This concept has no relevance to social studies"
+              "It gave women the right to vote in federal elections for the first time"
             ],
             "answer": 1
           }
@@ -30408,7 +30408,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do historians consider the Loyalist migration an important event in Canadian history?",
             "options": [
-              "This concept has no relevance to social studies",
+              "It was a migration of French settlers who left Canada for the United States",
               "It has no lasting significance for Canadian history",
               "It only affected a single small village with no wider impact",
               "It helped shape the early English-speaking population and political development of Canada"
@@ -30565,7 +30565,7 @@ const curriculum: DayContent[] = [
             "q": "How can glaciers shape the landscape beneath them?",
             "options": [
               "By instantly melting without leaving any trace",
-              "By having no effect on the land at all",
+              "By pulling soil upward into tall mountain peaks",
               "By depositing warm volcanic sediment as they move",
               "By eroding rock and carving valleys as they move"
             ],
@@ -30594,7 +30594,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why are scientists interested in studying how glaciers are changing today?",
             "options": [
-              "This concept has no relevance to science",
+              "They help predict the exact date of the next earthquake",
               "Glacier size is determined only by local tourism activity",
               "Changes in glacier size can indicate broader shifts in global climate",
               "Glaciers never change in size over time"
@@ -30644,7 +30644,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How did the Rebellions of 1837 influence later Canadian history?",
             "options": [
-              "This concept has no relevance to social studies",
+              "They led to Canada becoming an independent republic right away",
               "They caused Britain to abandon all of its North American colonies immediately",
               "They had no lasting effect on Canadian government at all",
               "They contributed to reforms that eventually expanded self-government in the colonies"
@@ -30720,7 +30720,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How does dramatic irony differ from a simple plot twist?",
             "options": [
-              "This concept has no relevance to reading comprehension",
+              "Dramatic irony happens when a character secretly changes their name partway through the play",
               "Dramatic irony relies on the audience knowing more than a character, not on a sudden surprise reveal",
               "Dramatic irony and a plot twist always mean exactly the same thing",
               "A plot twist requires the audience to know less than every character"
@@ -30832,7 +30832,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only appearance matters, not DNA",
               "Resemblance is completely random",
-              "DNA has no role in resemblance",
+              "Children resemble parents mainly because they eat the same foods",
               "They inherit DNA from both parents"
             ],
             "answer": 3
@@ -30871,7 +30871,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important for an ombudsman to be independent from the government they investigate?",
             "options": [
               "Independence helps ensure fair and unbiased investigations",
-              "This concept has no relevance to government",
+              "It lets the ombudsman decide which laws the government passes",
               "Ombudsmen are never independent",
               "Independence makes investigations less fair"
             ],
@@ -31127,7 +31127,7 @@ const curriculum: DayContent[] = [
               "Their art helped shape a distinct sense of Canadian national identity",
               "They inspired Canadians to adopt European painting styles exclusively",
               "They discouraged any interest in Canadian landscapes",
-              "Their work had no influence on Canadian culture at all"
+              "Their work convinced Canadians to stop painting landscapes"
             ],
             "answer": 0
           },
@@ -31137,7 +31137,7 @@ const curriculum: DayContent[] = [
               "The Group of Seven copied European landscapes exactly",
               "It offered a distinctly Canadian artistic style separate from European traditions",
               "Canadian audiences had no interest in art depicting their own country",
-              "This concept has no relevance to social studies"
+              "Rugged scenery was familiar to audiences from European paintings, so it felt comforting"
             ],
             "answer": 1
           },
@@ -31146,7 +31146,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The Group of Seven has been entirely forgotten by historians",
               "Their paintings were destroyed and no longer exist",
-              "This concept has no relevance to Canadian history",
+              "Their paintings are studied mainly because they are the oldest artworks in the world",
               "Their work remains an important part of Canadian art history and cultural identity"
             ],
             "answer": 3
@@ -31209,8 +31209,8 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might deepfakes pose a challenge for journalism and public trust?",
             "options": [
-              "This concept has no relevance to media literacy",
-              "Deepfakes have no impact on how people perceive news",
+              "Deepfakes are only used in video games and never appear in news",
+              "Deepfakes make news photos easier to verify because they are edited by experts",
               "Deepfakes always clearly announce themselves as fake",
               "They can make it harder to distinguish real events from fabricated ones"
             ],
@@ -31329,7 +31329,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding the predictable cycle of moon phases and tides useful for coastal communities?",
             "options": [
-              "This concept has no relevance to science",
+              "It lets communities predict earthquakes weeks in advance",
               "It helps with activities like fishing, navigation, and planning around changing water levels",
               "Tides never actually change throughout a lunar cycle",
               "Moon phases and tides have no practical use for coastal communities"
@@ -31392,7 +31392,7 @@ const curriculum: DayContent[] = [
               "Trade balances never affect a countrys economy",
               "They show how much a country is buying from versus selling to other countries",
               "Imports and exports are always exactly equal for every country",
-              "This concept has no relevance to social studies"
+              "A trade surplus means a country is buying more than it sells"
             ],
             "answer": 1
           }
@@ -31700,7 +31700,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might the phrase original copy be considered an oxymoron?",
             "options": [
-              "This concept has no relevance to vocabulary",
+              "Original copy is an oxymoron because both words describe a paper document",
               "The two words always mean exactly the same thing",
               "A copy is always considered more original than the source",
               "Original suggests something new, while copy suggests something duplicated"
@@ -31763,7 +31763,7 @@ const curriculum: DayContent[] = [
               "A higher ratio can help a design lose heat more efficiently",
               "A lower ratio always means a machine will overheat faster",
               "Cooling systems never depend on the shape or size of an object",
-              "This concept has no relevance to math"
+              "A higher ratio makes machinery heavier, which traps heat inside"
             ],
             "answer": 0
           }
@@ -31820,8 +31820,8 @@ const curriculum: DayContent[] = [
           {
             "q": "How are decomposers connected to nutrient cycles, such as the carbon and nitrogen cycles?",
             "options": [
-              "This concept has no relevance to science",
-              "Decomposers have no role in any nutrient cycle",
+              "Decomposers add oxygen to the air, which is the only step in the nutrient cycles",
+              "Decomposers only affect the carbon cycle and leave the nitrogen cycle alone",
               "They help break down organic material, returning key elements to the environment for reuse",
               "Nutrient cycles function without any input from living organisms"
             ],
@@ -32067,7 +32067,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Freezing and thawing only affect rocks located underwater",
               "Water always shrinks as it freezes, closing cracks completely",
-              "This concept has no relevance to science",
+              "Frost splits rock because cold air makes the rock shrink and crumble",
               "Water expands as it freezes, widening the crack over repeated cycles"
             ],
             "answer": 3
@@ -32128,7 +32128,7 @@ const curriculum: DayContent[] = [
               "Time zones only matter for people who travel by airplane",
               "It helps people coordinate schedules and avoid confusion across different regions",
               "Every location in the world shares the exact same time",
-              "This concept has no relevance to social studies"
+              "Time zones are used mainly to decide which language is spoken in each region"
             ],
             "answer": 1
           }
@@ -32370,7 +32370,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding urban heat islands important for city planning and public health?",
             "options": [
-              "This concept has no relevance to social studies",
+              "Cities are warmer mainly because they are closer to the Sun than rural areas",
               "Urban heat only occurs during the winter months",
               "Cities are always exactly the same temperature as nearby rural areas",
               "Higher urban temperatures can affect energy use, comfort, and heat-related health risks"
@@ -32800,7 +32800,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A meteor and a meteorite are always exactly the same thing",
               "A meteorite can only be found floating in space, never on the ground",
-              "This concept has no relevance to astronomy",
+              "A meteor is a rock that orbits the Sun between Mars and Jupiter",
               "A meteorite is a piece of space debris that survives and reaches the ground"
             ],
             "answer": 3
@@ -32859,7 +32859,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They convinced the colonies to abandon the idea of Confederation",
               "They highlighted the colonies need for stronger, unified defense against outside threats",
-              "This concept has no relevance to social studies",
+              "They convinced Britain to give the colonies independence immediately",
               "They led to the colonies being permanently annexed by another country"
             ],
             "answer": 1
@@ -33043,7 +33043,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might thawing permafrost cause problems for roads and buildings constructed on top of it?",
             "options": [
-              "This concept has no relevance to earth science",
+              "Thawing permafrost makes the ground drier and harder, which cracks the pavement",
               "Buildings are never affected by changes in the ground beneath them",
               "Thawing permafrost always makes the ground more solid and stable",
               "The ground becomes unstable and can shift or sink as the ice within it melts"
@@ -33160,7 +33160,7 @@ const curriculum: DayContent[] = [
               "An archetype follows a recognizable pattern seen in other stories, while a unique character does not",
               "Archetypes can only exist in nonfiction writing",
               "An archetype and a unique character are always exactly identical",
-              "This concept has no relevance to reading"
+              "An archetype is a character invented only by the reader, not the writer"
             ],
             "answer": 0
           },
@@ -33278,7 +33278,7 @@ const curriculum: DayContent[] = [
             "q": "What generally happens to light energy that is absorbed by an object rather than reflected?",
             "options": [
               "It is converted directly into sound energy",
-              "It disappears completely with no effect on the object",
+              "It is reflected a second time and bounces back at the observer as colour",
               "A term describing only how mirrors work",
               "It is often converted into heat energy"
             ],
@@ -33346,7 +33346,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is the 1982 patriation considered a significant milestone in Canadian history?",
             "options": [
-              "This concept has no relevance to social studies",
+              "It allowed Canada to become a republic",
               "It had no meaningful effect on how Canadas constitution could be changed",
               "It marked the moment Canada lost all connection to its previous constitution",
               "Canada gained full authority to amend its own constitution without requiring British approval"
@@ -33602,7 +33602,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Some Canadians wanted to preserve stronger visual ties to British symbols like the Red Ensign",
               "The new flag design was copied directly from another country",
-              "This concept has no relevance to social studies",
+              "Many Canadians believed the new flag cost too much for the government to produce",
               "Every Canadian agreed completely on the new design from the start"
             ],
             "answer": 0
@@ -33665,7 +33665,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why does influencer marketing matter to consumers making purchasing decisions?",
             "options": [
-              "This concept has no relevance to media literacy",
+              "Influencer marketing only appears on television, so online shoppers are not affected",
               "Sponsored content is always more accurate than independent reviews",
               "Recognizing sponsored content helps consumers make more informed choices",
               "Consumers can never be influenced by social media content"
@@ -33785,7 +33785,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might engineers use nanotechnology to develop new materials?",
             "options": [
-              "This concept has no relevance to science",
+              "Nanotechnology is used only to make food last longer",
               "New materials can never be developed using nanotechnology",
               "It can help create materials that are stronger or lighter than traditional materials",
               "Nanotechnology can only make materials heavier and weaker"
@@ -33847,7 +33847,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Random selection is always required by law",
               "It allows the country to consider specific skills and needs when welcoming newcomers",
-              "This concept has no relevance to social studies",
+              "Points systems give priority to applicants who arrive first in line",
               "Points systems ignore a countrys economic needs"
             ],
             "answer": 1
@@ -34034,7 +34034,7 @@ const curriculum: DayContent[] = [
               "The body's internal clock resets instantly upon boarding a flight",
               "The circadian rhythm instantly resets the moment a plane lands",
               "It temporarily disrupts the bodys internal clock, which has not yet adjusted to the new light pattern",
-              "This concept has no relevance to science"
+              "Jet lag happens because the plane's cabin pressure damages the body's muscles"
             ],
             "answer": 2
           }
@@ -34082,7 +34082,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Symbols never represent any larger idea",
               "Cartoonists are required to avoid all symbolism",
-              "This concept has no relevance to history",
+              "Cartoonists use animals because they are not allowed to draw people",
               "Symbols can quickly communicate an idea without lengthy explanation"
             ],
             "answer": 3
@@ -34218,7 +34218,7 @@ const curriculum: DayContent[] = [
               "They allow probability to be calculated using regions rather than only countable, separate outcomes",
               "Continuous space situations can never be modeled using area",
               "Area models can only be used when outcomes are countable and separate",
-              "This concept has no relevance to math"
+              "Area models work best for countable outcomes like rolling a die"
             ],
             "answer": 0
           }
@@ -34277,7 +34277,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Passengers keep moving forward when a car suddenly stops, unless a force like a seatbelt acts on them",
               "Seatbelts work by increasing the friction between tires and the road",
-              "This concept has no relevance to physical science",
+              "Seatbelts help mainly because they slow the car down faster than its brakes",
               "A stopped car instantly stops all motion of everything inside it"
             ],
             "answer": 0
@@ -34336,7 +34336,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important for students to study laws like the War Measures Act?",
             "options": [
               "It mainly teaches students how courts are physically built",
-              "It has no relevance to understanding government",
+              "It teaches students how to calculate taxes owed to the government",
               "Laws from the past never affect how we think today",
               "It helps them understand the balance between government power and individual rights"
             ],
@@ -34361,7 +34361,7 @@ const curriculum: DayContent[] = [
             "q": "What is an anti-hero?",
             "options": [
               "A character who is always purely good with no flaws",
-              "A minor character with no role in the plot",
+              "A character who always works for the villain and never makes choices",
               "A villain who has no redeeming qualities whatsoever",
               "A main character who lacks some traditional heroic qualities"
             ],
@@ -34393,7 +34393,7 @@ const curriculum: DayContent[] = [
               "An anti-hero and a villain are always exactly the same role in a story",
               "An anti-hero is still the main character driving the story, despite flaws, while a villain typically opposes the protagonist",
               "A villain always narrates the story from the anti-heros point of view",
-              "This concept has no relevance to reading"
+              "An anti-hero is always the narrator while a villain always tells the story in first person"
             ],
             "answer": 1
           },
@@ -34636,7 +34636,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is a strong opening hook important in a podcast script?",
             "options": [
-              "This concept has no relevance to writing",
+              "A strong hook is needed so the script is shorter than a minute",
               "A podcast script should always begin with the credits",
               "The opening of a podcast never affects whether listeners keep listening",
               "It helps capture listener interest right away, before they decide whether to keep listening"
@@ -34707,7 +34707,7 @@ const curriculum: DayContent[] = [
             "q": "Why might indirect measurement be useful for finding the height of a very tall building?",
             "options": [
               "Indirect measurement can only be used on objects at ground level",
-              "This concept has no relevance to geometry",
+              "It lets builders calculate height without any measurements at all",
               "Tall buildings can always be measured directly with a small ruler",
               "It avoids the need to physically climb or directly measure an object that is difficult to reach"
             ],
@@ -35236,7 +35236,7 @@ const curriculum: DayContent[] = [
               "Extremophiles show that life can survive in conditions once thought impossible, widening where life might be found",
               "Extremophiles prove that life can never exist anywhere except Earth",
               "Extremophiles are found exclusively in laboratory settings",
-              "Extremophiles have no relevance to the search for life beyond Earth"
+              "Extremophiles live only in conditions that are too mild to compare with other planets"
             ],
             "answer": 0
           },
@@ -35316,7 +35316,7 @@ const curriculum: DayContent[] = [
               "It had no lasting influence on any later political developments",
               "It set in motion political changes that pushed the colonies toward greater self-government",
               "It immediately ended all connection between the colonies and Britain",
-              "This concept has no relevance to social studies"
+              "It recommended that the colonies join the United States"
             ],
             "answer": 1
           }
@@ -35381,7 +35381,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Professional communities always avoid using any specialized terms",
               "Jargon never serves any useful purpose, even among experts",
-              "This concept has no relevance to vocabulary",
+              "Jargon is used mainly to make the speaker sound younger",
               "It allows precise, efficient communication among people who share the same specialized knowledge"
             ],
             "answer": 3
@@ -35489,7 +35489,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why do scientists study the life cycle of stars?",
             "options": [
-              "This concept has no relevance to science",
+              "Scientists study stars mainly to predict the daily weather on Earth",
               "To better understand how stars form, change, and eventually end",
               "Studying stars has no scientific value",
               "Stars never change over time"
@@ -35560,7 +35560,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the Charlottetown Conference considered a key early step toward Confederation?",
             "options": [
               "It had no connection whatsoever to the events of 1867",
-              "This concept has no relevance to social studies",
+              "It was a meeting held to plan the building of the transcontinental railway",
               "It began the formal discussions that eventually led to Confederation in 1867",
               "It permanently ended any talk of uniting the colonies"
             ],
@@ -35627,7 +35627,7 @@ const curriculum: DayContent[] = [
               "Frame narratives and straightforward plots are always identical in structure",
               "A frame narrative always has fewer characters than a straightforward story",
               "It layers at least one additional story inside an outer story",
-              "This concept has no relevance to reading"
+              "A frame narrative is a story told only through letters and diary entries"
             ],
             "answer": 2
           }
@@ -35746,7 +35746,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A habitable zone only indicates conditions that could support life, not confirmed evidence of it",
               "Habitable zones can only exist around stars identical to the Sun",
-              "This concept has no relevance to science",
+              "A habitable zone is any area where a planet has a moon",
               "A habitable zone always guarantees that life exists on a planet"
             ],
             "answer": 0
@@ -35805,7 +35805,7 @@ const curriculum: DayContent[] = [
             "q": "What debate did Canadas involvement in the Boer War spark at home?",
             "options": [
               "Complete agreement among all Canadians with no debate at all",
-              "This concept has no relevance to social studies",
+              "A debate about whether Canada should leave the British Empire and join the United States",
               "Disagreement over how much Canada should be obligated to support British military efforts",
               "A debate over whether Canada should stop trading with Britain entirely"
             ],
@@ -35872,7 +35872,7 @@ const curriculum: DayContent[] = [
               "Feature articles are required to avoid quoting any sources",
               "Interviews are never useful when writing an article",
               "Direct quotations add credibility and a personal perspective to the article",
-              "This concept has no relevance to writing"
+              "Interviews are mainly used to fill space and make an article longer"
             ],
             "answer": 2
           }
@@ -36050,7 +36050,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It involved no conflict of any kind and ended peacefully",
               "It involved armed conflict and ended in military defeat rather than a negotiated settlement",
-              "This concept has no relevance to social studies",
+              "The Rebellion took place in Ontario while the Red River Resistance took place in Quebec",
               "The two events took place in exactly the same year"
             ],
             "answer": 1
@@ -36114,7 +36114,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it important for readers to distinguish fact from opinion in news coverage?",
             "options": [
-              "This concept has no relevance to media literacy",
+              "It lets readers decide which news stories are the longest",
               "Distinguishing fact from opinion serves no useful purpose for readers",
               "All news coverage contains only verified facts and never any opinions",
               "It helps readers evaluate information critically rather than accepting every claim as verified"
@@ -36175,7 +36175,7 @@ const curriculum: DayContent[] = [
             "q": "Why does an object with a lower density than water generally float?",
             "options": [
               "Floating depends only on the shape of the object, not its density",
-              "This concept has no relevance to measurement",
+              "Objects float when they are hotter than the water around them",
               "Objects with a lower density than water always sink immediately",
               "It has less mass packed into the same volume, making it lighter for its size than the water it displaces"
             ],
@@ -36236,7 +36236,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A single country acting alone could have solved the problem instantly",
               "Ozone-depleting chemicals only affected the country that produced them",
-              "This concept has no relevance to science",
+              "Ozone-depleting chemicals were harmful only to the animals that lived near the Arctic",
               "Reducing ozone-depleting chemicals worldwide required countries to act together"
             ],
             "answer": 3
@@ -36285,7 +36285,7 @@ const curriculum: DayContent[] = [
             "options": [
               "To ensure important services are available to the public, not only for profit",
               "Governments never operate any businesses",
-              "This concept has no relevance to government",
+              "Crown corporations are run mainly to collect taxes from citizens",
               "Crown corporations are never connected to public services"
             ],
             "answer": 0
@@ -36418,10 +36418,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is understanding inverse operations important when rearranging formulas?",
             "options": [
-              "Inverse operations have no role in rearranging formulas",
+              "Inverse operations are used only to check that the formula has no mistakes",
               "Rearranging a formula never requires reversing any operations",
               "Reversing each operation correctly is what isolates the desired variable",
-              "This concept has no relevance to algebra"
+              "Inverse operations help by changing the values of the numbers in the formula"
             ],
             "answer": 2
           }
@@ -36478,7 +36478,7 @@ const curriculum: DayContent[] = [
             "q": "Why might acid rain damage buildings and monuments made of stone?",
             "options": [
               "Stone buildings are never affected by any form of precipitation",
-              "This concept has no relevance to science",
+              "Acid rain only damages stone by making it slippery and hard to walk on",
               "The acidity can gradually dissolve certain minerals in the stone",
               "Acid rain always strengthens the minerals found in stone"
             ],
@@ -36520,7 +36520,7 @@ const curriculum: DayContent[] = [
               "It was cancelled the year after it was passed",
               "It has had a lasting impact on the rights and daily lives of First Nations peoples",
               "It never affected anyone in Canada",
-              "This concept has no relevance to social studies"
+              "It gave First Nations peoples control of provincial governments"
             ],
             "answer": 1
           },
@@ -36538,7 +36538,7 @@ const curriculum: DayContent[] = [
             "q": "Why is learning about the Indian Act important for understanding reconciliation in Canada?",
             "options": [
               "Past laws never influence how communities live today",
-              "This concept has no relevance to Canadian history",
+              "It explains how the first treaties were written in English only",
               "Reconciliation efforts began entirely independently of any historical laws",
               "It helps explain the historical roots of challenges First Nations communities continue to address"
             ],
@@ -36602,7 +36602,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might slang still be valuable in casual conversation or informal writing?",
             "options": [
-              "This concept has no relevance to vocabulary",
+              "Slang is helpful because it is always understood by every generation",
               "It can create a sense of familiarity and shared identity among a group",
               "Casual conversation always requires strictly formal vocabulary",
               "Slang has no value in casual conversation of any kind"
@@ -36665,7 +36665,7 @@ const curriculum: DayContent[] = [
               "It cannot be written exactly as a simple fraction and its decimal digits never repeat",
               "It can always be written as a simple, exact fraction",
               "Its value changes depending on the size of the shape being measured",
-              "This concept has no relevance to geometry"
+              "The golden ratio is irrational because it was discovered by the ancient Greeks"
             ],
             "answer": 0
           }
@@ -36724,7 +36724,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Sustainable design mainly relies on synthetic materials instead of natural ones",
               "Biomimicry always requires more raw materials than traditional design methods",
-              "This concept has no relevance to science",
+              "Biomimicry is sustainable because it uses designs copied directly from the animals' bodies in factories",
               "It draws on solutions already proven efficient by natural selection rather than starting from scratch"
             ],
             "answer": 3
@@ -36762,7 +36762,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might polls sometimes be inaccurate?",
             "options": [
-              "This concept has no relevance to elections",
+              "Polls are inaccurate because the questions are always asked in secret",
               "Polls never involve any sampling of people",
               "Polls are always exactly accurate with no exceptions",
               "The sample surveyed may not perfectly represent the whole population"
@@ -36782,7 +36782,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is it important for citizens to think critically about poll results?",
             "options": [
-              "This concept has no relevance to social studies",
+              "Poll results are mostly useful for deciding the date of an election",
               "Poll results are always a perfect prediction of the outcome",
               "Citizens should always ignore all poll information",
               "Polls are estimates, not guarantees, of how an election will turn out"
@@ -36909,8 +36909,8 @@ const curriculum: DayContent[] = [
             "options": [
               "Fair games can be designed without any consideration of probability",
               "It ensures the calculated chances of winning are equal for all players involved",
-              "This concept has no relevance to math",
-              "Probability has no role in designing a fair or unfair game"
+              "Probability helps designers make sure one player always wins",
+              "Probability is used only to count the number of players in a game"
             ],
             "answer": 1
           }
@@ -36967,7 +36967,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might suppressing every wildfire for many decades sometimes lead to larger, more destructive fires later?",
             "options": [
-              "This concept has no relevance to science",
+              "Suppressing fires makes the forest grow faster, which uses up the fuel",
               "Dead material never accumulates in a forest ecosystem over time",
               "Unburned dead material can build up over time, creating more fuel for a future fire",
               "Suppressing wildfires always eliminates the possibility of any future fire"
@@ -37153,7 +37153,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Linear equations can never be used to model any real-world cost",
               "Subscription costs never increase at a constant, predictable rate",
-              "This concept has no relevance to math",
+              "Linear equations are useful because they show costs that double every month",
               "The cost increases at a constant rate for each additional unit used, matching a linear relationship"
             ],
             "answer": 3
@@ -37254,7 +37254,7 @@ const curriculum: DayContent[] = [
               "Interprovincial trade only benefits the largest provinces",
               "It allows provinces to share resources and products they may not produce themselves",
               "Provinces are never allowed to trade with each other",
-              "This concept has no relevance to social studies"
+              "It lets every province avoid trading with other countries"
             ],
             "answer": 1
           },
@@ -37581,7 +37581,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The writing can become difficult to follow if clauses are not organized clearly",
               "Compound-complex sentences are always the clearest possible option",
-              "This concept has no relevance to grammar",
+              "Compound-complex sentences are best for writing instructions for young children",
               "Overusing them always makes writing shorter"
             ],
             "answer": 0
@@ -37701,7 +37701,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They only apply to objects in outer space",
               "Forces never actually affect how objects move",
-              "This concept has no relevance to physical science",
+              "They only describe how objects move when there is no friction",
               "They explain how forces cause and change the motion of objects around us"
             ],
             "answer": 3
@@ -37824,7 +37824,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How does clipping differ from creating an entirely new word?",
             "options": [
-              "This concept has no relevance to vocabulary",
+              "Clipping combines two complete words, like turning smoke and fog into smog",
               "Clipping always adds extra letters to a word",
               "Clipping and inventing a new word are always exactly the same process",
               "Clipping shortens an existing word rather than inventing a brand-new one"
@@ -37946,7 +37946,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Sound waves travel equally well with or without any particles present",
               "A vacuum always transmits sound better than air does",
-              "This concept has no relevance to science",
+              "Sound is made of light waves, which are blocked when no air is present",
               "Sound waves need particles of matter to compress and transmit the vibration"
             ],
             "answer": 3
@@ -38005,9 +38005,9 @@ const curriculum: DayContent[] = [
             "q": "Why was reliable national rail service considered important for Canada in the early twentieth century?",
             "options": [
               "It helped connect distant regions for trade, transportation, and communication",
-              "This concept has no relevance to social studies",
+              "It allowed Canada to stop using ships for trade with other countries",
               "Canada relied entirely on other countries for all transportation",
-              "Rail service had no impact on trade or communication"
+              "Rail service mainly helped Canadians travel to other continents"
             ],
             "answer": 0
           }
@@ -38072,7 +38072,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Static and dynamic characters can never appear in the same story",
               "Static characters can highlight, by contrast, how much the dynamic character has changed",
-              "This concept has no relevance to reading",
+              "Static characters are included only to make the story longer",
               "Including both types of characters is always considered a writing mistake"
             ],
             "answer": 1
@@ -38191,7 +38191,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the periodic table considered a useful tool for predicting how an element will behave?",
             "options": [
               "Every element behaves identically regardless of its position",
-              "This concept has no relevance to science",
+              "It lists elements in alphabetical order by their English names",
               "An element's behaviour is determined only by its colour",
               "Its position reveals patterns in properties shared with other elements in the same family"
             ],
@@ -38253,7 +38253,7 @@ const curriculum: DayContent[] = [
               "To reduce the damage and risk caused by similar disasters in the future",
               "Infrastructure investment never reduces the risk of future disasters",
               "Governments are legally forbidden from responding to natural disasters",
-              "This concept has no relevance to social studies"
+              "To ensure the disaster can be predicted a year ahead of time"
             ],
             "answer": 0
           }
@@ -38437,7 +38437,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Extreme climates present unique survival challenges like extreme heat, cold, or lack of water",
               "All climates present the exact same survival challenges for plants",
-              "This concept has no relevance to science",
+              "Plants in extreme climates are always smaller than plants in temperate ones",
               "Plants never need to adapt to their surrounding climate"
             ],
             "answer": 0
@@ -38496,7 +38496,7 @@ const curriculum: DayContent[] = [
             "q": "Why is a reliable national currency important for a countrys economy?",
             "options": [
               "A reliable currency mainly increases a country's population growth",
-              "This concept has no relevance to social studies",
+              "A reliable currency makes sure every citizen earns the same wage",
               "Currency is never used in everyday economic exchanges",
               "It gives people a trusted, standard way to exchange goods and services"
             ],
@@ -38562,8 +38562,8 @@ const curriculum: DayContent[] = [
             "q": "Why is it useful for media-literate viewers to notice product placement?",
             "options": [
               "Noticing product placement serves no useful purpose for viewers",
-              "This concept has no relevance to media literacy",
-              "Product placement has no influence on viewer behaviour or opinions",
+              "Product placement is only used in commercials and never in shows or movies",
+              "Product placement is only meant to hide the brand name from viewers",
               "It helps them recognize when they are being advertised to, even subtly"
             ],
             "answer": 3
@@ -38684,7 +38684,7 @@ const curriculum: DayContent[] = [
               "Hackers automatically receive the decryption key for any encrypted data",
               "Encrypted data is always left completely unprotected and easy to read",
               "The coded data is scrambled using complex mathematical operations that are hard to reverse without it",
-              "This concept has no relevance to science"
+              "Encrypted data is made unreadable by deleting the original file"
             ],
             "answer": 2
           }
@@ -38869,7 +38869,7 @@ const curriculum: DayContent[] = [
               "The method assumes the two ratios are equal to begin with",
               "Cross-multiplication only works with ratios written as decimals",
               "Proportions never require the two ratios to be equal",
-              "This concept has no relevance to algebra"
+              "Cross-multiplication works only when the two ratios have different units"
             ],
             "answer": 0
           }
@@ -38929,7 +38929,7 @@ const curriculum: DayContent[] = [
               "The same force spread over a smaller area produces greater pressure",
               "A smaller area always produces less pressure regardless of force",
               "Force alone always produces the exact same pressure regardless of area",
-              "This concept has no relevance to physics"
+              "Pressure measures only how much an object weighs"
             ],
             "answer": 0
           }
@@ -38988,7 +38988,7 @@ const curriculum: DayContent[] = [
               "It has stopped delivering any packages or mail entirely",
               "It has adapted to handle more package deliveries as online shopping increased",
               "Canada Post has remained completely unchanged since the 1700s",
-              "This concept has no relevance to social studies"
+              "Canada Post now delivers only by air to remote communities"
             ],
             "answer": 1
           }
@@ -39172,7 +39172,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Meteorites always form long after a solar system has finished developing",
               "Meteorites are pieces broken off from Earth's own moon during recent collisions",
-              "This concept has no relevance to science",
+              "Meteorites are made of materials formed on Earth during volcanic eruptions",
               "Some meteorites contain material largely unchanged since the solar systems early formation"
             ],
             "answer": 3
@@ -39233,7 +39233,7 @@ const curriculum: DayContent[] = [
               "It can boost tourism, infrastructure, and international recognition",
               "Hosting the Olympics never has any economic or social impact",
               "Countries are required by international law to host the Olympics",
-              "This concept has no relevance to social studies"
+              "Hosting the Olympics is mainly done to select the country's national team"
             ],
             "answer": 0
           }
@@ -39287,7 +39287,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It encourages close attention to spelling and letter patterns",
               "Anagrams are only used to create secret military codes",
-              "This concept has no relevance to vocabulary",
+              "Anagrams help vocabulary by adding new letters to each word",
               "Anagrams always ignore the letters of the original word"
             ],
             "answer": 0
@@ -39357,7 +39357,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A square has neither right angles nor equal sides",
               "A square shares no properties with either shape",
-              "This concept has no relevance to geometry",
+              "A square is both because it has two pairs of parallel sides but no right angles",
               "It has four right angles and four equal sides, satisfying both definitions"
             ],
             "answer": 3
@@ -39417,7 +39417,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Physical and chemical processes are always exactly the same thing",
               "Distillation always creates a brand-new chemical substance",
-              "This concept has no relevance to science",
+              "Distillation is physical because it needs no heat",
               "The substances involved are only separated, not chemically changed into new substances"
             ],
             "answer": 3
@@ -39466,7 +39466,7 @@ const curriculum: DayContent[] = [
             "q": "Why might economic hardship have influenced Newfoundlands decision to join Canada?",
             "options": [
               "Joining Canada offered access to greater economic support and stability",
-              "Economic hardship had no influence on the decision at all",
+              "Newfoundland joined mainly to gain access to the Hudson Bay fur trade",
               "Newfoundland was economically stronger than Canada at the time",
               "A dispute over fishing rights with the United States"
             ],
@@ -39660,7 +39660,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why are governments and industries increasingly interested in renewable resources?",
             "options": [
-              "This concept has no relevance to science",
+              "Governments prefer renewable resources because they are always cheaper to build",
               "Nonrenewable resources can be replenished just as quickly as renewable ones",
               "Renewable resources are always more difficult to access than nonrenewable ones",
               "Renewable resources can be replenished and produce fewer long-term supply concerns"
@@ -40150,7 +40150,7 @@ const curriculum: DayContent[] = [
               "Partial eclipses produce no sunlight at all",
               "Harmful sunlight can still damage the eyes even when much of the sun is blocked",
               "Eye protection is only needed during a total eclipse, never a partial one",
-              "This concept has no relevance to science"
+              "A partial eclipse reflects sunlight so that it is safe to look at directly"
             ],
             "answer": 1
           }
@@ -40207,7 +40207,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why was a coastal location strategically important for a settlement like Halifax?",
             "options": [
-              "This concept has no relevance to social studies",
+              "A coastal location mainly made it easier to grow crops in the colder climate",
               "Halifax was built far from any coastline",
               "It allowed ships and naval forces to be based there for defence and trade",
               "Coastal location has no strategic value of any kind"
@@ -40393,7 +40393,7 @@ const curriculum: DayContent[] = [
             "q": "Why is the ozone layer within the stratosphere considered important for life on Earth?",
             "options": [
               "The ozone layer only exists at ground level",
-              "This concept has no relevance to science",
+              "It produces the oxygen that people breathe",
               "It absorbs much of the suns harmful ultraviolet radiation",
               "It traps carbon dioxide to keep the planet warm"
             ],
@@ -40518,7 +40518,7 @@ const curriculum: DayContent[] = [
             "q": "Why might the meaning of a compound word differ from the meanings of its two smaller words combined literally?",
             "options": [
               "Compound words always mean exactly what each smaller word means added together",
-              "This concept has no relevance to vocabulary",
+              "Compound words take on a new meaning only when the two parts are the same word",
               "Compound words sometimes take on a new meaning that is not obvious from each part alone",
               "A compound word can never carry any new meaning"
             ],
@@ -40640,7 +40640,7 @@ const curriculum: DayContent[] = [
               "Chemical equations never need to be balanced",
               "It ensures the same number and type of atoms appear on both sides of the equation",
               "Balancing equations only matters for reactions involving gases",
-              "This concept has no relevance to science"
+              "It guarantees that atoms are destroyed and recreated during a reaction"
             ],
             "answer": 1
           }
@@ -40698,7 +40698,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a country establish a national police force in addition to local or provincial police services?",
             "options": [
               "To provide law enforcement and coordination across larger or more remote areas",
-              "This concept has no relevance to social studies",
+              "To replace all municipal police services",
               "National police forces have no purpose distinct from local police",
               "A country can never have more than one police service"
             ],
@@ -40764,7 +40764,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important for a reader to be able to point to specific text evidence supporting an inference?",
             "options": [
               "Text evidence is never needed to support an inference",
-              "This concept has no relevance to reading",
+              "Evidence is only needed when the inference is about a character's age",
               "Inferences supported by evidence are always incorrect",
               "It shows the inference is reasonably supported rather than just a guess"
             ],
@@ -40885,7 +40885,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It has been shown to be true only in outer space",
               "It applies to nearly every physical process and helps explain how energy moves and changes form",
-              "This concept has no relevance to science",
+              "It states that energy is gradually destroyed as machines run",
               "It applies only to a single, very specific type of machine"
             ],
             "answer": 1
@@ -40944,7 +40944,7 @@ const curriculum: DayContent[] = [
             "q": "Why are the Great Lakes important as a source of drinking water for millions of people?",
             "options": [
               "They hold a vast supply of accessible freshwater near many major cities",
-              "This concept has no relevance to social studies",
+              "The Great Lakes are salt water and are treated before use",
               "Drinking water only comes from underground wells near the lakes",
               "The Great Lakes contain no freshwater suitable for drinking"
             ],
@@ -41129,7 +41129,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might GPS signals be weaker or less accurate inside a building or a dense forest?",
             "options": [
-              "This concept has no relevance to science",
+              "Signals can only be received when the device is moving quickly",
               "Buildings and forests always improve GPS signal accuracy",
               "Physical obstacles can block or interfere with the satellite signals",
               "GPS satellites stop transmitting signals near any obstacle"
@@ -41255,7 +41255,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They can reveal important changes in mood, perspective, or plot direction",
               "Tone shifts always confuse readers rather than aiding understanding",
-              "This concept has no relevance to reading",
+              "Tone shifts are mainly used to show where a new chapter begins",
               "Tone shifts only occur in poetry and never in novels"
             ],
             "answer": 0
@@ -41374,7 +41374,7 @@ const curriculum: DayContent[] = [
             "q": "Which is an example of mutualism?",
             "options": [
               "Bees pollinating flowers while gaining nectar",
-              "A bird building a nest with no effect on trees",
+              "A fish living in water that gets dirty from algae growth",
               "A tick feeding on a dog",
               "Two animals that never interact"
             ],
@@ -41424,7 +41424,7 @@ const curriculum: DayContent[] = [
             "q": "What might happen if a government spends more money than it collects in revenue?",
             "options": [
               "The government always has extra money left over",
-              "This concept has no relevance to social studies",
+              "The government has to cancel the next election",
               "Overspending never has any effect on a government",
               "It may need to borrow money, leading to a budget deficit"
             ],
@@ -41435,7 +41435,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It helps ensure public money is used responsibly to meet the needs of citizens",
               "It guarantees that every citizen receives an identical amount of money each year",
-              "This concept has no relevance to social studies",
+              "Planning a budget mainly helps the government decide the date of elections",
               "A government never needs to plan how it spends money"
             ],
             "answer": 0
@@ -41621,7 +41621,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It helps them design structures that can withstand the expected level of ground motion",
               "Buildings never need to account for earthquakes during construction",
-              "This concept has no relevance to science",
+              "Magnitude tells engineers what kind of soil is under each building",
               "Magnitude only measures the distance to the epicentre, not ground motion"
             ],
             "answer": 0
@@ -41680,7 +41680,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a sport become closely connected to a countrys sense of national identity?",
             "options": [
               "National identity can never be expressed through cultural activities",
-              "This concept has no relevance to social studies",
+              "Hockey is Canada's only sport, so it automatically defines the country's identity",
               "Shared enthusiasm for the sport can create a sense of common pride and belonging",
               "Sports never have any connection to how people view their national identity"
             ],
@@ -41747,7 +41747,7 @@ const curriculum: DayContent[] = [
               "It helps them understand that what they see has been shaped for entertainment rather than being purely spontaneous",
               "Reality television requires no thought or analysis of any kind",
               "Critical thinking has no value when watching any type of television",
-              "This concept has no relevance to media literacy"
+              "Reality television is scripted word for word, so there is nothing to question"
             ],
             "answer": 0
           }
@@ -41864,7 +41864,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might scientists say invertebrates make up the vast majority of animal species on Earth?",
             "options": [
-              "This concept has no relevance to science",
+              "Invertebrates are the largest animals, so they take up the most space",
               "Every animal species on Earth is classified as a vertebrate",
               "Groups like insects alone include an enormous number of distinct species",
               "Vertebrates actually outnumber invertebrates by a wide margin"
@@ -41925,7 +41925,7 @@ const curriculum: DayContent[] = [
             "q": "Why is a referendum considered an example of direct democracy?",
             "options": [
               "Direct democracy means only one person makes every decision",
-              "This concept has no relevance to Canadian government",
+              "A referendum is a vote held only among members of Parliament",
               "Citizens vote directly on the issue itself instead of through a representative",
               "A referendum always cancels the need for any government"
             ],
@@ -41991,7 +41991,7 @@ const curriculum: DayContent[] = [
             "q": "Why is understanding shades of meaning among synonyms useful for precise writing?",
             "options": [
               "Every synonym for a word conveys the exact same tone and degree",
-              "This concept has no relevance to vocabulary",
+              "Shades of meaning only matter when translating into another language",
               "Precise writing never depends on which synonym is chosen",
               "It helps a writer select the word that most accurately conveys the intended tone and degree"
             ],
@@ -42111,7 +42111,7 @@ const curriculum: DayContent[] = [
             "q": "Why would a feather and a rock fall at the same rate if dropped together in a vacuum?",
             "options": [
               "With no air resistance present, gravity alone determines the acceleration of both objects equally",
-              "This concept has no relevance to science",
+              "A vacuum makes objects heavier, so they fall at the same rate",
               "A vacuum causes gravity to stop acting on objects entirely",
               "Only heavier objects are affected by gravity inside a vacuum"
             ],
@@ -42172,7 +42172,7 @@ const curriculum: DayContent[] = [
               "Their decisions helped shape the foundation of the country and its government",
               "Their contributions are only taught in university, not school",
               "Confederation happened without any planning or leadership",
-              "This concept has no relevance to social studies"
+              "They wrote the rules of all provincial sports leagues"
             ],
             "answer": 0
           }
@@ -42660,7 +42660,7 @@ const curriculum: DayContent[] = [
               "No other country has ever expressed any interest in the passage",
               "The passage is legally recognized by every country as belonging only to Canada",
               "Some countries argue the passage should be treated as an international strait open to free passage",
-              "This concept has no relevance to social studies"
+              "Other countries claim the passage because it is a large source of freshwater"
             ],
             "answer": 2
           }
@@ -42722,7 +42722,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How does juxtaposition differ from simply describing one idea after another with no connection?",
             "options": [
-              "This concept has no relevance to reading",
+              "Juxtaposition is when a writer repeats the same word at the start of each sentence",
               "Juxtaposition only ever involves describing identical ideas",
               "Juxtaposition never involves any intentional placement of ideas",
               "Juxtaposition intentionally places contrasting elements together to create meaning"
@@ -42905,7 +42905,7 @@ const curriculum: DayContent[] = [
               "Widely followed sports and their traditions can become woven into a countrys shared culture",
               "Professional sports leagues are banned from having any traditions",
               "Sports leagues can only ever exist in isolation from the broader culture",
-              "This concept has no relevance to social studies"
+              "Professional leagues are the main source of government funding in Canada"
             ],
             "answer": 0
           }
@@ -42967,7 +42967,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is one challenge a writer might face when balancing historical accuracy with an engaging invented plot?",
             "options": [
-              "This concept has no relevance to writing",
+              "Historical fiction must never include any invented characters",
               "Making sure invented events still feel plausible within the real historical context",
               "Historical accuracy and an engaging plot can never be combined in the same story",
               "There is no challenge at all in balancing accuracy with an invented plot"
@@ -43087,7 +43087,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why are scientists concerned about rising levels of greenhouse gases?",
             "options": [
-              "This concept has no relevance to science",
+              "Greenhouse gases are important because they let more sunlight reach Earth",
               "Rising greenhouse gases always cool the planet down",
               "Extra trapped heat is linked to long-term changes in Earths climate",
               "Greenhouse gases only affect regions near the equator"
@@ -43148,7 +43148,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a group emigrate specifically to avoid military conscription in their country of origin?",
             "options": [
               "Their home country required all citizens to pay a special military tax instead",
-              "This concept has no relevance to social studies",
+              "Conscription is when a country forces people to learn a second language",
               "Avoiding conscription was never a factor in any historical immigration to Canada",
               "Their religious or personal beliefs may prevent them from participating in warfare"
             ],
@@ -43204,8 +43204,8 @@ const curriculum: DayContent[] = [
             "options": [
               "It can prevent embarrassing or confusing misunderstandings caused by assuming shared meaning",
               "Every word that looks similar between two languages always means the same thing",
-              "False cognates have no impact on understanding a new language",
-              "This concept has no relevance to vocabulary"
+              "False cognates only matter in languages that use different alphabets",
+              "False cognates are words that look different but share the same meaning"
             ],
             "answer": 0
           },
@@ -43335,7 +43335,7 @@ const curriculum: DayContent[] = [
               "A pot of soup only ever demonstrates conduction, never convection",
               "Boiling soup demonstrates that convection never actually occurs in liquids",
               "The heated liquid at the bottom rises while cooler liquid sinks, creating a visible circulating current",
-              "This concept has no relevance to science"
+              "Soup is an example because its steam carries heat through solid walls"
             ],
             "answer": 2
           }
@@ -43394,7 +43394,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Shorter routes require less fuel and time, lowering the overall cost of shipping goods",
               "Shipping costs depend only on the number of ports visited",
-              "This concept has no relevance to social studies",
+              "The Panama Canal allowed ships to travel through the Great Lakes instead",
               "Shorter shipping routes always increase the total cost of trade"
             ],
             "answer": 0
@@ -43460,7 +43460,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It helps players recognize how choices, pacing, and setting are intentionally constructed to convey meaning",
               "Media literacy has no application to interactive media like video games",
-              "This concept has no relevance to media literacy",
+              "Media literacy helps players only when they play on a single device",
               "Video game design never involves any intentional storytelling choices"
             ],
             "answer": 0
@@ -43579,7 +43579,7 @@ const curriculum: DayContent[] = [
             "q": "Why is proper ventilation recommended when using strong household cleaning chemicals?",
             "options": [
               "Ventilation mainly prevents cleaning products from losing their scent",
-              "This concept has no relevance to science",
+              "Ventilation is needed so household cleaners can dry faster",
               "Strong chemical products never release any fumes at all",
               "It helps disperse potentially harmful fumes and reduces the concentration a person breathes in"
             ],
@@ -43638,7 +43638,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important for citizens to understand how interest groups and lobbying work?",
             "options": [
               "Lobbying is illegal in Canada and never takes place",
-              "This concept has no relevance to social studies",
+              "Interest groups are the main reason elections are held every four years",
               "Interest groups are responsible for writing all Canadian laws directly",
               "It helps citizens understand different influences on government decision-making"
             ],
@@ -43824,7 +43824,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Environmental impact is never a consideration for any renewable energy technology",
               "Wave energy converters have no possible effect on ocean ecosystems",
-              "This concept has no relevance to science",
+              "Wave devices are placed offshore, so their effects are only ever felt on land",
               "Large numbers of underwater devices could potentially affect marine ecosystems and wildlife"
             ],
             "answer": 3
@@ -43882,7 +43882,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might major infrastructure projects like the Trans-Canada Highway require cooperation between the federal government and the provinces?",
             "options": [
-              "This concept has no relevance to social studies",
+              "Highways are paid for entirely by the provinces, so Ottawa is never involved",
               "Infrastructure projects never require any cooperation between different levels of government",
               "The highway passes through multiple provinces, each with its own jurisdiction over local roads and land",
               "Provinces have no involvement whatsoever in highways that cross their territory"
@@ -44071,7 +44071,7 @@ const curriculum: DayContent[] = [
               "Hard, smooth surfaces always absorb more sound than soft materials",
               "Soft, textured materials absorb sound energy rather than reflecting it back into the room",
               "Sound waves are not affected by the texture of a surface",
-              "This concept has no relevance to science"
+              "Foam panels reduce noise mainly by making the air in the room colder"
             ],
             "answer": 1
           }
@@ -44193,7 +44193,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How does writing for radio drama differ from writing a script meant to be filmed?",
             "options": [
-              "This concept has no relevance to writing",
+              "Radio scripts rely mostly on long written descriptions of what characters look like",
               "A radio drama script always includes detailed camera angle instructions",
               "Radio scripts and film scripts require exactly the same techniques with no differences",
               "A radio script cannot rely on visuals, so it must convey everything through sound alone"
@@ -44275,7 +44275,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A species with a disproportionately large effect on its ecosystem relative to its population size",
               "A species that is always the largest animal in its ecosystem",
-              "A species that has absolutely no effect on its surrounding ecosystem",
+              "A species that lives only in one small area of an ecosystem and is rarely seen",
               "A species that only exists in laboratory settings"
             ],
             "answer": 0
@@ -44314,7 +44314,7 @@ const curriculum: DayContent[] = [
             "q": "Why is identifying keystone species useful for conservation efforts?",
             "options": [
               "Protecting a keystone species can help preserve the stability of an entire ecosystem",
-              "This concept has no relevance to science",
+              "Keystone species are always the first ones to go extinct, so they are not worth tracking",
               "It guarantees that every species in the ecosystem will increase in number",
               "Conservation efforts never focus on any particular species within an ecosystem"
             ],
@@ -44560,7 +44560,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Soluble rock like limestone can be slowly eroded from below, leaving unstable underground cavities",
               "Insoluble bedrock is always more likely to dissolve and collapse than soluble bedrock",
-              "This concept has no relevance to science",
+              "Karst regions are mostly made of loose sand that blows away during strong winds",
               "Karst landscapes are always more geologically stable than any other landscape type"
             ],
             "answer": 0
@@ -44619,7 +44619,7 @@ const curriculum: DayContent[] = [
             "options": [
               "An Auditor General is chosen by a single company",
               "Independence helps ensure spending is reviewed fairly, without political influence",
-              "This concept has no relevance to social studies",
+              "An Auditor General is appointed to make sure the government always spends less each year",
               "Independence guarantees government spending will never make mistakes"
             ],
             "answer": 1
@@ -44793,7 +44793,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A species that has been extinct for over a million years",
               "A species with a disproportionately large effect on its ecosystem relative to its population size",
-              "A species that has absolutely no effect on its surrounding ecosystem",
+              "A species that is always found at the very top of the food chain",
               "A species that only exists in laboratory settings"
             ],
             "answer": 1
@@ -45107,8 +45107,8 @@ const curriculum: DayContent[] = [
             "options": [
               "It shows how combining historical records with Inuit oral history can solve long-standing mysteries",
               "Inuit oral history was recorded only after the wrecks were already found",
-              "This concept has no relevance to social studies",
-              "Inuit oral history played no role in locating the wrecks"
+              "The expedition matters mainly because it proved the Northwest Passage was easy to sail",
+              "Inuit accounts were considered unreliable and were set aside during the search"
             ],
             "answer": 0
           }
@@ -45292,7 +45292,7 @@ const curriculum: DayContent[] = [
             "q": "Why might scientists be especially concerned about factors such as pesticide use and habitat loss affecting pollinators?",
             "options": [
               "Pesticides mainly help pollinators by removing their competitors",
-              "This concept has no relevance to science",
+              "Pollinators are mainly a concern because they eat too many crops in farmers' fields",
               "These factors can reduce pollinator populations, threatening both wild ecosystems and agricultural food supplies",
               "Pollinators are completely unaffected by changes to their environment"
             ],
@@ -45353,7 +45353,7 @@ const curriculum: DayContent[] = [
               "It reflects values of perseverance and generosity that continue to inspire ongoing charitable action nationwide",
               "Terry Fox is remembered only outside of Canada, not within it",
               "The Marathon of Hope has no lasting cultural or historical significance",
-              "This concept has no relevance to social studies"
+              "His run is remembered mainly as a sports record for the fastest marathon distance"
             ],
             "answer": 0
           }
@@ -45539,7 +45539,7 @@ const curriculum: DayContent[] = [
               "They support diverse species and food sources, but pollution, damming, and development can disrupt their delicate balance",
               "Deltas and estuaries are never affected by any human activity",
               "These ecosystems support no living things and require no protection",
-              "This concept has no relevance to science"
+              "Deltas and estuaries are only important because they provide flat land for cities"
             ],
             "answer": 0
           }
@@ -45598,7 +45598,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Alberta's oil sands mainly supply the province's own local gas stations",
               "Fossil fuel demand always rises regardless of any policy changes",
-              "This concept has no relevance to social studies",
+              "Oil sands production is expected to stay the same no matter how energy markets change",
               "As countries look to reduce reliance on fossil fuels, demand for oil sands products may shift over time"
             ],
             "answer": 3
@@ -45665,7 +45665,7 @@ const curriculum: DayContent[] = [
               "Both formats require exactly the same single, unbranching storyline",
               "A choose your own adventure story can never include more than one scene",
               "It requires creating several connected storylines instead of just one straightforward sequence of events",
-              "This concept has no relevance to writing"
+              "It requires less planning because the reader simply decides how the story ends"
             ],
             "answer": 2
           }
@@ -45844,7 +45844,7 @@ const curriculum: DayContent[] = [
               "It shows how unsustainable resource use can lead to both ecological collapse and long-term economic hardship",
               "The moratorium mainly resulted from a sudden change in ocean temperature",
               "Overfishing never has any effect on fish populations or local economies",
-              "This concept has no relevance to social studies"
+              "It happened because Canada stopped allowing any fishing boats near Newfoundland"
             ],
             "answer": 0
           }
@@ -45887,7 +45887,7 @@ const curriculum: DayContent[] = [
             "q": "Why does the order in which scenes are arranged in a documentary matter?",
             "options": [
               "Documentaries are required to present scenes in a single fixed order with no creative choice",
-              "Scene order has no impact on how a documentary is understood",
+              "Scene order only affects how long the documentary runs, not how it is understood",
               "Scenes are always arranged in alphabetical order by topic",
               "It can shape the narrative and influence how the audience interprets cause and effect"
             ],
@@ -45906,7 +45906,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is media literacy important when watching a documentary, even though it presents real events?",
             "options": [
-              "This concept has no relevance to media literacy",
+              "Documentaries are filmed live in one take, so there is nothing to analyze",
               "Documentaries present events with no editing or framing choices involved",
               "It helps viewers recognize that editing and framing choices still shape how those real events are presented",
               "Media literacy is only relevant to fictional films, never documentaries"
@@ -46006,7 +46006,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What role do bacteria often play in wastewater treatment?",
             "options": [
-              "They have no role in wastewater treatment at all",
+              "They are added mainly to remove the chlorine that was put in earlier",
               "They help break down organic waste in the water",
               "They are added only to improve the water's taste",
               "They are used only to add colour to the water"
@@ -46029,7 +46029,7 @@ const curriculum: DayContent[] = [
               "Wastewater treatment needs never change regardless of population size",
               "A larger population produces more wastewater, requiring greater treatment capacity to protect water quality",
               "Wastewater treatment costs decrease as population grows",
-              "This concept has no relevance to technology or science"
+              "A city only needs bigger plants if its water supply becomes colder"
             ],
             "answer": 1
           }
@@ -46088,7 +46088,7 @@ const curriculum: DayContent[] = [
               "Hosting Expo 86 caused Vancouvers economy to shrink permanently",
               "International events never have any lasting economic effect on a host city",
               "It can showcase the city globally, attracting future investment, tourism, and trade connections",
-              "This concept has no relevance to social studies"
+              "Expo 86 mainly helped Vancouver by moving its port industry to another city"
             ],
             "answer": 2
           }
@@ -46272,7 +46272,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Reapplying is only necessary if the sunscreen changes colour",
               "Its protective compounds can break down or wash away over time and with exposure to water or sweat",
-              "This concept has no relevance to chemistry",
+              "Sunscreen is only needed once because the skin absorbs it and stores it permanently",
               "Sunscreen compounds always remain fully effective forever once applied"
             ],
             "answer": 1
@@ -46330,7 +46330,7 @@ const curriculum: DayContent[] = [
             "q": "Why might combining Inuit traditional knowledge with modern scientific research be valuable for understanding the Arctic environment?",
             "options": [
               "Only modern scientific methods provide any useful understanding of the Arctic",
-              "This concept has no relevance to social studies",
+              "Inuit traditional knowledge is mainly oral stories and cannot be used to study the environment",
               "Traditional knowledge developed over generations can offer detailed, long-term observations that complement modern scientific methods",
               "Traditional knowledge and modern science can never be meaningfully combined"
             ],
@@ -47010,7 +47010,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Critics of globalization often raise concerns about ___.",
             "options": [
-              "Globalization having no effect on any country",
+              "Globalization making every country's economy grow at exactly the same rate",
               "Economic inequality and environmental impact",
               "No concerns exist regarding globalization",
               "Only benefits, with no drawbacks discussed"
@@ -47195,7 +47195,7 @@ const curriculum: DayContent[] = [
             "q": "A push factor in migration is something that ___.",
             "options": [
               "Attracts people to a new location",
-              "Has no influence on migration decisions",
+              "Makes a new place seem more attractive to potential migrants",
               "Encourages people to leave a place",
               "Only applies to animals, never humans"
             ],

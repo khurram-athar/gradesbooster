@@ -428,7 +428,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Destroying a habitat by cutting down a forest would most likely ___.",
             "options": [
-              "have no effect",
+              "make the forest grow back right away",
               "make habitats larger",
               "force animals to find new habitats",
               "help the animals there"
@@ -2670,7 +2670,7 @@ const curriculum: DayContent[] = [
               "They melt rocks",
               "Roots grow into cracks and widen them",
               "They smooth them",
-              "They have no effect"
+              "They turn the rock into soil overnight"
             ],
             "answer": 1
           },
@@ -10670,7 +10670,7 @@ const curriculum: DayContent[] = [
               "Only colour matters when choosing materials",
               "All materials work equally well for every job",
               "Different materials have different strengths and weaknesses suited to different tasks",
-              "Material choice does not matter at all"
+              "Strong materials are always the best choice for every part"
             ],
             "answer": 2
           }
@@ -11599,7 +11599,7 @@ const curriculum: DayContent[] = [
               "Graphs are never useful",
               "It helps clearly show and communicate the data",
               "All graphs are exactly the same",
-              "It does not matter which graph is used"
+              "Any graph shows the data equally well, so the choice is only about colours"
             ],
             "answer": 1
           },
@@ -11918,7 +11918,7 @@ const curriculum: DayContent[] = [
             "q": "Why is protecting endangered species considered important?",
             "options": [
               "To help maintain balance and biodiversity in ecosystems",
-              "Endangered species have no role in nature",
+              "Endangered species are only important in zoos",
               "It only matters for pets",
               "It has no ecological importance"
             ],
@@ -12270,7 +12270,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A smart reader who notices bias should ask ___.",
             "options": [
-              "Nothing, bias does not matter",
+              "Only how colourful the pictures are",
               "Whose viewpoint is being shown and what might be missing",
               "How many pages the text has",
               "Only who wrote the title"
@@ -12475,7 +12475,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only affecting large cities",
               "Changing how people work, travel, and communicate",
-              "Having no impact on daily life",
+              "Making every community exactly the same",
               "Making community planning unnecessary"
             ],
             "answer": 1
@@ -12771,7 +12771,7 @@ const curriculum: DayContent[] = [
             "q": "Why might a how-to guide use numbered steps?",
             "options": [
               "A how-to guide should never be organized using numbers",
-              "Numbers have no effect on how easy a guide is to follow",
+              "Numbers only make the guide look more like a math lesson",
               "Numbers help the reader clearly follow the correct order of actions",
               "Numbers make the guide look longer so it seems more important"
             ],
@@ -13551,7 +13551,7 @@ const curriculum: DayContent[] = [
               "Characters might face challenges or events related to cold weather or mountain life",
               "Setting never influences the challenges characters might face",
               "Characters might spend the whole story on a hot, sunny beach",
-              "The setting would have no effect on the events of the story"
+              "The setting would be the only part of the story that cannot change"
             ],
             "answer": 0
           }
@@ -14801,7 +14801,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is checking for complete sentences an important part of proofreading?",
             "options": [
-              "Complete sentences have no effect on how clearly writing communicates",
+              "Complete sentences only matter for the last line of a story",
               "Every sentence is always automatically complete, with no need to check",
               "Incomplete sentences can be confusing or unclear for a reader to understand",
               "Complete sentences make a story longer, and that is the only reason to check them"
@@ -16349,7 +16349,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The placement of quotation marks never affects how a sentence is understood",
               "Placing them incorrectly could confuse the reader about what was actually said versus described",
-              "Quotation marks can be placed anywhere in a sentence with no effect on meaning",
+              "Quotation marks can be placed around the speaker's name instead",
               "Quotation marks should be placed around the whole story's title"
             ],
             "answer": 1
@@ -17029,7 +17029,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why might farmers in Ontario need to consider factors like soil quality and weather when growing crops?",
             "options": [
-              "Soil quality and weather have no effect on farming success",
+              "Soil and weather only affect how much farmers pay for equipment",
               "Crops always grow the exact same way no matter the conditions",
               "Soil and weather only matter for crops grown indoors",
               "These factors can significantly affect how well crops grow and how much food is produced"
@@ -18517,10 +18517,10 @@ const curriculum: DayContent[] = [
           {
             "q": "A volcano is an opening in the Earth’s surface through which melted rock, called ___, can escape.",
             "options": [
-              "Sand, which is not connected to volcanic eruptions",
+              "Sand, which is made of tiny grains of rock",
               "Lava",
               "Mud, which is not melted rock",
-              "Ice, which is not connected to volcanic eruptions"
+              "Ice, which forms when water freezes"
             ],
             "answer": 1
           },
@@ -20680,7 +20680,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What might happen if a municipal government spent its whole budget on only one single service?",
             "options": [
-              "Municipal budgets have no effect on services",
+              "The government would have to stop collecting taxes",
               "Every other service would automatically get more funding instead",
               "Other important services, like roads or libraries, might not get enough funding",
               "Taxes would automatically go up to cover every service"
@@ -25380,7 +25380,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Hollow bones make a bird’s body much heavier",
               "Hollow bones make a bird’s wings flap by themselves",
-              "Hollow bones have no effect on a bird’s weight",
+              "Hollow bones make a bird's wings much stronger than muscles",
               "They make a bird’s body lighter, which makes flying easier"
             ],
             "answer": 3
@@ -26138,7 +26138,7 @@ const curriculum: DayContent[] = [
             "q": "Why is protecting rainforests important for the whole planet?",
             "options": [
               "Rainforests give the planet most of its snow and ice",
-              "Rainforests have no effect on the rest of the planet",
+              "Rainforests only matter to the countries where they grow",
               "Rainforests are home to a huge number of species and help regulate the Earth’s climate",
               "Protecting rainforests has never been considered important"
             ],
@@ -27437,7 +27437,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why was building the railway such an important achievement for connecting communities?",
             "options": [
-              "The railway had no effect on how communities were connected",
+              "It mostly helped communities by making them farther apart",
               "Communities were already perfectly connected before the railway",
               "It was built mainly for entertainment, not travel",
               "It made travel and trade across long distances much faster than before"
@@ -28163,7 +28163,7 @@ const curriculum: DayContent[] = [
             "options": [
               "No, the monarch runs daily government",
               "Yes",
-              "The monarch has no role at all",
+              "The monarch makes all the decisions for Parliament",
               "The monarch controls all laws directly"
             ],
             "answer": 1
@@ -28665,7 +28665,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Judges should favour one side",
               "So everyone is treated equally under the law",
-              "Fairness does not matter",
+              "Fairness only matters for adults",
               "Only some people deserve fairness"
             ],
             "answer": 1
@@ -29214,7 +29214,7 @@ const curriculum: DayContent[] = [
               "So the audience can understand you",
               "To speak as quietly as possible",
               "To confuse the audience",
-              "It does not matter how you speak"
+              "Speaking quickly is more important than speaking clearly"
             ],
             "answer": 0
           },
@@ -30384,7 +30384,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Never grow at all",
               "All grow in the exact same way",
-              "Are not connected to their parents",
+              "Always hatch from eggs",
               "Grow and are born in different ways"
             ],
             "answer": 3
@@ -32488,7 +32488,7 @@ const curriculum: DayContent[] = [
             "q": "Why might coins go through quality checks at the mint?",
             "options": [
               "To make each coin different from the rest",
-              "Quality does not matter for coins",
+              "Coins are only checked to see how shiny they are",
               "To make coins impossible to spend",
               "To make sure they are made correctly and consistently"
             ],
@@ -33961,7 +33961,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Every part of Canada has the exact same way of life",
               "Their cold climate and remote location shape how people live, travel, and get food",
-              "The climate and location have no effect on daily life",
+              "Southern and northern communities share the same climate and travel",
               "Communities in the territories never adapt to their environment"
             ],
             "answer": 1
@@ -36155,7 +36155,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Why is caring for shared spaces considered a responsibility of the whole community?",
             "options": [
-              "Community members have no role in caring for shared spaces",
+              "Only the mayor is allowed to keep parks tidy",
               "Shared spaces belong to only one family",
               "Everyone uses and benefits from these spaces, so everyone can help keep them nice",
               "Only city workers are ever responsible for shared spaces"
@@ -41336,7 +41336,7 @@ const curriculum: DayContent[] = [
             "q": "Why is it important for a bridge to be built strongly?",
             "options": [
               "So it can bend in half",
-              "Strength does not matter for bridges",
+              "A bridge only needs to look nice for visitors",
               "So it can safely hold the weight of people and vehicles",
               "So it can float away easily"
             ],
@@ -44423,7 +44423,7 @@ const curriculum: DayContent[] = [
             "options": [
               "It creates two triangles, which make the frame more rigid",
               "It removes all shapes, weakening the frame",
-              "It creates a square inside a square, which has no effect",
+              "It creates a square inside a square, which makes the frame weaker",
               "It creates two circles, which add no strength"
             ],
             "answer": 0
@@ -44979,7 +44979,7 @@ const curriculum: DayContent[] = [
               "Tape is always stronger than glue in every situation",
               "For this test, the glued joint was stronger than the taped joint",
               "Neither joint held any weight",
-              "The material of the cardboard does not matter"
+              "Glue always holds better than tape on every material"
             ],
             "answer": 1
           }
@@ -46017,7 +46017,7 @@ const curriculum: DayContent[] = [
               "It cannot be predicted at all",
               "The smooth tile, because it has less friction",
               "The carpet, because rough surfaces increase speed",
-              "Both the same distance, since surface has no effect"
+              "Both the same distance, since carpet and tile have equal friction"
             ],
             "answer": 1
           },
@@ -47158,7 +47158,7 @@ const curriculum: DayContent[] = [
             "q": "What might happen to a ship without the warning of a lighthouse?",
             "options": [
               "It could be in danger of hitting rocks or getting lost",
-              "Lighthouses have no effect on ship safety",
+              "Ships can see rocks clearly in the dark without a lighthouse",
               "It would always travel faster",
               "Ships never need any warning at all"
             ],
@@ -47415,7 +47415,7 @@ const curriculum: DayContent[] = [
             "options": [
               "They prevent people from ever speaking to each other",
               "Translators are only needed in one province",
-              "They have no role in communities at all",
+              "They only translate for movies and television",
               "They support communication among people who speak different languages"
             ],
             "answer": 3
@@ -47900,7 +47900,7 @@ const curriculum: DayContent[] = [
               "Roots dissolve rock instantly",
               "Roots only grow in soil that already exists, never near rock",
               "Roots growing into cracks can slowly widen and break the rock apart",
-              "Roots have no effect on rock at all"
+              "Roots only help rocks last longer"
             ],
             "answer": 2
           },
@@ -48721,7 +48721,7 @@ const curriculum: DayContent[] = [
             "q": "In a permeability test, water takes 5 seconds to drain through sand, 20 seconds through silt, and 90 seconds through clay, using equal amounts of water and soil. What is the best conclusion?",
             "options": [
               "Clay is the most permeable of the three",
-              "The type of soil had no effect on drainage time",
+              "Water drained fastest through clay",
               "All three soils are equally permeable",
               "Sand is the most permeable and clay is the least permeable of the three"
             ],
@@ -48960,7 +48960,7 @@ const curriculum: DayContent[] = [
             "q": "In a model hillside test, bare soil washes away quickly when watered, but soil with grass roots stays mostly in place. What does this suggest?",
             "options": [
               "Water always erodes soil the same amount regardless of plants",
-              "Plant roots have no effect on erosion",
+              "Plant roots make soil wash away faster",
               "Plant roots help hold soil together and reduce erosion",
               "Grass increases the amount of erosion"
             ],
@@ -49308,7 +49308,7 @@ const curriculum: DayContent[] = [
             "q": "Why might volunteers be important to how a food bank runs?",
             "options": [
               "Volunteers only work at grocery stores",
-              "Volunteers have no role at a food bank",
+              "Volunteers only decide how much food costs",
               "They help collect, sort, and distribute food to those in need",
               "Food banks operate with no helpers at all"
             ],
@@ -53728,7 +53728,7 @@ const curriculum: DayContent[] = [
           {
             "q": "How did building the railway affect Ontario?",
             "options": [
-              "It had no effect on the province",
+              "It made it harder for communities to trade goods",
               "It helped connect communities and move goods and people",
               "It stopped all farming",
               "It only affected air travel"
