@@ -1669,12 +1669,12 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "If a story is about a dog learning tricks, the main idea is about...",
+            "q": "Read this short story: \"Sam took his puppy to the yard every day. He showed it how to sit, shake, and roll over. Soon the puppy knew many things.\" What is the main idea?",
             "options": [
-              "A house",
-              "A dog learning tricks",
-              "The weather",
-              "A car"
+              "The puppy is very small",
+              "Sam teaches his puppy new things",
+              "Sam likes the sunny yard",
+              "The puppy sleeps a lot each day"
             ],
             "answer": 1
           },
@@ -1813,12 +1813,12 @@ const curriculum: DayContent[] = [
           {
             "q": "Which is an example of a pull?",
             "options": [
+              "Opening a drawer",
               "Kicking a ball",
-              "Dropping a book",
               "Throwing a ball",
-              "Pulling a wagon"
+              "Pushing a swing"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "Forces can make a moving object...",
@@ -1908,14 +1908,14 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=4AMptAmS_xM",
         "quiz": [
           {
-            "q": "Which word usually signals the FIRST event?",
+            "q": "Which word best fills the blank? \"____, wash your hands. Next, dry them. Last, put away the towel.\"",
             "options": [
-              "Then",
-              "First",
+              "Later",
               "Finally",
-              "Last"
+              "Again",
+              "First"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "Which word usually signals the LAST event?",
@@ -2441,12 +2441,12 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which word signals the first event in a sequence?",
+            "q": "Which word best fills the blank? \"____, I got out of bed. Then I brushed my teeth. Finally, I ate breakfast.\"",
             "options": [
-              "Finally",
               "Then",
+              "Last",
               "First",
-              "Last"
+              "Finally"
             ],
             "answer": 2
           },
@@ -3346,12 +3346,12 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which sense helps you know if food tastes sweet?",
+            "q": "Which sense do you use to find out that a lemon is sour?",
             "options": [
               "Sight",
               "Taste",
-              "Touch",
-              "Smell"
+              "Hearing",
+              "Touch"
             ],
             "answer": 1
           },
@@ -3591,7 +3591,7 @@ const curriculum: DayContent[] = [
               "Create sound",
               "Make things disappear"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "A wheelchair ramp helps people...",
@@ -4206,14 +4206,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "If you earn money, you have...",
+            "q": "What does it mean to \"earn\" money?",
             "options": [
-              "Lost it",
-              "Borrowed it",
-              "Money earned from work or selling",
-              "Spent it already"
+              "To get money by working or selling",
+              "To lose money by accident",
+              "To borrow money from a friend",
+              "To spend money at a store"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "Which of these is a Canadian coin?",
@@ -5384,14 +5384,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "The dog is __ the chair (the dog is in front of and sitting next to the chair).",
+            "q": "Sam sits on the left of Ben at the table. Which word fits best? Sam sits ___ Ben.",
             "options": [
-              "Beside",
-              "Over",
-              "Behind",
-              "Under"
+              "behind",
+              "under",
+              "above",
+              "beside"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "What position word means the cat is directly below the table?",
@@ -5404,14 +5404,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Your right hand is on which side?",
+            "q": "Which of your hands is on the same side of your body as your right ear?",
             "options": [
-              "The same side as your heart",
-              "The opposite side from your heart",
-              "Above you",
-              "Behind you"
+              "Your left hand",
+              "Both of your hands",
+              "Your right hand",
+              "Neither of your hands"
             ],
-            "answer": 1
+            "answer": 2
           }
         ],
         "topic": "Number Sense: Basic Counting"
@@ -5624,14 +5624,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "If you see about 30 marbles in a jar, a good estimate would be...",
+            "q": "A jar has 3 equal piles of marbles, and each pile has 10 marbles. Which is the best estimate of all the marbles?",
             "options": [
-              "1,000",
-              "1",
-              "500",
-              "30"
+              "About 3",
+              "About 30",
+              "About 300",
+              "About 1,000"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "Why do we check our estimate by counting?",
@@ -5945,10 +5945,10 @@ const curriculum: DayContent[] = [
           {
             "q": "A camel is suited to live in the desert because it...",
             "options": [
-              "Loves cold weather",
-              "Has thick white fur",
-              "Has gills",
-              "Can store water and fat in its humps"
+              "Loves cold, snowy weather",
+              "Has thick white fur for the snow",
+              "Breathes underwater using gills",
+              "Can go a long time without drinking water"
             ],
             "answer": 3
           },
@@ -5994,14 +5994,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Canada stretches from coast to coast — from which ocean to which ocean?",
+            "q": "Which ocean touches the west coast of Canada?",
             "options": [
-              "Pacific to Atlantic",
-              "Only one ocean",
-              "Arctic to Indian",
-              "Atlantic to Pacific"
+              "Atlantic",
+              "Indian",
+              "Pacific",
+              "Southern"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "Which of these is a large Canadian city?",
@@ -6409,14 +6409,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "What is a good estimate for a jar with about 20 jelly beans?",
+            "q": "A jar has 2 rows of 10 jelly beans visible. Which is the best estimate of how many are in the jar?",
             "options": [
-              "100",
-              "1,000",
-              "2",
-              "20"
+              "About 20",
+              "About 2",
+              "About 100",
+              "About 1,000"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "Which holds more: a swimming pool or a glass of water?",
@@ -6613,14 +6613,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What does 'in your own words' mean?",
+            "q": "After reading The Three Pigs, Sam says what happened using his own sentences instead of reading the words from the book. What is Sam doing?",
             "options": [
-              "Rewrite every single word differently",
-              "Not speak at all",
-              "Say it in your own words, not copied",
-              "Copy the book exactly"
+              "Copying the book word for word",
+              "Retelling the story",
+              "Skipping the story completely",
+              "Changing the title only"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "What is the 'problem' in a story?",
@@ -6723,14 +6723,14 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=eAtmg8IhcUs",
         "quiz": [
           {
-            "q": "What is photosynthesis?",
+            "q": "What do plants need to grow?",
             "options": [
-              "How plants eat insects",
-              "How plants use sunlight to make food",
-              "How plants move around",
-              "How plants sleep at night"
+              "Sunlight, water, and air",
+              "Candy, juice, and cookies",
+              "Darkness, salt, and sand",
+              "Toys, music, and games"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
             "q": "Which part of the plant absorbs water from the soil?",
@@ -6753,14 +6753,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What gas do plants take in from the air during photosynthesis?",
+            "q": "Which part of a plant holds it up and carries water to the leaves?",
             "options": [
-              "Carbon dioxide",
-              "Oxygen",
-              "Steam",
-              "Nitrogen"
+              "Seed",
+              "Petal",
+              "Fruit",
+              "Stem"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "What do plants release into the air that helps people breathe?",
@@ -7128,14 +7128,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Which question word helps you find WHERE details in a story?",
+            "q": "A story says \"The fox lived in a cave.\" Which question word helps you find that detail?",
             "options": [
-              "Why",
-              "What",
+              "Who",
               "Where",
-              "Who"
+              "Why",
+              "When"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "Details in a story can tell you...",
@@ -7181,12 +7181,12 @@ const curriculum: DayContent[] = [
           {
             "q": "Which combination makes exactly 30¢?",
             "options": [
-              "2 dimes + 2 nickels",
+              "2 dimes + 2 pennies",
               "1 quarter + 1 penny",
-              "1 quarter + 1 nickel",
-              "3 dimes"
+              "3 dimes",
+              "1 dime + 1 nickel"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
             "q": "What is the total of 2 quarters?",
@@ -7428,14 +7428,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "In the number 136, how many tens are there?",
+            "q": "In the number 136, which digit is in the tens place?",
             "options": [
-              "1",
-              "13",
               "3",
-              "6"
+              "1",
+              "6",
+              "13"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "Which number is between 120 and 130?",
@@ -7550,14 +7550,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "The United Nations Convention on the Rights of the Child is...",
+            "q": "What does the United Nations Convention on the Rights of the Child do?",
             "options": [
-              "A children's book",
-              "It protects children's rights",
-              "A school rule",
-              "A type of game"
+              "Gives out free children’s books",
+              "Sets the rules for a school",
+              "Teaches children a new game",
+              "Protects the rights of children"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "If everyone has rights, then everyone also has a responsibility to...",
@@ -7717,14 +7717,14 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=YqtPrEb3yOY",
         "quiz": [
           {
-            "q": "What do plants use to make their own food?",
+            "q": "Which of these helps a plant grow?",
             "options": [
-              "Darkness and salt",
-              "Sunlight, water, and carbon dioxide",
-              "Soil only",
-              "Nothing — they eat insects"
+              "Loud music and toys",
+              "Candy and juice",
+              "Sunlight and water",
+              "Darkness and salt"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "A pulley helps lift...",
@@ -9065,12 +9065,12 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Water can become a gas called water vapour when it ___.",
+            "q": "What is it called when liquid water changes into water vapour in the air?",
             "options": [
-              "Turns into a rock",
-              "Evaporates and turns into a gas",
-              "Freezes solid",
-              "Becomes colder"
+              "Melting",
+              "Evaporation",
+              "Freezing",
+              "Condensation"
             ],
             "answer": 1
           }
@@ -10240,24 +10240,24 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which word correctly compares the tallest person in a whole class?",
+            "q": "Out of ten runners in a race, Ava finished ahead of all the others. Which word completes the sentence: Ava is the ___ runner?",
             "options": [
-              "Tallest",
-              "Tall",
-              "Talling",
-              "Taller"
+              "Fastest",
+              "Fast",
+              "Faster",
+              "Fasting"
             ],
             "answer": 0
           },
           {
-            "q": "If Sam is tall, Mia is taller, and Leo is the ___, Leo is the tallest of all three.",
+            "q": "Sam is tall, Mia is taller, and Leo is taller than both of them. Which word best describes Leo compared with all three children?",
             "options": [
-              "Tallness",
+              "Tall",
               "Taller",
-              "Tallest",
-              "Tall"
+              "Tallness",
+              "Tallest"
             ],
-            "answer": 2
+            "answer": 3
           }
         ],
         "worksheet": [
@@ -11016,14 +11016,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Skip counting by 2s always lands on ___ numbers.",
+            "q": "When you skip count by 2s starting at 0, you land on ___ numbers.",
             "options": [
               "Odd",
-              "Even",
               "Negative",
+              "Even",
               "Fraction"
             ],
-            "answer": 1
+            "answer": 2
           }
         ],
         "worksheet": [
@@ -11432,14 +11432,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Put these stages in order.",
+            "q": "Which list shows the stages of a plant life cycle in the correct order, starting at the beginning?",
             "options": [
-              "Seed, seedling, mature plant, flower",
               "Flower, seed, seedling, mature plant",
+              "Seed, seedling, mature plant, flower",
               "Seedling, flower, seed, mature plant",
               "Mature plant, flower, seed, seedling"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "A plant life cycle describes how a plant ___.",
@@ -18332,14 +18332,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "How many tens are in the number 156?",
+            "q": "In the number 156, which digit is in the tens place?",
             "options": [
-              "7",
+              "5",
               "1",
               "6",
-              "5"
+              "15"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "What is the value of the 7 in the number 273?",
@@ -20331,14 +20331,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Which pair of words shows alliteration?",
+            "q": "Which phrase shows alliteration?",
             "options": [
-              "Big blue balloon",
-              "Big blue kite",
-              "Big red balloon",
-              "Small blue balloon"
+              "Small red kite",
+              "Tall green frog",
+              "Warm sunny day",
+              "Busy bees buzz"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "Writers use alliteration to ___.",
@@ -21784,14 +21784,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which word is most often used along with like to form a simile?",
+            "q": "Besides the word like, which other word can be used to make a simile?",
             "options": [
               "The",
-              "As",
               "But",
+              "As",
               "And"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "Writers use similes to ___.",
@@ -23250,14 +23250,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "When two fractions have the same denominator, which fraction is greater?",
+            "q": "If a pizza is cut into 4 equal slices, which is more pizza: 3 slices or 1 slice?",
             "options": [
-              "The one written first",
-              "They are always equal",
-              "The one with the smaller numerator",
-              "The one with the larger numerator"
+              "1 slice",
+              "3 slices",
+              "They are the same amount",
+              "You cannot tell"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "Which is greater, two thirds or one third?",
@@ -23270,14 +23270,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "A fraction with a larger numerator and the same denominator represents ___.",
+            "q": "Sara ate one quarter of a sandwich and Ben ate three quarters of the same size sandwich. Who ate more?",
             "options": [
-              "No amount at all",
-              "The same amount",
-              "A greater amount",
-              "A smaller amount"
+              "Ben",
+              "Sara",
+              "They ate the same",
+              "Cannot tell"
             ],
-            "answer": 2
+            "answer": 0
           }
         ],
         "worksheet": [
@@ -24388,14 +24388,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Wind turbines and solar panels are used to capture ___.",
+            "q": "Wind turbines and solar panels get their energy from sources that ___.",
             "options": [
-              "Renewable energy from wind and sunlight",
-              "Energy from ocean salt only",
-              "Nonrenewable energy from coal",
-              "Energy from underground oil"
+              "Are burned like coal",
+              "Must be dug from deep underground",
+              "Are made from oil",
+              "Will not run out"
             ],
-            "answer": 0
+            "answer": 3
           }
         ],
         "worksheet": [
@@ -26312,42 +26312,42 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Counting%20to%20100%20by%20Ones%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What number comes right after 59?",
+            "q": "What number comes right after 459?",
             "options": [
-              "60",
-              "59",
-              "61",
-              "58"
+              "449",
+              "461",
+              "460",
+              "470"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What number comes right after 89?",
+            "q": "What number comes right after 299?",
             "options": [
-              "80",
-              "91",
-              "88",
-              "90"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What number comes right before 100?",
-            "options": [
-              "101",
-              "99",
-              "98",
-              "100"
+              "290",
+              "300",
+              "301",
+              "399"
             ],
             "answer": 1
           },
           {
-            "q": "Which number is greater, 75 or 57?",
+            "q": "What number comes right before 500?",
             "options": [
-              "57",
+              "499",
+              "501",
+              "490",
+              "400"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which number is greater, 725 or 752?",
+            "options": [
+              "725",
               "They are equal",
-              "Cannot tell",
-              "75"
+              "257",
+              "752"
             ],
             "answer": 3
           },
@@ -26517,14 +26517,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Non-profit organizations are focused on helping others rather than ___.",
+            "q": "A food bank gives food to families in need. What is its main goal?",
             "options": [
-              "Earning a profit for themselves",
-              "Working together with volunteers",
-              "Serving their community",
-              "Collecting donations"
+              "Making money for its owners",
+              "Selling toys to children",
+              "Helping people in the community",
+              "Building new roads"
             ],
-            "answer": 0
+            "answer": 2
           }
         ],
         "worksheet": [
@@ -26848,14 +26848,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Natural resources like forests and fresh water come directly from ___.",
+            "q": "Forests, fresh water, and minerals are all examples of what?",
             "options": [
-              "Nature",
-              "Factories only",
-              "Imagination only",
-              "Stores only"
+              "Things made by machines in factories",
+              "Things from nature that people use",
+              "Things sold only in stores",
+              "Things invented by people long ago"
             ],
-            "answer": 0
+            "answer": 1
           }
         ],
         "worksheet": [
@@ -28372,14 +28372,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which of these describes an acute angle?",
+            "q": "How many sides does a hexagon have?",
             "options": [
-              "Exactly equal to a right angle",
-              "Larger than a right angle",
-              "The same as a straight line",
-              "Smaller than a right angle"
+              "6",
+              "5",
+              "8",
+              "4"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "What is the rule for the pattern 2, 4, 6, 8?",
@@ -28454,24 +28454,24 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What is sedimentary rock?",
+            "q": "Which of these is a solid?",
             "options": [
-              "Rock that has no connection to layers",
-              "Rock formed from layers of sediment",
-              "Rock formed only from ice",
-              "Rock formed only from lava"
+              "Water",
+              "Milk",
+              "Juice",
+              "A rock"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Which of these is an example of a chemical change?",
+            "q": "Milk, juice, and water are all in which state of matter?",
             "options": [
-              "Burning wood",
-              "Folding paper",
-              "Cutting a piece of string",
-              "Bending a paperclip"
+              "Solid",
+              "Gas",
+              "Liquid",
+              "Steam"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "What is a biome?",
@@ -31751,14 +31751,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "What is 620 rounded to the nearest hundred?",
+            "q": "What is 5 tens + 3 ones?",
             "options": [
-              "650",
-              "500",
-              "600",
-              "700"
+              "35",
+              "53",
+              "8",
+              "503"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "Which fraction is equivalent to one half?",
@@ -33097,42 +33097,42 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Missing%20Numbers%3A%20Filling%20in%20the%20Gaps%20to%2020%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What number is missing between 7 and 9?",
+            "q": "What number is missing in this pattern: 10, 20, __, 40?",
             "options": [
-              "9",
-              "7",
-              "8",
-              "10"
+              "30",
+              "25",
+              "35",
+              "50"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "What number is missing between 14 and 16?",
+            "q": "What number is missing in this pattern: 5, 10, __, 20?",
             "options": [
-              "16",
-              "14",
-              "13",
+              "12",
+              "25",
+              "11",
               "15"
             ],
             "answer": 3
           },
           {
-            "q": "What number is missing between 3 and 5?",
+            "q": "What number is missing when counting by 2s: 2, 4, __, 8?",
             "options": [
               "5",
-              "4",
-              "3",
-              "6"
+              "7",
+              "6",
+              "3"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "What number is missing between 18 and 20?",
+            "q": "What number is missing when counting by 100s: 100, 200, __, 400?",
             "options": [
-              "20",
-              "19",
-              "17",
-              "18"
+              "250",
+              "300",
+              "350",
+              "500"
             ],
             "answer": 1
           },
@@ -33272,14 +33272,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "National emblems are different from a national flag because they ___.",
+            "q": "Which of these is an official national emblem of Canada?",
             "options": [
-              "Are always exactly the same as a flag",
-              "Have no connection to a country at all",
-              "Can include more detailed symbols and images",
-              "Cannot be used by a country"
+              "The beaver",
+              "A school logo",
+              "A hockey team logo",
+              "A toy brand"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "Learning about national emblems helps students understand ___.",
@@ -34108,14 +34108,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which sense would help you describe how fresh bread smells?",
+            "q": "You walk into a bakery and know that bread is baking before you see it. Which sense told you?",
             "options": [
-              "Smell",
               "Sight",
-              "Taste",
-              "Hearing"
+              "Touch",
+              "Hearing",
+              "Smell"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "Which sentence uses a sense detail about sound?",
@@ -34610,44 +34610,44 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Apostrophes%3A%20Contractions%20vs%20Possessives%20grade%202%20educational",
         "quiz": [
           {
-            "q": "In dont, why is an apostrophe used?",
+            "q": "In the word don’t, why is an apostrophe used?",
             "options": [
-              "To join two words into one",
-              "To end a sentence",
-              "It has no purpose",
-              "It shows a contraction is being made"
+              "To show the word is a question",
+              "To make the word plural",
+              "To show that a letter is left out",
+              "To show the word is a name"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "In the dogs bone, why is an apostrophe used?",
+            "q": "In the dog’s bone, why is an apostrophe used?",
             "options": [
-              "To join two words",
+              "To join two words into one",
+              "To show the bone belongs to the dog",
               "To end the sentence",
-              "To make a plural",
-              "To show the bone belongs to the dog"
+              "To make dogs plural"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "Which of these is a contraction?",
             "options": [
+              "Can’t",
               "Cats",
               "Cat",
-              "Cannot",
-              "Cant"
+              "Cannot"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "Which of these shows possession?",
             "options": [
-              "The girls shoes are new.",
               "Girls play.",
               "Two girls.",
-              "Girls run."
+              "Girls run.",
+              "The girl’s shoes are new."
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "An apostrophe used in a possessive noun shows ___.",
@@ -37120,14 +37120,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Apostrophes%2C%20Connections%2C%20and%20Word%20Study%20grade%202%20educational",
         "quiz": [
           {
-            "q": "In dont, why is an apostrophe used?",
+            "q": "In the word don’t, which letter does the apostrophe take the place of?",
             "options": [
-              "To join two words into one",
-              "It shows a contraction is being made",
-              "To end a sentence",
-              "It has no purpose"
+              "n",
+              "t",
+              "o",
+              "d"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "What does text-to-text mean?",
@@ -37319,14 +37319,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Crossing%20Guard%3A%20Helping%20Us%20Cross%20Safely%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What do we call a helper who stops traffic so people can cross the street safely?",
+            "q": "Which community helper wears a bright vest and stands at the corner near a school to help children get to class safely?",
             "options": [
               "A farmer",
-              "A mayor",
               "A crossing guard",
+              "A mayor",
               "A librarian"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "Where does a crossing guard usually stand to help people?",
@@ -38513,52 +38513,52 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Morning%2C%20Afternoon%2C%20and%20Night%20grade%202%20educational",
         "quiz": [
           {
-            "q": "When do we usually eat breakfast?",
+            "q": "What time does a clock show when the short hand points to 3 and the long hand points to 12?",
             "options": [
-              "Never",
-              "Only on weekends",
-              "In the morning",
-              "At night"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "When do we usually go to sleep?",
-            "options": [
-              "At lunchtime",
-              "In the morning",
-              "Never",
-              "At night"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which activity usually happens in the afternoon?",
-            "options": [
-              "Eating lunch",
-              "Sleeping all night",
-              "Eating breakfast",
-              "Waking up for the first time"
+              "3:00",
+              "12:03",
+              "3:12",
+              "12:15"
             ],
             "answer": 0
           },
           {
-            "q": "Putting the day in order, which comes first: morning, afternoon, or night?",
+            "q": "Which time is a half hour after 4:00?",
             "options": [
-              "Night",
-              "Morning",
-              "They happen at the same time",
-              "Afternoon"
+              "4:15",
+              "5:00",
+              "4:45",
+              "4:30"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What time is 15 minutes after 7:00?",
+            "options": [
+              "7:05",
+              "7:50",
+              "7:15",
+              "8:15"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which time is 5 minutes after 9:00?",
+            "options": [
+              "9:50",
+              "9:05",
+              "9:15",
+              "5:09"
             ],
             "answer": 1
           },
           {
-            "q": "Describing the parts of a day helps us understand ___.",
+            "q": "How many minutes are in one hour?",
             "options": [
-              "The order that daily events happen in",
-              "Only what happens on weekends",
-              "Nothing useful about our day",
-              "Only nighttime activities"
+              "60",
+              "30",
+              "100",
+              "12"
             ],
             "answer": 0
           }
@@ -39852,14 +39852,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What is foreshadowing?",
+            "q": "What is a synonym for the word big?",
             "options": [
-              "Hints about what will happen later in a story",
-              "The ending of a story",
-              "A characters name",
-              "The title of a book"
+              "Tiny",
+              "Small",
+              "Short",
+              "Large"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "What does it mean to visualize while reading?",
@@ -39912,14 +39912,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What is the median of the data set 2, 4, 6?",
+            "q": "Which number is the greatest: 34, 43, 29, or 40?",
             "options": [
-              "2",
-              "12",
-              "6",
-              "4"
+              "34",
+              "29",
+              "43",
+              "40"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
             "q": "If you wake up at 7:00 in the morning, is that AM or PM?",
@@ -40105,14 +40105,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "How many letters are in a three-letter blend like str?",
+            "q": "Which letters make the blend at the start of the word spring?",
             "options": [
-              "Three",
-              "Two",
-              "Four",
-              "Five"
+              "ring",
+              "spr",
+              "pri",
+              "ing"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "Which of these words has a three-letter blend?",
@@ -41559,54 +41559,54 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Subitizing%3A%20Knowing%20Amounts%20Without%20Counting%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What do we call knowing how many objects are in a group without counting one by one?",
+            "q": "What is 8 + 7?",
             "options": [
-              "Sorting",
-              "Subitizing",
-              "Measuring",
-              "Erasing"
+              "15",
+              "14",
+              "16",
+              "13"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "If you instantly know a group of 2 dots has 2 without counting, what skill are you using?",
+            "q": "What is 6 + 7?",
             "options": [
-              "Estimating length",
-              "Sorting",
-              "Subitizing",
-              "Skip counting"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is subitizing a helpful math skill?",
-            "options": [
-              "It only works with big numbers",
-              "It replaces counting forever",
-              "It makes numbers disappear",
-              "It helps us know an amount quickly"
+              "12",
+              "14",
+              "11",
+              "13"
             ],
             "answer": 3
           },
           {
-            "q": "Which group size is easiest to subitize without counting?",
+            "q": "What is 12 - 5?",
             "options": [
-              "A group with no objects",
-              "A small group like 3",
-              "A huge group like 100",
-              "An invisible group"
+              "6",
+              "8",
+              "7",
+              "17"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 14 - 6?",
+            "options": [
+              "7",
+              "8",
+              "9",
+              "20"
             ],
             "answer": 1
           },
           {
-            "q": "Subitizing works best with ___ groups of objects.",
+            "q": "What is double 8?",
             "options": [
-              "Invisible",
-              "Enormous",
-              "Small",
-              "Moving"
+              "16",
+              "14",
+              "18",
+              "80"
             ],
-            "answer": 2
+            "answer": 0
           }
         ],
         "worksheet": [
@@ -41885,52 +41885,52 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=One-to-One%20Correspondence%3A%20Touching%20and%20Counting%20Carefully%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does it mean to use one-to-one correspondence while counting?",
+            "q": "What is 24 + 10?",
             "options": [
-              "Never touching the objects",
-              "Counting only the biggest object",
-              "Touching every object many times",
-              "Touching each object exactly once as you count"
+              "25",
+              "14",
+              "44",
+              "34"
             ],
             "answer": 3
           },
           {
-            "q": "If you touch 4 toys once each while counting, what is the last number you say?",
+            "q": "What is 50 - 20?",
             "options": [
+              "70",
+              "20",
+              "30",
+              "40"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many tens are in 47?",
+            "options": [
+              "7",
               "4",
-              "5",
-              "1",
-              "3"
+              "40",
+              "47"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Count by 2s: 12, 14, 16, ___",
+            "options": [
+              "18",
+              "17",
+              "20",
+              "19"
             ],
             "answer": 0
           },
           {
-            "q": "Why is touching each object only once important while counting?",
+            "q": "Which number is greater, 58 or 85?",
             "options": [
-              "It has no effect on counting",
-              "It makes counting take longer for no reason",
-              "It changes how many objects there are",
-              "It helps you count accurately without mistakes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "If you skip touching one object while counting a group, what might happen?",
-            "options": [
-              "You will always get the right answer",
-              "Nothing changes at all",
-              "The objects will disappear",
-              "You might count one too few"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The last number word you say while counting objects one by one tells you ___.",
-            "options": [
-              "The colour of the objects",
-              "Nothing useful",
-              "The shape of the objects",
-              "How many objects there are in all"
+              "58",
+              "They are equal",
+              "27",
+              "85"
             ],
             "answer": 3
           }
@@ -42363,54 +42363,54 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Uppercase%20and%20Lowercase%20Letters%3A%20Matching%20Big%20and%20Small%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What do we call a big letter, like B?",
+            "q": "Which sentence uses capital letters correctly?",
             "options": [
-              "Lowercase",
-              "Numeral",
-              "Punctuation",
-              "Uppercase"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What do we call a small letter, like b?",
-            "options": [
-              "Lowercase",
-              "Uppercase",
-              "Numeral",
-              "Punctuation"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which of these is the lowercase match for the uppercase letter M?",
-            "options": [
-              "N",
-              "B",
-              "m",
-              "W"
+              "my friend sam lives in toronto.",
+              "My Friend sam Lives In toronto.",
+              "My friend Sam lives in Toronto.",
+              "my Friend Sam lives in Toronto."
             ],
             "answer": 2
           },
           {
-            "q": "Which of these is the uppercase match for the lowercase letter t?",
+            "q": "Which of these should always begin with a capital letter?",
             "options": [
-              "F",
-              "L",
-              "J",
-              "T"
+              "river",
+              "Ontario",
+              "apple",
+              "happy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which day name is written correctly?",
+            "options": [
+              "Monday",
+              "monday",
+              "mONday",
+              "MONday"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence begins correctly?",
+            "options": [
+              "the dog ran fast.",
+              "tHe dog ran fast.",
+              "the Dog ran fast.",
+              "The dog ran fast."
             ],
             "answer": 3
           },
           {
-            "q": "Uppercase letters are often used at the ___ of a sentence or name.",
+            "q": "Which word is always written with a capital letter?",
             "options": [
-              "Beginning",
-              "End only",
-              "Middle only",
-              "Never used"
+              "and",
+              "the",
+              "I",
+              "is"
             ],
-            "answer": 0
+            "answer": 2
           }
         ],
         "worksheet": [
@@ -42690,14 +42690,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What does an editorial cartoon share?",
+            "q": "Which sentence is a persuasive sentence?",
             "options": [
-              "Only facts with no opinion",
-              "A math problem",
-              "A weather forecast only",
-              "An opinion about a topic or event"
+              "The book has 200 pages.",
+              "You should read this book because it is funny.",
+              "The book is on the table.",
+              "I read the book on Monday."
             ],
-            "answer": 3
+            "answer": 1
           }
         ]
       },
@@ -42709,52 +42709,52 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Position%20Words%3A%20Above%2C%20Below%2C%20Inside%2C%20and%20Outside%20grade%202%20educational",
         "quiz": [
           {
-            "q": "If a cloud is floating over a house, where is the cloud?",
+            "q": "How many sides does a triangle have?",
             "options": [
-              "Above the house",
-              "Below the house",
-              "Inside the house",
-              "Under the ground"
+              "3",
+              "4",
+              "5",
+              "6"
             ],
             "answer": 0
           },
           {
-            "q": "If a ball is sitting under a table, where is the ball?",
+            "q": "Which shape has 4 equal sides and 4 square corners?",
             "options": [
-              "Above the table",
-              "Inside the table",
-              "Below the table",
-              "Outside the room"
+              "Circle",
+              "Triangle",
+              "Hexagon",
+              "Square"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many faces does a cube have?",
+            "options": [
+              "4",
+              "8",
+              "6",
+              "12"
             ],
             "answer": 2
           },
           {
-            "q": "If a book is inside a backpack, where is the book?",
+            "q": "Which shape has 5 sides?",
             "options": [
-              "Above the backpack",
-              "Inside the backpack",
-              "Below the backpack",
-              "Outside the backpack"
+              "Hexagon",
+              "Pentagon",
+              "Octagon",
+              "Triangle"
             ],
             "answer": 1
           },
           {
-            "q": "If a dog is standing outside a doghouse, where is the dog?",
+            "q": "Which 3-D object looks like a ball?",
             "options": [
-              "Outside the doghouse",
-              "Below the doghouse",
-              "Above the doghouse",
-              "Inside the doghouse"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Position words like above and below help us describe ___.",
-            "options": [
-              "Where something is located",
-              "What sound something makes",
-              "What colour something is",
-              "How heavy something is"
+              "Sphere",
+              "Cube",
+              "Cone",
+              "Pyramid"
             ],
             "answer": 0
           }
@@ -42969,14 +42969,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "How many letters are in a three-letter blend like spr?",
+            "q": "Count the letters in the blend spr. How many letters does it have?",
             "options": [
+              "Two",
               "Four",
               "Five",
-              "Three",
-              "Two"
+              "Three"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
             "q": "Which of these words has a three-letter blend?",
@@ -45643,12 +45643,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Government%2C%20Money%2C%20and%20Our%20Communities%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is the Senate?",
+            "q": "What does the Senate do in Canada’s government?",
             "options": [
-              "A city council",
-              "A group that reviews new laws",
-              "A part of Canadas government",
-              "A sports league"
+              "Runs a city council",
+              "Organizes sports leagues",
+              "Reviews new laws",
+              "Collects garbage"
             ],
             "answer": 2
           },
@@ -47068,14 +47068,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Do we usually read a page from top to bottom?",
+            "q": "When you finish reading a line of text, where do your eyes go next?",
             "options": [
-              "Never",
-              "Only sometimes",
-              "Yes",
-              "No"
+              "Back to the end of the same line",
+              "Back to the start of the next line",
+              "Up to the title",
+              "Off the edge of the page"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "Why is the return sweep an important print concept for new readers?",
@@ -48211,14 +48211,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What do perpendicular lines form where they cross?",
+            "q": "A square corner is called a right angle. How many right angles (square corners) does a rectangle have?",
             "options": [
-              "A circle",
-              "No angle at all",
-              "A right angle",
-              "A curve"
+              "4",
+              "1",
+              "2",
+              "3"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "What is 1/2 of a group of 8 objects?",
@@ -48563,14 +48563,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Bus%20Driver%3A%20Getting%20Us%20There%20Safely%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Who is responsible for driving the school bus?",
+            "q": "Who is the community helper who helps students get to school safely each day on the yellow vehicle?",
             "options": [
               "The principal",
               "A parent only",
-              "The bus driver",
-              "A student"
+              "A student",
+              "The bus driver"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
             "q": "What is the main job of a bus driver?",
@@ -50554,12 +50554,12 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What was the CN Tower once known as?",
+            "q": "For many years, what world record did the CN Tower hold?",
             "options": [
-              "A kind of park",
-              "A type of bridge",
-              "The tallest freestanding structure in the world",
-              "The smallest tower in Canada"
+              "Longest bridge in Canada",
+              "Largest park in Toronto",
+              "Tallest freestanding structure",
+              "Widest building in Ontario"
             ],
             "answer": 2
           },
@@ -50911,54 +50911,54 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Counting%20Backwards%20from%2010%20to%201%20grade%202%20educational",
         "quiz": [
           {
-            "q": "If you count backwards starting at 10, what number comes next?",
+            "q": "Count backwards by 10s from 50: 50, 40, 30, __. What number comes next?",
             "options": [
-              "11",
-              "8",
-              "9",
-              "7"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If you count backwards from 5, what number comes right after 5?",
-            "options": [
-              "3",
-              "6",
-              "4",
-              "10"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is the last number you say when counting backwards down to 1?",
-            "options": [
-              "1",
-              "0",
+              "20",
               "10",
-              "2"
+              "25",
+              "45"
             ],
             "answer": 0
           },
           {
-            "q": "Counting backwards from 10 to 1 is often used during a ___.",
+            "q": "Count backwards by 2s from 20: 20, 18, 16, __. What number comes next?",
             "options": [
-              "Story",
-              "Recipe",
-              "Countdown",
-              "Song"
+              "12",
+              "13",
+              "15",
+              "14"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Which list correctly shows numbers counting backwards from 5?",
+            "q": "Count backwards by 5s from 40: 40, 35, 30, 25, __. What number comes next?",
             "options": [
-              "5, 4, 3, 2, 1",
-              "1, 3, 5, 2, 4",
-              "1, 2, 3, 4, 5",
-              "5, 3, 1, 2, 4"
+              "15",
+              "20",
+              "10",
+              "30"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "Count backwards by 1s: 103, 102, 101, __. What number comes next?",
+            "options": [
+              "99",
+              "100",
+              "98",
+              "102"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which list correctly shows counting backwards by 10s from 60?",
+            "options": [
+              "60, 70, 80, 90, 100",
+              "60, 55, 50, 45, 40",
+              "20, 30, 40, 50, 60",
+              "60, 50, 40, 30, 20"
+            ],
+            "answer": 3
           }
         ],
         "worksheet": [
@@ -51096,12 +51096,12 @@ const curriculum: DayContent[] = [
           {
             "q": "Learning about Indigenous peoples helps us understand ___.",
             "options": [
-              "Only other countries",
-              "Nothing important",
-              "Only modern cities",
-              "Canadas history and the first peoples of the land"
+              "Canada’s history and its first peoples",
+              "Only places far from Canada",
+              "Nothing important about our country",
+              "Only modern cities and buildings"
             ],
-            "answer": 3
+            "answer": 0
           }
         ],
         "worksheet": [
@@ -51310,10 +51310,10 @@ const curriculum: DayContent[] = [
             "options": [
               "In the ocean",
               "In a nest in a tree",
-              "In a burrow made of ice",
-              "In its mothers pouch"
+              "In its mother’s pouch",
+              "In a burrow made of ice"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
             "q": "What continent are kangaroos most closely associated with?",
@@ -51378,11 +51378,11 @@ const curriculum: DayContent[] = [
             "q": "Why might border officials ask to see a passport?",
             "options": [
               "To collect stamps for fun only",
-              "To confirm a travelers identity and citizenship",
               "Passports are never checked",
-              "To sell the traveler something"
+              "To confirm a traveller’s identity",
+              "To sell the traveller something"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "A passport is an example of an official ___.",
@@ -51619,14 +51619,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Why might a country set aside a special day to honour a groups heritage?",
+            "q": "Why might a country set aside a special day to honour a group’s heritage?",
             "options": [
+              "To celebrate their history",
               "To replace their traditions with new ones",
               "Special days never have a purpose",
-              "To recognize and celebrate their history and contributions",
-              "To ignore their history completely"
+              "To make everyone forget the past"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "National Indigenous Peoples Day is an example of a ___.",
@@ -52728,14 +52728,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Complete the rhyme: The pig sat in the ___.",
+            "q": "Which word rhymes with \"cub\" and completes the sentence? The pig sat in the ___.",
             "options": [
-              "tub",
               "ten",
               "toe",
-              "top"
+              "top",
+              "tub"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "Word families share the same ___.",
@@ -53149,10 +53149,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What does the Royal Canadian Mint produce?",
             "options": [
-              "Canadas passports",
-              "Canadas coins",
-              "Canadas paper bills",
-              "Canadas stamps"
+              "Canada’s passports",
+              "Canada’s coins",
+              "Canada’s paper bills",
+              "Canada’s stamps"
             ],
             "answer": 1
           },
@@ -53271,22 +53271,22 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Fractions%2C%20Money%2C%20Time%2C%20Geometry%2C%20and%20Data%20grade%202%20educational",
         "quiz": [
           {
-            "q": "When subtracting fractions with the same denominator, what stays the same?",
+            "q": "A pizza is cut into 4 equal slices and 3 slices are eaten. What fraction of the pizza was eaten?",
             "options": [
-              "The denominator",
-              "Both numbers change",
-              "Nothing stays the same",
-              "The numerator"
+              "One-quarter",
+              "Three-quarters",
+              "One-half",
+              "Four-quarters"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What does each slice of a circle graph represent?",
+            "q": "On a bar graph, what does the height of a bar show?",
             "options": [
-              "A separate unrelated topic",
               "The title of the graph",
-              "A single dot of data",
-              "A part of the whole amount"
+              "The colour of the graph",
+              "The date it was made",
+              "How many there are"
             ],
             "answer": 3
           },
@@ -53431,12 +53431,12 @@ const curriculum: DayContent[] = [
           {
             "q": "What does the Royal Canadian Mint produce?",
             "options": [
-              "Canadas stamps",
-              "Canadas coins",
-              "Canadas paper bills",
-              "Canadas passports"
+              "Canada’s coins",
+              "Canada’s stamps",
+              "Canada’s paper bills",
+              "Canada’s passports"
             ],
-            "answer": 1
+            "answer": 0
           }
         ]
       }
@@ -53514,54 +53514,54 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Bonds%3A%20Ways%20to%20Make%206%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Which two numbers add together to make 6?",
+            "q": "Which two numbers add together to make 20?",
             "options": [
-              "2 and 5",
-              "1 and 1",
-              "3 and 4",
-              "2 and 4"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which two numbers add together to make 6?",
-            "options": [
-              "5 and 5",
-              "1 and 6",
-              "1 and 5",
-              "2 and 2"
+              "8 and 10",
+              "12 and 9",
+              "9 and 11",
+              "15 and 6"
             ],
             "answer": 2
           },
           {
-            "q": "Does 3 plus 3 also equal 6?",
+            "q": "Which two numbers add together to make 100?",
             "options": [
-              "Cannot tell",
-              "No",
-              "Only sometimes",
-              "Yes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which pair of numbers does NOT add together to make 6?",
-            "options": [
-              "3 and 3",
-              "2 and 4",
-              "1 and 5",
-              "2 and 5"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Learning different ways to make 6 helps us understand that a number can be made of ___.",
-            "options": [
-              "Only one possible combination",
-              "Only itself and zero",
-              "Different smaller number combinations",
-              "No smaller numbers at all"
+              "60 and 30",
+              "50 and 40",
+              "70 and 30",
+              "80 and 30"
             ],
             "answer": 2
+          },
+          {
+            "q": "What number goes in the blank: 13 + ___ = 20?",
+            "options": [
+              "7",
+              "6",
+              "8",
+              "9"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which pair of numbers does NOT add together to make 20?",
+            "options": [
+              "10 and 10",
+              "12 and 8",
+              "14 and 6",
+              "15 and 6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Knowing 8 + 12 = 20 also tells you that 20 - 12 equals ___.",
+            "options": [
+              "6",
+              "8",
+              "10",
+              "12"
+            ],
+            "answer": 1
           }
         ],
         "worksheet": [
@@ -53616,14 +53616,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What can often be found growing in a sloths fur?",
+            "q": "What can often be found growing in a sloth’s fur?",
             "options": [
-              "Algae",
               "Feathers",
-              "Moss made of glass",
+              "Algae",
+              "Seashells",
               "Coral"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "What type of animal is a sloth?",
@@ -53781,54 +53781,54 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Position%20Words%3A%20Left%20and%20Right%20grade%202%20educational",
         "quiz": [
           {
-            "q": "If a cup is sitting on the left side of a table, where is the cup?",
+            "q": "A dog starts on the home square of a grid map and moves 3 squares right, then 2 squares up. How many squares did it move in total?",
             "options": [
-              "Below the table",
-              "On the right side",
-              "On the left side",
-              "Above the table"
+              "4",
+              "6",
+              "1",
+              "5"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "If you point to the right, which direction are you pointing?",
+            "q": "A robot faces north and makes a quarter turn to the right. Which direction does it face now?",
             "options": [
-              "To the left side",
-              "To the right side",
-              "Straight down",
-              "Straight up"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which of these words describes a side or direction?",
-            "options": [
-              "Left",
-              "Loud",
-              "Cold",
-              "Sweet"
+              "East",
+              "South",
+              "West",
+              "North"
             ],
             "answer": 0
           },
           {
-            "q": "If a book is on your right side, where would you reach to find it?",
+            "q": "A robot faces north and makes a half turn. Which direction does it face now?",
             "options": [
-              "Above your head",
-              "To your left",
-              "To your right",
-              "Below your feet"
+              "East",
+              "West",
+              "South",
+              "North"
             ],
             "answer": 2
           },
           {
-            "q": "Position words like left and right help us describe ___.",
+            "q": "A ball is 2 squares to the right of the start on a grid. It moves 3 more squares to the right. How many squares to the right of the start is it now?",
             "options": [
-              "How heavy something is",
-              "What sound something makes",
-              "Where something is located",
-              "What colour something is"
+              "3",
+              "6",
+              "5",
+              "4"
             ],
             "answer": 2
+          },
+          {
+            "q": "Why are direction words like left, right, up, and down useful on a grid map?",
+            "options": [
+              "They help describe a path",
+              "They tell how heavy objects are",
+              "They tell what sound objects make",
+              "They tell the colour of objects"
+            ],
+            "answer": 0
           }
         ],
         "worksheet": [
@@ -54072,7 +54072,7 @@ const curriculum: DayContent[] = [
               "It cannot be estimated",
               "One-half"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "Is five-sixths closer to one-half or one whole?",
@@ -54125,14 +54125,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What might an elephants large ears help it do?",
+            "q": "What might an elephant’s large ears help it do?",
             "options": [
-              "Help it change colour",
-              "Help release heat and cool down",
-              "Help it fly",
-              "Help it breathe underwater"
+              "Change its colour",
+              "Help it fly high",
+              "Breathe underwater",
+              "Release extra heat to stay cool"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "Elephants are known for living together in groups called ___.",
@@ -54290,54 +54290,54 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20Numerals%3A%20Forming%20Numbers%200%20to%2010%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Which numeral comes right after 4?",
+            "q": "Which numeral comes right after 49?",
             "options": [
-              "5",
-              "3",
-              "6",
-              "7"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which numeral shows zero, meaning none at all?",
-            "options": [
-              "10",
-              "1",
-              "0",
-              "9"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "When writing numerals, it is helpful to practise forming each ___ correctly.",
-            "options": [
-              "Song",
-              "Number shape",
-              "Sound",
-              "Colour"
+              "48",
+              "50",
+              "51",
+              "59"
             ],
             "answer": 1
           },
           {
-            "q": "Which numeral comes right before 10?",
+            "q": "Which numeral shows three hundred twenty-five?",
             "options": [
-              "7",
-              "11",
-              "9",
-              "8"
+              "3025",
+              "325",
+              "352",
+              "3205"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Writing numerals from 0 to 10 helps us practise ___.",
+            "q": "What is 600 + 40 + 7 written as a numeral?",
             "options": [
-              "Singing a song",
-              "Naming colours",
-              "Drawing animals",
-              "Forming numbers correctly"
+              "6407",
+              "674",
+              "467",
+              "647"
             ],
             "answer": 3
+          },
+          {
+            "q": "Which numeral comes right before 100?",
+            "options": [
+              "99",
+              "101",
+              "90",
+              "98"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the value of the digit 5 in 758?",
+            "options": [
+              "5 ones",
+              "5 hundreds",
+              "5 tens",
+              "5 thousands"
+            ],
+            "answer": 2
           }
         ],
         "worksheet": [
@@ -54736,11 +54736,11 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Why might people watch the Olympics to support their countrys athletes?",
+            "q": "Why might people watch the Olympics to support their country’s athletes?",
             "options": [
               "Only athletes are allowed to watch",
-              "Olympics have no connection to countries",
-              "To cheer on athletes representing their country",
+              "Olympics have no link to any country",
+              "To cheer on athletes from their country",
               "People never watch the Olympics"
             ],
             "answer": 2
@@ -54830,11 +54830,11 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Calculating%20Age%20in%20Years%20and%20Months%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What two dates do you compare to calculate someones age?",
+            "q": "What two dates do you compare to calculate someone’s age?",
             "options": [
-              "Their birth date and todays date",
-              "Only the current month",
+              "Their birth date and today’s date",
               "Two random unrelated dates",
+              "Only the current month",
               "Only the current year"
             ],
             "answer": 0
@@ -54870,14 +54870,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Why might knowing someones exact age in years and months be useful?",
+            "q": "Why might knowing someone’s exact age in years and months be useful?",
             "options": [
               "It replaces the need for a birth date",
               "Months have no connection to age",
-              "It gives a more precise picture of how old someone is",
-              "Age never needs to be precise"
+              "Age never needs to be precise",
+              "It shows how old they are more precisely"
             ],
-            "answer": 2
+            "answer": 3
           }
         ],
         "topic": "Time & Money"
@@ -54913,11 +54913,11 @@ const curriculum: DayContent[] = [
             "q": "How does an earthworm help plants grow?",
             "options": [
               "By blocking sunlight",
+              "By mixing and loosening the soil",
               "By drying out the soil",
-              "By eating the plants leaves",
-              "By burrowing through and mixing the soil"
+              "By eating the plant’s leaves"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "An earthworm moves by ___.",
@@ -54993,14 +54993,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What tool do curling players use to help guide the stones path?",
+            "q": "What tool do curling players use to help guide the stone’s path?",
             "options": [
               "A paddle",
+              "A broom",
               "A hockey stick",
-              "A racket",
-              "A broom"
+              "A racket"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "Curling is best described as a popular Canadian ___.",
@@ -55098,14 +55098,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Time%2C%20Measurement%2C%20Fractions%2C%20and%20Geometry%20%E2%80%94%20A%20Final%20Grade%20Two%20Celebration%20grade%202%20educational",
         "quiz": [
           {
-            "q": "How many hours does the 24-hour clock count across a full day?",
+            "q": "How many hours are in one full day?",
             "options": [
               "12",
-              "24",
-              "100",
-              "60"
+              "60",
+              "48",
+              "24"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "What does volume measure?",
@@ -55487,14 +55487,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-2-language",
         "quiz": [
           {
-            "q": "Which word uses the suffix -ful correctly to mean 'full of'?",
+            "q": "Which word means \"full of care\"?",
             "options": [
-              "Care",
-              "Careless",
               "Careful",
+              "Cared",
+              "Careless",
               "Cares"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "What does the suffix -less mean at the end of a word like 'careless'?",
@@ -55838,14 +55838,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-2-social-studies",
         "quiz": [
           {
-            "q": "What kind of famous landmark is Niagara Falls?",
+            "q": "Niagara Falls is on the border between Ontario and the United States. What natural feature is it?",
             "options": [
-              "A waterfall",
-              "A tall tower",
               "A mountain range",
-              "A castle"
+              "A desert",
+              "A waterfall",
+              "A volcano"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "What is an 'early settler'?",
@@ -55944,14 +55944,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-2-mathematics",
         "quiz": [
           {
-            "q": "How many days are in one week?",
+            "q": "Which time is the same as \"quarter past 4\"?",
             "options": [
-              "10",
-              "5",
-              "30",
-              "7"
+              "4:45",
+              "4:15",
+              "3:45",
+              "4:30"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "What is 47 rounded to the nearest ten?",
@@ -56062,7 +56062,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Which public safety service is trained to put out fires?",
+            "q": "Which community helper wears heavy protective gear and rides a ladder truck to emergencies?",
             "options": [
               "Farmers",
               "Mail carriers",
@@ -56072,14 +56072,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which community helper's job is to deliver mail to homes?",
+            "q": "Which community helper brings letters and parcels to your front door?",
             "options": [
-              "Doctor",
               "Mail carrier",
+              "Doctor",
               "Chef",
               "Librarian"
             ],
-            "answer": 1
+            "answer": 0
           }
         ]
       }
@@ -56586,14 +56586,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "In the data set 2, 3, 3, 5, 3, 7, what is the mode?",
+            "q": "Tally marks show 5 votes for red, 3 for blue and 2 for green. Which colour got the most votes?",
             "options": [
-              "5",
-              "2",
-              "3",
-              "7"
+              "Green",
+              "Blue",
+              "They are all equal",
+              "Red"
             ],
-            "answer": 2
+            "answer": 3
           }
         ]
       },
@@ -56964,14 +56964,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-2-mathematics",
         "quiz": [
           {
-            "q": "What is 5 + 5?",
+            "q": "What is 36 + 28?",
             "options": [
-              "10",
-              "11",
-              "8",
-              "9"
+              "54",
+              "64",
+              "74",
+              "58"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "On a line plot, what does each X above a number represent?",
@@ -57586,14 +57586,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What is 6 x 7?",
+            "q": "There are 4 plates with 5 cookies on each plate. How many cookies are there in all?",
             "options": [
-              "36",
-              "42",
-              "48",
-              "49"
+              "20",
+              "9",
+              "25",
+              "15"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
             "q": "What do we call a diagram with two overlapping circles used to sort objects?",
@@ -57859,14 +57859,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What is a compound machine?",
+            "q": "Which of these is a simple machine?",
             "options": [
-              "A machine with no moving parts",
-              "A machine made by combining two or more simple machines",
-              "A machine that only works underwater",
-              "A living thing that moves on its own"
+              "A sandwich",
+              "A pillow",
+              "A ramp",
+              "A cloud"
             ],
-            "answer": 1
+            "answer": 2
           }
         ]
       },
@@ -57945,14 +57945,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which word is formed by adding -tion to the word direct?",
+            "q": "Which word is formed by adding -ion to the word direct?",
             "options": [
               "Directly",
-              "Direction",
               "Directness",
-              "Directing"
+              "Directing",
+              "Direction"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "Which word rhymes with wet?",
@@ -58063,14 +58063,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "What is a biome?",
+            "q": "What is a pond habitat?",
             "options": [
-              "A single type of food",
-              "A large area with its own climate, plants, and animals",
-              "A kind of musical instrument",
-              "A tool used for cutting"
+              "A hot desert with no water at all",
+              "A frozen field with no living things",
+              "A small pool with water plants and animals",
+              "A tall building where people work"
             ],
-            "answer": 1
+            "answer": 2
           }
         ]
       },
@@ -58218,14 +58218,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "In the fraction 3/4, what is the number 4 called?",
+            "q": "A pizza is cut into 4 equal slices and you eat 1 slice. What fraction of the pizza did you eat?",
             "options": [
-              "Numerator",
-              "Denominator",
-              "Product",
-              "Sum"
+              "One half",
+              "One third",
+              "One whole",
+              "One quarter"
             ],
-            "answer": 1
+            "answer": 3
           }
         ]
       },
@@ -58373,14 +58373,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Which word is an adverb formed by adding -ly to an adjective?",
+            "q": "Which word describes HOW someone sings, as in \"She sang ___\"?",
             "options": [
-              "Happily",
               "Happy",
               "Happiness",
-              "Happier"
+              "Happier",
+              "Happily"
             ],
-            "answer": 0
+            "answer": 3
           }
         ]
       },
@@ -58392,24 +58392,24 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-2-mathematics",
         "quiz": [
           {
-            "q": "What word describes a cup with no water in it?",
+            "q": "Which unit would you use to measure how much water a bathtub holds?",
             "options": [
-              "Empty",
-              "Half full",
-              "Heavy",
-              "Full"
+              "Centimetres",
+              "Litres",
+              "Kilograms",
+              "Minutes"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "A glass with water filled all the way to the top is best described as what?",
+            "q": "Which holds more, a 1-litre bottle or a 250-millilitre cup?",
             "options": [
-              "Full",
-              "Empty",
-              "Half full",
-              "Broken"
+              "The cup",
+              "The bottle",
+              "They hold the same amount",
+              "Cannot be compared"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "On a picture graph, what does each picture usually represent?",
@@ -58451,12 +58451,12 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "What is symbiosis?",
+            "q": "What do bees collect from flowers?",
             "options": [
-              "When two living things help each other",
-              "When one animal eats another",
-              "When an animal moves to a new habitat",
-              "When an animal hides using camouflage"
+              "Nectar and pollen",
+              "Wood for nests",
+              "Salt crystals",
+              "Seeds to plant"
             ],
             "answer": 0
           },
@@ -59179,14 +59179,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "In dont, why is an apostrophe used?",
+            "q": "In the word don’t, why is an apostrophe used?",
             "options": [
-              "To join two words into one",
+              "To show letters are left out",
               "To end a sentence",
-              "It has no purpose",
-              "It shows a contraction is being made"
+              "To ask a question",
+              "To show a number"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "How many syllables are in the word butterfly?",
@@ -61403,14 +61403,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-2-language",
         "quiz": [
           {
-            "q": "What is hyperbole?",
+            "q": "Which sentence uses a describing word (adjective) to tell about a dog?",
             "options": [
-              "A silent letter",
-              "A true, exact statement",
-              "A type of punctuation",
-              "An extreme exaggeration"
+              "The dog ran home.",
+              "Run home quickly.",
+              "The fluffy dog ran home.",
+              "The dog and the cat."
             ],
-            "answer": 3
+            "answer": 2
           },
           {
             "q": "Every good story needs a beginning, middle, and ___?",
@@ -62035,14 +62035,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What does a reflexive pronoun do?",
+            "q": "Which word is a pronoun that can take the place of the name \"Sam\"?",
             "options": [
-              "Names a place",
-              "Refers back to the subject of the sentence",
-              "Asks a question",
-              "Shows an action only"
+              "Run",
+              "Happy",
+              "He",
+              "Table"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "In the word 'sun', what is the onset — the beginning sound?",
@@ -62443,14 +62443,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Which pronoun is a reflexive pronoun?",
+            "q": "Which word is a pronoun that can take the place of \"Mom and I\"?",
             "options": [
-              "She",
-              "Myself",
-              "They",
-              "It"
+              "We",
+              "Jump",
+              "Green",
+              "Book"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
             "q": "How does adding a silent e change the word 'cap' into 'cape'?",
@@ -62492,14 +62492,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "When subtracting fractions with the same denominator, what stays the same?",
+            "q": "A sandwich is cut into 2 equal pieces and you eat 1 piece. What fraction of the sandwich did you eat?",
             "options": [
-              "The denominator",
-              "Both numbers change",
-              "Nothing stays the same",
-              "The numerator"
+              "1/3",
+              "2/1",
+              "1/4",
+              "1/2"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "In the picture, the cat is standing to the left of the dog. Which animal is on the right?",
@@ -62676,34 +62676,34 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-2-mathematics",
         "quiz": [
           {
-            "q": "What are benchmark fractions used for?",
+            "q": "A shape is cut into 3 equal parts and 1 part is shaded. What fraction is shaded?",
             "options": [
-              "Multiplying whole numbers only",
-              "Measuring temperature",
-              "Helping estimate how close another fraction is to a reference point",
-              "Telling time"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If a toy costs $2.85, about how much is that rounded to the nearest dollar?",
-            "options": [
-              "$2",
-              "$3",
-              "$4",
-              "$5"
+              "1/2",
+              "1/3",
+              "3/1",
+              "1/4"
             ],
             "answer": 1
           },
           {
-            "q": "Which numeral comes right after 4?",
+            "q": "A toy costs 45 cents and a sticker costs 30 cents. How much do they cost together?",
             "options": [
-              "5",
-              "3",
-              "6",
-              "7"
+              "65 cents",
+              "75 cents",
+              "85 cents",
+              "70 cents"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "What number comes next in the pattern 98, 99, 100, ___?",
+            "options": [
+              "110",
+              "1000",
+              "200",
+              "101"
+            ],
+            "answer": 3
           },
           {
             "q": "Which child is older: one who is 7 years 10 months old, or one who is 8 years 1 month old?",
