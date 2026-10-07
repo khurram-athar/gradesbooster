@@ -27095,7 +27095,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=-catJZm_2TI"
       },
       {
         "subject": "Math",
@@ -27154,6 +27155,17 @@ const curriculum: DayContent[] = [
               "0"
             ],
             "answer": 2
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ox06qIV2c1U",
+        "videoUrls": [
+          {
+            "label": "Power of a Power",
+            "url": "https://www.youtube.com/watch?v=ox06qIV2c1U"
+          },
+          {
+            "label": "Zero Exponent Rule",
+            "url": "https://www.youtube.com/watch?v=AYb19ndyWss"
           }
         ]
       },
@@ -27215,7 +27227,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Space & Astronomy"
+        "topic": "Space & Astronomy",
+        "videoUrl": "https://www.youtube.com/watch?v=tcGEjzt_4is"
       },
       {
         "subject": "History",
@@ -27275,7 +27288,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Government & Civics"
+        "topic": "Government & Civics",
+        "videoUrl": "https://www.youtube.com/watch?v=n8qbmsCoQkw"
       }
     ]
   },

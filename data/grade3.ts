@@ -27029,7 +27029,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=piAwuADrC3Y"
       },
       {
         "subject": "Math",
@@ -27089,7 +27090,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Patterning"
+        "topic": "Patterning",
+        "videoUrl": "https://www.youtube.com/watch?v=MBjjxSx45-Q"
       },
       {
         "subject": "Science",
@@ -27149,7 +27151,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Earth Materials & Land (Basic)"
+        "topic": "Earth Materials & Land (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=oNWAerr_xEE"
       },
       {
         "subject": "SocialStudies",

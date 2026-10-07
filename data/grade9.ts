@@ -26992,7 +26992,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=ZrhJtKd5YiI"
       },
       {
         "subject": "Math",
@@ -27052,7 +27053,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=-us3-W-zJ9w"
       },
       {
         "subject": "Science",
@@ -27112,7 +27114,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=nVooyj73dwA"
       },
       {
         "subject": "SocialStudies",
@@ -27172,7 +27175,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Population & Urbanization"
+        "topic": "Population & Urbanization",
+        "videoUrl": "https://www.youtube.com/watch?v=bANfnYDTzxE"
       }
     ]
   },
@@ -27238,7 +27242,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=Uy0vsmoBa_c"
       },
       {
         "subject": "Math",
@@ -27298,7 +27303,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=P1f3sJpIYGI"
       },
       {
         "subject": "Science",
@@ -27357,7 +27363,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=mzQEV9A99C4"
       },
       {
         "subject": "SocialStudies",
@@ -27416,7 +27423,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=HQTUWK7CM-Y"
       }
     ]
   },

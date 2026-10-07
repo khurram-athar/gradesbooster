@@ -27053,7 +27053,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=98pNh3LtV8c"
       },
       {
         "subject": "Math",
@@ -27113,7 +27114,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Place Value & Number Sense",
+        "videoUrl": "https://www.youtube.com/watch?v=Ph5UI0wwq1A"
       },
       {
         "subject": "Science",
@@ -27173,7 +27175,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Animal Adaptations & Behaviour"
+        "topic": "Animal Adaptations & Behaviour",
+        "videoUrl": "https://www.youtube.com/watch?v=Mc3YIrs19fw"
       },
       {
         "subject": "SocialStudies",
@@ -27233,7 +27236,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Canadian Places & Symbols (Basic)"
+        "topic": "Canadian Places & Symbols (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=ys80Xc-esrU"
       }
     ]
   },

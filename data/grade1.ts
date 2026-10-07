@@ -33613,7 +33613,8 @@ const curriculum: DayContent[] = [
               "so the story has a plot"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=RGzKUdWkcAs"
       },
       {
         "subject": "Math",
@@ -33695,7 +33696,8 @@ const curriculum: DayContent[] = [
               "13 minus 7 equals 6"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=AMLRFww0qJg"
       },
       {
         "subject": "Science",
@@ -33777,7 +33779,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=Xz02S-CizAU"
       },
       {
         "subject": "SocialStudies",
@@ -33837,7 +33840,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ajLqOJrRLqI"
       }
     ]
   },

@@ -26674,7 +26674,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=amXU8Kt2W_c"
       },
       {
         "subject": "AdvancedFunctions",
@@ -26734,7 +26735,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=irSg7rstDf0"
       },
       {
         "subject": "Calculus",
@@ -26793,7 +26795,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=a9negsQP2qI"
       },
       {
         "subject": "Physics",
@@ -26852,7 +26855,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Bv9ry123zck"
       }
     ]
   },
@@ -26917,7 +26921,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ESr46dyoZGQ"
       },
       {
         "subject": "AdvancedFunctions",
@@ -26977,7 +26982,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=SVOwVzYgync"
       },
       {
         "subject": "Calculus",
@@ -27037,7 +27043,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Calculus: Related Rates"
+        "topic": "Calculus: Related Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=OvRddLaHsZM"
       },
       {
         "subject": "Physics",
@@ -27095,6 +27102,17 @@ const curriculum: DayContent[] = [
               "A stronger electric field"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=AtbaYUYTawg",
+        "videoUrls": [
+          {
+            "label": "Electric Field Lines",
+            "url": "https://www.youtube.com/watch?v=AtbaYUYTawg"
+          },
+          {
+            "label": "Equipotential Surfaces",
+            "url": "https://www.youtube.com/watch?v=KJSgRc9_zBs"
           }
         ]
       }

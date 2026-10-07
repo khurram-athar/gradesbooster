@@ -26820,7 +26820,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=CldCPLLm3VY"
       },
       {
         "subject": "Functions",
@@ -26880,7 +26881,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=4XytYH35AP0"
       },
       {
         "subject": "Biology",
@@ -26940,7 +26942,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Plants & Photosynthesis"
+        "topic": "Plants & Photosynthesis",
+        "videoUrl": "https://www.youtube.com/watch?v=NiT8C_Kb-eo"
       },
       {
         "subject": "Chemistry",
@@ -27000,7 +27003,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Atoms, Elements & Compounds"
+        "topic": "Atoms, Elements & Compounds",
+        "videoUrl": "https://www.youtube.com/watch?v=HkSXiHz9vUc"
       }
     ]
   },
@@ -27065,7 +27069,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=P3l0zFqCSIc"
       },
       {
         "subject": "Functions",
@@ -27125,7 +27130,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Exponents & Powers"
+        "topic": "Exponents & Powers",
+        "videoUrl": "https://www.youtube.com/watch?v=S-7bj2C1PSM"
       },
       {
         "subject": "Biology",
@@ -27185,7 +27191,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Forces & Motion"
+        "topic": "Forces & Motion",
+        "videoUrl": "https://www.youtube.com/watch?v=5Yyx5S7AUnI"
       },
       {
         "subject": "Chemistry",
@@ -27244,7 +27251,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=lGfDCZJJfuo"
       }
     ]
   },

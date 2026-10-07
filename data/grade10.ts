@@ -26747,7 +26747,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=zu02h8IVkTk"
       },
       {
         "subject": "Math",
@@ -26807,7 +26808,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YyAtUktDU4Q"
       },
       {
         "subject": "Science",
@@ -26867,7 +26869,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Atoms, Elements & Compounds"
+        "topic": "Atoms, Elements & Compounds",
+        "videoUrl": "https://www.youtube.com/watch?v=nijb6UMvZuE"
       },
       {
         "subject": "History",
@@ -26926,7 +26929,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=rVtkZHnJedw"
       }
     ]
   },
@@ -26992,7 +26996,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=45p8EZpiJEM"
       },
       {
         "subject": "Math",
@@ -27052,7 +27057,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=BH0PpP73IdE"
       },
       {
         "subject": "Science",
@@ -27112,7 +27118,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Genetics & Heredity"
+        "topic": "Genetics & Heredity",
+        "videoUrl": "https://www.youtube.com/watch?v=7W17xH62MVA"
       },
       {
         "subject": "History",
@@ -27172,7 +27179,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "World War I"
+        "topic": "World War I",
+        "videoUrl": "https://www.youtube.com/watch?v=UY4vTBQTpUA"
       }
     ]
   },

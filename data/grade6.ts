@@ -27136,7 +27136,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=wESgTu9Q5qc"
       },
       {
         "subject": "Math",
@@ -27196,7 +27197,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Time & Money"
+        "topic": "Time & Money",
+        "videoUrl": "https://www.youtube.com/watch?v=zAo2dyOChYc"
       },
       {
         "subject": "Science",
@@ -27255,7 +27257,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Yjtgu2CxtEk"
       },
       {
         "subject": "SocialStudies",
@@ -27314,7 +27317,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=8JWoER_Vle0"
       }
     ]
   },

@@ -26672,7 +26672,8 @@
             "answer": 0
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=amXU8Kt2W_c"
       },
       {
         "subject": "AdvancedFunctions",
@@ -26732,7 +26733,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=irSg7rstDf0"
       },
       {
         "subject": "Calculus",
@@ -26791,7 +26793,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=a9negsQP2qI"
       },
       {
         "subject": "Physics",
@@ -26850,7 +26853,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Bv9ry123zck"
       }
     ]
   },
@@ -26915,7 +26919,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ESr46dyoZGQ"
       },
       {
         "subject": "AdvancedFunctions",
@@ -26975,7 +26980,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=SVOwVzYgync"
       },
       {
         "subject": "Calculus",
@@ -27035,7 +27041,8 @@
             "answer": 3
           }
         ],
-        "topic": "Calculus: Related Rates"
+        "topic": "Calculus: Related Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=OvRddLaHsZM"
       },
       {
         "subject": "Physics",
@@ -27093,6 +27100,17 @@
               "A stronger electric field"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=AtbaYUYTawg",
+        "videoUrls": [
+          {
+            "label": "Electric Field Lines",
+            "url": "https://www.youtube.com/watch?v=AtbaYUYTawg"
+          },
+          {
+            "label": "Equipotential Surfaces",
+            "url": "https://www.youtube.com/watch?v=KJSgRc9_zBs"
           }
         ]
       }
