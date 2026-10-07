@@ -372,7 +372,7 @@ const curriculum: DayContent[] = [
               "15%",
               "25%"
             ],
-            "answer": 0
+            "answer": 3
           }
         ],
         "topic": "Percentages"
@@ -1674,14 +1674,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Urban areas tend to be warmer than surrounding rural areas due to the...",
+            "q": "Why are cities often warmer than the surrounding countryside?",
             "options": [
-              "Greenhouse effect only",
-              "Ocean current effect",
-              "Urban heat island effect",
-              "Polar effect"
+              "Cities are closer to the equator than rural areas",
+              "Pavement and buildings absorb and hold heat, and there are fewer plants",
+              "Ocean currents flow through city streets",
+              "Rural areas receive less sunlight each day"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "Melting polar ice is linked to...",
@@ -5090,7 +5090,7 @@ const curriculum: DayContent[] = [
               "x=5",
               "x=3"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "Solve: 5x + 2 = 27",
@@ -5359,7 +5359,7 @@ const curriculum: DayContent[] = [
               "20",
               "10"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "What is the mode of 4, 4, 6, 8, 8, 8?",
@@ -7633,14 +7633,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Simplify: 4x + 2y minus x + 3y.",
+            "q": "Simplify: 4x + 2y + 3y − x.",
             "options": [
+              "3x + 5y",
               "3x + y",
               "5x + 5y",
-              "4x + 5y",
-              "3x + 5y"
+              "4x + 5y"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "Like terms are terms that ___.",
@@ -7909,7 +7909,7 @@ const curriculum: DayContent[] = [
               "m = 3",
               "m = 4"
             ],
-            "answer": 0
+            "answer": 3
           }
         ],
         "topic": "Equations & Inequalities"
@@ -8943,14 +8943,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "During respiration, living things release ___ back into the atmosphere.",
+            "q": "During cellular respiration, which carbon-containing gas do living things release back into the atmosphere?",
             "options": [
+              "Oxygen",
+              "Nitrogen",
               "Carbon dioxide",
-              "Nitrogen only",
-              "Oxygen only",
               "Water vapour"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "Decomposition contributes to the carbon cycle by ___.",
@@ -10477,14 +10477,14 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=5miQt1dhEjo",
         "quiz": [
           {
-            "q": "The Constitution Act was passed in which year?",
+            "q": "The Constitution Act that patriated Canada’s constitution and added the Charter of Rights and Freedoms was passed in which year?",
             "options": [
               "1931",
-              "1867",
               "1982",
-              "1867 and 1931 only"
+              "1867",
+              "1945"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "Patriating the constitution meant Canada could ___.",
@@ -11187,14 +11187,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Name one trait that can be inherited from parents, such as eye colour.",
+            "q": "Which of these traits is most likely to be inherited from a person’s parents?",
             "options": [
-              "Eye colour",
               "A favourite food",
-              "A person's native language",
-              "A learned skill like riding a bike"
+              "A native language spoken at home",
+              "A learned skill like riding a bike",
+              "Hair texture"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "Is genetic information passed down from both parents?",
@@ -11565,14 +11565,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Placing two images back-to-back so viewers search for a connection between them is called ___.",
+            "q": "Which editing technique shows a character looking at something and then cuts to what they are looking at?",
             "options": [
-              "A cut on action",
-              "Intellectual montage",
-              "A blank screen",
-              "An eyeline match"
+              "A fade to black",
+              "A freeze frame",
+              "An eyeline match",
+              "A voice-over"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "Why might an editor use a split edit (J cut or L cut) in a dialogue scene?",
@@ -12871,8 +12871,8 @@ const curriculum: DayContent[] = [
             "options": [
               "“running, jumping, and to climb”",
               "“running, jumping, and climbing”",
-              "swimming, to bike, and racing",
-              "“to run, to jump, and to climb”"
+              "“to run, to jump, and to climb”",
+              "“swimming, biking, and racing”"
             ],
             "answer": 0
           }
@@ -14167,24 +14167,24 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What is 3,406 written in expanded form?",
+            "q": "Write 0.0046 in expanded form using powers of 10.",
             "options": [
-              "3,000 + 400 + 6",
-              "3,000 + 406",
-              "3,000 + 40 + 6",
-              "300 + 40 + 6"
+              "4 × 10⁻² + 6 × 10⁻³",
+              "4 × 10³ + 6 × 10⁴",
+              "4 × 10⁻³ + 6 × 10⁻⁴",
+              "46 × 10⁻³"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What is 2,000 + 300 + 70 + 5 written in standard form?",
+            "q": "What is 3.2 × 10⁵ written in standard form?",
             "options": [
-              "23,075",
-              "375",
-              "2,357",
-              "2,375"
+              "320,000",
+              "32,000",
+              "3,200,000",
+              "3,200"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "Why might expanded form be useful when teaching place value?",
@@ -15233,12 +15233,12 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=x49BtB5dOwg",
         "quiz": [
           {
-            "q": "Name one sign that a chemical reaction may have occurred, such as bubbles forming.",
+            "q": "Two clear liquids are mixed. Which observation is the best evidence that a chemical reaction has occurred?",
             "options": [
-              "The object staying exactly the same",
-              "The object changing colour permanently",
-              "Nothing happening at all",
-              "Bubbles forming"
+              "The liquids are stirred together smoothly",
+              "The mixture is poured into a new container",
+              "The mixture stays the same temperature",
+              "Gas bubbles form and the mixture gets warmer"
             ],
             "answer": 3
           },
@@ -16750,14 +16750,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Can an invasive species compete with native species for food or space?",
+            "q": "Which effect on native species is most commonly caused by an invasive species?",
             "options": [
-              "Yes",
-              "Invasive species always help native species",
-              "No, invasive species never affect native species",
-              "Native species always immediately eliminate any invaders"
+              "It always provides extra food for native species",
+              "It competes with native species for food and space",
+              "It has no effect on native species",
+              "It is quickly eliminated by native species"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "Is an invasive species originally from the environment it is found in, or introduced from elsewhere?",
@@ -16820,14 +16820,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Name one issue an NGO might address, such as poverty or health.",
+            "q": "Which of these is an issue that an international NGO such as Médecins Sans Frontières or Oxfam would most likely address?",
             "options": [
-              "Corporate tax policy for large banks",
-              "A single family’s vacation plans",
-              "Poverty",
-              "A local school’s lunch menu"
+              "Setting corporate tax rates for banks",
+              "Planning a single family’s vacation",
+              "Choosing a company’s logo colours",
+              "Providing emergency health care"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
             "q": "Why might an NGO choose to work across many different countries?",
@@ -18214,12 +18214,12 @@ const curriculum: DayContent[] = [
           {
             "q": "Which sentence shows correct pronoun-antecedent agreement?",
             "options": [
-              "The girls packed their bags for the trip.",
               "The girls packed her bags for the trip.",
+              "The girls packed their bags for the trip.",
               "The girl packed their bags for the trip.",
-              "The girl packed her bag for the trip, and then she left."
+              "The girl packed its bag for the trip, and then she left."
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "If the antecedent is singular, the pronoun that replaces it must also be ___.",
@@ -18653,24 +18653,24 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Do trade agreements help set rules for buying and selling goods between countries?",
+            "q": "What is the main purpose of a trade agreement between countries?",
             "options": [
-              "Trade agreements only apply within one single country",
-              "Trade agreements only regulate currency exchange rates",
-              "They only apply to agreements about military defence",
-              "Yes"
+              "To set shared rules for buying and selling goods",
+              "To make all countries use the same currency",
+              "To combine the countries’ military forces",
+              "To merge the countries’ court systems"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Can trade organizations help trade run more smoothly between countries?",
+            "q": "Which is a way an organization such as the World Trade Organization (WTO) helps international trade?",
             "options": [
-              "Trade organizations only exist to collect membership fees from countries",
-              "Yes",
-              "Trade organizations decide which countries are allowed to exist",
-              "No, trade organizations always make trade more difficult"
+              "It decides which countries are allowed to exist",
+              "It sets the prices of all goods inside each country",
+              "It provides a forum to settle trade disputes between members",
+              "It collects taxes directly from citizens"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "Why might countries want shared rules for international trade instead of each having completely different rules?",
@@ -18741,12 +18741,12 @@ const curriculum: DayContent[] = [
           {
             "q": "Which sentence shows a clear cause-and-effect relationship?",
             "options": [
-              "She forgot her umbrella, so she got soaked in the rain.",
               "The umbrella and the raincoat were both new.",
-              "She likes umbrellas because they come in many colours",
+              "She forgot her umbrella, so she got soaked in the rain.",
+              "She likes umbrellas, and they come in many colours.",
               "She has a red umbrella and a blue raincoat."
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "Why is it useful for readers to identify cause-and-effect relationships in a text?",
@@ -19030,24 +19030,24 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Rounded to the nearest ten, 47 becomes ___.",
+            "q": "Estimate 49.6 × 4.9 by rounding each number to the nearest whole number. Which is the best estimate?",
             "options": [
-              "47",
-              "45",
-              "40",
-              "50"
+              "200",
+              "300",
+              "2,500",
+              "250"
             ],
             "answer": 3
           },
           {
-            "q": "Rounded to the nearest hundred, 342 becomes ___.",
+            "q": "A store sells 3 items priced at $19.95, $32.10 and $48.75. Which is the best estimate of the total cost?",
             "options": [
-              "350",
-              "300",
-              "400",
-              "320"
+              "$80",
+              "$120",
+              "$100",
+              "$150"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "Which situation would benefit most from an estimate rather than an exact answer?",
@@ -19423,14 +19423,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Does the Charter protect equality for all Canadians?",
+            "q": "Which section of the Canadian Charter of Rights and Freedoms guarantees equality rights to every individual?",
             "options": [
-              "Only some Canadians have any rights at all",
-              "Yes",
-              "No, the Charter protects no one",
-              "Only Canadian citizens born in Canada are protected"
+              "Section 15",
+              "Section 2",
+              "Section 3",
+              "Section 23"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
             "q": "Why might it be important for a country to have a constitution?",
@@ -20602,14 +20602,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Name one factor that can determine the pitch of a vibrating string, such as its length.",
+            "q": "Which of the following is a factor that can change the pitch of a vibrating string?",
             "options": [
-              "Its length",
               "Its colour",
               "Its smell",
-              "Its exact temperature in degrees"
+              "Its length",
+              "The brand name printed on it"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "Does a shorter, tighter string typically produce a higher or lower pitch?",
@@ -20852,14 +20852,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Name one strategy used in green architecture, such as solar panels.",
+            "q": "Which of these is a strategy used in green architecture to reduce a building’s environmental impact?",
             "options": [
+              "Solar panels",
               "Wasting as much energy as possible",
               "Ignoring insulation completely",
-              "Solar panels",
               "Adding more windows to increase heat loss"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "Can efficient insulation help reduce a building’s energy use?",
@@ -21451,12 +21451,12 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "On what date is Canada Day celebrated?",
+            "q": "Which document, passed in 1982, entrenched the Canadian Charter of Rights and Freedoms in Canada’s Constitution?",
             "options": [
-              "December 25",
-              "January 1",
-              "November 11",
-              "July 1"
+              "The Statute of Westminster",
+              "The Official Languages Act",
+              "The Indian Act",
+              "The Constitution Act, 1982"
             ],
             "answer": 3
           }
@@ -21618,14 +21618,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Name one gland that is part of the endocrine system, such as the thyroid.",
+            "q": "Which of these is a gland of the endocrine system?",
             "options": [
-              "The thyroid gland",
               "The bladder",
-              "The stomach",
-              "The lungs"
+              "The thyroid gland",
+              "The lungs",
+              "The windpipe"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "Why is it important for hormones to travel through the bloodstream to reach different parts of the body?",
@@ -21868,14 +21868,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Besides lift and drag, name one other force involved in flight, such as thrust or gravity.",
+            "q": "Besides lift and drag, which other force acts on an airplane in flight?",
             "options": [
               "Torque",
-              "Thrust",
               "Sound",
-              "Light"
+              "Light",
+              "Thrust"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "Why is the shape of an airplane’s wing important for generating lift?",
@@ -23867,14 +23867,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Name one other type of animal defense mechanism besides camouflage, such as mimicry.",
+            "q": "Which of these is an animal defense mechanism in which a harmless species looks like a dangerous or unpleasant one?",
             "options": [
+              "Hibernation",
               "Mimicry",
-              "Loud colours meant to attract every predator",
-              "Standing perfectly still in bright open spaces",
-              "Migration"
+              "Migration",
+              "Pollination"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "Can warning colouration help signal to predators that an animal might be dangerous or unpleasant to eat?",
@@ -24868,7 +24868,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Name one example of a keystone species, such as the sea otter.",
+            "q": "Which of these animals is a well-known example of a keystone species in kelp forest ecosystems?",
             "options": [
               "The sea otter",
               "A house cat",
@@ -26131,14 +26131,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Name one type of microorganism, such as bacteria.",
+            "q": "Which of these is a type of microorganism?",
             "options": [
               "A dog",
               "A bird",
-              "A cat",
-              "Bacteria"
+              "Bacteria",
+              "A cat"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
             "q": "Can some microorganisms be helpful, such as by aiding in decomposition or fermentation?",
@@ -26835,14 +26835,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "How do you find the probability of two mutually exclusive events happening?",
+            "q": "How do you find the probability that EITHER of two mutually exclusive events occurs?",
             "options": [
-              "Add their individual probabilities",
               "Subtract one probability from the other",
+              "Add their individual probabilities",
               "Multiply their individual probabilities together",
               "Divide one probability by the other"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "On a single die roll, what is the probability of rolling a 2 or a 3?",
@@ -27555,12 +27555,12 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=FeP-EVRW-RA",
         "quiz": [
           {
-            "q": "What property is applied when multiplying a monomial by a polynomial?",
+            "q": "Which property lets you write 3(x + 4) as 3x + 12?",
             "options": [
               "The distributive property",
-              "The associative property only",
-              "The property of combining like terms directly",
-              "The property of subtraction"
+              "The commutative property",
+              "The associative property",
+              "The identity property"
             ],
             "answer": 0
           },
@@ -27878,14 +27878,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which part of the eye controls how much light enters?",
+            "q": "Which part of the eye changes size to control how much light enters?",
             "options": [
-              "The eyebrow",
-              "The pupil",
-              "The eyelash",
-              "The earlobe"
+              "The cornea",
+              "The sclera",
+              "The optic nerve",
+              "The pupil"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "Why might a person need glasses?",
@@ -27898,12 +27898,12 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Vision is processed and interpreted by which organ?",
+            "q": "Which structure carries visual signals from the retina to the brain?",
             "options": [
-              "The stomach",
-              "The liver",
-              "The brain",
-              "The lungs"
+              "The cornea",
+              "The iris",
+              "The optic nerve",
+              "The lens"
             ],
             "answer": 2
           }
@@ -29053,14 +29053,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What do significant figures indicate in a measurement?",
+            "q": "Which measurement of a pencil is the most precise?",
             "options": [
-              "Nothing meaningful at all",
-              "The reliable, meaningful digits in a number",
-              "Only the first digit of any number",
-              "The total number of digits after a decimal only"
+              "15.23 cm",
+              "About 15 cm",
+              "15.2 cm",
+              "Between 14 and 16 cm"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
             "q": "Why do scientists care about precision and accuracy?",
@@ -30003,12 +30003,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
         "quiz": [
           {
-            "q": "What is the angle of elevation?",
+            "q": "Two angles add to 180 degrees. What are they called?",
             "options": [
-              "The angle between two parallel lines",
-              "A type of right angle only",
-              "The angle looking upward from a horizontal line to an object",
-              "The angle looking straight down"
+              "Complementary angles",
+              "Vertical angles",
+              "Supplementary angles",
+              "Alternate angles"
             ],
             "answer": 2
           },
@@ -32463,14 +32463,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which system uses units like inches, feet, and pounds?",
+            "q": "A rectangular prism measures 4 cm by 3 cm by 2 cm. What is its volume?",
             "options": [
-              "The metric system",
-              "The imperial system",
-              "Neither system uses these units",
-              "The Celsius system"
+              "9 cm³",
+              "26 cm³",
+              "48 cm³",
+              "24 cm³"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "How is the range of a data set calculated?",
@@ -33458,14 +33458,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "If 2n equals 8, what is the value of n?",
+            "q": "If 3x + 4 = 19, what is the value of x?",
             "options": [
-              "16",
-              "2",
-              "8",
-              "4"
+              "3",
+              "5",
+              "7",
+              "15"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "Does drawing a card and not replacing it before drawing again count as an independent or dependent event?",
@@ -33693,12 +33693,12 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which of these regular shapes can tessellate on its own?",
+            "q": "Which of these regular polygons can tessellate on its own?",
             "options": [
-              "A square",
+              "A regular hexagon",
               "A regular pentagon",
               "A regular heptagon",
-              "A regular hexagon"
+              "A regular octagon"
             ],
             "answer": 0
           },
@@ -37384,14 +37384,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "What does standard deviation measure?",
+            "q": "Which measure of spread is found by subtracting the smallest value from the largest value in a data set?",
             "options": [
-              "The exact number of values collected in a survey",
-              "How spread out data values are around the mean",
-              "The single largest value in a data set",
-              "The difference between the highest and lowest values only"
+              "Mean",
+              "Median",
+              "Mode",
+              "Range"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "What formula is used to calculate density?",
@@ -38088,14 +38088,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Surface%20Area%20of%20a%20Cylinder%20grade%207%20educational",
         "quiz": [
           {
-            "q": "What shape are the two ends of a cylinder?",
+            "q": "A cylinder has a radius of 3 cm and a height of 10 cm. Which expression gives the area of ONE circular end in square cm?",
             "options": [
-              "Rectangles",
-              "Triangles",
-              "Squares",
-              "Circles"
+              "2 × 3.14 × 3",
+              "3.14 × 3 × 3",
+              "3.14 × 10",
+              "3 × 10"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "What shape does the curved side of a cylinder become when unrolled?",
@@ -38128,14 +38128,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Surface area is measured in ___.",
+            "q": "A cylinder has two circular ends, each with an area of 28 square cm, and a curved side with an area of 94 square cm. What is its total surface area?",
             "options": [
-              "Linear units only",
-              "Cubic units",
-              "No units at all",
-              "Square units"
+              "150 square cm",
+              "122 square cm",
+              "94 square cm",
+              "56 square cm"
             ],
-            "answer": 3
+            "answer": 0
           }
         ],
         "topic": "2D/3D Geometry & Shapes"
@@ -39268,7 +39268,7 @@ const curriculum: DayContent[] = [
               "Quietly",
               "Loudly",
               "Silent",
-              "Enlist"
+              "Listed"
             ],
             "answer": 2
           },
@@ -40137,12 +40137,12 @@ const curriculum: DayContent[] = [
           {
             "q": "During a total solar eclipse, what can typically be seen from within the path of totality?",
             "options": [
-              "The suns outer atmosphere, or corona, briefly becomes visible",
-              "The moon appears larger than the sun during totality",
+              "The sun turns blue and shrinks to a tiny dot",
+              "The sun’s outer atmosphere, or corona, briefly becomes visible",
               "The sun grows permanently brighter than usual",
               "The moon becomes completely invisible in the sky"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "Why is it dangerous to look directly at the sun during a partial solar eclipse without proper eye protection?",
@@ -42098,14 +42098,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Why might a feather fall more slowly than a rock when dropped in normal air, even though gravity pulls on both equally?",
+            "q": "Why does a feather fall more slowly than a rock when dropped in normal air?",
             "options": [
-              "The feather is not actually affected by gravity at all",
-              "Gravity pulls harder on the rock than it does on the feather",
-              "Air resistance affects the feather more due to its shape and lower density",
-              "The rock has a larger surface area than the feather"
+              "The feather is not affected by gravity at all",
+              "Gravity pulls only on heavy objects",
+              "Air pushes the rock upward more than the feather",
+              "Air resistance affects the feather much more because of its shape and low mass"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
             "q": "Why would a feather and a rock fall at the same rate if dropped together in a vacuum?",
@@ -42414,10 +42414,10 @@ const curriculum: DayContent[] = [
             "options": [
               "Ottawa",
               "Halifax",
-              "A museum dedicated only to Canadian military history",
-              "Winnipeg"
+              "Winnipeg",
+              "Calgary"
             ],
-            "answer": 3
+            "answer": 2
           }
         ]
       }
@@ -42995,24 +42995,24 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "According to the midsegment theorem, how does a midsegment relate to the third side of the triangle?",
+            "q": "Which statement is true about the interior angles of any triangle?",
             "options": [
-              "It is parallel to the third side and exactly half its length",
-              "It is perpendicular to the third side and twice its length",
-              "Parallel to the third side but twice its length",
-              "Equal in length to the third side but not parallel to it"
+              "They add up to 180 degrees",
+              "They add up to 90 degrees",
+              "They add up to 270 degrees",
+              "They add up to 360 degrees"
             ],
             "answer": 0
           },
           {
-            "q": "If the third side of a triangle measures 18 centimetres, how long is the midsegment parallel to it?",
+            "q": "A triangle has two angles measuring 50 degrees and 60 degrees. What is the measure of the third angle?",
             "options": [
-              "6 centimetres",
-              "9 centimetres",
-              "18 centimetres",
-              "36 centimetres"
+              "80 degrees",
+              "60 degrees",
+              "70 degrees",
+              "110 degrees"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "How many midsegments does a single triangle have in total?",
@@ -44700,12 +44700,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
         "quiz": [
           {
-            "q": "What does the solution to a system of two linear equations represent on a graph?",
+            "q": "What is the value of x in the equation 2x + 3 = 11?",
             "options": [
-              "The point where the two lines intersect",
-              "The distance between the two lines at every point",
-              "The steepness of just one of the lines",
-              "The point where either line crosses the x-axis"
+              "4",
+              "7",
+              "8",
+              "14"
             ],
             "answer": 0
           },
@@ -44720,34 +44720,34 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "How many solutions does the equation, the absolute value of x equals 5, generally have?",
+            "q": "What is the value of (−3) + 8?",
             "options": [
-              "No solutions at all",
-              "Infinitely many solutions between negative 5 and 5",
-              "Two solutions, x equals 5 and x equals negative 5",
-              "Only one solution, x equals 5"
+              "−5",
+              "11",
+              "−11",
+              "5"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What is the point where a tangent line touches a circle called?",
+            "q": "What is the name for the distance from the centre of a circle to any point on the circle?",
             "options": [
-              "The point of tangency",
-              "The centre of the circle",
-              "The point where two chords intersect inside the circle",
-              "The diameter point"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is the first general step in solving a quadratic equation by factoring?",
-            "options": [
-              "Dividing every term by zero",
-              "Factoring the expression into two binomials",
-              "Immediately guessing a random value for x with no calculation",
-              "Squaring the coefficient of every term first"
+              "Diameter",
+              "Radius",
+              "Circumference",
+              "Chord"
             ],
             "answer": 1
+          },
+          {
+            "q": "What is the first step in solving 3x − 5 = 16?",
+            "options": [
+              "Subtract 16 from both sides",
+              "Multiply both sides by 3",
+              "Divide both sides by 5",
+              "Add 5 to both sides"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -44759,14 +44759,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
         "quiz": [
           {
-            "q": "What is simple harmonic motion?",
+            "q": "Which of these is an example of a repeating back-and-forth motion?",
             "options": [
-              "Motion that always speeds up forever without stopping",
-              "Motion that speeds up continuously with no resting position",
-              "A repeating back-and-forth motion around a resting position",
-              "Motion that only ever happens once and never repeats"
+              "A falling rock",
+              "A swinging pendulum",
+              "A ball rolling to a stop",
+              "A melting ice cube"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "What is bilateral symmetry?",
@@ -45374,14 +45374,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
         "quiz": [
           {
-            "q": "What does the storytelling principle known as Chekhovs Gun suggest?",
+            "q": "What does the storytelling principle known as Chekhov’s Gun suggest?",
             "options": [
-              "A significant detail introduced early in a story should eventually play a meaningful role later",
-              "Every detail in a story should be forgotten immediately after it appears",
-              "Stories should never introduce any specific objects or details",
-              "Every gun mentioned in a story must actually be fired"
+              "Every detail should be forgotten right after it appears",
+              "Stories should never introduce specific objects",
+              "A detail introduced early should matter later in the story",
+              "A story must include a weapon in its first scene"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "What is setup in a story?",
@@ -45700,14 +45700,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "The volume of a cone is what fraction of a cylinder with the same base and height?",
+            "q": "What is the volume of a rectangular prism that is 5 cm long, 4 cm wide and 3 cm high?",
             "options": [
-              "One-half",
-              "The same as the cylinder",
-              "Two-thirds",
-              "One-third"
+              "60 cubic centimetres",
+              "12 cubic centimetres",
+              "20 cubic centimetres",
+              "94 cubic centimetres"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "How many quadrants make up a full coordinate plane?",
@@ -45866,12 +45866,12 @@ const curriculum: DayContent[] = [
           {
             "q": "What is one technique documentary filmmakers use to shape how an audience understands events?",
             "options": [
-              "Selective interview footage",
               "A single continuous shot with no editing at all",
-              "Background music added to build emotional tension",
+              "Selective interview footage",
+              "Randomly shuffling scenes so no meaning can be understood",
               "A completely blank screen with no footage of any kind"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "How can background music influence a viewers response to a documentary scene?",
@@ -47667,14 +47667,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which word correctly completes the analogy: Puppy is to dog as kitten is to —?",
+            "q": "Which word completes the analogy? Cautious is to reckless as generous is to ___.",
             "options": [
-              "Cat",
-              "Bird",
-              "Fish",
-              "Kitten"
+              "Kind",
+              "Wealthy",
+              "Careful",
+              "Selfish"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "A compare and contrast essay examines ___.",
@@ -48163,14 +48163,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
         "quiz": [
           {
-            "q": "Name one sign that a chemical reaction may have occurred, such as bubbles forming.",
+            "q": "Which observation is the best evidence that a chemical reaction has taken place?",
             "options": [
-              "The object staying exactly the same",
-              "The object changing colour permanently",
-              "Nothing happening at all",
-              "Bubbles forming"
+              "A solid changes shape when it is cut",
+              "Sugar dissolves in water and can be recovered",
+              "A new gas forms and the temperature changes on its own",
+              "A liquid freezes in a freezer"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
             "q": "An electromagnet's strength can be increased by —.",
@@ -48979,14 +48979,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
         "quiz": [
           {
-            "q": "A thermometer is used to measure ___.",
+            "q": "A student heats 200 mL of water and records its temperature every minute. Which type of graph best shows how the temperature changes over time?",
             "options": [
-              "Wind speed",
-              "Air pressure",
-              "Temperature",
-              "Humidity levels in the air"
+              "Line graph",
+              "Circle graph",
+              "Pictograph",
+              "Stem-and-leaf plot"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "Ecosystem succession refers to the ___.",
@@ -49252,14 +49252,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Does access to clean drinking water vary around the world?",
+            "q": "Which statement best describes access to clean drinking water around the world?",
             "options": [
-              "Water access is determined solely by a country's population size",
-              "No, every region has exactly the same access to water",
-              "Every country has invested equally in water infrastructure",
-              "Yes"
+              "All regions have equal access to safe water",
+              "Access depends only on a country’s population size",
+              "Access varies by region because of infrastructure and income",
+              "Access is the same everywhere that has a river"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
             "q": "Why is access to clean water considered a major global issue?",
@@ -49542,12 +49542,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
         "quiz": [
           {
-            "q": "In the substitution method, what do you do first with one of the equations?",
+            "q": "Solve for x: 2x + 5 = 17.",
             "options": [
-              "Solve it for a single variable",
-              "Graph both equations immediately",
-              "Add both equations together immediately",
-              "Multiply both equations together"
+              "x = 6",
+              "x = 11",
+              "x = 12",
+              "x = 8.5"
             ],
             "answer": 0
           },
@@ -49621,14 +49621,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What is the main difference between an ionic bond and a covalent bond?",
+            "q": "Which of the following is a pure substance?",
             "options": [
-              "An ionic bond involves the transfer of electrons between atoms, while a covalent bond involves atoms sharing electrons",
-              "An ionic bond only occurs in liquids, while covalent bonds only occur in gases",
-              "An ionic bond involves no charge at all, while a covalent bond always creates charged ions",
-              "Ionic bonds are found only in living things, while covalent bonds are found only in rocks"
+              "Salt water",
+              "Air",
+              "Orange juice",
+              "Distilled water"
             ],
-            "answer": 0
+            "answer": 3
           }
         ]
       },
@@ -50572,12 +50572,12 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Which type of graph best shows dot plots displaying?",
+            "q": "Which statement describes a dot plot?",
             "options": [
-              "Each data value as a dot stacked above a number line to show frequency",
-              "Only the average of a data set",
-              "Data as slices of a circle",
-              "Continuous data with no individual values shown"
+              "Each data value is shown as a dot above a number line",
+              "Only the average of the data is shown",
+              "Data are shown as slices of a circle",
+              "Continuous data are shown with no individual values"
             ],
             "answer": 0
           },
@@ -52602,14 +52602,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
         "quiz": [
           {
-            "q": "What shape are the two ends of a cylinder?",
+            "q": "A cylinder has radius 5 cm and height 8 cm. What is the area of one circular end? (Use pi = 3.14)",
             "options": [
-              "Rectangles",
-              "Triangles",
-              "Squares",
-              "Circles"
+              "15.7 cm²",
+              "78.5 cm²",
+              "31.4 cm²",
+              "125.6 cm²"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "Which formula gives the area of the curved (lateral) surface of a cylinder with radius r and height h?",
@@ -53010,14 +53010,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
         "quiz": [
           {
-            "q": "What two pieces of information does point-slope form require to write the equation of a line?",
+            "q": "A line has slope 2 and y-intercept 3. Which equation represents it?",
             "options": [
-              "The slope and the coordinates of one known point on the line",
-              "The x-intercept and the equation's degree",
-              "Two parallel lines with different slopes",
-              "Only the y-intercept of the line"
+              "y = 3x + 2",
+              "y = 2x - 3",
+              "y = -2x + 3",
+              "y = 2x + 3"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "What is the prime factorization of 60?",
@@ -53234,14 +53234,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which word in a word problem often signals addition?",
+            "q": "Which equation represents \"five more than twice a number n is 17\"?",
             "options": [
-              "Product",
-              "Difference",
-              "Quotient",
-              "Sum"
+              "5n + 2 = 17",
+              "2n - 5 = 17",
+              "2n + 5 = 17",
+              "n + 5 = 17"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
             "q": "Which formula correctly gives the volume of a cone with radius r and height h?",
@@ -53418,24 +53418,24 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
         "quiz": [
           {
-            "q": "What does a combination count?",
+            "q": "A bag has 3 red, 4 blue and 5 green marbles. If one marble is drawn at random, what is the probability it is blue?",
             "options": [
-              "The number of ways to group items when order does not matter",
-              "Only ordered arrangements",
-              "A type of fraction",
-              "A single fixed outcome"
+              "1/3",
+              "1/4",
+              "5/12",
+              "4/5"
             ],
             "answer": 0
           },
           {
-            "q": "A pizza shop offers 5 toppings. How many different combinations of 3 toppings can a customer choose, if order doesn't matter?",
+            "q": "A pizza shop has 2 crust types and 4 toppings. If a pizza has one crust and one topping, how many different pizzas are possible?",
             "options": [
-              "10",
-              "15",
-              "20",
-              "60"
+              "6",
+              "8",
+              "12",
+              "16"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "What is the Sieve of Eratosthenes used to find?",
@@ -53448,14 +53448,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "In triangle ABC, the midsegment connecting the midpoints of sides AB and AC is related to side BC in which way?",
+            "q": "Two triangles are similar. The sides of the smaller triangle are 3 cm, 4 cm and 5 cm, and the shortest side of the larger triangle is 6 cm. What is the longest side of the larger triangle?",
             "options": [
-              "It is half the length of BC and parallel to it",
-              "It is twice the length of BC and parallel to it",
-              "It is equal in length to BC and perpendicular to it",
-              "It has no length or direction relationship to BC"
+              "8 cm",
+              "12 cm",
+              "10 cm",
+              "15 cm"
             ],
-            "answer": 0
+            "answer": 2
           }
         ]
       },

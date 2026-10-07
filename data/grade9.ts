@@ -443,12 +443,12 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=IEVLIllDUSw",
         "quiz": [
           {
-            "q": "Canada's forestry industry depends on...",
+            "q": "Which natural resource is most essential to Canada’s logging and pulp-and-paper industries?",
             "options": [
-              "Ocean fisheries only",
-              "Tropical climates",
-              "Desert land",
-              "Forest resources"
+              "Ocean fish stocks",
+              "Tropical hardwood plantations",
+              "Desert minerals",
+              "Boreal and temperate trees"
             ],
             "answer": 3
           },
@@ -1200,12 +1200,12 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Canada's forestry industry depends on...",
+            "q": "Canada’s lumber and paper mills mainly rely on which raw material?",
             "options": [
-              "Forest resources",
-              "Tropical climates",
-              "Ocean fisheries only",
-              "Desert land"
+              "Timber harvested from forests",
+              "Fish caught in coastal waters",
+              "Crops grown in tropical regions",
+              "Minerals mined from desert land"
             ],
             "answer": 0
           },
@@ -1628,32 +1628,32 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=TKM0P3XlMNA",
         "quiz": [
           {
-            "q": "Which planet is closest to the Sun?",
+            "q": "Which property of a noble gas such as neon explains why it rarely forms compounds?",
             "options": [
-              "Mercury",
-              "Earth",
-              "Venus",
-              "Mars"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "A year on Earth is defined by...",
-            "options": [
-              "One moon cycle",
-              "One full orbit around the Sun",
-              "One full rotation on its axis",
-              "A random time period"
+              "It has only one valence electron",
+              "Its outer electron shell is full",
+              "It has no protons",
+              "It readily gains two electrons"
             ],
             "answer": 1
           },
           {
-            "q": "A day on Earth is defined by...",
+            "q": "In a neutral atom of carbon (atomic number 6), how many electrons are there?",
             "options": [
-              "One season",
-              "One lunar cycle",
-              "One full orbit around the Sun",
-              "One full rotation of Earth on its axis"
+              "12",
+              "3",
+              "6",
+              "14"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following is a physical change rather than a chemical change?",
+            "options": [
+              "Iron rusting",
+              "Wood burning",
+              "Milk souring",
+              "Ice melting"
             ],
             "answer": 3
           },
@@ -1827,14 +1827,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Factor out the common term: 4x + 8",
+            "q": "Factor 4x + 8 by removing the greatest common factor.",
             "options": [
-              "4x(1+2)",
-              "2(2x+4)",
-              "8(x+1)",
-              "4(x+2)"
+              "4(x + 2)",
+              "4x(1 + 2)",
+              "2(2x + 4)",
+              "8(x + 1)"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "Expand: 3(x - 4)",
@@ -3069,17 +3069,17 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Factor: 6x² + 9x",
+            "q": "Factor 6x² + 9x completely by removing the greatest common factor.",
             "options": [
               "3(2x² + 3x)",
+              "3x(2x + 3)",
               "6x(x + 9)",
-              "9x(x + 6)",
-              "3x(2x + 3)"
+              "9x(x + 6)"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Factor: 10x - 15",
+            "q": "Factor 10x - 15 by removing the greatest common factor.",
             "options": [
               "10(x - 15)",
               "5(2x + 3)",
@@ -3089,14 +3089,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Factor: 4x³ + 8x²",
+            "q": "Factor 4x³ + 8x² completely by removing the greatest common factor.",
             "options": [
               "8x²(x + 1)",
-              "4x²(x + 2)",
               "2x²(2x + 4)",
-              "4x(x² + 2x)"
+              "4x(x² + 2x)",
+              "4x²(x + 2)"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "After factoring out the GCF, you can verify your answer by...",
@@ -3606,14 +3606,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Factor: 8x² + 12x",
+            "q": "Factor 8x² + 12x by removing the greatest common factor.",
             "options": [
+              "4x(2x + 3)",
               "2x(4x + 6)",
               "8x(x + 12)",
-              "4x(2x + 3)",
               "4(2x² + 3x)"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "Factor: x² - 49",
@@ -3884,11 +3884,11 @@ const curriculum: DayContent[] = [
             "q": "The hypotenuse of a right triangle is always...",
             "options": [
               "Equal to the sum of the legs",
+              "The longest side, opposite the right angle",
               "One of the two legs",
-              "The longest side, opposite the angle",
               "The shortest side"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "A right triangle has a hypotenuse of 13 and one leg of 5. Find the other leg.",
@@ -4252,14 +4252,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which transportation mode is generally most cost-effective for moving large volumes of heavy bulk goods over long distances by sea?",
+            "q": "Which transportation mode is generally most cost-effective for moving large volumes of heavy bulk goods across the Pacific Ocean?",
             "options": [
               "Personal car",
-              "Container shipping by ocean freighter",
               "Bicycle courier",
-              "Commercial air freight"
+              "Commercial air freight",
+              "Cargo ship"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "Landlocked countries face a geographic disadvantage in trade because...",
@@ -4560,12 +4560,12 @@ const curriculum: DayContent[] = [
           {
             "q": "Which sentence shows correct pronoun-antecedent agreement?",
             "options": [
-              "Each student must bring his or her own pencil (both are acceptable forms).",
-              "Each student must bring their own pencils and they is prepared.",
               "The students brought its lunch.",
-              "Each student must bring their own pencil."
+              "Each student must bring their own pencils and they is prepared.",
+              "Each student must bring his or her own pencil.",
+              "Every student left her pencils on the desks they shares."
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "Indefinite pronouns like 'everyone' and 'nobody' are traditionally treated as...",
@@ -5074,14 +5074,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Container shipping by ocean freighter is cost-effective for...",
+            "q": "Why is container shipping so widely used in global trade?",
             "options": [
-              "Air passengers",
-              "Moving large volumes across the sea",
-              "Short urban deliveries",
-              "Transporting fresh produce by bicycle"
+              "It carries huge volumes at a low cost per unit",
+              "It is the fastest way to deliver goods",
+              "It works best for fresh produce that spoils quickly",
+              "It is mainly used for short urban deliveries"
             ],
-            "answer": 1
+            "answer": 0
           }
         ]
       }
@@ -9339,24 +9339,24 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "The heart is the main organ of the ___ system.",
+            "q": "Which part of the cardiovascular system is responsible for the exchange of oxygen, carbon dioxide and nutrients between the blood and body tissues?",
             "options": [
-              "Digestive",
-              "Excretory",
-              "Respiratory",
-              "Circulatory"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The lungs are the main organs of the ___ system.",
-            "options": [
-              "Digestive",
-              "Respiratory",
-              "Excretory",
-              "Circulatory"
+              "Arteries",
+              "Capillaries",
+              "Veins",
+              "Atria"
             ],
             "answer": 1
+          },
+          {
+            "q": "In which structures of the lungs does gas exchange between air and blood take place?",
+            "options": [
+              "Bronchi",
+              "Trachea",
+              "Alveoli",
+              "Diaphragm"
+            ],
+            "answer": 2
           },
           {
             "q": "How do the respiratory and circulatory systems work together?",
@@ -9477,14 +9477,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which sentence contains a misplaced modifier? Nearly finished, the report took hours to write.",
+            "q": "Which sentence contains a misplaced modifier?",
             "options": [
-              "This sentence",
-              "Writing the report took hours.",
-              "I nearly finished writing the report after hours.",
-              "The report took hours to write."
+              "She drove the kids to school almost every day.",
+              "Every day, she drove the kids to school.",
+              "She drove the kids to school each morning.",
+              "She almost drove the kids to school every day."
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "Why is correcting modifier errors especially important in formal or academic writing?",
@@ -9538,14 +9538,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "If you are choosing 2 fruits from a bowl of apples, bananas, and oranges, and order does not matter, this is an example of a ___.",
+            "q": "A committee of 2 students is to be chosen from a group of 3 students named Ana, Ben and Cy. Is this a permutation or a combination, and how many selections are possible?",
             "options": [
-              "Ratio",
-              "Combination",
-              "Probability",
-              "Permutation"
+              "Combination, 3",
+              "Permutation, 6",
+              "Permutation, 3",
+              "Combination, 6"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
             "q": "Why might the number of permutations of a set be larger than the number of combinations of the same set?",
@@ -10476,12 +10476,12 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which sentence uses nominalization?",
+            "q": "Which sentence uses nominalization (a verb turned into a noun)?",
             "options": [
               "The committee decided quickly.",
               "The committee’s decision surprised everyone.",
-              "Deciding is hard sometimes.",
-              "They will decide tomorrow."
+              "The committee will decide tomorrow.",
+              "The committee is deciding now."
             ],
             "answer": 1
           },
@@ -13352,24 +13352,24 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Which of these is a form of precipitation?",
+            "q": "Which change of state releases thermal energy to the surroundings?",
             "options": [
-              "Runoff",
               "Evaporation",
-              "Rain",
-              "Condensation"
+              "Melting",
+              "Condensation",
+              "Sublimation"
             ],
             "answer": 2
           },
           {
-            "q": "What is the primary source of energy that drives the water cycle?",
+            "q": "Which statement best describes the water molecules that escape the surface during evaporation?",
             "options": [
-              "Wind",
-              "The Moon's gravity",
-              "The Sun",
-              "Geothermal heat from the Earth's core"
+              "They have lost all of their kinetic energy",
+              "They have turned into a different substance",
+              "They are the slowest-moving molecules in the liquid",
+              "They have enough kinetic energy to break free of neighbouring molecules"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
             "q": "After precipitation falls, water that flows over the land's surface toward rivers, lakes, or oceans is called ___.",
@@ -13791,14 +13791,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "A system of a linear and a quadratic equation can have how many possible solutions?",
+            "q": "A system of two linear equations has no solution. What must be true about their graphs?",
             "options": [
-              "Always exactly three",
-              "An unlimited number in every case",
-              "Zero, one, or two",
-              "Always exactly one, with no other possibility"
+              "They are parallel lines with different y-intercepts",
+              "They are perpendicular lines",
+              "They are the same line",
+              "They intersect at the origin"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "Why might a system of a linear and a quadratic equation have zero solutions?",
@@ -13989,7 +13989,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "In a frame narrative, the character who introduces and sometimes returns to close the outer story is often called the...",
+            "q": "In a story-within-a-story structure, the character who introduces the tale and sometimes returns to close it is called the...",
             "options": [
               "foil",
               "antagonist",
@@ -14069,14 +14069,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "In a class of 20 students where 12 play soccer and 5 of those also play basketball, what is the probability a student plays basketball given that they play soccer?",
+            "q": "In a class of 20 students, 12 play soccer. If one student is chosen at random, what is the probability the student plays soccer?",
             "options": [
-              "12 out of 5",
-              "12 out of 20",
-              "5 out of 12",
-              "5 out of 20"
+              "2/5",
+              "3/5",
+              "3/2",
+              "5/3"
             ],
-            "answer": 2
+            "answer": 1
           }
         ],
         "topic": "Probability"
@@ -14610,12 +14610,12 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Who is credited with developing these three laws of motion?",
+            "q": "A 2 kg cart is pushed with a net force of 6 N. According to Newton’s second law, what is its acceleration?",
             "options": [
-              "Isaac Newton",
-              "Charles Darwin",
-              "Galileo Galilei",
-              "Albert Einstein"
+              "3 m/s²",
+              "12 m/s²",
+              "0.33 m/s²",
+              "8 m/s²"
             ],
             "answer": 0
           },
@@ -14809,12 +14809,12 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "When solving an absolute value inequality such as the absolute value of x is less than 3, the solution represents ___.",
+            "q": "Which inequality represents \"x is at least 4\"?",
             "options": [
-              "All values of x that are greater than negative 3 only",
-              "Only the single value x equals 3",
-              "All values of x that are greater than 3",
-              "All values of x between negative 3 and 3"
+              "x < 4",
+              "x > 4",
+              "x ≤ 4",
+              "x ≥ 4"
             ],
             "answer": 3
           },
@@ -16345,14 +16345,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "If a sphere has a radius of 3 cm, which value is needed to find its volume using the formula four-thirds pi r cubed?",
+            "q": "A sphere has a radius of 3 cm. What is its volume?",
             "options": [
-              "The diameter cubed",
-              "The diameter squared",
-              "The radius cubed",
-              "The radius squared only, with no cubing involved"
+              "12π cm³",
+              "36π cm³",
+              "27π cm³",
+              "108π cm³"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "The surface area of a cone includes the area of its circular base plus ___.",
@@ -16396,24 +16396,24 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "The respiratory system brings oxygen into the body through the ___.",
+            "q": "Which process moves oxygen from the alveoli into the blood?",
             "options": [
-              "Kidneys",
-              "Lungs",
-              "The liver",
-              "Stomach"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which organ pumps blood throughout the circulatory system?",
-            "options": [
-              "The pancreas",
-              "The liver",
-              "The stomach",
-              "The heart"
+              "Digestion",
+              "Filtration by the kidneys",
+              "Fermentation",
+              "Diffusion"
             ],
             "answer": 3
+          },
+          {
+            "q": "Which blood vessels carry blood away from the heart?",
+            "options": [
+              "Arteries",
+              "Veins",
+              "Capillaries",
+              "Valves"
+            ],
+            "answer": 0
           },
           {
             "q": "Why must the circulatory and respiratory systems work closely together?",
@@ -18929,14 +18929,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "If a radius drawn to a point of tangency forms a 90 degree angle with the tangent line, what does this confirm?",
+            "q": "A circle has centre O and radius OT = 6 cm. A tangent line touches the circle at T, and point P lies on the tangent with TP = 8 cm. What is the length of OP?",
             "options": [
-              "The tangent line is perpendicular to that radius, as the theorem predicts",
-              "The circle does not actually have a defined radius",
-              "The circle must have a diameter equal to the tangent line's length",
-              "The tangent line must actually pass through the centre of the circle"
+              "2 cm",
+              "7 cm",
+              "10 cm",
+              "14 cm"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "Why might understanding tangent lines be useful in real-world applications, such as designing gears or pulley systems?",
@@ -20604,14 +20604,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Name one renewable power source that might connect to an energy grid, such as wind or solar.",
+            "q": "Which of these is a renewable power source that can feed an energy grid?",
             "options": [
               "Coal",
-              "Natural gas",
               "Wind",
+              "Natural gas",
               "Oil"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "Does building a renewable energy grid require careful geographic planning?",
@@ -20952,14 +20952,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which sentence rewrites 'to boldly go where no one has gone before' WITHOUT splitting the infinitive, while keeping the emphasis on 'boldly'?",
+            "q": "Which phrase contains a split infinitive?",
             "options": [
-              "All of these keep the infinitive split",
+              "to go boldly where no one has gone before",
               "boldly to go where no one has gone before",
-              "to go where no one has gone before, boldly",
-              "to go boldly where no one has gone before"
+              "to boldly go where no one has gone before",
+              "to go where no one has gone before, boldly"
             ],
-            "answer": 3
+            "answer": 2
           }
         ]
       },
@@ -21352,14 +21352,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Name one event that could disrupt a global supply chain, such as extreme weather.",
+            "q": "Which of these events could disrupt a global supply chain?",
             "options": [
-              "Extreme weather",
               "A calm, sunny day with no unusual events",
               "A holiday celebrated locally",
-              "A routine annual inventory count"
+              "A routine annual inventory count",
+              "A hurricane that shuts down a major port"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "Can a supply chain disruption affect the availability of goods worldwide?",
@@ -21801,14 +21801,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Name one renewable source that can be used to make bioplastics, such as corn starch.",
+            "q": "Which of these is a renewable source that can be used to make bioplastics?",
             "options": [
-              "Natural gas extracted from underground reservoirs",
-              "Crude oil",
               "Corn starch",
+              "Natural gas",
+              "Crude oil",
               "Coal"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "Why might bioplastics be considered a more sustainable option than some traditional plastics?",
@@ -22101,14 +22101,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Name one example of a climate adaptation strategy, such as building sea walls.",
+            "q": "Which of these is an example of a climate adaptation strategy?",
             "options": [
+              "Relocating a region’s capital city every decade",
               "Building sea walls",
-              "Relocating a region's capital city every decade",
               "Ignoring rising sea levels",
               "Removing all environmental protections"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "Do climate adaptation strategies often depend on a community’s specific region and needs?",
@@ -22230,14 +22230,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "If a cylinder’s volume is 50 cubic cm and a hemisphere on top has a volume of 20 cubic cm, what is the total volume?",
+            "q": "A solid is a cylinder (radius 3 cm, height 10 cm) topped by a hemisphere of radius 3 cm. What is its exact total volume?",
             "options": [
-              "70 cubic cm",
-              "20 cubic cm",
-              "50 cubic cm",
-              "30 cubic cm"
+              "126π cm³",
+              "90π cm³",
+              "108π cm³",
+              "54π cm³"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "Why is it useful to break a composite solid into simpler shapes before finding its volume?",
@@ -22250,14 +22250,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "If a composite solid is made of two cones with volumes of 12 and 8 cubic cm, what is the total volume?",
+            "q": "A composite solid is a cone (radius 3 cm, height 4 cm) sitting on a hemisphere of radius 3 cm. What is its exact total volume?",
             "options": [
-              "8 cubic cm",
-              "20 cubic cm",
-              "4 cubic cm",
-              "12 cubic cm"
+              "12π cm³",
+              "18π cm³",
+              "48π cm³",
+              "30π cm³"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "Why might understanding composite solid volume be useful for designing a real object, like a storage silo?",
@@ -22602,14 +22602,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Name one geographic factor that could influence health outcomes, such as distance to medical facilities.",
+            "q": "Which of these is a geographic factor that could influence health outcomes?",
             "options": [
+              "Distance to medical facilities",
               "The number of public holidays observed in a country",
               "The average temperature on a random day",
-              "A community’s favourite sport",
-              "Distance to medical facilities"
+              "A community’s favourite sport"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "Can income level in a region influence access to health care?",
@@ -22769,14 +22769,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What is 14 mod 5, meaning the remainder when 14 is divided by 5?",
+            "q": "Solve the system by substitution: y = 2x + 1 and x + y = 10. What is x?",
             "options": [
-              "9",
-              "14",
+              "4",
+              "3",
               "5",
-              "4"
+              "7"
             ],
-            "answer": 3
+            "answer": 1
           }
         ]
       },
@@ -24598,7 +24598,7 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=e6rglsLy1Ys",
         "quiz": [
           {
-            "q": "Name one source of air pollution in a city, such as vehicle emissions.",
+            "q": "Which of these is a common source of air pollution in a city?",
             "options": [
               "Recycled plastic bottles",
               "Fresh mountain air",
@@ -24925,14 +24925,14 @@ const curriculum: DayContent[] = [
         "topic": "Grammar",
         "quiz": [
           {
-            "q": "Which sentence shows correct subject-verb agreement with a collective noun?",
+            "q": "Which sentence shows correct subject-verb agreement with a collective noun treated as a single unit?",
             "options": [
-              "The team is practicing every day this week.",
               "The team am practicing every day this week.",
               "The team be practicing every day this week.",
-              "The team are practicing every day this week."
+              "The team been practicing every day this week.",
+              "The team is practicing every day this week."
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "Which verb correctly completes the sentence: 'Everyone in the class ___ responsible for their own project.'",
@@ -25076,14 +25076,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Name one example of a fossil fuel.",
+            "q": "Which of these is an example of a fossil fuel?",
             "options": [
-              "Natural gas formed within the last several decades",
-              "Wind energy",
               "Coal",
-              "Solar energy"
+              "Wind energy",
+              "Solar energy",
+              "Hydroelectric power"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "Why does it take millions of years for fossil fuels to form?",
@@ -27622,12 +27622,12 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Can wind turbines be sited offshore to take advantage of strong, consistent ocean winds?",
+            "q": "Why are offshore locations attractive for wind turbines?",
             "options": [
-              "Offshore wind turbines are banned in most coastal countries",
-              "Yes",
-              "No, wind turbines can never be placed offshore",
-              "Offshore locations never provide any advantage for wind energy"
+              "Offshore areas never have any wind",
+              "Winds over open water are stronger and steadier",
+              "Offshore turbines need no connection to the electrical grid",
+              "Offshore turbines are required by law to be placed next to cities"
             ],
             "answer": 1
           },
@@ -28287,14 +28287,14 @@ const curriculum: DayContent[] = [
         "topic": "Space & Astronomy",
         "quiz": [
           {
-            "q": "What is at the centre of our solar system?",
+            "q": "Why do the planets stay in orbit around the Sun?",
             "options": [
-              "Earth",
-              "The Sun",
-              "The Moon",
-              "Jupiter"
+              "Magnetic fields from the Sun hold them in place",
+              "The Sun’s light pushes them in circles",
+              "The Sun’s gravity pulls on them while they keep moving forward",
+              "They are attached to the Sun by invisible cables"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "Which of the following correctly lists the four inner, rocky (terrestrial) planets in order from the Sun?",
@@ -28327,14 +28327,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Which planet is the largest in our solar system?",
+            "q": "Which statement correctly describes the gas giants?",
             "options": [
-              "Earth",
-              "Jupiter",
-              "Neptune",
-              "Saturn"
+              "They are small, rocky planets close to the Sun",
+              "They are all smaller than Earth",
+              "They have solid surfaces and no atmosphere",
+              "They are large planets with thick atmospheres in the outer solar system"
             ],
-            "answer": 1
+            "answer": 3
           }
         ]
       },
@@ -29604,14 +29604,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What percentage of global trade by volume is estimated to move by sea shipping?",
+            "q": "Roughly what share of global trade by volume moves by sea?",
             "options": [
-              "Only trade of digital goods",
-              "The vast majority of global trade by volume",
-              "Only trade within a single country",
-              "Almost none of global trade"
+              "About 80%",
+              "About 5%",
+              "About 25%",
+              "About 50%"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
             "q": "Why might geographers study the location and development of shipping ports?",
@@ -30650,10 +30650,10 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Which category can an eponym be derived from?",
+            "q": "Which of these can an eponym be derived from?",
             "options": [
               "Only numbers",
-              "A brand name that becomes a general term, such as thermos",
+              "A person’s name, such as the Earl of Sandwich",
               "Only punctuation marks",
               "Only foreign alphabets"
             ],
@@ -31478,14 +31478,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
         "quiz": [
           {
-            "q": "What is the primary organ of the integumentary system?",
+            "q": "Lichens are sensitive to air pollution. What does a healthy lichen population usually indicate?",
             "options": [
-              "The lungs",
-              "The heart",
-              "The liver",
-              "The skin"
+              "Relatively clean air",
+              "Heavy air pollution",
+              "A lack of sunlight",
+              "That the ecosystem has no producers"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "What is one major function of the skin?",
@@ -31624,14 +31624,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "How many dots typically make up an ellipsis?",
+            "q": "Which use of an ellipsis in a quotation is correct in formal writing?",
             "options": [
-              "Seven",
-              "One",
-              "Five",
-              "Three"
+              "Ending every sentence in the quotation",
+              "Marking words omitted from the original passage",
+              "Showing that the writer is unsure of the facts",
+              "Replacing the citation after the quotation"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "Why should formal writing use ellipses and em dashes with restraint?",
@@ -32196,14 +32196,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "If one interior angle on one side of a transversal is 65°, what is the co-interior angle on the same side?",
+            "q": "Two parallel lines are cut by a transversal. If one interior angle on one side of the transversal is 65°, what is the co-interior angle on the same side?",
             "options": [
-              "115°",
               "25°",
               "65°",
+              "115°",
               "180°"
             ],
-            "answer": 0
+            "answer": 2
           }
         ]
       },
@@ -32521,12 +32521,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
         "quiz": [
           {
-            "q": "What do waste-to-energy facilities do?",
+            "q": "What is the main output of a facility that burns municipal garbage in a controlled way at high temperatures?",
             "options": [
-              "Permanently store waste underground with no processing at all",
-              "Eliminate the need for any waste collection in a city",
-              "Convert waste directly into drinking water",
-              "Convert municipal solid waste into usable electricity or heat"
+              "Drinking water",
+              "Permanent underground storage of waste",
+              "Fresh topsoil for farms",
+              "Usable electricity or heat"
             ],
             "answer": 3
           },
@@ -33631,14 +33631,14 @@ const curriculum: DayContent[] = [
         "topic": "Equations & Inequalities",
         "quiz": [
           {
-            "q": "A number increased by 7 equals 22. Which equation represents this?",
+            "q": "A taxi charges a $4 flat fee plus $3 per kilometre. The total fare for a trip is $25. Which equation can be used to find the distance d in kilometres?",
             "options": [
-              "x + 7 = 22",
-              "x - 7 = 22",
-              "x/7 = 22",
-              "7x = 22"
+              "3 + 4d = 25",
+              "7d = 25",
+              "4 + 3d = 25",
+              "4d + 3d = 25"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "A rectangle's length is 3 more than twice its width, w. Which expression represents the length?",
@@ -34615,14 +34615,14 @@ const curriculum: DayContent[] = [
         "topic": "Probability",
         "quiz": [
           {
-            "q": "What is the theoretical probability of rolling a 4 on a fair six-sided die?",
+            "q": "Two fair six-sided dice are rolled. What is the theoretical probability that the sum is 7?",
             "options": [
-              "1/6",
-              "1/4",
-              "4/6",
-              "1/3"
+              "1/12",
+              "7/36",
+              "1/7",
+              "1/6"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "A coin is flipped 50 times and lands heads 28 times. What is the experimental probability of heads?",
@@ -36157,14 +36157,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What landform is created when a glacier carves a valley into a U-shape?",
+            "q": "Which landform is left behind when a glacier erodes and widens a former river valley?",
             "options": [
+              "A glacial trough",
               "A sand dune",
               "A river delta",
-              "A glacial (U-shaped) valley",
               "A coral reef"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "What is a moraine?",
@@ -36374,12 +36374,12 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Which unit would be most appropriate for measuring the distance between two cities?",
+            "q": "A road sign shows a speed limit of 80 km/h. Approximately how many miles per hour is this, given 1 km ≈ 0.62 mi?",
             "options": [
-              "Centimetres",
-              "Kilometres",
-              "Grams",
-              "Millimetres"
+              "25 mi/h",
+              "50 mi/h",
+              "80 mi/h",
+              "129 mi/h"
             ],
             "answer": 1
           }
@@ -37466,14 +37466,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What term describes diplomacy conducted at the municipal or local government level, as seen in sister city relationships?",
+            "q": "Sister city partnerships between towns in different countries are an example of which practice?",
             "options": [
               "International currency exchange",
-              "Municipal (or city) diplomacy",
               "Global environmental treaty negotiation",
+              "Municipal diplomacy",
               "National military strategy"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "Why might two cities located in different countries choose to become sister cities?",
@@ -40245,12 +40245,12 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Which punctuation mark is most commonly used to signal the omission in an elliptical construction like 'Tom ordered pasta; Ana, salad'?",
+            "q": "In the elliptical sentence 'Tom ordered pasta; Ana, salad,' which punctuation mark stands in for the omitted verb 'ordered'?",
             "options": [
               "parentheses",
               "a colon",
               "a question mark",
-              "a semicolon, often paired with a comma before the omitted-verb part"
+              "a comma"
             ],
             "answer": 3
           }
@@ -41339,11 +41339,11 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which gas involved in the nitrogen cycle makes up most of Earth's atmosphere?",
+            "q": "Which gas makes up about 78% of Earth’s atmosphere?",
             "options": [
-              "Nitrogen gas",
-              "Argon",
+              "Nitrogen",
               "Oxygen",
+              "Argon",
               "Carbon dioxide"
             ],
             "answer": 0
@@ -41761,14 +41761,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "In a scatter plot of students' heights versus their favorite color, the points appear randomly scattered with no clear pattern. This describes:",
+            "q": "In a scatter plot of students' heights versus their scores on a spelling test, the points appear randomly scattered with no clear pattern. This describes:",
             "options": [
               "A causal relationship",
-              "A strong positive correlation",
               "No correlation",
+              "A strong positive correlation",
               "A strong negative correlation"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "A data point on a scatter plot lies far away from the general trend of the other points. This point is called:",
@@ -42233,14 +42233,14 @@ const curriculum: DayContent[] = [
         "topic": "Measurement: Perimeter & Area",
         "quiz": [
           {
-            "q": "A rectangular prism has dimensions 3 m × 4 m × 5 m. What is its volume?",
+            "q": "A triangular prism has a right-triangle base with legs 6 cm and 8 cm and a prism length of 10 cm. What is its volume?",
             "options": [
-              "47 m³",
-              "12 m³",
-              "60 m³",
-              "120 m³"
+              "480 cm³",
+              "240 cm³",
+              "120 cm³",
+              "48 cm³"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "A cylinder has a radius of 4 cm and a height of 9 cm. What is its volume, to the nearest whole number? (use π ≈ 3.14)",
@@ -44268,14 +44268,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which planet is the largest in the solar system?",
+            "q": "Why do the gas giants have much lower average densities than the terrestrial planets?",
             "options": [
-              "Earth",
-              "Neptune",
-              "Saturn",
-              "Jupiter"
+              "They are made mostly of solid iron",
+              "They are made mostly of hydrogen and helium",
+              "They are much closer to the Sun",
+              "They have almost no gravity"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "The gas giant planets are located:",
@@ -45037,12 +45037,12 @@ const curriculum: DayContent[] = [
           {
             "q": "Which factor does NOT directly affect the strength of the gravitational force between two objects?",
             "options": [
-              "None of the above -- all listed factors except colour affect gravitational force",
               "The mass of each object",
               "The distance between the objects",
-              "The colour of the objects"
+              "The colour of the objects",
+              "The product of the two masses"
             ],
-            "answer": 3
+            "answer": 2
           }
         ]
       },
@@ -45210,14 +45210,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Convert 5 feet to inches (1 foot = 12 inches).",
+            "q": "A runner completes a 5 mile race. Using 1 mile ≈ 1.61 km, approximately how many kilometres is this?",
             "options": [
-              "60 inches",
-              "17 inches",
-              "50 inches",
-              "12 inches"
+              "about 3.1 km",
+              "about 6.6 km",
+              "about 8 km",
+              "about 80 km"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "A recipe requires 750 mL of milk. How many liters is this?",
@@ -45486,12 +45486,12 @@ const curriculum: DayContent[] = [
         "topic": "Space & Astronomy",
         "quiz": [
           {
-            "q": "Earth's rotation on its axis takes approximately:",
+            "q": "Why does Ontario have more hours of daylight in June than in December?",
             "options": [
-              "24 hours",
-              "1 hour",
-              "30 days",
-              "365 days"
+              "Earth’s axial tilt points the Northern Hemisphere toward the Sun",
+              "Earth is much closer to the Sun in June",
+              "Earth rotates faster in June",
+              "The Moon blocks less sunlight in June"
             ],
             "answer": 0
           },
@@ -46361,12 +46361,12 @@ const curriculum: DayContent[] = [
           {
             "q": "Which sentence begins with a prepositional phrase rather than its subject?",
             "options": [
-              "After the storm passed, the streets were quiet.",
               "The streets were quiet after the storm passed.",
               "The storm passed, and the streets were quiet.",
-              "Quiet streets remained after the storm passed."
+              "Quiet streets remained after the storm passed.",
+              "After the storm, the streets were quiet."
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "What is an example of a sentence that opens with an -ing phrase?",
@@ -48114,12 +48114,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "What does conditional probability measure?",
+            "q": "A bag has 3 red and 2 blue marbles. What is the probability of drawing a red marble on one random draw?",
             "options": [
-              "The probability of an event that can never happen",
-              "The probability of two independent events occurring together",
-              "The probability of two events that are always identical",
-              "The probability of an event given that another event has already occurred"
+              "2/5",
+              "3/2",
+              "1/5",
+              "3/5"
             ],
             "answer": 3
           },
@@ -48746,14 +48746,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "The logarithmic equation log₂(8) = 3 is equivalent to which exponential equation?",
+            "q": "What is the value of 2⁵ ÷ 2²?",
             "options": [
-              "2^3 = 8",
-              "3^2 = 8",
-              "8^3 = 2",
-              "2^8 = 3"
+              "3",
+              "16",
+              "8",
+              "128"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "For a quadratic equation, if the discriminant (b² - 4ac) is negative, the equation has ___.",
@@ -48854,14 +48854,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "One major effect of the Great Depression on Canada was ___.",
+            "q": "Which is a common effect of rapid urbanization in developing countries?",
             "options": [
-              "A sharp increase in international tourism",
-              "Widespread unemployment and the collapse of prices for export goods like wheat",
-              "An immediate boom in manufacturing across all provinces",
-              "The elimination of federal government involvement in the economy"
+              "Growth of informal settlements",
+              "Fewer people living in cities",
+              "Reduced demand for housing",
+              "Disappearance of all rural areas"
             ],
-            "answer": 1
+            "answer": 0
           }
         ]
       }
@@ -49348,14 +49348,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "In direct variation, is one quantity always a constant multiple of another?",
+            "q": "Which equation represents a direct variation between y and x?",
             "options": [
-              "No, direct variation never involves a constant multiple",
-              "Yes",
-              "The relationship is always completely random",
-              "Only when the constant is negative"
+              "y = 5x",
+              "y = 3x + 2",
+              "y = x²",
+              "y = 4/x"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
             "q": "In a box-and-whisker plot, what does the length of the box (the interquartile range) represent?",
@@ -49999,12 +49999,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
           {
-            "q": "In a series circuit, are components connected along a single path?",
+            "q": "Which description matches a series circuit?",
             "options": [
-              "A series circuit has no path for current at all",
-              "No, series circuits always have multiple separate paths",
-              "A circuit where current splits evenly across several branches before reaching the components",
-              "Yes"
+              "Current splits into several branches, each with its own path",
+              "Components are connected only by wireless signals",
+              "There is no path for current to flow",
+              "Components share one loop so current has a single path"
             ],
             "answer": 3
           },
@@ -50115,14 +50115,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which sentence shows correct subject-verb agreement with a collective noun?",
+            "q": "Which sentence shows correct subject-verb agreement?",
             "options": [
-              "The team is practicing every day this week.",
-              "The team am practicing every day this week.",
-              "The team be practicing every day this week.",
-              "The team are practicing every day this week."
+              "The class am writing a test today.",
+              "The class is writing a test today.",
+              "The class be writing a test today.",
+              "The class been writing a test today."
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "Which sentence correctly demonstrates subject-verb agreement with an indefinite pronoun?",
@@ -50611,14 +50611,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
           {
-            "q": "Does a convex lens curve outward?",
+            "q": "Which description matches a convex lens?",
             "options": [
-              "A lens that bends light only at its outer edges, leaving the center unaffected",
-              "No, a convex lens always curves inward",
-              "Convex lenses have no defined curvature",
-              "Yes"
+              "Thinner in the middle, it spreads light rays apart",
+              "Thicker in the middle, it converges parallel light rays",
+              "A flat piece of glass that does not bend light",
+              "A surface that reflects all light back to the source"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "What is an air mass?",
@@ -50941,12 +50941,12 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which sentence type expresses strong emotion and typically ends with an exclamation point?",
+            "q": "Which sentence uses parallel structure correctly?",
             "options": [
-              "Declarative",
-              "Interrogative",
-              "Exclamatory",
-              "Imperative"
+              "She likes hiking, swimming, and to ride bikes",
+              "She likes to hike, swimming, and bikes",
+              "She likes hiking, swimming, and riding bikes",
+              "She likes hiking, to swim, and riding bikes"
             ],
             "answer": 2
           },
@@ -52369,14 +52369,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Convert to reported speech: She said, 'I am tired.'",
+            "q": "Convert to reported speech using standard backshift of tenses: She said, 'I am tired.'",
             "options": [
-              "She said that she is tired.",
               "She said that she was tired.",
-              "She say that she was tired.",
-              "She said, I am tired."
+              "She said that she is tired.",
+              "She said that she will be tired.",
+              "She said that I am tired."
             ],
-            "answer": 1
+            "answer": 0
           },
           {
             "q": "What is the primary purpose of a eulogy?",
@@ -52553,14 +52553,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
           {
-            "q": "What is onomatopoeia?",
+            "q": "Which literary device is used in the line \"The old house groaned and sighed in the storm\"?",
             "options": [
-              "A figure of speech that compares two things using like or as",
-              "A punctuation mark used to end a question",
-              "A word that imitates or suggests the sound it describes",
-              "A grammatical rule about verb tense"
+              "Simile",
+              "Hyperbole",
+              "Alliteration",
+              "Personification"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
             "q": "What is an anachronism?",
@@ -53273,12 +53273,12 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Which of these is a renewable energy source?",
+            "q": "Why is a wind farm considered more sustainable than a coal plant?",
             "options": [
-              "Coal",
-              "Wind",
-              "Natural gas",
-              "Petroleum"
+              "It produces electricity at a constant rate in any weather",
+              "It generates electricity without burning fuel",
+              "Coal plants release no greenhouse gases",
+              "It needs no land or materials to build"
             ],
             "answer": 1
           },
@@ -54050,12 +54050,12 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Convert 5 kilometers to meters.",
+            "q": "A cylindrical water tank has a radius of 2 m and a height of 3 m. Using pi = 3.14, what is its volume in cubic metres?",
             "options": [
-              "50 meters",
-              "500 meters",
-              "5,000 meters",
-              "50,000 meters"
+              "12.56 m³",
+              "18.84 m³",
+              "37.68 m³",
+              "75.36 m³"
             ],
             "answer": 2
           },
@@ -54089,14 +54089,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "The force that keeps planets in orbit around the Sun is:",
+            "q": "Why do planets farther from the Sun take longer to complete one orbit?",
             "options": [
-              "Air resistance",
-              "Gravity",
-              "Magnetism",
-              "Friction"
+              "They are always smaller",
+              "They are not affected by gravity",
+              "They move at the same speed as nearer planets",
+              "They travel a longer path at lower speeds"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "What ultimately determines whether a dying star ends up as a white dwarf, neutron star, or black hole?",

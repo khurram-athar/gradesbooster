@@ -772,14 +772,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "In that same sentence, 'the bus arrived late' functions as...",
+            "q": "In 'Because the road was icy, the bus arrived late, which caused Maria to miss the morning announcements,' the clause 'the bus arrived late' functions as...",
             "options": [
-              "Only an effect",
               "Both an effect and a cause",
+              "Only an effect",
               "Neither a cause nor an effect",
               "Only a cause"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
             "q": "Which sentence shows cause and effect WITHOUT an obvious signal word like 'because' or 'so'?",
@@ -792,14 +792,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "'The factory increased production, so more workers were hired, and traffic grew heavier.' How many cause-and-effect links are shown?",
+            "q": "'The factory increased production, so more workers were hired. Because of the extra workers, traffic grew heavier.' How many cause-and-effect links are shown?",
             "options": [
               "Three",
-              "Two",
               "One",
+              "Two",
               "None"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "Which question would help you identify the EFFECT in a passage?",
@@ -3261,14 +3261,14 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=VkyfKtpPZG8",
         "quiz": [
           {
-            "q": "A thermometer measures...",
+            "q": "A meteorologist records 12 degrees Celsius at 8 a.m. and 20 degrees Celsius at 2 p.m. Which instrument was used, and what trend does the data show?",
             "options": [
-              "Temperature",
-              "Air pressure",
-              "Rainfall",
-              "Wind speed"
+              "Barometer; air pressure rose 8 degrees",
+              "Anemometer; wind speed rose 8 degrees",
+              "Thermometer; temperature rose 8 degrees",
+              "Rain gauge; rainfall rose 8 degrees"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "An anemometer measures...",
@@ -3322,14 +3322,14 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=cX02bJ1pyw4",
         "quiz": [
           {
-            "q": "What is immigration?",
+            "q": "Which situation best shows a 'push factor' that might lead a family to immigrate to Canada?",
             "options": [
-              "Staying in one place forever",
-              "Studying geography",
-              "Visiting a country briefly",
-              "Moving to a new country to live"
+              "A family leaves their country because of war and unsafe conditions",
+              "A family moves to a new house in the same city",
+              "A student visits Canada for a one-week vacation",
+              "A family decides to stay in their hometown"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "What is one common reason people immigrate to Canada?",
@@ -3896,14 +3896,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which is the BEST example of a factor that would encourage someone to immigrate to Canada?",
+            "q": "Which of these is a 'pull factor' that attracts people to immigrate to Canada?",
             "options": [
-              "Random chance",
-              "Bad weather elsewhere",
-              "Job opportunities and safety",
-              "Conflict at home"
+              "Civil conflict in the home country",
+              "Lack of jobs in the home country",
+              "Natural disasters in the home country",
+              "Job opportunities and safety in Canada"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
             "q": "How does Canada's multicultural policy differ from requiring full assimilation to one culture?",
@@ -4124,14 +4124,14 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=vCfqg9GrB_0",
         "quiz": [
           {
-            "q": "Why do Canada's territories receive certain powers directly from the federal government rather than functioning exactly like provinces?",
+            "q": "How does the source of a territory’s government powers differ from a province’s?",
             "options": [
-              "Territories relate differently to Ottawa",
-              "There is no difference between them",
-              "Territories have more power than provinces",
-              "This is not actually true"
+              "Provinces get their powers from territorial governments",
+              "Parliament grants territories their powers; provinces' powers come from the Constitution",
+              "Territories get their powers from provincial governments",
+              "Territories have no government and are ruled by provinces"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "Nunavut has a large Inuit population and was created as its own territory in 1999. Why might this matter for the Inuit?",
@@ -4711,12 +4711,12 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which punctuation choice is correct?",
+            "q": "Which sentence is punctuated correctly?",
             "options": [
-              "Neither is correct",
               "\"Watch out\"! she shouted.",
+              "\"Watch out,\" she shouted!",
               "\"Watch out!\" she shouted.",
-              "Both are equally correct"
+              "\"Watch out.\" she shouted."
             ],
             "answer": 2
           },
@@ -5177,14 +5177,14 @@ const curriculum: DayContent[] = [
         ],
         "quiz": [
           {
-            "q": "Why do Canada's territories receive certain powers directly from the federal government, unlike provinces?",
+            "q": "Which statement about the powers of Canada’s territories is accurate?",
             "options": [
-              "There is no difference",
-              "Territories have more power than provinces",
-              "This isn't actually true",
-              "Territories relate differently to Ottawa"
+              "They hold the same constitutional powers as provinces",
+              "Their powers are delegated by Parliament rather than set in the Constitution",
+              "They receive their powers from the provinces",
+              "They have no powers and no elected government"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "Why has traditional Inuit knowledge been essential for survival in the Arctic?",
@@ -5283,12 +5283,12 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "A student's descriptive paragraph names objects but includes no sensory language ('There was a table, a chair, and a lamp'). What's missing?",
+            "q": "A student writes: 'There was a table, a chair, and a lamp.' Which revision would best help a reader picture the scene?",
             "options": [
-              "Punctuation",
-              "Correct spelling",
-              "Nothing — this is already vivid",
-              "Sensory details to picture the scene"
+              "There was a table, and there was a chair, and there was also a lamp.",
+              "The table, the chair, and the lamp were all things found in the room.",
+              "In the room there was a table, then a chair, and then there was a lamp.",
+              "A scratched oak table and a creaky chair sat beside a lamp’s warm yellow glow."
             ],
             "answer": 3
           }
@@ -5992,14 +5992,14 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=dbJHOgvh7ik",
         "quiz": [
           {
-            "q": "A book tells a story about talking animals solving mysteries, clearly invented by the author. Which genre is this, and why?",
+            "q": "A book tells the story of a clever rabbit and a wise owl who work together to solve a mystery in the forest. Which genre is this?",
             "options": [
-              "Nonfiction, because it teaches a lesson",
-              "Poetry, because it has rhythm",
-              "Fiction — an imagined, invented story",
-              "Biography, because it's about real animals"
+              "Fiction",
+              "Biography",
+              "Nonfiction",
+              "Poetry"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "A text uses short line breaks, rhyme, and vivid imagery to express emotion. Which genre does this describe?",
@@ -6073,12 +6073,12 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "A line graph shows temperature rising steadily from 8am to 2pm, then dropping sharply. What does the sharp drop likely indicate?",
+            "q": "A line graph shows the temperature rising steadily from 8am to 2pm, then dropping sharply by 5pm. If the temperature at 2pm was 24°C and at 5pm was 14°C, how much did the temperature fall?",
             "options": [
-              "Temperature never actually changes",
-              "The data stopped being collected",
-              "A rapid decrease in temperature after 2pm",
-              "The graph has an error"
+              "14°C",
+              "38°C",
+              "10°C",
+              "24°C"
             ],
             "answer": 2
           },
@@ -7194,14 +7194,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Why can we never see a permanently dark side of the moon that never receives sunlight?",
+            "q": "People sometimes call the far side of the moon the 'dark side.' Why is this name misleading?",
             "options": [
+              "It gets sunlight as the moon orbits Earth",
+              "It always faces the sun",
               "The moon has no far side",
-              "This is not actually true; the moon doesn't rotate",
-              "The far side never gets any sunlight ever",
-              "The far side of the moon does receive sunlight"
+              "It is made of rock that absorbs light"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "A student claims the moon produces its own light like the sun. Why is this claim incorrect?",
@@ -8026,10 +8026,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What was Canadian Confederation?",
             "options": [
-              "A war between two countries",
-              "A type of sporting event",
-              "A single citys founding",
-              "Separate colonies joining together to form the country of Canada"
+              "A war fought between two countries",
+              "A sporting event held in one city",
+              "The founding of a single city",
+              "Colonies joining together to form Canada"
             ],
             "answer": 3
           },
@@ -8044,12 +8044,12 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What happened to Canadas government after Confederation?",
+            "q": "What happened to Canada’s government after Confederation?",
             "options": [
-              "Canada lost its ability to make any decisions",
-              "Canada gained its own government to make decisions",
-              "No government existed after Confederation",
-              "Another country took over completely"
+              "Canada lost its ability to decide",
+              "Canada gained its own government",
+              "No government existed afterward",
+              "Another country took over"
             ],
             "answer": 1
           },
@@ -9234,7 +9234,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Which word shares a root with biology (meaning study of life)?",
+            "q": "Which word contains the root \"bio\", meaning life?",
             "options": [
               "Geography",
               "Biography",
@@ -10734,12 +10734,12 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which is a corrected, clear version of a modifier issue? Wearing a red hat, I saw my friend.",
+            "q": "Walking to school, the rain soaked Jamal. Which revision fixes the dangling modifier?",
             "options": [
-              "Both sentences mean the exact same thing with no ambiguity.",
-              "Wearing a red hat, my friend I saw.",
-              "Neither sentence uses a modifier.",
-              "I saw my friend wearing a red hat."
+              "Walking to school, the rain soaked Jamal again.",
+              "The rain soaked, walking to school, Jamal.",
+              "Soaked by Jamal, the rain walked to school.",
+              "Walking to school, Jamal was soaked by the rain."
             ],
             "answer": 3
           }
@@ -10876,14 +10876,14 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=TUvG2CzXfc0",
         "quiz": [
           {
-            "q": "Who makes decisions in a courtroom?",
+            "q": "Which of these is a higher level of court in Ontario than the Ontario Court of Justice?",
             "options": [
-              "A teacher",
-              "A doctor",
-              "A judge",
-              "A mayor"
+              "Superior Court of Justice",
+              "Municipal council",
+              "School board",
+              "Provincial legislature"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "What is the justice system used for?",
@@ -10896,14 +10896,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Where do judges usually work?",
+            "q": "Which of these is a key responsibility of a judge in a Canadian courtroom?",
             "options": [
-              "In a court",
-              "In a farm",
-              "In a hospital",
-              "In a school"
+              "Writing new laws for Parliament",
+              "Collecting taxes from citizens",
+              "Making sure the law is applied fairly",
+              "Choosing the Prime Minister"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "Why is it important for a justice system to be fair?",
@@ -10916,14 +10916,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "What might happen in a courtroom?",
+            "q": "In a Canadian courtroom, what is the role of a Crown attorney?",
             "options": [
-              "A sports game",
-              "A judge helps resolve a disagreement or legal case",
-              "A birthday party",
-              "A cooking class"
+              "To defend the accused person at trial",
+              "To sit as the judge in the case",
+              "To present the case against the accused",
+              "To write the laws used in court"
             ],
-            "answer": 1
+            "answer": 2
           }
         ],
         "topic": "Canadian Institutions & Justice"
@@ -11629,9 +11629,9 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Which of these is an example of a well-known constellation?",
+            "q": "Which of these is an official constellation?",
             "options": [
-              "The Big Dipper",
+              "Orion",
               "The Sahara Desert",
               "The Rocky Mountains",
               "The Great Lakes"
@@ -13665,12 +13665,12 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What is the area of one face of a rectangular prism measuring 4 by 3?",
+            "q": "What is the area of a rectangular face that measures 4 cm by 3 cm?",
             "options": [
-              "24 square units",
-              "7 square units",
-              "14 square units",
-              "12 square units"
+              "7 square cm",
+              "14 square cm",
+              "24 square cm",
+              "12 square cm"
             ],
             "answer": 3
           },
@@ -15248,52 +15248,52 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=8NUxvJS-_0k",
         "quiz": [
           {
-            "q": "What body part helps us breathe?",
+            "q": "Which muscle below the lungs moves downward when it contracts to help us breathe in?",
             "options": [
-              "Hair",
-              "Ear",
-              "Lungs",
-              "Elbow"
+              "Biceps",
+              "Diaphragm",
+              "Stomach wall",
+              "Heart"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Where are our lungs located?",
+            "q": "In the lungs, which tiny air sacs allow oxygen to pass into the blood?",
             "options": [
-              "Inside our chest",
-              "Outside our body",
-              "Inside our foot",
-              "Inside our hand"
+              "Ribs",
+              "Alveoli",
+              "Esophagus",
+              "Tonsils"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When you inhale, what happens to your diaphragm and rib cage?",
+            "options": [
+              "Diaphragm moves up; ribs move inward",
+              "Both stay completely still",
+              "Ribs close tightly together",
+              "Diaphragm moves down; ribs move up and out"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which waste gas does the respiratory system release when we exhale?",
+            "options": [
+              "Carbon dioxide",
+              "Oxygen",
+              "Helium",
+              "Hydrogen"
             ],
             "answer": 0
           },
           {
-            "q": "What happens to our lungs when we inhale?",
+            "q": "Which is the correct path air follows when you breathe in?",
             "options": [
-              "They push out all the air",
-              "They shrink completely",
-              "They stop working",
-              "They take in air"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What happens to our lungs when we exhale?",
-            "options": [
-              "Nothing happens at all",
-              "They disappear",
-              "They take in more air",
-              "They push air out"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Our lungs are best described as the body parts that help us ___.",
-            "options": [
-              "Breathe",
-              "Taste food",
-              "See colours",
-              "Hear sounds"
+              "Nose, trachea, bronchi, lungs",
+              "Mouth, stomach, lungs, heart",
+              "Nose, heart, lungs, trachea",
+              "Trachea, nose, bronchi, lungs"
             ],
             "answer": 0
           }
@@ -15922,14 +15922,14 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=2diHLxIdRPY",
         "quiz": [
           {
-            "q": "A prepositional phrase begins with a ___.",
+            "q": "What type of word begins the phrase \"under the table\"?",
             "options": [
-              "Verb",
-              "Noun only, with no preposition",
               "Preposition",
-              "Adverb"
+              "Verb",
+              "Adverb",
+              "Conjunction"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "Which of these is a prepositional phrase?",
@@ -17263,7 +17263,7 @@ const curriculum: DayContent[] = [
               "45",
               "40"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "Why might someone estimate before solving a math problem?",
@@ -17960,14 +17960,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "A prepositional phrase begins with a ___.",
+            "q": "Which of these groups of words is a prepositional phrase?",
             "options": [
-              "Adverb",
-              "Verb",
-              "Noun only, with no preposition",
-              "Preposition"
+              "under the bridge",
+              "ran quickly home",
+              "the happy dog",
+              "she laughed loudly"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "A flashback shows an event that happened ___.",
@@ -18368,54 +18368,54 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=rnIUFrx0DjI",
         "quiz": [
           {
-            "q": "What is the heart?",
+            "q": "Which body system includes the heart, blood vessels, and blood?",
             "options": [
-              "A type of food",
-              "A bone in our leg",
-              "A part of our ear",
-              "A strong muscle that pumps blood"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Where is the heart located?",
-            "options": [
-              "Inside our ear",
-              "Outside our body",
-              "Inside our foot",
-              "Inside our chest"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does blood carry to the rest of our body?",
-            "options": [
-              "Oxygen and nutrients",
-              "Only air",
-              "Only water",
-              "Nothing at all"
+              "Circulatory system",
+              "Digestive system",
+              "Respiratory system",
+              "Nervous system"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the heart an important muscle?",
+            "q": "Which type of blood vessel carries blood away from the heart to the rest of the body?",
             "options": [
-              "It pumps blood that our whole body needs",
-              "It has no real job",
-              "It only helps us see",
-              "It only helps us hear"
+              "Arteries",
+              "Veins",
+              "Nerves",
+              "Bronchial tubes"
             ],
             "answer": 0
           },
           {
-            "q": "The heart is best described as a muscle that ___.",
+            "q": "Which gas does blood pick up in the lungs and deliver to the body’s cells?",
             "options": [
-              "Helps us smell",
-              "Helps us think",
-              "Pumps blood through our body",
-              "Helps us taste"
+              "Carbon dioxide",
+              "Oxygen",
+              "Nitrogen",
+              "Helium"
             ],
-            "answer": 2
+            "answer": 1
+          },
+          {
+            "q": "Why does your heart beat faster during vigorous exercise?",
+            "options": [
+              "Blood slows down to cool the body",
+              "Working muscles need oxygen faster",
+              "The lungs need to rest while exercising",
+              "Bones need extra blood to grow taller"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which habit helps keep your heart healthy?",
+            "options": [
+              "Eating mostly salty snacks",
+              "Regular physical activity",
+              "Sitting for most of the day",
+              "Sleeping fewer than four hours"
+            ],
+            "answer": 1
           }
         ],
         "worksheet": [
@@ -18449,24 +18449,24 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=2wNw5eBurAo",
         "quiz": [
           {
-            "q": "What is the Coat of Arms?",
+            "q": "What do the two animals standing on either side of the shield on Canada’s coat of arms represent?",
             "options": [
-              "A type of map",
-              "A type of currency",
-              "A type of holiday",
-              "An official symbol of Canada"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which images might appear on Canadas Coat of Arms?",
-            "options": [
-              "Only a soccer ball",
-              "Lions, a unicorn, and maple leaves",
-              "Only a bicycle",
-              "Only a computer"
+              "A beaver and a moose",
+              "A lion and a unicorn",
+              "A bear and an eagle",
+              "A wolf and a caribou"
             ],
             "answer": 1
+          },
+          {
+            "q": "What does the Latin motto \"A Mari Usque Ad Mare\" on Canada’s coat of arms mean?",
+            "options": [
+              "Strength in unity",
+              "Peace and order",
+              "From sea to sea",
+              "Great and free"
+            ],
+            "answer": 2
           },
           {
             "q": "What does the Coat of Arms represent?",
@@ -18479,12 +18479,12 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Where might you see an official symbol like the Coat of Arms used?",
+            "q": "The shield on Canada’s coat of arms includes symbols of which four countries?",
             "options": [
-              "Only on toys",
-              "Only on birthday cards",
-              "On government documents and buildings",
-              "Only on food packaging"
+              "England, Scotland, Wales, and Spain",
+              "France, Spain, Portugal, and Italy",
+              "England, Scotland, Ireland, and France",
+              "Scotland, Germany, Russia, and Japan"
             ],
             "answer": 2
           },
@@ -20486,22 +20486,22 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which of these might be a duty of the Governor General?",
+            "q": "Which of these is a duty of the Governor General?",
             "options": [
-              "Selling groceries",
-              "Teaching a classroom",
-              "Welcoming important visitors",
-              "Driving a school bus"
+              "Writing the laws in the House of Commons",
+              "Leading the governing party",
+              "Deciding court cases at the Supreme Court",
+              "Giving royal assent to bills"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "The role of the Governor General is mostly ___.",
+            "q": "How would you best describe the role of the Governor General in Canada?",
             "options": [
-              "Ceremonial",
-              "Related to farming",
-              "About cooking",
-              "About sports"
+              "Mostly ceremonial",
+              "Leader of the governing party in Parliament",
+              "Head of a provincial government",
+              "Chief justice of the Supreme Court"
             ],
             "answer": 0
           },
@@ -20970,34 +20970,34 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Brain%3A%20The%20Bodys%20Control%20Centre%20grade%205%20educational",
         "quiz": [
           {
-            "q": "What is the brain?",
+            "q": "Which body system includes the brain, spinal cord, and nerves?",
             "options": [
-              "The control centre of our body",
-              "A type of muscle only",
-              "A part of our foot",
-              "A bone in our arm"
+              "Digestive system",
+              "Nervous system",
+              "Respiratory system",
+              "Skeletal system"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Where is the brain located?",
+            "q": "Which organ system carries messages between the brain and the rest of the body?",
             "options": [
-              "Inside our foot",
-              "Outside our body",
-              "Inside our head",
-              "Inside our chest"
+              "Circulatory system",
+              "Digestive system",
+              "Nervous system",
+              "Skeletal system"
             ],
             "answer": 2
           },
           {
-            "q": "Which of these does our brain help us do?",
+            "q": "Which of these body functions is controlled by the brain?",
             "options": [
-              "Only grow hair",
-              "Think, learn, and move",
-              "Only digest food",
-              "Only breathe"
+              "Making bones grow heavier",
+              "Mixing food in the stomach",
+              "Pumping blood through the body",
+              "Coordinating movement and senses"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "Why is the brain an important body part?",
@@ -21062,14 +21062,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Name one Canadian astronaut, such as Chris Hadfield.",
+            "q": "Which of these people is a Canadian astronaut?",
             "options": [
-              "Chris Hadfield",
-              "A historical explorer from centuries ago",
               "Terry Fox",
-              "A fictional character"
+              "Alexander Graham Bell",
+              "Samuel de Champlain",
+              "Chris Hadfield"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "Have Canadian astronauts travelled to the International Space Station?",
@@ -21399,14 +21399,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Name one way a compare-and-contrast essay can be organized, such as point-by-point.",
+            "q": "Which of these is a common way to organize a compare-and-contrast essay?",
             "options": [
-              "Point-by-point",
+              "Cause-and-effect order",
               "Randomly with no organization",
               "Alphabetically by author name",
-              "Cause-and-effect order"
+              "Point-by-point"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "Does a compare-and-contrast essay look at both similarities and differences?",
@@ -21538,14 +21538,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Name one sustainable forestry practice, such as replanting trees.",
+            "q": "Which of these is a sustainable forestry practice?",
             "options": [
+              "Replanting trees after harvesting",
               "Cutting down every tree with no replanting",
               "Burning an entire forest",
-              "Paving over cleared forest land",
-              "Replanting trees"
+              "Paving over cleared forest land"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "What is selective logging?",
@@ -21609,14 +21609,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Are time zones based on longitude or on population size?",
+            "q": "Time zones around the world are based mainly on which of these?",
             "options": [
-              "Population size",
-              "Neither, time zones are chosen randomly",
               "Longitude",
-              "Latitude"
+              "Population size",
+              "The number of countries",
+              "Random choices by each country"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "Why might someone need to know about time zones before scheduling an international video call?",
@@ -21745,14 +21745,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What symbol means greater than?",
+            "q": "Which comparison is true?",
             "options": [
-              "%",
-              "=",
-              "<",
-              ">"
+              "45 000 > 4 500",
+              "45 000 < 4 500",
+              "45 000 = 4 500",
+              "4 500 > 45 000"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "Ordering numbers from least to greatest means arranging them ___.",
@@ -21786,14 +21786,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Name one use of satellites, such as weather forecasting.",
+            "q": "Which of these is a use of satellites?",
             "options": [
               "Baking bread",
+              "Weather forecasting",
               "Digging for minerals",
-              "Growing plants",
-              "Weather forecasting"
+              "Growing plants"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "Do satellites help power navigation systems like GPS?",
@@ -21846,14 +21846,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Name one reason a person might become a refugee, such as war.",
+            "q": "Which of these is a reason a person might become a refugee?",
             "options": [
-              "War",
               "Visiting family for a holiday",
-              "Going on a fun vacation",
+              "War or persecution at home",
+              "Going on a vacation",
               "Looking for a cheaper place to live"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "Has Canada historically welcomed refugees seeking safety?",
@@ -22024,34 +22024,34 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Muscles%3A%20Helping%20Us%20Move%20and%20Stay%20Strong%20grade%205%20educational",
         "quiz": [
           {
-            "q": "What are muscles?",
+            "q": "Which body system is made up of bones, muscles, and joints working together to support and move the body?",
             "options": [
-              "Bones that support our body",
-              "A type of food",
-              "Body parts that stretch and squeeze to help us move",
-              "Parts of our brain"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What do muscles work together with to help us move?",
-            "options": [
-              "Our bones",
-              "Our hair",
-              "Our nails",
-              "Our teeth"
+              "Musculoskeletal system",
+              "Digestive system",
+              "Respiratory system",
+              "Circulatory system"
             ],
             "answer": 0
           },
           {
-            "q": "Which of these activities uses your muscles?",
+            "q": "When you bend your arm, which statement best describes how muscles and bones work together?",
             "options": [
-              "Sleeping only",
-              "Thinking quietly",
-              "Sitting completely still",
-              "Running and jumping"
+              "Bones pull on muscles to make them move",
+              "Muscles pull on bones to make them move",
+              "Muscles push bones apart from one another",
+              "Bones move by themselves without muscles"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "Why do muscles usually work in pairs, such as the biceps and triceps in the arm?",
+            "options": [
+              "Muscles are able to push but not pull",
+              "Pairs let the bone stay perfectly still",
+              "One pulls a bone, the other pulls it back",
+              "Pairs of muscles pump blood faster"
+            ],
+            "answer": 2
           },
           {
             "q": "Why is it important to exercise our muscles?",
@@ -22544,17 +22544,17 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
         "quiz": [
           {
-            "q": "What do engineers use to help buildings withstand earthquakes?",
+            "q": "What do engineers add to a building’s design so it can better withstand shaking during an earthquake?",
             "options": [
-              "Thicker windows",
-              "Only decorative features",
-              "No special design at all",
-              "Earthquake-resistant design"
+              "Larger, thicker windows",
+              "Extra decorative stonework",
+              "Flexible foundations and braced frames",
+              "A much heavier, rigid roof"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Name one feature of earthquake-resistant design, such as a flexible foundation.",
+            "q": "Which of these is a feature of earthquake-resistant design?",
             "options": [
               "A completely rigid structure with no flexibility",
               "A building made only of glass",
@@ -22815,14 +22815,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Name one device that a battery might power, such as a flashlight.",
+            "q": "Which of these devices is powered by a battery?",
             "options": [
-              "A flashlight",
               "A glass of water",
               "A pair of scissors",
+              "A flashlight",
               "A wooden chair"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "Why might a battery eventually stop working and need to be replaced or recharged?",
@@ -22856,14 +22856,14 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=K6FasptWdeU",
         "quiz": [
           {
-            "q": "Name one resource extracted by Canada’s mining industry, such as nickel or gold.",
+            "q": "Which of these resources is extracted by Canada’s mining industry?",
             "options": [
               "Wheat",
               "Ocean water",
-              "Nickel",
-              "Fresh fruit"
+              "Fresh fruit",
+              "Nickel"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
             "q": "Does Canada’s mining industry support jobs and the economy?",
@@ -23145,14 +23145,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Around what century did Canada’s earliest universities begin?",
+            "q": "Many well-known Canadian universities, such as McGill (1821) and the University of Toronto (1827), were founded during which century?",
             "options": [
+              "The 1700s",
+              "The 1900s",
               "The 1800s",
-              "The 1600s",
-              "The 1950s",
               "The 2000s"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "Does Canada today have a wide network of colleges and universities?",
@@ -23434,11 +23434,11 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Around what century did Canada’s earliest universities begin?",
+            "q": "Many well-known Canadian universities, such as McGill (1821) and the University of Toronto (1827), were founded during which century?",
             "options": [
+              "The 1500s",
               "The 1600s",
               "The 2000s",
-              "The 1500s",
               "The 1800s"
             ],
             "answer": 3
@@ -23642,14 +23642,14 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=Mz_4zgz_-2U",
         "quiz": [
           {
-            "q": "What do we call rules that help ensure Canadian stories and music are shared with audiences, sometimes known as Canadian content rules?",
+            "q": "What name is given to rules that require a share of music and broadcasts in Canada to be Canadian-made?",
             "options": [
               "Foreign film import bans",
-              "A concept with no real name",
-              "Canadian content rules",
-              "International trade tariffs"
+              "International trade tariffs",
+              "Copyright licences",
+              "Canadian content rules"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
             "q": "Does Canada have its own music and film industry?",
@@ -24238,14 +24238,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "In the lines The cat sat on the mat, which words rhyme?",
+            "q": "Which pair of words from \"The cat sat on the mat\" rhymes?",
             "options": [
               "Sat and the",
-              "Cat and sat",
-              "The and on",
-              "Cat and mat"
+              "Cat and mat",
+              "Mat and on",
+              "The and on"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "Why might a poet use rhythm to help create a certain feeling in a poem?",
@@ -24392,12 +24392,12 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the Senate?",
             "options": [
-              "A part of Canadas government",
-              "A city council",
-              "A sports league",
-              "A group that reviews new laws"
+              "A local city council",
+              "A professional sports league",
+              "The appointed chamber of Parliament",
+              "A group of elected city mayors"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "How do people usually become senators, unlike members of Parliament?",
@@ -24589,14 +24589,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Name one example of a decomposer, such as fungi or worms.",
+            "q": "Which of these living things is a decomposer?",
             "options": [
-              "Fungi",
               "A lion",
               "A rabbit",
-              "A hawk"
+              "A hawk",
+              "A mushroom"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "What do decomposers return to the soil as they break down dead organisms?",
@@ -25088,14 +25088,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Name one physical feature an animal might use to defend itself, such as spines.",
+            "q": "Which of these physical features helps an animal defend itself from predators?",
             "options": [
+              "Sharp quills",
               "A pleasant smell",
               "A soft texture",
-              "Spines",
               "Large eyes"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "Can bright warning colours on an animal signal to predators that it may be dangerous or unpleasant to eat?",
@@ -27291,14 +27291,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "How many different standard views are typically used to represent a 3D object on paper: top, front, and ___?",
+            "q": "Along with the top view and the front view, which view is commonly used to represent a 3D object on paper?",
             "options": [
-              "Side",
               "Diagonal",
-              "Bottom",
-              "Back"
+              "Side",
+              "Inside",
+              "Upside-down"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "Would the top view of a cube typically look like a square?",
@@ -28248,12 +28248,12 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What do we call a narrator whose account of events may be biased or inaccurate?",
+            "q": "What do we call the person or voice that tells a story?",
             "options": [
-              "A third-person narrator only",
-              "A reliable narrator",
-              "An unreliable narrator",
-              "An omniscient narrator"
+              "The illustrator",
+              "The publisher",
+              "The narrator",
+              "The editor"
             ],
             "answer": 2
           }
@@ -30275,14 +30275,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
         "quiz": [
           {
-            "q": "How many hours are numbered in a full 24-hour time system?",
+            "q": "Which range of hours is used on a 24-hour clock?",
             "options": [
-              "00 to 23",
-              "0 to 24",
               "1 to 12",
-              "1 to 24"
+              "1 to 24",
+              "0 to 12",
+              "00 to 23"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "What is 3:00 PM in 24-hour time?",
@@ -30763,34 +30763,34 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Long%20Division%3A%20Dividing%20Two-Digit%20Numbers%20by%20One-Digit%20Numbers%20grade%205%20educational",
         "quiz": [
           {
-            "q": "What is 24 divided by 4?",
+            "q": "What is 84 divided by 4?",
             "options": [
-              "6",
-              "5",
-              "4",
-              "8"
+              "21",
+              "22",
+              "24",
+              "20"
             ],
             "answer": 0
           },
           {
-            "q": "What is 36 divided by 6?",
+            "q": "What is 95 divided by 5?",
             "options": [
-              "4",
-              "5",
-              "6",
-              "7"
+              "17",
+              "19",
+              "21",
+              "18"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What is 42 divided by 7?",
+            "q": "What is 78 divided by 6?",
             "options": [
-              "8",
-              "7",
-              "5",
-              "6"
+              "12",
+              "14",
+              "13",
+              "11"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
             "q": "When we divide a two-digit number, we are sharing it into ___.",
@@ -30803,14 +30803,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What is 48 divided by 8?",
+            "q": "What is 87 divided by 4?",
             "options": [
-              "5",
-              "6",
-              "8",
-              "7"
+              "21 R1",
+              "22 R1",
+              "20 R3",
+              "21 R3"
             ],
-            "answer": 1
+            "answer": 3
           }
         ],
         "topic": "Multiplication & Division"
@@ -31558,14 +31558,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Grasslands%20and%20Savanna%20Habitats%20grade%205%20educational",
         "quiz": [
           {
-            "q": "What is the main type of plant found in a grassland habitat?",
+            "q": "Which type of plant covers most of the ground in a prairie or savanna habitat?",
             "options": [
+              "Grasses",
               "Cacti",
-              "Moss only",
-              "Coral",
-              "Grasses"
+              "Mosses",
+              "Seaweed"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "Why do grassland habitats have few trees?",
@@ -33267,14 +33267,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "How many sides does every triangle have?",
+            "q": "A triangle has two sides measuring 6 cm and 6 cm and a third side measuring 9 cm. How is it classified by its sides?",
             "options": [
-              "4",
-              "2",
-              "3",
-              "5"
+              "Equilateral",
+              "Isosceles",
+              "Scalene",
+              "Right"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "Classifying shapes by their sides and angles helps us understand their ___.",
@@ -33388,22 +33388,22 @@ const curriculum: DayContent[] = [
           {
             "q": "How many time zones does Canada have?",
             "options": [
-              "Several",
-              "Only one",
-              "One hundred",
-              "None"
+              "2",
+              "4",
+              "6",
+              "10"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Time zones exist because Earth is ___ shaped and turns as the sun shines on different parts.",
+            "q": "Earth rotates once about every 24 hours and is divided into 24 standard time zones. About how many degrees of longitude does each time zone span?",
             "options": [
-              "Flat",
-              "Round",
-              "Triangular",
-              "Square"
+              "5 degrees",
+              "10 degrees",
+              "24 degrees",
+              "15 degrees"
             ],
-            "answer": 1
+            "answer": 3
           }
         ],
         "worksheet": [
@@ -33975,14 +33975,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Which is most likely the moral of a fable about a slow but steady turtle winning a race?",
+            "q": "In a fable, a hare boasts and naps during a race while a tortoise keeps moving without stopping and wins. Which moral best fits?",
             "options": [
-              "Fast animals always win every race.",
-              "Races are never worth entering.",
-              "Turtles cannot move at all.",
-              "Slow and steady wins the race."
+              "Steady effort beats boasting",
+              "Speed alone always guarantees a win",
+              "Races are never worth entering at all",
+              "Tortoises are naturally faster than hares"
             ],
-            "answer": 3
+            "answer": 0
           }
         ],
         "topic": "Writing"
@@ -34546,14 +34546,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Wind%20Turbines%3A%20Catching%20the%20Wind%20for%20Power%20grade%205%20educational",
         "quiz": [
           {
-            "q": "What does a wind turbine capture to make electricity?",
+            "q": "In a wind turbine, which energy transformation produces electricity?",
             "options": [
-              "Fire",
-              "Water",
-              "Sunlight",
-              "Wind"
+              "Thermal energy to light energy",
+              "Kinetic energy of moving air to electrical energy",
+              "Chemical energy to sound energy",
+              "Light energy to thermal energy"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "What part of a wind turbine spins to catch the wind?",
@@ -34586,14 +34586,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which location would likely be good for wind turbines?",
+            "q": "Which factor is MOST important when choosing a site for a wind farm?",
             "options": [
-              "A windy, open area",
-              "A closet",
-              "A sealed underground cave",
-              "A perfectly still room"
+              "A location with many tall buildings blocking the wind",
+              "A location with very little open space",
+              "A location with strong, steady winds",
+              "A location that is always calm"
             ],
-            "answer": 0
+            "answer": 2
           }
         ],
         "worksheet": [
@@ -34795,14 +34795,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Which fraction is smaller: 3/4 or 1/4?",
+            "q": "Which fraction is smaller: 2/3 or 3/5?",
             "options": [
-              "3/4",
+              "2/3",
+              "They are equal",
               "Cannot be determined",
-              "1/4",
-              "They are equal"
+              "3/5"
             ],
-            "answer": 2
+            "answer": 3
           }
         ],
         "topic": "Fractions"
@@ -35490,22 +35490,22 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Multiplication%3A%20Multiplying%20Money%20Amounts%20grade%205%20educational",
         "quiz": [
           {
-            "q": "If one notebook costs 4 dollars, how much do 3 notebooks cost?",
+            "q": "One notebook costs $3.45. How much do 6 notebooks cost?",
             "options": [
-              "10 dollars",
-              "15 dollars",
-              "12 dollars",
-              "9 dollars"
+              "$20.70",
+              "$18.70",
+              "$20.30",
+              "$21.70"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "What is 6 dollars multiplied by 5?",
+            "q": "What is $12.50 multiplied by 4?",
             "options": [
-              "25 dollars",
-              "30 dollars",
-              "20 dollars",
-              "35 dollars"
+              "$48.00",
+              "$50.00",
+              "$52.00",
+              "$46.50"
             ],
             "answer": 1
           },
@@ -35520,12 +35520,12 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "If one ticket costs 8 dollars, what is the cost of 4 tickets?",
+            "q": "One movie ticket costs $9.75. What is the cost of 4 tickets?",
             "options": [
-              "36 dollars",
-              "28 dollars",
-              "32 dollars",
-              "24 dollars"
+              "$36.00",
+              "$37.00",
+              "$39.00",
+              "$40.25"
             ],
             "answer": 2
           },
@@ -35734,32 +35734,32 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Division%3A%20Dividing%20Money%20Amounts%20Evenly%20grade%205%20educational",
         "quiz": [
           {
-            "q": "If 12 dollars is shared evenly among 3 friends, how much does each friend get?",
+            "q": "Three friends share $14.40 equally. How much does each friend get?",
             "options": [
-              "3 dollars",
-              "9 dollars",
-              "4 dollars",
-              "6 dollars"
+              "$4.40",
+              "$4.60",
+              "$5.20",
+              "$4.80"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What is 20 dollars divided evenly among 5 people?",
+            "q": "What is $36.50 divided evenly among 5 people?",
             "options": [
-              "5 dollars",
-              "4 dollars",
-              "15 dollars",
-              "10 dollars"
+              "$7.30",
+              "$6.30",
+              "$7.50",
+              "$8.30"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "If 4 people share the cost of a 24 dollar pizza equally, how much does each person pay?",
+            "q": "Six people share the cost of a $45.00 pizza order equally. How much does each person pay?",
             "options": [
-              "12 dollars",
-              "6 dollars",
-              "4 dollars",
-              "8 dollars"
+              "$6.50",
+              "$7.50",
+              "$7.00",
+              "$8.50"
             ],
             "answer": 1
           },
@@ -35774,14 +35774,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "What is 18 dollars divided evenly among 3 people?",
+            "q": "What is $27.60 divided evenly among 4 people?",
             "options": [
-              "15 dollars",
-              "6 dollars",
-              "3 dollars",
-              "9 dollars"
+              "$6.40",
+              "$7.90",
+              "$6.90",
+              "$6.60"
             ],
-            "answer": 1
+            "answer": 2
           }
         ],
         "topic": "Multiplication & Division"
@@ -35794,14 +35794,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
         "quiz": [
           {
-            "q": "What does Newtons second law describe?",
+            "q": "Which of these is a force that pulls objects toward the centre of Earth?",
             "options": [
-              "How sound travels through air",
-              "How force, mass, and acceleration are related",
-              "How plants grow toward light",
-              "How objects change colour"
+              "Friction",
+              "Magnetism",
+              "Buoyancy",
+              "Gravity"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "In a series circuit, how are components connected?",
@@ -37010,7 +37010,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Comparing the two rectangles above, what do you notice?",
+            "q": "A rectangle with sides 2 and 8 has an area of 16 square units, and a rectangle with sides 5 and 5 has an area of 25 square units. Both have a perimeter of 20 units. What do you notice?",
             "options": [
               "Equal perimeters can still produce different areas",
               "Neither rectangle actually has a perimeter of 20",
@@ -38021,44 +38021,44 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
         "quiz": [
           {
-            "q": "What does a herbivore eat?",
+            "q": "A deer mostly eats grasses and leaves. In a food chain, which term best describes the deer?",
             "options": [
-              "Only plants",
-              "Nothing at all",
-              "Both plants and animals",
-              "Only other animals"
+              "Producer",
+              "Primary consumer",
+              "Decomposer",
+              "Secondary consumer"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What does a carnivore eat?",
+            "q": "In a food chain, a hawk eats a snake that ate a mouse. Which term best describes the hawk?",
             "options": [
-              "Only other animals",
-              "Only plants",
-              "Rocks and soil",
-              "Both plants and animals"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does an omnivore eat?",
-            "options": [
-              "Neither plants nor animals",
-              "Only plants",
-              "Both plants and animals",
-              "Only other animals"
+              "Producer",
+              "Decomposer",
+              "Carnivore",
+              "Herbivore"
             ],
             "answer": 2
           },
           {
-            "q": "Which of these animals is most likely a carnivore?",
+            "q": "A bear eats berries, roots, and fish. Why is a bear called an omnivore?",
             "options": [
-              "A deer",
-              "A lion",
-              "A cow",
-              "A rabbit"
+              "It eats only plants",
+              "It eats only animals",
+              "It gets energy from sunlight",
+              "It eats both plants and animals"
             ],
-            "answer": 1
+            "answer": 3
+          },
+          {
+            "q": "Which pair correctly matches an animal with its diet?",
+            "options": [
+              "Raccoon - omnivore",
+              "Rabbit - carnivore",
+              "Wolf - herbivore",
+              "Cow - carnivore"
+            ],
+            "answer": 0
           },
           {
             "q": "Why might an animals teeth shape give a clue about its diet?",
@@ -40208,14 +40208,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "If you fold the net of a triangular prism correctly, what shape results?",
+            "q": "A net is made of 2 triangles and 3 rectangles. If it is folded correctly, what solid does it make?",
             "options": [
-              "A sphere",
-              "A cube",
-              "A cone",
-              "A triangular prism"
+              "Rectangular prism",
+              "Triangular prism",
+              "Square pyramid",
+              "Cube"
             ],
-            "answer": 3
+            "answer": 1
           }
         ],
         "topic": "2D/3D Geometry & Shapes"
@@ -40679,14 +40679,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "If 2n + 3 = n + 7, what is the value of n?",
+            "q": "If 3n + 4 = 19, what is the value of n?",
             "options": [
               "3",
-              "10",
+              "4",
               "5",
-              "4"
+              "7"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
             "q": "What does displacement measure?",
@@ -41887,12 +41887,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Polygons%2C%20Fractions%2C%20and%20Financial%20Literacy%20grade%205%20educational",
         "quiz": [
           {
-            "q": "How many sides does a hexagon have?",
+            "q": "A regular octagon has a side length of 6 cm. What is its perimeter?",
             "options": [
-              "Five",
-              "Four",
-              "Seven",
-              "Six"
+              "36 cm",
+              "42 cm",
+              "14 cm",
+              "48 cm"
             ],
             "answer": 3
           },
@@ -41917,14 +41917,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which fraction is greater: 1/2 or 1/3?",
+            "q": "Which fraction is greater: 3/4 or 5/8?",
             "options": [
-              "Cannot be determined",
-              "1/2",
-              "1/3",
-              "They are equal"
+              "3/4",
+              "5/8",
+              "They are equal",
+              "Cannot be determined"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
             "q": "What is a loan?",
@@ -42662,12 +42662,12 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "If a shape is translated and then reflected, in what order do the transformations occur?",
+            "q": "Why can the order of the transformations matter in a composite transformation?",
             "options": [
-              "A rotation always happens before either of them",
-              "The translation happens first, followed by the reflection",
-              "The reflection always happens before the translation",
-              "Both transformations must happen at the exact same instant"
+              "Order never matters for any transformation",
+              "The final image can end up in a different position",
+              "Only the first transformation changes the shape",
+              "The second transformation always cancels the first"
             ],
             "answer": 1
           }
@@ -42890,14 +42890,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%3A%20Composing%20and%20Decomposing%20Numbers%20in%20Different%20Ways%20grade%205%20educational",
         "quiz": [
           {
-            "q": "Which is one way to decompose the number 47?",
+            "q": "Which is one way to decompose the number 4 825?",
             "options": [
-              "4 + 7",
-              "40 + 7",
-              "470",
-              "47 + 47"
+              "4 000 + 80 + 20 + 5",
+              "400 + 800 + 20 + 5",
+              "4 000 + 800 + 20 + 5",
+              "48 + 25"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "What does it mean to decompose a number?",
@@ -42910,14 +42910,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Which is another way to show 53 besides 50 + 3?",
+            "q": "Which is another way to show 6.38 besides 6 + 0.3 + 0.08?",
             "options": [
-              "40 + 13",
-              "530",
-              "35 + 35",
-              "5 + 3"
+              "6 + 3.8",
+              "6 + 0.038",
+              "60 + 0.38",
+              "5 + 1.38"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "Why is it useful to decompose numbers in more than one way?",
@@ -43175,14 +43175,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What does a weighted average do differently from a regular average?",
+            "q": "What is the mean (average) of 4, 6, 8, and 10?",
             "options": [
-              "It always gives every value the exact same importance",
-              "It can only be calculated using whole numbers",
-              "It ignores some values completely",
-              "It gives different amounts of importance to different values"
+              "7",
+              "6",
+              "8",
+              "28"
             ],
-            "answer": 3
+            "answer": 0
           }
         ]
       },
@@ -44175,24 +44175,24 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Ocean%20Tides%3A%20The%20Rise%20and%20Fall%20of%20the%20Sea%20grade%205%20educational",
         "quiz": [
           {
-            "q": "What are ocean tides?",
+            "q": "What mainly causes ocean tides on Earth?",
             "options": [
-              "A kind of fish",
-              "A colour of water",
-              "A type of storm",
-              "The rise and fall of the sea"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Where can people often observe the tide changing?",
-            "options": [
-              "On a mountain",
-              "At the beach",
-              "In the desert",
-              "In a forest"
+              "The wind blowing across the ocean",
+              "The gravitational pull of the Moon",
+              "Underwater volcanoes",
+              "Rainfall over the ocean"
             ],
             "answer": 1
+          },
+          {
+            "q": "Which tides happen when the Moon and Sun line up and pull together, giving the biggest tidal range?",
+            "options": [
+              "Neap tides",
+              "Rip tides",
+              "Spring tides",
+              "Tidal waves"
+            ],
+            "answer": 2
           },
           {
             "q": "About how many times a day does the tide usually rise and fall?",
@@ -44205,24 +44205,24 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "At low tide, the water usually moves ___ the shore.",
+            "q": "A beach has a high tide at 6:00 a.m. About when will the next low tide most likely occur?",
             "options": [
-              "Away from",
-              "Nowhere near",
-              "Underground beneath",
-              "Straight up into the sky above"
+              "About 6:00 a.m. the next day",
+              "About 7:00 a.m. the same day",
+              "About 9:00 p.m. the same day",
+              "About 12:00 noon"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Tides are an example of how the ocean is always ___.",
+            "q": "Why do fishers and boaters check a tide table before heading out?",
             "options": [
-              "Frozen solid",
-              "Completely still",
-              "Moving and changing",
-              "Made of ice"
+              "Tides change water depth and currents",
+              "Tides control the colour of the water",
+              "Tides stop all waves from forming",
+              "Tides make the ocean saltier each day"
             ],
-            "answer": 2
+            "answer": 0
           }
         ],
         "worksheet": [
@@ -44854,12 +44854,12 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Why is it important to choose the correct article based on sound rather than just the first letter of a word, as in an hour?",
+            "q": "Why is “an hour” correct even though “hour” starts with the letter h?",
             "options": [
-              "Article choice depends on the actual sound a word begins with, not always its spelling",
-              "Article choice never depends on how a word sounds",
-              "An is used before every word that has more than one syllable",
-              "The word hour always requires the article a"
+              "The h is silent, so the word begins with a vowel sound",
+              "The letter h is always treated as a vowel",
+              "Hour is a proper noun that needs “an”",
+              "Words with more than three letters take “an”"
             ],
             "answer": 0
           }
@@ -45486,12 +45486,12 @@ const curriculum: DayContent[] = [
         "topic": "Economy, Trade & Currency",
         "quiz": [
           {
-            "q": "What is one main purpose of a bank or credit union?",
+            "q": "What is one way a credit union or bank makes money?",
             "options": [
-              "To build roads",
-              "To help people save money and borrow money",
-              "To print newspapers",
-              "To sell groceries"
+              "By collecting income tax",
+              "By charging interest on loans",
+              "By printing Canadian money",
+              "By running public schools"
             ],
             "answer": 1
           },
@@ -45526,14 +45526,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Which of these is an example of using a bank or credit union?",
+            "q": "Maya deposits $50 into her savings account and later earns an extra $1 each month with no further deposits. What is the extra $1 called?",
             "options": [
-              "Voting in a federal election",
-              "Opening a savings account to set aside money for the future",
-              "Growing wheat on a farm",
-              "Building a highway"
+              "A fee",
+              "A tax",
+              "Interest",
+              "A loan"
             ],
-            "answer": 1
+            "answer": 2
           }
         ]
       }
@@ -45924,14 +45924,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Give an example of a trait a child might inherit from a parent.",
+            "q": "Which of these is an inherited trait rather than a learned behaviour?",
             "options": [
-              "A school subject",
-              "Eye colour",
-              "Favourite toy",
-              "A pet"
+              "Riding a bike",
+              "Speaking French",
+              "Playing the piano",
+              "Having freckles"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
             "q": "Why do children often look similar to their parents?",
@@ -45954,14 +45954,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Inherited traits come from a living things ___.",
+            "q": "A plant breeder crosses a tall pea plant with a short pea plant. Which best explains why the offspring may show traits of both parents?",
             "options": [
-              "Friends",
-              "Teachers",
-              "Parents",
-              "Neighbours"
+              "Offspring inherit genes from both parents",
+              "Offspring copy traits from nearby plants",
+              "Offspring are shaped only by sunlight",
+              "Offspring take all traits from the taller parent"
             ],
-            "answer": 2
+            "answer": 0
           }
         ],
         "topic": "Genetics & Heredity"
@@ -46140,14 +46140,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Why might identifying the shape of a prisms base be the fastest way to classify it?",
+            "q": "A prism has two matching hexagons as its bases. What is the best name for this prism?",
             "options": [
-              "Every prism has exactly the same base shape",
-              "The base shape determines the prisms name and much of its structure",
-              "The height of the prism decides its name more than the base does",
-              "Only the number of edges is used to classify a prism"
+              "Triangular prism",
+              "Rectangular prism",
+              "Hexagonal prism",
+              "Hexagonal pyramid"
             ],
-            "answer": 1
+            "answer": 2
           }
         ],
         "topic": "2D/3D Geometry & Shapes"
@@ -46160,52 +46160,52 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20The%20Five%20Senses%20and%20Sensory%20Organs%20grade%205%20educational",
         "quiz": [
           {
-            "q": "Which organ is linked to the sense of sight?",
+            "q": "Which part of the eye controls how much light enters it?",
             "options": [
-              "The tongue",
-              "The nose",
-              "The ears",
-              "The eyes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which organ is linked to the sense of hearing?",
-            "options": [
-              "The nose",
-              "The ears",
-              "The tongue",
-              "The eyes"
+              "Cornea",
+              "Iris",
+              "Optic nerve",
+              "Retina"
             ],
             "answer": 1
           },
           {
-            "q": "Which organ is linked to the sense of taste?",
+            "q": "In the ear, what do sound vibrations make move before the signal travels to the brain?",
             "options": [
-              "The nose",
-              "The ears",
-              "The tongue",
-              "The eyes"
+              "The lens",
+              "The iris",
+              "The eardrum",
+              "The retina"
             ],
             "answer": 2
           },
           {
-            "q": "Which organ is linked to the sense of smell?",
+            "q": "The tongue detects tastes using tiny structures called what?",
             "options": [
-              "The nose",
-              "The eyes",
-              "The tongue",
-              "The ears"
+              "Hair follicles",
+              "Retinas",
+              "Eardrums",
+              "Taste buds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does food seem to have less flavour when you have a stuffy nose?",
+            "options": [
+              "Smell and taste work together to create flavour",
+              "The tongue stops working when you are sick",
+              "The eyes taste food",
+              "Food actually loses its flavour"
             ],
             "answer": 0
           },
           {
-            "q": "How many senses are commonly described in humans?",
+            "q": "A sensory receptor in the skin detects a hot stove and the brain tells the hand to pull away. Which path do signals follow?",
             "options": [
-              "Ten",
-              "Five",
-              "Three",
-              "Two"
+              "Skin to stomach to brain",
+              "Skin to nerves to brain",
+              "Ears to eyes to brain",
+              "Brain to skin to nerves"
             ],
             "answer": 1
           }
@@ -46346,14 +46346,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Fractions%20That%20Equal%20One%20Whole%20grade%205%20educational",
         "quiz": [
           {
-            "q": "Which fraction is equal to one whole?",
+            "q": "Which expression equals 1 whole?",
             "options": [
-              "1/4",
-              "2/4",
-              "3/4",
-              "4/4"
+              "2/5 + 2/5",
+              "1/3 + 1/2",
+              "3/8 + 5/8",
+              "3/4 + 3/4"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
             "q": "A fraction equals one whole when ___.",
@@ -46366,34 +46366,34 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Which fraction is equal to one whole?",
+            "q": "Which mixed number is equal to 7/4?",
             "options": [
-              "6/6",
-              "1/6",
-              "5/6",
-              "4/6"
+              "1 1/4",
+              "1 1/2",
+              "1 3/4",
+              "2 1/4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Sam ate 3/8 of a pizza and Lina ate 5/8 of the same pizza. What fraction of the pizza did they eat together?",
+            "options": [
+              "8/8",
+              "8/16",
+              "15/8",
+              "2/8"
             ],
             "answer": 0
           },
           {
-            "q": "If a pizza is cut into 8 equal slices and all 8 are eaten, what fraction of the pizza was eaten?",
+            "q": "A recipe needs exactly 1 whole cup of flour. Which combination of measuring scoops gives exactly 1 whole cup?",
             "options": [
-              "1/8",
-              "7/8",
-              "4/8",
-              "8/8"
+              "3 scoops of 1/4 cup",
+              "5 scoops of 1/4 cup",
+              "2 scoops of 1/4 cup",
+              "4 scoops of 1/4 cup"
             ],
             "answer": 3
-          },
-          {
-            "q": "Why does 3/3 represent one whole?",
-            "options": [
-              "No parts of the whole have been counted",
-              "All three equal parts of the whole have been counted",
-              "It represents more than one whole",
-              "Only one part of the whole has been counted"
-            ],
-            "answer": 1
           }
         ],
         "topic": "Fractions"
@@ -46662,14 +46662,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which body part helps control our sense of balance?",
+            "q": "Which structure in the inner ear senses head movement to help the body keep its balance?",
             "options": [
-              "Our hair",
-              "Our elbow",
-              "Our teeth",
-              "A part inside our ear"
+              "The eardrum",
+              "The semicircular canals",
+              "The cochlea",
+              "The ear lobe"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "Which activity uses our sense of balance the most?",
@@ -46682,22 +46682,22 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Our sense of balance helps prevent us from ___.",
+            "q": "A person spins in circles and then feels dizzy. What best explains this?",
             "options": [
-              "Hearing sounds",
-              "Tasting food",
-              "Smelling things",
-              "Falling over"
+              "Their stomach stops working for a short time",
+              "Their eyes can no longer focus on nearby objects",
+              "Their sense of taste is temporarily changed",
+              "Fluid in the inner ear keeps moving after the spin stops"
             ],
             "answer": 3
           },
           {
-            "q": "Riding a bicycle is a good example of using ___.",
+            "q": "Which body parts work together most to help a gymnast stay balanced on a beam?",
             "options": [
-              "Taste",
-              "Balance",
-              "Nothing at all",
-              "Smell only"
+              "The tongue and the nose, guided by the brain",
+              "The inner ear, eyes and muscles, guided by the brain",
+              "The stomach and the lungs, guided by the brain",
+              "The hair and the fingernails, guided by the brain"
             ],
             "answer": 1
           }
@@ -47430,12 +47430,12 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "When can we usually see constellations in the sky?",
+            "q": "Why do the stars in a constellation, such as the Big Dipper, appear to keep the same pattern night after night?",
             "options": [
-              "During the day",
-              "At night",
-              "Never",
-              "Only underwater"
+              "The stars are carried along with Earth as it moves",
+              "The stars are so far away that their positions relative to each other change very slowly",
+              "The stars stop moving whenever people look at them",
+              "The stars are painted on the sky and cannot move"
             ],
             "answer": 1
           },
@@ -48736,14 +48736,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "How did many early Canadian explorers often travel?",
+            "q": "Why were rivers and lakes the main travel routes for early explorers and fur traders in Canada?",
             "options": [
-              "By canoe",
-              "By car",
-              "By airplane",
-              "By subway"
+              "Canada had no usable land at that time",
+              "Explorers were not allowed to walk anywhere",
+              "Rivers stayed frozen solid all year long",
+              "Waterways were often the fastest route through dense forest"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "Jamie's class is doing a mock parliament activity. After the group debates and improves their proposed idea, what should happen next before it can 'become law' in the game?",
@@ -49503,14 +49503,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What is the heart?",
+            "q": "Which statement best describes how the heart works in the circulatory system?",
             "options": [
-              "A type of food",
-              "A bone in our leg",
-              "A part of our ear",
-              "A strong muscle that pumps blood"
+              "It breaks down food into nutrients in the stomach",
+              "It filters the air before it reaches the lungs",
+              "It pumps blood through vessels to carry oxygen around the body",
+              "It sends messages from the brain to the muscles"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
             "q": "An inclined plane makes work easier mainly by letting you ___.",
@@ -49619,14 +49619,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "The word 'bat' can mean a flying animal or sports equipment. This is an example of a ___.",
+            "q": "The words ‘tear’ (to rip) and ‘tear’ (a drop from the eye) are spelled the same but pronounced differently and have different meanings. What are such words called?",
             "options": [
-              "Homograph",
-              "Homophone",
-              "Synonym",
-              "Antonym"
+              "Homophones",
+              "Homographs",
+              "Synonyms",
+              "Antonyms"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "Which sentence best uses imagery to help the reader picture a scene?",
@@ -49756,12 +49756,12 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Before railways and cars, Indigenous peoples and early settlers in Canada often travelled by ___.",
+            "q": "Before railways and highways, why did many Indigenous peoples and fur traders use birchbark canoes for travel in Canada?",
             "options": [
-              "Canoe",
-              "Subway",
-              "Bicycle",
-              "Airplane"
+              "They were light and well suited to the rivers and lakes",
+              "They were faster than modern trains",
+              "They could be pulled on land like wagons",
+              "They were the only vehicle people knew how to build"
             ],
             "answer": 0
           },
@@ -50319,12 +50319,12 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What do engineers use to help buildings withstand earthquakes?",
+            "q": "Which feature helps a tall building survive an earthquake?",
             "options": [
-              "Solid, rigid walls that cannot move at all",
-              "Only decorative features",
-              "No special design at all",
-              "Earthquake-resistant design"
+              "Thick rigid walls that cannot bend",
+              "A very heavy roof on top",
+              "Extra decorations on the outside",
+              "A flexible frame that lets it sway"
             ],
             "answer": 3
           },
@@ -50562,24 +50562,24 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
         "quiz": [
           {
-            "q": "What is the name of Canada’s space agency?",
+            "q": "Which Canadian-built robotic arm helps assemble and repair the International Space Station?",
             "options": [
-              "The Canadian Aviation Authority",
-              "A private space company only",
-              "A branch of a different country’s space program",
-              "The Canadian Space Agency"
+              "Hubble Telescope",
+              "Canadarm2",
+              "Voyager",
+              "Sputnik"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What do we call rules that help ensure Canadian stories and music are shared with audiences, sometimes known as Canadian content rules?",
+            "q": "Why does Canada require radio and TV stations to include a certain amount of Canadian music and programs?",
             "options": [
-              "Provincial censorship laws",
-              "A concept with no real name",
-              "Canadian content rules",
-              "International trade tariffs"
+              "To ban all music from other countries",
+              "To make radios cheaper to buy",
+              "To stop stations from broadcasting overnight",
+              "To make sure Canadian artists and stories are heard"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
             "q": "What is the name of the famous RCMP performance in which riders on horseback perform choreographed formations?",
@@ -50766,12 +50766,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
         "quiz": [
           {
-            "q": "What is the Senate?",
+            "q": "What is the main job of the Senate in Canada’s Parliament?",
             "options": [
-              "A part of Canadas government",
-              "A city council",
-              "A sports league",
-              "A group that reviews new laws"
+              "To review bills and suggest changes before they become law",
+              "To elect the Prime Minister by public vote",
+              "To command the Canadian Armed Forces",
+              "To run provincial elections"
             ],
             "answer": 0
           },
@@ -50823,14 +50823,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
         "quiz": [
           {
-            "q": "Which of these should always be capitalized, no matter where it appears in a sentence?",
+            "q": "Which sentence uses capital letters correctly?",
             "options": [
-              "A verb like run",
-              "The pronoun I",
-              "A common noun like dog",
-              "An adjective like happy"
+              "Last Summer, my family visited niagara falls in Ontario.",
+              "Last summer, my Family visited Niagara Falls in ontario.",
+              "Last summer, my family visited Niagara Falls in Ontario.",
+              "last summer, my family visited Niagara falls in Ontario."
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "What does it mean to paraphrase information from a text?",
@@ -50843,14 +50843,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which sentence uses capitalization correctly?",
+            "q": "Which sentence uses commas and capitals correctly?",
             "options": [
-              "i live in Toronto.",
-              "I live in toronto.",
-              "I live in Toronto.",
-              "I Live in Toronto."
+              "On Monday, Dr. Lee and I flew from Ottawa to Calgary.",
+              "on Monday, Dr. Lee and i flew from Ottawa to Calgary.",
+              "On Monday Dr. lee and I flew from ottawa to Calgary.",
+              "On monday, dr. Lee and I flew from Ottawa to calgary."
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "Which behaviour best shows that you are actively listening to a classmate's presentation?",
@@ -51951,14 +51951,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What does wind power use to generate electricity?",
+            "q": "Which machine, with large blades turned by moving air, spins a generator to produce electricity?",
             "options": [
-              "Underground heat",
-              "Burning coal",
-              "Solar panels",
-              "Wind turbines"
+              "Solar panel",
+              "Coal boiler",
+              "Wind turbine",
+              "Geothermal steam well"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
             "q": "Geothermal power plants generate electricity using...",
@@ -52096,12 +52096,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
         "quiz": [
           {
-            "q": "How many sides does a pentagon have?",
+            "q": "A regular polygon has 8 equal sides and 8 equal angles. What is the name of this polygon?",
             "options": [
-              "Eight",
-              "Four",
-              "Six",
-              "Five"
+              "Hexagon",
+              "Heptagon",
+              "Pentagon",
+              "Octagon"
             ],
             "answer": 3
           },
@@ -52504,12 +52504,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
         "quiz": [
           {
-            "q": "Which unit belongs to the metric system?",
+            "q": "How many millimetres are in 3.5 centimetres?",
             "options": [
-              "Pound",
-              "Inch",
-              "Metre",
-              "Foot"
+              "3.5 mm",
+              "350 mm",
+              "35 mm",
+              "0.35 mm"
             ],
             "answer": 2
           },
@@ -52708,14 +52708,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
         "quiz": [
           {
-            "q": "Which fraction is greater: 1/2 or 1/3?",
+            "q": "Which fraction is greater: 3/4 or 5/8?",
             "options": [
+              "3/4",
+              "5/8",
               "They are equal",
-              "1/3",
-              "Cannot be determined",
-              "1/2"
+              "Cannot be determined"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "How can you estimate the area of an irregular shape using a grid?",
@@ -52728,14 +52728,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "In the number 4,672, which digit is in the hundreds place?",
+            "q": "In the number 3,408,562, which digit is in the ten thousands place?",
             "options": [
-              "6",
               "4",
-              "7",
-              "2"
+              "8",
+              "0",
+              "5"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "A movie ticket costs $8.50. How much would 4 tickets cost in total?",
@@ -52912,14 +52912,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
         "quiz": [
           {
-            "q": "If 12 dollars is shared evenly among 3 friends, how much does each friend get?",
+            "q": "A school raised $168.40 and shares it equally among 4 classes. How much does each class get?",
             "options": [
-              "3 dollars",
-              "9 dollars",
-              "4 dollars",
-              "6 dollars"
+              "$42.10",
+              "$41.10",
+              "$42.01",
+              "$44.10"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "What does a Venn diagram use to sort and compare data?",
@@ -53010,14 +53010,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
         "quiz": [
           {
-            "q": "What does the Canadian Border Services Agency help do?",
+            "q": "What does the Canada Border Services Agency (CBSA) help do?",
             "options": [
-              "Keep the country safe by checking travellers and goods entering Canada",
-              "Build roads and highways",
-              "Deliver mail across the country",
-              "Run public libraries"
+              "Build and repair roads and highways",
+              "Keep the country safe by checking people and goods entering Canada",
+              "Deliver mail and parcels across the country",
+              "Run public libraries in each city"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "What is the purpose of a national park?",
@@ -53379,14 +53379,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What does a herbivore eat?",
+            "q": "In a food chain, grass is eaten by a grasshopper, which is eaten by a frog. What role does the frog play?",
             "options": [
-              "Only plants",
-              "Nothing at all",
-              "Both plants and animals",
-              "Only other animals"
+              "Producer",
+              "Primary consumer",
+              "Decomposer",
+              "Secondary consumer"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "Which of these animals is an omnivore, eating both plants and animals?",
@@ -54166,14 +54166,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which of these shows the number 47 correctly decomposed into tens and ones?",
+            "q": "Which expression shows 6.25 written in expanded form?",
             "options": [
-              "4 + 7",
-              "4 + 70",
-              "40 + 7",
-              "400 + 7"
+              "6 + 2 + 5",
+              "6 + 0.2 + 0.05",
+              "6 + 0.02 + 0.5",
+              "60 + 2 + 5"
             ],
-            "answer": 2
+            "answer": 1
           }
         ]
       },
@@ -54952,12 +54952,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
         "quiz": [
           {
-            "q": "Which fraction is equal to one whole?",
+            "q": "Which fraction is equivalent to 3/4?",
             "options": [
-              "1/4",
-              "2/4",
-              "3/4",
-              "4/4"
+              "6/12",
+              "3/8",
+              "4/12",
+              "9/12"
             ],
             "answer": 3
           },
