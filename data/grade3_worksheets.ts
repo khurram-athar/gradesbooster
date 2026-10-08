@@ -150,7 +150,7 @@ const worksheets = [
     {q:"Which word ends with the same sound as the word jump?", options:["jam","juice","jelly","stump"], answer:3},
     {q:"Which word is in the same word family as the word play?", options:["run","jump","swim","day"], answer:3},
     {q:"What happens to the word hop when you add -ing?", options:["nothing changes, it stays hop","the p is doubled to make hopping","the h is removed","the o becomes an a"], answer:1},
-    {q:"Which word uses the correct spelling pattern for a long e sound?", options:["beach","baech","beech","bech"], answer:0}
+    {q:"Which word is spelled correctly and has a long e sound?", options:["baech", "bech", "beach", "beich"], answer:2}
 ]},
 {subject:"Language", number:10, title:"Oral Communication and Listening Skills", questions:[
     {q:"What does it mean to be an active listener?", options:["looking at a phone while someone talks","talking the entire time","paying close attention to the speaker","ignoring the speaker"], answer:2},
@@ -319,7 +319,7 @@ const worksheets = [
     {q:"If a pattern grows by adding 4 each time starting at 3, what are the first four terms?", options:["3, 7, 10, 14","3, 7, 11, 15","3, 6, 9, 12","3, 4, 8, 12"], answer:1},
     {q:"What is the missing number in 9 plus a number equals 15?", options:["5","24","7","6"], answer:3},
     {q:"What comes next in the pattern 2, 4, 8, 16?", options:["18","24","32","20"], answer:2},
-    {q:"What is the missing value in the equation 6 times 3?", options:["21","9","16","18"], answer:3},
+    {q:"What is the missing value in the equation 6 times 3 equals a number?", options:["21", "18", "9", "16"], answer:1},
     {q:"What comes next in the shrinking pattern 50, 40, 30, 20?", options:["15","10","0","25"], answer:1}
 ]},
 {subject:"Math", number:10, title:"Data, Graphs, and Probability", questions:[
@@ -586,7 +586,7 @@ const worksheets = [
     {q:"Why is land often considered important in many Indigenous traditions?", options:["land was never used for any purpose","Indigenous peoples never lived on the land","land has no importance in Indigenous traditions","it is deeply connected to identity, culture, and ways of life"], answer:3},
     {q:"What might Indigenous peoples traditionally have used birchbark for?", options:["paving roads","building modern skyscrapers","building canoes and containers","making electronics"], answer:2},
     {q:"Why is it respectful to learn about Indigenous history and traditions?", options:["learning about this history is not important","it is unnecessary to learn about other cultures","Indigenous history has no connection to Canada","it helps build understanding and respect for the first peoples of this land"], answer:3},
-    {q:"What are traditional teachings sometimes called that share lessons about respect and the natural world?", options:["teachings passed down by Elders","teachings with no connection to nature","rules written only in modern books","teachings that ignore community values"], answer:0},
+    {q:"Who traditionally shares teachings about respect and the natural world in many Indigenous communities?", options:["Tourist guides", "Elders and Knowledge Keepers", "City councillors", "Newspaper editors"], answer:1},
     {q:"What is the Metis nation historically known for its connection to?", options:["having no connection to Canadian history","a mixed First Nations and European heritage and culture","being unrelated to any other group","arriving only in modern times"], answer:1},
     {q:"Why might many Indigenous communities have strong connections to rivers, lakes, and forests?", options:["these resources were essential for food, travel, and daily life","these resources had no importance to Indigenous communities","Indigenous communities never depended on natural resources","water and forests were always avoided"], answer:0},
     {q:"What is one way Indigenous cultures are celebrated in Canada today?", options:["there are no ways to learn about Indigenous cultures","Indigenous cultures have disappeared completely","through cultural events, art, and educational programs","Indigenous cultures are not recognized in Canada today"], answer:2},

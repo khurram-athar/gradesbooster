@@ -1401,14 +1401,14 @@
         "answer": 1
       },
       {
-        "q": "Which word uses the correct spelling pattern for a long e sound?",
+        "q": "Which word is spelled correctly and has a long e sound?",
         "options": [
-          "beach",
           "baech",
-          "beech",
-          "bech"
+          "bech",
+          "beach",
+          "beich"
         ],
-        "answer": 0
+        "answer": 2
       }
     ]
   },
@@ -2961,14 +2961,14 @@
         "answer": 2
       },
       {
-        "q": "What is the missing value in the equation 6 times 3?",
+        "q": "What is the missing value in the equation 6 times 3 equals a number?",
         "options": [
           "21",
+          "18",
           "9",
-          "16",
-          "18"
+          "16"
         ],
-        "answer": 3
+        "answer": 1
       },
       {
         "q": "What comes next in the shrinking pattern 50, 40, 30, 20?",
@@ -5423,14 +5423,14 @@
         "answer": 3
       },
       {
-        "q": "What are traditional teachings sometimes called that share lessons about respect and the natural world?",
+        "q": "Who traditionally shares teachings about respect and the natural world in many Indigenous communities?",
         "options": [
-          "teachings passed down by Elders",
-          "teachings with no connection to nature",
-          "rules written only in modern books",
-          "teachings that ignore community values"
+          "Tourist guides",
+          "Elders and Knowledge Keepers",
+          "City councillors",
+          "Newspaper editors"
         ],
-        "answer": 0
+        "answer": 1
       },
       {
         "q": "What is the Metis nation historically known for its connection to?",
