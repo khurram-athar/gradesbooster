@@ -34520,6 +34520,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: an adverb describes a verb and often tells how something is done, such as quickly, slowly, loudly, or quietly.",
         "resourceLabel": "YouTube: Adverbs: Words That Describe Verbs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Adverbs%3A%20Words%20That%20Describe%20Verbs%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2O4ckpd_UjE",
         "quiz": [
           {
             "q": "Which word is an adverb?",
@@ -34604,6 +34605,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: when adding two two-digit numbers, if the ones digits add to 10 or more, students regroup by carrying a ten to the tens place.",
         "resourceLabel": "YouTube: Two-Digit Addition With Regrouping",
         "resourceUrl": "https://www.youtube.com/results?search_query=Two-Digit%20Addition%20With%20Regrouping%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=icyEBL9bzAc",
         "quiz": [
           {
             "q": "What is 26 + 7?",
@@ -34687,6 +34689,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn the basic needs of plants -- sunlight, water, air, and soil -- and predict what happens when a plant is missing one of them.",
         "resourceLabel": "YouTube: What Plants Need to Grow",
         "resourceUrl": "https://www.youtube.com/results?search_query=What%20Plants%20Need%20to%20Grow%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=u46A0WKp2nk",
         "topic": "Plants & Photosynthesis",
         "quiz": [
           {

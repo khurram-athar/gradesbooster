@@ -28458,6 +28458,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: a public health unit works to protect and promote the health of a community, offering services such as vaccination programs and health education.",
         "resourceLabel": "YouTube: Social Studies: Public Health Units and Keeping Communities Well",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Public%20Health%20Units%20and%20Keeping%20Communities%20Well%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5aww-Bpgkf4",
         "quiz": [
           {
             "q": "What does a public health unit work to protect?",

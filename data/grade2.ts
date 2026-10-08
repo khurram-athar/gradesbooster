@@ -34714,6 +34714,7 @@ const curriculum: DayContent[] = [
         "summary": "Students sort a mixed group of 2D shapes, such as triangles, squares, and hexagons, into groups based on how many straight sides each shape has.",
         "resourceLabel": "YouTube: Sorting 2D Shapes by Number of Sides",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%202D%20Shapes%20by%20Number%20of%20Sides%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nEnXMZ9nFaI",
         "quiz": [
           {
             "q": "How many sides does a triangle have?",
@@ -34856,6 +34857,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that Ottawa is the capital city of Canada, the special city where important decisions for the whole country are made.",
         "resourceLabel": "YouTube: Ottawa: The Capital City of Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ottawa%3A%20The%20Capital%20City%20of%20Canada%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OnOd5m3i0PE",
         "quiz": [
           {
             "q": "What is the capital city of Canada?",

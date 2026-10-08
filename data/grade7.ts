@@ -27251,6 +27251,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: a letter to the editor expresses a writer’s opinion on a current issue in a newspaper or publication, using a clear argument, supporting evidence, and a respectful, persuasive tone.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=ysiP4Sqetbg",
         "quiz": [
           {
             "q": "What does a letter to the editor typically express?",

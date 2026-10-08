@@ -28825,6 +28825,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: coordinating conjunctions (and, but, or) join equal ideas, while subordinating conjunctions (because, although, since) join a main idea to a dependent one.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=ECiFApWcrDU",
         "quiz": [
           {
             "q": "Which is a coordinating conjunction?",
@@ -29027,6 +29028,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the Royal Canadian Mounted Police, or RCMP, is Canadas national police force, responsible for enforcing federal laws across the country.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=vcS2eNJaC3Q",
         "quiz": [
           {
             "q": "What does RCMP stand for?",

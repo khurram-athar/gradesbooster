@@ -28061,6 +28061,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the Royal Canadian Mounted Police, or RCMP, is Canadas national police force, responsible for enforcing federal laws and providing policing services across the country.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=E-h_FKaAc2k",
         "quiz": [
           {
             "q": "What does RCMP stand for?",

@@ -32094,6 +32094,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practice conversation skills such as waiting for their turn to speak and listening quietly while someone else is talking.",
         "resourceLabel": "YouTube: Oral Communication: Taking Turns and Listening to Others",
         "resourceUrl": "https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Taking%20Turns%20and%20Listening%20to%20Others%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qHYwFxM1gRU",
         "topic": "Oral Communication & Presentation",
         "quiz": [
           {
@@ -32154,6 +32155,7 @@ const curriculum: DayContent[] = [
         "summary": "Children practice forming the numerals 1 through 10 correctly, tracing and copying each shape while saying the number name aloud.",
         "resourceLabel": "YouTube: Writing Numbers 1 to 10",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20Numbers%201%20to%2010%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wuxu6Qsaq5I",
         "topic": "Number Sense",
         "quiz": [
           {
@@ -32214,6 +32216,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids learn that animals leave footprints, or tracks, in snow, mud, or sand, and that looking closely at tracks can help us guess which animal passed by.",
         "resourceLabel": "YouTube: Animal Tracks: Footprints in Snow and Mud",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Tracks%3A%20Footprints%20in%20Snow%20and%20Mud%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Xz02S-CizAU",
         "topic": "Animal Adaptations & Behaviour",
         "quiz": [
           {
@@ -32274,6 +32277,7 @@ const curriculum: DayContent[] = [
         "summary": "Children explore the differences between living in a big city, a small town, or a rural countryside area.",
         "resourceLabel": "YouTube: City, Town, or Country: Where Do We Live?",
         "resourceUrl": "https://www.youtube.com/results?search_query=City%2C%20Town%2C%20or%20Country%3A%20Where%20Do%20We%20Live%3F%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YRxNQPmj1-8",
         "topic": "World Geography & Cultures",
         "quiz": [
           {
