@@ -697,7 +697,7 @@
         "options": [
           "The teams practices every Tuesday.",
           "The team are practices every Tuesday.",
-          "The team practice every Tuesday.",
+          "The team practicing every Tuesday.",
           "The team practices every Tuesday."
         ],
         "answer": 3
@@ -1196,12 +1196,12 @@
       {
         "q": "Which sentence demonstrates correct capitalization of a proper noun?",
         "options": [
-          "My favourite subject is Mathematics, taught by Mr Chen.",
-          "my favourite Subject is Mathematics taught by Mr chen.",
-          "my favourite subject is mathematics, taught by mr chen.",
-          "My Favourite subject is mathematics, taught by mr Chen."
+          "my favourite subject is math, taught by mr. Chen.",
+          "My favourite subject is math, taught by Mr. Chen.",
+          "My Favourite Subject is Math, taught by mr. Chen.",
+          "My favourite subject is Math, taught by Mr. chen."
         ],
-        "answer": 0
+        "answer": 1
       },
       {
         "q": "What punctuation mark is typically used at the end of an abbreviation such as Dr or Mr?",
@@ -1224,14 +1224,14 @@
         "answer": 2
       },
       {
-        "q": "What is the term for punctuation marks used in pairs to set off extra information, such as parentheses?",
+        "q": "Which punctuation marks are used in pairs to set off extra information from the rest of a sentence?",
         "options": [
-          "Parentheses",
           "Semicolons",
           "Colons",
+          "Parentheses",
           "Hyphens"
         ],
-        "answer": 0
+        "answer": 2
       },
       {
         "q": "Which sentence correctly capitalizes the days of the week and months?",
@@ -2450,34 +2450,34 @@
         "answer": 0
       },
       {
-        "q": "What is the formula for the area of a circle, where r is the radius?",
+        "q": "What is the formula for the volume of a rectangular prism?",
         "options": [
-          "Pi times diameter",
-          "Pi times r squared",
-          "r squared only",
-          "2 times pi times r"
-        ],
-        "answer": 1
-      },
-      {
-        "q": "What is the formula for the circumference of a circle, where d is the diameter?",
-        "options": [
-          "d squared",
-          "2 times d",
-          "Pi times d",
-          "Pi times r squared"
+          "Length plus width plus height",
+          "Length times width",
+          "Length times width times height",
+          "Base times height divided by 2"
         ],
         "answer": 2
       },
       {
-        "q": "What is the approximate area of a circle with a radius of 3 cm, using pi as approximately 3.14?",
+        "q": "What is the formula for the area of a parallelogram, where b is the base and h is the height?",
         "options": [
-          "About 9.4 square cm",
-          "About 28.3 square cm",
-          "About 18.8 square cm",
-          "About 56.5 square cm"
+          "b plus h",
+          "b times h",
+          "b times h divided by 2",
+          "b times b"
         ],
         "answer": 1
+      },
+      {
+        "q": "What is the area of a parallelogram with a base of 8 cm and a height of 5 cm?",
+        "options": [
+          "13 square cm",
+          "26 square cm",
+          "40 square cm",
+          "80 square cm"
+        ],
+        "answer": 2
       },
       {
         "q": "What is the perimeter of a rectangular garden that is 12 metres long and 7 metres wide?",
@@ -2861,24 +2861,24 @@
         "answer": 0
       },
       {
-        "q": "What is the value of -7 x 3?",
+        "q": "What is the value of -7 + 12?",
         "options": [
-          "Positive 10",
-          "Positive 21",
-          "Negative 10",
-          "Negative 21"
+          "Negative 19",
+          "Negative 5",
+          "Positive 19",
+          "Positive 5"
         ],
         "answer": 3
       },
       {
-        "q": "What is the value of -12 divided by -4?",
+        "q": "What is the value of 3 - 10?",
         "options": [
-          "Negative 8",
-          "Positive 3",
-          "Negative 3",
-          "Positive 4"
+          "Positive 7",
+          "Positive 13",
+          "Negative 7",
+          "Negative 13"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "Which integer is greater, -3 or -8?",
@@ -2971,14 +2971,14 @@
         "answer": 0
       },
       {
-        "q": "What is the value of -9 x -2?",
+        "q": "A temperature of negative 6 degrees rises by 9 degrees. What is the new temperature?",
         "options": [
-          "Positive 18",
-          "Negative 11",
-          "Negative 18",
-          "Positive 11"
+          "Negative 15 degrees",
+          "Positive 15 degrees",
+          "Negative 3 degrees",
+          "Positive 3 degrees"
         ],
-        "answer": 0
+        "answer": 3
       }
     ]
   },
@@ -3893,14 +3893,14 @@
         "answer": 3
       },
       {
-        "q": "Which everyday object commonly uses electrical energy to produce light?",
+        "q": "Which device converts electrical energy mainly into light energy?",
         "options": [
-          "A wooden spoon",
-          "A lamp",
-          "A cotton shirt",
-          "A rock"
+          "A toaster",
+          "An electric kettle",
+          "An LED light bulb",
+          "A ceiling fan"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "What safety precaution should be taken before working with electrical devices?",
@@ -5622,12 +5622,12 @@
       {
         "q": "Which of these is an example of international cooperation in sports?",
         "options": [
-          "A local town parade",
-          "A neighbourhood picnic",
-          "A school field trip",
-          "The Olympic Games"
+          "A provincial high school track meet",
+          "The Olympic Games",
+          "A city recreational soccer league",
+          "A school gym class"
         ],
-        "answer": 3
+        "answer": 1
       },
       {
         "q": "Why is it valuable for Canadian students to learn about global organizations like the United Nations?",

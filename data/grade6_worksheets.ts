@@ -74,7 +74,7 @@ const worksheets = [
     {q:"Which sentence uses the present perfect tense correctly?", options:["She finish her homework.","She finishing her homework.","She have finished her homework.","She has finished her homework."], answer:3},
     {q:"What is the past tense form of the irregular verb go?", options:["Went","Goed","Going","Gone"], answer:0},
     {q:"Which sentence correctly uses a helping verb?", options:["He is playing soccer this afternoon.","He plays is soccer this afternoon.","He playing soccer this afternoon.","He soccer is playing this afternoon."], answer:0},
-    {q:"Which sentence demonstrates correct subject-verb agreement with a collective noun?", options:["The teams practices every Tuesday.","The team are practices every Tuesday.","The team practice every Tuesday.","The team practices every Tuesday."], answer:3},
+    {q:"Which sentence demonstrates correct subject-verb agreement with a collective noun?", options:["The teams practices every Tuesday.", "The team are practices every Tuesday.", "The team practicing every Tuesday.", "The team practices every Tuesday."], answer:3},
     {q:"Which verb form correctly completes the sentence: By next year, she ___ here for a decade?", options:["will living","will have lived","living","have lived"], answer:1},
     {q:"Which sentence uses the past progressive tense correctly?", options:["I was reading when the phone rang.","I read when the phone was ringing rang.","I reading when the phone rang.","I am reading when the phone rang."], answer:0},
     {q:"Identify the correctly conjugated verb: She ___ to school every day.", options:["walks","walk","walked to","walking"], answer:0},
@@ -128,10 +128,10 @@ const worksheets = [
     {q:"What punctuation mark is used inside a sentence to join two closely related independent clauses?", options:["A question mark","A semicolon","A colon","A comma"], answer:1},
     {q:"Which title is capitalized correctly for a book?", options:["The Lion King","the Lion king","The lion King","the lion king"], answer:0},
     {q:"What is the term for the punctuation mark used to join two words into a compound word, such as well-known?", options:["A semicolon","A colon","A dash","A hyphen"], answer:3},
-    {q:"Which sentence demonstrates correct capitalization of a proper noun?", options:["My favourite subject is Mathematics, taught by Mr Chen.","my favourite Subject is Mathematics taught by Mr chen.","my favourite subject is mathematics, taught by mr chen.","My Favourite subject is mathematics, taught by mr Chen."], answer:0},
+    {q:"Which sentence demonstrates correct capitalization of a proper noun?", options:["my favourite subject is math, taught by mr. Chen.", "My favourite subject is math, taught by Mr. Chen.", "My Favourite Subject is Math, taught by mr. Chen.", "My favourite subject is Math, taught by Mr. chen."], answer:1},
     {q:"What punctuation mark is typically used at the end of an abbreviation such as Dr or Mr?", options:["A comma","A colon","A period","A question mark"], answer:2},
     {q:"Which of these sentences correctly uses a comma after an introductory phrase?", options:["After the game the team celebrated together.","After the game the team, celebrated together.","After the game, the team celebrated together.","After, the game the team celebrated together."], answer:2},
-    {q:"What is the term for punctuation marks used in pairs to set off extra information, such as parentheses?", options:["Parentheses","Semicolons","Colons","Hyphens"], answer:0},
+    {q:"Which punctuation marks are used in pairs to set off extra information from the rest of a sentence?", options:["Semicolons", "Colons", "Parentheses", "Hyphens"], answer:2},
     {q:"Which sentence correctly capitalizes the days of the week and months?", options:["We will meet on Monday in the month of june.","we will meet on monday in the month of June.","We will meet on Monday in the month of June.","We will meet on monday in the month of june."], answer:2},
     {q:"What punctuation mark shows a strong break or pause, often used for emphasis in informal writing?", options:["A dash","A colon","A period","A comma"], answer:0}
 ]},
@@ -264,9 +264,9 @@ const worksheets = [
     {q:"What is the volume of a rectangular prism with length 5 cm, width 3 cm, and height 4 cm?", options:["60 cubic cm","35 cubic cm","20 cubic cm","12 cubic cm"], answer:0},
     {q:"How many centimetres are in one metre?", options:["10000","1000","10","100"], answer:3},
     {q:"How many millimetres are in one centimetre?", options:["10","1","1000","100"], answer:0},
-    {q:"What is the formula for the area of a circle, where r is the radius?", options:["Pi times diameter","Pi times r squared","r squared only","2 times pi times r"], answer:1},
-    {q:"What is the formula for the circumference of a circle, where d is the diameter?", options:["d squared","2 times d","Pi times d","Pi times r squared"], answer:2},
-    {q:"What is the approximate area of a circle with a radius of 3 cm, using pi as approximately 3.14?", options:["About 9.4 square cm","About 28.3 square cm","About 18.8 square cm","About 56.5 square cm"], answer:1},
+    {q:"What is the formula for the volume of a rectangular prism?", options:["Length plus width plus height", "Length times width", "Length times width times height", "Base times height divided by 2"], answer:2},
+    {q:"What is the formula for the area of a parallelogram, where b is the base and h is the height?", options:["b plus h", "b times h", "b times h divided by 2", "b times b"], answer:1},
+    {q:"What is the area of a parallelogram with a base of 8 cm and a height of 5 cm?", options:["13 square cm", "26 square cm", "40 square cm", "80 square cm"], answer:2},
     {q:"What is the perimeter of a rectangular garden that is 12 metres long and 7 metres wide?", options:["19 metres","38 metres","84 metres","42 metres"], answer:1},
     {q:"If a cube has a side length of 4 cm, what is its volume?", options:["16 cubic cm","48 cubic cm","64 cubic cm","12 cubic cm"], answer:2},
     {q:"Which unit would best measure the capacity of a bathtub?", options:["Litres","Square metres","Millimetres","Grams"], answer:0}
@@ -309,8 +309,8 @@ const worksheets = [
     {q:"What is the value of -5 + 3?", options:["Positive 2","Positive 8","Negative 8","Negative 2"], answer:3},
     {q:"What is the value of -8 - 4?", options:["Positive 4","Positive 12","Negative 12","Negative 4"], answer:2},
     {q:"What is the value of 6 + -9?", options:["Negative 3","Negative 15","Positive 3","Positive 15"], answer:0},
-    {q:"What is the value of -7 x 3?", options:["Positive 10","Positive 21","Negative 10","Negative 21"], answer:3},
-    {q:"What is the value of -12 divided by -4?", options:["Negative 8","Positive 3","Negative 3","Positive 4"], answer:1},
+    {q:"What is the value of -7 + 12?", options:["Negative 19", "Negative 5", "Positive 19", "Positive 5"], answer:3},
+    {q:"What is the value of 3 - 10?", options:["Positive 7", "Positive 13", "Negative 7", "Negative 13"], answer:2},
     {q:"Which integer is greater, -3 or -8?", options:["Negative 8","Cannot be determined","Negative 3","They are equal"], answer:2},
     {q:"What is the opposite of the integer -6?", options:["-6","0","-12","6"], answer:3},
     {q:"What is the absolute value of -9?", options:["9","18","0","-9"], answer:0},
@@ -320,7 +320,7 @@ const worksheets = [
     {q:"A submarine is at negative 120 metres relative to sea level. If it rises 45 metres, what is its new position?", options:["Negative 165 metres","Negative 45 metres","Positive 75 metres","Negative 75 metres"], answer:3},
     {q:"What is the value of 15 + -20?", options:["Negative 35","Negative 5","Positive 35","Positive 5"], answer:1},
     {q:"Which temperature is colder, negative 10 degrees or negative 3 degrees?", options:["Negative 10 degrees","Cannot be determined","Negative 3 degrees","They are equal"], answer:0},
-    {q:"What is the value of -9 x -2?", options:["Positive 18","Negative 11","Negative 18","Positive 11"], answer:0}
+    {q:"A temperature of negative 6 degrees rises by 9 degrees. What is the new temperature?", options:["Negative 15 degrees", "Positive 15 degrees", "Negative 3 degrees", "Positive 3 degrees"], answer:3}
 ]},
 {subject:"Math", number:10, title:"Problem Solving with Multi-Step Word Problems", questions:[
     {q:"A bakery sells 24 muffins in the morning and 18 in the afternoon. How many muffins did it sell in total?", options:["32","46","42","36"], answer:2},
@@ -420,7 +420,7 @@ const worksheets = [
     {q:"What device is used to open or close an electrical circuit?", options:["A switch","A capacitor","A magnet","A resistor"], answer:0},
     {q:"Why is it dangerous to touch electrical wires with wet hands?", options:["Water has no effect on electrical safety","Water is a conductor and increases the risk of shock","Water always insulates against electricity completely","Wet hands make electricity disappear"], answer:1},
     {q:"What happens to a light bulb in a circuit if the circuit is broken or open?", options:["The bulb changes colour","The bulb gets brighter","Nothing changes at all","The bulb turns off because current cannot flow"], answer:3},
-    {q:"Which everyday object commonly uses electrical energy to produce light?", options:["A wooden spoon","A lamp","A cotton shirt","A rock"], answer:1},
+    {q:"Which device converts electrical energy mainly into light energy?", options:["A toaster", "An electric kettle", "An LED light bulb", "A ceiling fan"], answer:2},
     {q:"What safety precaution should be taken before working with electrical devices?", options:["Touch exposed wires to test them","Make sure the device is unplugged and hands are dry","Never turn off any electrical devices","Always work with wet hands for safety"], answer:1},
     {q:"What is the term for the path that electric current follows?", options:["A conductor","A resistor","A magnet","A circuit"], answer:3}
 ]},
@@ -607,7 +607,7 @@ const worksheets = [
     {q:"What is an ambassador?", options:["An official who represents their country in another nation","A local city councillor","A type of Canadian currency","A type of natural resource"], answer:0},
     {q:"Why might Canada participate in international environmental agreements?", options:["International agreements have no effect on the environment","Canada is not affected by global environmental issues","Environmental issues never cross national borders","To help address global issues like climate change cooperatively"], answer:3},
     {q:"What is the purpose of an embassy?", options:["To sell goods exclusively to tourists","To represent a countrys government and support its citizens abroad","To serve as a museum only","To act as a local school"], answer:1},
-    {q:"Which of these is an example of international cooperation in sports?", options:["A local town parade","A neighbourhood picnic","A school field trip","The Olympic Games"], answer:3},
+    {q:"Which of these is an example of international cooperation in sports?", options:["A provincial high school track meet", "The Olympic Games", "A city recreational soccer league", "A school gym class"], answer:1},
     {q:"Why is it valuable for Canadian students to learn about global organizations like the United Nations?", options:["Global organizations have no relevance to daily life","It helps them understand how countries work together on shared issues","These organizations do not affect Canada at all","Learning about them is discouraged in schools"], answer:1},
     {q:"What term describes Canadas overall approach of engaging with and supporting other nations?", options:["International cooperation","Complete isolation","Total self-sufficiency","Economic independence only"], answer:0}
 ]},
