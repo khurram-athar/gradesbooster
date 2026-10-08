@@ -115,14 +115,14 @@
         "answer": 3
       },
       {
-        "q": "Which letter usually makes a buzzing sound, like in the word zebra?",
+        "q": "Which letter stands for the buzzing sound you hear in the words buzz and fizz?",
         "options": [
           "J",
-          "S",
           "Z",
+          "S",
           "X"
         ],
-        "answer": 2
+        "answer": 1
       },
       {
         "q": "Which of these words starts with a vowel sound?",
@@ -403,7 +403,7 @@
         "options": [
           "The bird has feathers.",
           "The bird is blue.",
-          "The bird sat still.",
+          "The bird looks tiny.",
           "The bird flies high."
         ],
         "answer": 3
@@ -576,11 +576,11 @@
         "answer": 2
       },
       {
-        "q": "Which word best describes how loud a sound is?",
+        "q": "Which word could describe the sound of thunder?",
         "options": [
-          "cold",
-          "loud",
-          "fast",
+          "soft",
+          "booming",
+          "sticky",
           "square"
         ],
         "answer": 1
@@ -872,10 +872,10 @@
       {
         "q": "Which pair of words rhymes?",
         "options": [
-          "frog and dog",
           "frog and pig",
+          "frog and cat",
           "frog and log",
-          "frog and cat"
+          "frog and duck"
         ],
         "answer": 2
       },
@@ -1027,11 +1027,11 @@
         "answer": 2
       },
       {
-        "q": "What do we call the main character who the story mostly follows?",
+        "q": "What is the name for the character the story mostly follows?",
         "options": [
           "The plot",
           "The moral",
-          "The main character, or protagonist",
+          "The protagonist",
           "The setting"
         ],
         "answer": 2
@@ -1468,14 +1468,14 @@
         "answer": 1
       },
       {
-        "q": "What is the plural of baby, changing y to i and adding es?",
+        "q": "What is the plural of baby?",
         "options": [
           "babyes",
-          "baby",
           "babys",
-          "babies"
+          "babies",
+          "baby"
         ],
-        "answer": 3
+        "answer": 2
       },
       {
         "q": "What is the plural of child?",
@@ -2086,14 +2086,14 @@
         "answer": 3
       },
       {
-        "q": "How many ones are in 8 tens?",
+        "q": "What digit is in the ones place of the number 80?",
         "options": [
+          "8",
           "0",
           "80",
-          "8",
-          "18"
+          "10"
         ],
-        "answer": 0
+        "answer": 1
       },
       {
         "q": "What is 30 + 4 written as one number?",
@@ -2273,24 +2273,24 @@
         "answer": 2
       },
       {
-        "q": "Skip counting by 5s from 0, what is the fifth number said?",
+        "q": "Skip counting by 5s: 5, 10, 15, 20. What number comes next?",
         "options": [
           "20",
-          "15",
           "30",
-          "25"
+          "25",
+          "22"
         ],
-        "answer": 3
+        "answer": 2
       },
       {
-        "q": "Skip counting by 10s from 0, what is the sixth number said?",
+        "q": "Skip counting by 10s: 10, 20, 30, 40, 50. What number comes next?",
         "options": [
-          "60",
           "70",
-          "50",
+          "60",
+          "55",
           "100"
         ],
-        "answer": 0
+        "answer": 1
       },
       {
         "q": "Which is faster for reaching 100, counting by 1s or by 10s?",
@@ -2744,14 +2744,14 @@
         "answer": 3
       },
       {
-        "q": "If a pencil is 15 centimetres long, what unit are we using?",
+        "q": "Maya measured her pencil and it was 15 cm long. What does cm stand for?",
         "options": [
+          "Millilitres",
           "Centimetres",
-          "Litres",
-          "Kilograms",
-          "Degrees"
+          "Kilometres",
+          "Kilograms"
         ],
-        "answer": 0
+        "answer": 1
       },
       {
         "q": "Which of these would best be measured in metres rather than centimetres?",
@@ -2774,14 +2774,14 @@
         "answer": 2
       },
       {
-        "q": "Which unit measures how heavy an object is?",
+        "q": "Which measurement tells how heavy an object is?",
         "options": [
           "Length",
-          "Mass",
           "Time",
-          "Colour"
+          "Mass",
+          "Temperature"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "If Object A is heavier than Object B on a balance scale, which side of the scale goes down?",
@@ -4062,12 +4062,12 @@
       {
         "q": "Which of these correctly matches a state change with its name?",
         "options": [
-          "Water freezing into ice is called condensation",
-          "Water freezing into ice is called melting",
-          "Water freezing into ice is called freezing",
-          "Water freezing into ice is called evaporation"
+          "Ice turning into water is called condensation",
+          "Water turning into ice is called freezing",
+          "Water turning into vapour is called melting",
+          "Water vapour turning into water is called evaporation"
         ],
-        "answer": 2
+        "answer": 1
       },
       {
         "q": "Why is it useful to know that matter can change state?",
@@ -5139,14 +5139,14 @@
         "answer": 3
       },
       {
-        "q": "If a map shows a school directly east of your house, which direction would you travel from your house to reach the school?",
+        "q": "A map shows the library directly north of your school. If you walk from the library to the school, which direction are you travelling?",
         "options": [
-          "West",
-          "South",
+          "North",
           "East",
-          "North"
+          "West",
+          "South"
         ],
-        "answer": 2
+        "answer": 3
       },
       {
         "q": "What is the purpose of grid lines sometimes found on maps?",
