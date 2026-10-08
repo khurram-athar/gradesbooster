@@ -2096,12 +2096,12 @@
         "answer": 0
       },
       {
-        "q": "What is the first step in solving 2(x - 3) = 10?",
+        "q": "Solve for x: 2(x - 3) = 10",
         "options": [
-          "Add 3 to both sides first",
-          "Distribute the 2 across the parentheses",
-          "Divide both sides by 2 immediately without distributing",
-          "Subtract 10 from both sides"
+          "x = 2",
+          "x = 8",
+          "x = 13",
+          "x = 5"
         ],
         "answer": 1
       },
@@ -2828,7 +2828,7 @@
   {
     "subject": "Math",
     "number": 9,
-    "title": "Algebra: Polynomials, Factoring, and Quadratics",
+    "title": "Algebra: Expressions and Equations",
     "questions": [
       {
         "q": "What is a polynomial?",
@@ -2881,54 +2881,54 @@
         "answer": 1
       },
       {
-        "q": "Multiply: 3x times (2x + 5)",
+        "q": "Solve for x: 5x + 3 = 2x + 15",
         "options": [
-          "6x squared + 15x",
-          "6x + 15x",
-          "5x squared + 15x",
-          "6x squared + 5x"
-        ],
-        "answer": 0
-      },
-      {
-        "q": "Multiply: (x + 3)(x + 4)",
-        "options": [
-          "x squared + 4x + 12",
-          "x squared + 7x + 7",
-          "x squared + 12x + 7",
-          "x squared + 7x + 12"
-        ],
-        "answer": 3
-      },
-      {
-        "q": "What is factoring in algebra?",
-        "options": [
-          "Adding two expressions together",
-          "Dividing an expression by a constant only",
-          "Rewriting an expression as a product of its factors",
-          "Multiplying two expressions together"
+          "x = 6",
+          "x = 3",
+          "x = 4",
+          "x = 18"
         ],
         "answer": 2
       },
       {
-        "q": "Factor: x squared + 5x + 6",
+        "q": "Simplify: 4(x + 2) - 3",
         "options": [
-          "(x + 6)(x - 1)",
-          "(x + 2)(x + 3)",
-          "(x - 2)(x - 3)",
-          "(x + 1)(x + 6)"
-        ],
-        "answer": 1
-      },
-      {
-        "q": "Factor: x squared - 9",
-        "options": [
-          "(x + 3)(x - 3)",
-          "(x + 3)(x + 3)",
-          "(x + 9)(x - 1)",
-          "(x - 3)(x - 3)"
+          "4x + 5",
+          "4x + 2",
+          "4x + 8",
+          "x + 5"
         ],
         "answer": 0
+      },
+      {
+        "q": "Solve for x: 3x - 7 = 11",
+        "options": [
+          "x = 4",
+          "x = 18",
+          "x = 5",
+          "x = 6"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Simplify: 5x + 2x - 3",
+        "options": [
+          "7x - 3",
+          "10x - 3",
+          "7x2 - 3",
+          "4x"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Evaluate 3x + 4 when x = 5.",
+        "options": [
+          "15",
+          "23",
+          "19",
+          "35"
+        ],
+        "answer": 2
       },
       {
         "q": "What is the greatest common factor of 12x and 18x squared?",
@@ -2941,44 +2941,44 @@
         "answer": 2
       },
       {
-        "q": "What is a quadratic equation?",
+        "q": "In the expression 7x + 2, what is the coefficient of x?",
         "options": [
-          "An equation where the highest power is 1",
-          "An equation with a variable raised to the third power as its highest power",
-          "An equation that includes a variable raised to the second power as its highest power",
-          "An equation with no variables"
-        ],
-        "answer": 2
-      },
-      {
-        "q": "What is the standard form of a quadratic equation?",
-        "options": [
-          "a plus bx squared equals c",
-          "ax plus b equals 0",
-          "ax squared plus b equals c",
-          "ax squared plus bx plus c equals 0"
+          "2",
+          "9",
+          "x",
+          "7"
         ],
         "answer": 3
       },
       {
-        "q": "Solve for x by factoring: x squared - 5x + 6 = 0",
+        "q": "In the expression 4x + 9, what is the constant term?",
         "options": [
-          "x = 1 or x = 6",
-          "x = 2 or x = 3",
-          "x = 5 or x = 6",
-          "x = -2 or x = -3"
+          "4",
+          "13",
+          "9",
+          "x"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
-        "q": "What does a solution to a quadratic equation represent graphically?",
+        "q": "Solve for x: x/2 + 3 = 8",
         "options": [
-          "The x-intercepts, where the parabola crosses the x-axis",
-          "The slope of the parabola",
-          "The y-intercept only",
-          "The vertex of the parabola only"
+          "x = 10",
+          "x = 5",
+          "x = 16",
+          "x = 22"
         ],
         "answer": 0
+      },
+      {
+        "q": "Which expression is equivalent to 2(x + 4)?",
+        "options": [
+          "2x + 4",
+          "x + 8",
+          "2x + 6",
+          "2x + 8"
+        ],
+        "answer": 3
       }
     ]
   },
@@ -4060,14 +4060,14 @@
         "answer": 0
       },
       {
-        "q": "Why might technology such as fibre optic cables rely on the principles of light and refraction?",
+        "q": "How do fibre optic cables use the properties of light to carry data over long distances?",
         "options": [
-          "Light cannot travel through solid materials",
-          "Fibre optic cables do not use light at all",
-          "Refraction allows light to be guided through a cable over long distances with minimal loss",
-          "Refraction has no practical application in technology"
+          "Light is converted to sound waves that travel through the glass",
+          "Light is absorbed by the cable walls and re-emitted at the far end",
+          "Light travels in straight lines through air gaps inside the cable",
+          "Light is trapped by total internal reflection and bounces along the glass strand with minimal loss"
         ],
-        "answer": 2
+        "answer": 3
       },
       {
         "q": "Why is understanding optics important for designing corrective lenses, such as glasses?",
@@ -5383,14 +5383,14 @@
         "answer": 3
       },
       {
-        "q": "What political movement emerged during the Depression advocating for social and economic reform, later becoming the CCF?",
+        "q": "Which political party, formed in 1932 during the Depression, advocated social and economic reform and was later succeeded by the New Democratic Party?",
         "options": [
-          "The Regina Manifesto movement",
-          "A party advocating for a return to colonial rule",
-          "A party focused only on immigration restriction",
-          "A party focused solely on lowering taxes for corporations"
+          "Social Credit Party",
+          "Union Nationale",
+          "Co-operative Commonwealth Federation (CCF)",
+          "Progressive Party"
         ],
-        "answer": 0
+        "answer": 2
       },
       {
         "q": "What relief measures did governments introduce during the Great Depression?",

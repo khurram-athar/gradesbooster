@@ -226,7 +226,7 @@ const worksheets = [
     {q:"Solve for x: 4(x + 2) = 24", options:["x = 4","x = 22","x = 8","x = 6"], answer:0},
     {q:"Solve for x: 5x + 3 = 2x + 12", options:["x = 15","x = 9","x = 5","x = 3"], answer:3},
     {q:"Solve for x: x/3 + 2 = 7", options:["x = 15","x = 21","x = 5","x = 27"], answer:0},
-    {q:"What is the first step in solving 2(x - 3) = 10?", options:["Add 3 to both sides first","Distribute the 2 across the parentheses","Divide both sides by 2 immediately without distributing","Subtract 10 from both sides"], answer:1},
+    {q:"Solve for x: 2(x - 3) = 10", options:["x = 2", "x = 8", "x = 13", "x = 5"], answer:1},
     {q:"What does it mean for an equation to have no solution?", options:["The equation always has exactly one solution","There are infinitely many values that work","The variable cancels out and results in a true statement","The variable cancels out and results in a false statement"], answer:3},
     {q:"What does it mean for an equation to have infinitely many solutions?", options:["There is exactly one value that works","The variable cancels out and results in a false statement","The equation has no valid values","The variable cancels out and results in a true statement"], answer:3},
     {q:"Solve for x: -2x + 7 = 1", options:["x = -3","x = 4","x = 3","x = -4"], answer:2},
@@ -305,22 +305,22 @@ const worksheets = [
     {q:"Two coins are flipped. What is the probability of getting two heads?", options:["1/4","1/2","1/3","3/4"], answer:0},
     {q:"Why might a sample size affect the reliability of experimental probability?", options:["A smaller sample size always produces more reliable results","Experimental probability never changes with sample size","A larger sample size generally produces results closer to the theoretical probability","Sample size has no effect on reliability"], answer:2}
 ]},
-{subject:"Math", number:9, title:"Algebra: Polynomials, Factoring, and Quadratics", questions:[
+{subject:"Math", number:9, title:"Algebra: Expressions and Equations", questions:[
     {q:"What is a polynomial?", options:["An expression that always contains a single term","An equation with no variables","A number with no exponents","An expression made up of variables, coefficients, and exponents combined using addition and subtraction"], answer:3},
     {q:"What is a monomial?", options:["A polynomial with exactly two terms","A polynomial with exactly three terms","A polynomial with exactly one term","A polynomial with no terms"], answer:2},
     {q:"What is a binomial?", options:["A polynomial with exactly three terms","A polynomial with exactly two terms","A polynomial with four or more terms","A polynomial with exactly one term"], answer:1},
     {q:"Simplify: (3x + 2) + (5x - 4)", options:["8x - 2","2x + 6","15x - 8","8x + 6"], answer:0},
     {q:"Simplify: (4x - 3) - (2x + 5)", options:["2x + 2","2x - 8","6x - 8","2x - 2"], answer:1},
-    {q:"Multiply: 3x times (2x + 5)", options:["6x squared + 15x","6x + 15x","5x squared + 15x","6x squared + 5x"], answer:0},
-    {q:"Multiply: (x + 3)(x + 4)", options:["x squared + 4x + 12","x squared + 7x + 7","x squared + 12x + 7","x squared + 7x + 12"], answer:3},
-    {q:"What is factoring in algebra?", options:["Adding two expressions together","Dividing an expression by a constant only","Rewriting an expression as a product of its factors","Multiplying two expressions together"], answer:2},
-    {q:"Factor: x squared + 5x + 6", options:["(x + 6)(x - 1)","(x + 2)(x + 3)","(x - 2)(x - 3)","(x + 1)(x + 6)"], answer:1},
-    {q:"Factor: x squared - 9", options:["(x + 3)(x - 3)","(x + 3)(x + 3)","(x + 9)(x - 1)","(x - 3)(x - 3)"], answer:0},
+    {q:"Solve for x: 5x + 3 = 2x + 15", options:["x = 6", "x = 3", "x = 4", "x = 18"], answer:2},
+    {q:"Simplify: 4(x + 2) - 3", options:["4x + 5", "4x + 2", "4x + 8", "x + 5"], answer:0},
+    {q:"Solve for x: 3x - 7 = 11", options:["x = 4", "x = 18", "x = 5", "x = 6"], answer:3},
+    {q:"Simplify: 5x + 2x - 3", options:["7x - 3", "10x - 3", "7x2 - 3", "4x"], answer:0},
+    {q:"Evaluate 3x + 4 when x = 5.", options:["15", "23", "19", "35"], answer:2},
     {q:"What is the greatest common factor of 12x and 18x squared?", options:["12x","18x","6x","6"], answer:2},
-    {q:"What is a quadratic equation?", options:["An equation where the highest power is 1","An equation with a variable raised to the third power as its highest power","An equation that includes a variable raised to the second power as its highest power","An equation with no variables"], answer:2},
-    {q:"What is the standard form of a quadratic equation?", options:["a plus bx squared equals c","ax plus b equals 0","ax squared plus b equals c","ax squared plus bx plus c equals 0"], answer:3},
-    {q:"Solve for x by factoring: x squared - 5x + 6 = 0", options:["x = 1 or x = 6","x = 2 or x = 3","x = 5 or x = 6","x = -2 or x = -3"], answer:1},
-    {q:"What does a solution to a quadratic equation represent graphically?", options:["The x-intercepts, where the parabola crosses the x-axis","The slope of the parabola","The y-intercept only","The vertex of the parabola only"], answer:0}
+    {q:"In the expression 7x + 2, what is the coefficient of x?", options:["2", "9", "x", "7"], answer:3},
+    {q:"In the expression 4x + 9, what is the constant term?", options:["4", "13", "9", "x"], answer:2},
+    {q:"Solve for x: x/2 + 3 = 8", options:["x = 10", "x = 5", "x = 16", "x = 22"], answer:0},
+    {q:"Which expression is equivalent to 2(x + 4)?", options:["2x + 4", "x + 8", "2x + 6", "2x + 8"], answer:3}
 ]},
 {subject:"Math", number:10, title:"Financial Literacy and Systems of Equations", questions:[
     {q:"What is simple interest?", options:["A one-time fee unrelated to a loan","Interest calculated on both principal and previously earned interest","Interest that decreases the principal over time","Interest calculated only on the original principal amount"], answer:3},
@@ -438,7 +438,7 @@ const worksheets = [
     {q:"What is a convex mirror commonly used for?", options:["Focusing light to a single precise point","Absorbing all incoming light","Blocking light from passing through","Providing a wider field of view, such as in a side mirror on a vehicle"], answer:3},
     {q:"What does the electromagnetic spectrum include, besides visible light?", options:["Only heat with no wave properties","Radio waves, microwaves, infrared, ultraviolet, X-rays, and gamma rays","Only visible light and nothing else","Only sound waves of different frequencies"], answer:1},
     {q:"How do telescopes use lenses and mirrors to observe distant objects?", options:["They gather and focus large amounts of light to magnify and clarify distant images","They create new light rather than gathering existing light","They block all incoming light except a single colour","They have no relationship to lenses or mirrors"], answer:0},
-    {q:"Why might technology such as fibre optic cables rely on the principles of light and refraction?", options:["Light cannot travel through solid materials","Fibre optic cables do not use light at all","Refraction allows light to be guided through a cable over long distances with minimal loss","Refraction has no practical application in technology"], answer:2},
+    {q:"How do fibre optic cables use the properties of light to carry data over long distances?", options:["Light is converted to sound waves that travel through the glass", "Light is absorbed by the cable walls and re-emitted at the far end", "Light travels in straight lines through air gaps inside the cable", "Light is trapped by total internal reflection and bounces along the glass strand with minimal loss"], answer:3},
     {q:"Why is understanding optics important for designing corrective lenses, such as glasses?", options:["Optics has no connection to vision correction","It allows precise correction of how light focuses on the retina for clearer vision","Corrective lenses work by blocking all light entirely","The shape of a lens has no effect on how it corrects vision"], answer:1}
 ]},
 {subject:"Science", number:7, title:"Chemistry: Elements, Compounds, and Chemical Reactions", questions:[
@@ -582,7 +582,7 @@ const worksheets = [
     {q:"How did the Great Depression affect unemployment in Canada?", options:["Unemployment remained completely unaffected","Unemployment rose dramatically as businesses closed and jobs disappeared","Unemployment decreased steadily throughout the Depression","Unemployment only affected government workers"], answer:1},
     {q:"What was the Dust Bowl, and how did it affect the Prairies during the 1930s?", options:["A period of severe drought and soil erosion that devastated Prairie farming","A period of unusually high rainfall that helped Prairie farming","A term unrelated to agriculture","A short term weather event with no lasting impact"], answer:0},
     {q:"What was the On-to-Ottawa Trek?", options:["A railway construction project","A trade mission to the United States","A celebration of Confederation","A protest march by unemployed men demanding better relief and working conditions"], answer:3},
-    {q:"What political movement emerged during the Depression advocating for social and economic reform, later becoming the CCF?", options:["The Regina Manifesto movement","A party advocating for a return to colonial rule","A party focused only on immigration restriction","A party focused solely on lowering taxes for corporations"], answer:0},
+    {q:"Which political party, formed in 1932 during the Depression, advocated social and economic reform and was later succeeded by the New Democratic Party?", options:["Social Credit Party", "Union Nationale", "Co-operative Commonwealth Federation (CCF)", "Progressive Party"], answer:2},
     {q:"What relief measures did governments introduce during the Great Depression?", options:["Increased taxes with no corresponding relief programs","Public works projects and direct relief payments to support unemployed citizens","An immediate end to all unemployment through private industry alone","A complete removal of all government involvement in the economy"], answer:1},
     {q:"What was the Winnipeg General Strike of 1919, and how did it relate to labour movements of this broader era?", options:["A strike that had no connection to labour rights","A massive strike where workers demanded better wages and working conditions, reflecting growing labour activism","A protest against immigration policy","A celebration organized by employers"], answer:1},
     {q:"How did the Great Depression affect the Canadian Prairies differently from other regions?", options:["Drought combined with economic collapse made the impact especially severe for Prairie farmers","The Depression had an identical impact across every region with no variation","The Prairies were the only region unaffected by the Depression","Prairie farmers benefited economically during this period"], answer:0},
