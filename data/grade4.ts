@@ -28275,6 +28275,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: writing a diary entry from a historical perspective means imagining you are a person from the past and describing daily events, thoughts, and feelings in the first person, based on accurate historical details.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=HFx9goZ3y1E",
         "quiz": [
           {
             "q": "Whose point of view does a historical diary entry usually use?",
@@ -28395,6 +28396,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: soil types include sandy soil with large particles that drain quickly, clay soil with tiny particles that hold water, silt with medium-sized particles, and loam, a balanced mixture good for growing plants.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=0uTtkAG5pDs",
         "quiz": [
           {
             "q": "Which soil type has the largest particles and drains water quickly?",
@@ -28455,6 +28457,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: Canada has contributed to space exploration through the Canadarm robotic arm and Canadian astronauts who have travelled to space, including on the International Space Station.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=y92zqJJE9Cs",
         "quiz": [
           {
             "q": "What is the name of the famous robotic arm Canada contributed to space missions?",

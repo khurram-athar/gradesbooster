@@ -27160,6 +27160,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: oral history is knowledge and stories passed down by speaking rather than writing, and many communities, including Indigenous communities, use storytelling from elders to preserve their history and traditions.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=BNY7L_RdObA",
         "quiz": [
           {
             "q": "What do we call history and knowledge that is passed down by speaking rather than writing?",
@@ -27226,6 +27227,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: a personal narrative, or memoir, is a true story about something that happened to the writer, told in the first person and often including personal feelings and details.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=AxInWagSaA0",
         "quiz": [
           {
             "q": "What is a personal narrative mainly about?",
@@ -27286,6 +27288,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: a game is fair when every player has an equal chance of winning, and unfair when one player or outcome is more likely than another.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=ass9chyET38",
         "quiz": [
           {
             "q": "What do we call a game where every player has an equal chance of winning?",
@@ -27346,6 +27349,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand: fungi, such as mushrooms and moulds, form their own separate group of living things -- unlike plants, they cannot make their own food, and unlike animals, most cannot move on their own.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=2fooP2ienR0",
         "quiz": [
           {
             "q": "Are fungi classified in the same group as plants?",
@@ -27406,6 +27410,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: the building of railways across Canada in the late 1800s helped connect communities, including many in Ontario, making it faster to transport people and goods across long distances.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=anmNLDXV8Ns",
         "quiz": [
           {
             "q": "What form of transportation was built across Canada to connect communities in the late 1800s?",

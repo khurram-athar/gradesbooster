@@ -33855,6 +33855,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to think about the message or lesson an author wants readers to take away from a story, sometimes called the moral or big idea.",
         "resourceLabel": "YouTube: Author Message: What Is the Story Teaching Us",
         "resourceUrl": "https://www.youtube.com/results?search_query=Author%20Message%3A%20What%20Is%20the%20Story%20Teaching%20Us%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xwkKBIzpRXE",
         "quiz": [
           {
             "q": "What is an author message in a story?",
@@ -33937,6 +33938,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise combining different coins, like nickels and dimes, along with a one-dollar bill, to make a specific total amount of money.",
         "resourceLabel": "YouTube: Combining Coins and Bills to Make an Amount",
         "resourceUrl": "https://www.youtube.com/results?search_query=Combining%20Coins%20and%20Bills%20to%20Make%20an%20Amount%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=BxrzwF6oV6s",
         "quiz": [
           {
             "q": "How much is one dime worth?",
@@ -34019,6 +34021,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that ants are insects that live and work together in large colonies, sharing jobs like gathering food, building tunnels, and caring for young ants.",
         "resourceLabel": "YouTube: Ants: Tiny but Mighty Workers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ants%3A%20Tiny%20but%20Mighty%20Workers%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SGr0Rz3l09c",
         "quiz": [
           {
             "q": "What kind of animal is an ant?",
