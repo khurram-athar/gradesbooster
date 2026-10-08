@@ -2255,12 +2255,12 @@
       {
         "q": "What is 4.56 rounded to the nearest tenth?",
         "options": [
+          "4.5",
           "4.6",
           "5.0",
-          "4.60",
-          "4.5"
+          "4.7"
         ],
-        "answer": 0
+        "answer": 1
       },
       {
         "q": "What is 2.3 + 1.45?",
@@ -3382,14 +3382,14 @@
         "answer": 3
       },
       {
-        "q": "What organ is primarily responsible for breaking down food in the stomach?",
+        "q": "Which organ churns swallowed food and mixes it with strong digestive juices?",
         "options": [
-          "The stomach",
           "The brain",
           "The heart",
+          "The stomach",
           "The lungs"
         ],
-        "answer": 0
+        "answer": 2
       },
       {
         "q": "What is the brain part of?",
@@ -4177,14 +4177,14 @@
         "answer": 2
       },
       {
-        "q": "What are the four main types of clouds often studied, including cumulus and stratus, generally classified by?",
+        "q": "How are clouds such as cumulus and stratus generally classified?",
         "options": [
-          "Their colour only",
-          "Their shape and height in the sky",
-          "Their exact temperature in degrees",
-          "The country where they are seen"
+          "By their colour only",
+          "By the country where they are seen",
+          "By their shape and height in the sky",
+          "By their exact temperature in degrees"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "What is a cumulus cloud typically associated with?",
