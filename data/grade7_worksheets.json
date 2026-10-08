@@ -536,14 +536,14 @@
         "answer": 3
       },
       {
-        "q": "What is an extended metaphor that runs throughout an entire poem or passage called?",
+        "q": "What term describes a stanza made up of four lines?",
         "options": [
-          "A refrain",
-          "An extended metaphor",
-          "A pun",
-          "A simile"
+          "A couplet",
+          "A tercet",
+          "A quatrain",
+          "A sestet"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "What term describes a play on words that uses multiple meanings for humorous effect?",
@@ -610,7 +610,7 @@
         "options": [
           "Onomatopoeia",
           "Hyperbole",
-          "Symbolism",
+          "An extended metaphor",
           "Alliteration"
         ],
         "answer": 2
@@ -2921,24 +2921,24 @@
         "answer": 3
       },
       {
-        "q": "What is the value of 4 to the power of negative 1?",
+        "q": "What is the value of 10 squared minus 6 squared?",
         "options": [
-          "One fourth",
-          "Negative 4",
-          "4",
-          "One half"
+          "16",
+          "64",
+          "32",
+          "44"
         ],
-        "answer": 0
+        "answer": 1
       },
       {
-        "q": "Which of the following is an irrational number?",
+        "q": "Between which two consecutive whole numbers does the square root of 20 lie?",
         "options": [
-          "The square root of 4",
-          "The square root of 16",
-          "The square root of 9",
-          "The square root of 2"
+          "3 and 4",
+          "4 and 5",
+          "5 and 6",
+          "9 and 10"
         ],
-        "answer": 3
+        "answer": 1
       },
       {
         "q": "What is the value of the cube root of 27?",
@@ -2971,12 +2971,12 @@
         "answer": 0
       },
       {
-        "q": "What does a negative exponent indicate about a number?",
+        "q": "What is the value of 3 to the power of 3 minus 2 to the power of 4?",
         "options": [
-          "A negative result always",
-          "The number is undefined",
-          "The reciprocal of the base raised to the positive exponent",
-          "The number is doubled"
+          "9",
+          "19",
+          "11",
+          "43"
         ],
         "answer": 2
       }
@@ -4040,11 +4040,11 @@
         "answer": 1
       },
       {
-        "q": "What term describes the smallest unit of a pure substance that still has the properties of that substance?",
+        "q": "What is the smallest particle of a compound, such as water, that still has the properties of that compound?",
         "options": [
-          "A mixture",
-          "A particle or atom",
-          "A solvent",
+          "A single atom",
+          "A molecule",
+          "A solute",
           "A suspension"
         ],
         "answer": 1
@@ -4982,14 +4982,14 @@
         "answer": 0
       },
       {
-        "q": "What term describes the transfer of a colony from one ruling power to another, as happened after the war?",
+        "q": "What is the formal term for one country handing over a colony to another country under the terms of a peace treaty?",
         "options": [
-          "An election",
-          "A treaty of neutrality",
-          "A revolution",
-          "A change of power"
+          "Secession",
+          "Federation",
+          "Cession",
+          "Emigration"
         ],
-        "answer": 3
+        "answer": 2
       },
       {
         "q": "How did the outcome of the Seven Years War affect the balance of power in North America?",
@@ -5777,14 +5777,14 @@
         "answer": 2
       },
       {
-        "q": "What term describes the layer of vegetation and soil that supports plant and animal life in a region?",
+        "q": "What term describes a large region defined by its climate and the characteristic plants and animals adapted to it?",
         "options": [
-          "A population centre",
+          "A watershed",
+          "A political boundary",
           "A time zone",
-          "An ecosystem or biome",
-          "A political boundary"
+          "A biome"
         ],
-        "answer": 2
+        "answer": 3
       },
       {
         "q": "How might a change in climate over time affect the natural vegetation of a region?",

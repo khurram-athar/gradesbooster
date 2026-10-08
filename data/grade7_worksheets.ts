@@ -57,14 +57,14 @@ const worksheets = [
     {q:"What term describes extreme exaggeration used for emphasis?", options:["Understatement","Assonance","Hyperbole","Simile"], answer:2},
     {q:"What is the repetition of initial consonant sounds in nearby words called?", options:["Alliteration","Onomatopoeia","Rhyme","Assonance"], answer:0},
     {q:"What term describes a word that imitates a sound, such as buzz or hiss?", options:["Metaphor","Simile","Alliteration","Onomatopoeia"], answer:3},
-    {q:"What is an extended metaphor that runs throughout an entire poem or passage called?", options:["A refrain","An extended metaphor","A pun","A simile"], answer:1},
+    {q:"What term describes a stanza made up of four lines?", options:["A couplet", "A tercet", "A quatrain", "A sestet"], answer:2},
     {q:"What term describes a play on words that uses multiple meanings for humorous effect?", options:["A simile","Personification","Hyperbole","A pun"], answer:3},
     {q:"What is the repeated pattern of stressed and unstressed syllables in a poem called?", options:["Alliteration","Meter break","Rhyme scheme","Rhythm"], answer:3},
     {q:"What is a line or group of lines repeated throughout a poem, often at the end of stanzas, called?", options:["A couplet","A metaphor","A refrain","A stanza"], answer:2},
     {q:"What term describes the repetition of vowel sounds within nearby words?", options:["Consonance","Onomatopoeia","Alliteration","Assonance"], answer:3},
     {q:"Which line best demonstrates personification?", options:["The clock is old.","It was midnight.","The clock struck twelve.","The old clock groaned as midnight arrived."], answer:3},
     {q:"What is a two line stanza that often rhymes called?", options:["A sonnet","A couplet","A refrain","A quatrain"], answer:1},
-    {q:"What term describes a comparison implied throughout an entire poem rather than stated once?", options:["Onomatopoeia","Hyperbole","Symbolism","Alliteration"], answer:2},
+    {q:"What term describes a comparison implied throughout an entire poem rather than stated once?", options:["Onomatopoeia", "Hyperbole", "An extended metaphor", "Alliteration"], answer:2},
     {q:"Which phrase best demonstrates alliteration?", options:["She sang a song","Whispering winds wandered west","The dog ran fast","The bright red car"], answer:1}
 ]},
 {subject:"Language", number:5, title:"Verb Tenses and Subject-Verb Agreement", questions:[
@@ -315,12 +315,12 @@ const worksheets = [
     {q:"Which of these numbers is a perfect square?", options:["50","48","49","45"], answer:2},
     {q:"What is the value of 2 to the power of 3 times 2 to the power of 2?", options:["16","8","32","64"], answer:2},
     {q:"What is the approximate value of the square root of 50, rounded to the nearest whole number?", options:["6","5","8","7"], answer:3},
-    {q:"What is the value of 4 to the power of negative 1?", options:["One fourth","Negative 4","4","One half"], answer:0},
-    {q:"Which of the following is an irrational number?", options:["The square root of 4","The square root of 16","The square root of 9","The square root of 2"], answer:3},
+    {q:"What is the value of 10 squared minus 6 squared?", options:["16", "64", "32", "44"], answer:1},
+    {q:"Between which two consecutive whole numbers does the square root of 20 lie?", options:["3 and 4", "4 and 5", "5 and 6", "9 and 10"], answer:1},
     {q:"What is the value of the cube root of 27?", options:["3","9","27","6"], answer:0},
     {q:"Which list correctly orders these values from least to greatest: 2 cubed, 3 squared, 4 squared?", options:["2 cubed, 3 squared, 4 squared","2 cubed, 4 squared, 3 squared","4 squared, 3 squared, 2 cubed","3 squared, 2 cubed, 4 squared"], answer:0},
     {q:"What is the value of 6 squared minus 4 squared?", options:["20","36","4","16"], answer:0},
-    {q:"What does a negative exponent indicate about a number?", options:["A negative result always","The number is undefined","The reciprocal of the base raised to the positive exponent","The number is doubled"], answer:2}
+    {q:"What is the value of 3 to the power of 3 minus 2 to the power of 4?", options:["9", "19", "11", "43"], answer:2}
 ]},
 {subject:"Math", number:10, title:"Financial Literacy and Percent Applications", questions:[
     {q:"If an item costs 60 dollars and is marked up by 20 percent, what is the new price?", options:["72 dollars","62 dollars","70 dollars","80 dollars"], answer:0},
@@ -436,7 +436,7 @@ const worksheets = [
     {q:"What separation technique uses a porous material to separate solids from liquids?", options:["Distillation","Magnetism","Evaporation","Filtration"], answer:3},
     {q:"What separation technique would best separate salt dissolved in water?", options:["Magnetism","Sieving","Filtration","Evaporation"], answer:3},
     {q:"What term describes a mixture where larger particles are suspended and will eventually settle if left undisturbed?", options:["A pure substance","A suspension","A solution","An element"], answer:1},
-    {q:"What term describes the smallest unit of a pure substance that still has the properties of that substance?", options:["A mixture","A particle or atom","A solvent","A suspension"], answer:1},
+    {q:"What is the smallest particle of a compound, such as water, that still has the properties of that compound?", options:["A single atom", "A molecule", "A solute", "A suspension"], answer:1},
     {q:"Which of these is an example of a pure substance rather than a mixture?", options:["Distilled water","Muddy river water","Salt water","Fruit salad"], answer:0},
     {q:"What term describes a mixture with particles that are larger than a solution but do not settle out, such as milk?", options:["A solute","A pure substance","A suspension only","A colloid"], answer:3},
     {q:"Why might a scientist use a centrifuge to separate a mixture?", options:["It always dissolves solids completely","Spinning quickly separates substances of different densities","It changes solids into pure elements","It has no effect on separating mixtures"], answer:1}
@@ -538,7 +538,7 @@ const worksheets = [
     {q:"What impact did the Seven Years War have on relationships between European powers and Indigenous nations?", options:["Alliances shifted, and Indigenous nations faced new challenges under British rule","All Indigenous nations disappeared from the region","European powers ended all contact with Indigenous nations","Indigenous nations were completely unaffected"], answer:0},
     {q:"What was one significant provision of the Quebec Act regarding land?", options:["It expanded the boundaries of the province of Quebec","It banned all settlement within Quebec","It transferred Quebec to French control again","It eliminated the province of Quebec entirely"], answer:0},
     {q:"Why is the Quebec Act considered an important turning point in the history of the colony?", options:["It allowed French civil law and Catholic practice to continue under British rule","It had no lasting effect on the colony","It transferred the colony back to France","It ended all French cultural practices immediately"], answer:0},
-    {q:"What term describes the transfer of a colony from one ruling power to another, as happened after the war?", options:["An election","A treaty of neutrality","A revolution","A change of power"], answer:3},
+    {q:"What is the formal term for one country handing over a colony to another country under the terms of a peace treaty?", options:["Secession", "Federation", "Cession", "Emigration"], answer:2},
     {q:"How did the outcome of the Seven Years War affect the balance of power in North America?", options:["It significantly increased British territorial control","It significantly increased French territorial control","It ended all European claims to North America","It had no effect on territorial control"], answer:0},
     {q:"Which colonial power lost the most North American territory as a result of the Seven Years War?", options:["Britain","France","The Netherlands","Spain"], answer:1},
     {q:"Why might historians consider 1763 a pivotal year in Canadian history?", options:["It marked the formal transfer of New France to British control","It marked the independence of Canada","It marked the end of all European colonization","It marked the founding of New France"], answer:0}
@@ -624,7 +624,7 @@ const worksheets = [
     {q:"What term describes a large open area of grassland with scattered trees, often found in warmer climates?", options:["A desert","A tundra","A savanna","A rainforest"], answer:2},
     {q:"How does elevation typically affect the climate of a mountainous region?", options:["Elevation has no effect on climate at all","Higher elevations tend to be colder than surrounding lowlands","Elevation only affects precipitation, never temperature","Higher elevations are always warmer than lowlands"], answer:1},
     {q:"Why do ocean currents influence the climate of nearby coastal regions?", options:["Currents only affect climate far from any coastline","Currents only influence precipitation, never temperature","Currents carry warm or cold water that affects nearby air temperatures","Ocean currents have no connection to climate"], answer:2},
-    {q:"What term describes the layer of vegetation and soil that supports plant and animal life in a region?", options:["A population centre","A time zone","An ecosystem or biome","A political boundary"], answer:2},
+    {q:"What term describes a large region defined by its climate and the characteristic plants and animals adapted to it?", options:["A watershed", "A political boundary", "A time zone", "A biome"], answer:3},
     {q:"How might a change in climate over time affect the natural vegetation of a region?", options:["Only human settlements are affected by climate change","Vegetation always stays exactly the same regardless of climate","It would have no effect on plant or animal life","It could cause shifts in which plants and animals can survive there"], answer:3},
     {q:"Why is understanding climate zones useful when studying global patterns of agriculture?", options:["Climate has no connection to agriculture at all","All crops can be grown equally well in every climate","Climate strongly influences which crops can be grown in a region","Agriculture depends only on soil colour, not climate"], answer:2}
 ]},
