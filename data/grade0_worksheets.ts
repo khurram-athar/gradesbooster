@@ -2,7 +2,7 @@ const worksheets = [
 {subject:"Language", number:1, title:"Letter Recognition: A to M", questions:[
     {q:"Say the name of the letter A."},
     {q:"Say the name of the letter B."},
-    {q:"Point to a letter in the alphabet that comes right after C."},
+    {q:"Say the letter that comes right after C."},
     {q:"Name a word that starts with the letter D."},
     {q:"Say the name of the letter E."},
     {q:"Name a word that starts with the letter F."},
@@ -64,7 +64,7 @@ const worksheets = [
     {q:"Name a word that begins with the letter B."},
     {q:"Name a word that ends with the letter N."},
     {q:"Say the beginning sound in your own name."},
-    {q:"Name a word that starts and ends with different sounds than dog."},
+    {q:"Name a word that starts with a different sound than dog."},
     {q:"Say the beginning sound and the ending sound in the word pin."}
 ]},
 {subject:"Language", number:5, title:"Rhyming Words", questions:[
@@ -119,21 +119,21 @@ const worksheets = [
     {q:"Say a sentence that uses two sight words together."}
 ]},
 {subject:"Language", number:8, title:"Listening and Story Comprehension", questions:[
-    {q:"Listen to a short story and name the main character."},
-    {q:"Where did the story take place?"},
-    {q:"What happened at the beginning of the story?"},
-    {q:"What happened in the middle of the story?"},
-    {q:"What happened at the end of the story?"},
-    {q:"Name one thing that happened in the story."},
-    {q:"How did the main character feel in the story?"},
-    {q:"Was the story happy, sad, or funny?"},
-    {q:"Name another character from the story if there was one."},
-    {q:"What was your favourite part of the story?"},
-    {q:"Why do you think the character made that choice?"},
-    {q:"Retell the story in your own words."},
-    {q:"What might happen next if the story continued?"},
-    {q:"Would you have made the same choice as the character?"},
-    {q:"Draw or describe a picture that shows what happened in the story."}
+    {q:"Read this story together: Sam the puppy lost his red ball in the park. He looked under a bench and found it. Sam felt happy. Who is the main character?"},
+    {q:"Read this story together: Sam the puppy lost his red ball in the park. He looked under a bench and found it. Sam felt happy. Where did the story take place?"},
+    {q:"Read this story together: Mia and her dad went to the beach. Mia built a sand castle, but a wave knocked it down. Mia laughed and built a new one. What happened at the beginning of the story?"},
+    {q:"Read this story together: Mia and her dad went to the beach. Mia built a sand castle, but a wave knocked it down. Mia laughed and built a new one. What happened in the middle of the story?"},
+    {q:"Read this story together: Mia and her dad went to the beach. Mia built a sand castle, but a wave knocked it down. Mia laughed and built a new one. What happened at the end of the story?"},
+    {q:"Read this story together: A little duck named Dot could not find her mom. Dot asked a frog for help, and the frog took her to the pond where her mom was waiting. Name one thing that happened in the story."},
+    {q:"Read this story together: Sam the puppy lost his red ball in the park. He looked under a bench and found it. Sam felt happy. How did Sam feel at the end of the story?"},
+    {q:"Read this story together: Mia and her dad went to the beach. Mia built a sand castle, but a wave knocked it down. Mia laughed and built a new one. Was this story happy, sad, or funny? Why?"},
+    {q:"Read this story together: A little duck named Dot could not find her mom. Dot asked a frog for help, and the frog took her to the pond where her mom was waiting. Name another character in the story besides Dot."},
+    {q:"Read this story together: Sam the puppy lost his red ball in the park. He looked under a bench and found it. Sam felt happy. What was your favourite part of the story?"},
+    {q:"Read this story together: A little duck named Dot could not find her mom. Dot asked a frog for help, and the frog took her to the pond where her mom was waiting. Why do you think the frog helped Dot?"},
+    {q:"Read this story together: Sam the puppy lost his red ball in the park. He looked under a bench and found it. Sam felt happy. Retell the story in your own words."},
+    {q:"Read this story together: Mia and her dad went to the beach. Mia built a sand castle, but a wave knocked it down. Mia laughed and built a new one. What might Mia do next?"},
+    {q:"Read this story together: A little duck named Dot could not find her mom. Dot asked a frog for help, and the frog took her to the pond where her mom was waiting. Dot asked a frog for help. Would you have asked someone for help too?"},
+    {q:"Read this story together: Sam the puppy lost his red ball in the park. He looked under a bench and found it. Sam felt happy. Draw or describe a picture that shows what happened in the story."}
 ]},
 {subject:"Language", number:9, title:"Simple Sentences and Naming Words", questions:[
     {q:"Name a person, place, or thing, which is called a naming word."},
@@ -184,13 +184,13 @@ const worksheets = [
     {q:"Which is greater, 8 or 12?"},
     {q:"Which is smaller, 6 or 3?"},
     {q:"Count a group of eight objects and say the total."},
-    {q:"What number comes right after 20?"}
+    {q:"What number comes right before 20?"}
 ]},
 {subject:"Math", number:2, title:"Number Recognition and Writing", questions:[
     {q:"Say the number 4 out loud."},
     {q:"Say the number 7 out loud."},
     {q:"Say the number 12 out loud."},
-    {q:"Point to the numeral 5 if you see a row of numbers."},
+    {q:"Write the numeral 5 on paper and point to it."},
     {q:"Name a number that has two digits."},
     {q:"Say the number that comes after 9."},
     {q:"Say the number 15 out loud."},
@@ -246,8 +246,8 @@ const worksheets = [
     {q:"Name an object shaped like a circle."},
     {q:"Name an object shaped like a rectangle."},
     {q:"How many sides does a rectangle have?"},
-    {q:"Name a shape with five sides."},
-    {q:"Name a shape with six sides."},
+    {q:"Name a shape with four sides."},
+    {q:"How many sides does a square have?"},
     {q:"Which shape has more sides, a triangle or a square?"},
     {q:"Name a solid shape that looks like a ball."},
     {q:"Name a solid shape that looks like a box."},
@@ -488,7 +488,7 @@ const worksheets = [
     {q:"Why do we plant trees?"},
     {q:"Name one way your family cares for the environment."},
     {q:"Why is it good to walk or bike instead of drive sometimes?"},
-    {q:"Name a bin colour used for recycling."},
+    {q:"What do you put in your family's recycling bin or blue box at home?"},
     {q:"What happens to plastic that is left outside for a long time?"},
     {q:"Name one thing you will do to help take care of the Earth."}
 ]},
