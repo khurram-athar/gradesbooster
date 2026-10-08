@@ -566,14 +566,14 @@
         "answer": 0
       },
       {
-        "q": "The overall purpose of a text, such as to inform, persuade, or entertain, is its ___.",
+        "q": "A writer composes a news report to explain an event clearly and accurately. The writer's main purpose is to ___.",
         "options": [
-          "setting",
-          "purpose",
-          "tone",
-          "theme"
+          "entertain",
+          "persuade",
+          "inform",
+          "mock"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "The authors attitude toward the subject as shown through word choice is the ___.",
@@ -1301,7 +1301,7 @@
         "answer": 1
       },
       {
-        "q": "A flaw in a tragic hero that leads to their downfall is called ___.",
+        "q": "In Shakespeare's Macbeth, the title character's overwhelming ambition leads directly to his downfall. This trait is an example of ___.",
         "options": [
           "comic relief",
           "a foil",
@@ -1685,7 +1685,7 @@
         "answer": 0
       },
       {
-        "q": "Solve by elimination: 3x + 2y = 16 and 3x minus y = 4",
+        "q": "Solve by elimination: 3x + 2y = 16 and 3x minus y = 10",
         "options": [
           "x = 5, y = 1",
           "x = 2, y = 5",
@@ -2609,12 +2609,12 @@
       {
         "q": "If triangle ABC is similar to triangle DEF, side AB corresponds to side ___.",
         "options": [
-          "DE",
           "EF",
           "DF",
-          "FD"
+          "DE",
+          "AC"
         ],
-        "answer": 0
+        "answer": 2
       },
       {
         "q": "The height of a tree can be found using similar triangles by comparing it to the height and shadow of a ___.",
@@ -4618,14 +4618,14 @@
         "answer": 1
       },
       {
-        "q": "Reducing waste by reusing materials before recycling them is part of the waste hierarchy known as reduce, reuse, and ___.",
+        "q": "The waste hierarchy that guides sustainable waste management is known as reduce, reuse, and ___.",
         "options": [
           "discard",
-          "incinerate",
           "recycle",
+          "incinerate",
           "landfill"
         ],
-        "answer": 2
+        "answer": 1
       },
       {
         "q": "The gradual process by which ecosystems change and develop over time is called ecological ___.",
@@ -4882,14 +4882,14 @@
         "answer": 1
       },
       {
-        "q": "During the Great Depression, unemployed men who traveled the country seeking work were often called ___.",
+        "q": "During the Great Depression, many unemployed men travelled the country on freight trains looking for work, a practice known as ___.",
         "options": [
-          "flappers",
+          "bootlegging",
+          "joining the suffrage movement",
           "riding the rails",
-          "bootleggers",
-          "suffragists"
+          "flapper culture"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "Government relief camps set up during the Great Depression were intended to ___.",
