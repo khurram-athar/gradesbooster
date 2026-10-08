@@ -4715,34 +4715,34 @@
     "title": "Atomic Theory and the Periodic Table",
     "questions": [
       {
-        "q": "Which subatomic particle carries a positive charge and is located in the nucleus?",
+        "q": "An ion has 17 protons, 18 neutrons, and 18 electrons. What is its net charge?",
         "options": [
-          "proton",
-          "neutron",
-          "electron",
-          "positron only in antimatter"
+          "+1",
+          "-1",
+          "0",
+          "+17"
         ],
-        "answer": 0
+        "answer": 1
       },
       {
-        "q": "Which subatomic particle carries a negative charge and orbits the nucleus?",
+        "q": "How many electrons does a neutral atom of aluminum-27 have?",
         "options": [
-          "electron",
-          "proton",
-          "nucleon",
-          "neutron"
-        ],
-        "answer": 0
-      },
-      {
-        "q": "Which subatomic particle has no electric charge and is located in the nucleus?",
-        "options": [
-          "ion",
-          "electron",
-          "neutron",
-          "proton"
+          "14",
+          "27",
+          "13",
+          "40"
         ],
         "answer": 2
+      },
+      {
+        "q": "How many neutrons are in an atom of phosphorus-31 (atomic number 15)?",
+        "options": [
+          "15",
+          "31",
+          "46",
+          "16"
+        ],
+        "answer": 3
       },
       {
         "q": "The atomic number of an element represents ___.",

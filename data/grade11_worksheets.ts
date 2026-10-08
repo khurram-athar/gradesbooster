@@ -510,9 +510,9 @@ const worksheets = [
     {q:"Why is understanding energy flow and nutrient cycling important for managing and protecting ecosystems?", options:["disruptions at one trophic level never affect other parts of an ecosystem","energy flow and nutrient cycling have no practical importance for ecosystem management","it reveals how disruptions at one trophic level or in one cycle can affect the entire ecosystem","ecosystems function independently of energy flow and nutrient cycling"], answer:2}
 ]},
 {subject:"Chemistry", number:1, title:"Atomic Theory and the Periodic Table", questions:[
-    {q:"Which subatomic particle carries a positive charge and is located in the nucleus?", options:["proton","neutron","electron","positron only in antimatter"], answer:0},
-    {q:"Which subatomic particle carries a negative charge and orbits the nucleus?", options:["electron","proton","nucleon","neutron"], answer:0},
-    {q:"Which subatomic particle has no electric charge and is located in the nucleus?", options:["ion","electron","neutron","proton"], answer:2},
+    {q:"An ion has 17 protons, 18 neutrons, and 18 electrons. What is its net charge?", options:["+1", "-1", "0", "+17"], answer:1},
+    {q:"How many electrons does a neutral atom of aluminum-27 have?", options:["14", "27", "13", "40"], answer:2},
+    {q:"How many neutrons are in an atom of phosphorus-31 (atomic number 15)?", options:["15", "31", "46", "16"], answer:3},
     {q:"The atomic number of an element represents ___.", options:["the number of neutrons only","the number of protons in the nucleus","the total number of protons and neutrons combined","the number of electrons in the outer shell only"], answer:1},
     {q:"The mass number of an atom represents ___.", options:["the atomic number multiplied by two","the number of electrons only","the number of protons only","the total number of protons and neutrons in the nucleus"], answer:3},
     {q:"Isotopes of an element differ in their number of ___.", options:["protons","valence electrons","electrons in a neutral atom","neutrons"], answer:3},
