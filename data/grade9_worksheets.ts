@@ -1,7 +1,7 @@
 const worksheets = [
 {subject:"Language", number:1, title:"Grammar Foundations: Parts of Speech and Sentence Structure", questions:[
-    {q:"Identify the noun in: The dog barked loudly.", options:["Dog","Barked","Loudly","The"], answer:0},
-    {q:"Identify the verb in: She sings every morning.", options:["She","Sings","Every","Morning"], answer:1},
+    {q:"Identify the abstract noun in: Her courage inspired the entire team.", options:["Inspired", "Team", "Courage", "Entire"], answer:2},
+    {q:"Identify the verb phrase in: By noon, the students had finished their experiment.", options:["By noon", "the students", "had finished", "their experiment"], answer:2},
     {q:"An adjective is a word that:", options:["Names a person place or thing","Shows action","Describes a noun","Connects clauses"], answer:2},
     {q:"Identify the adverb in: He ran quickly to school.", options:["He","Ran","School","Quickly"], answer:3},
     {q:"A pronoun replaces:", options:["A noun","A verb","An adjective","A preposition"], answer:0},
@@ -14,7 +14,7 @@ const worksheets = [
     {q:"Identify the proper noun.", options:["city","building","river","Toronto"], answer:3},
     {q:"Which sentence uses correct subject-verb agreement?", options:["The students are happy","The student are happy","The students is happy","The student were is happy"], answer:0},
     {q:"A collective noun refers to:", options:["A single item","A group treated as one unit","An action","A quality"], answer:1},
-    {q:"Identify the article in: A cat sat on the mat.", options:["Cat","Sat","A","On"], answer:2}
+    {q:"Identify the participial adjective in: The exhausted hikers reached the summit.", options:["Hikers", "Exhausted", "Reached", "Summit"], answer:1}
 ]},
 {subject:"Language", number:2, title:"Complex Sentences and Clauses", questions:[
     {q:"An independent clause:", options:["Cannot stand alone","Can stand alone as a sentence","Has no verb","Has no subject"], answer:1},
@@ -46,12 +46,12 @@ const worksheets = [
     {q:"Choose the correctly punctuated list.", options:["We need milk eggs and bread","We need, milk, eggs and, bread","We need milk; eggs; and, bread","We need milk, eggs, and bread"], answer:3},
     {q:"Which sentence correctly uses a question mark?", options:["Are we leaving soon?","Are we leaving soon.","Are we leaving soon!","Are we leaving soon,"], answer:0},
     {q:"Parentheses are used to:", options:["End a sentence","Add extra or clarifying information","Begin a list","Replace a comma always"], answer:1},
-    {q:"Which words should be capitalized in: we study english on monday?", options:["english","monday","English and Monday","we"], answer:2},
+    {q:"Which words should be capitalized in: we study english on monday?", options:["Only english and monday", "Only we and monday", "We, English, and Monday", "Only we"], answer:2},
     {q:"An ellipsis indicates:", options:["The end of a question","A strong command","A new paragraph","An omission or a trailing thought"], answer:3},
-    {q:"Choose the sentence with correct end punctuation for a command.", options:["Close the door","Close the door?","Close the door,","close the Door"], answer:0}
+    {q:"Choose the sentence with correct end punctuation for a command.", options:["Close the door?", "Close the door,", "Close the door.", "close the Door"], answer:2}
 ]},
 {subject:"Language", number:4, title:"Vocabulary and Word Choice", questions:[
-    {q:"A synonym for happy is:", options:["Sad","Angry","Tired","Joyful"], answer:3},
+    {q:"Which word is the closest synonym for 'meticulous'?", options:["Careless", "Thorough", "Hasty", "Curious"], answer:1},
     {q:"An antonym for ancient is:", options:["Modern","Old","Ageless","Historic"], answer:0},
     {q:"Choosing precise words instead of vague ones helps writing become:", options:["Longer","Clearer and more specific","Harder to read","More repetitive"], answer:1},
     {q:"A word with multiple meanings depending on context is called:", options:["A synonym","An antonym","A homonym","A conjunction"], answer:2},
@@ -97,8 +97,8 @@ const worksheets = [
     {q:"An idiom is:", options:["A type of rhyme","A grammar rule","An expression whose meaning differs from its literal words","A punctuation mark"], answer:2},
     {q:"Imagery appeals mainly to:", options:["Only logic","Only grammar rules","Only punctuation","The five senses"], answer:3},
     {q:"A theme in literature is:", options:["The central message or lesson","The setting of the story","The name of the writer","The number of chapters"], answer:0},
-    {q:"Identify the simile: Her smile was like sunshine.", options:["The sun smiled brightly","Her smile was like sunshine","Sunshine spread quietly","The bright, warm sun"], answer:1},
-    {q:"Identify the metaphor: Time is a thief.", options:["Time flies like a jet","Time ticks loudly","Time is a thief","Time waits patiently, like a friend"], answer:2},
+    {q:"Which sentence contains a simile?", options:["The sun smiled down on the town", "Her laugh was a warm summer day", "Her smile lit up the room", "Her smile glowed like sunshine"], answer:3},
+    {q:"Which sentence contains a metaphor?", options:["Time passed as slowly as molasses", "Time is a thief that steals our days", "Time ticked loudly on the wall", "Time waits patiently, like a friend"], answer:1},
     {q:"A paradox is a statement that:", options:["Is always literally true","Uses only rhyme","Has no meaning","Seems contradictory but reveals a truth"], answer:3}
 ]},
 {subject:"Language", number:7, title:"Persuasive and Argumentative Writing", questions:[
@@ -272,7 +272,7 @@ const worksheets = [
     {q:"If 8 workers finish a job in 6 days, how many days for 4 workers at the same rate?", options:["3 days","24 days","6 days","12 days"], answer:3}
 ]},
 {subject:"Math", number:7, title:"Measurement: Perimeter, Area, and Volume", questions:[
-    {q:"The perimeter of a rectangle with length 8 and width 5 is:", options:["40","13","26","20"], answer:2},
+    {q:"A rectangle has a perimeter of 26 units and a length of 8 units. What is its width?", options:["10 units", "18 units", "5 units", "3 units"], answer:2},
     {q:"The area of a rectangle with length 8 and width 5 is:", options:["26","13","20","40"], answer:3},
     {q:"The area of a triangle with base 10 and height 6 is:", options:["30","60","16","20"], answer:0},
     {q:"The circumference of a circle is found using:", options:["Pi times radius squared","2 times pi times radius","2 times radius","Pi times diameter squared"], answer:1},
@@ -282,7 +282,7 @@ const worksheets = [
     {q:"Convert 2.5 meters to centimeters.", options:["25 cm","250 cm","2500 cm","0.25 cm"], answer:1},
     {q:"The surface area of a cube with side length 4 is:", options:["64","16","96","24"], answer:2},
     {q:"A rectangular prism has volume 120 and base area 20. Its height is:", options:["5","24","100","6"], answer:3},
-    {q:"The perimeter of a square with side length 7 is:", options:["28","49","14","21"], answer:0},
+    {q:"A square has an area of 49 square units. What is its perimeter?", options:["14 units", "28 units", "49 units", "196 units"], answer:1},
     {q:"The area of a parallelogram with base 9 and height 4 is:", options:["13","36","18","72"], answer:1},
     {q:"Convert 3000 milliliters to liters.", options:["30 liters","0.3 liters","3 liters","300 liters"], answer:2},
     {q:"The volume of a cube with side length 5 is:", options:["25","15","100","125"], answer:3},
@@ -335,9 +335,9 @@ const worksheets = [
     {q:"An outlier in a data set is:", options:["The average value","The most common value","A value far from the other values","The middle value"], answer:2},
     {q:"A scatter plot is used to show:", options:["A single category total","Data over time only","Percentages of a whole","The relationship between two variables"], answer:3},
     {q:"Probability is expressed as a number between:", options:["0 and 1","-1 and 1","1 and 100","0 and 100 only"], answer:0},
-    {q:"The probability of flipping heads on a fair coin is:", options:["One quarter","One half","One third","Zero"], answer:1},
+    {q:"Two fair coins are flipped. What is the probability of getting two heads?", options:["1/2", "1/4", "1/3", "3/4"], answer:1},
     {q:"A survey sample should be:", options:["As small as possible","Biased toward one group","Representative of the population","Ignored after collection"], answer:2},
-    {q:"If a die is rolled, the probability of rolling a 4 is:", options:["One fourth","One third","One half","One sixth"], answer:3}
+    {q:"Two fair six-sided dice are rolled. What is the probability that the sum is 7?", options:["1/6", "1/9", "5/36", "1/8"], answer:0}
 ]},
 {subject:"Science", number:1, title:"Scientific Method and Lab Safety", questions:[
     {q:"The first step of the scientific method is usually:", options:["Asking a question or identifying a problem","Forming a conclusion","Publishing results","Skipping observation"], answer:0},
@@ -443,13 +443,13 @@ const worksheets = [
 ]},
 {subject:"Science", number:7, title:"Earth and Space Science", questions:[
     {q:"The solar system is held together by:", options:["Magnetism","Electric charge","Gravity","Wind"], answer:2},
-    {q:"The Sun is classified as a:", options:["Planet","Moon","Asteroid","Star"], answer:3},
-    {q:"The order of planets outward from the sun starts with:", options:["Mercury","Venus","Earth","Mars"], answer:0},
+    {q:"Sunspots appear darker than the rest of the Sun's surface because they are:", options:["Shadows cast by orbiting planets", "Clouds of dust drifting in front of the Sun", "Cooler regions where strong magnetic fields reduce heat flow", "Holes where the Sun's surface has burned away"], answer:2},
+    {q:"Which statement correctly distinguishes the terrestrial planets from the gas giants?", options:["Terrestrial planets are huge and made mostly of hydrogen; gas giants are small and rocky", "Terrestrial planets orbit beyond Neptune; gas giants orbit closest to the Sun", "Terrestrial planets are small and rocky; gas giants are large with thick hydrogen and helium atmospheres", "Terrestrial planets have no solid surface; gas giants are solid rock"], answer:2},
     {q:"A planet orbit around the sun is generally shaped like:", options:["A perfect circle always","An ellipse","A straight line","A random, unpredictable path"], answer:1},
     {q:"The Moon phases are caused by:", options:["The Moon changing shape","The Earth blocking the sun daily","The changing angle of sunlight reflecting off the Moon","The Moon producing its own light"], answer:2},
     {q:"A solar eclipse occurs when:", options:["The Earth passes between the Sun and Moon","The Sun passes behind the Earth","The Moon disappears completely","The Moon passes between the Earth and the Sun"], answer:3},
     {q:"A lunar eclipse occurs when:", options:["The Earth passes between the Sun and the Moon","The Moon passes between the Earth and Sun","The Sun blocks the Moon directly","The Moon blocks itself"], answer:0},
-    {q:"Earth rotation on its axis causes:", options:["The seasons","Day and night","Tides only","Eclipses only"], answer:1},
+    {q:"The Coriolis effect, which deflects moving air and ocean currents, results from:", options:["The Moon's gravitational pull", "Earth's magnetic field", "Earth's revolution around the Sun", "Earth's rotation on its axis"], answer:3},
     {q:"Earth revolution around the sun, combined with axial tilt, causes:", options:["Day and night","Ocean currents only","The seasons","Moon phases"], answer:2},
     {q:"A light-year measures:", options:["The brightness of a star","The time it takes to orbit the sun","The temperature of a star","The distance light travels in one year"], answer:3},
     {q:"A galaxy is:", options:["A massive collection of stars, gas, and dust bound by gravity","A single star system only","The same as a solar system","A type of asteroid"], answer:0},
