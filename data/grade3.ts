@@ -27477,6 +27477,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand review: students revisit commas in dates and addresses, suffixes -ful and -less, bold print and glossary, plural possessive nouns, and alliteration.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=cwOJTlyTdjM",
+        "videoUrls": [
+          {
+            "label": "Grammar: Commas in Dates and Addresses",
+            "url": "https://www.youtube.com/watch?v=cwOJTlyTdjM"
+          },
+          {
+            "label": "Writing: Writing a Thank-You Note",
+            "url": "https://www.youtube.com/watch?v=3kSniQj_LP8"
+          },
+          {
+            "label": "Reading: Making Inferences from Illustrations",
+            "url": "https://www.youtube.com/watch?v=M3ZKbnBw7NY"
+          },
+          {
+            "label": "Writing: Writing a Personal Narrative (Memoir)",
+            "url": "https://www.youtube.com/watch?v=AxInWagSaA0"
+          }
+        ],
         "quiz": [
           {
             "q": "In the date July 22, 2026, where should the comma be placed?",
@@ -27536,6 +27555,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand review: students revisit rounding to the nearest 1000, comparing fractions with the same numerator, comparing angles to a right angle, finding the mode, and multiplying by 0 and 1.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=DUyLQJXqytI",
+        "videoUrls": [
+          {
+            "label": "Number: Rounding to the Nearest 1000",
+            "url": "https://www.youtube.com/watch?v=DUyLQJXqytI"
+          },
+          {
+            "label": "Financial Literacy: Calculating Sales Tax on Purchases",
+            "url": "https://www.youtube.com/watch?v=RCSWEzr0H6o"
+          },
+          {
+            "label": "Multiplication: Properties of Multiplying by 0 and 1",
+            "url": "https://www.youtube.com/watch?v=DfN8e6ZX8Sw"
+          },
+          {
+            "label": "Probability: Fair and Unfair Games",
+            "url": "https://www.youtube.com/watch?v=ass9chyET38"
+          }
+        ],
         "quiz": [
           {
             "q": "Which digit do you look at to round a number to the nearest 1000?",
@@ -27595,6 +27633,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand review: students revisit bird adaptations for flight, herbivores/carnivores/omnivores, biodiversity in rainforests, complete versus incomplete metamorphosis, and fungi classification.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=cgO07y9JIIE",
+        "videoUrls": [
+          {
+            "label": "Science: Bird Adaptations for Flight",
+            "url": "https://www.youtube.com/watch?v=cgO07y9JIIE"
+          },
+          {
+            "label": "Science: Rainforest Ecosystems and Biodiversity",
+            "url": "https://www.youtube.com/watch?v=dUXQCdCoMCM"
+          },
+          {
+            "label": "Science: Complete vs Incomplete Metamorphosis in Insects",
+            "url": "https://www.youtube.com/watch?v=gxmlrIck2L0"
+          },
+          {
+            "label": "Science: Fungi — Neither Plant Nor Animal",
+            "url": "https://www.youtube.com/watch?v=2fooP2ienR0"
+          }
+        ],
         "quiz": [
           {
             "q": "What kind of bones do birds have that help them fly?",
@@ -27654,6 +27711,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand review: students revisit the Niagara Escarpment, Canada’s official languages, emergency services, Ontario’s airports, and the building of the railway.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=7VEgoT2Ojn0",
+        "videoUrls": [
+          {
+            "label": "Social Studies: The Niagara Escarpment — A Unique Ontario Landform",
+            "url": "https://www.youtube.com/watch?v=7VEgoT2Ojn0"
+          },
+          {
+            "label": "Social Studies: The Trans-Canada Highway and Travel Across the Country",
+            "url": "https://www.youtube.com/watch?v=6r4iIR2m6D0"
+          },
+          {
+            "label": "Social Studies: Air Travel and Ontario’s Airports",
+            "url": "https://www.youtube.com/watch?v=EIKfHOk8rx0"
+          },
+          {
+            "label": "Social Studies: Building the Railway and Its Impact on Ontario",
+            "url": "https://www.youtube.com/watch?v=anmNLDXV8Ns"
+          }
+        ],
         "quiz": [
           {
             "q": "What do we call a long, rocky ridge of land such as the Niagara Escarpment?",

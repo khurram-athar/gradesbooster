@@ -31808,6 +31808,25 @@
         "summary": "A review of pronouns, singular and plural nouns, capital letters, tracking print, and speaking and writing in complete sentences from the past several days.",
         "resourceLabel": "YouTube: Language Review: Pronouns, Print, and Sentences",
         "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Pronouns%2C%20Print%2C%20and%20Sentences%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=sn6GLgaTY0M",
+        "videoUrls": [
+          {
+            "label": "Vocabulary: Weather Words",
+            "url": "https://www.youtube.com/watch?v=sn6GLgaTY0M"
+          },
+          {
+            "label": "Grammar: One and Many (Singular and Plural Nouns)",
+            "url": "https://www.youtube.com/watch?v=0GW55tOge6s"
+          },
+          {
+            "label": "Print Concepts: Tracking Words as We Read",
+            "url": "https://www.youtube.com/watch?v=FomVrsf-PJ0"
+          },
+          {
+            "label": "Oral Communication: Speaking in Complete Sentences",
+            "url": "https://www.youtube.com/watch?v=Qh7hCqyfaPs"
+          }
+        ],
         "quiz": [
           {
             "q": "Which word can take the place of \"the dog\"?",
@@ -31867,6 +31886,7 @@
         "summary": "Children practice instantly recognizing small quantities (1 to 5) shown as dot patterns or object groups without counting one by one, building a foundation for fast number sense.",
         "resourceLabel": "YouTube: Subitizing: Recognizing Amounts Without Counting",
         "resourceUrl": "https://www.youtube.com/results?search_query=Subitizing%3A%20Recognizing%20Amounts%20Without%20Counting%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PSlA-u_ABmU",
         "topic": "Number Sense",
         "quiz": [
           {
@@ -31927,6 +31947,7 @@
         "summary": "Children explore how soap and water combine to trap air and form bubbles, observing their round shape and what happens when they pop.",
         "resourceLabel": "YouTube: Bubbles: Air, Soap, and Shape",
         "resourceUrl": "https://www.youtube.com/results?search_query=Bubbles%3A%20Air%2C%20Soap%2C%20and%20Shape%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XxU_QenIO54",
         "quiz": [
           {
             "q": "What is trapped inside a soap bubble?",
@@ -31986,6 +32007,25 @@
         "summary": "A review lesson revisiting new community helpers and places, including police officers, nurses, farmers, and the hospital.",
         "resourceLabel": "YouTube: Social Studies Review: New Helpers and Special Places",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20New%20Helpers%20and%20Special%20Places%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fJ7oGJRU9A8",
+        "videoUrls": [
+          {
+            "label": "Our Police Officer: Keeping Us Safe",
+            "url": "https://www.youtube.com/watch?v=fJ7oGJRU9A8"
+          },
+          {
+            "label": "Our Nurse: Caring for People Who Are Sick",
+            "url": "https://www.youtube.com/watch?v=yCH_Ux0uEiQ"
+          },
+          {
+            "label": "Our Garbage Collector: Keeping Our Streets Tidy",
+            "url": "https://www.youtube.com/watch?v=OzEFMVPVKHc"
+          },
+          {
+            "label": "Our Community Garden: Growing Together",
+            "url": "https://www.youtube.com/watch?v=ZfIO8_BS-sU"
+          }
+        ],
         "topic": "Community Helpers & Civic Roles (Basic)",
         "quiz": [
           {

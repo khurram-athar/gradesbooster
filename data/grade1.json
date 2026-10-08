@@ -34102,6 +34102,7 @@
         "summary": "Students explore the different ways family members help one another, such as sharing chores, caring for younger siblings, and supporting each other when someone is sick or sad.",
         "resourceLabel": "YouTube: How My Family Helps Each Other",
         "resourceUrl": "https://www.youtube.com/results?search_query=How%20My%20Family%20Helps%20Each%20Other%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mYOiggH7X04",
         "topic": "Family Roles & Responsibilities (Basic)",
         "quiz": [
           {
@@ -34251,6 +34252,25 @@
         "summary": "Students review recent Math topics: place value to 200, two-digit addition and subtraction, line plots, comparing 2D and 3D shapes, estimating, counting to 200, fact families, and combining coins.",
         "resourceLabel": "YouTube: Math Review: Place Value, Operations, and Data",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Place%20Value%2C%20Operations%2C%20and%20Data%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=a4FXl4zb3E4",
+        "videoUrls": [
+          {
+            "label": "Place Value: Hundreds, Tens, and Ones to 200",
+            "url": "https://www.youtube.com/watch?v=a4FXl4zb3E4"
+          },
+          {
+            "label": "Ten Frames: Representing Numbers",
+            "url": "https://www.youtube.com/watch?v=uFssMU4GVLs"
+          },
+          {
+            "label": "Counting Forward and Backward Within 200",
+            "url": "https://www.youtube.com/watch?v=11eckLmJEMw"
+          },
+          {
+            "label": "Combining Coins and Bills to Make an Amount",
+            "url": "https://www.youtube.com/watch?v=BxrzwF6oV6s"
+          }
+        ],
         "quiz": [
           {
             "q": "In the number 174, how many hundreds are there?",
@@ -34333,6 +34353,25 @@
         "summary": "Students review recent Science topics: skin, owls, bats, frog life cycles, penguins, simple circuits, wind, animal tracks, and ants.",
         "resourceLabel": "YouTube: Science Review: Our Bodies, Animals, and Energy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Our%20Bodies%2C%20Animals%2C%20and%20Energy%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vQSECrMIygg",
+        "videoUrls": [
+          {
+            "label": "The Sun: Our Nearest Star",
+            "url": "https://www.youtube.com/watch?v=vQSECrMIygg"
+          },
+          {
+            "label": "The Life Cycle of a Frog",
+            "url": "https://www.youtube.com/watch?v=etGmCvIL014"
+          },
+          {
+            "label": "Wind: Moving Air We Cannot See",
+            "url": "https://www.youtube.com/watch?v=oHUVxkx8QRo"
+          },
+          {
+            "label": "Ants: Tiny but Mighty Workers",
+            "url": "https://www.youtube.com/watch?v=SGr0Rz3l09c"
+          }
+        ],
         "quiz": [
           {
             "q": "What is the largest organ of our body?",

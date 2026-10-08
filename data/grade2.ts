@@ -34283,6 +34283,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Social Studies strand: students learn that when a disaster such as a flood or storm affects a community, neighbours, volunteers, and organizations often work together to help people recover and rebuild.",
         "resourceLabel": "YouTube: How Communities Help Each Other After a Disaster",
         "resourceUrl": "https://www.youtube.com/results?search_query=How%20Communities%20Help%20Each%20Other%20After%20a%20Disaster%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Lrmwz8IXXdQ",
         "quiz": [
           {
             "q": "What is one way communities help each other after a disaster?",
@@ -34349,6 +34350,25 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Language skills: subjects and predicates, articles a/an/the, verb tenses, using illustrations to understand a story, comparing and contrasting texts, following multi-step directions, story mood, transition words, and writing descriptive paragraphs using the five senses.",
         "resourceLabel": "YouTube: Language Review: Sentences, Grammar, and Story Comprehension",
         "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Sentences%2C%20Grammar%2C%20and%20Story%20Comprehension%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6thm0FCDGL4",
+        "videoUrls": [
+          {
+            "label": "Subjects and Predicates: The Two Parts of a Sentence",
+            "url": "https://www.youtube.com/watch?v=6thm0FCDGL4"
+          },
+          {
+            "label": "Using Illustrations to Understand a Story",
+            "url": "https://www.youtube.com/watch?v=XUN_GTAbk2c"
+          },
+          {
+            "label": "Punctuation: Capital Letters at the Start of a Sentence",
+            "url": "https://www.youtube.com/watch?v=jDRiur9kBPM"
+          },
+          {
+            "label": "Writing a Descriptive Paragraph Using the Five Senses",
+            "url": "https://www.youtube.com/watch?v=ULPDb7xD0S4"
+          }
+        ],
         "quiz": [
           {
             "q": "What is the subject of a sentence?",
@@ -34468,6 +34488,25 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Science topics: weathering, animal movement, food webs, tundra habitats, the skin, camouflage and mimicry, insect life cycles, exoskeletons and endoskeletons, and seed dispersal.",
         "resourceLabel": "YouTube: Science Review: Earth, Animals, and Plants",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Earth%2C%20Animals%2C%20and%20Plants%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mQAOe-0vxdc",
+        "videoUrls": [
+          {
+            "label": "Weathering: How Rocks Slowly Break Down",
+            "url": "https://www.youtube.com/watch?v=mQAOe-0vxdc"
+          },
+          {
+            "label": "Tundra Habitats: Life in the Cold",
+            "url": "https://www.youtube.com/watch?v=fK6gBGeAaUI"
+          },
+          {
+            "label": "Life Cycle of an Insect: From Egg to Adult",
+            "url": "https://www.youtube.com/watch?v=TeisJz4aIqs"
+          },
+          {
+            "label": "Seed Dispersal: How Plants Spread Their Seeds",
+            "url": "https://www.youtube.com/watch?v=Dw9HA7vjCRk"
+          }
+        ],
         "quiz": [
           {
             "q": "What is weathering?",
@@ -34527,6 +34566,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare city life and country life, learning that a city has many tall buildings and busy streets, while the country has more open land, farms, and fewer buildings.",
         "resourceLabel": "YouTube: City Life and Country Life: Comparing Communities",
         "resourceUrl": "https://www.youtube.com/results?search_query=City%20Life%20and%20Country%20Life%3A%20Comparing%20Communities%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=JAlPmtJm6eA",
         "quiz": [
           {
             "q": "Where would you expect to see many tall buildings close together?",

@@ -27254,6 +27254,7 @@ const curriculum: DayContent[] = [
         "summary": "Students graph quadratics given in vertex form y = a(x-h)^2 + k by identifying the vertex, axis of symmetry, and direction and width of opening determined by a.",
         "resourceLabel": "YouTube: Graphing Quadratic Relations in Vertex Form",
         "resourceUrl": "https://www.youtube.com/results?search_query=Graphing%20Quadratic%20Relations%20in%20Vertex%20Form%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7QMoNY6FzvM",
         "topic": "Quadratic Relations",
         "quiz": [
           {
@@ -27314,6 +27315,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: volcanoes form when molten rock, or magma, rises to the surface and erupts as lava, which cools and solidifies to form igneous rock.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=k6MH4K35xiE",
         "quiz": [
           {
             "q": "What is magma called once it erupts onto the surface as lava?",
@@ -27374,6 +27376,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the Selkirk Settlement, established in 1812 in the Red River area, created tension with the North West Company and Métis traders, culminating in the 1816 Battle of Seven Oaks.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=x_SH7HCaeQY",
         "quiz": [
           {
             "q": "In what year was the Selkirk Settlement established?",
@@ -27439,6 +27442,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand review: students revisit archetypes and the hero’s journey, the Gothic tradition, the feature article, commonly confused words, the job interview, allegory and fable, the epic hero, speculative fiction, and photojournalism.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=RaVzk2YzA2Q",
+        "videoUrls": [
+          {
+            "label": "Reading: Analyzing Archetypes and the Hero’s Journey",
+            "url": "https://www.youtube.com/watch?v=RaVzk2YzA2Q"
+          },
+          {
+            "label": "Writing: The Feature Article",
+            "url": "https://www.youtube.com/watch?v=g3v6raB0FYI"
+          },
+          {
+            "label": "Reading: Analyzing Allegory and Fable",
+            "url": "https://www.youtube.com/watch?v=zabM6MYaXho"
+          },
+          {
+            "label": "Writing: The Speculative Fiction Short Story",
+            "url": "https://www.youtube.com/watch?v=45p8EZpiJEM"
+          }
+        ],
         "quiz": [
           {
             "q": "What is an archetype?",
@@ -27498,6 +27520,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practice converting a quadratic relation among standard, factored, and vertex form, and identify which form best reveals intercepts, the vertex, or the y-intercept.",
         "resourceLabel": "YouTube: Converting Between Standard, Factored, and Vertex Form",
         "resourceUrl": "https://www.youtube.com/results?search_query=Converting%20Between%20Standard%2C%20Factored%2C%20and%20Vertex%20Form%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8jtoCo8Jk0Q",
         "topic": "Quadratic Relations",
         "quiz": [
           {
@@ -27558,6 +27581,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand review: students revisit percent yield, the skeletal and muscular systems, momentum, the nitrogen cycle, plant reproduction, calorimetry, naming compounds, genetic mutations, and volcanoes.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=dodsvTfqWNc",
+        "videoUrls": [
+          {
+            "label": "Chemistry: Percent Yield and Limiting Reagents",
+            "url": "https://www.youtube.com/watch?v=dodsvTfqWNc"
+          },
+          {
+            "label": "Earth Science: The Nitrogen Cycle",
+            "url": "https://www.youtube.com/watch?v=8WGop59iYyM"
+          },
+          {
+            "label": "Chemistry: Naming Ionic and Molecular Compounds",
+            "url": "https://www.youtube.com/watch?v=nijb6UMvZuE"
+          },
+          {
+            "label": "Earth Science: Volcanoes and Igneous Rock Formation",
+            "url": "https://www.youtube.com/watch?v=k6MH4K35xiE"
+          }
+        ],
         "quiz": [
           {
             "q": "What does the limiting reagent in a chemical reaction determine?",

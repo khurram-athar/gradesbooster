@@ -27330,6 +27330,7 @@
         "summary": "Grade 6 Language strand: a diary or journal entry is a personal, first-person reflection on events and feelings, often dated, that allows a writer to explore their thoughts in an informal, honest voice.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=cXoaTPXDOnE",
         "quiz": [
           {
             "q": "What point of view is typically used in a diary or journal entry?",
@@ -27390,6 +27391,7 @@
         "summary": "Grade 6 Math strand: two events are complementary if together they cover all possible outcomes and cannot both happen at the same time, so their probabilities always add up to 1, or 100 percent.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=zIFiEoIHe80",
         "quiz": [
           {
             "q": "What does it mean for two events to be complementary?",
@@ -27450,6 +27452,7 @@
         "summary": "Grade 6 Science strand: composting is the natural process by which decomposers such as bacteria, fungi, and worms break down organic waste like food scraps and yard trimmings into nutrient-rich soil.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=26IO95Xt5WU",
         "quiz": [
           {
             "q": "What is composting?",
@@ -27510,6 +27513,7 @@
         "summary": "Grade 6 Social Studies strand: the Trans-Canada Highway is a highway system stretching across all ten provinces, completed in the 1960s, that improved transportation, trade, and connections between communities across the country.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=Bi-CJS1RYeE",
         "quiz": [
           {
             "q": "What is the Trans-Canada Highway?",
@@ -27576,6 +27580,25 @@
         "summary": "Grade 6 Language strand review: students revisit direct and indirect speech, main idea and supporting details, book reviews, homophones, meme analysis, possessive nouns, interviewing techniques, sequencing, and diary writing.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=HnHYkIS-Eds",
+        "videoUrls": [
+          {
+            "label": "Grammar: Direct and Indirect (Reported) Speech",
+            "url": "https://www.youtube.com/watch?v=HnHYkIS-Eds"
+          },
+          {
+            "label": "Vocabulary: Homophones and Commonly Confused Word Pairs",
+            "url": "https://www.youtube.com/watch?v=6ZAcmMxgQWM"
+          },
+          {
+            "label": "Oral Communication: Effective Interviewing Techniques",
+            "url": "https://www.youtube.com/watch?v=xCO5WoMJb-U"
+          },
+          {
+            "label": "Writing: Writing a Diary or Journal Entry",
+            "url": "https://www.youtube.com/watch?v=cXoaTPXDOnE"
+          }
+        ],
         "quiz": [
           {
             "q": "What does direct speech do?",
@@ -27635,6 +27658,25 @@
         "summary": "Grade 6 Math strand review: students revisit prime and composite numbers, rounding decimals, the angle sum of a triangle, area of a trapezoid, histograms, currency exchange rates, recipe ratios, rate problems, and complementary events.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=exuf4cHnAlA",
+        "videoUrls": [
+          {
+            "label": "Number Sense: Prime and Composite Numbers",
+            "url": "https://www.youtube.com/watch?v=exuf4cHnAlA"
+          },
+          {
+            "label": "Geometry: Area of a Trapezoid",
+            "url": "https://www.youtube.com/watch?v=-_SIZw5H4dA"
+          },
+          {
+            "label": "Ratios in Recipes: Scaling Quantities Up and Down",
+            "url": "https://www.youtube.com/watch?v=P_J2DlLMbvA"
+          },
+          {
+            "label": "Probability: Complementary Events",
+            "url": "https://www.youtube.com/watch?v=zIFiEoIHe80"
+          }
+        ],
         "quiz": [
           {
             "q": "What is a prime number?",
@@ -27694,6 +27736,25 @@
         "summary": "Grade 6 Science strand review: students revisit the lymphatic system, tides, levers, coral reefs, cloud types, tsunamis, bird migration, the greenhouse effect, and composting.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=C_Bii6TfwuY",
+        "videoUrls": [
+          {
+            "label": "Science: The Lymphatic System: Fighting Infection and Maintaining Fluid Balance",
+            "url": "https://www.youtube.com/watch?v=C_Bii6TfwuY"
+          },
+          {
+            "label": "Science: Coral Reefs: Biodiversity Hotspots Under Threat",
+            "url": "https://www.youtube.com/watch?v=wxuyVMNCt3Y"
+          },
+          {
+            "label": "Science: Bird Migration: Navigation and Survival",
+            "url": "https://www.youtube.com/watch?v=jLzprmI1l20"
+          },
+          {
+            "label": "Science: Composting: Turning Waste into Soil Nutrients",
+            "url": "https://www.youtube.com/watch?v=26IO95Xt5WU"
+          }
+        ],
         "quiz": [
           {
             "q": "What does the lymphatic system collect from body tissues?",

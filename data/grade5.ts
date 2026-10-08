@@ -28025,6 +28025,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: students estimate products and quotients by rounding numbers to a convenient value before multiplying or dividing, helping check whether an exact answer is reasonable.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=mBWr8c0Lsx4",
+        "videoUrls": [
+          {
+            "label": "Estimating Products",
+            "url": "https://www.youtube.com/watch?v=mBWr8c0Lsx4"
+          },
+          {
+            "label": "Estimating Quotients",
+            "url": "https://www.youtube.com/watch?v=9VkvqQ5hcsQ"
+          }
+        ],
         "quiz": [
           {
             "q": "To estimate the product of 48 times 22, which rounded numbers might you use?",
@@ -28085,6 +28096,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: soft, porous materials like foam tend to absorb sound waves and reduce echo, while hard, smooth surfaces like glass or tile tend to reflect sound waves, which can create echoes.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=59Rs135rzHk",
         "quiz": [
           {
             "q": "What type of material tends to absorb sound waves and reduce echo?",
@@ -28145,6 +28157,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: Canada’s forestry industry harvests wood from its vast forests to produce products like lumber and paper, providing jobs and economic activity in many regions, especially in British Columbia and Quebec.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=zhxSLG1EQaI",
         "quiz": [
           {
             "q": "What does Canada’s forestry industry primarily harvest from its forests?",
@@ -28211,6 +28224,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand review: students revisit active listening and speaking, apostrophes, problem-and-solution text structure, compound words, formal letters, comma usage, unreliable narrators, media bias, and types of adverbs.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=e-CVjJFKd1A",
+        "videoUrls": [
+          {
+            "label": "Oral Communication: Active Listening and Effective Speaking",
+            "url": "https://www.youtube.com/watch?v=e-CVjJFKd1A"
+          },
+          {
+            "label": "Vocabulary: Compound Words and Their Meanings",
+            "url": "https://www.youtube.com/watch?v=82G-ZWzUHhU"
+          },
+          {
+            "label": "Reading: Text Features — Sidebars and Pull Quotes",
+            "url": "https://www.youtube.com/watch?v=20vdmbs2wSw"
+          },
+          {
+            "label": "Grammar: Types of Adverbs and Their Functions",
+            "url": "https://www.youtube.com/watch?v=cFTKMx738J4"
+          }
+        ],
         "quiz": [
           {
             "q": "What is one key habit of an active listener during a conversation?",
@@ -28270,6 +28302,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand review: students revisit place value to one million, range and outliers, sales tax and discounts, converting metric capacity and mass, pattern rules, 3D object views, double bar graphs, Celsius thermometers, and estimation.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=mILmsk5jsFg",
+        "videoUrls": [
+          {
+            "label": "Number Sense: Reading and Writing Numbers to One Million",
+            "url": "https://www.youtube.com/watch?v=mILmsk5jsFg"
+          },
+          {
+            "label": "Measurement: Converting Between Metric Units of Capacity and Mass",
+            "url": "https://www.youtube.com/watch?v=ToGNq7Tf3GY"
+          },
+          {
+            "label": "Data Management: Constructing and Interpreting Double Bar Graphs",
+            "url": "https://www.youtube.com/watch?v=L5g1y7oJhuw"
+          },
+          {
+            "label": "Number Sense: Estimating Products and Quotients",
+            "url": "https://www.youtube.com/watch?v=mBWr8c0Lsx4"
+          }
+        ],
         "quiz": [
           {
             "q": "In the number 452,367, what is the value of the digit 4?",
@@ -28329,6 +28380,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand review: students revisit tension and compression, the screw and the wedge, migration and hibernation, fossil fuel formation, and symbiotic relationships.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=jGvCaobmYYw",
+        "videoUrls": [
+          {
+            "label": "Structures: Tension and Compression Forces",
+            "url": "https://www.youtube.com/watch?v=jGvCaobmYYw"
+          },
+          {
+            "label": "Life Systems: How the Body’s Systems Work Together",
+            "url": "https://www.youtube.com/watch?v=v_-KTto55V8"
+          },
+          {
+            "label": "Earth and Space Systems: How Fossil Fuels Form Over Time",
+            "url": "https://www.youtube.com/watch?v=Ied4ogxqXUM"
+          },
+          {
+            "label": "Matter and Energy: How Materials Absorb or Reflect Sound",
+            "url": "https://www.youtube.com/watch?v=59Rs135rzHk"
+          }
+        ],
         "quiz": [
           {
             "q": "What do we call a force that pulls or stretches a material?",

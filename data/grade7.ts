@@ -27311,6 +27311,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: a scatter plot displays the relationship between two numerical variables as points on a graph, and a line of best fit can be drawn to estimate the overall trend in the data.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Z4tdWnJfgus",
         "quiz": [
           {
             "q": "What does a scatter plot display?",
@@ -27371,6 +27372,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: soil is composed of weathered rock, organic matter, water, and air, and is typically organized into distinct layers called horizons, each with different composition and properties.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=nEShY_S_KGc",
         "quiz": [
           {
             "q": "What is soil composed of?",
@@ -27431,6 +27433,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the Canadian Shield is a vast region of ancient rock covering much of central and eastern Canada, rich in minerals but generally poor for large-scale farming due to its thin, rocky soil.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=lQ0VSa6XLlo",
         "quiz": [
           {
             "q": "What is the Canadian Shield?",
@@ -27497,6 +27500,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand review: students revisit participial phrases, allusion, political cartoons, colloquialisms, and letters to the editor.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=NcDoIfxdNjA",
+        "videoUrls": [
+          {
+            "label": "Grammar: Participial Phrases",
+            "url": "https://www.youtube.com/watch?v=NcDoIfxdNjA"
+          },
+          {
+            "label": "Reading: Analyzing Allusion in Literature",
+            "url": "https://www.youtube.com/watch?v=BHFesKNnFX4"
+          },
+          {
+            "label": "Grammar: Using Ellipses and Parentheses",
+            "url": "https://www.youtube.com/watch?v=JmRMfFVw6NE"
+          },
+          {
+            "label": "Reading: Understanding Genre Conventions in Mystery Fiction",
+            "url": "https://www.youtube.com/watch?v=98pNh3LtV8c"
+          }
+        ],
         "quiz": [
           {
             "q": "What does a participial phrase begin with?",
@@ -27616,6 +27638,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand review: students revisit the electromagnetic spectrum, biomass and biofuels, mineral identification, biomagnification, and soil composition.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=C4os2eqc8Y4",
+        "videoUrls": [
+          {
+            "label": "Science: The Electromagnetic Spectrum and Visible Light",
+            "url": "https://www.youtube.com/watch?v=C4os2eqc8Y4"
+          },
+          {
+            "label": "Microorganisms: Bacteria, Viruses, and Fungi",
+            "url": "https://www.youtube.com/watch?v=9JW63U2mzqo"
+          },
+          {
+            "label": "Science: Biomagnification of Toxins in Food Chains",
+            "url": "https://www.youtube.com/watch?v=TZk6vcmLcKw"
+          },
+          {
+            "label": "Science: Soil Composition and Horizons",
+            "url": "https://www.youtube.com/watch?v=nEShY_S_KGc"
+          }
+        ],
         "quiz": [
           {
             "q": "What is the electromagnetic spectrum?",
@@ -27675,6 +27716,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand review: students revisit the Winnipeg General Strike, Japanese Canadian internment, the Indian Act, the St. Lawrence Seaway, and the Canadian Shield.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=ew6DyrTG8EM",
+        "videoUrls": [
+          {
+            "label": "Social Studies: The Winnipeg General Strike of 1919",
+            "url": "https://www.youtube.com/watch?v=ew6DyrTG8EM"
+          },
+          {
+            "label": "Electoral Ridings — How Canada Divides Voting Districts",
+            "url": "https://www.youtube.com/watch?v=D7YvnAK33io"
+          },
+          {
+            "label": "Social Studies: The St. Lawrence Seaway and Its Economic Impact",
+            "url": "https://www.youtube.com/watch?v=WLFbPhjt2ZI"
+          },
+          {
+            "label": "Social Studies: The Canadian Shield: Geology and Geography",
+            "url": "https://www.youtube.com/watch?v=lQ0VSa6XLlo"
+          }
+        ],
         "quiz": [
           {
             "q": "What was the Winnipeg General Strike of 1919?",

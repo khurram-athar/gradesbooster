@@ -27303,6 +27303,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: suspense is a feeling of anticipation or uncertainty that authors build through pacing, foreshadowing, and withheld information to keep readers emotionally invested in what happens next.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=xjKruwAfZWk",
         "quiz": [
           {
             "q": "What is suspense?",
@@ -27363,6 +27364,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use divisibility rules for 3, 4, 6, and 9 to quickly determine factors of numbers without performing full division.",
         "resourceLabel": "YouTube: Divisibility Rules",
         "resourceUrl": "https://www.youtube.com/results?search_query=Divisibility%20Rules%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uiSDZ3zB_d4",
         "topic": "Number Sense",
         "quiz": [
           {
@@ -27423,6 +27425,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: renewable resources, such as solar and wind energy, can naturally replenish over a short time, while nonrenewable resources, such as coal and oil, take millions of years to form and exist in limited supply.",
         "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=QgcMeMWuZPA",
         "quiz": [
           {
             "q": "What defines a renewable resource?",
@@ -27482,6 +27485,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: the Métis scrip system was a government program following the Manitoba Act that was intended to grant Métis people land or money in recognition of their claims, but was often implemented in ways that left many Métis without land, fuelling ongoing grievances.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "videoUrl": "https://www.youtube.com/watch?v=pBwHjTVgqvM",
         "quiz": [
           {
             "q": "What was Métis scrip intended to grant recipients?",
@@ -27548,6 +27552,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand review: students revisit round and flat characters, the memoir, perfect and progressive verb tenses, loanwords, product placement, setting as a literary device, the feature article, coordinating conjunctions, and suspense.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=hK6UbWTUyDs",
+        "videoUrls": [
+          {
+            "label": "Reading: Analyzing Round and Flat Characters",
+            "url": "https://www.youtube.com/watch?v=hK6UbWTUyDs"
+          },
+          {
+            "label": "Vocabulary: Loanwords and Borrowed Terms",
+            "url": "https://www.youtube.com/watch?v=gsW4k3s-DWk"
+          },
+          {
+            "label": "Writing: The Feature Article",
+            "url": "https://www.youtube.com/watch?v=J73dQIOa1h8"
+          },
+          {
+            "label": "Reading: Analyzing Suspense and Tension in Narrative",
+            "url": "https://www.youtube.com/watch?v=xjKruwAfZWk"
+          }
+        ],
         "quiz": [
           {
             "q": "What defines a round character?",
@@ -27607,6 +27630,7 @@ const curriculum: DayContent[] = [
         "summary": "Students solve two-step linear equations involving integers, using inverse operations to isolate the variable.",
         "resourceLabel": "YouTube: Solving Two-Step Equations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Two-Step%20Equations%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=AP5MbH88cdo",
         "topic": "Equations & Inequalities",
         "quiz": [
           {
@@ -27667,6 +27691,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand review: students revisit the circulatory system, carrying capacity, the ozone layer, taxonomy, cellular respiration, geothermal energy, viruses versus bacteria, tides, and renewable versus nonrenewable resources.",
         "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=mhwUc84xBZA",
+        "videoUrls": [
+          {
+            "label": "Science: Fermentation — How Microorganisms Transform Food",
+            "url": "https://www.youtube.com/watch?v=mhwUc84xBZA"
+          },
+          {
+            "label": "Science: Classification of Living Things (Taxonomy)",
+            "url": "https://www.youtube.com/watch?v=SIbFuiCfkr8"
+          },
+          {
+            "label": "Science: Viruses versus Bacteria",
+            "url": "https://www.youtube.com/watch?v=mQZDyLtCu5E"
+          },
+          {
+            "label": "Science: Renewable versus Nonrenewable Resources",
+            "url": "https://www.youtube.com/watch?v=QgcMeMWuZPA"
+          }
+        ],
         "quiz": [
           {
             "q": "What organ pumps blood through the circulatory system?",
@@ -27726,6 +27769,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: Canada sent thousands of troops as part of a United Nations force during the Korean War from 1950 to 1953, helping defend South Korea, a conflict now sometimes called Canadas Forgotten War.",
         "resourceLabel": "YouTube: Social Studies: Canadas Role in the Korean War",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canadas%20Role%20in%20the%20Korean%20War%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WQ_Eh9DA2K4",
         "quiz": [
           {
             "q": "What international organization led the coalition Canada joined during the Korean War?",

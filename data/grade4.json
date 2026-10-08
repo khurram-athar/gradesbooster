@@ -28334,6 +28334,7 @@
         "summary": "Grade 4 Math strand: prisms have two matching parallel bases connected by rectangular faces, while pyramids have one base and triangular faces that meet at a single point called the apex.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=OTJ8xakBcZM",
         "quiz": [
           {
             "q": "What shape do the side faces of a pyramid meet at?",
@@ -28522,6 +28523,25 @@
         "summary": "Grade 4 Language strand review: students revisit types of nouns, drawing conclusions, relative pronouns, irony, writing a research report, number prefixes, direct and indirect speech, identifying text structure, and writing a diary entry from a historical perspective.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=vGkcIMTpy30",
+        "videoUrls": [
+          {
+            "label": "Grammar: Types of Nouns — Common, Proper, Collective, and Abstract",
+            "url": "https://www.youtube.com/watch?v=vGkcIMTpy30"
+          },
+          {
+            "label": "Word Origins: Where Some English Words Come From",
+            "url": "https://www.youtube.com/watch?v=cSAW4FSA8Dg"
+          },
+          {
+            "label": "Adjective Order: Which Word Comes First?",
+            "url": "https://www.youtube.com/watch?v=qcOfYlMfDz0"
+          },
+          {
+            "label": "Writing: Writing a Diary Entry from a Historical Perspective",
+            "url": "https://www.youtube.com/watch?v=HFx9goZ3y1E"
+          }
+        ],
         "quiz": [
           {
             "q": "What do we call a noun that names a specific person, place, or thing and starts with a capital letter?",
@@ -28581,6 +28601,25 @@
         "summary": "Grade 4 Math strand review: students revisit even and odd numbers, negative numbers, solving equations with an unknown, area of rectangles using a formula, rotational symmetry, collecting data through surveys, ways to pay for goods and services, skip counting by 25s/50s/100s, and classifying prisms and pyramids.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=3iQqmmG8wQQ",
+        "videoUrls": [
+          {
+            "label": "Number Sense: Even and Odd Numbers and Their Properties",
+            "url": "https://www.youtube.com/watch?v=3iQqmmG8wQQ"
+          },
+          {
+            "label": "Measurement: Area of Rectangles Using a Formula",
+            "url": "https://www.youtube.com/watch?v=1Ugk12y7TQM"
+          },
+          {
+            "label": "Financial Literacy: Ways to Pay for Goods and Services",
+            "url": "https://www.youtube.com/watch?v=kQlf0apGUuA"
+          },
+          {
+            "label": "Geometry: Classifying Prisms and Pyramids",
+            "url": "https://www.youtube.com/watch?v=OTJ8xakBcZM"
+          }
+        ],
         "quiz": [
           {
             "q": "Is the number 47 even or odd?",
@@ -28640,6 +28679,25 @@
         "summary": "Grade 4 Science strand review: students revisit tension and compression, layers of the Earth, opaque/translucent/transparent materials, fixed and movable pulleys, testing rock and mineral properties, ocean and coastal ecosystems, pitch and volume, natural and artificial light sources, and types of soil.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=C20gplgvBUY",
+        "videoUrls": [
+          {
+            "label": "Science: Structures: Forces Acting on Structures — Tension and Compression",
+            "url": "https://www.youtube.com/watch?v=C20gplgvBUY"
+          },
+          {
+            "label": "Science: Simple Machines: Fixed and Movable Pulleys",
+            "url": "https://www.youtube.com/watch?v=pxD3SHMp9Es"
+          },
+          {
+            "label": "Science: Sound: Pitch and Volume",
+            "url": "https://www.youtube.com/watch?v=9QSwD73ujPI"
+          },
+          {
+            "label": "Science: Soil: Types of Soil — Sand, Silt, Clay, and Loam",
+            "url": "https://www.youtube.com/watch?v=0uTtkAG5pDs"
+          }
+        ],
         "quiz": [
           {
             "q": "What do we call a pulling or stretching force on a structure?",

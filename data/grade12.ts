@@ -27128,6 +27128,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: slam poetry is a competitive, performance-based poetic form that emphasizes rhythm, voice, and direct audience engagement, drawing on a long oral poetic tradition in which sound and delivery are as central to meaning as the words on a page.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=9f8VcV8v2LE",
         "quiz": [
           {
             "q": "What distinguishes slam poetry as a form of poetic performance?",
@@ -27188,6 +27189,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: a perfect number equals the sum of its proper divisors, and every known even perfect number is generated from a Mersenne prime of the form 2^p − 1 through the Euclid-Euler formula 2^(p−1) times (2^p − 1).",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=T0xKHwQH-4I",
         "quiz": [
           {
             "q": "What defines a perfect number in terms of its proper divisors (the divisors excluding the number itself)?",
@@ -27248,6 +27250,7 @@ const curriculum: DayContent[] = [
         "summary": "Sand poured from a conveyor belt builds a conical pile whose height and base radius stay in a fixed ratio. You'll express the volume in terms of height alone, then find how fast the pile is growing taller.",
         "resourceLabel": "YouTube: Related Rates: A Growing Sand Pile",
         "resourceUrl": "https://www.youtube.com/results?search_query=Related%20Rates%3A%20A%20Growing%20Sand%20Pile%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MyjJWzlu0sQ",
         "quiz": [
           {
             "q": "As sand piles up, its shape stays a cone where the base radius r is always exactly twice the height h. Which equation expresses this?",
@@ -27308,6 +27311,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Physics strand: a Faraday cage is a conducting enclosure in which free charges redistribute themselves so that the electric field inside remains zero, shielding the interior from external static electric fields and time-varying electromagnetic interference.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=MnZD5Fi0VJM",
         "quiz": [
           {
             "q": "What happens to the electric field inside a conducting enclosure, such as a Faraday cage, once free charges have redistributed themselves in the presence of an external field?",
@@ -27373,6 +27377,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: stream of consciousness is a narrative technique that presents a characters continuous flow of thoughts, feelings, and impressions in real time, often with looser sentence structure, to immerse the reader directly in the characters mind.",
         "resourceLabel": "YouTube: Reading: Analyzing Stream of Consciousness Narration",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Stream%20of%20Consciousness%20Narration%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WaSFwO3O2SI",
         "quiz": [
           {
             "q": "What does stream of consciousness narration attempt to capture?",
@@ -27433,6 +27438,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: the inclusion-exclusion principle counts the size of a union of overlapping sets by adding the sizes of the individual sets, then subtracting the sizes of their pairwise intersections, and adding back higher-order intersections to correct for overcounting.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=GS7dIWA6Hpo",
         "quiz": [
           {
             "q": "What problem does the inclusion-exclusion principle solve when counting the elements in a union of overlapping sets?",
@@ -27492,6 +27498,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Math strand: double-angle formulas express trigonometric functions of twice an angle, such as sin(2x) equals 2 sin(x) cos(x), in terms of functions of the original angle.",
         "resourceLabel": "YouTube: Trigonometric Identities: Double-Angle Formulas",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometric%20Identities%3A%20Double-Angle%20Formulas%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=sePxgAgrin4",
         "quiz": [
           {
             "q": "What does the double-angle formula for sine express?",

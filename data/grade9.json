@@ -27436,6 +27436,7 @@
         "summary": "Grade 9 Language strand: a fact is a statement that can be verified as true or false with evidence, while an opinion expresses a personal belief or judgment, and distinguishing them is essential for evaluating news reporting.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=S_oUecaHoKU",
         "quiz": [
           {
             "q": "What can a fact be verified with?",
@@ -27496,6 +27497,7 @@
         "summary": "Grade 9 Math strand: a cube root asks what number multiplied by itself three times equals the radicand, and higher-order radicals extend this idea to nth roots, simplified by identifying perfect nth-power factors.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=glUjbX2zAtk",
         "quiz": [
           {
             "q": "What does a cube root ask you to find?",
@@ -27556,6 +27558,7 @@
         "summary": "Students examine how certain keystone species have an outsized effect on their ecosystem's structure and stability, and predict what happens to a community when a keystone species is removed.",
         "resourceLabel": "YouTube: Biology: Keystone Species and Ecosystem Balance",
         "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Keystone%20Species%20and%20Ecosystem%20Balance%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FM3WKj1aEgU",
         "topic": "Ecosystems & Environment",
         "quiz": [
           {
@@ -27616,6 +27619,7 @@
         "summary": "Grade 9 Social Studies strand: wind energy generation depends heavily on geographic siting factors such as consistent wind speed, open land or offshore location, and proximity to transmission infrastructure.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=xy9nj94xvKA",
         "quiz": [
           {
             "q": "What geographic factor is essential for effective wind energy generation?",
@@ -27682,6 +27686,25 @@
         "summary": "Grade 9 Language strand review: students revisit personification and pathetic fallacy, comma splices and fused sentences, hyperbole and understatement, apostrophes for possession and contraction, and fact vs opinion in news reporting.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=nzbFE8Ma8-I",
+        "videoUrls": [
+          {
+            "label": "Reading: Analyzing Personification and Pathetic Fallacy",
+            "url": "https://www.youtube.com/watch?v=nzbFE8Ma8-I"
+          },
+          {
+            "label": "Vocabulary: Loaded Language and Propaganda Techniques",
+            "url": "https://www.youtube.com/watch?v=whDA2PZc5X8"
+          },
+          {
+            "label": "Grammar: Apostrophes for Possession and Contraction",
+            "url": "https://www.youtube.com/watch?v=ZrhJtKd5YiI"
+          },
+          {
+            "label": "Media Literacy: Fact vs Opinion in News Reporting",
+            "url": "https://www.youtube.com/watch?v=S_oUecaHoKU"
+          }
+        ],
         "quiz": [
           {
             "q": "What is personification?",
@@ -27741,6 +27764,25 @@
         "summary": "Grade 9 Math strand review: students revisit factoring trinomials, frequency tables and histograms, solving multi-step equations with fractions and decimals, multiplying and dividing rational expressions, and simplifying cube roots.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=4B0hAUn1i_k",
+        "videoUrls": [
+          {
+            "label": "Factoring Trinomials of the Form x^2 + bx + c",
+            "url": "https://www.youtube.com/watch?v=4B0hAUn1i_k"
+          },
+          {
+            "label": "Percent Change: Increase and Decrease Applications",
+            "url": "https://www.youtube.com/watch?v=T6-0MwmCpE8"
+          },
+          {
+            "label": "Dividing Polynomials by a Monomial",
+            "url": "https://www.youtube.com/watch?v=-us3-W-zJ9w"
+          },
+          {
+            "label": "Simplifying Cube Roots and Higher-Order Radicals",
+            "url": "https://www.youtube.com/watch?v=glUjbX2zAtk"
+          }
+        ],
         "quiz": [
           {
             "q": "When factoring x^2 + bx + c, what must the two numbers multiply to?",
@@ -27800,6 +27842,25 @@
         "summary": "Grade 9 Science strand review: students revisit volcanoes and volcanic activity, cell transport by diffusion and osmosis, the particle theory of matter, weather systems, and cell division by mitosis and meiosis.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=LQwZwKS9RPs",
+        "videoUrls": [
+          {
+            "label": "Science: Volcanoes and Volcanic Activity",
+            "url": "https://www.youtube.com/watch?v=LQwZwKS9RPs"
+          },
+          {
+            "label": "Science: Food Chains, Food Webs, and Energy Pyramids",
+            "url": "https://www.youtube.com/watch?v=H1EugAY97e8"
+          },
+          {
+            "label": "Science: Weather Systems: Air Masses and Fronts",
+            "url": "https://www.youtube.com/watch?v=nVooyj73dwA"
+          },
+          {
+            "label": "Biology: Keystone Species and Ecosystem Balance",
+            "url": "https://www.youtube.com/watch?v=FM3WKj1aEgU"
+          }
+        ],
         "quiz": [
           {
             "q": "What is magma called once it reaches the Earth’s surface?",

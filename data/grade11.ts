@@ -27266,6 +27266,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a book review combines summary, analysis, and evaluative judgment, offering a concise assessment of a text’s strengths, weaknesses, and significance for a prospective reader.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=C4ccvVkJFGg",
         "quiz": [
           {
             "q": "What three elements does a book review typically combine?",
@@ -27325,6 +27326,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: the effective annual rate converts a loan’s nominal interest rate and compounding frequency into a single standardized rate, allowing fair comparison between loan or investment options that compound interest differently.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=Fy8Zd6QvwnU",
         "quiz": [
           {
             "q": "What does the effective annual rate convert a nominal interest rate and compounding frequency into?",
@@ -27384,6 +27386,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: the cell cycle is regulated by checkpoints at key transition points that monitor conditions such as DNA integrity and cell size, halting the cycle when problems are detected to prevent the division of damaged cells.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=eqJqhA8HSJ0",
         "quiz": [
           {
             "q": "What do cell cycle checkpoints monitor before allowing the cycle to proceed?",
@@ -27444,6 +27447,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: an element’s average atomic mass, listed on the periodic table, is calculated as the weighted average of the masses of its naturally occurring isotopes, based on each isotope’s relative abundance.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=JT18bDAadQ0",
         "quiz": [
           {
             "q": "What is an element’s average atomic mass calculated as?",
@@ -27510,6 +27514,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand review: students revisit Gothic fiction, the villanelle, the character sketch, the trickster figure, meme analysis and digital rhetoric, code-switching as literary voice, detective fiction, formal interviews, and the book review.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=mX6QqH_mDbs",
+        "videoUrls": [
+          {
+            "label": "Literature: Gothic Fiction and the Uncanny",
+            "url": "https://www.youtube.com/watch?v=mX6QqH_mDbs"
+          },
+          {
+            "label": "Literature: The Trickster Figure in Folklore and Fiction",
+            "url": "https://www.youtube.com/watch?v=RW1ChiWyiZQ"
+          },
+          {
+            "label": "Literature: Detective Fiction and the Structure of the Whodunit",
+            "url": "https://www.youtube.com/watch?v=CldCPLLm3VY"
+          },
+          {
+            "label": "Writing: The Book Review as Critical Genre",
+            "url": "https://www.youtube.com/watch?v=C4ccvVkJFGg"
+          }
+        ],
         "quiz": [
           {
             "q": "What does Gothic fiction typically blend?",
@@ -27569,6 +27592,7 @@ const curriculum: DayContent[] = [
         "summary": "Students solve rational equations algebraically, checking for extraneous roots caused by domain restrictions, and apply rational equations to real-world rate problems such as work-rate and upstream/downstream travel scenarios.",
         "resourceLabel": "YouTube: Rational Functions: Solving Rational Equations and Applications",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Solving%20Rational%20Equations%20and%20Applications%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6eqgIZyXgK8",
         "quiz": [
           {
             "q": "Solve (x+3)/(x-2) = 5/(x-2) for x.",
@@ -27629,6 +27653,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand review: students revisit comparative digestion, osmoconformers and osmoregulators, comparative vision, insect metamorphosis, circulatory systems, nitrogenous waste, plant tissue systems, animal locomotion, and cell cycle checkpoints.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=zAS8xuPh-9U",
+        "videoUrls": [
+          {
+            "label": "Comparative Digestion: Ruminant and Monogastric Digestive Strategies",
+            "url": "https://www.youtube.com/watch?v=zAS8xuPh-9U"
+          },
+          {
+            "label": "Biology: Insect Metamorphosis — Complete and Incomplete Development",
+            "url": "https://www.youtube.com/watch?v=G2vsaRu8FqA"
+          },
+          {
+            "label": "Biology: Plant Tissue Systems — Dermal, Ground, and Vascular Tissue",
+            "url": "https://www.youtube.com/watch?v=NiT8C_Kb-eo"
+          },
+          {
+            "label": "Biology: The Cell Cycle — Checkpoints and Regulation of Mitosis",
+            "url": "https://www.youtube.com/watch?v=eqJqhA8HSJ0"
+          }
+        ],
         "quiz": [
           {
             "q": "What do ruminant animals use to break down cellulose in plant material?",
