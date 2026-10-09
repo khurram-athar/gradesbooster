@@ -27623,6 +27623,7 @@
         "summary": "Grade 9 Language strand: a research proposal outlines a planned investigation before the work begins, stating a clear research question, explaining its significance, and describing the methods a writer intends to use to find an answer.",
         "resourceLabel": "YouTube: Writing: Writing a Research Proposal",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20a%20Research%20Proposal%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cqNA2DSVtCY",
         "quiz": [
           {
             "q": "What is the purpose of a research proposal?",
@@ -27870,6 +27871,7 @@
         "summary": "Grade 12 English strand: New Criticism emphasizes close reading of a text on its own terms, focusing on elements like structure, imagery, and language while deliberately setting aside the authors biography and historical context.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=UPDiXuESUeg",
         "quiz": [
           {
             "q": "What does New Criticism emphasize when analyzing a text?",
@@ -27930,6 +27932,7 @@
         "resourceLabel": "YouTube: Average Rate of Change Over an Interval",
         "resourceUrl": "https://www.youtube.com/results?search_query=Average%20Rate%20of%20Change%20Over%20an%20Interval%20grade%2012%20educational",
         "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=0z_MDIWMBwU",
         "quiz": [
           {
             "q": "The average rate of change of f over [a,b] is given by:",
@@ -27989,6 +27992,7 @@
         "summary": "Grade 10 Math strand: exponential equations can be solved by matching bases or applying logarithms to both sides, while logarithmic equations are often solved by rewriting them in exponential form.",
         "resourceLabel": "YouTube: Exponential and Logarithmic Equations: Solving Techniques",
         "resourceUrl": "https://www.youtube.com/results?search_query=Exponential%20and%20Logarithmic%20Equations%3A%20Solving%20Techniques%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=10I_TVuYLkQ",
         "quiz": [
           {
             "q": "What is one method for solving an exponential equation when both sides can be written with the same base?",
@@ -28049,6 +28053,7 @@
         "summary": "Calculate the magnetic field magnitude and direction around a long straight current-carrying wire using B = μ₀I/(2πr) and the right-hand rule.",
         "resourceLabel": "YouTube: The Magnetic Field Around a Long Straight Current-Carrying Wire",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Magnetic%20Field%20Around%20a%20Long%20Straight%20Current-Carrying%20Wire%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wZlHLHnZSRg",
         "quiz": [
           {
             "q": "A long straight wire carries a current of 5.0 A. What is the magnitude of the magnetic field at a point 0.10 m from the wire (μ₀ = 4π × 10⁻⁷ T·m/A)?",

@@ -35117,6 +35117,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Reading Dialogue: Who Is Talking?",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%20Dialogue%3A%20Who%20Is%20Talking%3F%20grade%201%20educational",
         "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=u5O8dlqQZII",
         "quiz": [
           {
             "q": "What are quotation marks used for?",
@@ -35176,6 +35177,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: two shapes are congruent when they are exactly the same size and the same shape, like two identical squares.",
         "resourceLabel": "YouTube: Congruent Shapes: Same Size and Shape",
         "resourceUrl": "https://www.youtube.com/results?search_query=Congruent%20Shapes%3A%20Same%20Size%20and%20Shape%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=X5kRBYXHji4",
         "quiz": [
           {
             "q": "What does it mean for two shapes to be congruent?",
@@ -35260,6 +35262,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Comparing Plants and Animals: Living Thing Characteristics",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Plants%20and%20Animals%3A%20Living%20Thing%20Characteristics%20grade%201%20educational",
         "topic": "Classification of Living Things (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=-iO_LdNR_80",
         "quiz": [
           {
             "q": "Which of these is true about BOTH plants and animals?",

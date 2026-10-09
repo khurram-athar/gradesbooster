@@ -28047,6 +28047,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a prose poem is written in continuous prose paragraphs rather than in verse lines, yet still relies on poetic techniques like imagery, rhythm, and compression of meaning.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=OqLZ-6vx_ZE",
         "quiz": [
           {
             "q": "How is a prose poem structured?",
@@ -28167,6 +28168,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: bioluminescence is the production of light by living organisms through a chemical reaction involving the molecule luciferin and the enzyme luciferase, used for purposes like predation, defence, and communication.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=hvd4qPGMj6g",
         "quiz": [
           {
             "q": "What is bioluminescence?",

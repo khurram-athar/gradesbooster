@@ -28037,6 +28037,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Math strand: the unit circle is a circle with radius 1 centred at the origin, used to define sine and cosine for any angle and to connect trigonometry with coordinate geometry.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=57VrEiEPD1I",
         "quiz": [
           {
             "q": "What is the radius of the unit circle?",
@@ -28158,6 +28159,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the Balfour Declaration of 1926 recognized Canada and other dominions as equal in status to Britain, laying important groundwork for the later Statute of Westminster and full Canadian legislative independence.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=n_MN01t1L20",
         "quiz": [
           {
             "q": "What did the Balfour Declaration of 1926 recognize about Canada?",
