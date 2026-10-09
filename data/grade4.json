@@ -28884,6 +28884,21 @@
         "summary": "Grade 2 Math strand review: students revisit multiplication facts to 12, two-digit multiplication, expanded form, multiples of ten, data range, and 3D shape nets.",
         "resourceLabel": "YouTube: Math Review: Multiplication, Place Value, and Data",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Multiplication%2C%20Place%20Value%2C%20and%20Data%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=EI2qZC1vUGk",
+        "videoUrls": [
+          {
+            "label": "Multiplication Facts to 10×10",
+            "url": "https://www.youtube.com/watch?v=EI2qZC1vUGk"
+          },
+          {
+            "label": "Place Value to 10,000",
+            "url": "https://www.youtube.com/watch?v=XhNHrtipltM"
+          },
+          {
+            "label": "Data Management: Choosing an Appropriate Graph",
+            "url": "https://www.youtube.com/watch?v=yrTB5JSQPqY"
+          }
+        ],
         "quiz": [
           {
             "q": "What is 11 x 5?",
@@ -28943,6 +28958,7 @@
         "summary": "Grade 1 Science strand: rocks slowly change over a very long time, breaking down, moving, and sometimes forming new kinds of rock in the rock cycle.",
         "resourceLabel": "YouTube: The Rock Cycle: How Rocks Slowly Change",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Rock%20Cycle%3A%20How%20Rocks%20Slowly%20Change%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NFOeeDFG0Mk",
         "quiz": [
           {
             "q": "Do rocks change over time?",
@@ -29093,6 +29109,7 @@
         "summary": "Grade 2 Language strand: story pacing describes how quickly or slowly events unfold, with exciting parts often moving fast and quiet parts moving slower.",
         "resourceLabel": "YouTube: Story Pacing: Fast and Slow Moments in a Story",
         "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Pacing%3A%20Fast%20and%20Slow%20Moments%20in%20a%20Story%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ABKMQaRn_Vo",
         "quiz": [
           {
             "q": "What does story pacing describe?",
@@ -29152,6 +29169,7 @@
         "summary": "Grade 2 Math strand: to multiply three numbers together, students multiply two of the numbers first, then multiply that answer by the third number.",
         "resourceLabel": "YouTube: Multiplying Three Numbers Together",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%20Three%20Numbers%20Together%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pODMswPk-Bo",
         "quiz": [
           {
             "q": "What is 2 x 3 x 2?",
@@ -29210,8 +29228,9 @@
         "subject": "Science",
         "title": "Science: The Human Skeletal and Muscular Systems",
         "summary": "Grade 4 Science strand: the skeletal system gives our body structure and protection using bones, while the muscular system works with bones to allow movement.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "resourceLabel": "YouTube: Science: The Human Skeletal and Muscular Systems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20The%20Human%20Skeletal%20and%20Muscular%20Systems%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=656ZfzFD-ec",
         "quiz": [
           {
             "q": "What does the skeletal system give our body?",
@@ -29272,6 +29291,7 @@
         "summary": "Students explore how early societies explained the world through gods, myths, and sacred rituals, and how temples and priests shaped daily life and government.",
         "resourceLabel": "YouTube: Social Studies: Early Societies: Religion and Belief Systems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Early%20Societies%3A%20Religion%20and%20Belief%20Systems%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=m6dCxo7t_aE",
         "topic": "Early Societies",
         "quiz": [
           {

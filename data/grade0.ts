@@ -32343,7 +32343,8 @@ const curriculum: DayContent[] = [
         "title": "Listening Comprehension: Following Two-Step Directions",
         "summary": "Students practice listening carefully to complete two things in a row, such as \"stand up and clap,\" strengthening their ability to hold multiple directions in mind.",
         "resourceLabel": "YouTube: Listening Comprehension: Following Two-Step Directions",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Listening%20Comprehension%3A%20Following%20Two-Step%20Directions%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Listening%20Comprehension%3A%20Following%20Two-Step%20Directions%20grade%200%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OhRQSOMRk_A",
         "topic": "Oral Communication & Presentation",
         "quiz": [
           {
@@ -32403,7 +32404,8 @@ const curriculum: DayContent[] = [
         "title": "One-to-One Correspondence: Counting Each Object Once",
         "summary": "Children practice touching or pointing to each object exactly once while counting, so the last number said always matches the total amount.",
         "resourceLabel": "YouTube: One-to-One Correspondence: Counting Each Object Once",
-        "resourceUrl": "https://www.youtube.com/results?search_query=One-to-One%20Correspondence%3A%20Counting%20Each%20Object%20Once%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=One-to-One%20Correspondence%3A%20Counting%20Each%20Object%20Once%20grade%200%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rWYpnwDr5Lg",
         "topic": "Number Sense",
         "quiz": [
           {
@@ -32463,7 +32465,8 @@ const curriculum: DayContent[] = [
         "title": "Spiders: Eight Legs and Silky Webs",
         "summary": "Children learn what makes a spider different from an insect, counting its eight legs and observing how some spiders spin silky webs to catch food.",
         "resourceLabel": "YouTube: Spiders: Eight Legs and Silky Webs",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Spiders%3A%20Eight%20Legs%20and%20Silky%20Webs%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Spiders%3A%20Eight%20Legs%20and%20Silky%20Webs%20grade%200%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IRZcbeCSoYQ",
         "topic": "Animals & Wildlife (Basic)",
         "quiz": [
           {
@@ -32523,7 +32526,8 @@ const curriculum: DayContent[] = [
         "title": "Living Near Water: Lake and River Communities",
         "summary": "This lesson looks at how some communities are built near lakes, rivers, or oceans, and how living near water can shape daily life.",
         "resourceLabel": "YouTube: Living Near Water: Lake and River Communities",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Living%20Near%20Water%3A%20Lake%20and%20River%20Communities%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Living%20Near%20Water%3A%20Lake%20and%20River%20Communities%20grade%200%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TJ3OHtU2mps",
         "topic": "World Geography & Cultures",
         "quiz": [
           {

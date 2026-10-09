@@ -27833,8 +27833,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Emphatic Pronouns and Intensifiers",
         "summary": "Grade 8 Language strand: emphatic pronouns like myself or himself add emphasis to a noun already mentioned, while intensifiers such as very or extremely strengthen the meaning of an adjective or adverb.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: Grammar: Emphatic Pronouns and Intensifiers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Emphatic%20Pronouns%20and%20Intensifiers%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=e6V5FuDkMG4",
         "quiz": [
           {
             "q": "What is the purpose of an emphatic pronoun?",
@@ -27895,6 +27896,7 @@ const curriculum: DayContent[] = [
         "summary": "Students solve linear equations with the variable appearing on both sides, collecting like terms before isolating the unknown.",
         "resourceLabel": "YouTube: Solving Equations with Variables on Both Sides",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Equations%20with%20Variables%20on%20Both%20Sides%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=f15zA0PhSek",
         "topic": "Equations & Inequalities",
         "quiz": [
           {
@@ -27955,6 +27957,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare the structures found in plant and animal cells, identifying organelles such as the nucleus, mitochondria, cell membrane, cell wall, and chloroplasts and relating each structure to its function.",
         "resourceLabel": "YouTube: Cells: Plant and Animal Cell Structures",
         "resourceUrl": "https://www.youtube.com/results?search_query=Cells%3A%20Plant%20and%20Animal%20Cell%20Structures%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=aoCBKqae3r8",
         "topic": "Cells & Microorganisms",
         "quiz": [
           {
@@ -28015,6 +28018,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the Canadian Human Rights Commission is a federal body that investigates complaints of discrimination and works to promote equality under Canadian law.",
         "resourceLabel": "YouTube: Social Studies: The Canadian Human Rights Commission and Its Role",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Canadian%20Human%20Rights%20Commission%20and%20Its%20Role%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=bHiwAnx4ReA",
         "quiz": [
           {
             "q": "What is the main role of the Canadian Human Rights Commission?",
@@ -28079,8 +28083,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Vocabulary: Onomatopoeia and Sound Devices",
         "summary": "Grade 8 Language strand: onomatopoeia uses words that imitate sounds, such as crash or hiss, and is one of several sound devices, including alliteration and assonance, that writers use to create rhythm and imagery.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: Vocabulary: Onomatopoeia and Sound Devices",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Onomatopoeia%20and%20Sound%20Devices%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vkbscDDLn4s",
         "quiz": [
           {
             "q": "What is onomatopoeia?",
@@ -28141,6 +28146,7 @@ const curriculum: DayContent[] = [
         "summary": "Students simplify algebraic expressions by identifying and combining like terms, including expressions with multiple variables.",
         "resourceLabel": "YouTube: Combining Like Terms",
         "resourceUrl": "https://www.youtube.com/results?search_query=Combining%20Like%20Terms%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eNv4fHb7OvU",
         "topic": "Algebraic Expressions",
         "quiz": [
           {
@@ -28201,6 +28207,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn how the invention of the microscope led to the discovery of cells, explore the basics of cell theory, and practice calculating magnification and estimating cell size.",
         "resourceLabel": "YouTube: Cells: Discovering the Cell Through Microscopy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Cells%3A%20Discovering%20the%20Cell%20Through%20Microscopy%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tVcEEw6qbBQ",
         "topic": "Cells & Microorganisms",
         "quiz": [
           {
@@ -28261,6 +28268,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: Tommy Douglas, a premier of Saskatchewan, introduced the first public health insurance program in North America in 1962, laying the foundation for the national Medicare system Canadians rely on today.",
         "resourceLabel": "YouTube: Social Studies: Tommy Douglas and the Origins of Canadian Medicare",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Tommy%20Douglas%20and%20the%20Origins%20of%20Canadian%20Medicare%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mDbigrTb8bI",
         "quiz": [
           {
             "q": "What was Tommy Douglas known for introducing?",

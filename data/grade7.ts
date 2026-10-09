@@ -27799,8 +27799,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Sentence Fragments and How to Fix Them",
         "summary": "Grade 7 Language strand: a sentence fragment is an incomplete sentence missing a subject, verb, or complete thought, and writers fix fragments by combining them with a nearby sentence or adding the missing element.",
-        "resourceLabel": "TVO Learn: Grade 7 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "resourceLabel": "YouTube: Grammar: Sentence Fragments and How to Fix Them",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Sentence%20Fragments%20and%20How%20to%20Fix%20Them%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hfXbyn8P0_k",
         "quiz": [
           {
             "q": "What is a sentence fragment?",
@@ -27861,6 +27862,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: a square number is the result of multiplying a whole number by itself, and its square root is the number that was multiplied to produce it.",
         "resourceLabel": "YouTube: Square Numbers and Square Roots",
         "resourceUrl": "https://www.youtube.com/results?search_query=Square%20Numbers%20and%20Square%20Roots%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yICR9PiW340",
         "quiz": [
           {
             "q": "A square number is the result of ___.",
@@ -27919,8 +27921,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "The Human Eye and Vision",
         "summary": "Grade 7 Science strand: the eye focuses light onto the retina, which converts light into signals sent to the brain, allowing us to see shapes, colours, and movement.",
-        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "resourceLabel": "YouTube: The Human Eye and Vision",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Human%20Eye%20and%20Vision%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TY1giZgddAs",
         "quiz": [
           {
             "q": "What does the eye focus light onto?",
@@ -27980,6 +27983,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: the Magna Carta, signed in England in 1215, established early principles like the rule of law that influenced legal systems, including Canadas, centuries later.",
         "resourceLabel": "YouTube: The Magna Cartas Influence on Canadian Law",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Magna%20Cartas%20Influence%20on%20Canadian%20Law%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7xo4tUMdAMw",
         "quiz": [
           {
             "q": "What was the Magna Carta?",
@@ -28044,8 +28048,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Vocabulary: Portmanteau Words",
         "summary": "Grade 7 Language strand: a portmanteau word blends the sounds and meanings of two words into one, such as brunch (breakfast plus lunch) or smog (smoke plus fog).",
-        "resourceLabel": "TVO Learn: Grade 7 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "resourceLabel": "YouTube: Vocabulary: Portmanteau Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Portmanteau%20Words%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nLjTMcm14GI",
         "quiz": [
           {
             "q": "What is a portmanteau word?",
@@ -28104,8 +28109,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Data Management: Constructing and Interpreting Dot Plots",
         "summary": "Grade 7 Math strand: a dot plot displays data along a number line, with a dot for each data value, making it easy to see the shape, clusters, and gaps in a small data set.",
-        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "resourceLabel": "YouTube: Data Management: Constructing and Interpreting Dot Plots",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Constructing%20and%20Interpreting%20Dot%20Plots%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qg8PMqJV3t0",
         "quiz": [
           {
             "q": "What does a dot plot use to represent data?",
@@ -28164,8 +28170,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Renewable Energy: Wind Power Technology",
         "summary": "Grade 7 Science strand: wind turbines convert the kinetic energy of moving air into electricity, offering a renewable energy source that produces no direct emissions while operating.",
-        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "resourceLabel": "YouTube: Renewable Energy: Wind Power Technology",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Renewable%20Energy%3A%20Wind%20Power%20Technology%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_8DtGAp1fyI",
         "quiz": [
           {
             "q": "What do wind turbines convert into electricity?",
@@ -28226,6 +28233,21 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand review: students revisit the census, sister cities, Indigenous language revitalization, the Auditor General, national debt, electoral ridings, equalization payments, and the Magna Carta.",
         "resourceLabel": "YouTube: Social Studies Review: Government, Economy, and Canadian History",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Government%2C%20Economy%2C%20and%20Canadian%20History%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7C8uDuhLqvg",
+        "videoUrls": [
+          {
+            "label": "The Structure of Canadian Government",
+            "url": "https://www.youtube.com/watch?v=7C8uDuhLqvg"
+          },
+          {
+            "label": "Canada's Economy: Primary, Secondary, and Tertiary Industries",
+            "url": "https://www.youtube.com/watch?v=TWVhE_wlBLs"
+          },
+          {
+            "label": "Confederation: The Birth of Canada in 1867",
+            "url": "https://www.youtube.com/watch?v=CnEdbmwmSls"
+          }
+        ],
         "quiz": [
           {
             "q": "What is a census?",

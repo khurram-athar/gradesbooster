@@ -27685,6 +27685,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn and apply the sum-of-cubes and difference-of-cubes factoring patterns to fully factor cubic binomials.",
         "resourceLabel": "YouTube: Factoring Sums and Differences of Cubes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Factoring%20Sums%20and%20Differences%20of%20Cubes%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ADj8sGSjewg",
         "topic": "Polynomials & Factoring",
         "quiz": [
           {
@@ -27745,6 +27746,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Math strand: function composition combines two functions by applying one function to the output of another, written as f(g(x)), evaluating g(x) first.",
         "resourceLabel": "YouTube: Functions: Composition of Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Composition%20of%20Functions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qPUAkMILgSY",
         "quiz": [
           {
             "q": "In the composition f(g(x)), which function is evaluated first?",
@@ -27802,8 +27804,9 @@ const curriculum: DayContent[] = [
         "subject": "Physics",
         "title": "Physics: The Davisson-Germer Experiment and Electron Diffraction",
         "summary": "Grade 12 Physics strand: the Davisson-Germer experiment demonstrated that electrons produce diffraction patterns when scattered off a crystal, providing direct experimental evidence for the wave nature of matter predicted by de Broglies hypothesis.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "resourceLabel": "YouTube: Physics: The Davisson-Germer Experiment and Electron Diffraction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20The%20Davisson-Germer%20Experiment%20and%20Electron%20Diffraction%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Ho7K27B_Uu8",
         "quiz": [
           {
             "q": "What did the Davisson-Germer experiment demonstrate?",

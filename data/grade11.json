@@ -27793,8 +27793,9 @@
         "subject": "English",
         "title": "Reading: Analyzing Juxtaposition in Literature",
         "summary": "Grade 11 English strand: juxtaposition places two contrasting elements side by side in a text, highlighting their differences and creating deeper meaning, tension, or thematic emphasis.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Reading: Analyzing Juxtaposition in Literature",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Juxtaposition%20in%20Literature%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rb5bbR9FFo0",
         "quiz": [
           {
             "q": "What is juxtaposition?",
@@ -27853,8 +27854,9 @@
         "subject": "Functions",
         "title": "Calculus Preview: An Introduction to Limits",
         "summary": "Grade 11 Functions strand: a limit describes the value a function approaches as its input approaches a certain number, a foundational idea used to formally define the derivative and analyze function behaviour near a point.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "resourceLabel": "YouTube: Calculus Preview: An Introduction to Limits",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%20Preview%3A%20An%20Introduction%20to%20Limits%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YNstP0ESndU",
         "quiz": [
           {
             "q": "What does a limit describe in mathematics?",
@@ -27913,8 +27915,9 @@
         "subject": "Biology",
         "title": "Biology: Desert Ecosystems and Xerophytic Adaptations",
         "summary": "Grade 11 Biology strand: desert ecosystems receive very little precipitation, and xerophytic plants and desert animals have evolved specialized physiological adaptations, such as water storage and reduced water loss, to survive extreme aridity.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Biology: Desert Ecosystems and Xerophytic Adaptations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Desert%20Ecosystems%20and%20Xerophytic%20Adaptations%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oSSUA2r-cXk",
         "quiz": [
           {
             "q": "What defines a desert ecosystem?",

@@ -27986,6 +27986,7 @@
         "summary": "Students learn to prepare an interview script, distinguishing between closed and open-ended questions and planning follow-up questions that draw out detailed, useful responses.",
         "resourceLabel": "YouTube: Writing: Writing an Interview Script — Question Design and Follow-Ups",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20an%20Interview%20Script%20%E2%80%94%20Question%20Design%20and%20Follow-Ups%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=9RjxqXAT9Jc",
         "topic": "Writing",
         "quiz": [
           {
@@ -28046,6 +28047,7 @@
         "summary": "Students learn to factor four-term polynomials by grouping terms in pairs and pulling out the common factor of each pair, a key stepping stone toward factoring more complex trinomials.",
         "resourceLabel": "YouTube: Factoring by Grouping",
         "resourceUrl": "https://www.youtube.com/results?search_query=Factoring%20by%20Grouping%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=t7-JCa7phCQ",
         "topic": "Polynomials & Factoring",
         "quiz": [
           {
@@ -28104,8 +28106,9 @@
         "subject": "Science",
         "title": "The Human Eye and the Physics of Vision",
         "summary": "Grade 9 Science strand: the eye uses a lens to focus light onto the retina, where light-sensitive cells convert it into electrical signals that the brain interprets as images.",
-        "resourceLabel": "TVO Learn: Grade 9 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "resourceLabel": "YouTube: The Human Eye and the Physics of Vision",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Human%20Eye%20and%20the%20Physics%20of%20Vision%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TY1giZgddAs",
         "quiz": [
           {
             "q": "What structure in the eye focuses light onto the retina?",
@@ -28163,8 +28166,9 @@
         "subject": "SocialStudies",
         "title": "Social Studies: The Geography of Small Island Developing States",
         "summary": "Grade 9 Social Studies (Geography) strand: Small Island Developing States, or SIDS, face unique geographic challenges such as vulnerability to sea level rise, limited land area, and reliance on imports and tourism.",
-        "resourceLabel": "TVO Learn: Grade 9 Geography",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "resourceLabel": "YouTube: Social Studies: The Geography of Small Island Developing States",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Geography%20of%20Small%20Island%20Developing%20States%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=BYAfefuvuaM",
         "quiz": [
           {
             "q": "What does SIDS stand for?",
@@ -28229,8 +28233,9 @@
         "subject": "Language",
         "title": "Vocabulary: Portmanteau Words and Blends",
         "summary": "Grade 9 Language strand: a portmanteau word blends the sounds and meanings of two existing words into a new one, such as motel (motor plus hotel), reflecting how language evolves to describe new ideas.",
-        "resourceLabel": "TVO Learn: Grade 9 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "resourceLabel": "YouTube: Vocabulary: Portmanteau Words and Blends",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Portmanteau%20Words%20and%20Blends%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nLjTMcm14GI",
         "quiz": [
           {
             "q": "What is a portmanteau word?",
@@ -28291,6 +28296,7 @@
         "summary": "Students learn to recognize binomials in the form a^2 - b^2 and factor them as (a - b)(a + b), applying the pattern to expressions with variables, exponents, and coefficients.",
         "resourceLabel": "YouTube: Factoring the Difference of Squares",
         "resourceUrl": "https://www.youtube.com/results?search_query=Factoring%20the%20Difference%20of%20Squares%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=HLNSouzygw0",
         "topic": "Polynomials & Factoring",
         "quiz": [
           {
@@ -28351,6 +28357,7 @@
         "summary": "Students study the layout of our solar system, including the order and relative sizes of the planets and the asteroid belt, and use scale models to grasp the vast distances involved.",
         "resourceLabel": "YouTube: Space Science: The Solar System - Structure and Scale",
         "resourceUrl": "https://www.youtube.com/results?search_query=Space%20Science%3A%20The%20Solar%20System%20-%20Structure%20and%20Scale%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=libKVRa01L8",
         "topic": "Space & Astronomy",
         "quiz": [
           {
@@ -28409,8 +28416,9 @@
         "subject": "SocialStudies",
         "title": "Social Studies: The Geography of E-Waste and Electronic Recycling",
         "summary": "Grade 9 Social Studies (Geography) strand: e-waste refers to discarded electronic devices, and its global geography involves complex patterns of disposal, recycling, and shipment, often from wealthier nations to developing regions.",
-        "resourceLabel": "TVO Learn: Grade 9 Geography",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "resourceLabel": "YouTube: Social Studies: The Geography of E-Waste and Electronic Recycling",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Geography%20of%20E-Waste%20and%20Electronic%20Recycling%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=4GtWGHvX-rk",
         "quiz": [
           {
             "q": "What is e-waste?",

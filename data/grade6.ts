@@ -27880,8 +27880,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Poetry: Writing a Haiku",
         "summary": "Grade 6 Language strand: a haiku is a three-line Japanese poem with a 5-7-5 syllable pattern, traditionally focused on nature or a single vivid moment.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Poetry: Writing a Haiku",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Poetry%3A%20Writing%20a%20Haiku%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zZVGnx-82sc",
         "quiz": [
           {
             "q": "How many lines does a haiku have?",
@@ -27942,6 +27943,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: students learn to express the probability of an event as a fraction, such as the chance of rolling a 4 on a 6-sided die being 1 out of 6.",
         "resourceLabel": "YouTube: Probability: Calculating Simple Probability as a Fraction",
         "resourceUrl": "https://www.youtube.com/results?search_query=Probability%3A%20Calculating%20Simple%20Probability%20as%20a%20Fraction%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PSMr1fXr71Y",
         "quiz": [
           {
             "q": "What is the probability, as a fraction, of rolling a 4 on a 6-sided die?",
@@ -28000,8 +28002,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "The Human Ear and How We Hear",
         "summary": "Grade 6 Science strand: the ear collects sound vibrations and converts them into signals the brain interprets as sound, using structures like the eardrum and inner ear.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: The Human Ear and How We Hear",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Human%20Ear%20and%20How%20We%20Hear%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6WNHyAXIN8c",
         "quiz": [
           {
             "q": "What does the ear collect and convert into signals?",
@@ -28126,8 +28129,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Onomatopoeia and Alliteration as Sound Devices",
         "summary": "Grade 6 Language strand: onomatopoeia uses words that imitate sounds, like buzz or crash, while alliteration repeats beginning consonant sounds, both adding rhythm and vividness to writing.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Reading: Onomatopoeia and Alliteration as Sound Devices",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Onomatopoeia%20and%20Alliteration%20as%20Sound%20Devices%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TJf5W1DnQUs",
         "quiz": [
           {
             "q": "What is onomatopoeia?",
@@ -28188,6 +28192,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: students learn to write simple algebraic expressions using a variable, such as letting n represent an unknown number in the expression n plus 5.",
         "resourceLabel": "YouTube: Patterning: Algebraic Expressions with a Variable",
         "resourceUrl": "https://www.youtube.com/results?search_query=Patterning%3A%20Algebraic%20Expressions%20with%20a%20Variable%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=o_Ubm7OI8t4",
         "quiz": [
           {
             "q": "In the expression n plus 5, what does the letter n represent?",
@@ -28246,8 +28251,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Antibiotics — How They Fight Bacterial Infections",
         "summary": "Grade 6 Science strand: antibiotics are medicines that fight bacterial infections by killing bacteria or stopping their growth, but they do not work against viruses.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: Antibiotics — How They Fight Bacterial Infections",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Antibiotics%20%E2%80%94%20How%20They%20Fight%20Bacterial%20Infections%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hhBu6qeIAfA",
         "quiz": [
           {
             "q": "What do antibiotics fight?",
@@ -28305,8 +28311,9 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Social Studies: The Census — Counting Everyone in Canada",
         "summary": "Grade 6 Social Studies strand: a census is an official count of everyone living in Canada, conducted regularly to help the government plan services and understand demographic trends.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "resourceLabel": "YouTube: Social Studies: The Census — Counting Everyone in Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Census%20%E2%80%94%20Counting%20Everyone%20in%20Canada%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zUUi-J4c6_Y",
         "quiz": [
           {
             "q": "What is a census?",
