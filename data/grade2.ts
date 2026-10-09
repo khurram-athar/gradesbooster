@@ -35243,6 +35243,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: readers make connections not only to their own lives but also between two texts (text to text) and between a text and events in the real world (text to world).",
         "resourceLabel": "YouTube: Making Connections: Text to Text and Text to World",
         "resourceUrl": "https://www.youtube.com/results?search_query=Making%20Connections%3A%20Text%20to%20Text%20and%20Text%20to%20World%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SHsdQvsN8ag",
         "quiz": [
           {
             "q": "What does text-to-text mean?",

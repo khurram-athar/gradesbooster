@@ -28417,6 +28417,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand: comets are icy space objects that develop a glowing tail near the sun, while asteroids are rocky objects, and both orbit the sun like planets.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=02wrLS-ue1Q",
         "quiz": [
           {
             "q": "What is a comet mostly made of?",
@@ -28477,6 +28478,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: the Royal Canadian Mounted Police, or RCMP, is Canadas national police force, known for its red serge uniform and role in federal law enforcement.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=E-h_FKaAc2k",
         "quiz": [
           {
             "q": "What does RCMP stand for?",
