@@ -29075,7 +29075,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=PLHkuSpJxPs"
       },
       {
         "subject": "Math",
@@ -29135,7 +29136,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Measurement: Units"
+        "topic": "Measurement: Units",
+        "videoUrl": "https://www.youtube.com/watch?v=vn7998O1kwY"
       },
       {
         "subject": "Science",
@@ -29195,7 +29197,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Space & Astronomy"
+        "topic": "Space & Astronomy",
+        "videoUrl": "https://www.youtube.com/watch?v=tcGEjzt_4is"
       },
       {
         "subject": "SocialStudies",
@@ -29255,7 +29258,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Indigenous Peoples & First Nations"
+        "topic": "Indigenous Peoples & First Nations",
+        "videoUrl": "https://www.youtube.com/watch?v=JkSHpzc4cOg"
       }
     ]
   },
@@ -29321,7 +29325,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=3ASdbHUHfik"
       },
       {
         "subject": "Math",
@@ -29381,7 +29386,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=v-mlEQ7KW5Q"
       },
       {
         "subject": "Science",
@@ -29441,7 +29447,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Plants & Photosynthesis"
+        "topic": "Plants & Photosynthesis",
+        "videoUrl": "https://www.youtube.com/watch?v=D1Ymc311XS8"
       },
       {
         "subject": "SocialStudies",
@@ -29523,7 +29530,8 @@ const curriculum: DayContent[] = [
               "laws for the province are created there"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=QJLkcC0jYPA"
       }
     ]
   },

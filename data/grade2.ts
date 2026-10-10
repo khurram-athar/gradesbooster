@@ -35415,7 +35415,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=fephtrPt6wk"
       },
       {
         "subject": "SocialStudies",
@@ -35564,7 +35565,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Genre Studies"
+        "topic": "Genre Studies",
+        "videoUrl": "https://www.youtube.com/watch?v=c1KU-I6nl0U"
       },
       {
         "subject": "Math",
@@ -35624,7 +35626,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Place Value & Number Sense",
+        "videoUrl": "https://www.youtube.com/watch?v=qeAVXeETETI"
       },
       {
         "subject": "Science",
@@ -35704,7 +35707,8 @@ const curriculum: DayContent[] = [
               "endangered"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=_vAOarzqZhg"
       },
       {
         "subject": "SocialStudies",
@@ -35763,7 +35767,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Sbf1Svw_rTY"
       }
     ]
   },

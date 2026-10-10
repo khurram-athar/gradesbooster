@@ -35374,7 +35374,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=MkkroRvmFoY"
       }
     ]
   },
@@ -35440,7 +35441,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Ke7j1jFLxbc"
       },
       {
         "subject": "Math",
@@ -35523,7 +35525,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Patterning"
+        "topic": "Patterning",
+        "videoUrl": "https://www.youtube.com/watch?v=SC1sQ2PXgeE"
       },
       {
         "subject": "Science",
@@ -35606,7 +35609,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Materials & States of Matter (Basic)"
+        "topic": "Materials & States of Matter (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=BEJScntszfI"
       },
       {
         "subject": "SocialStudies",
@@ -35689,7 +35693,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Safety Rules (Basic)"
+        "topic": "Safety Rules (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=HZF36OBLbVk"
       }
     ]
   },

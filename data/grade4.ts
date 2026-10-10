@@ -29472,7 +29472,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Measurement: Perimeter & Area"
+        "topic": "Measurement: Perimeter & Area",
+        "videoUrl": "https://www.youtube.com/watch?v=0Ho8Az8y4Mw"
       },
       {
         "subject": "Science",
@@ -29532,7 +29533,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Human Body Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=f9ONXd_-anM"
       },
       {
         "subject": "SocialStudies",
@@ -29592,7 +29594,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=lkfq37bMVBY"
       }
     ]
   },
@@ -29658,7 +29661,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=8rD31wy3ivE"
       },
       {
         "subject": "Math",
@@ -29718,7 +29722,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=ZXU28FhYY_M"
       },
       {
         "subject": "Science",
@@ -29778,7 +29783,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Human Body Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=67Jbbu7UZAA"
       },
       {
         "subject": "SocialStudies",
@@ -29838,7 +29844,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=HOinxKSDl9Q"
       }
     ]
   },

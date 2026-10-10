@@ -28173,7 +28173,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=nlFTREd6EtQ"
       },
       {
         "subject": "AdvancedFunctions",
@@ -28233,7 +28234,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=qQgVomi8lCc"
       },
       {
         "subject": "Calculus",
@@ -28293,7 +28295,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Calculus: Related Rates"
+        "topic": "Calculus: Related Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=5_VwjbWbAQU"
       },
       {
         "subject": "Physics",
@@ -28353,7 +28356,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=yhNUBYj3-2Y"
       }
     ]
   },

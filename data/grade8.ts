@@ -28386,7 +28386,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=4KXVPS3FYkQ"
       },
       {
         "subject": "Math",
@@ -28446,7 +28447,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=v-6MShC82ow"
       },
       {
         "subject": "Science",
@@ -28506,7 +28508,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=1hrkwJ_HuR0"
       },
       {
         "subject": "History",
@@ -28566,7 +28569,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Indigenous Peoples & First Nations"
+        "topic": "Indigenous Peoples & First Nations",
+        "videoUrl": "https://www.youtube.com/watch?v=C_Ex_g5OcOE"
       }
     ]
   },
@@ -28632,7 +28636,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=xHBDmrhZBLc"
       },
       {
         "subject": "Math",
@@ -28692,7 +28697,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=VZxTyCIVmVU"
       },
       {
         "subject": "Science",
@@ -28751,7 +28757,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=nPHegSulI_M"
       },
       {
         "subject": "History",

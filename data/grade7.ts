@@ -28365,7 +28365,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Literary Devices & Analysis"
+        "topic": "Literary Devices & Analysis",
+        "videoUrl": "https://www.youtube.com/watch?v=NAvcQlsc__c"
       },
       {
         "subject": "Math",
@@ -28425,7 +28426,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=3I81-P_lwvw"
       },
       {
         "subject": "Science",
@@ -28485,7 +28487,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Chemical Reactions"
+        "topic": "Chemical Reactions",
+        "videoUrl": "https://www.youtube.com/watch?v=Hsr_xb5jpqg"
       },
       {
         "subject": "SocialStudies",
@@ -28544,7 +28547,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=4O8syj77goQ"
       }
     ]
   },
@@ -28610,7 +28614,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Writing: Persuasive/Opinion"
+        "topic": "Writing: Persuasive/Opinion",
+        "videoUrl": "https://www.youtube.com/watch?v=u7AsppQT2tQ"
       },
       {
         "subject": "Math",
@@ -28670,7 +28675,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=HBSLrN9LWBA"
       },
       {
         "subject": "Science",
@@ -28730,7 +28736,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Plants & Photosynthesis"
+        "topic": "Plants & Photosynthesis",
+        "videoUrl": "https://www.youtube.com/watch?v=7QJIMmXSTbc"
       },
       {
         "subject": "SocialStudies",
@@ -28789,7 +28796,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=QLBSGchmJOM"
       }
     ]
   },

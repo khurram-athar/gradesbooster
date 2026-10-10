@@ -28347,7 +28347,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=OB882puILhM"
       },
       {
         "subject": "Functions",
@@ -28407,7 +28408,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Sequences & Series"
+        "topic": "Sequences & Series",
+        "videoUrl": "https://www.youtube.com/watch?v=_cooC3yG_p0"
       },
       {
         "subject": "Biology",
@@ -28467,7 +28469,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Animal Adaptations & Behaviour"
+        "topic": "Animal Adaptations & Behaviour",
+        "videoUrl": "https://www.youtube.com/watch?v=PNXokAH8GLE"
       },
       {
         "subject": "Chemistry",
@@ -28525,6 +28528,17 @@ const curriculum: DayContent[] = [
               "Releasing hormones that help control blood sugar levels"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=eWHH9je2zG4",
+        "videoUrls": [
+          {
+            "label": "Endocrine System",
+            "url": "https://www.youtube.com/watch?v=eWHH9je2zG4"
+          },
+          {
+            "label": "Homeostasis",
+            "url": "https://www.youtube.com/watch?v=14SQT97EE4c"
           }
         ]
       }

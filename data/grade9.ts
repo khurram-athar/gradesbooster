@@ -28539,7 +28539,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=N12_gHIZCcw"
       },
       {
         "subject": "Math",
@@ -28599,7 +28600,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=BPbzXi-TT_U"
       },
       {
         "subject": "Science",
@@ -28658,7 +28660,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=EXBW00yEgUU"
       },
       {
         "subject": "SocialStudies",
@@ -28718,7 +28721,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=3nk3BV9vY9E"
       }
     ]
   },
@@ -28784,7 +28788,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=XKigAfp7WdU"
       },
       {
         "subject": "Math",
@@ -28844,7 +28849,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=MxiqyE2uMCo"
       },
       {
         "subject": "Science",
@@ -28904,7 +28910,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Interactions in Nature"
+        "topic": "Interactions in Nature",
+        "videoUrl": "https://www.youtube.com/watch?v=IWAA75k-UWI"
       },
       {
         "subject": "SocialStudies",
@@ -28964,7 +28971,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=x5etVYmoSVg"
       }
     ]
   },

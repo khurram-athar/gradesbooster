@@ -28432,7 +28432,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=mj40J8lFu7E"
       },
       {
         "subject": "Math",
@@ -28492,7 +28493,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Number Sense: Place Value & Operations"
+        "topic": "Number Sense: Place Value & Operations",
+        "videoUrl": "https://www.youtube.com/watch?v=LnfhdtjcpVY"
       },
       {
         "subject": "Science",
@@ -28552,7 +28554,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Human Body & Health"
+        "topic": "Human Body & Health",
+        "videoUrl": "https://www.youtube.com/watch?v=pmgkj01uUTw"
       },
       {
         "subject": "SocialStudies",
@@ -28612,7 +28615,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=rLgL2-AfmRg"
       }
     ]
   },
@@ -28678,7 +28682,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=e9_Ize7ZDwg"
       },
       {
         "subject": "Math",
@@ -28738,7 +28743,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Measurement: Units"
+        "topic": "Measurement: Units",
+        "videoUrl": "https://www.youtube.com/watch?v=zFL4V6F8Xz0"
       },
       {
         "subject": "Science",
@@ -28798,7 +28804,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Evolution"
+        "topic": "Evolution",
+        "videoUrl": "https://www.youtube.com/watch?v=Aj17Xsjt4sc"
       },
       {
         "subject": "SocialStudies",
@@ -28858,7 +28865,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Canadian Identity & Symbols"
+        "topic": "Canadian Identity & Symbols",
+        "videoUrl": "https://www.youtube.com/watch?v=aRWu-9f6NOA"
       }
     ]
   },

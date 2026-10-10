@@ -28275,7 +28275,8 @@
             "answer": 1
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=gle38D7ziLs"
       },
       {
         "subject": "Math",
@@ -28335,7 +28336,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=eoPmE3NHHUs"
       },
       {
         "subject": "Science",
@@ -28394,7 +28396,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=EXBW00yEgUU"
       },
       {
         "subject": "History",
@@ -28453,7 +28456,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=4DpOiIMRPBw"
       }
     ]
   },

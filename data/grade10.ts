@@ -28277,7 +28277,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=gle38D7ziLs"
       },
       {
         "subject": "Math",
@@ -28337,7 +28338,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=eoPmE3NHHUs"
       },
       {
         "subject": "Science",
@@ -28396,7 +28398,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=EXBW00yEgUU"
       },
       {
         "subject": "History",
@@ -28455,7 +28458,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=4DpOiIMRPBw"
       }
     ]
   },

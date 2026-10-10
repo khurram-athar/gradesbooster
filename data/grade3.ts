@@ -28409,7 +28409,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Multiplication & Division",
+        "videoUrl": "https://www.youtube.com/watch?v=FJ5qLWP3Fqo"
       },
       {
         "subject": "Science",
@@ -28597,7 +28598,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=Ax-GQCgBOEI"
       },
       {
         "subject": "Math",
@@ -28657,7 +28659,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=dIE_-1fa--s"
       },
       {
         "subject": "Science",
@@ -28717,7 +28720,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Classification of Living Things (Basic)"
+        "topic": "Classification of Living Things (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=zj5v3n6Nlm8"
       },
       {
         "subject": "SocialStudies",
@@ -28777,7 +28781,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Canadian Institutions & Justice"
+        "topic": "Canadian Institutions & Justice",
+        "videoUrl": "https://www.youtube.com/watch?v=ovP_Nm4lHTM"
       }
     ]
   },
