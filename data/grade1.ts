@@ -35707,8 +35707,9 @@ const curriculum: DayContent[] = [
         "title": "Predicting: What Will Happen Next?",
         "summary": "Students use picture and text clues to make sensible predictions about what might happen next in a story.",
         "resourceLabel": "YouTube: Predicting: What Will Happen Next?",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Predicting%3A%20What%20Will%20Happen%20Next%3F%20grade%201%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Predicting%20What%20Will%20Happen%20Next%20grade%201%20educational",
         "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=nyJ_W6eHpHE",
         "quiz": [
           {
             "q": "What does it mean to predict while reading?",

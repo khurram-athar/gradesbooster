@@ -28532,8 +28532,19 @@ const curriculum: DayContent[] = [
         "title": "Applications of Quadratics: Maximizing Area and Revenue",
         "summary": "Students use quadratic relations to solve optimization problems involving maximizing area given a fixed perimeter or maximizing revenue given a price-demand relationship.",
         "resourceLabel": "YouTube: Applications of Quadratics: Maximizing Area and Revenue",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Applications%20of%20Quadratics%3A%20Maximizing%20Area%20and%20Revenue%20grade%2010%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Applications%20of%20Quadratics%20Maximizing%20Area%20and%20Revenue%20grade%2010%20educational",
         "topic": "Quadratic Relations",
+        "videoUrl": "https://www.youtube.com/watch?v=A0WRfys_5gs",
+        "videoUrls": [
+          {
+            "label": "Maximizing Area",
+            "url": "https://www.youtube.com/watch?v=A0WRfys_5gs"
+          },
+          {
+            "label": "Maximizing Revenue",
+            "url": "https://www.youtube.com/watch?v=rZwXrvEq3nE"
+          }
+        ],
         "quiz": [
           {
             "q": "A farmer has 100m of fencing to enclose a rectangular field against a barn wall (one side needs no fencing). If width = w and length = 100-2w, what is the area function?",
@@ -28592,7 +28603,8 @@ const curriculum: DayContent[] = [
         "title": "Science: Enzymes as Biological Catalysts",
         "summary": "Grade 7 Science strand: enzymes are proteins that act as biological catalysts, speeding up chemical reactions in the body, such as breaking down food during digestion, without being used up in the process.",
         "resourceLabel": "YouTube: Science: Enzymes as Biological Catalysts",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Enzymes%20as%20Biological%20Catalysts%20grade%2010%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Enzymes%20as%20Biological%20Catalysts%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qgVFkRn8f10",
         "quiz": [
           {
             "q": "What are enzymes?",
@@ -28650,8 +28662,9 @@ const curriculum: DayContent[] = [
         "subject": "History",
         "title": "The British Commonwealth Air Training Plan",
         "summary": "Grade 10 History strand: during World War II, Canada hosted the British Commonwealth Air Training Plan, training tens of thousands of Allied aircrew using Canadas wide open spaces and relative safety from enemy attack.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: The British Commonwealth Air Training Plan",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20British%20Commonwealth%20Air%20Training%20Plan%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KBAJehsnVXQ",
         "quiz": [
           {
             "q": "What was the British Commonwealth Air Training Plan?",

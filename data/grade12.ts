@@ -28369,8 +28369,9 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Poetry: Prosody and Meter — The Music of Verse",
         "summary": "Grade 12 English strand: prosody is the study of the rhythmic and sonic qualities of poetry, including meter, the patterned arrangement of stressed and unstressed syllables that gives a poem its underlying musical structure.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Poetry: Prosody and Meter — The Music of Verse",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Poetry%20Prosody%20and%20Meter%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=S13Tg3RAUW4",
         "quiz": [
           {
             "q": "What does prosody study in poetry?",
@@ -28490,7 +28491,8 @@ const curriculum: DayContent[] = [
         "title": "Vectors in Three Dimensions: Magnitude and Direction Practice",
         "summary": "Students compute the magnitude of a 3D vector, relate direction cosines to direction angles, and add and subtract vectors given in component form.",
         "resourceLabel": "YouTube: Vectors in Three Dimensions: Magnitude and Direction Practice",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%20in%20Three%20Dimensions%3A%20Magnitude%20and%20Direction%20Practice%20grade%2012%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%20in%20Three%20Dimensions%20Magnitude%20and%20Direction%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZoCxUV893fo",
         "quiz": [
           {
             "q": "For vector v = (2, -3, 6), the magnitude |v| equals ___.",
@@ -28549,7 +28551,8 @@ const curriculum: DayContent[] = [
         "title": "Electric Potential Energy Between Charged Parallel Plates",
         "summary": "Calculate the work, kinetic energy gain, and electric field for a charged particle accelerated between charged parallel plates.",
         "resourceLabel": "YouTube: Electric Potential Energy Between Charged Parallel Plates",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Electric%20Potential%20Energy%20Between%20Charged%20Parallel%20Plates%20grade%2012%20physics%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electric%20Potential%20Energy%20Between%20Charged%20Parallel%20Plates%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RpiyBbsPsd0",
         "quiz": [
           {
             "q": "A proton (q = 1.6 × 10⁻¹⁹ C) is accelerated from rest through a potential difference of 500 V between parallel plates. What is the change in the proton's kinetic energy?",

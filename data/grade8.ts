@@ -28764,8 +28764,9 @@ const curriculum: DayContent[] = [
         "subject": "History",
         "title": "The National Policy of 1879",
         "summary": "Grade 8 History strand: the National Policy of 1879, introduced by Prime Minister John A. Macdonald, used high tariffs on imported goods to protect Canadian manufacturing while encouraging western settlement and railway expansion.",
-        "resourceLabel": "TVO Learn: Grade 8 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "resourceLabel": "YouTube: The National Policy of 1879",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20National%20Policy%20of%201879%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IglKIQz-LGM",
         "quiz": [
           {
             "q": "Who introduced the National Policy of 1879?",
