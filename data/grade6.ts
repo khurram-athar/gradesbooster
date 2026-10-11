@@ -29128,8 +29128,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Writing: Writing a Straight News Article (The Inverted Pyramid)",
         "summary": "Grade 6 Language strand: a straight news article uses the inverted pyramid structure, presenting the most important information first, followed by supporting details in decreasing order of importance.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Writing: Writing a Straight News Article (The Inverted Pyramid)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20a%20Straight%20News%20Article%20%28The%20Inverted%20Pyramid%29%20grade%206%20educational",
         "quiz": [
           {
             "q": "What structure do straight news articles typically follow?",
@@ -29182,7 +29182,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=vEKJ-VWQuLQ"
       },
       {
         "subject": "Math",
@@ -29301,14 +29302,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=3XF42x_72Xs"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The History of Canadian Currency",
         "summary": "Grade 6 Social Studies strand: Canadian currency has evolved over centuries, from early trade using furs and wampum to todays coins and bills issued by the Bank of Canada.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "resourceLabel": "YouTube: Social Studies: The History of Canadian Currency",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20History%20of%20Canadian%20Currency%20grade%206%20educational",
         "quiz": [
           {
             "q": "What organization issues Canadas paper currency today?",
@@ -29361,7 +29363,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Economy, Trade & Currency"
+        "topic": "Economy, Trade & Currency",
+        "videoUrl": "https://www.youtube.com/watch?v=92GmnaiCoyM"
       }
     ]
   },

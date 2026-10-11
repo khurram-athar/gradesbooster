@@ -36265,7 +36265,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Plants & Photosynthesis"
+        "topic": "Plants & Photosynthesis",
+        "videoUrl": "https://www.youtube.com/watch?v=iOXMx9xvmoI"
       },
       {
         "subject": "SocialStudies",

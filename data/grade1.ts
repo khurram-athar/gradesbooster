@@ -36011,7 +36011,8 @@ const curriculum: DayContent[] = [
               "so they do not disappear"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=BFyOaLa3Xus"
       }
     ]
   },

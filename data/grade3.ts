@@ -29044,8 +29044,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Symbolism — When an Object Means More Than Itself",
         "summary": "Grade 3 Language strand: symbolism is when an author uses an object, colour, or image to represent a deeper idea, such as a dove symbolizing peace.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Reading: Symbolism — When an Object Means More Than Itself",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Symbolism%20%E2%80%94%20When%20an%20Object%20Means%20More%20Than%20Itself%20grade%203%20educational",
         "quiz": [
           {
             "q": "What is symbolism?",
@@ -29098,7 +29098,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Literary Devices & Analysis"
+        "topic": "Literary Devices & Analysis",
+        "videoUrl": "https://www.youtube.com/watch?v=d9oFS7lFmVU"
       },
       {
         "subject": "Math",

@@ -28471,8 +28471,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Media Literacy: Analyzing Memes and Internet Culture",
         "summary": "Grade 10 English strand: memes spread ideas and humour quickly through images, text, and repetition, and analyzing them critically helps readers understand how internet culture shapes communication and public opinion.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Media Literacy: Analyzing Memes and Internet Culture",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Analyzing%20Memes%20and%20Internet%20Culture%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What is a meme?",
@@ -28525,7 +28525,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=N2FPDCPnkGo"
       },
       {
         "subject": "Math",
@@ -28729,8 +28730,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Grammar: Emphatic Pronouns and Intensifiers",
         "summary": "Grade 10 English strand: emphatic pronouns like myself or himself add emphasis to a noun already mentioned, while intensifiers such as very or extremely strengthen the meaning of an adjective or adverb.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Grammar: Emphatic Pronouns and Intensifiers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Emphatic%20Pronouns%20and%20Intensifiers%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What is the purpose of an emphatic pronoun?",
@@ -28783,7 +28784,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=rmEjB3XKU_w"
       },
       {
         "subject": "Math",

@@ -29058,8 +29058,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Split Infinitives and Emphatic Pronouns",
         "summary": "Grade 7 Language strand: a split infinitive places a word between to and a verb, like to boldly go, while an emphatic pronoun, like myself or himself, adds emphasis to a noun or pronoun already mentioned.",
-        "resourceLabel": "TVO Learn: Grade 7 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "resourceLabel": "YouTube: Grammar: Split Infinitives and Emphatic Pronouns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Split%20Infinitives%20and%20Emphatic%20Pronouns%20grade%207%20educational",
         "quiz": [
           {
             "q": "What is a split infinitive?",
@@ -29112,14 +29112,25 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=Lt-X4n-hr-I",
+        "videoUrls": [
+          {
+            "label": "Split Infinitives",
+            "url": "https://www.youtube.com/watch?v=Lt-X4n-hr-I"
+          },
+          {
+            "label": "Emphatic Pronouns",
+            "url": "https://www.youtube.com/watch?v=rmEjB3XKU_w"
+          }
+        ]
       },
       {
         "subject": "Math",
         "title": "Measurement: Precision, Accuracy, and Significant Figures",
         "summary": "Grade 7 Math strand: accuracy describes how close a measurement is to the true value, precision describes how consistent repeated measurements are, and significant figures indicate the reliable digits in a measurement.",
-        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "resourceLabel": "YouTube: Measurement: Precision, Accuracy, and Significant Figures",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Precision%2C%20Accuracy%2C%20and%20Significant%20Figures%20grade%207%20educational",
         "quiz": [
           {
             "q": "What does accuracy describe in measurement?",
@@ -29172,7 +29183,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Measurement: Units"
+        "topic": "Measurement: Units",
+        "videoUrl": "https://www.youtube.com/watch?v=b38hFWvEjwI"
       },
       {
         "subject": "Science",
@@ -29230,6 +29242,21 @@ const curriculum: DayContent[] = [
               "Plankton"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=OpxGp2P48kI",
+        "videoUrls": [
+          {
+            "label": "Energy: Kinetic and Potential Energy",
+            "url": "https://www.youtube.com/watch?v=OpxGp2P48kI"
+          },
+          {
+            "label": "The Human Ear and How We Hear",
+            "url": "https://www.youtube.com/watch?v=mptjEoHF2aI"
+          },
+          {
+            "label": "Decomposers and Nutrient Cycling",
+            "url": "https://www.youtube.com/watch?v=uB61rfeeAsM"
           }
         ]
       },
