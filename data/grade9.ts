@@ -29038,7 +29038,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=78F35pZeX9c"
       },
       {
         "subject": "Math",
@@ -29098,7 +29099,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=z42G-SRvnfo"
       },
       {
         "subject": "Science",
@@ -29157,7 +29159,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=EAyzRmAKueE"
       },
       {
         "subject": "SocialStudies",
@@ -29217,7 +29220,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=xQ156y4TtJs",
+        "videoUrls": [
+          {
+            "label": "The History of Chocolate",
+            "url": "https://www.youtube.com/watch?v=ibjUpk9Iagk"
+          }
+        ]
       }
     ]
   },

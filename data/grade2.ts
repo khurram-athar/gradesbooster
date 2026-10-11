@@ -35833,7 +35833,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=7eepKYgO3RA"
       },
       {
         "subject": "Math",
@@ -35915,7 +35916,8 @@ const curriculum: DayContent[] = [
               "twenty"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=4Bteni4kfr0"
       },
       {
         "subject": "Science",
@@ -35974,7 +35976,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=nXjhakGU9dM"
       },
       {
         "subject": "SocialStudies",
@@ -36118,7 +36121,8 @@ const curriculum: DayContent[] = [
               "cause"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=IW8Mvn_DEt0"
       },
       {
         "subject": "Math",
@@ -36341,7 +36345,8 @@ const curriculum: DayContent[] = [
               "Ottawa"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=SdXHNiGg-Ss"
       }
     ]
   },

@@ -28667,7 +28667,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=ld4UD98yHio"
       },
       {
         "subject": "Biology",
@@ -28854,7 +28855,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading: Poetry"
+        "topic": "Reading: Poetry",
+        "videoUrl": "https://www.youtube.com/watch?v=ySS-IZMPjjc"
       },
       {
         "subject": "Functions",
@@ -28974,7 +28976,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=vwAJ8ByQH2U"
       },
       {
         "subject": "Chemistry",
@@ -29033,7 +29036,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=_UaS743_aEs"
       }
     ]
   },

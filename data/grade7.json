@@ -28861,7 +28861,8 @@
             "answer": 3
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=3V6pXZXqqUE"
       },
       {
         "subject": "Math",
@@ -28921,7 +28922,8 @@
             "answer": 0
           }
         ],
-        "topic": "Fractions"
+        "topic": "Fractions",
+        "videoUrl": "https://www.youtube.com/watch?v=2vjbNZaFz3c"
       },
       {
         "subject": "Science",
@@ -28981,7 +28983,8 @@
             "answer": 1
           }
         ],
-        "topic": "Evolution"
+        "topic": "Evolution",
+        "videoUrl": "https://www.youtube.com/watch?v=lFZ8NMBDCJw"
       },
       {
         "subject": "SocialStudies",
@@ -29040,7 +29043,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ioB4o_CXPvU"
       }
     ]
   },

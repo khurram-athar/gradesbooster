@@ -35842,7 +35842,8 @@
             ]
           }
         ],
-        "topic": "Time & Money"
+        "topic": "Time & Money",
+        "videoUrl": "https://www.youtube.com/watch?v=VL7P_7q0g_M"
       },
       {
         "subject": "Science",
@@ -35925,7 +35926,8 @@
             ]
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=5IKFC-wOFIM"
       },
       {
         "subject": "SocialStudies",
@@ -36073,7 +36075,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=OcPYiEfaM8g"
       },
       {
         "subject": "Math",
@@ -36155,7 +36158,8 @@
               "centimetres because it is short"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=zC4BSlBJAyk"
       },
       {
         "subject": "Science",
@@ -36238,7 +36242,8 @@
             ]
           }
         ],
-        "topic": "Human Body & Health"
+        "topic": "Human Body & Health",
+        "videoUrl": "https://www.youtube.com/watch?v=d_CUKWZ1r94"
       },
       {
         "subject": "SocialStudies",
@@ -36321,7 +36326,8 @@
             ]
           }
         ],
-        "topic": "Canadian Identity & Symbols"
+        "topic": "Canadian Identity & Symbols",
+        "videoUrl": "https://www.youtube.com/watch?v=BhO9RkR77AA"
       }
     ]
   },

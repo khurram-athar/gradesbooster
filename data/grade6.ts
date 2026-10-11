@@ -28932,7 +28932,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=rvkmVENzz7Q"
       },
       {
         "subject": "Math",
@@ -28992,7 +28993,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=9aDHbRb4Bf8"
       },
       {
         "subject": "Science",
@@ -29052,7 +29054,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Animal Adaptations & Behaviour"
+        "topic": "Animal Adaptations & Behaviour",
+        "videoUrl": "https://www.youtube.com/watch?v=fSIFU8OTwrg"
       },
       {
         "subject": "SocialStudies",
@@ -29112,7 +29115,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "New France & Early Canada"
+        "topic": "New France & Early Canada",
+        "videoUrl": "https://www.youtube.com/watch?v=8q4e89BmcIg"
       }
     ]
   },

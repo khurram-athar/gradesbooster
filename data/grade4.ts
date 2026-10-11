@@ -29910,7 +29910,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=U3bvtJ1hW0I"
       },
       {
         "subject": "Math",
@@ -29970,7 +29971,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Fractions"
+        "topic": "Fractions",
+        "videoUrl": "https://www.youtube.com/watch?v=nT887Rj27s0"
       },
       {
         "subject": "Science",
@@ -30030,7 +30032,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Human Body Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=aQkbB62X5X4"
       },
       {
         "subject": "SocialStudies",
@@ -30090,7 +30093,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Famous Canadians & History (Basic)"
+        "topic": "Famous Canadians & History (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=w2k1Nqwm6Cs"
       }
     ]
   },
@@ -30156,7 +30160,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=fiaPqgwJFo4"
       },
       {
         "subject": "Math",
@@ -30216,7 +30221,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=z4Lat1uOQI4"
       },
       {
         "subject": "Science",
@@ -30299,7 +30305,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=ZR0O1wodxyE"
       },
       {
         "subject": "SocialStudies",
@@ -30359,7 +30366,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=OrpFA3qfc0E"
       }
     ]
   },

@@ -28848,7 +28848,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading Comprehension"
+        "topic": "Reading Comprehension",
+        "videoUrl": "https://www.youtube.com/watch?v=Ax_4AciKXrg"
       },
       {
         "subject": "Math",
@@ -28908,7 +28909,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=AvJQGTdJpDA"
       },
       {
         "subject": "Science",
@@ -28968,7 +28970,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Animal Adaptations & Behaviour"
+        "topic": "Animal Adaptations & Behaviour",
+        "videoUrl": "https://www.youtube.com/watch?v=OhrhcsICrE8"
       },
       {
         "subject": "SocialStudies",
@@ -29028,7 +29031,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Canadian Institutions & Justice"
+        "topic": "Canadian Institutions & Justice",
+        "videoUrl": "https://www.youtube.com/watch?v=zUUi-J4c6_Y"
       }
     ]
   },
@@ -29154,7 +29158,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Measurement: Perimeter & Area"
+        "topic": "Measurement: Perimeter & Area",
+        "videoUrl": "https://www.youtube.com/watch?v=0ZxOTHlbgRM"
       },
       {
         "subject": "Science",
@@ -29214,7 +29219,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=fK6gBGeAaUI"
       },
       {
         "subject": "SocialStudies",
@@ -29274,7 +29280,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Canadian Identity & Symbols"
+        "topic": "Canadian Identity & Symbols",
+        "videoUrl": "https://www.youtube.com/watch?v=70WbeqNOJQs"
       }
     ]
   },

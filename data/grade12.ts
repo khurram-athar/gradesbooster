@@ -28484,7 +28484,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=PNzHrPebKOw"
       },
       {
         "subject": "Calculus",
@@ -28669,7 +28670,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=au-z2jVaTNk"
       },
       {
         "subject": "AdvancedFunctions",
@@ -28729,7 +28731,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=TN4ybFiuV3k"
       },
       {
         "subject": "Calculus",
@@ -28789,7 +28792,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Trigonometry"
+        "topic": "Trigonometry",
+        "videoUrl": "https://www.youtube.com/watch?v=sU2pyMR8GZ4"
       },
       {
         "subject": "Physics",
@@ -28848,7 +28852,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=sopRK8hXA24"
       }
     ]
   },

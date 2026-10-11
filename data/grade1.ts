@@ -35844,7 +35844,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Time & Money"
+        "topic": "Time & Money",
+        "videoUrl": "https://www.youtube.com/watch?v=VL7P_7q0g_M"
       },
       {
         "subject": "Science",
@@ -35927,7 +35928,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=5IKFC-wOFIM"
       },
       {
         "subject": "SocialStudies",
@@ -36075,7 +36077,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=OcPYiEfaM8g"
       },
       {
         "subject": "Math",
@@ -36157,7 +36160,8 @@ const curriculum: DayContent[] = [
               "centimetres because it is short"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=zC4BSlBJAyk"
       },
       {
         "subject": "Science",
@@ -36240,7 +36244,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Human Body & Health"
+        "topic": "Human Body & Health",
+        "videoUrl": "https://www.youtube.com/watch?v=d_CUKWZ1r94"
       },
       {
         "subject": "SocialStudies",
@@ -36323,7 +36328,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Canadian Identity & Symbols"
+        "topic": "Canadian Identity & Symbols",
+        "videoUrl": "https://www.youtube.com/watch?v=BhO9RkR77AA"
       }
     ]
   },

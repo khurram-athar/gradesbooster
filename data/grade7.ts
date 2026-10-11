@@ -28863,7 +28863,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=3V6pXZXqqUE"
       },
       {
         "subject": "Math",
@@ -28923,7 +28924,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Fractions"
+        "topic": "Fractions",
+        "videoUrl": "https://www.youtube.com/watch?v=2vjbNZaFz3c"
       },
       {
         "subject": "Science",
@@ -28983,7 +28985,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Evolution"
+        "topic": "Evolution",
+        "videoUrl": "https://www.youtube.com/watch?v=lFZ8NMBDCJw"
       },
       {
         "subject": "SocialStudies",
@@ -29042,7 +29045,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ioB4o_CXPvU"
       }
     ]
   },

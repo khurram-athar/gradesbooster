@@ -28482,7 +28482,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=PNzHrPebKOw"
       },
       {
         "subject": "Calculus",
@@ -28667,7 +28668,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=au-z2jVaTNk"
       },
       {
         "subject": "AdvancedFunctions",
@@ -28727,7 +28729,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=TN4ybFiuV3k"
       },
       {
         "subject": "Calculus",
@@ -28787,7 +28790,8 @@
             "answer": 3
           }
         ],
-        "topic": "Trigonometry"
+        "topic": "Trigonometry",
+        "videoUrl": "https://www.youtube.com/watch?v=sU2pyMR8GZ4"
       },
       {
         "subject": "Physics",
@@ -28846,7 +28850,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=sopRK8hXA24"
       }
     ]
   },

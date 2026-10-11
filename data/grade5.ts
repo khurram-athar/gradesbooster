@@ -29598,7 +29598,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=TVptfuj6_yk"
       },
       {
         "subject": "Math",
@@ -29658,7 +29659,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=uc9hWu73Phw"
       },
       {
         "subject": "Science",
@@ -29718,7 +29720,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Human Body & Health"
+        "topic": "Human Body & Health",
+        "videoUrl": "https://www.youtube.com/watch?v=GHS27DHyIi0"
       },
       {
         "subject": "SocialStudies",
@@ -29777,7 +29780,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=TbvEaXP2plw"
       }
     ]
   },
@@ -29842,7 +29846,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=yi6Im-Sb6Vw"
       },
       {
         "subject": "Math",
@@ -29902,7 +29907,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=SzlGPN3eZcA"
       },
       {
         "subject": "Science",
@@ -29962,7 +29968,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Human Body & Health"
+        "topic": "Human Body & Health",
+        "videoUrl": "https://www.youtube.com/watch?v=RqHiY74AoxY"
       },
       {
         "subject": "SocialStudies",
@@ -30045,7 +30052,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Natural Resources & Industry",
+        "videoUrl": "https://www.youtube.com/watch?v=A-jT8UMoEkM"
       }
     ]
   },

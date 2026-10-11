@@ -28884,7 +28884,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=N2FPDCPnkGo"
       },
       {
         "subject": "Math",
@@ -28944,7 +28945,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=NAblGVxxJZo"
       },
       {
         "subject": "Science",
@@ -29004,7 +29006,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ShEzlXZPpPM"
       },
       {
         "subject": "History",
@@ -29064,7 +29067,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Culture, Diversity & Multiculturalism"
+        "topic": "Culture, Diversity & Multiculturalism",
+        "videoUrl": "https://www.youtube.com/watch?v=QElDzyxM_44"
       }
     ]
   },

@@ -28843,7 +28843,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=CxEFOozrMSE"
       },
       {
         "subject": "Science",
@@ -28902,7 +28903,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=UHK-fbdbwF8"
       },
       {
         "subject": "History",
@@ -28961,7 +28963,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=N87z5Ndv2o4"
       }
     ]
   },
