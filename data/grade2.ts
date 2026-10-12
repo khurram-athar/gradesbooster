@@ -36495,7 +36495,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Place Value & Number Sense",
+        "videoUrl": "https://www.youtube.com/watch?v=omkDLmfvetk"
       },
       {
         "subject": "Science",
@@ -36555,7 +36556,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=ZiULxLLP32s"
       },
       {
         "subject": "SocialStudies",
@@ -36615,7 +36617,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Celebrations & Traditions (Basic)"
+        "topic": "Celebrations & Traditions (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=9_xguJ9X8gs"
       }
     ]
   },

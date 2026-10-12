@@ -29294,8 +29294,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Oral Communication: Preparing and Giving a Short Speech",
         "summary": "Grade 3 Language strand: giving a short speech involves choosing a clear topic, organizing ideas with a beginning, middle, and end, and speaking clearly to an audience.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Oral Communication: Preparing and Giving a Short Speech",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Preparing%20and%20Giving%20a%20Short%20Speech%20grade%203%20educational",
         "quiz": [
           {
             "q": "What is the first step in preparing a speech?",
@@ -29348,14 +29348,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Oral Communication & Presentation"
+        "topic": "Oral Communication & Presentation",
+        "videoUrl": "https://www.youtube.com/watch?v=swIWHuIpubI"
       },
       {
         "subject": "Math",
         "title": "Number: Rounding to the Nearest 100",
         "summary": "Grade 3 Math strand: to round a number to the nearest hundred, look at the tens digit -- if it is 5 or more, round up; if it is less than 5, round down.",
-        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "resourceLabel": "YouTube: Number: Rounding to the Nearest 100",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%3A%20Rounding%20to%20the%20Nearest%20100%20grade%203%20educational",
         "quiz": [
           {
             "q": "Which digit do you check to round to the nearest hundred?",
@@ -29408,14 +29409,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Place Value & Number Sense",
+        "videoUrl": "https://www.youtube.com/watch?v=CVXVsueBs5c"
       },
       {
         "subject": "Science",
         "title": "Science: Lightning and Thunder — Electricity in the Sky",
         "summary": "Grade 3 Science strand: lightning is a giant spark of electricity in the sky during a storm, and thunder is the sound caused by the rapid heating of air around the lightning.",
-        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "resourceLabel": "YouTube: Science: Lightning and Thunder — Electricity in the Sky",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Lightning%20and%20Thunder%20%E2%80%94%20Electricity%20in%20the%20Sky%20grade%203%20educational",
         "quiz": [
           {
             "q": "What is lightning?",
@@ -29468,14 +29470,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Electricity & Magnetism"
+        "topic": "Electricity & Magnetism",
+        "videoUrl": "https://www.youtube.com/watch?v=fEiVi9TB_RQ"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: Canada Day — Celebrating Our Country",
         "summary": "Grade 3 Social Studies strand: Canada Day, celebrated every July 1st, marks the anniversary of Confederation and is celebrated across the country with fireworks, festivals, and community events.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Social Studies: Canada Day — Celebrating Our Country",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%20Day%20%E2%80%94%20Celebrating%20Our%20Country%20grade%203%20educational",
         "quiz": [
           {
             "q": "On what date is Canada Day celebrated?",
@@ -29528,7 +29531,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Canadian Identity & Symbols"
+        "topic": "Canadian Identity & Symbols",
+        "videoUrl": "https://www.youtube.com/watch?v=6phjeZ88oX0"
       }
     ]
   },

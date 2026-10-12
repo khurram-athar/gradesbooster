@@ -30123,8 +30123,8 @@
         "subject": "Math",
         "title": "Algebra: Writing Expressions from Word Problems",
         "summary": "Grade 5 Math strand: students translate word problems into algebraic expressions by identifying the unknown quantity and representing the relationships with numbers, variables, and operations.",
-        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "resourceLabel": "YouTube: Algebra: Writing Expressions from Word Problems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Writing%20Expressions%20from%20Word%20Problems%20grade%205%20educational",
         "quiz": [
           {
             "q": "What is the first step in writing an algebraic expression from a word problem?",
@@ -30177,7 +30177,8 @@
             "answer": 0
           }
         ],
-        "topic": "Problem Solving Strategies"
+        "topic": "Problem Solving Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=o_Ubm7OI8t4"
       },
       {
         "subject": "Science",
@@ -30237,7 +30238,8 @@
             "answer": 1
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Human Body Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=j918PoWWaB0"
       },
       {
         "subject": "SocialStudies",
@@ -30297,7 +30299,8 @@
             "answer": 0
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=gp91Ybvs-Uw"
       }
     ]
   },

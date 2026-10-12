@@ -28918,7 +28918,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=yCfHmFuf8q4"
       },
       {
         "subject": "AdvancedFunctions",
@@ -28978,7 +28979,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=l0uMgu9uHJ4"
       },
       {
         "subject": "Calculus",
@@ -29038,14 +29040,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Probability"
+        "topic": "Probability",
+        "videoUrl": "https://www.youtube.com/watch?v=WWv0RUxDfbs"
       },
       {
         "subject": "Physics",
         "title": "The Motor Effect: Force on a Current-Carrying Wire in a Magnetic Field",
         "summary": "Calculate the force on a current-carrying wire in a magnetic field (the motor effect) using F = BIL sinθ, and determine the force's direction with the right-hand rule.",
         "resourceLabel": "YouTube: The Motor Effect: Force on a Current-Carrying Wire in a Magnetic Field",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Motor%20Effect%3A%20Force%20on%20a%20Current-Carrying%20Wire%20in%20a%20Magnetic%20Field%20grade%2012%20physics%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Motor%20Effect%3A%20Force%20on%20a%20Current-Carrying%20Wire%20in%20a%20Magnetic%20Field%20grade%2012%20educational",
         "quiz": [
           {
             "q": "A 0.50 m wire carries a current of 4.0 A perpendicular to a magnetic field of 0.20 T. What is the magnitude of the force on the wire?",
@@ -29097,7 +29100,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=HTTA30sEv6o"
       }
     ]
   },
@@ -29109,8 +29113,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Literary Theory: Biographical Criticism — Reading the Author into the Text",
         "summary": "Grade 12 English strand: biographical criticism interprets a literary work by examining connections between the text and the authors life experiences, beliefs, and historical circumstances, while remaining cautious about reducing a text entirely to biography.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Literary Theory: Biographical Criticism — Reading the Author into the Text",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literary%20Theory%3A%20Biographical%20Criticism%20%E2%80%94%20Reading%20the%20Author%20into%20the%20Text%20grade%2012%20educational",
         "quiz": [
           {
             "q": "What does biographical criticism examine when interpreting a text?",
@@ -29162,7 +29166,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=b9SYaUt4yCY"
       },
       {
         "subject": "AdvancedFunctions",
@@ -29222,7 +29227,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Y1zWa4IVO9c"
       },
       {
         "subject": "Calculus",
@@ -29282,14 +29288,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Vectors: Force Addition"
+        "topic": "Vectors: Force Addition",
+        "videoUrl": "https://www.youtube.com/watch?v=CpuYFUXe-gg"
       },
       {
         "subject": "Physics",
         "title": "Magnetic Flux and Faraday's Law of Electromagnetic Induction",
         "summary": "Calculate magnetic flux through a loop and apply Faraday's and Lenz's laws to find induced EMF and the direction of the induced current.",
         "resourceLabel": "YouTube: Magnetic Flux and Faraday's Law of Electromagnetic Induction",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Magnetic%20Flux%20and%20Faraday%27s%20Law%20of%20Electromagnetic%20Induction%20grade%2012%20physics%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Magnetic%20Flux%20and%20Faraday%27s%20Law%20of%20Electromagnetic%20Induction%20grade%2012%20educational",
         "quiz": [
           {
             "q": "A coil with area 0.020 m² sits in a 0.50 T magnetic field, with the field perpendicular to the coil's plane. What is the magnetic flux through the coil?",
@@ -29341,7 +29348,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=0o7K-4LipbM"
       }
     ]
   },

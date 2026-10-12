@@ -29317,7 +29317,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=vcV9oi0fhwM"
       }
     ]
   },
@@ -29329,8 +29330,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Analyzing Foil Characters in Literature",
         "summary": "Grade 7 Language strand: a foil character has traits that contrast sharply with a main character, and this contrast helps highlight and clarify the main characters own qualities.",
-        "resourceLabel": "TVO Learn: Grade 7 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "resourceLabel": "YouTube: Reading: Analyzing Foil Characters in Literature",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Foil%20Characters%20in%20Literature%20grade%207%20educational",
         "quiz": [
           {
             "q": "What is a foil character?",
@@ -29383,14 +29384,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=9QcZGDVRLgE"
       },
       {
         "subject": "Math",
         "title": "Algebra: Solving Multi-Variable Word Problems",
         "summary": "Grade 7 Math strand: multi-variable word problems involve translating real-world situations with more than one unknown quantity into equations, then solving step by step to find each value.",
-        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "resourceLabel": "YouTube: Algebra: Solving Multi-Variable Word Problems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Multi-Variable%20Word%20Problems%20grade%207%20educational",
         "quiz": [
           {
             "q": "What makes a word problem multi-variable?",
@@ -29443,14 +29445,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Problem Solving Strategies"
+        "topic": "Problem Solving Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=zS6iXOZFkG4"
       },
       {
         "subject": "Science",
         "title": "Renewable Energy: Hydroelectric Power",
         "summary": "Grade 7 Science strand: hydroelectric power generates electricity by using the energy of flowing or falling water to spin turbines, making it a major renewable energy source in Canada.",
-        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "resourceLabel": "YouTube: Renewable Energy: Hydroelectric Power",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Renewable%20Energy%3A%20Hydroelectric%20Power%20grade%207%20educational",
         "quiz": [
           {
             "q": "What does hydroelectric power use to generate electricity?",
@@ -29503,14 +29506,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=e0He1V6KT84"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The Alaska Boundary Dispute",
         "summary": "Grade 7 Social Studies strand: the Alaska Boundary Dispute was an early 20th-century disagreement between Canada and the United States over the border of the Alaska Panhandle, settled by a tribunal in 1903 in a decision many Canadians saw as unfair.",
-        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "resourceLabel": "YouTube: Social Studies: The Alaska Boundary Dispute",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Alaska%20Boundary%20Dispute%20grade%207%20educational",
         "quiz": [
           {
             "q": "What was the Alaska Boundary Dispute about?",
@@ -29562,7 +29566,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=DL_FFSJY8Fs"
       }
     ]
   },

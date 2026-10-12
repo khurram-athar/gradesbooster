@@ -29374,8 +29374,8 @@
         "subject": "Language",
         "title": "Reading: Using Graphic Organizers to Plan Writing",
         "summary": "Grade 6 Language strand: graphic organizers, like webs, charts, and outlines, help writers visually plan and organize their ideas before drafting a piece of writing.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Reading: Using Graphic Organizers to Plan Writing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Using%20Graphic%20Organizers%20to%20Plan%20Writing%20grade%206%20educational",
         "quiz": [
           {
             "q": "What is a graphic organizer?",
@@ -29428,14 +29428,15 @@
             "answer": 3
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=U3GF5Lv3Zu8"
       },
       {
         "subject": "Math",
         "title": "Financial Literacy: How Credit Cards and Interest Work",
         "summary": "Grade 6 Math strand: a credit card allows a person to borrow money to make purchases, but if the balance is not paid off, interest is charged on the amount owed.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "resourceLabel": "YouTube: Financial Literacy: How Credit Cards and Interest Work",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20How%20Credit%20Cards%20and%20Interest%20Work%20grade%206%20educational",
         "quiz": [
           {
             "q": "What does a credit card allow a person to do?",
@@ -29488,14 +29489,15 @@
             "answer": 0
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=8k4lmSUvS9A"
       },
       {
         "subject": "Science",
         "title": "Sleep — Why Our Bodies and Brains Need Rest",
         "summary": "Grade 6 Science strand: sleep allows the brain and body to rest, repair, and consolidate memories, and getting enough quality sleep is essential for health and learning.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: Sleep — Why Our Bodies and Brains Need Rest",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sleep%20%E2%80%94%20Why%20Our%20Bodies%20and%20Brains%20Need%20Rest%20grade%206%20educational",
         "quiz": [
           {
             "q": "What does sleep allow the body and brain to do?",
@@ -29547,7 +29549,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dOlUOkzCbOw"
       },
       {
         "subject": "SocialStudies",

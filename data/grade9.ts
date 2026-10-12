@@ -29239,8 +29239,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: The Four Sentence Types",
         "summary": "Grade 9 Language strand: English sentences fall into four types based on structure — simple, compound, complex, and compound-complex — each combining independent and dependent clauses differently.",
-        "resourceLabel": "TVO Learn: Grade 9 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "resourceLabel": "YouTube: Grammar: The Four Sentence Types",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20The%20Four%20Sentence%20Types%20grade%209%20educational",
         "quiz": [
           {
             "q": "What are the four sentence types based on structure?",
@@ -29293,7 +29293,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=8M2-3PG9_Mk"
       },
       {
         "subject": "Math",
@@ -29353,14 +29354,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=wh6bK-VGln8"
       },
       {
         "subject": "Science",
         "title": "Forensic Science: Applying the Scientific Method to Investigation",
         "summary": "Grade 9 Science strand: forensic science applies scientific methods, such as analyzing physical evidence and following controlled procedures, to investigate crimes and answer questions in a legal context.",
-        "resourceLabel": "TVO Learn: Grade 9 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "resourceLabel": "YouTube: Forensic Science: Applying the Scientific Method to Investigation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Forensic%20Science%3A%20Applying%20the%20Scientific%20Method%20to%20Investigation%20grade%209%20educational",
         "quiz": [
           {
             "q": "What does forensic science apply to investigations?",
@@ -29413,14 +29415,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Scientific Inquiry & Skills"
+        "topic": "Scientific Inquiry & Skills",
+        "videoUrl": "https://www.youtube.com/watch?v=h3-Pj-zbEq8"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The Geography of Urban Parks and Green Space",
         "summary": "Grade 9 Social Studies (Geography) strand: urban parks and green spaces provide environmental, health, and social benefits to cities, and their distribution often reflects broader patterns of urban planning and inequality.",
-        "resourceLabel": "TVO Learn: Grade 9 Geography",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "resourceLabel": "YouTube: Social Studies: The Geography of Urban Parks and Green Space",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Geography%20of%20Urban%20Parks%20and%20Green%20Space%20grade%209%20educational",
         "quiz": [
           {
             "q": "What are some benefits of urban parks and green spaces?",
@@ -29473,7 +29476,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Population & Urbanization"
+        "topic": "Population & Urbanization",
+        "videoUrl": "https://www.youtube.com/watch?v=6HhIaSdX1Nw"
       }
     ]
   },
@@ -29485,8 +29489,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Analyzing Anti-Heroes in Literature",
         "summary": "Grade 9 Language strand: an anti-hero is a main character who lacks traditional heroic qualities, such as moral clarity or bravery, yet still drives the story forward and often earns the readers sympathy.",
-        "resourceLabel": "TVO Learn: Grade 9 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "resourceLabel": "YouTube: Reading: Analyzing Anti-Heroes in Literature",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Anti-Heroes%20in%20Literature%20grade%209%20educational",
         "quiz": [
           {
             "q": "What is an anti-hero?",
@@ -29539,14 +29543,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=iI75W7M4Puw"
       },
       {
         "subject": "Math",
         "title": "Number Patterns: The Fibonacci Sequence and the Golden Ratio",
         "summary": "Grade 9 Math strand: the Fibonacci sequence is formed by adding the two previous numbers to get the next, and the ratio between consecutive terms approaches the golden ratio, a number that appears throughout nature and art.",
-        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "resourceLabel": "YouTube: Number Patterns: The Fibonacci Sequence and the Golden Ratio",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Patterns%3A%20The%20Fibonacci%20Sequence%20and%20the%20Golden%20Ratio%20grade%209%20educational",
         "quiz": [
           {
             "q": "How is each new number in the Fibonacci sequence generated?",
@@ -29599,7 +29604,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=2tv6Ej6JVho"
       },
       {
         "subject": "Science",
@@ -29659,14 +29665,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=D3ZB2RTylR4"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The Geography of Global Shipping Ports and Freight",
         "summary": "Grade 9 Social Studies (Geography) strand: major shipping ports are strategically located to connect global trade routes, moving the vast majority of the worlds freight and shaping the economic geography of coastal regions.",
-        "resourceLabel": "TVO Learn: Grade 9 Geography",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "resourceLabel": "YouTube: Social Studies: The Geography of Global Shipping Ports and Freight",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Geography%20of%20Global%20Shipping%20Ports%20and%20Freight%20grade%209%20educational",
         "quiz": [
           {
             "q": "What role do major shipping ports play in global trade?",
@@ -29719,7 +29726,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "World Geography & Cultures"
+        "topic": "World Geography & Cultures",
+        "videoUrl": "https://www.youtube.com/watch?v=8d5d_HXGeMA"
       }
     ]
   },

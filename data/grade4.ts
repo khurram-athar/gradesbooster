@@ -30432,7 +30432,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=GiU1Ni23OUs"
       },
       {
         "subject": "Math",
@@ -30492,7 +30493,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=YIb-JyLLxwQ"
       },
       {
         "subject": "Science",
@@ -30552,14 +30554,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Evolution"
+        "topic": "Evolution",
+        "videoUrl": "https://www.youtube.com/watch?v=JhKiGhBksbs"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The Franklin Expedition — Arctic Exploration History",
         "summary": "Grade 4 Social Studies strand: the Franklin Expedition was a 19th-century voyage that attempted to navigate the Arctic and became a famous mystery when the ships were lost.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "resourceLabel": "YouTube: Social Studies: The Franklin Expedition — Arctic Exploration History",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Franklin%20Expedition%20%E2%80%94%20Arctic%20Exploration%20History%20grade%204%20educational",
         "quiz": [
           {
             "q": "What was the Franklin Expedition trying to do?",
@@ -30612,7 +30615,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "New France & Early Canada"
+        "topic": "New France & Early Canada",
+        "videoUrl": "https://www.youtube.com/watch?v=ibSxwM9EJqA"
       }
     ]
   },

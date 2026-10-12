@@ -28976,8 +28976,8 @@
         "subject": "English",
         "title": "Reading: Analyzing Foil Characters",
         "summary": "Grade 10 English strand: a foil character has traits that contrast sharply with a main character, and this contrast helps highlight and clarify the main characters own qualities and choices.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Reading: Analyzing Foil Characters",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Foil%20Characters%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What is a foil character?",
@@ -29030,7 +29030,8 @@
             "answer": 1
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=9QcZGDVRLgE"
       },
       {
         "subject": "Math",
@@ -29090,14 +29091,15 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=pNDUHJvB-8s"
       },
       {
         "subject": "Science",
         "title": "The Physics of Roller Coasters: Energy Transformations",
         "summary": "Grade 10 Science strand: roller coasters convert gravitational potential energy at the top of hills into kinetic energy as cars accelerate downward, illustrating the conservation and transformation of mechanical energy.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: The Physics of Roller Coasters: Energy Transformations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Physics%20of%20Roller%20Coasters%3A%20Energy%20Transformations%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What type of energy does a roller coaster car have at the top of a hill?",
@@ -29150,14 +29152,15 @@
             "answer": 0
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=J8pJiV44hVM"
       },
       {
         "subject": "History",
         "title": "The Alaska Boundary Dispute of 1903",
         "summary": "Grade 10 History strand: the Alaska Boundary Dispute was an early 20th-century disagreement between Canada and the United States over the border of the Alaska Panhandle, settled by a tribunal in a decision many Canadians saw as unfair.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: The Alaska Boundary Dispute of 1903",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Alaska%20Boundary%20Dispute%20of%201903%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What was the Alaska Boundary Dispute about?",
@@ -29209,7 +29212,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=DL_FFSJY8Fs"
       }
     ]
   },
@@ -29221,8 +29225,8 @@
         "subject": "English",
         "title": "Writing: Writing a Monologue",
         "summary": "Grade 10 English strand: a monologue is an extended speech by a single character revealing their thoughts, motivations, or emotions, requiring a consistent and believable voice throughout.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Writing: Writing a Monologue",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20a%20Monologue%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What is a monologue?",
@@ -29275,7 +29279,8 @@
             "answer": 3
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=_A3ewMq8Ubc"
       },
       {
         "subject": "Math",
@@ -29335,14 +29340,15 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=z-aP8HQA-dk"
       },
       {
         "subject": "Science",
         "title": "Bird Migration and Animal Navigation",
         "summary": "Grade 10 Science strand: many animals, especially migratory birds, travel long distances using cues like the position of the sun and stars, Earths magnetic field, and landmarks to navigate accurately.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Bird Migration and Animal Navigation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Bird%20Migration%20and%20Animal%20Navigation%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What is bird migration?",
@@ -29395,14 +29401,15 @@
             "answer": 2
           }
         ],
-        "topic": "Animal Adaptations & Behaviour"
+        "topic": "Animal Adaptations & Behaviour",
+        "videoUrl": "https://www.youtube.com/watch?v=Q-mMMpl_T80"
       },
       {
         "subject": "History",
         "title": "The Sixties Scoop",
         "summary": "Grade 10 History strand: the Sixties Scoop refers to the mass removal of Indigenous children from their families and placement into non-Indigenous foster or adoptive homes from the 1960s through the 1980s, causing lasting harm to Indigenous communities.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: The Sixties Scoop",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Sixties%20Scoop%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What was the Sixties Scoop?",
@@ -29454,7 +29461,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=_nmd6HXKXYU"
       }
     ]
   },

@@ -29080,8 +29080,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Understanding Ellipsis and Omission in Writing",
         "summary": "Grade 8 Language strand: an ellipsis (...) shows an omission of words from a quotation or indicates a trailing off or pause in thought, and using it correctly helps writers condense or shape meaning without distorting the original text.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: Grammar: Understanding Ellipsis and Omission in Writing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Understanding%20Ellipsis%20and%20Omission%20in%20Writing%20grade%208%20educational",
         "quiz": [
           {
             "q": "What does an ellipsis indicate when used in a direct quotation?",
@@ -29134,7 +29134,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=JmRMfFVw6NE"
       },
       {
         "subject": "Math",
@@ -29194,14 +29195,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Iqws-qzyZwc"
       },
       {
         "subject": "Science",
         "title": "Bird Migration and Animal Navigation",
         "summary": "Grade 8 Science strand: many animals, especially migratory birds, travel long distances using cues like the position of the sun and stars, Earths magnetic field, and landmarks to navigate accurately.",
-        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "resourceLabel": "YouTube: Bird Migration and Animal Navigation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Bird%20Migration%20and%20Animal%20Navigation%20grade%208%20educational",
         "quiz": [
           {
             "q": "What is bird migration?",
@@ -29254,14 +29256,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Animal Adaptations & Behaviour"
+        "topic": "Animal Adaptations & Behaviour",
+        "videoUrl": "https://www.youtube.com/watch?v=Q-mMMpl_T80"
       },
       {
         "subject": "History",
         "title": "The Manitoba Schools Question",
         "summary": "Grade 8 History strand: the Manitoba Schools Question was a major late 19th-century political and legal conflict over funding for French-language Catholic schools in Manitoba, highlighting tensions between English and French Canada.",
-        "resourceLabel": "TVO Learn: Grade 8 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "resourceLabel": "YouTube: The Manitoba Schools Question",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Manitoba%20Schools%20Question%20grade%208%20educational",
         "quiz": [
           {
             "q": "What was the Manitoba Schools Question mainly about?",
@@ -29313,7 +29316,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=x177UZwjesg"
       }
     ]
   },
@@ -29325,8 +29329,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Analyzing Hyperbole, Understatement, and Paradox",
         "summary": "Grade 8 Language strand: hyperbole exaggerates for effect, understatement deliberately downplays something significant, and a paradox presents a statement that seems contradictory but reveals a deeper truth.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: Reading: Analyzing Hyperbole, Understatement, and Paradox",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Hyperbole%2C%20Understatement%2C%20and%20Paradox%20grade%208%20educational",
         "quiz": [
           {
             "q": "What is hyperbole?",
@@ -29379,7 +29383,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=3K9lfdKQ4CM"
       },
       {
         "subject": "Math",
@@ -29439,14 +29444,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=MS-kHpiXqVk"
       },
       {
         "subject": "Science",
         "title": "Desert Ecosystems and Adaptations",
         "summary": "Grade 8 Science strand: desert ecosystems receive very little precipitation, and the plants and animals that live there have special adaptations, such as water storage and nocturnal behaviour, to survive extreme conditions.",
-        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "resourceLabel": "YouTube: Desert Ecosystems and Adaptations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Desert%20Ecosystems%20and%20Adaptations%20grade%208%20educational",
         "quiz": [
           {
             "q": "What defines a desert ecosystem?",
@@ -29499,7 +29505,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=n4crvs-KTBw"
       },
       {
         "subject": "History",
@@ -29559,7 +29566,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Confederation & Government Formation"
+        "topic": "Confederation & Government Formation",
+        "videoUrl": "https://www.youtube.com/watch?v=jTC5yjq8xgk"
       }
     ]
   },

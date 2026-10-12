@@ -29049,8 +29049,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Media Literacy: Analyzing Native Advertising and Sponsored Content",
         "summary": "Grade 11 English strand: native advertising and sponsored content are designed to blend in with regular articles or posts, so critical readers must learn to identify when content is actually paid promotion rather than independent journalism.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Media Literacy: Analyzing Native Advertising and Sponsored Content",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Analyzing%20Native%20Advertising%20and%20Sponsored%20Content%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What is native advertising?",
@@ -29103,14 +29103,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=cmRcoJZRXEY"
       },
       {
         "subject": "Functions",
         "title": "Geometry: Vector Equations of Planes in Three Dimensions",
         "summary": "Grade 11 Functions strand: a plane in three dimensions can be described using a vector equation involving a point on the plane and two direction vectors that lie within it, extending the earlier study of vector equations of lines.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "resourceLabel": "YouTube: Geometry: Vector Equations of Planes in Three Dimensions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Vector%20Equations%20of%20Planes%20in%20Three%20Dimensions%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What is needed to write the vector equation of a plane?",
@@ -29163,7 +29164,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Equations & Inequalities",
+        "videoUrl": "https://www.youtube.com/watch?v=HjJ140TYbXQ"
       },
       {
         "subject": "Biology",
@@ -29223,14 +29225,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=GqNWj0vWvs8"
       },
       {
         "subject": "Chemistry",
         "title": "Chemistry: Electrolytes and the Chemistry of Sports Drinks",
         "summary": "Grade 11 Chemistry strand: electrolytes are ions like sodium, potassium, and chloride that conduct electrical signals in the body, and sports drinks are formulated to replace electrolytes and fluids lost through sweating during exercise.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "resourceLabel": "YouTube: Chemistry: Electrolytes and the Chemistry of Sports Drinks",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Electrolytes%20and%20the%20Chemistry%20of%20Sports%20Drinks%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What is an electrolyte?",
@@ -29282,7 +29285,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=bA4sxRHlT-I"
       }
     ]
   },
@@ -29294,8 +29298,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Reading: Analyzing Extended Metaphor and Conceit",
         "summary": "Grade 11 English strand: an extended metaphor develops a single comparison across an entire passage, while a conceit is an especially elaborate or surprising extended metaphor, often connecting two very different ideas in an intellectually striking way.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Reading: Analyzing Extended Metaphor and Conceit",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Extended%20Metaphor%20and%20Conceit%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What is an extended metaphor?",
@@ -29348,7 +29352,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Literary Devices & Analysis"
+        "topic": "Literary Devices & Analysis",
+        "videoUrl": "https://www.youtube.com/watch?v=kZ2pREzCVG0"
       },
       {
         "subject": "Functions",
@@ -29407,7 +29412,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=j3VLbjsWdHo"
       },
       {
         "subject": "Biology",
@@ -29467,14 +29473,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=N7mLxvNTSog"
       },
       {
         "subject": "Chemistry",
         "title": "Chemistry: The Chemistry of Perfumes and Fragrances",
         "summary": "Grade 11 Chemistry strand: perfumes are complex mixtures of volatile organic compounds, including esters and essential oils, carefully blended and diluted in a solvent to create layered scents that evaporate at different rates.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "resourceLabel": "YouTube: Chemistry: The Chemistry of Perfumes and Fragrances",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20The%20Chemistry%20of%20Perfumes%20and%20Fragrances%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What are perfumes chemically composed of?",
@@ -29526,7 +29533,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ndG-1kGD8k0"
       }
     ]
   },

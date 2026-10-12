@@ -36418,7 +36418,8 @@ const curriculum: DayContent[] = [
               "how I felt"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=fTJSl6bw3qk"
       },
       {
         "subject": "Math",
@@ -36501,7 +36502,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=MTSlKifo4js"
       },
       {
         "subject": "Science",
@@ -36585,7 +36587,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Forces & Motion"
+        "topic": "Forces & Motion",
+        "videoUrl": "https://www.youtube.com/watch?v=ymvSy5vniCM"
       },
       {
         "subject": "SocialStudies",
@@ -36645,7 +36648,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=jDBianNb4c4"
       }
     ]
   },

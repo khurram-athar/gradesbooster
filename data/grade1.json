@@ -36416,7 +36416,8 @@
               "how I felt"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=fTJSl6bw3qk"
       },
       {
         "subject": "Math",
@@ -36499,7 +36500,8 @@
             ]
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=MTSlKifo4js"
       },
       {
         "subject": "Science",
@@ -36583,7 +36585,8 @@
             ]
           }
         ],
-        "topic": "Forces & Motion"
+        "topic": "Forces & Motion",
+        "videoUrl": "https://www.youtube.com/watch?v=ymvSy5vniCM"
       },
       {
         "subject": "SocialStudies",
@@ -36643,7 +36646,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=jDBianNb4c4"
       }
     ]
   },
