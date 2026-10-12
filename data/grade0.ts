@@ -33844,6 +33844,7 @@ const curriculum: DayContent[] = [
         "summary": "Students notice how some poems repeat the same words or lines again and again, listening for these patterns as they read or hear poems aloud.",
         "resourceLabel": "YouTube: Poetry: Repeating Words and Patterns",
         "resourceUrl": "https://www.youtube.com/results?search_query=Poetry%3A%20Repeating%20Words%20and%20Patterns%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cXVTUh9Pp_0",
         "topic": "Reading: Poetry",
         "quiz": [
           {
@@ -33904,6 +33905,7 @@ const curriculum: DayContent[] = [
         "summary": "Children sort a mixed group of objects into piles based only on their colour, describing the rule they used to sort.",
         "resourceLabel": "YouTube: Sorting Objects by Colour",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%20Objects%20by%20Colour%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=O3g12WeHUp0",
         "topic": "Sorting & Classifying",
         "quiz": [
           {
@@ -33964,6 +33966,7 @@ const curriculum: DayContent[] = [
         "summary": "Children explore how a shadow forms when something blocks light, experimenting with how their own shadow changes size and shape depending on where the light comes from.",
         "resourceLabel": "YouTube: Shadows: How Light Makes Shapes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Shadows%3A%20How%20Light%20Makes%20Shapes%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LScT5G3uJIc",
         "topic": "Light & Sound",
         "quiz": [
           {
@@ -34024,6 +34027,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson introduces children to musical instruments played in different cultures around the world, celebrating the diversity of music.",
         "resourceLabel": "YouTube: Musical Instruments From Around the World",
         "resourceUrl": "https://www.youtube.com/results?search_query=Musical%20Instruments%20From%20Around%20the%20World%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=a8lZQnQZg_A",
         "topic": "World Geography & Cultures",
         "quiz": [
           {

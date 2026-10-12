@@ -30750,6 +30750,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: solar energy is power that comes from sunlight, which can be captured by solar panels to make electricity.",
         "resourceLabel": "YouTube: Solar Energy: Power from the Sun",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solar%20Energy%3A%20Power%20from%20the%20Sun%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2O0JaROLuUY",
         "quiz": [
           {
             "q": "Where does solar energy come from?",
@@ -30833,6 +30834,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: Terry Fox was a young Canadian who ran partway across Canada to raise money for cancer research, inspiring an annual tradition that continues today.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=70WbeqNOJQs",
         "quiz": [
           {
             "q": "What did Terry Fox do to raise money for cancer research?",
