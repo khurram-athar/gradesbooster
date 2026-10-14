@@ -29415,7 +29415,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=x2SbwMPMTX4"
       },
       {
         "subject": "AdvancedFunctions",
@@ -29475,7 +29476,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Sequences & Series"
+        "topic": "Sequences & Series",
+        "videoUrl": "https://www.youtube.com/watch?v=pxfNOyZrXB8"
       },
       {
         "subject": "Calculus",
@@ -29535,7 +29537,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Calculus: Derivatives"
+        "topic": "Calculus: Derivatives",
+        "videoUrl": "https://www.youtube.com/watch?v=bRZmfc1YFsQ"
       },
       {
         "subject": "Physics",
@@ -29594,7 +29597,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=krkUrF0bpDk"
       }
     ]
   },

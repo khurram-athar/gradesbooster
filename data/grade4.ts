@@ -30682,7 +30682,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Writing: Persuasive/Opinion"
+        "topic": "Writing: Persuasive/Opinion",
+        "videoUrl": "https://www.youtube.com/watch?v=azttKmT0rVc"
       },
       {
         "subject": "Math",
@@ -30742,7 +30743,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Fractions"
+        "topic": "Fractions",
+        "videoUrl": "https://www.youtube.com/watch?v=KEmCZGbd4R8"
       },
       {
         "subject": "Science",
@@ -30953,7 +30955,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=Ca8coQfqfqk"
       },
       {
         "subject": "Math",
@@ -31013,7 +31016,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Measurement: Units"
+        "topic": "Measurement: Units",
+        "videoUrl": "https://www.youtube.com/watch?v=gALZRL4v2NM"
       },
       {
         "subject": "Science",

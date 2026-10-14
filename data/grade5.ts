@@ -30369,7 +30369,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=eN2NMvUrtP0"
       },
       {
         "subject": "Math",
@@ -30490,7 +30491,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=xKxrkht7CpY"
       },
       {
         "subject": "SocialStudies",
@@ -30616,7 +30618,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=eZMIwFTMS4k"
       },
       {
         "subject": "Math",
@@ -30675,7 +30678,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=_E0C5ECDS0U"
       },
       {
         "subject": "Science",
@@ -30735,7 +30739,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=XpF9zc57HAE"
       },
       {
         "subject": "SocialStudies",
@@ -30794,7 +30799,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=GvoD0i-SoDs"
       }
     ]
   },

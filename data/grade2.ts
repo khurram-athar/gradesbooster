@@ -36979,7 +36979,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading: Poetry"
+        "topic": "Reading: Poetry",
+        "videoUrl": "https://www.youtube.com/watch?v=zS7dxxvXKE8"
       },
       {
         "subject": "Math",
@@ -37061,7 +37062,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=98DNidWqI6c"
       },
       {
         "subject": "Science",

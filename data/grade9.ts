@@ -29793,7 +29793,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=DpZI8GQVOlo"
       },
       {
         "subject": "Math",
@@ -29853,7 +29854,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=f15zA0PhSek"
       },
       {
         "subject": "Science",
@@ -29912,7 +29914,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=a0_lo_GDcFw"
       },
       {
         "subject": "SocialStudies",
@@ -29972,7 +29975,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Cold War & 20th Century Canada"
+        "topic": "Cold War & 20th Century Canada",
+        "videoUrl": "https://www.youtube.com/watch?v=S92MxVsojps"
       }
     ]
   },
@@ -30038,7 +30042,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=IPIBTgPlK5c"
       },
       {
         "subject": "Math",
@@ -30098,7 +30103,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=6EISF-Jghm8"
       },
       {
         "subject": "Science",
@@ -30158,7 +30164,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=xFqecEtdGZ0"
       },
       {
         "subject": "SocialStudies",
@@ -30218,7 +30225,18 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=ttiI1dGxbxM",
+        "videoUrls": [
+          {
+            "label": "Understanding Wildlife Corridors",
+            "url": "https://www.youtube.com/watch?v=ttiI1dGxbxM"
+          },
+          {
+            "label": "Habitat Fragmentation",
+            "url": "https://www.youtube.com/watch?v=KxXQdM5wCO8"
+          }
+        ]
       }
     ]
   },

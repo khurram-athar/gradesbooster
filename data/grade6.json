@@ -29676,7 +29676,8 @@
             "answer": 0
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=BlELh2T4yvo"
       },
       {
         "subject": "Math",
@@ -29736,7 +29737,8 @@
             "answer": 2
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=OMTFweN0TJQ"
       },
       {
         "subject": "Science",
@@ -29796,7 +29798,8 @@
             "answer": 3
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=AckbovTAdYY"
       },
       {
         "subject": "SocialStudies",
@@ -29855,7 +29858,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=AlI5_Tmy6Ok"
       }
     ]
   },
@@ -29921,7 +29925,8 @@
             "answer": 0
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=0SNaOisC2II"
       },
       {
         "subject": "Math",
@@ -29981,7 +29986,8 @@
             "answer": 3
           }
         ],
-        "topic": "Fractions"
+        "topic": "Fractions",
+        "videoUrl": "https://www.youtube.com/watch?v=RqUPSZLwHH0"
       },
       {
         "subject": "Science",
@@ -30041,7 +30047,8 @@
             "answer": 0
           }
         ],
-        "topic": "Structures, Materials & Engineering"
+        "topic": "Structures, Materials & Engineering",
+        "videoUrl": "https://www.youtube.com/watch?v=lxAZC7pb-o4"
       },
       {
         "subject": "SocialStudies",
@@ -30100,7 +30107,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=vCBwwJKZgw0"
       }
     ]
   },

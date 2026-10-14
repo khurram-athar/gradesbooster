@@ -29598,7 +29598,8 @@
             "answer": 0
           }
         ],
-        "topic": "Oral Communication & Presentation"
+        "topic": "Oral Communication & Presentation",
+        "videoUrl": "https://www.youtube.com/watch?v=eIho2S0ZahI"
       },
       {
         "subject": "Functions",
@@ -29658,7 +29659,8 @@
             "answer": 0
           }
         ],
-        "topic": "Trig Equations"
+        "topic": "Trig Equations",
+        "videoUrl": "https://www.youtube.com/watch?v=h7trDHjKCYc"
       },
       {
         "subject": "Biology",
@@ -29717,7 +29719,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=gQiNQuxJypY"
       },
       {
         "subject": "Chemistry",
@@ -29776,7 +29779,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=COkuUrIEt2E"
       }
     ]
   },

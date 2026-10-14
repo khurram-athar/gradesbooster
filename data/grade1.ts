@@ -36990,7 +36990,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Famous Canadians & History (Basic)"
+        "topic": "Famous Canadians & History (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=70WbeqNOJQs"
       }
     ]
   },
@@ -37079,7 +37080,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=rRLA5CV8KpE"
       },
       {
         "subject": "Math",
@@ -37162,7 +37164,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Addition & Subtraction"
+        "topic": "Addition & Subtraction",
+        "videoUrl": "https://www.youtube.com/watch?v=gzFbUZ8VjEg"
       },
       {
         "subject": "Science",
@@ -37245,7 +37248,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Evolution"
+        "topic": "Evolution",
+        "videoUrl": "https://www.youtube.com/watch?v=gaZKEc59g1w"
       },
       {
         "subject": "SocialStudies",
@@ -37305,7 +37309,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=NSSFoaSAs-U"
       }
     ]
   },

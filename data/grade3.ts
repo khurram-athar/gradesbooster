@@ -29598,7 +29598,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=csr6_k3ujaY"
       },
       {
         "subject": "Math",
@@ -29847,7 +29848,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=YXUu_EzcFHE"
       },
       {
         "subject": "Math",
@@ -29907,7 +29909,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Probability"
+        "topic": "Probability",
+        "videoUrl": "https://www.youtube.com/watch?v=lYXDQ5-I7Qk"
       },
       {
         "subject": "Science",
@@ -30052,7 +30055,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Canadian Identity & Symbols"
+        "topic": "Canadian Identity & Symbols",
+        "videoUrl": "https://www.youtube.com/watch?v=aWsvHuuV-qE"
       }
     ]
   },

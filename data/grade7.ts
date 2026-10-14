@@ -29633,7 +29633,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=gle38D7ziLs"
       },
       {
         "subject": "Math",
@@ -29693,7 +29694,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=cSKOeNukJCg"
       },
       {
         "subject": "Science",
@@ -29753,7 +29755,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=J8pJiV44hVM"
       },
       {
         "subject": "SocialStudies",
@@ -29813,7 +29816,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Human Rights & Social Movements"
+        "topic": "Human Rights & Social Movements",
+        "videoUrl": "https://www.youtube.com/watch?v=gFD3san49W8"
       }
     ]
   },
@@ -29879,7 +29883,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=MAR0t6cT5g4"
       },
       {
         "subject": "Math",
@@ -29939,7 +29944,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=Yl1aOD3CZbM"
       },
       {
         "subject": "Science",
@@ -29999,7 +30005,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=ZiULxLLP32s"
       },
       {
         "subject": "SocialStudies",
@@ -30059,7 +30066,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Natural Resources & Industry",
+        "videoUrl": "https://www.youtube.com/watch?v=nev7vFvdHPA"
       }
     ]
   },

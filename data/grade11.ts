@@ -29600,7 +29600,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Oral Communication & Presentation"
+        "topic": "Oral Communication & Presentation",
+        "videoUrl": "https://www.youtube.com/watch?v=eIho2S0ZahI"
       },
       {
         "subject": "Functions",
@@ -29660,7 +29661,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Trig Equations"
+        "topic": "Trig Equations",
+        "videoUrl": "https://www.youtube.com/watch?v=h7trDHjKCYc"
       },
       {
         "subject": "Biology",
@@ -29719,7 +29721,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=gQiNQuxJypY"
       },
       {
         "subject": "Chemistry",
@@ -29778,7 +29781,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=COkuUrIEt2E"
       }
     ]
   },

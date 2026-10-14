@@ -29633,7 +29633,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=f3XNK1zOuQ8"
       },
       {
         "subject": "Math",
@@ -29693,7 +29694,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=bo5gNjvk_WI"
       },
       {
         "subject": "Science",
@@ -29752,7 +29754,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=pVCeZfBNE9Y"
       },
       {
         "subject": "History",
@@ -29811,7 +29814,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ew6DyrTG8EM"
       }
     ]
   },
@@ -29877,7 +29881,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=6LFg_5zs7CY"
       },
       {
         "subject": "Math",
@@ -29937,7 +29942,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=2z0HZo5u774"
       },
       {
         "subject": "Science",
@@ -29997,7 +30003,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=qPOOlLlWNyY"
       },
       {
         "subject": "History",
@@ -30056,7 +30063,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ew6DyrTG8EM"
       }
     ]
   },

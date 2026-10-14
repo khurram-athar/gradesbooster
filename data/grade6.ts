@@ -29678,7 +29678,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=BlELh2T4yvo"
       },
       {
         "subject": "Math",
@@ -29738,7 +29739,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=OMTFweN0TJQ"
       },
       {
         "subject": "Science",
@@ -29798,7 +29800,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=AckbovTAdYY"
       },
       {
         "subject": "SocialStudies",
@@ -29857,7 +29860,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=AlI5_Tmy6Ok"
       }
     ]
   },
@@ -29923,7 +29927,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=0SNaOisC2II"
       },
       {
         "subject": "Math",
@@ -29983,7 +29988,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Fractions"
+        "topic": "Fractions",
+        "videoUrl": "https://www.youtube.com/watch?v=RqUPSZLwHH0"
       },
       {
         "subject": "Science",
@@ -30043,7 +30049,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Structures, Materials & Engineering"
+        "topic": "Structures, Materials & Engineering",
+        "videoUrl": "https://www.youtube.com/watch?v=lxAZC7pb-o4"
       },
       {
         "subject": "SocialStudies",
@@ -30102,7 +30109,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=vCBwwJKZgw0"
       }
     ]
   },
