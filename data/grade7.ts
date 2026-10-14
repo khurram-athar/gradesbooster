@@ -30132,6 +30132,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=V1kKVYUkx0Y",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=V1kKVYUkx0Y"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=0diRbQ-mgfo"
+          }
         ]
       },
       {
@@ -30190,6 +30201,21 @@ const curriculum: DayContent[] = [
               "Different levels of importance for different values"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=rpMu98yRk40",
+        "videoUrls": [
+          {
+            "label": "Geometry",
+            "url": "https://www.youtube.com/watch?v=rpMu98yRk40"
+          },
+          {
+            "label": "Measurement",
+            "url": "https://www.youtube.com/watch?v=2vjbNZaFz3c"
+          },
+          {
+            "label": "Data",
+            "url": "https://www.youtube.com/watch?v=e3uY2LraXts"
           }
         ]
       },
@@ -30250,6 +30276,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=emvHaBiRY8Q",
+        "videoUrls": [
+          {
+            "label": "Body Systems",
+            "url": "https://www.youtube.com/watch?v=emvHaBiRY8Q"
+          },
+          {
+            "label": "Energy",
+            "url": "https://www.youtube.com/watch?v=VfowJHJz6-s"
+          },
+          {
+            "label": "Ecosystems",
+            "url": "https://www.youtube.com/watch?v=tacc6S8qZjg"
+          }
         ]
       },
       {
@@ -30309,7 +30350,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Q_VFQUZ9oo4"
       }
     ]
   },
@@ -31781,6 +31823,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=7C8uDuhLqvg",
+        "videoUrls": [
+          {
+            "label": "Government",
+            "url": "https://www.youtube.com/watch?v=7C8uDuhLqvg"
+          },
+          {
+            "label": "History",
+            "url": "https://www.youtube.com/watch?v=Q_VFQUZ9oo4"
+          },
+          {
+            "label": "Economy",
+            "url": "https://www.youtube.com/watch?v=TWVhE_wlBLs"
+          }
         ]
       }
     ]
@@ -32582,6 +32639,25 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=V1kKVYUkx0Y",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=V1kKVYUkx0Y"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=0diRbQ-mgfo"
+          },
+          {
+            "label": "Reading",
+            "url": "https://www.youtube.com/watch?v=INxr56t9yAA"
+          },
+          {
+            "label": "Writing",
+            "url": "https://www.youtube.com/watch?v=bEM3pDMJsAc"
+          }
         ]
       },
       {
@@ -32640,6 +32716,25 @@ const curriculum: DayContent[] = [
               "By averaging the x-coordinates and averaging the y-coordinates of the endpoints"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=KzfWUEJjG18",
+        "videoUrls": [
+          {
+            "label": "Probability",
+            "url": "https://www.youtube.com/watch?v=KzfWUEJjG18"
+          },
+          {
+            "label": "Measurement",
+            "url": "https://www.youtube.com/watch?v=2vjbNZaFz3c"
+          },
+          {
+            "label": "Data",
+            "url": "https://www.youtube.com/watch?v=e3uY2LraXts"
+          },
+          {
+            "label": "Geometry",
+            "url": "https://www.youtube.com/watch?v=rpMu98yRk40"
           }
         ]
       },
@@ -32700,6 +32795,25 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=xd1alir07q4",
+        "videoUrls": [
+          {
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=xd1alir07q4"
+          },
+          {
+            "label": "Earth Science",
+            "url": "https://www.youtube.com/watch?v=71X7a8eu73k"
+          },
+          {
+            "label": "Biology",
+            "url": "https://www.youtube.com/watch?v=Dd-Bslj_bOI"
+          },
+          {
+            "label": "Technology",
+            "url": "https://www.youtube.com/watch?v=ROQHEdODnBw"
+          }
         ]
       },
       {
@@ -32759,7 +32873,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=5h5Pqgkjgws"
       }
     ]
   },
@@ -35036,6 +35151,29 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=V1kKVYUkx0Y",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=V1kKVYUkx0Y"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=0diRbQ-mgfo"
+          },
+          {
+            "label": "Reading",
+            "url": "https://www.youtube.com/watch?v=INxr56t9yAA"
+          },
+          {
+            "label": "Media Literacy",
+            "url": "https://www.youtube.com/watch?v=GtpHX3nr7uE"
+          },
+          {
+            "label": "Writing",
+            "url": "https://www.youtube.com/watch?v=bEM3pDMJsAc"
+          }
         ]
       },
       {
@@ -35155,6 +35293,29 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=-N15EueUOzU",
+        "videoUrls": [
+          {
+            "label": "Astronomy",
+            "url": "https://www.youtube.com/watch?v=-N15EueUOzU"
+          },
+          {
+            "label": "Earth Science",
+            "url": "https://www.youtube.com/watch?v=71X7a8eu73k"
+          },
+          {
+            "label": "Physics",
+            "url": "https://www.youtube.com/watch?v=b5v7PG9rygA"
+          },
+          {
+            "label": "Technology",
+            "url": "https://www.youtube.com/watch?v=ROQHEdODnBw"
+          },
+          {
+            "label": "Biology",
+            "url": "https://www.youtube.com/watch?v=Dd-Bslj_bOI"
+          }
         ]
       },
       {
@@ -35213,6 +35374,21 @@ const curriculum: DayContent[] = [
               "A privately owned foreign broadcasting company"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=5h5Pqgkjgws",
+        "videoUrls": [
+          {
+            "label": "Confederation",
+            "url": "https://www.youtube.com/watch?v=5h5Pqgkjgws"
+          },
+          {
+            "label": "Constitution",
+            "url": "https://www.youtube.com/watch?v=5miQt1dhEjo"
+          },
+          {
+            "label": "Canadian Identity",
+            "url": "https://www.youtube.com/watch?v=lIVMh97mHxw"
           }
         ]
       }
@@ -37483,7 +37659,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=e9_Ize7ZDwg"
       },
       {
         "subject": "Math",
@@ -37542,7 +37719,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=O-cawByg2aA"
       },
       {
         "subject": "Science",
@@ -37601,7 +37779,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=3JuKR7jf46o"
       },
       {
         "subject": "SocialStudies",
@@ -37904,6 +38083,21 @@ const curriculum: DayContent[] = [
               "A treaty between Canada and another country"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Hf7EMpSnHSo",
+        "videoUrls": [
+          {
+            "label": "Immigration",
+            "url": "https://www.youtube.com/watch?v=Hf7EMpSnHSo"
+          },
+          {
+            "label": "Government",
+            "url": "https://www.youtube.com/watch?v=7C8uDuhLqvg"
+          },
+          {
+            "label": "Canadian History",
+            "url": "https://www.youtube.com/watch?v=Q_VFQUZ9oo4"
           }
         ]
       }
@@ -39931,7 +40125,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=2l2FgUrln1A"
       },
       {
         "subject": "Math",
@@ -39990,7 +40185,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=mgHO-bsCDrA"
       },
       {
         "subject": "Science",
@@ -40049,7 +40245,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YQ2JrOL-7fs"
       },
       {
         "subject": "SocialStudies",
@@ -42381,7 +42578,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=GtpHX3nr7uE"
       },
       {
         "subject": "Math",
@@ -42439,6 +42637,17 @@ const curriculum: DayContent[] = [
               "How experimental probability tends to approach theoretical probability as trials increase"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=KzfWUEJjG18",
+        "videoUrls": [
+          {
+            "label": "Probability",
+            "url": "https://www.youtube.com/watch?v=KzfWUEJjG18"
+          },
+          {
+            "label": "Geometry",
+            "url": "https://www.youtube.com/watch?v=rpMu98yRk40"
           }
         ]
       },
@@ -42557,6 +42766,17 @@ const curriculum: DayContent[] = [
               "Calgary"
             ],
             "answer": 2
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Yil5O0uNans",
+        "videoUrls": [
+          {
+            "label": "Halifax",
+            "url": "https://www.youtube.com/watch?v=Yil5O0uNans"
+          },
+          {
+            "label": "Canadian Institutions",
+            "url": "https://www.youtube.com/watch?v=lIVMh97mHxw"
           }
         ]
       }
@@ -44274,6 +44494,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=WTAC2t-Bsas",
+        "videoUrls": [
+          {
+            "label": "Parks",
+            "url": "https://www.youtube.com/watch?v=WTAC2t-Bsas"
+          },
+          {
+            "label": "Government",
+            "url": "https://www.youtube.com/watch?v=7C8uDuhLqvg"
+          },
+          {
+            "label": "Canadian History",
+            "url": "https://www.youtube.com/watch?v=Q_VFQUZ9oo4"
+          }
         ]
       }
     ]
@@ -44829,6 +45064,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=V1kKVYUkx0Y",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=V1kKVYUkx0Y"
+          },
+          {
+            "label": "Reading",
+            "url": "https://www.youtube.com/watch?v=INxr56t9yAA"
+          },
+          {
+            "label": "Media Literacy (Days 171-179)",
+            "url": "https://www.youtube.com/watch?v=GtpHX3nr7uE"
+          }
         ]
       },
       {
@@ -44887,6 +45137,17 @@ const curriculum: DayContent[] = [
               "Add 5 to both sides"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=oJo2M6KovGM",
+        "videoUrls": [
+          {
+            "label": "Number Theory",
+            "url": "https://www.youtube.com/watch?v=oJo2M6KovGM"
+          },
+          {
+            "label": "Geometry (Days 171-179)",
+            "url": "https://www.youtube.com/watch?v=rpMu98yRk40"
           }
         ]
       },
@@ -44947,6 +45208,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=b5v7PG9rygA",
+        "videoUrls": [
+          {
+            "label": "Physics",
+            "url": "https://www.youtube.com/watch?v=b5v7PG9rygA"
+          },
+          {
+            "label": "Biology",
+            "url": "https://www.youtube.com/watch?v=Dd-Bslj_bOI"
+          },
+          {
+            "label": "Earth Science (Days 171-179)",
+            "url": "https://www.youtube.com/watch?v=71X7a8eu73k"
+          }
         ]
       },
       {
@@ -45005,6 +45281,21 @@ const curriculum: DayContent[] = [
               "The Central Revenue and Tax Collection Council"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=oLUyKrXwVKo",
+        "videoUrls": [
+          {
+            "label": "Geography",
+            "url": "https://www.youtube.com/watch?v=oLUyKrXwVKo"
+          },
+          {
+            "label": "History",
+            "url": "https://www.youtube.com/watch?v=Q_VFQUZ9oo4"
+          },
+          {
+            "label": "Canadian Institutions (Days 171-179)",
+            "url": "https://www.youtube.com/watch?v=lIVMh97mHxw"
           }
         ]
       }
@@ -45868,6 +46159,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=e3uY2LraXts",
+        "videoUrls": [
+          {
+            "label": "Data",
+            "url": "https://www.youtube.com/watch?v=e3uY2LraXts"
+          },
+          {
+            "label": "Geometry",
+            "url": "https://www.youtube.com/watch?v=rpMu98yRk40"
+          },
+          {
+            "label": "Algebra",
+            "url": "https://www.youtube.com/watch?v=LkhPRz7Hocg"
+          }
         ]
       },
       {
@@ -46551,6 +46857,25 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=V1kKVYUkx0Y",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=V1kKVYUkx0Y"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=0diRbQ-mgfo"
+          },
+          {
+            "label": "Reading",
+            "url": "https://www.youtube.com/watch?v=INxr56t9yAA"
+          },
+          {
+            "label": "Media Literacy (Days 181-186)",
+            "url": "https://www.youtube.com/watch?v=GtpHX3nr7uE"
+          }
         ]
       },
       {
@@ -46620,6 +46945,25 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=rpMu98yRk40",
+        "videoUrls": [
+          {
+            "label": "Geometry",
+            "url": "https://www.youtube.com/watch?v=rpMu98yRk40"
+          },
+          {
+            "label": "Number Theory",
+            "url": "https://www.youtube.com/watch?v=oJo2M6KovGM"
+          },
+          {
+            "label": "Algebra",
+            "url": "https://www.youtube.com/watch?v=LkhPRz7Hocg"
+          },
+          {
+            "label": "Data Management (Days 181-186)",
+            "url": "https://www.youtube.com/watch?v=qg8PMqJV3t0"
+          }
         ]
       },
       {
@@ -46688,6 +47032,25 @@ const curriculum: DayContent[] = [
               "Chemical compounds can absorb UV radiation and convert it into a small amount of heat"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ROQHEdODnBw",
+        "videoUrls": [
+          {
+            "label": "Technology",
+            "url": "https://www.youtube.com/watch?v=ROQHEdODnBw"
+          },
+          {
+            "label": "Biology",
+            "url": "https://www.youtube.com/watch?v=Dd-Bslj_bOI"
+          },
+          {
+            "label": "Earth Science",
+            "url": "https://www.youtube.com/watch?v=71X7a8eu73k"
+          },
+          {
+            "label": "Chemistry (Days 181-186)",
+            "url": "https://www.youtube.com/watch?v=xd1alir07q4"
           }
         ]
       },

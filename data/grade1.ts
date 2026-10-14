@@ -37481,6 +37481,21 @@ const curriculum: DayContent[] = [
               "add up the side lengths"
             ]
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=K5rmfHlHy20",
+        "videoUrls": [
+          {
+            "label": "Regrouping",
+            "url": "https://www.youtube.com/watch?v=K5rmfHlHy20"
+          },
+          {
+            "label": "Shapes",
+            "url": "https://www.youtube.com/watch?v=Ux_kLd7qAcY"
+          },
+          {
+            "label": "Patterns",
+            "url": "https://www.youtube.com/watch?v=Tu4NRKtHxuM"
+          }
         ]
       },
       {
@@ -37562,6 +37577,21 @@ const curriculum: DayContent[] = [
               "erosion",
               "erosion is the word"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=DfnXU_b9ez8",
+        "videoUrls": [
+          {
+            "label": "Our Bodies",
+            "url": "https://www.youtube.com/watch?v=DfnXU_b9ez8"
+          },
+          {
+            "label": "Space",
+            "url": "https://www.youtube.com/watch?v=ZrS3Ye8p61Y"
+          },
+          {
+            "label": "the Land",
+            "url": "https://www.youtube.com/watch?v=-43_HBy9huc"
           }
         ]
       },
@@ -43297,6 +43327,17 @@ const curriculum: DayContent[] = [
               "a statement that can be proven true"
             ]
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=DWttwlc9cso",
+        "videoUrls": [
+          {
+            "label": "Vowel Teams",
+            "url": "https://www.youtube.com/watch?v=DWttwlc9cso"
+          },
+          {
+            "label": "Prefixes",
+            "url": "https://www.youtube.com/watch?v=jX5VVlU2hVQ"
+          }
         ]
       },
       {
@@ -43375,6 +43416,21 @@ const curriculum: DayContent[] = [
             "answers": [
               "28"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=GvTcpfSnOMQ",
+        "videoUrls": [
+          {
+            "label": "Skip Counting",
+            "url": "https://www.youtube.com/watch?v=GvTcpfSnOMQ"
+          },
+          {
+            "label": "Time",
+            "url": "https://www.youtube.com/watch?v=Bvq5YqyRoKU"
+          },
+          {
+            "label": "Number Patterns",
+            "url": "https://www.youtube.com/watch?v=Tu4NRKtHxuM"
           }
         ]
       },
@@ -46271,6 +46327,17 @@ const curriculum: DayContent[] = [
             "answers": [
               "a true story about the writer"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=DWttwlc9cso",
+        "videoUrls": [
+          {
+            "label": "New Vowel Teams",
+            "url": "https://www.youtube.com/watch?v=DWttwlc9cso"
+          },
+          {
+            "label": "Word Parts",
+            "url": "https://www.youtube.com/watch?v=i9kINwIoT1w"
           }
         ]
       },
@@ -49431,7 +49498,8 @@ const curriculum: DayContent[] = [
               "a joining word"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=i9kINwIoT1w"
       },
       {
         "subject": "Math",
@@ -49509,6 +49577,21 @@ const curriculum: DayContent[] = [
             "answers": [
               "3"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=bGetqbqDVaA",
+        "videoUrls": [
+          {
+            "label": "Numbers",
+            "url": "https://www.youtube.com/watch?v=bGetqbqDVaA"
+          },
+          {
+            "label": "Measurement",
+            "url": "https://www.youtube.com/watch?v=2wUsdsae0ro"
+          },
+          {
+            "label": "Data",
+            "url": "https://www.youtube.com/watch?v=zF_dBk8EPDk"
           }
         ]
       },
@@ -49589,6 +49672,17 @@ const curriculum: DayContent[] = [
               "tallest land animal"
             ]
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Uo8lbeVVb4M",
+        "videoUrls": [
+          {
+            "label": "Weather",
+            "url": "https://www.youtube.com/watch?v=Uo8lbeVVb4M"
+          },
+          {
+            "label": "Animals",
+            "url": "https://www.youtube.com/watch?v=F5C-rRvaQVQ"
+          }
         ]
       },
       {
@@ -49667,6 +49761,21 @@ const curriculum: DayContent[] = [
             "answers": [
               "they help us learn from the past"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=6phjeZ88oX0",
+        "videoUrls": [
+          {
+            "label": "Holidays",
+            "url": "https://www.youtube.com/watch?v=6phjeZ88oX0"
+          },
+          {
+            "label": "Helpers",
+            "url": "https://www.youtube.com/watch?v=2lc-aMgEJpQ"
+          },
+          {
+            "label": "Geography",
+            "url": "https://www.youtube.com/watch?v=QBQ5ZhHlkkY"
           }
         ]
       }
@@ -52545,6 +52654,21 @@ const curriculum: DayContent[] = [
               "27"
             ]
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Ju3kQjmcH5g",
+        "videoUrls": [
+          {
+            "label": "Larger Numbers",
+            "url": "https://www.youtube.com/watch?v=Ju3kQjmcH5g"
+          },
+          {
+            "label": "Shapes",
+            "url": "https://www.youtube.com/watch?v=Ux_kLd7qAcY"
+          },
+          {
+            "label": "Operations",
+            "url": "https://www.youtube.com/watch?v=a4FXl4zb3E4"
+          }
         ]
       },
       {
@@ -52624,6 +52748,21 @@ const curriculum: DayContent[] = [
               "to attract other fireflies"
             ]
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=F5C-rRvaQVQ",
+        "videoUrls": [
+          {
+            "label": "New Animals",
+            "url": "https://www.youtube.com/watch?v=F5C-rRvaQVQ"
+          },
+          {
+            "label": "Earth Materials",
+            "url": "https://www.youtube.com/watch?v=6e53-Z2gZzY"
+          },
+          {
+            "label": "Simple Machines",
+            "url": "https://www.youtube.com/watch?v=LSfNYpCprw4"
+          }
         ]
       },
       {
@@ -52702,6 +52841,21 @@ const curriculum: DayContent[] = [
             "answers": [
               "newcomers become citizens"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=38BGXJ572Y8",
+        "videoUrls": [
+          {
+            "label": "Symbols",
+            "url": "https://www.youtube.com/watch?v=38BGXJ572Y8"
+          },
+          {
+            "label": "Leaders",
+            "url": "https://www.youtube.com/watch?v=FVQhFIF2-tI"
+          },
+          {
+            "label": "Newcomers",
+            "url": "https://www.youtube.com/watch?v=mwqwc8Jydp0"
           }
         ]
       }
@@ -55628,7 +55782,8 @@ const curriculum: DayContent[] = [
               "a pack"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=H9YMgx5T9Sk"
       },
       {
         "subject": "SocialStudies",
@@ -55706,6 +55861,21 @@ const curriculum: DayContent[] = [
             "answers": [
               "October"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=6phjeZ88oX0",
+        "videoUrls": [
+          {
+            "label": "Holidays",
+            "url": "https://www.youtube.com/watch?v=6phjeZ88oX0"
+          },
+          {
+            "label": "Community Helpers",
+            "url": "https://www.youtube.com/watch?v=2lc-aMgEJpQ"
+          },
+          {
+            "label": "Landmarks",
+            "url": "https://www.youtube.com/watch?v=aCi9OcKoIoo"
           }
         ]
       }
@@ -57627,6 +57797,17 @@ const curriculum: DayContent[] = [
               "adding more detail"
             ]
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=gIZjrcG9pW0",
+        "videoUrls": [
+          {
+            "label": "A Year of Words",
+            "url": "https://www.youtube.com/watch?v=gIZjrcG9pW0"
+          },
+          {
+            "label": "Stories",
+            "url": "https://www.youtube.com/watch?v=go_ld7lOpGA"
+          }
         ]
       },
       {
@@ -57844,6 +58025,21 @@ const curriculum: DayContent[] = [
             "answers": [
               "a gathering to celebrate Indigenous culture"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=zeM5ewySceQ",
+        "videoUrls": [
+          {
+            "label": "A Year of Community",
+            "url": "https://www.youtube.com/watch?v=zeM5ewySceQ"
+          },
+          {
+            "label": "Culture",
+            "url": "https://www.youtube.com/watch?v=RwSYrsjTiW4"
+          },
+          {
+            "label": "Canada",
+            "url": "https://www.youtube.com/watch?v=CISeEFTsgDA"
           }
         ]
       }

@@ -34394,6 +34394,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=OhRQSOMRk_A",
+        "videoUrls": [
+          {
+            "label": "Comprehension",
+            "url": "https://www.youtube.com/watch?v=OhRQSOMRk_A"
+          },
+          {
+            "label": "Stories",
+            "url": "https://www.youtube.com/watch?v=n1pQWmMeRqE"
+          },
+          {
+            "label": "Nonfiction",
+            "url": "https://www.youtube.com/watch?v=uF2e_eqI5gI"
+          }
         ]
       },
       {
@@ -34573,6 +34588,21 @@ const curriculum: DayContent[] = [
               "It has no value"
             ],
             "answer": 2
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=belXC_IoW4o",
+        "videoUrls": [
+          {
+            "label": "Our Earth",
+            "url": "https://www.youtube.com/watch?v=belXC_IoW4o"
+          },
+          {
+            "label": "Our Seasons",
+            "url": "https://www.youtube.com/watch?v=b25g4nZTHvM"
+          },
+          {
+            "label": "Our World",
+            "url": "https://www.youtube.com/watch?v=-fvIIXexZBE"
           }
         ]
       }
@@ -42405,6 +42435,21 @@ const curriculum: DayContent[] = [
               "a famous special place"
             ]
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=MDhfKlbkzs4",
+        "videoUrls": [
+          {
+            "label": "Helpers",
+            "url": "https://www.youtube.com/watch?v=MDhfKlbkzs4"
+          },
+          {
+            "label": "Money",
+            "url": "https://www.youtube.com/watch?v=OSKArnFOnZo"
+          },
+          {
+            "label": "Our World",
+            "url": "https://www.youtube.com/watch?v=-fvIIXexZBE"
+          }
         ]
       }
     ]
@@ -43635,6 +43680,21 @@ const curriculum: DayContent[] = [
               "What color is the sky?"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=q28o1PNK844",
+        "videoUrls": [
+          {
+            "label": "Letters",
+            "url": "https://www.youtube.com/watch?v=q28o1PNK844"
+          },
+          {
+            "label": "Sounds",
+            "url": "https://www.youtube.com/watch?v=RUSCz41aDug"
+          },
+          {
+            "label": "Sentences",
+            "url": "https://www.youtube.com/watch?v=PEYlyt7C94E"
           }
         ]
       },
@@ -45198,6 +45258,21 @@ const curriculum: DayContent[] = [
             "answers": [
               "flying an airplane safely"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=MDhfKlbkzs4",
+        "videoUrls": [
+          {
+            "label": "New Helpers",
+            "url": "https://www.youtube.com/watch?v=MDhfKlbkzs4"
+          },
+          {
+            "label": "Money",
+            "url": "https://www.youtube.com/watch?v=OSKArnFOnZo"
+          },
+          {
+            "label": "Celebrations",
+            "url": "https://www.youtube.com/watch?v=_ztsyv0WLWE"
           }
         ]
       }
@@ -47777,6 +47852,17 @@ const curriculum: DayContent[] = [
               "nectar"
             ]
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=tkFPyue5X3Q",
+        "videoUrls": [
+          {
+            "label": "Life Cycles",
+            "url": "https://www.youtube.com/watch?v=tkFPyue5X3Q"
+          },
+          {
+            "label": "Weather",
+            "url": "https://www.youtube.com/watch?v=yPqRqjM8MOQ"
+          }
         ]
       },
       {
@@ -50298,6 +50384,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=q28o1PNK844",
+        "videoUrls": [
+          {
+            "label": "Letters",
+            "url": "https://www.youtube.com/watch?v=q28o1PNK844"
+          },
+          {
+            "label": "Words",
+            "url": "https://www.youtube.com/watch?v=4PW3_LErVZk"
+          },
+          {
+            "label": "Stories",
+            "url": "https://www.youtube.com/watch?v=n1pQWmMeRqE"
+          }
         ]
       },
       {
@@ -50437,7 +50538,8 @@ const curriculum: DayContent[] = [
               "to attract other fireflies"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=CA6Mofzh7jo"
       },
       {
         "subject": "SocialStudies",
@@ -52368,6 +52470,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=BdVlwetlzOM",
+        "videoUrls": [
+          {
+            "label": "Numbers",
+            "url": "https://www.youtube.com/watch?v=BdVlwetlzOM"
+          },
+          {
+            "label": "Shapes",
+            "url": "https://www.youtube.com/watch?v=Ux_kLd7qAcY"
+          },
+          {
+            "label": "Patterns",
+            "url": "https://www.youtube.com/watch?v=Js45cR_7wFE"
+          }
         ]
       },
       {
@@ -52426,6 +52543,17 @@ const curriculum: DayContent[] = [
               "Your body needs more blood pumped around while it works hard"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=yPqRqjM8MOQ",
+        "videoUrls": [
+          {
+            "label": "Weather",
+            "url": "https://www.youtube.com/watch?v=yPqRqjM8MOQ"
+          },
+          {
+            "label": "Our Bodies",
+            "url": "https://www.youtube.com/watch?v=tkFPyue5X3Q"
           }
         ]
       },
@@ -52506,7 +52634,8 @@ const curriculum: DayContent[] = [
               "keeping passengers safe and trains on schedule"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=MDhfKlbkzs4"
       }
     ]
   },

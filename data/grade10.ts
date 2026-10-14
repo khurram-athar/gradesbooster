@@ -29778,14 +29778,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=4w0rWUCk-N8"
       },
       {
         "subject": "English",
         "title": "Reading: Analyzing Circular and Non-Linear Structure",
         "summary": "Grade 10 English strand: a circular or non-linear narrative structure disrupts standard chronological order, moving between past, present, or multiple perspectives to create suspense, reveal information strategically, or mirror a characters state of mind.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Reading: Analyzing Circular and Non-Linear Structure",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Circular%20and%20Non-Linear%20Structure%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What does a non-linear narrative structure do?",
@@ -29838,14 +29839,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=c2euxL1z4dY"
       },
       {
         "subject": "Science",
         "title": "Desert Ecosystems and Adaptations",
         "summary": "Grade 10 Science strand: desert ecosystems receive very little precipitation, and the plants and animals that live there have evolved specialized adaptations, such as water storage and nocturnal behaviour, to survive extreme conditions.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Desert Ecosystems and Adaptations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Desert%20Ecosystems%20and%20Adaptations%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What defines a desert ecosystem?",
@@ -29898,7 +29900,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=oSSUA2r-cXk"
       },
       {
         "subject": "History",
@@ -30022,6 +30025,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=jul2urONzOQ",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=jul2urONzOQ"
+          },
+          {
+            "label": "Reading Analysis",
+            "url": "https://www.youtube.com/watch?v=HI9q90kLhDY"
+          }
         ]
       },
       {
@@ -30141,6 +30155,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=xTtV61KPV3s",
+        "videoUrls": [
+          {
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=xTtV61KPV3s"
+          },
+          {
+            "label": "Earth Science",
+            "url": "https://www.youtube.com/watch?v=fCALoYT5Z7I"
+          }
         ]
       },
       {
@@ -30199,6 +30224,17 @@ const curriculum: DayContent[] = [
               "Minister of the Interior"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=kg4yBQjr9Wk",
+        "videoUrls": [
+          {
+            "label": "Canadian Autonomy",
+            "url": "https://www.youtube.com/watch?v=kg4yBQjr9Wk"
+          },
+          {
+            "label": "Modern Land Claims",
+            "url": "https://www.youtube.com/watch?v=whDXkZsykPc"
           }
         ]
       }
@@ -32593,6 +32629,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Um-bo2MWDsQ",
+        "videoUrls": [
+          {
+            "label": "Human Biology",
+            "url": "https://www.youtube.com/watch?v=Um-bo2MWDsQ"
+          },
+          {
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=xTtV61KPV3s"
+          },
+          {
+            "label": "Earth Science",
+            "url": "https://www.youtube.com/watch?v=fCALoYT5Z7I"
+          }
         ]
       },
       {
@@ -34921,6 +34972,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=jul2urONzOQ",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=jul2urONzOQ"
+          },
+          {
+            "label": "Rhetoric",
+            "url": "https://www.youtube.com/watch?v=4PqGPZtyFtw"
+          },
+          {
+            "label": "Contemporary Literacy",
+            "url": "https://www.youtube.com/watch?v=32e3QlxHq7k"
+          }
         ]
       },
       {
@@ -35040,6 +35106,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=xTtV61KPV3s",
+        "videoUrls": [
+          {
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=xTtV61KPV3s"
+          },
+          {
+            "label": "Earth Systems",
+            "url": "https://www.youtube.com/watch?v=fCALoYT5Z7I"
+          }
         ]
       },
       {
@@ -35099,7 +35176,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=PUZc1zbOtf4"
       }
     ]
   },
@@ -39816,6 +39894,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=jul2urONzOQ",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=jul2urONzOQ"
+          },
+          {
+            "label": "Reading",
+            "url": "https://www.youtube.com/watch?v=tj3abhQZEBs"
+          }
         ]
       },
       {
@@ -39995,7 +40084,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=4O8syj77goQ"
       }
     ]
   },
@@ -40796,7 +40886,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=BFwMRVwrKcA"
       },
       {
         "subject": "Math",
@@ -42264,6 +42355,25 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=jul2urONzOQ",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=jul2urONzOQ"
+          },
+          {
+            "label": "Reading",
+            "url": "https://www.youtube.com/watch?v=tj3abhQZEBs"
+          },
+          {
+            "label": "Writing",
+            "url": "https://www.youtube.com/watch?v=iKtWujjJbjg"
+          },
+          {
+            "label": "Media Literacy (Days 161-169)",
+            "url": "https://www.youtube.com/watch?v=AD7N-1Mj-DU"
+          }
         ]
       },
       {
@@ -42383,6 +42493,25 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=xTtV61KPV3s",
+        "videoUrls": [
+          {
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=xTtV61KPV3s"
+          },
+          {
+            "label": "Physics",
+            "url": "https://www.youtube.com/watch?v=dHjWVlfNraM"
+          },
+          {
+            "label": "Earth Science",
+            "url": "https://www.youtube.com/watch?v=fCALoYT5Z7I"
+          },
+          {
+            "label": "Biology (Days 161-169)",
+            "url": "https://www.youtube.com/watch?v=8kK2zwjRV0M"
+          }
         ]
       },
       {
@@ -42441,6 +42570,17 @@ const curriculum: DayContent[] = [
               "Funding a natural gas pipeline project"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=0mg6vLpDCKs",
+        "videoUrls": [
+          {
+            "label": "Postwar Canada",
+            "url": "https://www.youtube.com/watch?v=0mg6vLpDCKs"
+          },
+          {
+            "label": "the Early Cold War (Days 161-169)",
+            "url": "https://www.youtube.com/watch?v=I79TpDe3t2g"
           }
         ]
       }
@@ -44707,6 +44847,25 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=jul2urONzOQ",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=jul2urONzOQ"
+          },
+          {
+            "label": "Reading",
+            "url": "https://www.youtube.com/watch?v=tj3abhQZEBs"
+          },
+          {
+            "label": "Writing",
+            "url": "https://www.youtube.com/watch?v=iKtWujjJbjg"
+          },
+          {
+            "label": "Oral Communication (Days 171-179)",
+            "url": "https://www.youtube.com/watch?v=9cHOAxj7LQE"
+          }
         ]
       },
       {
@@ -44826,6 +44985,25 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dHjWVlfNraM",
+        "videoUrls": [
+          {
+            "label": "Physics",
+            "url": "https://www.youtube.com/watch?v=dHjWVlfNraM"
+          },
+          {
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=xTtV61KPV3s"
+          },
+          {
+            "label": "Earth Science",
+            "url": "https://www.youtube.com/watch?v=fCALoYT5Z7I"
+          },
+          {
+            "label": "Biology (Days 171-179)",
+            "url": "https://www.youtube.com/watch?v=8kK2zwjRV0M"
+          }
         ]
       },
       {
@@ -44885,7 +45063,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=V35rwMyU7DA"
       }
     ]
   },
@@ -46417,6 +46596,25 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=tj3abhQZEBs",
+        "videoUrls": [
+          {
+            "label": "The Final Review -- Reading",
+            "url": "https://www.youtube.com/watch?v=tj3abhQZEBs"
+          },
+          {
+            "label": "Writing",
+            "url": "https://www.youtube.com/watch?v=iKtWujjJbjg"
+          },
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=jul2urONzOQ"
+          },
+          {
+            "label": "Media Literacy (Days 181-186)",
+            "url": "https://www.youtube.com/watch?v=AD7N-1Mj-DU"
+          }
         ]
       },
       {
@@ -46535,6 +46733,25 @@ const curriculum: DayContent[] = [
               "Increases their relative motion without limit"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dHjWVlfNraM",
+        "videoUrls": [
+          {
+            "label": "The Final Review -- Physics",
+            "url": "https://www.youtube.com/watch?v=dHjWVlfNraM"
+          },
+          {
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=xTtV61KPV3s"
+          },
+          {
+            "label": "Earth Science",
+            "url": "https://www.youtube.com/watch?v=fCALoYT5Z7I"
+          },
+          {
+            "label": "Biology (Days 181-186)",
+            "url": "https://www.youtube.com/watch?v=8kK2zwjRV0M"
           }
         ]
       },

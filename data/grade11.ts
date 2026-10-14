@@ -29908,14 +29908,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Probability Distributions"
+        "topic": "Probability Distributions",
+        "videoUrl": "https://www.youtube.com/watch?v=rzFX5NWojp0"
       },
       {
         "subject": "Biology",
         "title": "Biology: Hydrothermal Vent Ecosystems and Chemosynthesis",
         "summary": "Grade 11 Biology strand: hydrothermal vent ecosystems exist on the deep ocean floor, where specialized bacteria use chemosynthesis to convert chemicals like hydrogen sulfide into energy, supporting entire food webs without sunlight.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Biology: Hydrothermal Vent Ecosystems and Chemosynthesis",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Hydrothermal%20Vent%20Ecosystems%20and%20Chemosynthesis%20grade%2011%20educational",
         "quiz": [
           {
             "q": "Where are hydrothermal vent ecosystems typically found?",
@@ -29968,7 +29969,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=ECBbAjoEHWI"
       },
       {
         "subject": "Chemistry",
@@ -30092,6 +30094,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=PXZrtMLeZNY",
+        "videoUrls": [
+          {
+            "label": "Poetry",
+            "url": "https://www.youtube.com/watch?v=PXZrtMLeZNY"
+          },
+          {
+            "label": "Rhetoric",
+            "url": "https://www.youtube.com/watch?v=E91bGT9BjYk"
+          }
         ]
       },
       {
@@ -30209,6 +30222,21 @@ const curriculum: DayContent[] = [
               "Chemosynthesis"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=fhiqKZCT6OA",
+        "videoUrls": [
+          {
+            "label": "Adaptations",
+            "url": "https://www.youtube.com/watch?v=fhiqKZCT6OA"
+          },
+          {
+            "label": "Cell Biology",
+            "url": "https://www.youtube.com/watch?v=URUJD5NEXC8"
+          },
+          {
+            "label": "Ecosystems",
+            "url": "https://www.youtube.com/watch?v=KQF9WdZrH_c"
           }
         ]
       },
@@ -32538,6 +32566,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=LXViVD7LQAM",
+        "videoUrls": [
+          {
+            "label": "Genre",
+            "url": "https://www.youtube.com/watch?v=LXViVD7LQAM"
+          },
+          {
+            "label": "Voice",
+            "url": "https://www.youtube.com/watch?v=ezr4dPT5zmI"
+          },
+          {
+            "label": "Persuasion",
+            "url": "https://www.youtube.com/watch?v=CTkx83_e95o"
+          }
         ]
       },
       {
@@ -32656,6 +32699,25 @@ const curriculum: DayContent[] = [
               "A phenomenon in which a plant releases chemicals that inhibit nearby plant species"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=URUJD5NEXC8",
+        "videoUrls": [
+          {
+            "label": "Cell Biology",
+            "url": "https://www.youtube.com/watch?v=URUJD5NEXC8"
+          },
+          {
+            "label": "Genetics",
+            "url": "https://www.youtube.com/watch?v=UeyYGeg-jDI"
+          },
+          {
+            "label": "Physiology",
+            "url": "https://www.youtube.com/watch?v=1UvuBYUbFk0"
+          },
+          {
+            "label": "Ecology",
+            "url": "https://www.youtube.com/watch?v=n_R8j2zcyZQ"
           }
         ]
       },
@@ -33088,7 +33150,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Equations & Inequalities",
+        "videoUrl": "https://www.youtube.com/watch?v=pnRQWd5hHHg"
       },
       {
         "subject": "Biology",
@@ -34571,7 +34634,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=57VrEiEPD1I"
       },
       {
         "subject": "Biology",
@@ -35002,6 +35066,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=E91bGT9BjYk",
+        "videoUrls": [
+          {
+            "label": "Rhetoric",
+            "url": "https://www.youtube.com/watch?v=E91bGT9BjYk"
+          },
+          {
+            "label": "Media Literacy",
+            "url": "https://www.youtube.com/watch?v=vOVyK2jq4yU"
+          }
         ]
       },
       {
@@ -35120,6 +35195,17 @@ const curriculum: DayContent[] = [
               "Those born earliest in the season"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=UeyYGeg-jDI",
+        "videoUrls": [
+          {
+            "label": "Genetics",
+            "url": "https://www.youtube.com/watch?v=UeyYGeg-jDI"
+          },
+          {
+            "label": "Evolution",
+            "url": "https://www.youtube.com/watch?v=7VM9YxmULuo"
           }
         ]
       },
@@ -37452,7 +37538,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=-KWt3po1ISw"
       },
       {
         "subject": "Functions",
@@ -37570,6 +37657,17 @@ const curriculum: DayContent[] = [
               "DNA exclusively, with no protein component"
             ],
             "answer": 2
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=iVyRKkYGCgk",
+        "videoUrls": [
+          {
+            "label": "Development",
+            "url": "https://www.youtube.com/watch?v=iVyRKkYGCgk"
+          },
+          {
+            "label": "Immunity",
+            "url": "https://www.youtube.com/watch?v=PSRJfaAYkW4"
           }
         ]
       },
@@ -38978,6 +39076,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=D7B17klZmAU",
+        "videoUrls": [
+          {
+            "label": "Probability",
+            "url": "https://www.youtube.com/watch?v=D7B17klZmAU"
+          },
+          {
+            "label": "Number Theory",
+            "url": "https://www.youtube.com/watch?v=vbPUS-0Wbv4"
+          },
+          {
+            "label": "Statistics (Days 171-179)",
+            "url": "https://www.youtube.com/watch?v=upseC-rZ5QI"
+          }
         ]
       },
       {
@@ -40073,7 +40186,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=kJTCuRSeh6g"
       }
     ]
   },
@@ -42459,6 +42573,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=KQF9WdZrH_c",
+        "videoUrls": [
+          {
+            "label": "Biomes",
+            "url": "https://www.youtube.com/watch?v=KQF9WdZrH_c"
+          },
+          {
+            "label": "Genetics",
+            "url": "https://www.youtube.com/watch?v=UeyYGeg-jDI"
+          },
+          {
+            "label": "Molecular Physiology",
+            "url": "https://www.youtube.com/watch?v=qgVFkRn8f10"
+          }
         ]
       },
       {
@@ -42518,7 +42647,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=LsqKL3pBVMA"
       }
     ]
   },
@@ -44905,6 +45035,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=emvHaBiRY8Q",
+        "videoUrls": [
+          {
+            "label": "Endocrine Physiology",
+            "url": "https://www.youtube.com/watch?v=emvHaBiRY8Q"
+          },
+          {
+            "label": "Coevolution",
+            "url": "https://www.youtube.com/watch?v=O3eEXWn_oGE"
+          },
+          {
+            "label": "Biotechnology",
+            "url": "https://www.youtube.com/watch?v=CDw4WPng2iE"
+          }
         ]
       },
       {
@@ -44963,6 +45108,25 @@ const curriculum: DayContent[] = [
               "A pressure that only applies to solids, never to solutions"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=S_k0kr2eZSQ",
+        "videoUrls": [
+          {
+            "label": "Bonding",
+            "url": "https://www.youtube.com/watch?v=S_k0kr2eZSQ"
+          },
+          {
+            "label": "Materials",
+            "url": "https://www.youtube.com/watch?v=JknzbSVBuYM"
+          },
+          {
+            "label": "Energy",
+            "url": "https://www.youtube.com/watch?v=LsqKL3pBVMA"
+          },
+          {
+            "label": "Catalysis",
+            "url": "https://www.youtube.com/watch?v=m_9bpZep1QM"
           }
         ]
       }

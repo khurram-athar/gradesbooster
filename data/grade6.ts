@@ -30175,7 +30175,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=-m2C1vHpaHc"
       },
       {
         "subject": "Math",
@@ -30294,7 +30295,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=i5aXwiC3wWc"
       },
       {
         "subject": "SocialStudies",
@@ -31648,7 +31650,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=TVptfuj6_yk"
       },
       {
         "subject": "Math",
@@ -32630,6 +32633,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Hk2gD0Jtxhc",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=Hk2gD0Jtxhc"
+          },
+          {
+            "label": "Reading Strategies",
+            "url": "https://www.youtube.com/watch?v=cmRA9kZVadA"
+          }
         ]
       },
       {
@@ -32748,6 +32762,21 @@ const curriculum: DayContent[] = [
               "An area of land where all surface water drains into a common body of water"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Pr9YntO7V1U",
+        "videoUrls": [
+          {
+            "label": "Energy",
+            "url": "https://www.youtube.com/watch?v=Pr9YntO7V1U"
+          },
+          {
+            "label": "Space",
+            "url": "https://www.youtube.com/watch?v=8Sl8m5-Tutk"
+          },
+          {
+            "label": "Ecosystems",
+            "url": "https://www.youtube.com/watch?v=vOb19r-0kqA"
           }
         ]
       },
@@ -35085,6 +35114,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Hk2gD0Jtxhc",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=Hk2gD0Jtxhc"
+          },
+          {
+            "label": "Poetry",
+            "url": "https://www.youtube.com/watch?v=-m2C1vHpaHc"
+          },
+          {
+            "label": "Media Literacy",
+            "url": "https://www.youtube.com/watch?v=6R6-2_8m4Co"
+          }
         ]
       },
       {
@@ -35144,6 +35188,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=9RTM418qfdI",
+        "videoUrls": [
+          {
+            "label": "Geometry",
+            "url": "https://www.youtube.com/watch?v=9RTM418qfdI"
+          },
+          {
+            "label": "Number Sense",
+            "url": "https://www.youtube.com/watch?v=exuf4cHnAlA"
+          },
+          {
+            "label": "Probability",
+            "url": "https://www.youtube.com/watch?v=KzfWUEJjG18"
+          }
         ]
       },
       {
@@ -35202,6 +35261,17 @@ const curriculum: DayContent[] = [
               "A machine made only of gears"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Pr9YntO7V1U",
+        "videoUrls": [
+          {
+            "label": "Energy",
+            "url": "https://www.youtube.com/watch?v=Pr9YntO7V1U"
+          },
+          {
+            "label": "Technology",
+            "url": "https://www.youtube.com/watch?v=gcTBEiUTyXE"
           }
         ]
       },
@@ -35877,6 +35947,17 @@ const curriculum: DayContent[] = [
               "A data value much higher or lower than the rest"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=exuf4cHnAlA",
+        "videoUrls": [
+          {
+            "label": "Number Sense",
+            "url": "https://www.youtube.com/watch?v=exuf4cHnAlA"
+          },
+          {
+            "label": "Geometry",
+            "url": "https://www.youtube.com/watch?v=9RTM418qfdI"
           }
         ]
       },
@@ -37536,7 +37617,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=smgyeUomfyA"
       },
       {
         "subject": "Math",
@@ -37594,6 +37676,21 @@ const curriculum: DayContent[] = [
               "By showing all of the relevant data honestly"
             ],
             "answer": 0
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=NybHckSEQBI",
+        "videoUrls": [
+          {
+            "label": "Algebra",
+            "url": "https://www.youtube.com/watch?v=NybHckSEQBI"
+          },
+          {
+            "label": "Geometry",
+            "url": "https://www.youtube.com/watch?v=9RTM418qfdI"
+          },
+          {
+            "label": "Data",
+            "url": "https://www.youtube.com/watch?v=hcgThf5mv38"
           }
         ]
       },
@@ -37654,6 +37751,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Pr9YntO7V1U",
+        "videoUrls": [
+          {
+            "label": "Energy",
+            "url": "https://www.youtube.com/watch?v=Pr9YntO7V1U"
+          },
+          {
+            "label": "Ecosystems",
+            "url": "https://www.youtube.com/watch?v=vOb19r-0kqA"
+          },
+          {
+            "label": "Human Body",
+            "url": "https://www.youtube.com/watch?v=i5aXwiC3wWc"
+          }
         ]
       },
       {
@@ -37712,6 +37824,21 @@ const curriculum: DayContent[] = [
               "The European Union"
             ],
             "answer": 0
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=qxBnmZrSZa4",
+        "videoUrls": [
+          {
+            "label": "Reconciliation",
+            "url": "https://www.youtube.com/watch?v=qxBnmZrSZa4"
+          },
+          {
+            "label": "Government",
+            "url": "https://www.youtube.com/watch?v=8_Tbv7anqXk"
+          },
+          {
+            "label": "Canadian History",
+            "url": "https://www.youtube.com/watch?v=vcS2eNJaC3Q"
           }
         ]
       }
@@ -39989,6 +40116,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=CiNggzdWkIo",
+        "videoUrls": [
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=CiNggzdWkIo"
+          },
+          {
+            "label": "Media Literacy",
+            "url": "https://www.youtube.com/watch?v=6R6-2_8m4Co"
+          },
+          {
+            "label": "Nonfiction Reading",
+            "url": "https://www.youtube.com/watch?v=DX4_JtlHyls"
+          }
         ]
       },
       {
@@ -40048,6 +40190,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=KzfWUEJjG18",
+        "videoUrls": [
+          {
+            "label": "Probability",
+            "url": "https://www.youtube.com/watch?v=KzfWUEJjG18"
+          },
+          {
+            "label": "Measurement",
+            "url": "https://www.youtube.com/watch?v=9RTM418qfdI"
+          },
+          {
+            "label": "Financial Literacy",
+            "url": "https://www.youtube.com/watch?v=5qxX222sLtE"
+          }
         ]
       },
       {
@@ -40106,6 +40263,17 @@ const curriculum: DayContent[] = [
               "Oxygen and moisture"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=jAPxALm9fZA",
+        "videoUrls": [
+          {
+            "label": "Simple Machines",
+            "url": "https://www.youtube.com/watch?v=jAPxALm9fZA"
+          },
+          {
+            "label": "the Human Body",
+            "url": "https://www.youtube.com/watch?v=i5aXwiC3wWc"
           }
         ]
       },
@@ -42012,6 +42180,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dBZ2QGZBH6M",
+        "videoUrls": [
+          {
+            "label": "Fractions",
+            "url": "https://www.youtube.com/watch?v=dBZ2QGZBH6M"
+          },
+          {
+            "label": "Number Sense",
+            "url": "https://www.youtube.com/watch?v=exuf4cHnAlA"
+          },
+          {
+            "label": "Data",
+            "url": "https://www.youtube.com/watch?v=hcgThf5mv38"
+          }
         ]
       },
       {
@@ -42195,7 +42378,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dgE-qrU1hXU"
       },
       {
         "subject": "Math",
@@ -42439,6 +42623,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Hk2gD0Jtxhc",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=Hk2gD0Jtxhc"
+          },
+          {
+            "label": "Media Literacy",
+            "url": "https://www.youtube.com/watch?v=6R6-2_8m4Co"
+          }
         ]
       },
       {
@@ -42498,6 +42693,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Htt09rY9I_A",
+        "videoUrls": [
+          {
+            "label": "Decimals",
+            "url": "https://www.youtube.com/watch?v=Htt09rY9I_A"
+          },
+          {
+            "label": "Data",
+            "url": "https://www.youtube.com/watch?v=hcgThf5mv38"
+          }
         ]
       },
       {
@@ -42556,6 +42762,21 @@ const curriculum: DayContent[] = [
               "A migration pattern used only by birds"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=jAPxALm9fZA",
+        "videoUrls": [
+          {
+            "label": "Machines",
+            "url": "https://www.youtube.com/watch?v=jAPxALm9fZA"
+          },
+          {
+            "label": "Matter",
+            "url": "https://www.youtube.com/watch?v=SRsorIm-5Bk"
+          },
+          {
+            "label": "Space Exploration",
+            "url": "https://www.youtube.com/watch?v=-xORnDksHW4"
           }
         ]
       },
@@ -43047,6 +43268,25 @@ const curriculum: DayContent[] = [
               "A keystone species"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Gg0TXNXgz-w",
+        "videoUrls": [
+          {
+            "label": "Structures",
+            "url": "https://www.youtube.com/watch?v=Gg0TXNXgz-w"
+          },
+          {
+            "label": "Matter",
+            "url": "https://www.youtube.com/watch?v=SRsorIm-5Bk"
+          },
+          {
+            "label": "Energy",
+            "url": "https://www.youtube.com/watch?v=Pr9YntO7V1U"
+          },
+          {
+            "label": "Earth",
+            "url": "https://www.youtube.com/watch?v=MtRzy2TJAOQ"
           }
         ]
       },
@@ -44936,6 +45176,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Hk2gD0Jtxhc",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=Hk2gD0Jtxhc"
+          },
+          {
+            "label": "Genres",
+            "url": "https://www.youtube.com/watch?v=lwpVGotlvL4"
+          }
         ]
       },
       {
@@ -44995,7 +45246,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=hcgThf5mv38"
       },
       {
         "subject": "Science",
@@ -45054,7 +45306,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=JmCt0OzrRFI"
       },
       {
         "subject": "SocialStudies",
@@ -46674,7 +46927,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=CiNggzdWkIo"
       },
       {
         "subject": "Math",
@@ -46732,6 +46986,21 @@ const curriculum: DayContent[] = [
               "Slices of a circle"
             ],
             "answer": 2
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=O-cawByg2aA",
+        "videoUrls": [
+          {
+            "label": "Circles",
+            "url": "https://www.youtube.com/watch?v=O-cawByg2aA"
+          },
+          {
+            "label": "Fractions",
+            "url": "https://www.youtube.com/watch?v=dBZ2QGZBH6M"
+          },
+          {
+            "label": "Time",
+            "url": "https://www.youtube.com/watch?v=t6xXsxq0shw"
           }
         ]
       },
@@ -46792,6 +47061,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=whsjY9PurOM",
+        "videoUrls": [
+          {
+            "label": "Earth Science",
+            "url": "https://www.youtube.com/watch?v=whsjY9PurOM"
+          },
+          {
+            "label": "Technology",
+            "url": "https://www.youtube.com/watch?v=gcTBEiUTyXE"
+          }
         ]
       },
       {
@@ -46851,6 +47131,17 @@ const curriculum: DayContent[] = [
               "The average number of people per unit of area"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YGrSLn32_FU",
+        "videoUrls": [
+          {
+            "label": "Canadian Geography",
+            "url": "https://www.youtube.com/watch?v=YGrSLn32_FU"
+          },
+          {
+            "label": "History",
+            "url": "https://www.youtube.com/watch?v=fa40H91hSqQ"
           }
         ]
       }

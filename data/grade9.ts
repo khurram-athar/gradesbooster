@@ -30301,6 +30301,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=yXPJcnKC6nU",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=yXPJcnKC6nU"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=CiNggzdWkIo"
+          }
         ]
       },
       {
@@ -30420,7 +30431,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=j_rNjiIiBKE"
       },
       {
         "subject": "SocialStudies",
@@ -30478,6 +30490,17 @@ const curriculum: DayContent[] = [
               "When human development divides natural habitats into smaller, isolated patches"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=HfN8BnRJryQ",
+        "videoUrls": [
+          {
+            "label": "Global Geography",
+            "url": "https://www.youtube.com/watch?v=HfN8BnRJryQ"
+          },
+          {
+            "label": "Trade",
+            "url": "https://www.youtube.com/watch?v=Q7xp1-VvtZ0"
           }
         ]
       }
@@ -32756,6 +32779,21 @@ const curriculum: DayContent[] = [
               "Replacing the need for any plot at all"
             ],
             "answer": 0
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=yXPJcnKC6nU",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=yXPJcnKC6nU"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=CiNggzdWkIo"
+          },
+          {
+            "label": "Reading",
+            "url": "https://www.youtube.com/watch?v=J2KHX1Pm5co"
           }
         ]
       },
@@ -35215,7 +35253,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=tllJv4GJKBo"
       },
       {
         "subject": "Math",
@@ -35393,6 +35432,17 @@ const curriculum: DayContent[] = [
               "Ground that has never once been frozen"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=HfN8BnRJryQ",
+        "videoUrls": [
+          {
+            "label": "Global Geography",
+            "url": "https://www.youtube.com/watch?v=HfN8BnRJryQ"
+          },
+          {
+            "label": "Regional Case Studies",
+            "url": "https://www.youtube.com/watch?v=WAnfj8v5acM"
           }
         ]
       }
@@ -37672,7 +37722,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=tllJv4GJKBo"
       },
       {
         "subject": "Math",
@@ -40130,7 +40181,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=RZFYuX84n1U"
       },
       {
         "subject": "Math",
@@ -40309,7 +40361,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Qtz0oujpL-U"
       }
     ]
   },
@@ -46824,6 +46877,21 @@ const curriculum: DayContent[] = [
               "9"
             ],
             "answer": 0
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=0ofTvk9uAl8",
+        "videoUrls": [
+          {
+            "label": "Linear Relations",
+            "url": "https://www.youtube.com/watch?v=0ofTvk9uAl8"
+          },
+          {
+            "label": "Geometry",
+            "url": "https://www.youtube.com/watch?v=vZZD43NlDwE"
+          },
+          {
+            "label": "Data Management (Days 147-186)",
+            "url": "https://www.youtube.com/watch?v=joYETClzA7M"
           }
         ]
       },

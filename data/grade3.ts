@@ -30121,6 +30121,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=updDFU5SoDI",
+        "videoUrls": [
+          {
+            "label": "Pronouns",
+            "url": "https://www.youtube.com/watch?v=updDFU5SoDI"
+          },
+          {
+            "label": "Genre",
+            "url": "https://www.youtube.com/watch?v=t37PQgzlOl4"
+          }
         ]
       },
       {
@@ -30179,6 +30190,21 @@ const curriculum: DayContent[] = [
               "Certain"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=362JVVvgYPE",
+        "videoUrls": [
+          {
+            "label": "Fractions",
+            "url": "https://www.youtube.com/watch?v=362JVVvgYPE"
+          },
+          {
+            "label": "Division",
+            "url": "https://www.youtube.com/watch?v=irfMCIgFJZY"
+          },
+          {
+            "label": "Measurement",
+            "url": "https://www.youtube.com/watch?v=MTSlKifo4js"
           }
         ]
       },
@@ -30323,6 +30349,17 @@ const curriculum: DayContent[] = [
               "July 1st"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=7C8uDuhLqvg",
+        "videoUrls": [
+          {
+            "label": "Government",
+            "url": "https://www.youtube.com/watch?v=7C8uDuhLqvg"
+          },
+          {
+            "label": "Geography",
+            "url": "https://www.youtube.com/watch?v=ynCxYFTWig4"
           }
         ]
       }
@@ -33213,6 +33250,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=lQ0VSa6XLlo",
+        "videoUrls": [
+          {
+            "label": "Regions",
+            "url": "https://www.youtube.com/watch?v=lQ0VSa6XLlo"
+          },
+          {
+            "label": "Symbols",
+            "url": "https://www.youtube.com/watch?v=dp8VOG8Cgag"
+          },
+          {
+            "label": "Government",
+            "url": "https://www.youtube.com/watch?v=7C8uDuhLqvg"
+          }
         ]
       }
     ]
@@ -33360,6 +33412,17 @@ const curriculum: DayContent[] = [
               "25 cents",
               "25 cents each"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=z8lcZUWbqT0",
+        "videoUrls": [
+          {
+            "label": "Arrays",
+            "url": "https://www.youtube.com/watch?v=z8lcZUWbqT0"
+          },
+          {
+            "label": "Rounding",
+            "url": "https://www.youtube.com/watch?v=DCi4gIaY-S4"
           }
         ]
       },
@@ -36640,7 +36703,8 @@ const curriculum: DayContent[] = [
               "a playground"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=wWpbjpmZZ9U"
       }
     ]
   },
@@ -36891,6 +36955,17 @@ const curriculum: DayContent[] = [
               "tiny living things",
               "tiny things that make us sick"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=1H1zqCvGcus",
+        "videoUrls": [
+          {
+            "label": "Habitats",
+            "url": "https://www.youtube.com/watch?v=1H1zqCvGcus"
+          },
+          {
+            "label": "Earth",
+            "url": "https://www.youtube.com/watch?v=riMAITbLqZI"
           }
         ]
       },
@@ -37227,6 +37302,21 @@ const curriculum: DayContent[] = [
               "adaptation"
             ]
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=XX3ZZQJp1gs",
+        "videoUrls": [
+          {
+            "label": "Our Bodies",
+            "url": "https://www.youtube.com/watch?v=XX3ZZQJp1gs"
+          },
+          {
+            "label": "Earth",
+            "url": "https://www.youtube.com/watch?v=riMAITbLqZI"
+          },
+          {
+            "label": "Energy",
+            "url": "https://www.youtube.com/watch?v=E9OX-y2PErk"
+          }
         ]
       },
       {
@@ -37477,6 +37567,17 @@ const curriculum: DayContent[] = [
             "answers": [
               "4"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=362JVVvgYPE",
+        "videoUrls": [
+          {
+            "label": "Fractions",
+            "url": "https://www.youtube.com/watch?v=362JVVvgYPE"
+          },
+          {
+            "label": "Shapes",
+            "url": "https://www.youtube.com/watch?v=s7GrS0b3FRw"
           }
         ]
       },
@@ -37983,6 +38084,21 @@ const curriculum: DayContent[] = [
               "cancer research",
               "to help fight cancer"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Bzzu1DDFtxI",
+        "videoUrls": [
+          {
+            "label": "Indigenous Peoples",
+            "url": "https://www.youtube.com/watch?v=Bzzu1DDFtxI"
+          },
+          {
+            "label": "Helpers",
+            "url": "https://www.youtube.com/watch?v=EzFnVfLtRE8"
+          },
+          {
+            "label": "Our World",
+            "url": "https://www.youtube.com/watch?v=zI2l6a6088M"
           }
         ]
       }
@@ -38658,6 +38774,21 @@ const curriculum: DayContent[] = [
               "the joining of colonies into Canada"
             ]
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=EzFnVfLtRE8",
+        "videoUrls": [
+          {
+            "label": "Helpers",
+            "url": "https://www.youtube.com/watch?v=EzFnVfLtRE8"
+          },
+          {
+            "label": "Symbols",
+            "url": "https://www.youtube.com/watch?v=dp8VOG8Cgag"
+          },
+          {
+            "label": "Our History",
+            "url": "https://www.youtube.com/watch?v=5h5Pqgkjgws"
+          }
         ]
       }
     ]
@@ -39326,6 +39457,21 @@ const curriculum: DayContent[] = [
             "answers": [
               "buying goods in a way that pays workers fairly"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=EzFnVfLtRE8",
+        "videoUrls": [
+          {
+            "label": "Helpers",
+            "url": "https://www.youtube.com/watch?v=EzFnVfLtRE8"
+          },
+          {
+            "label": "Government",
+            "url": "https://www.youtube.com/watch?v=7C8uDuhLqvg"
+          },
+          {
+            "label": "Our World",
+            "url": "https://www.youtube.com/watch?v=zI2l6a6088M"
           }
         ]
       }
@@ -40713,7 +40859,8 @@ const curriculum: DayContent[] = [
               "when characters speak"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=hzHUjXN4EfU"
       },
       {
         "subject": "Math",
@@ -40877,6 +41024,21 @@ const curriculum: DayContent[] = [
               "no",
               "no they cannot"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=XX3ZZQJp1gs",
+        "videoUrls": [
+          {
+            "label": "Bodies",
+            "url": "https://www.youtube.com/watch?v=XX3ZZQJp1gs"
+          },
+          {
+            "label": "Animals",
+            "url": "https://www.youtube.com/watch?v=NuHax57Ul-U"
+          },
+          {
+            "label": "Earth",
+            "url": "https://www.youtube.com/watch?v=riMAITbLqZI"
           }
         ]
       },
@@ -41193,7 +41355,8 @@ const curriculum: DayContent[] = [
               "moving air"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=JlA6T_64o0c"
       },
       {
         "subject": "SocialStudies",
@@ -41815,6 +41978,21 @@ const curriculum: DayContent[] = [
             "answers": [
               "amphibians"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=XX3ZZQJp1gs",
+        "videoUrls": [
+          {
+            "label": "Our Bodies",
+            "url": "https://www.youtube.com/watch?v=XX3ZZQJp1gs"
+          },
+          {
+            "label": "Animals",
+            "url": "https://www.youtube.com/watch?v=NuHax57Ul-U"
+          },
+          {
+            "label": "Habitats",
+            "url": "https://www.youtube.com/watch?v=1H1zqCvGcus"
           }
         ]
       },
@@ -43639,6 +43817,17 @@ const curriculum: DayContent[] = [
               "words that start with the same sound"
             ]
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=hzHUjXN4EfU",
+        "videoUrls": [
+          {
+            "label": "Word Families",
+            "url": "https://www.youtube.com/watch?v=hzHUjXN4EfU"
+          },
+          {
+            "label": "Prefixes",
+            "url": "https://www.youtube.com/watch?v=uc8AgRPyFe8"
+          }
         ]
       },
       {
@@ -45309,6 +45498,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=DCi4gIaY-S4",
+        "videoUrls": [
+          {
+            "label": "Rounding",
+            "url": "https://www.youtube.com/watch?v=DCi4gIaY-S4"
+          },
+          {
+            "label": "Budgeting",
+            "url": "https://www.youtube.com/watch?v=0iRbD5rM5qc"
+          }
         ]
       },
       {
@@ -45427,6 +45627,17 @@ const curriculum: DayContent[] = [
               "A network of recreational trails stretching across the country"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=7C8uDuhLqvg",
+        "videoUrls": [
+          {
+            "label": "Government",
+            "url": "https://www.youtube.com/watch?v=7C8uDuhLqvg"
+          },
+          {
+            "label": "Transportation",
+            "url": "https://www.youtube.com/watch?v=epyrwjhHV6Q"
           }
         ]
       }
@@ -47391,6 +47602,17 @@ const curriculum: DayContent[] = [
               "a comma"
             ]
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=hzHUjXN4EfU",
+        "videoUrls": [
+          {
+            "label": "New Word Families",
+            "url": "https://www.youtube.com/watch?v=hzHUjXN4EfU"
+          },
+          {
+            "label": "Punctuation",
+            "url": "https://www.youtube.com/watch?v=LHHdMj-XUy8"
+          }
         ]
       },
       {
@@ -47656,7 +47878,8 @@ const curriculum: DayContent[] = [
               "the most exciting part"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=urA4PNn9w9Y"
       },
       {
         "subject": "Math",
@@ -47984,6 +48207,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=a5dY0IrVfU0",
+        "videoUrls": [
+          {
+            "label": "Number Sense",
+            "url": "https://www.youtube.com/watch?v=a5dY0IrVfU0"
+          },
+          {
+            "label": "Multiplication",
+            "url": "https://www.youtube.com/watch?v=z8lcZUWbqT0"
+          },
+          {
+            "label": "Geometry",
+            "url": "https://www.youtube.com/watch?v=CYVmmTaqIPU"
+          }
         ]
       },
       {
@@ -48102,6 +48340,17 @@ const curriculum: DayContent[] = [
               "Repairs vehicles for a living"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=7VEgoT2Ojn0",
+        "videoUrls": [
+          {
+            "label": "Landmarks",
+            "url": "https://www.youtube.com/watch?v=7VEgoT2Ojn0"
+          },
+          {
+            "label": "Community Roles",
+            "url": "https://www.youtube.com/watch?v=9LB4dZtzOHc"
           }
         ]
       }
@@ -49860,7 +50109,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=1u57rNNxDHg"
       },
       {
         "subject": "Science",
@@ -49978,6 +50228,17 @@ const curriculum: DayContent[] = [
               "Replacing grocery stores completely"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=7VEgoT2Ojn0",
+        "videoUrls": [
+          {
+            "label": "Landmarks",
+            "url": "https://www.youtube.com/watch?v=7VEgoT2Ojn0"
+          },
+          {
+            "label": "Our Community — A Grade 3 Send-Off",
+            "url": "https://www.youtube.com/watch?v=a8hDKU_bAec"
           }
         ]
       }

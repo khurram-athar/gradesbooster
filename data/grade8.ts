@@ -30129,6 +30129,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=smgyeUomfyA",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=smgyeUomfyA"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=eXazA0597U8"
+          },
+          {
+            "label": "Reading Analysis",
+            "url": "https://www.youtube.com/watch?v=-RqwPj_J_IU"
+          }
         ]
       },
       {
@@ -30247,6 +30262,17 @@ const curriculum: DayContent[] = [
               "Genetically modified organism"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=pVCeZfBNE9Y",
+        "videoUrls": [
+          {
+            "label": "Physics",
+            "url": "https://www.youtube.com/watch?v=pVCeZfBNE9Y"
+          },
+          {
+            "label": "Genetics",
+            "url": "https://www.youtube.com/watch?v=C8OL1MTbGpU"
           }
         ]
       },
@@ -32584,6 +32610,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=smgyeUomfyA",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=smgyeUomfyA"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=eXazA0597U8"
+          },
+          {
+            "label": "Persuasive Writing (Days 121-129)",
+            "url": "https://www.youtube.com/watch?v=u7AsppQT2tQ"
+          }
         ]
       },
       {
@@ -32703,6 +32744,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ckbsHM2igT0",
+        "videoUrls": [
+          {
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=ckbsHM2igT0"
+          },
+          {
+            "label": "Physics (Days 121-129)",
+            "url": "https://www.youtube.com/watch?v=pVCeZfBNE9Y"
+          }
         ]
       },
       {
@@ -32762,7 +32814,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=VUqvpaDHjgU"
       }
     ]
   },
@@ -35033,6 +35086,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=smgyeUomfyA",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=smgyeUomfyA"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=eXazA0597U8"
+          }
         ]
       },
       {
@@ -35151,6 +35215,17 @@ const curriculum: DayContent[] = [
               "Pure hydrogen gas"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=pVCeZfBNE9Y",
+        "videoUrls": [
+          {
+            "label": "Physics",
+            "url": "https://www.youtube.com/watch?v=pVCeZfBNE9Y"
+          },
+          {
+            "label": "Earth Science (Days 131-139)",
+            "url": "https://www.youtube.com/watch?v=eXiVGEEPQ6c"
           }
         ]
       },
@@ -37483,6 +37558,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=smgyeUomfyA",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=smgyeUomfyA"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=eXazA0597U8"
+          },
+          {
+            "label": "Media Literacy (Days 141-149)",
+            "url": "https://www.youtube.com/watch?v=6R6-2_8m4Co"
+          }
         ]
       },
       {
@@ -37601,6 +37691,21 @@ const curriculum: DayContent[] = [
               "The heat from burning coal"
             ],
             "answer": 2
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ckbsHM2igT0",
+        "videoUrls": [
+          {
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=ckbsHM2igT0"
+          },
+          {
+            "label": "Physics",
+            "url": "https://www.youtube.com/watch?v=pVCeZfBNE9Y"
+          },
+          {
+            "label": "Earth Science (Days 141-149)",
+            "url": "https://www.youtube.com/watch?v=eXiVGEEPQ6c"
           }
         ]
       },
@@ -38395,6 +38500,17 @@ const curriculum: DayContent[] = [
               "A disagreement over railway construction in Ontario"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=MtbL8HZ4hGM",
+        "videoUrls": [
+          {
+            "label": "History",
+            "url": "https://www.youtube.com/watch?v=MtbL8HZ4hGM"
+          },
+          {
+            "label": "Exploration",
+            "url": "https://www.youtube.com/watch?v=KevkiNa6OaI"
           }
         ]
       }
@@ -39933,6 +40049,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=smgyeUomfyA",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=smgyeUomfyA"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=eXazA0597U8"
+          },
+          {
+            "label": "Literary Analysis (Days 151-159)",
+            "url": "https://www.youtube.com/watch?v=I5KZcdAmWLw"
+          }
         ]
       },
       {
@@ -40112,7 +40243,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=VUqvpaDHjgU"
       }
     ]
   },
@@ -41583,6 +41715,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=tcWPi7sVjnE",
+        "videoUrls": [
+          {
+            "label": "Rights",
+            "url": "https://www.youtube.com/watch?v=tcWPi7sVjnE"
+          },
+          {
+            "label": "Canadian History",
+            "url": "https://www.youtube.com/watch?v=MtbL8HZ4hGM"
+          }
         ]
       }
     ]
@@ -42385,6 +42528,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=smgyeUomfyA",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=smgyeUomfyA"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=eXazA0597U8"
+          }
         ]
       },
       {
@@ -42503,6 +42657,21 @@ const curriculum: DayContent[] = [
               "It began as a single planet that later became the whole universe"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ckbsHM2igT0",
+        "videoUrls": [
+          {
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=ckbsHM2igT0"
+          },
+          {
+            "label": "Physics",
+            "url": "https://www.youtube.com/watch?v=pVCeZfBNE9Y"
+          },
+          {
+            "label": "Earth Science (Days 161-169)",
+            "url": "https://www.youtube.com/watch?v=eXiVGEEPQ6c"
           }
         ]
       },
@@ -44840,6 +45009,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=smgyeUomfyA",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=smgyeUomfyA"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=eXazA0597U8"
+          },
+          {
+            "label": "Media Literacy (Days 171-179)",
+            "url": "https://www.youtube.com/watch?v=6R6-2_8m4Co"
+          }
         ]
       },
       {
@@ -44958,6 +45142,21 @@ const curriculum: DayContent[] = [
               "Defunct satellites, spent rocket stages, and fragments orbiting Earth"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ckbsHM2igT0",
+        "videoUrls": [
+          {
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=ckbsHM2igT0"
+          },
+          {
+            "label": "Physics",
+            "url": "https://www.youtube.com/watch?v=pVCeZfBNE9Y"
+          },
+          {
+            "label": "Space Science (Days 171-179)",
+            "url": "https://www.youtube.com/watch?v=EUU0-ZpFoK4"
           }
         ]
       },
@@ -46555,6 +46754,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=smgyeUomfyA",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=smgyeUomfyA"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=eXazA0597U8"
+          },
+          {
+            "label": "Narrative Reading (Days 181-186)",
+            "url": "https://www.youtube.com/watch?v=xjKruwAfZWk"
+          }
         ]
       },
       {
@@ -46673,6 +46887,21 @@ const curriculum: DayContent[] = [
               "Living dinosaurs still roaming the surface"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ckbsHM2igT0",
+        "videoUrls": [
+          {
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=ckbsHM2igT0"
+          },
+          {
+            "label": "Biology",
+            "url": "https://www.youtube.com/watch?v=GK_vRtHJZu4"
+          },
+          {
+            "label": "Space Science (Days 181-186)",
+            "url": "https://www.youtube.com/watch?v=EUU0-ZpFoK4"
           }
         ]
       },

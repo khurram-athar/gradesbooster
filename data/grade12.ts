@@ -29789,7 +29789,7 @@ const curriculum: DayContent[] = [
         "title": "Gravitational Potential Energy: Near a Planet's Surface vs. Far Away",
         "summary": "Compares the simplified U = mgh approximation used near a planet's surface with the general U = −GMm/r formula, and applies both to escape velocity and orbital energy problems.",
         "resourceLabel": "YouTube: Gravitational Potential Energy: Near a Planet's Surface vs. Far Away",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Gravitational%20Potential%20Energy%3A%20Near%20a%20Planet%27s%20Surface%20vs.%20Far%20Away%20grade%2012%20physics%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Gravitational%20Potential%20Energy%3A%20Near%20a%20Planet%27s%20Surface%20vs.%20Far%20Away%20grade%2012%20educational",
         "quiz": [
           {
             "q": "A 1000 kg satellite orbits at a distance of 7.0 × 10⁶ m from Earth's centre (M = 5.98 × 10²⁴ kg, G = 6.67 × 10⁻¹¹ N·m²/kg²). What is its gravitational potential energy relative to infinity?",
@@ -29841,7 +29841,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=yJHejxhwsIU"
       }
     ]
   },
@@ -29905,6 +29906,17 @@ const curriculum: DayContent[] = [
               "A type of punctuation used in formal writing"
             ],
             "answer": 0
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=_Vh2miANqUA",
+        "videoUrls": [
+          {
+            "label": "Literary Theory",
+            "url": "https://www.youtube.com/watch?v=_Vh2miANqUA"
+          },
+          {
+            "label": "Poetic Form",
+            "url": "https://www.youtube.com/watch?v=IYWbUh0r-EI"
           }
         ]
       },
@@ -32346,6 +32358,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=IYWbUh0r-EI",
+        "videoUrls": [
+          {
+            "label": "Poetic Form",
+            "url": "https://www.youtube.com/watch?v=IYWbUh0r-EI"
+          },
+          {
+            "label": "Rhetoric",
+            "url": "https://www.youtube.com/watch?v=qTIyd0kLArs"
+          }
         ]
       },
       {
@@ -32524,6 +32547,21 @@ const curriculum: DayContent[] = [
               "The threshold frequency required for emission"
             ],
             "answer": 2
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=9W3RsaWuCuE",
+        "videoUrls": [
+          {
+            "label": "Matter-Energy Conversion",
+            "url": "https://www.youtube.com/watch?v=9W3RsaWuCuE"
+          },
+          {
+            "label": "Circuits",
+            "url": "https://www.youtube.com/watch?v=r-SCyD7f_zI"
+          },
+          {
+            "label": "Optics",
+            "url": "https://www.youtube.com/watch?v=HOk4Zt2vZrA"
           }
         ]
       }
@@ -32954,7 +32992,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=bRZmfc1YFsQ"
       },
       {
         "subject": "Physics",
@@ -34787,6 +34826,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=OqLZ-6vx_ZE",
+        "videoUrls": [
+          {
+            "label": "Genre",
+            "url": "https://www.youtube.com/watch?v=OqLZ-6vx_ZE"
+          },
+          {
+            "label": "Form",
+            "url": "https://www.youtube.com/watch?v=dI34pqtNRHA"
+          }
         ]
       },
       {
@@ -34964,6 +35014,17 @@ const curriculum: DayContent[] = [
               "GPS satellites are stationary relative to Earth's surface, so no relativistic correction is needed"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=HOk4Zt2vZrA",
+        "videoUrls": [
+          {
+            "label": "Optics",
+            "url": "https://www.youtube.com/watch?v=HOk4Zt2vZrA"
+          },
+          {
+            "label": "Electromagnetism",
+            "url": "https://www.youtube.com/watch?v=pkzY7QfTowM"
           }
         ]
       }
@@ -35881,7 +35942,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Calculus: Limits & Rates of Change"
+        "topic": "Calculus: Limits & Rates of Change",
+        "videoUrl": "https://www.youtube.com/watch?v=YNstP0ESndU"
       },
       {
         "subject": "Physics",
@@ -37285,6 +37347,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=fy45qX8cUwQ",
+        "videoUrls": [
+          {
+            "label": "Rational Functions",
+            "url": "https://www.youtube.com/watch?v=fy45qX8cUwQ"
+          },
+          {
+            "label": "Probability",
+            "url": "https://www.youtube.com/watch?v=UrOXRvG9oYE"
+          },
+          {
+            "label": "Counting Principles",
+            "url": "https://www.youtube.com/watch?v=xOtsY5Raj_4"
+          }
         ]
       },
       {
@@ -37404,7 +37481,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=HOk4Zt2vZrA"
       }
     ]
   },
@@ -39667,7 +39745,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=OqLZ-6vx_ZE"
       },
       {
         "subject": "AdvancedFunctions",
@@ -39725,6 +39804,21 @@ const curriculum: DayContent[] = [
               "A single simple fraction with a fixed denominator only"
             ],
             "answer": 0
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Pn03dfOz-Cs",
+        "videoUrls": [
+          {
+            "label": "Statistics",
+            "url": "https://www.youtube.com/watch?v=Pn03dfOz-Cs"
+          },
+          {
+            "label": "Optimization",
+            "url": "https://www.youtube.com/watch?v=Ip3X9LOh2dk"
+          },
+          {
+            "label": "Discrete Math",
+            "url": "https://www.youtube.com/watch?v=Tj89FA-d0f8"
           }
         ]
       },
@@ -39844,6 +39938,21 @@ const curriculum: DayContent[] = [
               "The center of mass has no defined trajectory for a rotating object"
             ],
             "answer": 2
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=XY0RJu4sDHk",
+        "videoUrls": [
+          {
+            "label": "Waves",
+            "url": "https://www.youtube.com/watch?v=XY0RJu4sDHk"
+          },
+          {
+            "label": "Relativity",
+            "url": "https://www.youtube.com/watch?v=AInCqm5nCzw"
+          },
+          {
+            "label": "Mechanics",
+            "url": "https://www.youtube.com/watch?v=16HDJNoXQII"
           }
         ]
       }
@@ -42110,6 +42219,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=udA1MVU59LQ",
+        "videoUrls": [
+          {
+            "label": "Satire",
+            "url": "https://www.youtube.com/watch?v=udA1MVU59LQ"
+          },
+          {
+            "label": "Rhetoric",
+            "url": "https://www.youtube.com/watch?v=qTIyd0kLArs"
+          }
         ]
       },
       {
@@ -42229,7 +42349,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=j6I3EXiKB2A"
       },
       {
         "subject": "Physics",
@@ -42287,6 +42408,21 @@ const curriculum: DayContent[] = [
               "1/9"
             ],
             "answer": 2
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=AInCqm5nCzw",
+        "videoUrls": [
+          {
+            "label": "Relativity",
+            "url": "https://www.youtube.com/watch?v=AInCqm5nCzw"
+          },
+          {
+            "label": "Circuits",
+            "url": "https://www.youtube.com/watch?v=r-SCyD7f_zI"
+          },
+          {
+            "label": "Nuclear Physics",
+            "url": "https://www.youtube.com/watch?v=lUhJL7o6_cA"
           }
         ]
       }
@@ -43754,6 +43890,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=IawY86XveQE",
+        "videoUrls": [
+          {
+            "label": "Circular Motion",
+            "url": "https://www.youtube.com/watch?v=IawY86XveQE"
+          },
+          {
+            "label": "Momentum",
+            "url": "https://www.youtube.com/watch?v=E13h1E_Pc00"
+          },
+          {
+            "label": "Optics",
+            "url": "https://www.youtube.com/watch?v=HOk4Zt2vZrA"
+          }
         ]
       }
     ]
@@ -43939,7 +44090,18 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Calculus: Derivatives"
+        "topic": "Calculus: Derivatives",
+        "videoUrl": "https://www.youtube.com/watch?v=Srqij2JXdeg",
+        "videoUrls": [
+          {
+            "label": "Concavity",
+            "url": "https://www.youtube.com/watch?v=Srqij2JXdeg"
+          },
+          {
+            "label": "the Second Derivative",
+            "url": "https://www.youtube.com/watch?v=HieFBOiqp8U"
+          }
+        ]
       },
       {
         "subject": "Physics",
@@ -44428,7 +44590,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Z5myJ8dg_rM"
       },
       {
         "subject": "Physics",
@@ -44551,6 +44714,17 @@ const curriculum: DayContent[] = [
               "To document historical events with no persuasive or declarative purpose"
             ],
             "answer": 2
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=_Vh2miANqUA",
+        "videoUrls": [
+          {
+            "label": "Theory",
+            "url": "https://www.youtube.com/watch?v=_Vh2miANqUA"
+          },
+          {
+            "label": "Public Rhetoric",
+            "url": "https://www.youtube.com/watch?v=w4k6eo1NlP4"
           }
         ]
       },
@@ -44730,6 +44904,17 @@ const curriculum: DayContent[] = [
               "Air resistance alone supports the drop's weight"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=TxksKeaShRg",
+        "videoUrls": [
+          {
+            "label": "Quantum Mechanics",
+            "url": "https://www.youtube.com/watch?v=TxksKeaShRg"
+          },
+          {
+            "label": "Charge",
+            "url": "https://www.youtube.com/watch?v=2HhaQtvICe8"
           }
         ]
       }
@@ -45406,7 +45591,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Calculus: Derivatives"
+        "topic": "Calculus: Derivatives",
+        "videoUrl": "https://www.youtube.com/watch?v=WqRPFvZWF0k"
       },
       {
         "subject": "Physics",
@@ -46264,6 +46450,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=udA1MVU59LQ",
+        "videoUrls": [
+          {
+            "label": "Satire",
+            "url": "https://www.youtube.com/watch?v=udA1MVU59LQ"
+          },
+          {
+            "label": "Genre",
+            "url": "https://www.youtube.com/watch?v=OqLZ-6vx_ZE"
+          },
+          {
+            "label": "Media",
+            "url": "https://www.youtube.com/watch?v=AD7N-1Mj-DU"
+          }
         ]
       },
       {
@@ -46383,7 +46584,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=WqRPFvZWF0k"
       },
       {
         "subject": "Physics",
@@ -46442,7 +46644,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=VFbyDCG_j18"
       }
     ]
   },

@@ -31099,6 +31099,21 @@ const curriculum: DayContent[] = [
               "sunlight"
             ]
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Qd6nLM2QlWw",
+        "videoUrls": [
+          {
+            "label": "Space",
+            "url": "https://www.youtube.com/watch?v=Qd6nLM2QlWw"
+          },
+          {
+            "label": "Animals",
+            "url": "https://www.youtube.com/watch?v=bnqPTva-xkE"
+          },
+          {
+            "label": "Energy",
+            "url": "https://www.youtube.com/watch?v=Vx0yAS2u8gI"
+          }
         ]
       },
       {
@@ -31282,6 +31297,21 @@ const curriculum: DayContent[] = [
               "1000"
             ],
             "answer": 2
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=EI2qZC1vUGk",
+        "videoUrls": [
+          {
+            "label": "Multiplication",
+            "url": "https://www.youtube.com/watch?v=EI2qZC1vUGk"
+          },
+          {
+            "label": "Fractions",
+            "url": "https://www.youtube.com/watch?v=362JVVvgYPE"
+          },
+          {
+            "label": "Data",
+            "url": "https://www.youtube.com/watch?v=zF_dBk8EPDk"
           }
         ]
       },
@@ -32287,6 +32317,25 @@ const curriculum: DayContent[] = [
               "10000"
             ],
             "answer": 0
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=2-sP854NMLw",
+        "videoUrls": [
+          {
+            "label": "Division",
+            "url": "https://www.youtube.com/watch?v=2-sP854NMLw"
+          },
+          {
+            "label": "Fractions",
+            "url": "https://www.youtube.com/watch?v=362JVVvgYPE"
+          },
+          {
+            "label": "Data",
+            "url": "https://www.youtube.com/watch?v=zF_dBk8EPDk"
+          },
+          {
+            "label": "Measurement",
+            "url": "https://www.youtube.com/watch?v=AVC-426M6V0"
           }
         ]
       },
@@ -33725,6 +33774,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=r66DZ5MOzBg",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=r66DZ5MOzBg"
+          },
+          {
+            "label": "Poetry",
+            "url": "https://www.youtube.com/watch?v=wBDccFaKs2M"
+          }
         ]
       },
       {
@@ -33843,6 +33903,17 @@ const curriculum: DayContent[] = [
               "Egg, larva, pupa, and adult"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Vx0yAS2u8gI",
+        "videoUrls": [
+          {
+            "label": "Energy",
+            "url": "https://www.youtube.com/watch?v=Vx0yAS2u8gI"
+          },
+          {
+            "label": "Ecosystems",
+            "url": "https://www.youtube.com/watch?v=Um-bo2MWDsQ"
           }
         ]
       },
@@ -34643,6 +34714,17 @@ const curriculum: DayContent[] = [
             "answers": [
               "our sense of balance"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=y66-VXL_FQk",
+        "videoUrls": [
+          {
+            "label": "Earth",
+            "url": "https://www.youtube.com/watch?v=y66-VXL_FQk"
+          },
+          {
+            "label": "Our Bodies",
+            "url": "https://www.youtube.com/watch?v=qWc8X6YeTv8"
           }
         ]
       },
@@ -36355,6 +36437,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=r66DZ5MOzBg",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=r66DZ5MOzBg"
+          },
+          {
+            "label": "Reading",
+            "url": "https://www.youtube.com/watch?v=F6wvArMBZIo"
+          }
         ]
       },
       {
@@ -37238,6 +37331,21 @@ const curriculum: DayContent[] = [
               "5",
               "five"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=qk2oP6FZ6HA",
+        "videoUrls": [
+          {
+            "label": "A Year of Numbers",
+            "url": "https://www.youtube.com/watch?v=qk2oP6FZ6HA"
+          },
+          {
+            "label": "Shapes",
+            "url": "https://www.youtube.com/watch?v=dMCdBQ9xrHk"
+          },
+          {
+            "label": "Problem Solving",
+            "url": "https://www.youtube.com/watch?v=p_ANRNgKTc8"
           }
         ]
       },
@@ -38965,6 +39073,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=r66DZ5MOzBg",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=r66DZ5MOzBg"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=CiNggzdWkIo"
+          },
+          {
+            "label": "Reading Skills (Days 141-149)",
+            "url": "https://www.youtube.com/watch?v=ZrBBylNNf6A"
+          }
         ]
       },
       {
@@ -39166,6 +39289,17 @@ const curriculum: DayContent[] = [
               "Being located entirely underwater"
             ],
             "answer": 2
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=zz440EuFK8Q",
+        "videoUrls": [
+          {
+            "label": "Canadian History",
+            "url": "https://www.youtube.com/watch?v=zz440EuFK8Q"
+          },
+          {
+            "label": "Government",
+            "url": "https://www.youtube.com/watch?v=hLzXOA6FBX8"
           }
         ]
       }
@@ -41583,7 +41717,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=bnqPTva-xkE"
       },
       {
         "subject": "SocialStudies",
@@ -41642,7 +41777,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=bKIGBcAtVfQ"
       }
     ]
   },
@@ -43940,7 +44076,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=gfJ2q8LN4jo"
       },
       {
         "subject": "Math",
@@ -46396,6 +46533,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=r66DZ5MOzBg",
+        "videoUrls": [
+          {
+            "label": "Adverbs",
+            "url": "https://www.youtube.com/watch?v=r66DZ5MOzBg"
+          },
+          {
+            "label": "Mood",
+            "url": "https://www.youtube.com/watch?v=3BVOIyUnk6s"
+          }
         ]
       },
       {
@@ -48115,6 +48263,17 @@ const curriculum: DayContent[] = [
               "Setting off extra information or creating a dramatic pause"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=r66DZ5MOzBg",
+        "videoUrls": [
+          {
+            "label": "Grammar",
+            "url": "https://www.youtube.com/watch?v=r66DZ5MOzBg"
+          },
+          {
+            "label": "Vocabulary",
+            "url": "https://www.youtube.com/watch?v=CiNggzdWkIo"
           }
         ]
       },
