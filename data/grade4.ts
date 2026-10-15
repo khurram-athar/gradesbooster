@@ -31174,7 +31174,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Canadian Institutions & Justice"
+        "topic": "Canadian Institutions & Justice",
+        "videoUrl": "https://www.youtube.com/watch?v=6n9ESR-g3Q8"
       }
     ]
   },
@@ -31239,7 +31240,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=NpWHZJZQDSE"
       },
       {
         "subject": "Math",
@@ -31396,7 +31398,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Human Body (Basic)"
+        "topic": "Human Body (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=j918PoWWaB0"
       },
       {
         "subject": "SocialStudies",
@@ -31456,7 +31459,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=tRRsUJPKiEA"
       }
     ]
   },
@@ -31522,7 +31526,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=xUt7-B8IfxU"
       },
       {
         "subject": "Math",
@@ -31582,7 +31587,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Fractions"
+        "topic": "Fractions",
+        "videoUrl": "https://www.youtube.com/watch?v=MZmENadGcK0"
       },
       {
         "subject": "Science",
@@ -31642,7 +31648,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=Og5xAdC8EUI"
       },
       {
         "subject": "SocialStudies",
@@ -31702,7 +31709,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=eq9XvKeM0kc"
       }
     ]
   },

@@ -29663,7 +29663,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=-O9TrPBza64"
       },
       {
         "subject": "AdvancedFunctions",
@@ -29723,7 +29724,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Fo6z13Y160E"
       },
       {
         "subject": "Calculus",
@@ -29978,7 +29980,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=gI3xqrWPOD8"
       },
       {
         "subject": "Calculus",
@@ -30037,7 +30040,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=2sZKZHyaQJ8"
       },
       {
         "subject": "Physics",
@@ -30095,6 +30099,17 @@ const curriculum: DayContent[] = [
               "Because gravitational potential energy is undefined above a planet's atmosphere"
             ],
             "answer": 0
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Ho7K27B_Uu8",
+        "videoUrls": [
+          {
+            "label": "Cavendish Experiment: Measuring the Gravitational Constant",
+            "url": "https://www.youtube.com/watch?v=yhNUBYj3-2Y"
+          },
+          {
+            "label": "Faraday's Law of Electromagnetic Induction",
+            "url": "https://www.youtube.com/watch?v=0o7K-4LipbM"
           }
         ]
       }

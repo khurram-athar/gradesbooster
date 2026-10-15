@@ -30477,7 +30477,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=fGVlL47TKAw"
       },
       {
         "subject": "Science",
@@ -30537,7 +30538,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Matter & Materials"
+        "topic": "Matter & Materials",
+        "videoUrl": "https://www.youtube.com/watch?v=MDHlaTHbEgM"
       },
       {
         "subject": "SocialStudies",
@@ -30597,7 +30599,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "History: Colonial & 19th Century Canada"
+        "topic": "History: Colonial & 19th Century Canada",
+        "videoUrl": "https://www.youtube.com/watch?v=xUy0tlhIOOA"
       }
     ]
   },

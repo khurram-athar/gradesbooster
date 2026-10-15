@@ -30372,7 +30372,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=n02r9ZKAi0I"
       },
       {
         "subject": "Science",

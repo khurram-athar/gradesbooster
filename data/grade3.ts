@@ -30427,7 +30427,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=b9PHe83hrpc"
       },
       {
         "subject": "Math",
@@ -30487,7 +30488,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=BxmZr2YcP4g"
       },
       {
         "subject": "Science",
@@ -30571,7 +30573,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=xbt-TQLPzoU"
       },
       {
         "subject": "SocialStudies",
@@ -30631,7 +30634,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Canadian Geography & Regions"
+        "topic": "Canadian Geography & Regions",
+        "videoUrl": "https://www.youtube.com/watch?v=HLz-KPg4_b8"
       }
     ]
   },

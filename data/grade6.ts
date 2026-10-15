@@ -30236,7 +30236,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=RCSWEzr0H6o"
       },
       {
         "subject": "Science",
@@ -30422,7 +30423,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=tYKqNtVTT6Q"
       },
       {
         "subject": "Math",
@@ -30482,7 +30484,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Number Sense: Place Value & Operations"
+        "topic": "Number Sense: Place Value & Operations",
+        "videoUrl": "https://www.youtube.com/watch?v=lEt0y114jDY"
       },
       {
         "subject": "Science",
@@ -30541,7 +30544,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Cca5DaNs98w"
       },
       {
         "subject": "SocialStudies",
@@ -30601,7 +30605,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Canadian Identity & Symbols"
+        "topic": "Canadian Identity & Symbols",
+        "videoUrl": "https://www.youtube.com/watch?v=OGv5AqZiG7A"
       }
     ]
   },

@@ -30204,7 +30204,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dCD02kuobnY"
       },
       {
         "subject": "Science",
@@ -30334,7 +30335,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Money, Jobs & Economy (Basic)"
+        "topic": "Money, Jobs & Economy (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=_OwUDVXD5wc"
       }
     ]
   },
@@ -30400,7 +30402,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=vc5quu-Ma7U"
       },
       {
         "subject": "Math",
@@ -30460,7 +30463,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dNDbRbHNXFQ"
       },
       {
         "subject": "Science",
@@ -30519,6 +30523,13 @@ const curriculum: DayContent[] = [
               "The direction the wheels are shaped"
             ],
             "answer": 0
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=pxD3SHMp9Es",
+        "videoUrls": [
+          {
+            "label": "cAG5LlwEAtw",
+            "url": "https://www.youtube.com/watch?v=Types of Gears and Their Uses"
           }
         ]
       },
@@ -30580,7 +30591,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Natural Resources & Industry",
+        "videoUrl": "https://www.youtube.com/watch?v=X-4k9rhSnvs"
       }
     ]
   },

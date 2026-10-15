@@ -37340,7 +37340,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=kQXFJnpcCYs"
       },
       {
         "subject": "Science",
@@ -37496,7 +37497,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Community Helpers & Civic Roles (Basic)"
+        "topic": "Community Helpers & Civic Roles (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=vcvYyWxjoZI"
       }
     ]
   },
@@ -37583,7 +37585,8 @@ const curriculum: DayContent[] = [
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=_n67uuIZGqA"
       },
       {
         "subject": "Math",
@@ -37643,7 +37646,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Fractions"
+        "topic": "Fractions",
+        "videoUrl": "https://www.youtube.com/watch?v=pWJzqTYS8no"
       },
       {
         "subject": "Science",
@@ -37703,7 +37707,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Animal Adaptations & Behaviour"
+        "topic": "Animal Adaptations & Behaviour",
+        "videoUrl": "https://www.youtube.com/watch?v=fSIFU8OTwrg"
       },
       {
         "subject": "SocialStudies",
@@ -37763,7 +37768,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Community Helpers & Civic Roles (Basic)"
+        "topic": "Community Helpers & Civic Roles (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=QI7DybfvbRo"
       }
     ]
   },

@@ -37653,7 +37653,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YOwtV9Aeb2M"
       }
     ]
   },
@@ -37742,7 +37743,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Literary Devices & Analysis"
+        "topic": "Literary Devices & Analysis",
+        "videoUrl": "https://www.youtube.com/watch?v=kVNal4_izVU"
       },
       {
         "subject": "Math",
@@ -37802,7 +37804,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=nFvBPFf9ZK0"
       },
       {
         "subject": "Science",
@@ -37862,7 +37865,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=44U0UEvR2-Q"
       },
       {
         "subject": "SocialStudies",
@@ -37945,7 +37949,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Community Helpers & Civic Roles (Basic)"
+        "topic": "Community Helpers & Civic Roles (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=8YT97ON_b8M"
       }
     ]
   },

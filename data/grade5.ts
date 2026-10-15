@@ -30936,7 +30936,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Multiplication & Division",
+        "videoUrl": "https://www.youtube.com/watch?v=7ydIF4UmXnE"
       },
       {
         "subject": "Science",
@@ -31142,7 +31143,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=KZchOFRu4fk"
       },
       {
         "subject": "Math",
@@ -31202,7 +31204,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Number Sense: Place Value & Operations"
+        "topic": "Number Sense: Place Value & Operations",
+        "videoUrl": "https://www.youtube.com/watch?v=zSg4Pzq8jns"
       },
       {
         "subject": "Science",
@@ -31262,7 +31265,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=ldfRWjUpO8M",
+        "videoUrls": [
+          {
+            "label": "What is Biomass",
+            "url": "https://www.youtube.com/watch?v=LsvrsXhxO2I"
+          }
+        ]
       },
       {
         "subject": "SocialStudies",
@@ -31322,7 +31332,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Government & Civics"
+        "topic": "Government & Civics",
+        "videoUrl": "https://www.youtube.com/watch?v=3hDYA3sQzkw"
       }
     ]
   },
