@@ -29731,6 +29731,7 @@
         "summary": "Grade 10 Math strand: the cross product of two three-dimensional vectors produces a new vector perpendicular to both original vectors, with a magnitude related to the area of the parallelogram they form.",
         "resourceLabel": "YouTube: Vectors: The Cross Product and Applications",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20The%20Cross%20Product%20and%20Applications%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pWbOisq1MJU",
         "quiz": [
           {
             "q": "What does the cross product of two vectors produce?",
@@ -30123,6 +30124,7 @@
         "summary": "Grade 12 English strand: the sonnet is a fourteen-line poem traditionally built around a turn in argument or feeling called the volta, with the Petrarchan form dividing into an octave and sestet and the Shakespearean form closing with a rhymed couplet.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=005VgtfJit0",
         "quiz": [
           {
             "q": "How many lines does a traditional sonnet contain?",
@@ -30184,6 +30186,7 @@
         "resourceLabel": "YouTube: Solving Exponential Equations with Unlike Bases",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Exponential%20Equations%20with%20Unlike%20Bases%20grade%2012%20educational",
         "topic": "Functions: Exponential & Logarithmic",
+        "videoUrl": "https://www.youtube.com/watch?v=oVUJMVR1JpA",
         "quiz": [
           {
             "q": "To solve 5^x = 20 for x, the first useful step is:",
@@ -30243,6 +30246,21 @@
         "summary": "Grade 10 Math strand review: students revisit conic sections, sum and difference identities, sampling methods, the binomial distribution, matrix transformations, derivatives, the cross product, the complex plane, and modular arithmetic.",
         "resourceLabel": "YouTube: Review: Conics, Statistics, Matrices, and Number Systems (Days 101-109)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Conics%2C%20Statistics%2C%20Matrices%2C%20and%20Number%20Systems%20%28Days%20101-109%29%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0A7RR0oy2ho",
+        "videoUrls": [
+          {
+            "label": "Statistics: The Chi-Squared Test",
+            "url": "https://www.youtube.com/watch?v=y24q6BhRiDc"
+          },
+          {
+            "label": "Number Theory: Prime Distribution",
+            "url": "https://www.youtube.com/watch?v=V08g_lkKj6Q"
+          },
+          {
+            "label": "Matrices as Transformations",
+            "url": "https://www.youtube.com/watch?v=PtjdhADnJi4"
+          }
+        ],
         "quiz": [
           {
             "q": "What are conic sections?",
@@ -30302,6 +30320,7 @@
         "summary": "Examines how a photon's energy can convert into an electron-positron pair (and the reverse process of annihilation), applying E = mc² and conservation of energy and momentum.",
         "resourceLabel": "YouTube: Pair Production and Annihilation: Converting Energy into Matter",
         "resourceUrl": "https://www.youtube.com/results?search_query=Pair%20Production%20and%20Annihilation%3A%20Converting%20Energy%20into%20Matter%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3qZraeeaFA8",
         "quiz": [
           {
             "q": "What is the minimum energy a single photon must have to produce an electron-positron pair (each with rest energy 0.511 MeV)?",

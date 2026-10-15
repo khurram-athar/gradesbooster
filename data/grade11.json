@@ -30314,6 +30314,7 @@
         "summary": "Grade 11 English strand: a motif is a recurring image, phrase, or idea that repeats throughout a text, reinforcing central themes and creating structural and thematic unity across a narrative.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=isBKoIORntI",
         "quiz": [
           {
             "q": "What is a motif?",
@@ -30374,6 +30375,7 @@
         "summary": "Grade 11 Functions strand: the derivative of a function at a point is defined as the limit of the average rate of change as the interval shrinks toward zero, giving the instantaneous rate of change and the slope of the tangent line.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=N2PpRnFqnqY",
         "quiz": [
           {
             "q": "How is the derivative of a function at a point defined?",
@@ -30435,6 +30437,7 @@
         "resourceLabel": "YouTube: Cell Biology: The Cytoskeleton -- Shape, Support, and Movement",
         "resourceUrl": "https://www.youtube.com/results?search_query=Cell%20Biology%3A%20The%20Cytoskeleton%20--%20Shape%2C%20Support%2C%20and%20Movement%20grade%2011%20educational",
         "topic": "Cells & Microorganisms",
+        "videoUrl": "https://www.youtube.com/watch?v=5DKZiSJeoV4",
         "quiz": [
           {
             "q": "Which cytoskeletal component is the thickest and forms the tracks for organelle transport by motor proteins?",
@@ -30494,6 +30497,7 @@
         "summary": "Grade 9 Science Biology strand: cellular respiration breaks down glucose in the presence of oxygen to release usable energy for cells, producing carbon dioxide and water as byproducts.",
         "resourceLabel": "YouTube: Cellular Respiration in Depth",
         "resourceUrl": "https://www.youtube.com/results?search_query=Cellular%20Respiration%20in%20Depth%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=00jbG_cfGuQ",
         "quiz": [
           {
             "q": "Cellular respiration breaks down ___ to release usable energy.",

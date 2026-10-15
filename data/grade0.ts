@@ -34871,6 +34871,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Grammar: More Question Words - When and Why",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20More%20Question%20Words%20-%20When%20and%20Why%20kindergarten%20educational",
         "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=Y_E-N5y1r7g",
         "quiz": [
           {
             "q": "Which question word do you use to ask about TIME?",
@@ -34931,6 +34932,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Sorting: Same and Different",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%3A%20Same%20and%20Different%20kindergarten%20educational",
         "topic": "Sorting & Classifying",
+        "videoUrl": "https://www.youtube.com/watch?v=msBlyCXxf8g",
         "quiz": [
           {
             "q": "A red circle and a red circle of the exact same size are",
@@ -34991,6 +34993,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Clouds: Fluffy, Grey, and Full of Rain",
         "resourceUrl": "https://www.youtube.com/results?search_query=Clouds%3A%20Fluffy%2C%20Grey%2C%20and%20Full%20of%20Rain%20kindergarten%20educational",
         "topic": "Weather, Climate & Atmosphere",
+        "videoUrl": "https://www.youtube.com/watch?v=QAqeFSa60TE",
         "quiz": [
           {
             "q": "What are clouds mostly made of?",
@@ -35051,6 +35054,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Our Police Officers: Keeping Our Community Safe",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Police%20Officers%3A%20Keeping%20Our%20Community%20Safe%20kindergarten%20educational",
         "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=Yy7XNfm-_4Y",
         "quiz": [
           {
             "q": "What is one job that a police officer does?",

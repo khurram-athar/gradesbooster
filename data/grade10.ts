@@ -30252,6 +30252,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: a gerund is a verb form ending in -ing that functions as a noun, an infinitive is the base form of a verb usually preceded by to, and both are verbals that let writers embed actions within noun phrases without a full clause.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=LfDWCcbIjDg",
         "quiz": [
           {
             "q": "What is a gerund?",
@@ -30313,6 +30314,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Parallel and Perpendicular Lines",
         "resourceUrl": "https://www.youtube.com/results?search_query=Parallel%20and%20Perpendicular%20Lines%20grade%2010%20educational",
         "topic": "Analytic & Coordinate Geometry",
+        "videoUrl": "https://www.youtube.com/watch?v=9hryH94KFJA",
         "quiz": [
           {
             "q": "Two lines are parallel. What must be true of their slopes?",
@@ -30372,6 +30374,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: the skin is the largest organ of the human body and the primary component of the integumentary system, providing protection against pathogens and injury, regulating body temperature, and enabling sensation through specialized receptors.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=t1iQHHJ0YyE",
         "quiz": [
           {
             "q": "What is the skin considered in relation to the human body?",
@@ -30432,6 +30435,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: at the 1919 Paris Peace Conference following World War I, Canada signed the Treaty of Versailles as a separate signatory alongside Britain, an early assertion of Canadian autonomy in international affairs that built on the nations wartime contributions.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=QHVmI0uZq5k",
         "quiz": [
           {
             "q": "What major agreement was signed at the Paris Peace Conference in 1919?",
