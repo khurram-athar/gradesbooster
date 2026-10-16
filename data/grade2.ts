@@ -36361,6 +36361,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: a sequel continues the story after the original ending, and writers use what they know about the characters and setting to imagine new events.",
         "resourceLabel": "YouTube: Story Sequels: Imagining What Happens Next",
         "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Sequels%3A%20Imagining%20What%20Happens%20Next%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=w_pNQYh1nRY",
         "quiz": [
           {
             "q": "What is a sequel?",
@@ -37844,6 +37845,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: students find missing addends that combine with a given number to make 100, such as finding that 35 needs 65 more to reach 100.",
         "resourceLabel": "YouTube: Number Bonds to 100: Finding Missing Addends",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Bonds%20to%20100%3A%20Finding%20Missing%20Addends%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=n77LzWeUJvw",
         "quiz": [
           {
             "q": "35 + ? = 100",
@@ -37904,6 +37906,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: reptiles like snakes and turtles, and amphibians like frogs, are cold-blooded animals whose body temperature changes with their surroundings.",
         "resourceLabel": "YouTube: Reptiles and Amphibians: Cold-Blooded Animals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reptiles%20and%20Amphibians%3A%20Cold-Blooded%20Animals%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=BG2TrvQ4PaY",
         "quiz": [
           {
             "q": "What does it mean for an animal to be cold-blooded?",
@@ -38031,6 +38034,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise sentence building, learning that words must be arranged in a sensible order for a sentence to make sense and be understood by a reader.",
         "resourceLabel": "YouTube: Sentence Building: Putting Words in Order",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sentence%20Building%3A%20Putting%20Words%20in%20Order%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LBsQ-iYZXPI",
         "quiz": [
           {
             "q": "Why does word order matter in a sentence?",
@@ -38113,6 +38117,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise counting forward by 5s, such as 5, 10, 15, 20, all the way up to 100, building on earlier skip-counting skills.",
         "resourceLabel": "YouTube: Skip Counting by 5s to 100",
         "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%205s%20to%20100%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=EemjeA2Djjw",
         "quiz": [
           {
             "q": "If you skip count by 5s starting at 5, what comes after 15?",
@@ -38196,6 +38201,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: plants make their own food through a process called photosynthesis, using sunlight, water, and air to grow.",
         "resourceLabel": "YouTube: How Plants Make Food: An Introduction to Photosynthesis",
         "resourceUrl": "https://www.youtube.com/results?search_query=How%20Plants%20Make%20Food%3A%20An%20Introduction%20to%20Photosynthesis%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IoFpgy3FTUM",
         "quiz": [
           {
             "q": "What is photosynthesis?",
@@ -38256,6 +38262,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: communities run recycling programs, collecting materials in blue bins and sending them to facilities where they are sorted and turned into new products.",
         "resourceLabel": "YouTube: Community Recycling Programs: Where Our Blue Bin Goes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Community%20Recycling%20Programs%3A%20Where%20Our%20Blue%20Bin%20Goes%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0_Ufbm5ZkBY",
         "quiz": [
           {
             "q": "What colour bin is often used for recycling in many communities?",

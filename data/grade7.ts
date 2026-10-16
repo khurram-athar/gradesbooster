@@ -30615,6 +30615,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: an eponym is a word created from the name of a real or fictional person, such as sandwich from the Earl of Sandwich or volt from the scientist Alessandro Volta.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=k8tY4mxI8O4",
         "quiz": [
           {
             "q": "What is an eponym?",
@@ -30675,6 +30676,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: in a with replacement scenario an item is returned before the next draw so probabilities stay the same, while in a without replacement scenario the item stays out, changing the probabilities for later draws.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=4kmGPVjnSPo",
         "quiz": [
           {
             "q": "What happens in a with replacement scenario after an item is drawn?",
@@ -30735,6 +30737,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: glaciers are massive, slow-moving bodies of ice that shape the land beneath and around them by eroding rock, carving valleys, and depositing sediment as they advance and retreat over long periods of time.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=PbYXiJsF5mw",
         "quiz": [
           {
             "q": "What is a glacier?",
@@ -30795,6 +30798,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: in 1837, reformers in Upper and Lower Canada rebelled against colonial governments they saw as unfair and unrepresentative, and although the rebellions were defeated, they contributed to later reforms in Canadian self-government.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=unZGJKNQR8I",
         "quiz": [
           {
             "q": "What happened during the Rebellions of 1837?",

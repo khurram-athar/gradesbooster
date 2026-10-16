@@ -30767,6 +30767,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: an eponym is a word formed from a persons name, a place, or a brand, such as sandwich or boycott, showing how history and biography can shape everyday vocabulary.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=k8tY4mxI8O4",
         "quiz": [
           {
             "q": "What is an eponym?",
@@ -30827,6 +30828,13 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: prime factorization expresses a number as a product of prime numbers, and the Fundamental Theorem of Arithmetic states that every integer greater than one has exactly one such prime factorization, aside from the order of the factors.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=XGbOiYhHY2c",
+        "videoUrls": [
+          {
+            "label": "Fundamental Theorem of Arithmetic (Khan Academy)",
+            "url": "https://www.youtube.com/watch?v=8CluknrLeys"
+          }
+        ],
         "quiz": [
           {
             "q": "What does prime factorization express a number as?",
@@ -30888,6 +30896,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Chemistry: Mixtures and Separating Techniques",
         "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Mixtures%20and%20Separating%20Techniques%20grade%209%20educational",
         "topic": "Matter & Materials",
+        "videoUrl": "https://www.youtube.com/watch?v=XC1RxloV0Mo",
         "quiz": [
           {
             "q": "A mixture in which the different components are not evenly distributed and can be seen separately is called:",
@@ -30947,6 +30956,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: inland seas and large lakes, such as the Aral Sea, have shrunk dramatically in some regions due to water diversion for agriculture and climate change, reshaping local economies and ecosystems.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=uxu3iYQJeW4",
         "quiz": [
           {
             "q": "What has caused some inland seas and lakes to shrink dramatically?",

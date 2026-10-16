@@ -30566,6 +30566,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a ballad is a narrative poem, often set to music, that tells a story through simple language, repetition, and a regular rhythm, rooted in an oral tradition of passing stories between generations.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=vE5h_3yivnc",
         "quiz": [
           {
             "q": "What does a ballad primarily do?",
@@ -30626,6 +30627,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand: a vector is a quantity that has both magnitude, or size, and direction, such as a force applied at a specific angle, often represented visually as an arrow.",
         "resourceLabel": "YouTube: Introduction to Vectors",
         "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Vectors%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iXdMpXMuEGI",
         "quiz": [
           {
             "q": "What two things does a vector have?",
@@ -30685,6 +30687,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: endocrine disruptors are chemical compounds that interfere with the normal function of the hormonal system by mimicking, blocking, or altering natural hormone signalling, with potential effects on growth, reproduction, and development.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=Yzkzb7coAEE",
         "quiz": [
           {
             "q": "What is an endocrine disruptor?",
@@ -30744,6 +30747,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: vulcanization is a chemical process in which sulfur atoms form cross-links between polymer chains in rubber, converting a soft, sticky material into a stronger, more elastic, and heat-resistant product.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=r6kNX7CS1V4",
         "quiz": [
           {
             "q": "What is vulcanization?",

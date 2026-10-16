@@ -30386,6 +30386,7 @@
         "summary": "Grade 12 English strand: the ode is a lyric poem written in an elevated, formal style to praise or meditate on a person, event, or abstract idea, often adopting a public voice distinct from more private lyric forms.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=e0O4JK6yisk",
         "quiz": [
           {
             "q": "What does an ode typically do?",
@@ -30447,6 +30448,7 @@
         "resourceLabel": "YouTube: Solving Trigonometric Equations Involving Multiple Angles",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Trigonometric%20Equations%20Involving%20Multiple%20Angles%20grade%2012%20educational",
         "topic": "Trigonometry",
+        "videoUrl": "https://www.youtube.com/watch?v=eZPEW2hVUd0",
         "quiz": [
           {
             "q": "To solve sin(2θ) = 1/2 for θ ∈ [0°, 360°), a useful first step is:",
@@ -30506,6 +30508,7 @@
         "summary": "Grade 9 Math strand: the Binomial Theorem provides a formula for expanding expressions of the form (a+b)^n without multiplying repeatedly, using coefficients from Pascals Triangle.",
         "resourceLabel": "YouTube: Algebra: An Introduction to the Binomial Theorem",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20An%20Introduction%20to%20the%20Binomial%20Theorem%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ajaAk1CP5pw",
         "quiz": [
           {
             "q": "What does the Binomial Theorem help you do?",
@@ -30565,6 +30568,7 @@
         "summary": "Students learn to apply Coulomb's law to calculate the magnitude and direction of the electrostatic force between two point charges and examine how that force changes with distance and charge magnitude.",
         "resourceLabel": "YouTube: Coulomb's Law: Calculating the Electric Force Between Point Charges",
         "resourceUrl": "https://www.youtube.com/results?search_query=Coulomb%27s%20Law%3A%20Calculating%20the%20Electric%20Force%20Between%20Point%20Charges%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rYjo774UpHI",
         "quiz": [
           {
             "q": "Two point charges of +3.0 μC and +5.0 μC are separated by 0.20 m. What is the magnitude of the force between them (k = 8.99 × 10⁹ N·m²/C²)?",

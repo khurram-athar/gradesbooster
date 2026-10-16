@@ -35121,6 +35121,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Letter P",
         "resourceUrl": "https://www.youtube.com/results?search_query=Letter%20P%20kindergarten%20educational",
         "topic": "Phonics & Word Recognition",
+        "videoUrl": "https://www.youtube.com/watch?v=pvbZODeX-F8",
         "quiz": [
           {
             "q": "Which letter is this: P?",
@@ -35181,6 +35182,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Naming 3D Shapes: Cube, Sphere, Cone, and Cylinder",
         "resourceUrl": "https://www.youtube.com/results?search_query=Naming%203D%20Shapes%3A%20Cube%2C%20Sphere%2C%20Cone%2C%20and%20Cylinder%20kindergarten%20educational",
         "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=v-wDykEHRAM",
         "quiz": [
           {
             "q": "A shape that looks perfectly round like a ball is called a",
@@ -35240,6 +35242,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: reptiles, such as snakes, lizards, and turtles, have dry scaly skin and often bask in the sun to stay warm.",
         "resourceLabel": "YouTube: Reptiles: Scaly Animals That Bask in the Sun",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reptiles%3A%20Scaly%20Animals%20That%20Bask%20in%20the%20Sun%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wWacC2gy_N4",
         "quiz": [
           {
             "q": "Which of these is a reptile?",
@@ -35325,6 +35328,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Our Farmers: Growing the Food We Eat",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Farmers%3A%20Growing%20the%20Food%20We%20Eat%20kindergarten%20educational",
         "topic": "Money, Jobs & Economy (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=cYx5R7fTQAo",
         "quiz": [
           {
             "q": "What does a farmer do?",

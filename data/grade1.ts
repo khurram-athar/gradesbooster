@@ -38051,6 +38051,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Composing New Shapes by Combining Shapes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Composing%20New%20Shapes%20by%20Combining%20Shapes%20grade%201%20educational",
         "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=LR501k5gCNQ",
         "quiz": [
           {
             "q": "If you put two square pattern blocks together side by side, what new shape can you make?",
@@ -38285,6 +38286,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: strong writers choose precise words, such as sprinted instead of ran, to help readers picture exactly what is happening.",
         "resourceLabel": "YouTube: Word Choice: Choosing Strong, Precise Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Choice%3A%20Choosing%20Strong%2C%20Precise%20Words%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FsCukebKvFc",
         "quiz": [
           {
             "q": "Which word is a more precise choice than said?",
@@ -38369,6 +38371,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Measuring Area: Covering a Surface with Non-Standard Units",
         "resourceUrl": "https://www.youtube.com/results?search_query=Measuring%20Area%3A%20Covering%20a%20Surface%20with%20Non-Standard%20Units%20grade%201%20educational",
         "topic": "Measurement: Units",
+        "videoUrl": "https://www.youtube.com/watch?v=3J3ZGyFwHew",
         "quiz": [
           {
             "q": "What does it mean to measure the area of your desktop using square tiles?",
@@ -38428,6 +38431,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: precipitation is water that falls from clouds, and it can fall as rain, snow, sleet, or hail depending on the temperature.",
         "resourceLabel": "YouTube: Precipitation: Rain, Snow, Sleet, and Hail",
         "resourceUrl": "https://www.youtube.com/results?search_query=Precipitation%3A%20Rain%2C%20Snow%2C%20Sleet%2C%20and%20Hail%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dX7YD3q1ass",
         "quiz": [
           {
             "q": "What is precipitation?",
@@ -38513,6 +38517,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: the school custodian is a helper who keeps the school clean, safe, and in good repair for students and staff every day.",
         "resourceLabel": "YouTube: Our School Custodian: Keeping Our School Clean",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Custodian%3A%20Keeping%20Our%20School%20Clean%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=26cC2eK4Hxg",
         "quiz": [
           {
             "q": "What is the main job of a school custodian?",

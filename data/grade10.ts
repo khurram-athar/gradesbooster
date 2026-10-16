@@ -30501,6 +30501,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: stream-of-consciousness narration attempts to capture the continuous, often unstructured flow of a characters thoughts and sensory impressions, immersing readers directly in a characters inner experience rather than presenting events through conventional plot structure.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=WaSFwO3O2SI",
         "quiz": [
           {
             "q": "What does stream-of-consciousness narration attempt to capture?",
@@ -30562,6 +30563,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: The Midpoint Formula",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Midpoint%20Formula%20grade%2010%20educational",
         "topic": "Analytic & Coordinate Geometry",
+        "videoUrl": "https://www.youtube.com/watch?v=pzDfd8NXRXk",
         "quiz": [
           {
             "q": "Find the midpoint of the segment joining (2,4) and (8,10).",
@@ -30621,6 +30623,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: cellular respiration is the process by which cells break down glucose in the presence of oxygen to release usable energy, producing carbon dioxide and water as byproducts.",
         "resourceLabel": "YouTube: Science: Cellular Respiration and Energy Production",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Cellular%20Respiration%20and%20Energy%20Production%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eJ9Zjc-jdys",
         "quiz": [
           {
             "q": "What does cellular respiration break down to release energy?",
@@ -30681,6 +30684,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the King-Byng Affair was a 1926 constitutional crisis in which Governor General Lord Byng refused Prime Minister Mackenzie Kings request to dissolve Parliament, raising lasting questions about the proper limits of the Governor Generals discretionary power in Canadian government.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=0Zop1Vug6V4",
         "quiz": [
           {
             "q": "Who were the two main figures involved in the King-Byng Affair?",

@@ -30681,6 +30681,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: students learn to find the value of an unknown, often shown as a letter or symbol, in a simple equation, such as solving n plus 5 equals 12 for n.",
         "resourceLabel": "YouTube: Algebra: Solving Equations with an Unknown Value",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Equations%20with%20an%20Unknown%20Value%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=l3XzepN03KQ",
         "quiz": [
           {
             "q": "What is the value of n in n plus 5 equals 12?",
@@ -30741,6 +30742,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: comets are icy bodies that develop glowing tails near the sun, asteroids are rocky bodies mostly found in the asteroid belt, and meteors are streaks of light produced when small space debris burns up in Earths atmosphere.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=UHK-fbdbwF8",
         "quiz": [
           {
             "q": "What is a comet mostly made of?",
@@ -30800,6 +30802,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the Persons Case was a 1929 legal ruling that recognized women as persons under Canadian law, allowing them to be appointed to the Senate, a milestone achieved through the efforts of activists known as the Famous Five.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=if_pyx5dm9Y",
         "quiz": [
           {
             "q": "What did the Persons Case establish?",
