@@ -30932,6 +30932,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the Manitoba Act of 1870 created Canadas fifth province following the Red River Resistance led by Louis Riel, establishing provisions for bilingual government services and land grants for the Metis population of the Red River Settlement.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=hNcFaff5olg",
         "quiz": [
           {
             "q": "What did the Manitoba Act of 1870 create?",

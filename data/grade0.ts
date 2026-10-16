@@ -35454,6 +35454,7 @@ const curriculum: DayContent[] = [
         "summary": "Children practice naming flat 2D shapes, including circles, squares, triangles, and rectangles, by looking at their sides and corners.",
         "resourceLabel": "YouTube: Naming 2D Shapes: Circle, Square, Triangle, and Rectangle",
         "resourceUrl": "https://www.youtube.com/results?search_query=Naming%202D%20Shapes%3A%20Circle%2C%20Square%2C%20Triangle%2C%20and%20Rectangle%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nFvBPFf9ZK0",
         "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {

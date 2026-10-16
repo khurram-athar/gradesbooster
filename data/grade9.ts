@@ -31206,6 +31206,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: remittances are funds sent by migrant workers back to their home countries, forming a major economic flow that connects global labour migration patterns to development in many regions.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=tAvA_cOeeOI",
         "quiz": [
           {
             "q": "What are remittances?",

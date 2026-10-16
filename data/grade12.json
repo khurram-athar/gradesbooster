@@ -30693,6 +30693,7 @@
         "summary": "Students solve equations containing rational expressions by clearing denominators using the common denominator, then check all solutions against the original restrictions to rule out extraneous roots.",
         "resourceLabel": "YouTube: Solving Rational Equations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Rational%20Equations%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=1fR_9ke5-n8",
         "topic": "Ratios & Rates",
         "quiz": [
           {
@@ -30753,6 +30754,7 @@
         "summary": "Grade 10 Math strand: a limit describes the value a function approaches as its input approaches a certain number, a foundational idea used to formally define the derivative and analyze function behaviour.",
         "resourceLabel": "YouTube: Calculus Foundations: An Introduction to Limits",
         "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%20Foundations%3A%20An%20Introduction%20to%20Limits%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=riXcZT2ICjA",
         "quiz": [
           {
             "q": "What does a limit describe in mathematics?",
