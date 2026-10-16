@@ -30748,8 +30748,9 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Writing: The Eulogy and Commemorative Writing",
         "summary": "Grade 10 English strand: a eulogy is a speech or piece of writing that honours and remembers a person, typically highlighting their character, achievements, and impact on others, and commemorative writing more broadly uses a respectful, reflective tone to mark significant people or events.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Writing: The Eulogy and Commemorative Writing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Eulogy%20and%20Commemorative%20Writing%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8aagl7Op77o",
         "quiz": [
           {
             "q": "What is the primary purpose of a eulogy?",
@@ -30810,6 +30811,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use the distance formula, derived from the Pythagorean theorem, to calculate the length of a line segment between two points on the coordinate plane.",
         "resourceLabel": "YouTube: The Length of a Line Segment (Distance Formula)",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Length%20of%20a%20Line%20Segment%20%28Distance%20Formula%29%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nyZuite17Pc",
         "topic": "Analytic & Coordinate Geometry",
         "quiz": [
           {

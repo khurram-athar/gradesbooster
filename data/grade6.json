@@ -30865,8 +30865,9 @@
         "subject": "Language",
         "title": "Writing: Writing a Limerick",
         "summary": "Grade 6 Language strand: a limerick is a humorous five-line poem with an AABBA rhyme scheme, where the first, second, and fifth lines rhyme and are longer than the shorter third and fourth lines, which also rhyme with each other.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Writing: Writing a Limerick",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20a%20Limerick%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QaNQM4zmr00",
         "quiz": [
           {
             "q": "How many lines does a limerick have?",
@@ -30927,6 +30928,7 @@
         "summary": "Grade 4 Math strand: percent means out of one hundred, and students learn to represent simple percentages such as 50% (half) and 25% (a quarter) using models and fractions.",
         "resourceLabel": "YouTube: Number Sense: Introduction to Percent",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Introduction%20to%20Percent%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=kDFLcCOS7aw",
         "quiz": [
           {
             "q": "What does percent mean?",
@@ -30985,8 +30987,9 @@
         "subject": "Science",
         "title": "Air Pressure and How It Affects Weather",
         "summary": "Grade 6 Science strand: air pressure is the force exerted by the weight of air in the atmosphere, and areas of high and low pressure influence weather patterns, with low pressure often associated with clouds and precipitation.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: Air Pressure and How It Affects Weather",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Air%20Pressure%20and%20How%20It%20Affects%20Weather%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pL6BthjvTZ4",
         "quiz": [
           {
             "q": "What is air pressure?",
@@ -31045,8 +31048,9 @@
         "subject": "SocialStudies",
         "title": "Social Studies: Canadas Points-Based Immigration System",
         "summary": "Grade 6 Social Studies strand: Canadas points-based immigration system evaluates prospective immigrants using factors such as education, work experience, language ability, and age, awarding points that determine eligibility for permanent residency.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "resourceLabel": "YouTube: Social Studies: Canadas Points-Based Immigration System",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canadas%20Points-Based%20Immigration%20System%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=51MAPjOhZFs",
         "quiz": [
           {
             "q": "What does Canadas points-based immigration system evaluate?",

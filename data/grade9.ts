@@ -31023,6 +31023,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore how English vocabulary and expressions vary across regions and dialects, such as Canadian, British, and American English, and consider why dialect is not 'incorrect' English.",
         "resourceLabel": "YouTube: Vocabulary: Regionalisms and Dialect in English",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Regionalisms%20and%20Dialect%20in%20English%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=l157EU7WXr8",
         "topic": "Vocabulary",
         "quiz": [
           {
@@ -31083,6 +31084,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn the fixed side-length ratios in 30-60-90 and 45-45-90 triangles and use them to find missing side lengths without a calculator.",
         "resourceLabel": "YouTube: Special Right Triangles: 30-60-90 and 45-45-90",
         "resourceUrl": "https://www.youtube.com/results?search_query=Special%20Right%20Triangles%3A%2030-60-90%20and%2045-45-90%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Y_qs4cgxbgs",
         "topic": "Trigonometry",
         "quiz": [
           {
@@ -31143,6 +31145,7 @@ const curriculum: DayContent[] = [
         "summary": "Students investigate how fuses and circuit breakers protect electrical circuits and homes from damage or fire by automatically interrupting current when it becomes dangerously high.",
         "resourceLabel": "YouTube: Physics: Electrical Safety - Circuit Breakers and Fuses",
         "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Electrical%20Safety%20-%20Circuit%20Breakers%20and%20Fuses%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5VV2ckP_SRU",
         "topic": "Electricity & Magnetism",
         "quiz": [
           {

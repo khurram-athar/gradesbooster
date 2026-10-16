@@ -30861,8 +30861,9 @@
         "subject": "Language",
         "title": "Reading: Analyzing Dramatic Irony in Plays",
         "summary": "Grade 7 Language strand: dramatic irony occurs when the audience knows something important that a character on stage does not, creating tension or humour as the audience watches the character act without that knowledge.",
-        "resourceLabel": "TVO Learn: Grade 7 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "resourceLabel": "YouTube: Reading: Analyzing Dramatic Irony in Plays",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Dramatic%20Irony%20in%20Plays%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RZFYuX84n1U",
         "quiz": [
           {
             "q": "What is dramatic irony?",
@@ -30921,8 +30922,9 @@
         "subject": "Math",
         "title": "Measurement: Converting Between Imperial and Metric Units",
         "summary": "Grade 7 Math strand: the imperial system uses units like inches, feet, and pounds while the metric system uses units like centimetres, metres, and kilograms, and converting between the two systems requires using an approximate conversion factor.",
-        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "resourceLabel": "YouTube: Measurement: Converting Between Imperial and Metric Units",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Converting%20Between%20Imperial%20and%20Metric%20Units%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8SHTjGkbDp0",
         "quiz": [
           {
             "q": "Which system uses units like inches, feet, and pounds?",
@@ -30983,6 +30985,7 @@
         "summary": "Grade 5 Science strand: DNA is a molecule found in the cells of living things that carries the instructions, or blueprint, for how an organism grows and functions.",
         "resourceLabel": "YouTube: DNA — The Blueprint of Life",
         "resourceUrl": "https://www.youtube.com/results?search_query=DNA%20%E2%80%94%20The%20Blueprint%20of%20Life%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zwibgNGe4aY",
         "quiz": [
           {
             "q": "What is DNA?",
@@ -31043,6 +31046,7 @@
         "summary": "Grade 5 Social Studies strand: an ombudsman is an independent official who investigates complaints from citizens about unfair treatment by government departments, helping ensure accountability and fairness.",
         "resourceLabel": "YouTube: The Ombudsman — Helping Citizens with Government Complaints",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Ombudsman%20%E2%80%94%20Helping%20Citizens%20with%20Government%20Complaints%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=G8iQu16T51A",
         "quiz": [
           {
             "q": "What does an ombudsman generally do?",

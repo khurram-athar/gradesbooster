@@ -31594,8 +31594,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Writing: Writing an Advertisement",
         "summary": "Grade 5 Language strand: an effective advertisement uses persuasive language, a catchy slogan, and a clear call to action to convince an audience to buy a product or support an idea.",
-        "resourceLabel": "TVO Learn: Grade 5 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "resourceLabel": "YouTube: Writing: Writing an Advertisement",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20an%20Advertisement%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=z5yq_el23EA",
         "quiz": [
           {
             "q": "What is the purpose of an advertisement?",
@@ -31656,6 +31657,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: a stem-and-leaf plot organizes numbers by splitting each one into a stem, the larger digits, and a leaf, the last digit.",
         "resourceLabel": "YouTube: Data: Stem-and-Leaf Plots",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Stem-and-Leaf%20Plots%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Uysh0CbbRFE",
         "quiz": [
           {
             "q": "What does a stem-and-leaf plot organize?",
@@ -31716,6 +31718,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand: grasslands and savannas are habitats dominated by grasses with few trees, supporting animals adapted to open spaces such as grazing herds and fast-running predators.",
         "resourceLabel": "YouTube: Science: Grasslands and Savanna Habitats",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Grasslands%20and%20Savanna%20Habitats%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IJhSgu32haA",
         "quiz": [
           {
             "q": "Which type of plant covers most of the ground in a prairie or savanna habitat?",
@@ -31776,6 +31779,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: Canadas immigration points system evaluates factors such as education, work experience, and language skills to help decide who may be able to immigrate to Canada.",
         "resourceLabel": "YouTube: Social Studies: How Canadas Immigration Points System Works",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20How%20Canadas%20Immigration%20Points%20System%20Works%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=51MAPjOhZFs",
         "quiz": [
           {
             "q": "What does Canadas immigration points system evaluate?",
