@@ -32096,6 +32096,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: a collective noun names a group of people, animals, or things treated as a single unit, such as a flock of birds or a team of players.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=rvNbD308XRo",
         "quiz": [
           {
             "q": "What is a collective noun?",
@@ -32156,6 +32157,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: the Roman numeral system uses letters such as I, V, X, L, and C to represent numbers, combining and arranging them according to addition and subtraction rules.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=P_qD1GJ1dR8",
         "quiz": [
           {
             "q": "What number does the Roman numeral X represent?",
@@ -32276,6 +32278,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: a trade agreement is a deal between countries that sets rules for buying and selling goods and services, often making trade easier and less costly between the countries involved.",
         "resourceLabel": "YouTube: Social Studies: Trade Agreements and Why Countries Sign Them",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Trade%20Agreements%20and%20Why%20Countries%20Sign%20Them%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=s0p3LGV0eNs",
         "quiz": [
           {
             "q": "What is a trade agreement?",
