@@ -31115,6 +31115,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: a book review summarizes a text without giving away every detail, evaluates its strengths and weaknesses, and offers the writers opinion supported by specific examples from the book.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=IhYF3v3zTeo",
         "quiz": [
           {
             "q": "What should a book review generally include, along with a summary?",
@@ -31174,6 +31175,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: the range of a data set is the difference between its highest and lowest values, while the interquartile range measures the spread of the middle half of the data and is less affected by extreme values.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=VABsJBw1JqA",
         "quiz": [
           {
             "q": "How is the range of a data set calculated?",
@@ -31234,6 +31236,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: cells are the tiny building blocks that make up all living things, and different types of cells have different jobs within an organism.",
         "resourceLabel": "YouTube: Cells — The Building Blocks of Life",
         "resourceUrl": "https://www.youtube.com/results?search_query=Cells%20%E2%80%94%20The%20Building%20Blocks%20of%20Life%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8IlzKri08kk",
         "quiz": [
           {
             "q": "What are cells?",
@@ -31293,6 +31296,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the Group of Seven was a collective of Canadian landscape painters active in the early 20th century whose bold depictions of the Canadian wilderness helped shape a distinct sense of national identity and pride.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=oYvDR3fQslU",
         "quiz": [
           {
             "q": "What was the Group of Seven?",

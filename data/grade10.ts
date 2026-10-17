@@ -30872,6 +30872,13 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: glaciers are large, slow-moving masses of ice formed by the accumulation and compaction of snow over long periods, and ice ages are extended periods of global cooling during which glaciers expand significantly, reshaping landscapes through erosion and deposition.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=iA788usYNWA",
+        "videoUrls": [
+          {
+            "label": "Glaciers Explained",
+            "url": "https://www.youtube.com/watch?v=PbYXiJsF5mw"
+          }
+        ],
         "quiz": [
           {
             "q": "How do glaciers form?",
@@ -31060,6 +31067,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Verifying Properties of Triangles Using Coordinate Geometry",
         "resourceUrl": "https://www.youtube.com/results?search_query=Verifying%20Properties%20of%20Triangles%20Using%20Coordinate%20Geometry%20grade%2010%20educational",
         "topic": "Analytic & Coordinate Geometry",
+        "videoUrl": "https://www.youtube.com/watch?v=SlySA3a_sXw",
         "quiz": [
           {
             "q": "To verify a triangle is isosceles using coordinates, what should you calculate?",
@@ -31119,6 +31127,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: the integumentary system, made up of skin, hair, and nails, protects the body from injury and infection, regulates temperature, and provides sensory information.",
         "resourceLabel": "YouTube: The Integumentary System: Skin, Hair, and Nails",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Integumentary%20System%3A%20Skin%2C%20Hair%2C%20and%20Nails%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=p4hnFf_jmvU",
         "quiz": [
           {
             "q": "What organs make up the integumentary system?",
@@ -31179,6 +31188,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: completed in 1885, the Canadian Pacific Railway fulfilled a promise made to British Columbia upon joining Confederation, linking the country from coast to coast and playing a central role in national unity, western settlement, and economic development.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=YGrSLn32_FU",
         "quiz": [
           {
             "q": "What promise did the Canadian Pacific Railway fulfill?",

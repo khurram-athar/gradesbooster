@@ -31846,6 +31846,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: suspense is a feeling of tension and anticipation an author creates about what will happen next, often ending a chapter with a cliffhanger that leaves an important question unanswered.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=Aja-4MQym7c",
         "quiz": [
           {
             "q": "What is suspense in a story?",
@@ -31906,6 +31907,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: a rotation turns a shape around a fixed point by a certain angle, such as 90 or 180 degrees, without changing its size or shape.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=idWmQvaeqKI",
         "quiz": [
           {
             "q": "What does a rotation do to a shape?",
@@ -31966,6 +31968,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: precipitation is water that falls from clouds to Earths surface in forms such as rain, snow, sleet, and hail, depending on temperature conditions in the atmosphere.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=7xhfa29OOBw",
         "quiz": [
           {
             "q": "What is precipitation?",
@@ -32026,6 +32029,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: Canada Post is the national postal service that collects, sorts, and delivers letters and packages to homes and businesses across the country.",
         "resourceLabel": "YouTube: Social Studies: Canada Post and How Mail Is Delivered",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%20Post%20and%20How%20Mail%20Is%20Delivered%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8pFd8DLcPIY",
         "quiz": [
           {
             "q": "What is Canada Post?",
@@ -32212,6 +32216,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: the brain is the control centre of the nervous system, coordinating thought, memory, movement, and the bodys responses to the environment.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=c9HK59FaoMI",
         "quiz": [
           {
             "q": "What is the brain often described as?",

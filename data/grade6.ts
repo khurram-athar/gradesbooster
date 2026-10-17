@@ -31119,6 +31119,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: a eulogy or tribute is a speech or piece of writing that honours a persons life and achievements, often shared at a memorial or celebration, using warm, respectful, and personal language.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=4DJ38gpjbQ0",
         "quiz": [
           {
             "q": "What is the main purpose of a eulogy or tribute?",
@@ -31179,6 +31180,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: the order of operations tells us the sequence to solve a math expression -- brackets, exponents, multiplication and division, then addition and subtraction.",
         "resourceLabel": "YouTube: Number Sense: Order of Operations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Order%20of%20Operations%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=x41BCrYh8Kc",
         "quiz": [
           {
             "q": "What do we solve first in the order of operations?",
@@ -31239,6 +31241,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: a keystone species is an organism that has an unusually large effect on its ecosystem relative to its population size, and removing it can cause significant changes throughout the food web.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=_IWw8Ruz8Uo",
         "quiz": [
           {
             "q": "What is a keystone species?",
@@ -31299,6 +31302,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the St. Lawrence Seaway is a system of canals and locks that allows large ships to travel between the Atlantic Ocean and the Great Lakes, supporting trade and transportation for Canada and the United States.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=po3fu_T14xo",
         "quiz": [
           {
             "q": "What does the St. Lawrence Seaway allow large ships to do?",

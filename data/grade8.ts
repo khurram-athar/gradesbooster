@@ -31103,6 +31103,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: a public service announcement, or PSA, is a short piece of persuasive media designed to raise awareness about an important issue and motivate an audience to take a specific action, typically combining a clear message with a memorable call to action.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=0TEibRxi7gM",
         "quiz": [
           {
             "q": "What is the main purpose of a public service announcement?",
@@ -31164,6 +31165,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Angle Relationships: Parallel Lines and Transversals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Angle%20Relationships%3A%20Parallel%20Lines%20and%20Transversals%20grade%208%20educational",
         "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=qTD_z47egHs",
         "quiz": [
           {
             "q": "When a transversal crosses two parallel lines, corresponding angles are always:",
@@ -31223,6 +31225,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: magnetism is a force produced by moving electric charges that causes certain materials to attract or repel one another, with a magnetic field describing the region of space around a magnet where this force can be detected.",
         "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=IgtIdttfGVw",
         "quiz": [
           {
             "q": "What produces a magnetic force?",
@@ -31283,6 +31286,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: the Cypress Hills Massacre of 1873, in which American traders killed a group of Assiniboine people, alarmed the Canadian government and helped prompt the creation of the North-West Mounted Police to establish law and order in the western territories.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "videoUrl": "https://www.youtube.com/watch?v=bPXbRlkeuQ0",
         "quiz": [
           {
             "q": "What happened during the Cypress Hills Massacre of 1873?",

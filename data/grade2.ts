@@ -38329,6 +38329,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: visualizing means using descriptive details in a text to create a picture in your mind of what is happening in the story.",
         "resourceLabel": "YouTube: Visualizing: Making Pictures in Your Mind While Reading",
         "resourceUrl": "https://www.youtube.com/results?search_query=Visualizing%3A%20Making%20Pictures%20in%20Your%20Mind%20While%20Reading%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=W8qmj4oY9mY",
         "quiz": [
           {
             "q": "What does it mean to visualize while reading?",
@@ -38388,6 +38389,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: AM refers to the time from midnight to noon, and PM refers to the time from noon to midnight, helping us describe when events happen.",
         "resourceLabel": "YouTube: Time: Understanding AM and PM",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Understanding%20AM%20and%20PM%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nus0XJ6Do9o",
         "quiz": [
           {
             "q": "Does AM refer to morning or evening hours?",
@@ -38448,6 +38450,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: a rainforest has different layers, including the tall emergent layer, the leafy canopy, the understory, and the shaded forest floor.",
         "resourceLabel": "YouTube: Layers of the Rainforest: Canopy to Forest Floor",
         "resourceUrl": "https://www.youtube.com/results?search_query=Layers%20of%20the%20Rainforest%3A%20Canopy%20to%20Forest%20Floor%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=blh3Kq9xf_o",
         "quiz": [
           {
             "q": "What is the very top layer of a rainforest called?",
@@ -38507,6 +38510,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: before 1965, Canada used a different flag, and the current red and white maple leaf flag was officially adopted that year.",
         "resourceLabel": "YouTube: The History of the Canadian Flag: Before and After 1965",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20History%20of%20the%20Canadian%20Flag%3A%20Before%20and%20After%201965%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gHRddhvemxo",
         "quiz": [
           {
             "q": "In what year was the current Canadian maple leaf flag adopted?",
@@ -38572,6 +38576,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: free verse poetry does not follow a set rhyme scheme or rhythm, allowing writers to express ideas freely in whatever lines feel right.",
         "resourceLabel": "YouTube: Free Verse Poetry: Poems Without Rhyme or Rules",
         "resourceUrl": "https://www.youtube.com/results?search_query=Free%20Verse%20Poetry%3A%20Poems%20Without%20Rhyme%20or%20Rules%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=b-kQby_EH-o",
         "quiz": [
           {
             "q": "Does free verse poetry need to rhyme?",
@@ -38632,6 +38637,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to describe parts of the day as morning, afternoon, or night, and connect daily activities, like eating breakfast or going to sleep, to the correct part of the day.",
         "resourceLabel": "YouTube: Time: Morning, Afternoon, and Night",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Morning%2C%20Afternoon%2C%20and%20Night%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=HrxZWNu72WI",
         "quiz": [
           {
             "q": "What time does a clock show when the short hand points to 3 and the long hand points to 12?",
@@ -38712,6 +38718,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: polar animals, such as polar bears and arctic foxes, have thick fur and fat to help them survive extremely cold temperatures.",
         "resourceLabel": "YouTube: Polar Animals: Surviving the Arctic Cold",
         "resourceUrl": "https://www.youtube.com/results?search_query=Polar%20Animals%3A%20Surviving%20the%20Arctic%20Cold%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_kA-_aro3lI",
         "quiz": [
           {
             "q": "Name one adaptation that helps polar animals stay warm.",
@@ -38772,6 +38779,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: bridges and tunnels are built across Canada to connect communities separated by rivers, valleys, or mountains, making travel easier.",
         "resourceLabel": "YouTube: Canadian Bridges and Tunnels: Engineering Our Connections",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Bridges%20and%20Tunnels%3A%20Engineering%20Our%20Connections%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2Fxo4RjGvB0",
         "quiz": [
           {
             "q": "Why are bridges built?",

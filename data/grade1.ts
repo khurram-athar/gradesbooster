@@ -38607,6 +38607,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: editing means rereading our writing to check for mistakes in spelling, punctuation, and capital letters before sharing it.",
         "resourceLabel": "YouTube: Editing Our Writing: Checking for Mistakes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Editing%20Our%20Writing%3A%20Checking%20for%20Mistakes%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=izENvJJY6Hg",
         "quiz": [
           {
             "q": "What does it mean to edit your writing?",
@@ -38692,6 +38693,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Money: Recognizing Coins by Name and Value",
         "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Recognizing%20Coins%20by%20Name%20and%20Value%20grade%201%20educational",
         "topic": "Time & Money",
+        "videoUrl": "https://www.youtube.com/watch?v=Z7hwaeaDk-I",
         "quiz": [
           {
             "q": "Which coin is worth 25 cents?",
@@ -38751,6 +38753,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: whales and dolphins are mammals that live in the ocean, breathe air through blowholes, and give birth to live young.",
         "resourceLabel": "YouTube: Whales and Dolphins: Ocean Mammals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Whales%20and%20Dolphins%3A%20Ocean%20Mammals%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WzWiDzsdRe0",
         "quiz": [
           {
             "q": "Are whales and dolphins classified as mammals or fish?",
@@ -38834,6 +38837,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: the school bus driver is a community helper who drives students safely to and from school each day, following traffic rules.",
         "resourceLabel": "YouTube: Our School Bus Driver: Getting Us to School Safely",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Bus%20Driver%3A%20Getting%20Us%20to%20School%20Safely%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WtUNK9zo8Ek",
         "quiz": [
           {
             "q": "Who is responsible for driving the school bus?",
@@ -38923,6 +38927,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: procedural writing gives step-by-step directions for how to do something, such as a recipe or instructions for a game.",
         "resourceLabel": "YouTube: Procedural Writing: Writing Steps in Order",
         "resourceUrl": "https://www.youtube.com/results?search_query=Procedural%20Writing%3A%20Writing%20Steps%20in%20Order%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zD6sLto3dPg",
         "quiz": [
           {
             "q": "What is procedural writing used for?",
@@ -39006,6 +39011,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Reading a Calendar: Weeks and Dates",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%20a%20Calendar%3A%20Weeks%20and%20Dates%20grade%201%20educational",
         "topic": "Time & Money",
+        "videoUrl": "https://www.youtube.com/watch?v=ILCRuXriKMU",
         "quiz": [
           {
             "q": "How many days are in one full week on a calendar?",
@@ -39065,6 +39071,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: animals communicate with each other using sounds, movements, and colours, such as a bees dance or a birds song.",
         "resourceLabel": "YouTube: Animal Communication: How Animals Talk to Each Other",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Communication%3A%20How%20Animals%20Talk%20to%20Each%20Other%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RbhHTVw3r58",
         "quiz": [
           {
             "q": "Which of these is a way animals communicate?",
@@ -39150,6 +39157,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Voting for a Class Decision: How Groups Choose",
         "resourceUrl": "https://www.youtube.com/results?search_query=Voting%20for%20a%20Class%20Decision%3A%20How%20Groups%20Choose%20grade%201%20educational",
         "topic": "Local Community & Civic Participation",
+        "videoUrl": "https://www.youtube.com/watch?v=CmrO44KM7yk",
         "quiz": [
           {
             "q": "What is voting?",

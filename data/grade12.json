@@ -30634,6 +30634,7 @@
         "summary": "Grade 12 English strand: the picaresque novel follows a roguish, low-born protagonist through a loosely connected series of episodic adventures, using satire and social observation to expose the corruption of the society the protagonist travels through.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=5RNfrk-f_N4",
         "quiz": [
           {
             "q": "What kind of protagonist is typical of a picaresque novel?",
@@ -30815,6 +30816,13 @@
         "summary": "Students learn to distinguish between nuclear fission and fusion processes and apply Einstein's mass-energy equivalence relation E = mc² to calculate the energy released when mass defect occurs in a nuclear reaction.",
         "resourceLabel": "YouTube: Nuclear Reactions: Fission, Fusion, and Mass-Energy Equivalence",
         "resourceUrl": "https://www.youtube.com/results?search_query=Nuclear%20Reactions%3A%20Fission%2C%20Fusion%2C%20and%20Mass-Energy%20Equivalence%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=G7orp_PPO-8",
+        "videoUrls": [
+          {
+            "label": "Mass-Energy Equivalence (E=mc²)",
+            "url": "https://www.youtube.com/watch?v=pBQjsOaRHxg"
+          }
+        ],
         "quiz": [
           {
             "q": "In nuclear fission, a heavy nucleus such as uranium-235:",
@@ -30880,6 +30888,7 @@
         "summary": "Grade 12 English strand: autofiction is a hybrid literary form in which an author writes fiction that draws directly on their own lived experience, deliberately blurring the boundary between autobiography and invented narrative.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=Nef_1na4u4Q",
         "quiz": [
           {
             "q": "What does autofiction blend together?",
@@ -30941,6 +30950,7 @@
         "resourceLabel": "YouTube: Logarithmic Scales in Science: pH, Richter, and Decibels",
         "resourceUrl": "https://www.youtube.com/results?search_query=Logarithmic%20Scales%20in%20Science%3A%20pH%2C%20Richter%2C%20and%20Decibels%20grade%2012%20educational",
         "topic": "Functions: Exponential & Logarithmic",
+        "videoUrl": "https://www.youtube.com/watch?v=F3DMOyRoHUc",
         "quiz": [
           {
             "q": "The pH formula is pH = -log[H+]. If [H+] = 1×10⁻⁵ mol/L, what is the pH?",
@@ -31000,6 +31010,13 @@
         "summary": "Multiply vectors by scalars to change their magnitude or reverse their direction, and find unit vectors that point in the same or opposite direction as a given vector.",
         "resourceLabel": "YouTube: Vectors: Scalar Multiplication and Unit Vectors",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20Scalar%20Multiplication%20and%20Unit%20Vectors%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=g14-ACo5vnc",
+        "videoUrls": [
+          {
+            "label": "Unit Vectors",
+            "url": "https://www.youtube.com/watch?v=jCkhbKFZgLk"
+          }
+        ],
         "quiz": [
           {
             "q": "Given vector u = (4, −3), what is 2u?",
@@ -31060,6 +31077,7 @@
         "summary": "Derives and applies B = μ₀nI for the magnetic field inside a long solenoid, including how turns per unit length, current, and core material affect field strength.",
         "resourceLabel": "YouTube: The Magnetic Field Inside a Current-Carrying Solenoid",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Magnetic%20Field%20Inside%20a%20Current-Carrying%20Solenoid%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lLQQjwuqdeg",
         "quiz": [
           {
             "q": "A solenoid has 500 turns over a length of 0.25 m and carries a current of 2.0 A. What is the magnetic field magnitude inside it (μ₀ = 4π × 10⁻⁷ T·m/A)?",
@@ -31125,6 +31143,7 @@
         "summary": "Grade 10 English strand: a picaresque novel is an episodic narrative that follows a resourceful, low-born hero known as a picaro through a loosely connected series of adventures, often using humour and social observation to satirize the customs of the society the picaro travels through.",
         "resourceLabel": "YouTube: Literature: The Picaresque Novel",
         "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20The%20Picaresque%20Novel%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=AVoctKq8PZM",
         "quiz": [
           {
             "q": "What type of hero does a picaresque novel typically follow?",

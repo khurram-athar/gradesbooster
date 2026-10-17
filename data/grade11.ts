@@ -30934,6 +30934,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: polyploidy is a condition in which an organism has more than two complete sets of chromosomes, a common phenomenon in plants that can lead to increased size, hybrid vigour, and the formation of new species.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=mKnbGnEQO8M",
         "quiz": [
           {
             "q": "What is polyploidy?",
@@ -31060,6 +31061,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: in active voice the subject performs the action, while in passive voice the subject receives the action, and skilled writers choose deliberately between the two to control emphasis, clarity, and tone.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=nQaDd8Q_jlE",
         "quiz": [
           {
             "q": "In active voice, what does the subject of a sentence do?",
@@ -31120,6 +31122,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: a line in three-dimensional space can be described using a vector equation involving a point on the line and a single direction vector, extending the two-dimensional case to model motion and geometry in 3D.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=walq0t-50DY",
         "quiz": [
           {
             "q": "What is needed to write the vector equation of a line in three dimensions?",
@@ -31181,6 +31184,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Genetics: Dihybrid Crosses and Independent Assortment",
         "resourceUrl": "https://www.youtube.com/results?search_query=Genetics%3A%20Dihybrid%20Crosses%20and%20Independent%20Assortment%20grade%2011%20educational",
         "topic": "Genetics & Heredity",
+        "videoUrl": "https://www.youtube.com/watch?v=ZkyX3TmmMag",
         "quiz": [
           {
             "q": "In a standard dihybrid cross between two individuals heterozygous for two independently assorting genes (AaBb x AaBb), what phenotypic ratio is expected in the offspring?",
@@ -31240,6 +31244,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: a catalytic converter uses metal catalysts such as platinum, palladium, and rhodium to speed up reactions that convert harmful engine exhaust gases, including carbon monoxide and nitrogen oxides, into less harmful substances.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=rYm4i2eta_o",
         "quiz": [
           {
             "q": "What is the main purpose of a catalytic converter?",
