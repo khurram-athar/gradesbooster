@@ -39209,6 +39209,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: students skip count backwards by 10s and 100s, such as counting 100, 90, 80 or 500, 400, 300.",
         "resourceLabel": "YouTube: Skip Counting Backwards by 10s and 100s",
         "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20Backwards%20by%2010s%20and%20100s%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-iwgJmW1uvg",
         "quiz": [
           {
             "q": "What comes next: 100, 90, 80, ___?",
@@ -39269,6 +39270,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: bioluminescence is when living things, such as fireflies and some deep-sea fish, produce their own light using a chemical reaction.",
         "resourceLabel": "YouTube: Bioluminescence: Animals That Glow in the Dark",
         "resourceUrl": "https://www.youtube.com/results?search_query=Bioluminescence%3A%20Animals%20That%20Glow%20in%20the%20Dark%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fYsAK24le6U",
         "quiz": [
           {
             "q": "What is bioluminescence?",
@@ -39329,6 +39331,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: in Canada, 911 is the emergency phone number people call to reach police, firefighters, or ambulance workers quickly during an emergency.",
         "resourceLabel": "YouTube: Emergency 911: How to Call for Help",
         "resourceUrl": "https://www.youtube.com/results?search_query=Emergency%20911%3A%20How%20to%20Call%20for%20Help%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=L2ePn0Ea5Y0",
         "quiz": [
           {
             "q": "What phone number do people call in an emergency in Canada?",

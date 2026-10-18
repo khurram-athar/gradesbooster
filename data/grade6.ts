@@ -31868,6 +31868,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: impromptu speaking means speaking on a topic with little or no advance preparation, requiring a speaker to quickly organize their thoughts into a clear beginning, middle, and end.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=HDufd4IUuAA",
         "quiz": [
           {
             "q": "What is impromptu speaking?",
@@ -31928,6 +31929,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: a weighted average gives different values different levels of importance before averaging, multiplying each value by its weight, adding the results, and dividing by the total of the weights.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=P0oinC6ejFI",
         "quiz": [
           {
             "q": "What does a weighted average take into account that a simple average does not?",
@@ -32048,6 +32050,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare political maps (borders, cities), physical maps (landforms, elevation), and thematic maps (showing one topic like population or climate), and practice choosing the right map type for a given question.",
         "resourceLabel": "YouTube: Types of Maps: Political, Physical, and Thematic",
         "resourceUrl": "https://www.youtube.com/results?search_query=Types%20of%20Maps%3A%20Political%2C%20Physical%2C%20and%20Thematic%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Tukfoov_l5Y",
         "topic": "Map & Geography Skills",
         "quiz": [
           {

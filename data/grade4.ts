@@ -33012,6 +33012,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: an autobiography is a true account of a persons own life written by that person, often organized in chronological order and including important events and reflections.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=b7rzys8mDGE",
         "quiz": [
           {
             "q": "What is an autobiography?",
@@ -33072,6 +33073,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: a line graph uses points connected by lines to show how something changes over time, such as temperature over a week.",
         "resourceLabel": "YouTube: Data: Line Graphs Showing Change Over Time",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Line%20Graphs%20Showing%20Change%20Over%20Time%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mINQOl8f4VE",
         "quiz": [
           {
             "q": "What does a line graph show?",
@@ -33132,6 +33134,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: mixing baking soda and vinegar causes a chemical reaction that creates bubbles of gas, showing how mixing certain materials can create something new.",
         "resourceLabel": "YouTube: Simple Chemical Reactions: Baking Soda and Vinegar",
         "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20Chemical%20Reactions%3A%20Baking%20Soda%20and%20Vinegar%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_CYgsqji_0k",
         "quiz": [
           {
             "q": "What happens when you mix baking soda and vinegar?",
