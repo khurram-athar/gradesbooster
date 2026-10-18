@@ -40328,6 +40328,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand review: students revisit metaphors, possessive pronouns, strong word choice, editing, procedural writing, and retelling nonfiction facts.",
         "resourceLabel": "YouTube: Language Review: Word Choice, Metaphors, and Nonfiction Retelling",
         "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Word%20Choice%2C%20Metaphors%2C%20and%20Nonfiction%20Retelling%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FsCukebKvFc",
+        "videoUrls": [
+          {
+            "label": "Word Choice: Choosing Strong, Precise Words",
+            "url": "https://www.youtube.com/watch?v=FsCukebKvFc"
+          },
+          {
+            "label": "Metaphors: Describing One Thing as Another",
+            "url": "https://www.youtube.com/watch?v=kVNal4_izVU"
+          }
+        ],
         "quiz": [
           {
             "q": "What is a metaphor?",

@@ -36202,6 +36202,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand review: students revisit synthetic division, prime factorization, the Pythagorean trigonometric identity, three-variable systems, the dot product, mathematical induction, insurance and risk, conditional probability, and limits.",
         "resourceLabel": "YouTube: Math Review: Advanced Algebra, Number Theory, and Calculus Preview",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Advanced%20Algebra%2C%20Number%20Theory%2C%20and%20Calculus%20Preview%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YNstP0ESndU",
         "quiz": [
           {
             "q": "What does synthetic division provide a shortcut for?",

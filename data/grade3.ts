@@ -33003,6 +33003,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand review: students revisit complex sentences and subordinate clauses, personification, comparing story versions, writing a biography, group discussion skills, connotation and denotation, sequence text structure, using a thesaurus, and writing a research report.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=b9PHe83hrpc",
+        "videoUrls": [
+          {
+            "label": "Grammar: Complex Sentences and Subordinate Clauses",
+            "url": "https://www.youtube.com/watch?v=b9PHe83hrpc"
+          },
+          {
+            "label": "Oral Communication: Participating in a Group Discussion",
+            "url": "https://www.youtube.com/watch?v=U_v0bvlGR9E"
+          }
+        ],
         "quiz": [
           {
             "q": "What is a subordinate clause?",
