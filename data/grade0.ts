@@ -35941,6 +35941,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Letter S",
         "resourceUrl": "https://www.youtube.com/results?search_query=Letter%20S%20kindergarten%20educational",
         "topic": "Phonics & Word Recognition",
+        "videoUrl": "https://www.youtube.com/watch?v=IaFlt1TjM-k",
         "quiz": [
           {
             "q": "Which letter is this: S?",
@@ -36001,6 +36002,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Matching Real Objects to Shape Names",
         "resourceUrl": "https://www.youtube.com/results?search_query=Matching%20Real%20Objects%20to%20Shape%20Names%20kindergarten%20educational",
         "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=svrkthG2950",
         "quiz": [
           {
             "q": "A clock face that is perfectly round matches which shape?",
@@ -36061,6 +36063,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: The Moon and Stars: What We See at Night",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Moon%20and%20Stars%3A%20What%20We%20See%20at%20Night%20kindergarten%20educational",
         "topic": "Weather, Sky & Space (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=1sKgjAqdCDI",
         "quiz": [
           {
             "q": "What do we call the bright round object we often see in the night sky?",
@@ -36121,6 +36124,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Our Nurses: Caring for People Who Are Sick",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Nurses%3A%20Caring%20for%20People%20Who%20Are%20Sick%20kindergarten%20educational",
         "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=Jz65QopI2W8",
         "quiz": [
           {
             "q": "What is one thing a nurse does?",
@@ -36187,6 +36191,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Letter T",
         "resourceUrl": "https://www.youtube.com/results?search_query=Letter%20T%20kindergarten%20educational",
         "topic": "Phonics & Word Recognition",
+        "videoUrl": "https://www.youtube.com/watch?v=1yl9p--gElU",
         "quiz": [
           {
             "q": "Which letter is this: T?",
@@ -36247,6 +36252,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Comparing 2D and 3D Shapes: Flat or Solid",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%202D%20and%203D%20Shapes%3A%20Flat%20or%20Solid%20kindergarten%20educational",
         "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=o9k3dYMtuM4",
         "quiz": [
           {
             "q": "A shape drawn flat on a piece of paper, like a circle, is called a",
@@ -36307,6 +36313,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: The Five Senses: How We Explore the World",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Five%20Senses%3A%20How%20We%20Explore%20the%20World%20kindergarten%20educational",
         "topic": "Human Body & Health",
+        "videoUrl": "https://www.youtube.com/watch?v=DF5ys_3uuuU",
         "quiz": [
           {
             "q": "Which body part do you use to see?",
@@ -36367,6 +36374,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Our Construction Workers: Building Our Community",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Construction%20Workers%3A%20Building%20Our%20Community%20kindergarten%20educational",
         "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=v7azUjcUlzg",
         "quiz": [
           {
             "q": "What do construction workers help build?",

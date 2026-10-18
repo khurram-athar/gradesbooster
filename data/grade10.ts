@@ -31503,6 +31503,13 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: pathetic fallacy attributes human emotions to nature or the weather to mirror a characters mood, while personification more broadly gives human qualities to any nonhuman thing, and both devices deepen atmosphere and symbolic meaning in a text.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=Y43rBkDLzTM",
+        "videoUrls": [
+          {
+            "label": "Personification",
+            "url": "https://www.youtube.com/watch?v=5GOfjV6u0Co"
+          }
+        ],
         "quiz": [
           {
             "q": "What is pathetic fallacy?",
@@ -31564,6 +31571,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: The Equation of a Circle Centred at the Origin",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Equation%20of%20a%20Circle%20Centred%20at%20the%20Origin%20grade%2010%20educational",
         "topic": "Analytic & Coordinate Geometry",
+        "videoUrl": "https://www.youtube.com/watch?v=iL2_hQp124k",
         "quiz": [
           {
             "q": "What is the equation of a circle centred at the origin with radius 5?",
@@ -31623,6 +31631,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: fossils form when the remains or traces of organisms are preserved in sediment over long periods, and scientists use fossils alongside rock layers to construct the geologic time scale, a framework dividing Earths history into eras, periods, and epochs.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=rWp5ZpJAIAE",
         "quiz": [
           {
             "q": "How do most fossils typically form?",
@@ -31683,6 +31692,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the Manitoba Schools Question was a major political controversy of the 1890s over the provinces decision to eliminate public funding for Catholic and French-language schools, a dispute that intensified debates over minority language rights across Canada.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=dNQTOfO1mtk",
         "quiz": [
           {
             "q": "What was the Manitoba Schools Question primarily about?",

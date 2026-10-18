@@ -31622,6 +31622,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: a coordinating conjunction, such as and or but, joins two equal ideas, while a subordinating conjunction, such as although or because, joins a dependent clause to an independent clause.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=S1O_0XlgoL4",
         "quiz": [
           {
             "q": "What does a coordinating conjunction do?",
@@ -31682,6 +31683,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: the volume of an irregular solid that cannot be measured with a simple formula can be found using water displacement, where the amount of water an object pushes aside equals its volume.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=7JNjlcCP240",
         "quiz": [
           {
             "q": "What method can be used to find the volume of an irregular solid?",
@@ -31742,6 +31744,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: solar panels use photovoltaic cells to convert sunlight directly into electricity, offering a renewable energy source that produces no direct emissions while generating power.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=xKxrkht7CpY",
         "quiz": [
           {
             "q": "What do photovoltaic cells in a solar panel convert into electricity?",

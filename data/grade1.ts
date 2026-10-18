@@ -39223,6 +39223,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: a glossary explains the meaning of tricky words used in a book, and labels name the parts of a picture or diagram.",
         "resourceLabel": "YouTube: Text Features: Glossary and Labels",
         "resourceUrl": "https://www.youtube.com/results?search_query=Text%20Features%3A%20Glossary%20and%20Labels%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=n4FGe8cnEU8",
         "quiz": [
           {
             "q": "What is a glossary used for?",
@@ -39307,6 +39308,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Data: Tally Marks and Tally Charts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Tally%20Marks%20and%20Tally%20Charts%20grade%201%20educational",
         "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=-pEA3w8SQws",
         "quiz": [
           {
             "q": "In a tally chart, how many single tally marks are grouped together before you draw a line across them?",
@@ -39367,6 +39369,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Push and Pull: Forces That Move Things",
         "resourceUrl": "https://www.youtube.com/results?search_query=Push%20and%20Pull%3A%20Forces%20That%20Move%20Things%20grade%201%20educational",
         "topic": "Forces & Motion",
+        "videoUrl": "https://www.youtube.com/watch?v=ZLDUrPaLQWE",
         "quiz": [
           {
             "q": "Opening a drawer by moving it toward you is an example of a...",
@@ -39427,6 +39430,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Being a Responsible Classroom Citizen",
         "resourceUrl": "https://www.youtube.com/results?search_query=Being%20a%20Responsible%20Classroom%20Citizen%20grade%201%20educational",
         "topic": "Civic Life & Cooperation (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=O6irb5bLyuA",
         "quiz": [
           {
             "q": "Which of these shows being a responsible classroom citizen?",
@@ -39492,6 +39496,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: students count syllables in longer words by clapping each beat, such as clapping three times for the word elephant.",
         "resourceLabel": "YouTube: Counting Syllables in Longer Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Counting%20Syllables%20in%20Longer%20Words%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zLJrqHFmK6E",
         "quiz": [
           {
             "q": "How many syllables does the word elephant have?",
@@ -39575,6 +39580,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Data: Reading a Pictograph",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Reading%20a%20Pictograph%20grade%201%20educational",
         "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=RQsHOeoz57s",
         "quiz": [
           {
             "q": "In a pictograph, what does each small picture usually stand for?",
@@ -39635,6 +39641,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Fast and Slow: Comparing How Things Move",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fast%20and%20Slow%3A%20Comparing%20How%20Things%20Move%20grade%201%20educational",
         "topic": "Forces & Motion",
+        "videoUrl": "https://www.youtube.com/watch?v=rr9gZimxHAo",
         "quiz": [
           {
             "q": "Which of these usually moves FASTER?",

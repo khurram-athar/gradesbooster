@@ -31783,6 +31783,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: an ellipsis (three spaced or unspaced dots) signals omitted words or a trailing thought, while an em dash creates a strong break to emphasize or interrupt an idea, and formal writing uses both with restraint.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=DUhz0EWrPkI",
         "quiz": [
           {
             "q": "What does an ellipsis typically signal in writing?",
@@ -31844,6 +31845,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Volume of Prisms and Pyramids",
         "resourceUrl": "https://www.youtube.com/results?search_query=Volume%20of%20Prisms%20and%20Pyramids%20grade%209%20educational",
         "topic": "Measurement: Perimeter & Area",
+        "videoUrl": "https://www.youtube.com/watch?v=-f-T1qQhScw",
         "quiz": [
           {
             "q": "What is the formula for the volume of any prism?",
@@ -31903,6 +31905,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: groundwater is water stored beneath the surface within permeable rock or sediment layers called aquifers, and it represents a major source of fresh water for drinking, agriculture, and industry.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=oNWAerr_xEE",
         "quiz": [
           {
             "q": "What is groundwater?",
@@ -31962,6 +31965,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: a river delta forms where a river deposits sediment as it slows and meets a larger body of water, creating fertile, low-lying land that supports dense agriculture and settlement but faces risks from flooding and rising seas.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=CDEj62HGNkk",
         "quiz": [
           {
             "q": "What is a river delta?",

@@ -31603,6 +31603,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: an allusion is a brief, indirect reference to a person, event, or work from history, literature, or culture that an author expects readers to recognize, adding layers of meaning without lengthy explanation.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=rF3ANKEPoko",
         "quiz": [
           {
             "q": "What is an allusion?",
@@ -31664,6 +31665,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Classifying Quadrilaterals by Their Properties",
         "resourceUrl": "https://www.youtube.com/results?search_query=Classifying%20Quadrilaterals%20by%20Their%20Properties%20grade%208%20educational",
         "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=yiREqzDsMP8",
         "quiz": [
           {
             "q": "Which quadrilateral has exactly one pair of parallel sides?",
@@ -31723,6 +31725,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: an invasive species is a non-native organism introduced to a new environment where it spreads rapidly and causes ecological or economic harm, often by outcompeting native species for resources or introducing new diseases.",
         "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=spTWwqVP_2s",
         "quiz": [
           {
             "q": "What is an invasive species?",
@@ -31783,6 +31786,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: the Canadian National Railway was formed in the early 1920s when the federal government consolidated several financially struggling private railway lines into a single publicly owned company, creating a second transcontinental rail system alongside the Canadian Pacific Railway.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "videoUrl": "https://www.youtube.com/watch?v=4bebZQlAfaU",
         "quiz": [
           {
             "q": "How was the Canadian National Railway formed?",

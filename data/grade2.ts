@@ -38845,6 +38845,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: informal writing, like a quick note or message to a friend, uses a casual, friendly tone that is different from formal writing.",
         "resourceLabel": "YouTube: Informal Writing: Notes and Messages",
         "resourceUrl": "https://www.youtube.com/results?search_query=Informal%20Writing%3A%20Notes%20and%20Messages%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0fTlzYs5Tfg",
         "quiz": [
           {
             "q": "What is informal writing?",
@@ -38904,6 +38905,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise adding three small numbers together, such as 2 plus 3 plus 1, by combining any two numbers first and then adding the third.",
         "resourceLabel": "YouTube: Addition: Adding Three Numbers Together",
         "resourceUrl": "https://www.youtube.com/results?search_query=Addition%3A%20Adding%20Three%20Numbers%20Together%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QpYeRLS-f8g",
         "quiz": [
           {
             "q": "What is 2 plus 2 plus 2?",
@@ -38987,6 +38989,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: many animals live and move together in groups with special names, such as a herd of deer, a flock of birds, or a school of fish.",
         "resourceLabel": "YouTube: Animal Groups: Herds, Flocks, and Schools",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Groups%3A%20Herds%2C%20Flocks%2C%20and%20Schools%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CQOuIwKNmws",
         "quiz": [
           {
             "q": "What do we call a group of deer?",

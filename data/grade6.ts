@@ -31679,6 +31679,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: translating a word problem into an algebraic expression means identifying an unknown quantity, assigning it a variable, and using mathematical operations to represent the relationships described in words.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=KmuWR_LriQU",
         "quiz": [
           {
             "q": "What is the first step in translating a word problem into an algebraic expression?",
@@ -31739,6 +31740,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: metamorphosis is a process in which an animal undergoes dramatic physical changes as it develops, seen in insects like butterflies, which pass through egg, larva, pupa, and adult stages, and in amphibians like frogs.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=TeisJz4aIqs",
         "quiz": [
           {
             "q": "What is metamorphosis?",
@@ -31800,6 +31802,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: The Canadian Pacific Railway: Building the Nation",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Canadian%20Pacific%20Railway%3A%20Building%20the%20Nation%20grade%206%20educational",
         "topic": "Transportation & Infrastructure",
+        "videoUrl": "https://www.youtube.com/watch?v=44mmYusPr68",
         "quiz": [
           {
             "q": "What was one condition British Columbia set for joining Confederation in 1871?",

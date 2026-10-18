@@ -32345,6 +32345,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: an interjection is a word or phrase that expresses strong emotion, such as wow or ouch, and is often followed by an exclamation mark or set off with a comma.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=iL__KkOELOM",
         "quiz": [
           {
             "q": "What is an interjection?",
@@ -32405,6 +32406,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: speed describes how fast an object moves, calculated by dividing the distance travelled by the time it took, such as kilometres per hour.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=EGqpLug-sDk",
         "quiz": [
           {
             "q": "How is speed calculated?",
@@ -32465,6 +32467,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: nocturnal animals are active mainly at night and have adaptations such as strong night vision, sensitive hearing, or a keen sense of smell that help them survive in the dark.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=y43ZeJhcYjA",
         "quiz": [
           {
             "q": "What does it mean for an animal to be nocturnal?",
@@ -32525,6 +32528,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: Elders and Knowledge Keepers hold important roles in Indigenous communities, passing down traditional knowledge, language, and teachings to younger generations.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=zhVnWwzzeRE",
         "quiz": [
           {
             "q": "What role do Elders often play in Indigenous communities?",

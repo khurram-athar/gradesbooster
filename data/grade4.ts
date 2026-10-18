@@ -32740,6 +32740,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: hyperbole is a big exaggeration used in stories to make a feeling or idea seem much bigger than it really is, like saying I could eat a horse.",
         "resourceLabel": "YouTube: Hyperbole: Exaggerating for Effect",
         "resourceUrl": "https://www.youtube.com/results?search_query=Hyperbole%3A%20Exaggerating%20for%20Effect%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=35vPiAAua94",
         "quiz": [
           {
             "q": "What is hyperbole?",
@@ -32822,6 +32823,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: a Venn diagram uses overlapping circles to sort data into categories, showing items that belong to one group, another group, or both.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=lnalI7eVQsQ",
         "quiz": [
           {
             "q": "What is a Venn diagram used for?",
@@ -32882,6 +32884,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: fossil fuels such as coal, oil, and natural gas formed over millions of years from ancient organisms and are burned for energy, though their use releases pollution and greenhouse gases.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=JasIvS7oYw4",
         "quiz": [
           {
             "q": "What are fossil fuels?",
@@ -32942,6 +32945,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: Canadas mining industry extracts valuable resources such as nickel, gold, and potash from the ground, contributing significantly to the national economy and employment.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=Nl7BlosJVHA",
         "quiz": [
           {
             "q": "What does the mining industry extract from the ground?",
