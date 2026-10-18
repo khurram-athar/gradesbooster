@@ -31360,6 +31360,7 @@
         "summary": "Grade 7 Language strand: a deepfake uses artificial intelligence to create convincing but fake images, audio, or video of real people, making it essential for viewers to critically evaluate digital media before trusting or sharing it.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=HWzNPAwDK1A",
         "quiz": [
           {
             "q": "What is a deepfake?",
@@ -31420,6 +31421,7 @@
         "summary": "Grade 7 Math strand: a frequency polygon displays grouped data as a series of connected line segments plotted at the midpoint of each interval, offering an alternative to a histogram for showing the shape of a distribution.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=y7Wb9AjbRjo",
         "quiz": [
           {
             "q": "What does a frequency polygon use to display data?",
@@ -31480,6 +31482,17 @@
         "summary": "Grade 7 Science strand: the moon appears to change shape in the sky as it orbits Earth in a predictable cycle of phases, and its gravitational pull, along with the suns, causes the rise and fall of ocean tides.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=8bSXuxjIACU",
+        "videoUrls": [
+          {
+            "label": "Tides",
+            "url": "https://www.youtube.com/watch?v=8bSXuxjIACU"
+          },
+          {
+            "label": "Moon Phases",
+            "url": "https://www.youtube.com/watch?v=AQ5vty8f9Xc"
+          }
+        ],
         "quiz": [
           {
             "q": "Why does the moon appear to change shape in the sky over about a month?",
@@ -31540,6 +31553,7 @@
         "summary": "Grade 5 Social Studies strand: a trade surplus occurs when a country exports more than it imports, while a trade deficit occurs when it imports more than it exports, both affecting a countrys economy.",
         "resourceLabel": "YouTube: Trade Surplus and Trade Deficit — Balancing What Canada Buys and Sells",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trade%20Surplus%20and%20Trade%20Deficit%20%E2%80%94%20Balancing%20What%20Canada%20Buys%20and%20Sells%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7no42IhdsjQ",
         "quiz": [
           {
             "q": "What is a trade surplus?",

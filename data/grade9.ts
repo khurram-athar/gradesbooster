@@ -31523,6 +31523,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: influencer marketing involves individuals promoting products to their followers, and ethical practice requires clear disclosure of paid partnerships so audiences can distinguish genuine opinions from sponsored content.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=trZhY_gXgKQ",
         "quiz": [
           {
             "q": "What is influencer marketing?",
@@ -31583,6 +31584,7 @@ const curriculum: DayContent[] = [
         "summary": "Students calculate the surface area of rectangular prisms, triangular prisms, and cylinders by finding the total area of all faces or applying surface area formulas.",
         "resourceLabel": "YouTube: Surface Area of Prisms and Cylinders",
         "resourceUrl": "https://www.youtube.com/results?search_query=Surface%20Area%20of%20Prisms%20and%20Cylinders%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8ekawfg_2Zc",
         "topic": "Measurement: Perimeter & Area",
         "quiz": [
           {
@@ -31643,6 +31645,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: the integumentary system, consisting mainly of the skin, protects the body from pathogens and injury, regulates temperature, and provides sensory information about the external environment.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=Orumw-PyNjw",
         "quiz": [
           {
             "q": "Lichens are sensitive to air pollution. What does a healthy lichen population usually indicate?",
@@ -31703,6 +31706,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: deserts are regions receiving very little precipitation, and desertification is the process by which fertile land becomes increasingly arid, often driven by climate change, overgrazing, and unsustainable land use.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=n4crvs-KTBw",
+        "videoUrls": [
+          {
+            "label": "Deserts Overview",
+            "url": "https://www.youtube.com/watch?v=n4crvs-KTBw"
+          },
+          {
+            "label": "Desertification",
+            "url": "https://www.youtube.com/watch?v=WF-GNL3KfrY"
+          }
+        ],
         "quiz": [
           {
             "q": "What defines a desert region?",

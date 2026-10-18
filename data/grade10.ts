@@ -31255,6 +31255,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: recommendation algorithms on social media and search platforms personalize content based on past behaviour, which can create filter bubbles that reinforce existing beliefs and limit exposure to diverse perspectives, an important concern in media literacy.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=YzbYSwyDE_g",
         "quiz": [
           {
             "q": "What is a filter bubble?",
@@ -31315,6 +31316,7 @@ const curriculum: DayContent[] = [
         "summary": "Students apply slope, midpoint, and distance formulas to verify whether a quadrilateral on the coordinate plane is a parallelogram, rectangle, rhombus, or square.",
         "resourceLabel": "YouTube: Verifying Properties of Quadrilaterals Using Coordinate Geometry",
         "resourceUrl": "https://www.youtube.com/results?search_query=Verifying%20Properties%20of%20Quadrilaterals%20Using%20Coordinate%20Geometry%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vsgrWDLEzcQ",
         "topic": "Analytic & Coordinate Geometry",
         "quiz": [
           {
@@ -31375,6 +31377,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: coral reefs are diverse marine ecosystems built by colonies of tiny animals called coral polyps, which form calcium carbonate skeletons that provide habitat for a vast range of marine species, though reefs remain highly sensitive to changes in ocean temperature and acidity.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=ZiULxLLP32s",
         "quiz": [
           {
             "q": "What are coral reefs built by?",
