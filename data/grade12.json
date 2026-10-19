@@ -31690,7 +31690,8 @@
             "answer": 3
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=RUoWg-682W0"
       },
       {
         "subject": "AdvancedFunctions",
@@ -31750,7 +31751,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=HKDdzBuffoY"
       },
       {
         "subject": "Calculus",
@@ -31810,7 +31812,8 @@
             "answer": 3
           }
         ],
-        "topic": "Vectors: Magnitude & Direction"
+        "topic": "Vectors: Magnitude & Direction",
+        "videoUrl": "https://www.youtube.com/watch?v=iOYOxfrkSR0"
       },
       {
         "subject": "Physics",
@@ -31869,7 +31872,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=g4OYz75zZ8w"
       }
     ]
   },
@@ -31935,7 +31939,8 @@
             "answer": 0
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=Lm_AzK27mZY"
       },
       {
         "subject": "AdvancedFunctions",
@@ -31995,7 +32000,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Iaq7z7reznM"
       },
       {
         "subject": "Calculus",
@@ -32054,7 +32060,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=xBD2sbfmtB8"
       },
       {
         "subject": "Physics",
@@ -32113,7 +32120,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=H-FyOpURPXI"
       }
     ]
   },

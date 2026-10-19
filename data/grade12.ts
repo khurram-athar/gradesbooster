@@ -31692,7 +31692,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=RUoWg-682W0"
       },
       {
         "subject": "AdvancedFunctions",
@@ -31752,7 +31753,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=HKDdzBuffoY"
       },
       {
         "subject": "Calculus",
@@ -31812,7 +31814,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Vectors: Magnitude & Direction"
+        "topic": "Vectors: Magnitude & Direction",
+        "videoUrl": "https://www.youtube.com/watch?v=iOYOxfrkSR0"
       },
       {
         "subject": "Physics",
@@ -31871,7 +31874,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=g4OYz75zZ8w"
       }
     ]
   },
@@ -31937,7 +31941,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=Lm_AzK27mZY"
       },
       {
         "subject": "AdvancedFunctions",
@@ -31997,7 +32002,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Iaq7z7reznM"
       },
       {
         "subject": "Calculus",
@@ -32056,7 +32062,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=xBD2sbfmtB8"
       },
       {
         "subject": "Physics",
@@ -32115,7 +32122,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=H-FyOpURPXI"
       }
     ]
   },

@@ -32057,7 +32057,8 @@
             "answer": 2
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=mAFoo4RQtKA"
       },
       {
         "subject": "SocialStudies",
@@ -32116,7 +32117,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Okph9wt8I0A"
       }
     ]
   },
@@ -32182,7 +32184,8 @@
             "answer": 0
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=lvovUqZNZxY"
       },
       {
         "subject": "Math",
@@ -32242,7 +32245,8 @@
             "answer": 3
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=nV8jR8M8C74"
       },
       {
         "subject": "Science",
@@ -32302,7 +32306,8 @@
             "answer": 3
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=skB_A2sfBcY"
       },
       {
         "subject": "SocialStudies",
@@ -32362,7 +32367,8 @@
             "answer": 1
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=zIlDlhs6pjQ"
       }
     ]
   },

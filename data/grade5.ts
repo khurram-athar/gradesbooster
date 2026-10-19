@@ -32647,7 +32647,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=Zr1xLtSMMLo"
       },
       {
         "subject": "Math",
@@ -32851,7 +32852,8 @@ const curriculum: DayContent[] = [
               "the Arctic"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=3hpNona8M4g"
       }
     ]
   },
@@ -32977,7 +32979,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=Qpq_XEeBBZw"
       },
       {
         "subject": "Science",
@@ -33036,7 +33039,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=WqgVks9NViQ"
       },
       {
         "subject": "SocialStudies",
@@ -33096,7 +33100,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Community Helpers & Civic Roles (Basic)"
+        "topic": "Community Helpers & Civic Roles (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=RFMgV_QlHv0"
       }
     ]
   },

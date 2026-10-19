@@ -32042,7 +32042,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=TZk6vcmLcKw"
       },
       {
         "subject": "SocialStudies",
@@ -32169,7 +32170,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=ZrBBylNNf6A"
       },
       {
         "subject": "Math",
@@ -32229,7 +32231,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=6hJGa4Zp62M"
       },
       {
         "subject": "Science",
@@ -32289,7 +32292,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=ldfRWjUpO8M"
       },
       {
         "subject": "SocialStudies",
@@ -32348,7 +32352,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Lo_w1QmImNM"
       }
     ]
   },

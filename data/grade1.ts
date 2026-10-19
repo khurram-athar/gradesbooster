@@ -39842,7 +39842,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=U9QLlC1cvLc"
       },
       {
         "subject": "Math",
@@ -39902,7 +39903,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=nsScVF6Jo6A"
       },
       {
         "subject": "Science",
@@ -39985,7 +39987,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=zwtHA1F5UVw"
       },
       {
         "subject": "SocialStudies",
@@ -40045,7 +40048,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=9nSXStL2eJo"
       }
     ]
   },

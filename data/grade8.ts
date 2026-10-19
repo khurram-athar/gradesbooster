@@ -31905,7 +31905,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=9Gchsp5zitg"
       },
       {
         "subject": "Math",
@@ -31965,7 +31966,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=P51vaRzwHhk"
       },
       {
         "subject": "Science",
@@ -32025,7 +32027,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=5Dh5rDwAXNQ"
       },
       {
         "subject": "History",
@@ -32085,7 +32088,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Community Helpers & Civic Roles (Basic)"
+        "topic": "Community Helpers & Civic Roles (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=-iV7H3NTyCw"
       }
     ]
   },
@@ -32151,7 +32155,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=OOE2Vu7_BV8"
       },
       {
         "subject": "Math",
@@ -32211,7 +32216,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Z0AF2UHLVJ0"
       },
       {
         "subject": "Science",
@@ -32271,7 +32277,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Rocks, Fossils & Earth's History"
+        "topic": "Rocks, Fossils & Earth's History",
+        "videoUrl": "https://www.youtube.com/watch?v=c4fKBGsllZI"
       },
       {
         "subject": "History",
@@ -32331,7 +32338,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Confederation & Government Formation"
+        "topic": "Confederation & Government Formation",
+        "videoUrl": "https://www.youtube.com/watch?v=TGJKj5wpeXA"
       }
     ]
   },

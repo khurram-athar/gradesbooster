@@ -32059,7 +32059,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=mAFoo4RQtKA"
       },
       {
         "subject": "SocialStudies",
@@ -32118,7 +32119,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Okph9wt8I0A"
       }
     ]
   },
@@ -32184,7 +32186,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=lvovUqZNZxY"
       },
       {
         "subject": "Math",
@@ -32244,7 +32247,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=nV8jR8M8C74"
       },
       {
         "subject": "Science",
@@ -32304,7 +32308,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=skB_A2sfBcY"
       },
       {
         "subject": "SocialStudies",
@@ -32364,7 +32369,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=zIlDlhs6pjQ"
       }
     ]
   },

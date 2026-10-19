@@ -32084,7 +32084,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=32e3QlxHq7k"
       },
       {
         "subject": "Math",
@@ -32205,7 +32206,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=Nf8cuvl62Vc"
       },
       {
         "subject": "SocialStudies",
@@ -32331,7 +32333,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=6NkTobntycY"
       },
       {
         "subject": "Math",
@@ -32391,7 +32394,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=5PcMbN46NMA"
       },
       {
         "subject": "Science",
@@ -32451,7 +32455,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Matter & Materials"
+        "topic": "Matter & Materials",
+        "videoUrl": "https://www.youtube.com/watch?v=V2GvQXvjhLA"
       },
       {
         "subject": "SocialStudies",
@@ -32511,7 +32516,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=D0l2IduJU6c"
       }
     ]
   },

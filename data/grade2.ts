@@ -39450,7 +39450,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=28aHSvIBZg8"
       },
       {
         "subject": "Math",
@@ -39510,7 +39511,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Measurement: Units"
+        "topic": "Measurement: Units",
+        "videoUrl": "https://www.youtube.com/watch?v=0YqMjjEMMmE"
       },
       {
         "subject": "Science",
@@ -39593,7 +39595,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Classification of Living Things (Basic)"
+        "topic": "Classification of Living Things (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=iblveeTDkXQ"
       },
       {
         "subject": "SocialStudies",
@@ -39676,7 +39679,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Celebrations & Traditions (Basic)"
+        "topic": "Celebrations & Traditions (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=uEZDsJVAI4w"
       }
     ]
   },

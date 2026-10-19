@@ -31870,7 +31870,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=JaX_dIDUYBg"
       },
       {
         "subject": "Science",
@@ -31930,7 +31931,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=6hREwakXmAo"
       },
       {
         "subject": "History",
@@ -31990,7 +31992,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Confederation & Government Formation"
+        "topic": "Confederation & Government Formation",
+        "videoUrl": "https://www.youtube.com/watch?v=_kFlsRfGioU"
       }
     ]
   },
@@ -32056,7 +32059,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=QFcaUTd8DgY"
       },
       {
         "subject": "Math",
@@ -32116,7 +32120,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=gzxHPXGCHKs"
       },
       {
         "subject": "Science",
@@ -32175,7 +32180,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=rs1JLYXROVU"
       },
       {
         "subject": "History",
@@ -32235,7 +32241,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Confederation & Government Formation"
+        "topic": "Confederation & Government Formation",
+        "videoUrl": "https://www.youtube.com/watch?v=RlH5LXbo6FE"
       }
     ]
   },

@@ -32476,7 +32476,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=xjd3AwEfRKE"
       },
       {
         "subject": "Math",
@@ -32559,7 +32560,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Number Sense: Basic Counting"
+        "topic": "Number Sense: Basic Counting",
+        "videoUrl": "https://www.youtube.com/watch?v=MbtmucV-U2c"
       },
       {
         "subject": "Science",
@@ -32640,7 +32642,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Light & Sound"
+        "topic": "Light & Sound",
+        "videoUrl": "https://www.youtube.com/watch?v=9QSwD73ujPI"
       },
       {
         "subject": "SocialStudies",
@@ -32699,7 +32702,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=qywIiKKb6PA"
       }
     ]
   },

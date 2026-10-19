@@ -33247,7 +33247,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=qqQxa68XQcc"
       }
     ]
   },
@@ -33313,7 +33314,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=cyupDLGdlRY"
       },
       {
         "subject": "Math",
@@ -33373,7 +33375,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=cKgqfnGhG8o"
       },
       {
         "subject": "Science",
@@ -33433,7 +33436,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=7wN4fI9iJH4"
       },
       {
         "subject": "SocialStudies",
@@ -33493,7 +33497,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Canadian Places & Symbols (Basic)"
+        "topic": "Canadian Places & Symbols (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=UAf2SzRBU5U"
       }
     ]
   },

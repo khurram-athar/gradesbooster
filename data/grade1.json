@@ -39840,7 +39840,8 @@
             ]
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=U9QLlC1cvLc"
       },
       {
         "subject": "Math",
@@ -39900,7 +39901,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=nsScVF6Jo6A"
       },
       {
         "subject": "Science",
@@ -39983,7 +39985,8 @@
             ]
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=zwtHA1F5UVw"
       },
       {
         "subject": "SocialStudies",
@@ -40043,7 +40046,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=9nSXStL2eJo"
       }
     ]
   },

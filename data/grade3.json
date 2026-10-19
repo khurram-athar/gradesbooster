@@ -32474,7 +32474,8 @@
             "answer": 0
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=xjd3AwEfRKE"
       },
       {
         "subject": "Math",
@@ -32557,7 +32558,8 @@
             ]
           }
         ],
-        "topic": "Number Sense: Basic Counting"
+        "topic": "Number Sense: Basic Counting",
+        "videoUrl": "https://www.youtube.com/watch?v=MbtmucV-U2c"
       },
       {
         "subject": "Science",
@@ -32638,7 +32640,8 @@
             ]
           }
         ],
-        "topic": "Light & Sound"
+        "topic": "Light & Sound",
+        "videoUrl": "https://www.youtube.com/watch?v=9QSwD73ujPI"
       },
       {
         "subject": "SocialStudies",
@@ -32697,7 +32700,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=qywIiKKb6PA"
       }
     ]
   },

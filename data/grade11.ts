@@ -31860,7 +31860,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=DESSX1MxS2A"
       },
       {
         "subject": "Functions",
@@ -31919,7 +31920,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=0JQeo0yC9OQ"
       },
       {
         "subject": "Biology",
@@ -31979,7 +31981,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Classification of Living Things (Basic)"
+        "topic": "Classification of Living Things (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=u6NmbjlO2iI"
       },
       {
         "subject": "Chemistry",
@@ -32038,7 +32041,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=6Cn7QqdFIxc"
       }
     ]
   },
@@ -32104,7 +32108,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=carp5wN1hPY"
       },
       {
         "subject": "Functions",
@@ -32224,7 +32229,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=p6k-EfZtgps"
       },
       {
         "subject": "Chemistry",
@@ -32283,7 +32289,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=pmmIB7-q7wg"
       }
     ]
   },
