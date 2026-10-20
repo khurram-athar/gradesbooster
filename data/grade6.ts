@@ -32367,6 +32367,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: readers deepen comprehension by making connections, relating a text to their own experiences (text-to-self), to other texts they have read (text-to-text), or to events and issues beyond the text (text-to-world).",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=0QWWIhEUzJg",
         "quiz": [
           {
             "q": "What is a text-to-self connection?",
@@ -32427,6 +32428,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: large numbers in the millions and billions are read and written using place value groups separated by commas, helping students make sense of quantities like populations, distances, and budgets.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=IWyF5UmjurU",
         "quiz": [
           {
             "q": "In the number 3,254,000, what place value does the digit 3 represent?",
@@ -32487,6 +32489,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: a generator produces electricity by using motion, such as spinning magnets near coils of wire, to convert mechanical energy into electrical energy.",
         "resourceLabel": "YouTube: Science: How a Generator Makes Electricity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20How%20a%20Generator%20Makes%20Electricity%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=AWpOdWROBuI",
         "quiz": [
           {
             "q": "What does a generator produce?",
@@ -32548,6 +32551,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Canada's Major Watersheds and River Systems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Major%20Watersheds%20and%20River%20Systems%20grade%206%20educational",
         "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=r-M4l-DPtPs",
         "quiz": [
           {
             "q": "What is a watershed?",

@@ -32532,6 +32532,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Reading: Analyzing Point of View and Narrative Distance",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Point%20of%20View%20and%20Narrative%20Distance%20grade%209%20educational",
         "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=hfdSkCGsFCI",
         "quiz": [
           {
             "q": "In first-person point of view, the narrator...",
@@ -32592,6 +32593,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Angle Sum of Interior Angles in Polygons",
         "resourceUrl": "https://www.youtube.com/results?search_query=Angle%20Sum%20of%20Interior%20Angles%20in%20Polygons%20grade%209%20educational",
         "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=qG3HnRccrQU",
         "quiz": [
           {
             "q": "What is the sum of the interior angles of a triangle?",
@@ -32652,6 +32654,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Space Science: The Life Cycle of Stars",
         "resourceUrl": "https://www.youtube.com/results?search_query=Space%20Science%3A%20The%20Life%20Cycle%20of%20Stars%20grade%209%20educational",
         "topic": "Space & Astronomy",
+        "videoUrl": "https://www.youtube.com/watch?v=PM9CQDlQI0A",
         "quiz": [
           {
             "q": "Stars form from large clouds of gas and dust known as:",
@@ -32711,6 +32714,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: waste-to-energy facilities convert municipal solid waste into usable electricity or heat through controlled combustion, offering cities a way to manage waste while raising questions about air quality and the balance with recycling programs.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=RAXbohaBGt8",
         "quiz": [
           {
             "q": "What is the main output of a facility that burns municipal garbage in a controlled way at high temperatures?",

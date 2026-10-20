@@ -32304,6 +32304,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: comparing different translations of the same text can reveal how word choice, tone, and cultural context shape meaning, since no translation is a perfectly neutral copy of the original.",
         "resourceLabel": "YouTube: Reading: Comparing Translations of a Text",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Comparing%20Translations%20of%20a%20Text%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vLn_wmedmT0",
         "quiz": [
           {
             "q": "What can comparing different translations of the same text reveal?",
@@ -32364,6 +32365,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand: a logarithm is the inverse operation of exponentiation, answering the question of what exponent a given base must be raised to in order to produce a certain number.",
         "resourceLabel": "YouTube: Introduction to Logarithms",
         "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Logarithms%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zzu2POfYv0Y",
         "quiz": [
           {
             "q": "What is a logarithm the inverse operation of?",
@@ -32424,6 +32426,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: allelopathy is a biological phenomenon in which a plant releases chemical compounds into the environment that inhibit the germination, growth, or survival of neighbouring plant species, reducing competition for resources.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=TiuvrtgMyas",
         "quiz": [
           {
             "q": "What is allelopathy?",
@@ -32483,6 +32486,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: composting relies on microbial decomposition reactions that break down complex organic molecules such as cellulose and proteins into simpler compounds, releasing carbon dioxide, water, and heat while forming nutrient-rich humus.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=nhvL9pOuxvQ",
         "quiz": [
           {
             "q": "What process drives the breakdown of organic material during composting?",

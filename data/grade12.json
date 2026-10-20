@@ -32135,6 +32135,7 @@
         "summary": "Grade 12 English strand: parallelism repeats a grammatical structure across a series of words, phrases, or clauses to create rhythm and emphasis, with the rhetorical triad, or grouping of three, forming one especially memorable and persuasive pattern of parallel structure.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=UUaXS3k68kY",
         "quiz": [
           {
             "q": "What does parallelism repeat across a series of words, phrases, or clauses?",
@@ -32195,6 +32196,7 @@
         "resourceLabel": "YouTube: Transformations of Polynomial Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Transformations%20of%20Polynomial%20Functions%20grade%2012%20educational",
         "topic": "Polynomials & Factoring",
+        "videoUrl": "https://www.youtube.com/watch?v=y7h-VU1zBZY",
         "quiz": [
           {
             "q": "The graph of y = x^3 is vertically stretched by factor 2, reflected in the x-axis, and shifted up 3. Which equation represents this transformation?",
@@ -32254,6 +32256,7 @@
         "summary": "Grade 10 Math strand: parametric equations express the x and y coordinates of a curve separately in terms of a third variable, called a parameter, allowing flexible descriptions of motion and curves.",
         "resourceLabel": "YouTube: Algebra: An Introduction to Parametric Equations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20An%20Introduction%20to%20Parametric%20Equations%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=97pe-QlSGqA",
         "quiz": [
           {
             "q": "What do parametric equations use to describe a curve?",
@@ -32314,6 +32317,7 @@
         "summary": "Calculates harmonic wavelengths and frequencies for strings fixed at both ends and for open and closed pipes, and explores how wave speed and length affect resonant frequencies.",
         "resourceLabel": "YouTube: Standing Waves and Resonance",
         "resourceUrl": "https://www.youtube.com/results?search_query=Standing%20Waves%20and%20Resonance%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0Rfushlee0U",
         "quiz": [
           {
             "q": "A string of length 1.2 m, fixed at both ends, vibrates in its 3rd harmonic. What is the wavelength of the standing wave?",

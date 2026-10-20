@@ -32867,6 +32867,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: a public service announcement, or PSA, is a short piece of writing that informs or persuades an audience about an important issue, such as safety or the environment, often ending with a clear message.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=Kr4Yf1xRb7U",
         "quiz": [
           {
             "q": "What is the purpose of a public service announcement?",
@@ -33115,6 +33116,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: an eponym is a word derived from the name of a real or fictional person, such as sandwich, named after the Earl of Sandwich.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=GciWQa8w72w",
         "quiz": [
           {
             "q": "What is an eponym?",
@@ -33175,6 +33177,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: the probability of an event can be expressed as a fraction, a decimal, or a percent, all representing the same likelihood in different forms.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=DCEm4fL_Ats",
         "quiz": [
           {
             "q": "If a probability is expressed as 1/4, what is this as a percent?",
@@ -33235,6 +33238,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: a thermal conductor, such as metal, allows heat to pass through it easily, while a thermal insulator, such as wood or foam, slows the transfer of heat.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=7LxugvoogmU",
         "quiz": [
           {
             "q": "What is a thermal conductor?",
@@ -33294,6 +33298,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: Canada has participated in the Olympic Games for over a century and has hosted the Games multiple times, including in Montreal, Calgary, and Vancouver, showcasing Canadian athletes and culture on a global stage.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=zHcDW6dNnlk",
         "quiz": [
           {
             "q": "Has Canada hosted the Olympic Games more than once?",

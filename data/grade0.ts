@@ -36691,6 +36691,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Letter V",
         "resourceUrl": "https://www.youtube.com/results?search_query=Letter%20V%20kindergarten%20educational",
         "topic": "Phonics & Word Recognition",
+        "videoUrl": "https://www.youtube.com/watch?v=gOzHf_2YxGg",
         "quiz": [
           {
             "q": "Which letter is this: V?",
@@ -36751,6 +36752,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Over, Under, and Through",
         "resourceUrl": "https://www.youtube.com/results?search_query=Over%2C%20Under%2C%20and%20Through%20kindergarten%20educational",
         "topic": "Spatial Sense",
+        "videoUrl": "https://www.youtube.com/watch?v=xyMrLQ4ZI-4",
         "quiz": [
           {
             "q": "If a bird flies above a tree without touching it, the bird flew ___ the tree.",
@@ -36811,6 +36813,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Puddles: Where Does the Water Go?",
         "resourceUrl": "https://www.youtube.com/results?search_query=Puddles%3A%20Where%20Does%20the%20Water%20Go%3F%20kindergarten%20educational",
         "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=XeZedYZXeBU",
         "quiz": [
           {
             "q": "After a rainstorm, what do we call the water that collects on the ground?",
@@ -36871,6 +36874,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Goods and Services: What People Make and Do",
         "resourceUrl": "https://www.youtube.com/results?search_query=Goods%20and%20Services%3A%20What%20People%20Make%20and%20Do%20kindergarten%20educational",
         "topic": "Money, Jobs & Economy (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=Jd4kD9TicbA",
         "quiz": [
           {
             "q": "A good is something that is...",
