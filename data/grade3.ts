@@ -33080,6 +33080,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: students compare two bar graphs to see which one shows a taller bar, meaning a greater amount for that category.",
         "resourceLabel": "YouTube: Data: Comparing Two Bar Graphs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Comparing%20Two%20Bar%20Graphs%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nDaKJBjZszQ",
         "quiz": [
           {
             "q": "On a bar graph, a taller bar usually means ___.",
@@ -33325,6 +33326,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: a run-on sentence joins two or more independent clauses without proper punctuation or a conjunction, and writers fix it by adding a period, a comma with a conjunction, or a semicolon.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=tctBlKEg1dw",
         "quiz": [
           {
             "q": "What is a run-on sentence?",
@@ -33478,6 +33480,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a chicken begins life inside an egg, hatches into a fluffy chick, and grows through several stages into a fully grown hen or rooster.",
         "resourceLabel": "YouTube: Life Cycle of a Chicken: Egg to Hen",
         "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Chicken%3A%20Egg%20to%20Hen%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_XDNxG25-8Q",
         "quiz": [
           {
             "q": "What does a baby chick hatch out of?",

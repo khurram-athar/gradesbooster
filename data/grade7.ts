@@ -32933,6 +32933,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: a relative clause adds extra information about a noun and begins with a relative pronoun such as who, whom, whose, which, or that, connecting the extra detail directly to the noun it describes.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=eFmfoeTkhH0",
         "quiz": [
           {
             "q": "What is a relative clause?",
@@ -32993,6 +32994,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: mean absolute deviation, or MAD, measures the average distance between each data value and the mean of the data set, giving a sense of how spread out the values are.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=AQsmbvsictA",
         "quiz": [
           {
             "q": "What does mean absolute deviation (MAD) measure?",

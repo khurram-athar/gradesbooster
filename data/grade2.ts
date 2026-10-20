@@ -35985,6 +35985,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: different regions of Canada hold weather records, such as the coldest recorded temperature or the snowiest city, showing how varied Canadian climate can be.",
         "resourceLabel": "YouTube: Canadian Weather Records: Hottest, Coldest, and Snowiest Places",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Weather%20Records%3A%20Hottest%2C%20Coldest%2C%20and%20Snowiest%20Places%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5hRxAvN0YrY",
         "quiz": [
           {
             "q": "Does all of Canada have the same weather?",
@@ -39050,6 +39051,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: statues and monuments are built in public places to help communities remember important people or events from history.",
         "resourceLabel": "YouTube: Statues and Monuments: Remembering Our History",
         "resourceUrl": "https://www.youtube.com/results?search_query=Statues%20and%20Monuments%3A%20Remembering%20Our%20History%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=b4qkrzr7xvs",
         "quiz": [
           {
             "q": "What is the purpose of a statue or monument?",

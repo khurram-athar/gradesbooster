@@ -33434,6 +33434,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: triangles can be classified by their sides, like equilateral or scalene, or by their angles, like right or obtuse.",
         "resourceLabel": "YouTube: Geometry: Classifying Triangles by Sides and Angles",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Classifying%20Triangles%20by%20Sides%20and%20Angles%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=H62faKsyemc",
         "quiz": [
           {
             "q": "What is a triangle with three equal sides called?",
@@ -33572,6 +33573,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: Canada is so wide that it has several time zones, meaning it can be a different time of day in different parts of the country at once.",
         "resourceLabel": "YouTube: Time Zones: Why Canada Has Different Times",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%20Zones%3A%20Why%20Canada%20Has%20Different%20Times%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=VxVOnem4pR4",
         "quiz": [
           {
             "q": "Why does Canada have several time zones?",
@@ -33661,6 +33663,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: an eponym is a word that comes from the name of a real or fictional person, such as the sandwich, which is said to be named after the Earl of Sandwich.",
         "resourceLabel": "YouTube: Vocabulary: Eponyms — Words Named After People",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Eponyms%20%E2%80%94%20Words%20Named%20After%20People%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QD34eHt3aqA",
         "quiz": [
           {
             "q": "What is an eponym?",

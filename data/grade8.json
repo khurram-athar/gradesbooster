@@ -32675,6 +32675,7 @@
         "summary": "Students rotate points and shapes 90°, 180°, and 270° about the origin on a coordinate grid and describe the resulting image coordinates.",
         "resourceLabel": "YouTube: Transformations: Rotations on a Grid",
         "resourceUrl": "https://www.youtube.com/results?search_query=Transformations%3A%20Rotations%20on%20a%20Grid%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NhtTKhP3d6s",
         "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {
@@ -32871,6 +32872,7 @@
         "summary": "Grade 8 Language strand: subject-verb agreement requires that a verb match its subject in number, with collective nouns such as team or class often taking a singular verb and indefinite pronouns such as everyone or nobody also requiring singular verbs even when they suggest more than one person.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=XiWhqTn1E20",
         "quiz": [
           {
             "q": "What does subject-verb agreement require?",
@@ -32931,6 +32933,17 @@
         "summary": "Students use scale factors to enlarge and reduce figures, calculate actual and scaled measurements, and interpret scale on maps and diagrams.",
         "resourceLabel": "YouTube: Scale Drawings and Scale Factor",
         "resourceUrl": "https://www.youtube.com/results?search_query=Scale%20Drawings%20and%20Scale%20Factor%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zGnUK_ITJLo",
+        "videoUrls": [
+          {
+            "label": "Scale Drawings",
+            "url": "https://www.youtube.com/watch?v=zGnUK_ITJLo"
+          },
+          {
+            "label": "Scale Factor",
+            "url": "https://www.youtube.com/watch?v=P1f3sJpIYGI"
+          }
+        ],
         "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {

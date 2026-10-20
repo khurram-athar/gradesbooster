@@ -39701,6 +39701,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that some community helpers, like night-shift nurses and security guards, work while most people are sleeping, and discuss why these jobs are still important.",
         "resourceLabel": "YouTube: Community Helpers Who Work at Night",
         "resourceUrl": "https://www.youtube.com/results?search_query=Community%20Helpers%20Who%20Work%20at%20Night%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PKOZjE2Ew9Y",
         "topic": "Communities & Community Helpers",
         "quiz": [
           {
@@ -40431,6 +40432,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn the addition rule that adding zero to any number does not change its value, helping them add and solve equations more quickly.",
         "resourceLabel": "YouTube: Addition Strategies: Adding Zero",
         "resourceUrl": "https://www.youtube.com/results?search_query=Addition%20Strategies%3A%20Adding%20Zero%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wy389QGYe4I",
         "topic": "Addition & Subtraction",
         "quiz": [
           {

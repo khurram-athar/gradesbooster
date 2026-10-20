@@ -32687,6 +32687,11 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: the least common multiple (LCM) is the smallest number that is a multiple of two numbers, while the greatest common factor (GCF) is the largest number that divides evenly into both.",
         "resourceLabel": "YouTube: Number Sense: Least Common Multiple and Greatest Common Factor",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Least%20Common%20Multiple%20and%20Greatest%20Common%20Factor%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CUEOL3_Wm3Y",
+        "videoUrls": [
+          { "label": "Greatest Common Factor", "url": "https://www.youtube.com/watch?v=CUEOL3_Wm3Y" },
+          { "label": "Least Common Multiple", "url": "https://www.youtube.com/watch?v=Nu6AC6X3_E4" }
+        ],
         "quiz": [
           {
             "q": "What does LCM stand for?",
@@ -32887,6 +32892,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: a relative clause begins with a relative pronoun such as who, whom, whose, which, or that, and adds extra information about a noun in the main sentence.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=QmMGo265bWk",
         "quiz": [
           {
             "q": "What does a relative clause do?",

@@ -32453,6 +32453,7 @@
         "summary": "Students connect the multiplicity of a polynomial's roots to whether the graph crosses or touches (bounces off) the x-axis at each intercept, and use this to sketch graphs from factored form.",
         "resourceLabel": "YouTube: Multiplicity of Roots and Graph Behaviour",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multiplicity%20of%20Roots%20and%20Graph%20Behaviour%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=189INSXn_gk",
         "topic": "Polynomials & Factoring",
         "quiz": [
           {
@@ -32513,6 +32514,17 @@
         "summary": "Grade 9 Math strand: conic sections are curves formed by slicing a cone at different angles, including circles, ellipses, parabolas, and hyperbolas, each with distinct equations and real-world applications.",
         "resourceLabel": "YouTube: Geometry: An Introduction to Conic Sections — Ellipses and Hyperbolas",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20An%20Introduction%20to%20Conic%20Sections%20%E2%80%94%20Ellipses%20and%20Hyperbolas%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OPSCKXXvWiM",
+        "videoUrls": [
+          {
+            "label": "Ellipses",
+            "url": "https://www.youtube.com/watch?v=OPSCKXXvWiM"
+          },
+          {
+            "label": "Hyperbolas",
+            "url": "https://www.youtube.com/watch?v=Iu-4-fizlD4"
+          }
+        ],
         "quiz": [
           {
             "q": "What are conic sections?",

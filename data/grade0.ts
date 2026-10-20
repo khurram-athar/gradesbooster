@@ -36940,6 +36940,7 @@ const curriculum: DayContent[] = [
         "summary": "Students identify the uppercase and lowercase letter W, practice writing it, and name pictures that begin with the /w/ sound like wagon and window.",
         "resourceLabel": "YouTube: Letter W",
         "resourceUrl": "https://www.youtube.com/results?search_query=Letter%20W%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mQZ-c3_EDj4",
         "topic": "Phonics & Word Recognition",
         "quiz": [
           {
@@ -37000,6 +37001,7 @@ const curriculum: DayContent[] = [
         "summary": "Children practice identifying left and right on their own body and on objects, such as raising their right hand or pointing to the left side of a picture.",
         "resourceLabel": "YouTube: Left and Right: Which Hand",
         "resourceUrl": "https://www.youtube.com/results?search_query=Left%20and%20Right%3A%20Which%20Hand%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LFsVrQ65JuE",
         "topic": "Spatial Sense",
         "quiz": [
           {
