@@ -33016,6 +33016,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: an extended metaphor sustains a single comparison across multiple lines or an entire text, and a conceit is an especially elaborate or unconventional extended metaphor that develops a surprising connection between two very different things.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=NAvcQlsc__c",
         "quiz": [
           {
             "q": "What is an extended metaphor?",
@@ -33077,6 +33078,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Introduction to the Sine Law",
         "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20the%20Sine%20Law%20grade%2010%20educational",
         "topic": "Trigonometry",
+        "videoUrl": "https://www.youtube.com/watch?v=MmfO1YgzmHI",
         "quiz": [
           {
             "q": "What is the sine law formula?",
@@ -33136,6 +33138,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: chromatography is a laboratory technique used to separate the components of a mixture based on how differently each component travels through a stationary medium carried by a moving solvent, revealing the number and identity of substances present.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=qpZhc2Zn_TI",
         "quiz": [
           {
             "q": "What is the main purpose of chromatography?",

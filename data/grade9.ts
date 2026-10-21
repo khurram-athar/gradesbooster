@@ -33294,6 +33294,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: semantic change describes how a words meaning can shift, narrow, widen, or reverse over generations, so that a term once used one way, such as nice originally meaning foolish, can come to mean something quite different today.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=Lp-7i3D8_L4",
         "quiz": [
           {
             "q": "What is semantic change?",
@@ -33355,6 +33356,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Geometric Transformations: Reflections, Rotations, and Translations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometric%20Transformations%3A%20Reflections%2C%20Rotations%2C%20and%20Translations%20grade%209%20educational",
         "topic": "Transformations",
+        "videoUrl": "https://www.youtube.com/watch?v=YD3HIMUae_4",
         "quiz": [
           {
             "q": "When a point (x, y) is reflected across the x-axis, its new coordinates become:",
@@ -33415,6 +33417,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Chemistry: Lab Safety and WHMIS Symbols",
         "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Lab%20Safety%20and%20WHMIS%20Symbols%20grade%209%20educational",
         "topic": "Scientific Inquiry & Skills",
+        "videoUrl": "https://www.youtube.com/watch?v=Vq0VemEIpxY",
         "quiz": [
           {
             "q": "WHMIS stands for:",
@@ -33474,6 +33477,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: a biodiversity hotspot is a region with an exceptionally high number of unique species that is also facing significant habitat loss, making these areas a priority for global conservation efforts.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=RaQBaVeEbW8",
         "quiz": [
           {
             "q": "What defines a biodiversity hotspot?",

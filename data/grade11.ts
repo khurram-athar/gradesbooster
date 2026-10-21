@@ -33201,6 +33201,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: vestigial structures are anatomical features that have lost most or all of their original function through evolutionary history, persisting in reduced form as evidence of an organisms ancestry and shared descent with species in which the structure remains functional.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=OAfw3akpRe8",
         "quiz": [
           {
             "q": "What are vestigial structures?",
