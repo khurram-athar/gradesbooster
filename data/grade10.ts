@@ -32566,6 +32566,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Solving for Missing Sides in Right Triangles",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20for%20Missing%20Sides%20in%20Right%20Triangles%20grade%2010%20educational",
         "topic": "Trigonometry",
+        "videoUrl": "https://www.youtube.com/watch?v=i3bjEOA5_zc",
         "quiz": [
           {
             "q": "A right triangle has a 30-degree angle and a hypotenuse of 10. What is the length of the side opposite the 30-degree angle?",
@@ -32765,6 +32766,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: correlative conjunctions are paired words such as either/or, neither/nor, both/and, and not only/but also that link balanced words, phrases, or clauses within a sentence.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=ShdEJMbieWE",
         "quiz": [
           {
             "q": "What is a correlative conjunction?",
@@ -32826,6 +32828,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Solving for Missing Angles in Right Triangles",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20for%20Missing%20Angles%20in%20Right%20Triangles%20grade%2010%20educational",
         "topic": "Trigonometry",
+        "videoUrl": "https://www.youtube.com/watch?v=RWyY3n9nTf8",
         "quiz": [
           {
             "q": "A right triangle has opposite side 5 and hypotenuse 10. What is angle θ, using sin-inverse?",
@@ -32885,6 +32888,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: diffusion is the movement of particles from an area of higher concentration to lower concentration, and osmosis is the specific diffusion of water across a semi-permeable membrane, both essential processes for moving materials into and out of cells.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=PRi6uHDKeW4",
         "quiz": [
           {
             "q": "What is diffusion?",
@@ -32945,6 +32949,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the North-West Mounted Police was established in 1873 by the Canadian government to maintain order, assert Canadian sovereignty, and regulate relations with Indigenous peoples and settlers across the newly acquired western territories.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=UUfnc-IitTo",
         "quiz": [
           {
             "q": "In what year was the North-West Mounted Police established?",

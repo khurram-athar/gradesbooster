@@ -40494,6 +40494,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Waterproof or Absorbent: Testing Materials",
         "resourceUrl": "https://www.youtube.com/results?search_query=Waterproof%20or%20Absorbent%3A%20Testing%20Materials%20grade%201%20educational",
         "topic": "Materials & States of Matter (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=gwM5VM-I3_U",
         "quiz": [
           {
             "q": "A material that soaks up water is called...",
@@ -40554,6 +40555,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Trading Without Money: What Is a Barter?",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trading%20Without%20Money%3A%20What%20Is%20a%20Barter%3F%20grade%201%20educational",
         "topic": "Economy, Trade & Currency",
+        "videoUrl": "https://www.youtube.com/watch?v=W_GxhIj0NaM",
         "quiz": [
           {
             "q": "What is bartering?",
@@ -40619,6 +40621,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: the vowel teams au and aw both make the same sound, heard in words like sauce, haul, saw, and claw.",
         "resourceLabel": "YouTube: Vowel Teams: au and aw",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20au%20and%20aw%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GHpyJ5svbgM",
         "quiz": [
           {
             "q": "Which word has the au vowel team?",
@@ -40702,6 +40705,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Subtraction: How Many More? Comparison Word Problems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Subtraction%3A%20How%20Many%20More%3F%20Comparison%20Word%20Problems%20grade%201%20educational",
         "topic": "Addition & Subtraction",
+        "videoUrl": "https://www.youtube.com/watch?v=5rSFchkDJbw",
         "quiz": [
           {
             "q": "Mia has 8 stickers and Sam has 5 stickers. How many more stickers does Mia have than Sam?",
@@ -40761,6 +40765,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: octopuses and squid are ocean animals with soft bodies and no bones, and they use their arms and tentacles to swim and catch food.",
         "resourceLabel": "YouTube: Octopuses and Squid: Ocean Creatures Without Bones",
         "resourceUrl": "https://www.youtube.com/results?search_query=Octopuses%20and%20Squid%3A%20Ocean%20Creatures%20Without%20Bones%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CvLkNz0ZS5Q",
         "quiz": [
           {
             "q": "Do octopuses have bones inside their bodies?",
@@ -40844,6 +40849,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: the school principal leads the school, helping teachers, students, and families, and making sure the school runs smoothly and safely.",
         "resourceLabel": "YouTube: Our School Principal: Leading Our School",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Principal%3A%20Leading%20Our%20School%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=l1DVR07ocbc",
         "quiz": [
           {
             "q": "What is the main role of a school principal?",
@@ -40933,6 +40939,13 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: the prefixes mis- and non- change the meaning of a word, as in misspell meaning to spell wrong and nonstop meaning without stopping.",
         "resourceLabel": "YouTube: Prefixes: mis- and non-",
         "resourceUrl": "https://www.youtube.com/results?search_query=Prefixes%3A%20mis-%20and%20non-%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QbT1PlZS0io",
+        "videoUrls": [
+          {
+            "label": "The Prefix Non- | Prefixes and Suffixes Lesson",
+            "url": "https://www.youtube.com/watch?v=KZHpawJL6VE"
+          }
+        ],
         "quiz": [
           {
             "q": "What does the prefix mis- usually mean?",
@@ -41016,6 +41029,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Ordering Objects by Length: Shortest to Longest",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ordering%20Objects%20by%20Length%3A%20Shortest%20to%20Longest%20grade%201%20educational",
         "topic": "Measurement: Units",
+        "videoUrl": "https://www.youtube.com/watch?v=eY-SPD7_lC4",
         "quiz": [
           {
             "q": "A pencil, a crayon, and a ruler are compared. The pencil is shorter than the ruler but longer than the crayon. What is the correct order from shortest to longest?",
@@ -41075,6 +41089,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: desert animals like camels and desert foxes have special ways to stay cool in the heat and find water in a dry habitat.",
         "resourceLabel": "YouTube: Animals of the Desert: Staying Cool and Finding Water",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animals%20of%20the%20Desert%3A%20Staying%20Cool%20and%20Finding%20Water%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3XF42x_72Xs",
         "quiz": [
           {
             "q": "Which of these is a desert animal?",

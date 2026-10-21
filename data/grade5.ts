@@ -33724,6 +33724,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: the metric system uses units such as metres and kilograms, while the imperial system uses units such as feet and pounds, and both systems can be used to measure length, mass, and capacity.",
         "resourceLabel": "YouTube: Measurement: Comparing Metric and Imperial Units",
         "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Comparing%20Metric%20and%20Imperial%20Units%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vytf_vWZze0",
         "quiz": [
           {
             "q": "Which unit belongs to the metric system?",
@@ -33784,6 +33785,13 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand: glaciers are massive, slow-moving bodies of ice formed from compacted snow over many years, and icebergs are large chunks of ice that break off, or calve, from glaciers into the ocean.",
         "resourceLabel": "YouTube: Science: How Glaciers and Icebergs Form",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20How%20Glaciers%20and%20Icebergs%20Form%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PbYXiJsF5mw",
+        "videoUrls": [
+          {
+            "label": "What is an Iceberg? A Fun Science Lesson on Glaciers & Calving!",
+            "url": "https://www.youtube.com/watch?v=yE3hLLEjoFA"
+          }
+        ],
         "quiz": [
           {
             "q": "What is a glacier?",
@@ -33844,6 +33852,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: Canada has two official national sports, ice hockey as the official winter sport and lacrosse as the official summer sport, both recognized in Canadian law.",
         "resourceLabel": "YouTube: Social Studies: Canadas National Sports — Hockey and Lacrosse",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canadas%20National%20Sports%20%E2%80%94%20Hockey%20and%20Lacrosse%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Lo_w1QmImNM",
         "quiz": [
           {
             "q": "Which sport is Canadas official winter national sport?",
@@ -33909,6 +33918,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: a proverb, or adage, is a short traditional saying that expresses a piece of wisdom or advice, such as Look before you leap.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=2teemgSaLdc",
         "quiz": [
           {
             "q": "What is a proverb?",
@@ -33969,6 +33979,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: profit occurs when a businesss revenue is greater than its costs, while a loss occurs when costs are greater than revenue, and calculating both helps track how well a business is doing.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=tHF2bXCQ3y4",
         "quiz": [
           {
             "q": "What is profit?",
@@ -34029,6 +34040,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: in a series circuit, components are connected along a single path so current flows through each one in turn, while in a parallel circuit, components are connected along separate branches so current can take multiple paths.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=8Z0jhQeYDUE",
         "quiz": [
           {
             "q": "In a series circuit, how are components connected?",
@@ -34089,6 +34101,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the lieutenant governor is a ceremonial representative of the Crown in each province, similar to the Governor General at the national level.",
         "resourceLabel": "YouTube: The Lieutenant Governor: A Provincial Representative of the Crown",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Lieutenant%20Governor%3A%20A%20Provincial%20Representative%20of%20the%20Crown%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oY2S96mmwfA",
         "quiz": [
           {
             "q": "What role does a lieutenant governor represent?",

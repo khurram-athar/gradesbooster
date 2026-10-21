@@ -33566,6 +33566,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: the Inuit are one of the three recognized groups of Indigenous peoples in Canada, traditionally living in the Arctic regions and developing skills and knowledge suited to a cold environment.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=Jf0K5mkV0ko",
         "quiz": [
           {
             "q": "The Inuit are one of how many recognized groups of Indigenous peoples in Canada?",
@@ -33632,6 +33633,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: etymology is the study of where words come from and how their meanings have changed over time, and many English words have roots in other languages such as Latin, Greek, or French.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=gM2SVjCqJxY",
         "quiz": [
           {
             "q": "What is etymology?",
@@ -33692,6 +33694,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: students skip count by 20s, saying 20, 40, 60, 80, and continuing on toward 200.",
         "resourceLabel": "YouTube: Skip Counting by 20s",
         "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%2020s%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-hV4bmrkyVU",
         "quiz": [
           {
             "q": "What comes next: 20, 40, 60, ___?",
@@ -33775,6 +33778,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a pond is a small habitat of still water where animals such as frogs, ducks, and fish live in or near the water together.",
         "resourceLabel": "YouTube: Pond Habitats: Life In and Around the Water",
         "resourceUrl": "https://www.youtube.com/results?search_query=Pond%20Habitats%3A%20Life%20In%20and%20Around%20the%20Water%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7jKk5tscvjo",
         "quiz": [
           {
             "q": "What is a pond?",
@@ -33858,6 +33862,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: early European explorers travelled to what is now Canada searching for new trade routes and resources, meeting and interacting with Indigenous peoples who already lived on the land.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=7CdOagGhp7s",
         "quiz": [
           {
             "q": "Why did early European explorers travel to what is now Canada?",

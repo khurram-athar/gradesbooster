@@ -32891,6 +32891,7 @@
         "summary": "Grade 11 Functions strand: the power rule states that the derivative of x raised to an exponent n is n times x raised to the exponent n minus 1, giving a quick algebraic shortcut for differentiating polynomial terms without returning to the limit definition each time.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=9Yz-RCdS2Tg",
         "quiz": [
           {
             "q": "What does the power rule provide?",
@@ -32951,6 +32952,7 @@
         "summary": "This lesson covers how to set up a dihybrid cross using a Punnett square for two independently assorting genes, and explains why the classic phenotypic ratio in the F2 generation is 9:3:3:1.",
         "resourceLabel": "YouTube: Dihybrid Crosses and the 9:3:3:1 Ratio",
         "resourceUrl": "https://www.youtube.com/results?search_query=Dihybrid%20Crosses%20and%20the%209%3A3%3A3%3A1%20Ratio%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qIGXTJLrLf8",
         "quiz": [
           {
             "q": "In a dihybrid cross between two heterozygous parents (RrYy x RrYy), how many different gamete types can each parent produce?",

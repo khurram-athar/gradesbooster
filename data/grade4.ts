@@ -34090,6 +34090,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: when two fractions share the same denominator, you can subtract them by keeping the denominator the same and subtracting only the numerators.",
         "resourceLabel": "YouTube: Fractions: Subtracting Fractions with the Same Denominator",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Subtracting%20Fractions%20with%20the%20Same%20Denominator%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=x-6h5ZOKHtg",
         "quiz": [
           {
             "q": "When subtracting fractions with the same denominator, what stays the same?",
@@ -34150,6 +34151,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: our body has a sense of balance, controlled by a part inside our ear, that helps us stand, walk, and ride a bike without falling.",
         "resourceLabel": "YouTube: Our Sense of Balance: How We Stay Upright",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Sense%20of%20Balance%3A%20How%20We%20Stay%20Upright%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=j4Sli1dsCrA",
         "quiz": [
           {
             "q": "What sense helps our body stay upright and steady?",
@@ -34233,6 +34235,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Social Studies: How a Bill Becomes a Law in Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20How%20a%20Bill%20Becomes%20a%20Law%20in%20Canada%20grade%204%20educational",
         "topic": "Government & Civics",
+        "videoUrl": "https://www.youtube.com/watch?v=biMC4vn_ysc",
         "quiz": [
           {
             "q": "What is a proposed law called before it is officially passed?",
@@ -34298,6 +34301,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: stories often contain a central conflict, such as character versus character, character versus self, character versus nature, or character versus society.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=qrwtSr_-Omw",
         "quiz": [
           {
             "q": "What is a literary conflict?",
@@ -34358,6 +34362,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: a point is an exact location, a line goes on forever in both directions, a line segment has two endpoints, and a ray starts at one point and goes on forever in one direction.",
         "resourceLabel": "YouTube: Geometry: Points, Lines, Line Segments, and Rays",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Points%2C%20Lines%2C%20Line%20Segments%2C%20and%20Rays%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZqwxaAnze8c",
         "quiz": [
           {
             "q": "What is a point in geometry?",
@@ -34418,6 +34423,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: plants spread their seeds away from the parent plant through methods such as wind, water, animals, and seed pods that burst open, helping new plants grow in different locations.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=WqgVks9NViQ",
         "quiz": [
           {
             "q": "Why do plants need to disperse their seeds?",
@@ -34478,6 +34484,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the Rocky Mountains stretch through western Canada, forming a dramatic mountain range that shapes climate, wildlife habitats, and the tourism industry in provinces such as Alberta and British Columbia.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=A30iarFVQs0",
         "quiz": [
           {
             "q": "In which part of Canada are the Rocky Mountains located?",

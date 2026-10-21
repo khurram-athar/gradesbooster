@@ -32953,6 +32953,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: the surface area of a pyramid is the sum of the area of its base and the areas of its triangular faces, found by adding together all the flat surfaces that cover the shape.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=4s5klzj3248",
         "quiz": [
           {
             "q": "What is surface area?",
@@ -33013,6 +33014,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: the Sun is a massive ball of hot, glowing gas at the centre of our solar system, and its energy drives Earths weather, climate, and nearly all life through the process of photosynthesis.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Jv9Wmpk-jfc",
         "quiz": [
           {
             "q": "What is the Sun?",
@@ -33074,6 +33076,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Primary, Secondary, and Tertiary Industries in Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Primary%2C%20Secondary%2C%20and%20Tertiary%20Industries%20in%20Canada%20grade%206%20educational",
         "topic": "Economy, Trade & Currency",
+        "videoUrl": "https://www.youtube.com/watch?v=GuzmULmcU0E",
         "quiz": [
           {
             "q": "Which of these is an example of a primary industry?",
@@ -33139,6 +33142,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: free verse poetry does not follow a fixed rhyme scheme or meter, allowing poets to focus on natural rhythm, vivid imagery, and line breaks that emphasize meaning.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=b-kQby_EH-o",
         "quiz": [
           {
             "q": "What is free verse poetry?",
@@ -33199,6 +33203,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: multiplying and dividing mixed numbers requires first converting each mixed number into an improper fraction, then multiplying or dividing as with any fraction.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=56aYsGpwQvQ",
         "quiz": [
           {
             "q": "What must be done before multiplying two mixed numbers?",
@@ -33259,6 +33264,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: a generator converts mechanical motion into electrical energy by rotating a coil of wire within a magnetic field, a process used in many power plants to supply electricity.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=sAO9gYaMZkg",
         "quiz": [
           {
             "q": "What does a generator convert into electrical energy?",
@@ -33320,6 +33326,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: The Great Lakes: Canada's Freshwater Treasure",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Great%20Lakes%3A%20Canada%27s%20Freshwater%20Treasure%20grade%206%20educational",
         "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=thliEG0B5BE",
         "quiz": [
           {
             "q": "How many Great Lakes are there in total?",

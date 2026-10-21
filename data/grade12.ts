@@ -32661,6 +32661,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: the epic is a long narrative poem, originally composed and transmitted orally, that recounts the heroic deeds of a legendary or historical figure, typically opening in medias res and invoking a muse to authorize the tale.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=YkblUzteA-4",
         "quiz": [
           {
             "q": "What is an epic, in its traditional literary sense?",
@@ -32721,6 +32722,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Modelling with Polynomial Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Modelling%20with%20Polynomial%20Functions%20grade%2012%20educational",
         "topic": "Polynomials & Factoring",
+        "videoUrl": "https://www.youtube.com/watch?v=4RQhjzfyUW4",
         "quiz": [
           {
             "q": "A rectangular box is formed by cutting squares of side x from the corners of a 20 cm by 30 cm sheet and folding up the sides. Which degree polynomial models the volume V(x)?",
@@ -32780,6 +32782,7 @@ const curriculum: DayContent[] = [
         "summary": "Model an airplane's true (ground) velocity as the vector sum of its airspeed vector and the wind's velocity vector, and solve navigation problems for resultant ground speed and heading.",
         "resourceLabel": "YouTube: Vectors: Resultant Velocity of a Plane in the Wind",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20Resultant%20Velocity%20of%20a%20Plane%20in%20the%20Wind%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=E-0UhOO9MwI",
         "quiz": [
           {
             "q": "A plane flies with an airspeed of 200 km/h due east. A wind blows at 50 km/h due east (a tailwind). What is the plane's resultant ground speed?",
@@ -32840,6 +32843,7 @@ const curriculum: DayContent[] = [
         "summary": "Applies the grating equation d sinθ = mλ and the resolving power formula R = mN to determine diffraction angles and a grating's ability to separate close wavelengths.",
         "resourceLabel": "YouTube: Diffraction Gratings: Resolving Closely Spaced Wavelengths",
         "resourceUrl": "https://www.youtube.com/results?search_query=Diffraction%20Gratings%3A%20Resolving%20Closely%20Spaced%20Wavelengths%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KNzEWUE-Ejc",
         "quiz": [
           {
             "q": "A diffraction grating has 5000 lines per centimetre. What is the spacing d between adjacent lines?",

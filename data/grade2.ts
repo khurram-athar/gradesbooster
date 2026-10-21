@@ -40274,6 +40274,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: three-letter consonant blends like spl, str, and scr appear at the start of words such as splash, street, and scream.",
         "resourceLabel": "YouTube: Blends: spl, str, and scr",
         "resourceUrl": "https://www.youtube.com/results?search_query=Blends%3A%20spl%2C%20str%2C%20and%20scr%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2aL4dfv7RbA",
         "quiz": [
           {
             "q": "Which word begins with the spl blend?",
@@ -40333,6 +40334,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: multiplying a number by 4 can be done by doubling it twice, such as doubling 6 to get 12, then doubling 12 to get 24.",
         "resourceLabel": "YouTube: Multiplying by 4: Doubling Twice",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%20by%204%3A%20Doubling%20Twice%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=123-9Yr5E04",
         "quiz": [
           {
             "q": "What is 6 x 4 using the double twice strategy?",
@@ -40393,6 +40395,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: the eye is the organ we use to see, taking in light and sending signals to the brain so we can understand what we are looking at.",
         "resourceLabel": "YouTube: The Human Eye: How We See",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Human%20Eye%3A%20How%20We%20See%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=su1CzbO3pRw",
         "quiz": [
           {
             "q": "What organ do we use to see?",
@@ -40452,6 +40455,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that the Prime Minister is the leader chosen to help make important decisions for the whole country of Canada.",
         "resourceLabel": "YouTube: Our Prime Minister: Leading Our Country",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Prime%20Minister%3A%20Leading%20Our%20Country%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2JBdT8U0Lb8",
         "quiz": [
           {
             "q": "What do we call the leader who helps make important decisions for all of Canada?",
@@ -40539,6 +40543,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: sidebars are small boxes of extra information placed beside the main text, often sharing fun facts related to the topic.",
         "resourceLabel": "YouTube: Text Features: Sidebars and Fun Facts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Text%20Features%3A%20Sidebars%20and%20Fun%20Facts%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=20vdmbs2wSw",
         "quiz": [
           {
             "q": "What is a sidebar?",
@@ -40599,6 +40604,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: an array of equal rows and columns can help students divide a total into equal groups, showing how many are in each row.",
         "resourceLabel": "YouTube: Dividing Using Arrays",
         "resourceUrl": "https://www.youtube.com/results?search_query=Dividing%20Using%20Arrays%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=00m3YhLT6fA",
         "quiz": [
           {
             "q": "If 12 objects are arranged in an array with 3 rows, how many are in each row?",
@@ -40658,6 +40664,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: ocean tides are the regular rising and falling of sea water along the shore, caused mainly by the pull of the moons gravity.",
         "resourceLabel": "YouTube: Ocean Tides: The Rise and Fall of the Sea",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ocean%20Tides%3A%20The%20Rise%20and%20Fall%20of%20the%20Sea%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tcGEjzt_4is",
         "quiz": [
           {
             "q": "What are ocean tides?",
@@ -40718,6 +40725,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn the difference between goods, which are things people make or grow, and services, which are helpful jobs people do for others.",
         "resourceLabel": "YouTube: Goods and Services: What People Make and Do",
         "resourceUrl": "https://www.youtube.com/results?search_query=Goods%20and%20Services%3A%20What%20People%20Make%20and%20Do%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lDfN3_oS9cE",
         "quiz": [
           {
             "q": "What do we call things that people make or grow, like bread or toys?",

@@ -33001,6 +33001,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Fluid Pressure and Pascal's Principle",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fluid%20Pressure%20and%20Pascal%27s%20Principle%20grade%208%20educational",
         "topic": "Forces & Motion",
+        "videoUrl": "https://www.youtube.com/watch?v=MZ6GCH2nLy0",
         "quiz": [
           {
             "q": "Pascal's principle states that pressure applied to an enclosed fluid is:",
@@ -33060,6 +33061,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: British Columbia joined Confederation in 1871 after the Canadian government promised to build a transcontinental railway connecting the Pacific coast to the rest of the country, a commitment that shaped decades of national infrastructure development.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "videoUrl": "https://www.youtube.com/watch?v=XRIkuVRjzK4",
         "quiz": [
           {
             "q": "In what year did British Columbia join Confederation?",

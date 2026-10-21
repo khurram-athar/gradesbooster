@@ -37191,6 +37191,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Word Families: -ip Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ip%20Words%20kindergarten%20educational",
         "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=DtMCCVamCBA",
         "quiz": [
           {
             "q": "Which word belongs to the -ip family?",
@@ -37251,6 +37252,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Above and Below",
         "resourceUrl": "https://www.youtube.com/results?search_query=Above%20and%20Below%20kindergarten%20educational",
         "topic": "Spatial Sense",
+        "videoUrl": "https://www.youtube.com/watch?v=eRchoOaMH7o",
         "quiz": [
           {
             "q": "A clock hanging on the wall higher up than a picture frame is positioned ___ the picture frame.",
@@ -37310,6 +37312,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: animals eat different things — herbivores eat only plants, carnivores eat only meat, and omnivores eat both plants and meat.",
         "resourceLabel": "YouTube: Animal Diets: Herbivores, Carnivores, and Omnivores",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Diets%3A%20Herbivores%2C%20Carnivores%2C%20and%20Omnivores%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0pHXXP-xlG8",
         "quiz": [
           {
             "q": "An animal that eats only plants is called a ___.",
@@ -37394,6 +37397,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Staying Safe with People We Don't Know",
         "resourceUrl": "https://www.youtube.com/results?search_query=Staying%20Safe%20with%20People%20We%20Don%27t%20Know%20kindergarten%20educational",
         "topic": "Safety Rules (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=D2OizPfxFvM",
         "quiz": [
           {
             "q": "If a stranger asks you to go somewhere with them, you should...",
@@ -37460,6 +37464,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Word Families: -ap Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ap%20Words%20kindergarten%20educational",
         "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=w9FL2-cSRuE",
         "quiz": [
           {
             "q": "Which word belongs to the -ap family?",
@@ -37520,6 +37525,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: In Front of and Behind",
         "resourceUrl": "https://www.youtube.com/results?search_query=In%20Front%20of%20and%20Behind%20kindergarten%20educational",
         "topic": "Spatial Sense",
+        "videoUrl": "https://www.youtube.com/watch?v=ykmFyHJq6FY",
         "quiz": [
           {
             "q": "If Maya is standing directly in line before Leo, Maya is",
@@ -37579,6 +37585,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: fish live in water and breathe using gills, and they swim using their fins.",
         "resourceLabel": "YouTube: Fish: Gills and Fins",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fish%3A%20Gills%20and%20Fins%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KsUk6khLzps",
         "quiz": [
           {
             "q": "Where do fish live?",
@@ -37663,6 +37670,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Fire Drills: What to Do If There's a Fire",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fire%20Drills%3A%20What%20to%20Do%20If%20There%27s%20a%20Fire%20kindergarten%20educational",
         "topic": "Safety Rules (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=AWHGdWOI4kw",
         "quiz": [
           {
             "q": "What sound tells you it is time for a fire drill?",
