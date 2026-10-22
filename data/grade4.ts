@@ -34611,6 +34611,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: students read, write, and count numbers beyond 700, up to 800.",
         "resourceLabel": "YouTube: Numbers to 800: Beyond 700",
         "resourceUrl": "https://www.youtube.com/results?search_query=Numbers%20to%20800%3A%20Beyond%20700%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8w851amNj14",
         "quiz": [
           {
             "q": "What number comes right after 799?",
@@ -34850,6 +34851,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: a kenning is a short, two-word poetic nickname that describes something in a creative way, like sky-traveller for a bird or web-spinner for a spider.",
         "resourceLabel": "YouTube: Kennings: Poetic Nicknames for Everyday Things",
         "resourceUrl": "https://www.youtube.com/results?search_query=Kennings%3A%20Poetic%20Nicknames%20for%20Everyday%20Things%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dOrToVM_SEQ",
         "quiz": [
           {
             "q": "What is a kenning?",
@@ -34909,6 +34911,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: the 24-hour clock numbers the hours from 0 to 23 across a full day, so afternoon and evening times continue counting past 12 instead of starting over.",
         "resourceLabel": "YouTube: Time: Introducing the 24-Hour Clock",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Introducing%20the%2024-Hour%20Clock%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dQ5vIHA4L5s",
         "quiz": [
           {
             "q": "How many hours does the 24-hour clock count across a full day?",
@@ -34969,6 +34972,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: our kidneys are two bean-shaped organs that filter waste out of our blood and help make urine.",
         "resourceLabel": "YouTube: Our Kidneys: Filtering Our Blood",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Kidneys%3A%20Filtering%20Our%20Blood%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PHXP0s_SrNQ",
         "quiz": [
           {
             "q": "What is the main job of our kidneys?",

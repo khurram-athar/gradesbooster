@@ -37736,6 +37736,7 @@ const curriculum: DayContent[] = [
         "summary": "Students blend and read -in family words such as pin, win, and fin, listening for the shared ending sound in each one.",
         "resourceLabel": "YouTube: Word Families: -in Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-in%20Words%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=P6UFtbsLXPY",
         "topic": "Vocabulary",
         "quiz": [
           {
