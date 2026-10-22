@@ -33392,6 +33392,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: an eponym is a word that comes from the name of a real or fictional person, such as sandwich from the Earl of Sandwich, showing how names can become everyday vocabulary.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=QD34eHt3aqA",
         "quiz": [
           {
             "q": "What is an eponym?",
@@ -33452,6 +33453,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: evaluating an algebraic expression by substitution means replacing each variable with a given number and then following the order of operations to find the value.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=k-KiWkV81fQ",
         "quiz": [
           {
             "q": "What does it mean to evaluate an algebraic expression by substitution?",
@@ -33512,6 +33514,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: the nitrogen cycle describes how nitrogen moves between the atmosphere, soil, and living things, with certain bacteria converting nitrogen gas into forms that plants can use to grow.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=uip4Q6t7yfQ",
         "quiz": [
           {
             "q": "What does the nitrogen cycle describe?",
@@ -33572,6 +33575,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: Frederick Banting and Charles Best discovered insulin in 1921 at a Canadian university, a breakthrough that transformed diabetes from a fatal condition into a manageable one and remains one of Canadas most significant medical achievements.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=PfaQp5xN7fY",
         "quiz": [
           {
             "q": "What did Banting and Best discover in 1921?",

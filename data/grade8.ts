@@ -33377,6 +33377,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: authors purpose refers to the primary reason a text was written, commonly to inform, persuade, entertain, or express an idea, while considering the intended audience helps explain the choices an author makes about tone, vocabulary, and content.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=R_bgo8j6jxc",
         "quiz": [
           {
             "q": "What does authors purpose refer to?",
@@ -33437,6 +33438,7 @@ const curriculum: DayContent[] = [
         "summary": "Students calculate the area of a circle using A = πr² and solve problems involving circular regions, including finding the radius from a given area.",
         "resourceLabel": "YouTube: Area of a Circle",
         "resourceUrl": "https://www.youtube.com/results?search_query=Area%20of%20a%20Circle%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=D4nGkWOPb6M",
         "topic": "Measurement: Perimeter & Area",
         "quiz": [
           {
@@ -33497,6 +33499,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use the particle theory of matter to explain the differences between solids, liquids, and gases, describing how particle arrangement and movement change as matter is heated or cooled.",
         "resourceLabel": "YouTube: Particle Theory: Explaining States of Matter",
         "resourceUrl": "https://www.youtube.com/results?search_query=Particle%20Theory%3A%20Explaining%20States%20of%20Matter%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=T9oGD50-0SU",
         "topic": "Matter & Materials",
         "quiz": [
           {
@@ -33557,6 +33560,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: the Manitoba Act of 1870, passed following the Red River Resistance, created the province of Manitoba and included protections for the French language and Roman Catholic schools, reflecting the influence of the Metis-led provisional government.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "videoUrl": "https://www.youtube.com/watch?v=sRe0b5fFu6E",
         "quiz": [
           {
             "q": "What did the Manitoba Act of 1870 create?",

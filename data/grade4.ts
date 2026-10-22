@@ -34550,6 +34550,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: a play script tells a story through dialogue and stage directions, organized into scenes, and is meant to be performed by actors in front of an audience.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=FgGjpXOScaM",
         "quiz": [
           {
             "q": "What is a play script mainly made up of?",
@@ -34782,6 +34783,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn how early societies protected their cities and resources, examining the weapons, armour, and fortifications used and how conflict shaped early civilizations.",
         "resourceLabel": "YouTube: Social Studies: Early Societies: Weapons, Warfare, and Defense",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Early%20Societies%3A%20Weapons%2C%20Warfare%2C%20and%20Defense%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Tz6y11vyKcc",
         "topic": "Early Societies",
         "quiz": [
           {

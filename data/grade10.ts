@@ -33264,6 +33264,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: a public service announcement, or PSA, is a brief persuasive message designed to inform or influence public behaviour on an issue of social importance, using a clear call to action, a defined target audience, and a concise, memorable structure.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=c87TyzGAElg",
         "quiz": [
           {
             "q": "What is the primary purpose of a public service announcement?",
@@ -33324,6 +33325,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn the cosine law and use it to find a missing side when given two sides and the included angle, or to find a missing angle when given all three sides.",
         "resourceLabel": "YouTube: Introduction to the Cosine Law",
         "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20the%20Cosine%20Law%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZElOxG7_m3c",
         "topic": "Trigonometry",
         "quiz": [
           {
@@ -33384,6 +33386,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: aerodynamics studies how air interacts with moving objects, and flight depends on four key forces, lift, weight, thrust, and drag, with an aircrafts wing shape generating lift by causing air to move faster over the curved upper surface.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=zKSNudPl9UI",
         "quiz": [
           {
             "q": "What are the four key forces involved in flight?",
@@ -33444,6 +33447,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the Income War Tax Act of 1917 introduced a federal personal income tax in Canada as a temporary wartime measure to help fund Canadas participation in World War I, though the tax was never repealed and became a permanent feature of Canadian federal finances.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=weYOf_Q49as",
         "quiz": [
           {
             "q": "In what year was the Income War Tax Act passed?",

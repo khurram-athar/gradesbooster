@@ -40813,6 +40813,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: a postcard is a short, friendly message that shares quick news or a memory, often written while traveling.",
         "resourceLabel": "YouTube: Writing a Postcard: Sharing News in a Short Message",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20a%20Postcard%3A%20Sharing%20News%20in%20a%20Short%20Message%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=kjptWJwlXUg",
         "quiz": [
           {
             "q": "What is a postcard?",
@@ -40872,6 +40873,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: students use a number line to find elapsed time, jumping forward in minutes or hours from a start time to an end time.",
         "resourceLabel": "YouTube: Elapsed Time on a Number Line",
         "resourceUrl": "https://www.youtube.com/results?search_query=Elapsed%20Time%20on%20a%20Number%20Line%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=c8bxuhaLDf4",
         "quiz": [
           {
             "q": "If you start at 2:00 and jump forward 30 minutes on a number line, what time do you reach?",
@@ -40932,6 +40934,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: the water table is the underground level where the soil and rock are completely filled with water, an important source for wells.",
         "resourceLabel": "YouTube: The Water Table: Water Beneath Our Feet",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Water%20Table%3A%20Water%20Beneath%20Our%20Feet%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xoeDCxjBnVs",
         "quiz": [
           {
             "q": "What is the water table?",
@@ -40991,6 +40994,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the Canadian Coast Guard helps keep people safe on lakes, rivers, and oceans, responding to emergencies and helping ships navigate safely.",
         "resourceLabel": "YouTube: Our Coast Guard: Keeping People Safe on the Water",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Coast%20Guard%3A%20Keeping%20People%20Safe%20on%20the%20Water%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OxxPiXgaCSI",
         "quiz": [
           {
             "q": "What does the Coast Guard help keep people safe on?",

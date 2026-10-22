@@ -33430,6 +33430,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: a literary archetype is a recurring character type, symbol, or pattern, such as the hero or the wise mentor, that appears across many stories and cultures because it reflects a familiar human experience.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=1ZZgi5XQcT0",
         "quiz": [
           {
             "q": "What is a literary archetype?",
@@ -33490,6 +33491,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: an independent event, like flipping a coin twice, does not affect the outcome of another event, while a dependent event, like drawing cards without replacement, changes the probability of what happens next.",
         "resourceLabel": "YouTube: Probability: Independent vs Dependent Events",
         "resourceUrl": "https://www.youtube.com/results?search_query=Probability%3A%20Independent%20vs%20Dependent%20Events%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lWAdPyvm400",
         "quiz": [
           {
             "q": "Does flipping a coin twice count as an independent or dependent event?",
@@ -33550,6 +33552,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: an object appears a particular colour because it reflects that wavelength of light while absorbing most other wavelengths, and darker colours generally absorb more light energy, which is often converted into heat.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=VwNKPgo3oxA",
         "quiz": [
           {
             "q": "Why does an object appear a particular colour, such as red?",
@@ -33609,6 +33612,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: patriation in 1982 brought full authority over the Canadian constitution under Canadian control for the first time, ending the need for British approval of constitutional changes, and was accompanied by the introduction of the Canadian Charter of Rights and Freedoms.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=b3O71fvQhS8",
         "quiz": [
           {
             "q": "What does patriation of the constitution mean?",

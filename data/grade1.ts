@@ -41239,6 +41239,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: adding -ly to a describing word can make an adverb, a word that tells how someone did something, such as quick becoming quickly.",
         "resourceLabel": "YouTube: Adding -ly to Make Adverbs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Adding%20-ly%20to%20Make%20Adverbs%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=d_3e5DjaCP8",
         "quiz": [
           {
             "q": "What word do we get by adding -ly to quick?",
@@ -41322,6 +41323,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore 3D shapes such as spheres, cubes, cylinders, and cones by testing and sorting them based on whether they roll, stack, or slide.",
         "resourceLabel": "YouTube: 3D Shapes: Do They Roll, Stack, or Slide?",
         "resourceUrl": "https://www.youtube.com/results?search_query=3D%20Shapes%3A%20Do%20They%20Roll%2C%20Stack%2C%20or%20Slide%3F%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Dz3L5IS0NHM",
         "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {
@@ -41382,6 +41384,7 @@ const curriculum: DayContent[] = [
         "summary": "Students match appropriate clothing choices to different weather conditions and seasons, connecting science observations to everyday decisions.",
         "resourceLabel": "YouTube: Dressing for the Weather: Clothing and the Seasons",
         "resourceUrl": "https://www.youtube.com/results?search_query=Dressing%20for%20the%20Weather%3A%20Clothing%20and%20the%20Seasons%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7cCy2xHdzGk",
         "topic": "Weather, Climate & Atmosphere",
         "quiz": [
           {
@@ -41508,6 +41511,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: nonfiction books sometimes use maps and charts to show information visually, helping readers understand places or data quickly.",
         "resourceLabel": "YouTube: Text Features: Maps and Charts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Text%20Features%3A%20Maps%20and%20Charts%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=b-IKYsfNfUk",
         "quiz": [
           {
             "q": "What does a map in a nonfiction book usually show?",
@@ -41591,6 +41595,7 @@ const curriculum: DayContent[] = [
         "summary": "Students put daily events in the order they happen, using words like first, next, then, and last to describe a sequence of activities from morning to night.",
         "resourceLabel": "YouTube: Time: Sequencing Events in a Day",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Sequencing%20Events%20in%20a%20Day%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gNDUPDtrkjQ",
         "topic": "Time & Money",
         "quiz": [
           {
@@ -41651,6 +41656,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: a wind vane is a tool that shows which direction the wind is blowing, helping people understand and predict the weather.",
         "resourceLabel": "YouTube: Weather Instruments: Wind Vanes and Measuring Wind",
         "resourceUrl": "https://www.youtube.com/results?search_query=Weather%20Instruments%3A%20Wind%20Vanes%20and%20Measuring%20Wind%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=BxGmVlH3DJ4",
         "quiz": [
           {
             "q": "What tool shows the direction the wind is blowing?",

@@ -37796,6 +37796,7 @@ const curriculum: DayContent[] = [
         "summary": "Children identify simple two-part repeating patterns, such as red-blue-red-blue, and predict which item comes next in the sequence.",
         "resourceLabel": "YouTube: Identifying Repeating Patterns: What Comes Next",
         "resourceUrl": "https://www.youtube.com/results?search_query=Identifying%20Repeating%20Patterns%3A%20What%20Comes%20Next%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wZ4KhfX_HEs",
         "topic": "Patterning",
         "quiz": [
           {
@@ -37856,6 +37857,7 @@ const curriculum: DayContent[] = [
         "summary": "Children explore the fall season, noticing how the air turns cooler and leaves on many trees change colour and fall to the ground.",
         "resourceLabel": "YouTube: Fall Season: Leaves Changing Colour",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fall%20Season%3A%20Leaves%20Changing%20Colour%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ubLe26x_2pI",
         "topic": "Weather, Climate & Atmosphere",
         "quiz": [
           {
@@ -37916,6 +37918,7 @@ const curriculum: DayContent[] = [
         "summary": "Helps children recognize common emergency vehicles by sight and sound, and understand the different helpers who drive them.",
         "resourceLabel": "YouTube: Emergency Vehicles: Fire Trucks, Ambulances, and Police Cars",
         "resourceUrl": "https://www.youtube.com/results?search_query=Emergency%20Vehicles%3A%20Fire%20Trucks%2C%20Ambulances%2C%20and%20Police%20Cars%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=P7vD4WsaEvY",
         "topic": "Safety Rules (Basic)",
         "quiz": [
           {
@@ -37982,6 +37985,7 @@ const curriculum: DayContent[] = [
         "summary": "Students build -op family words like hop, top, and mop, practicing blending the ending sound with new beginning letters.",
         "resourceLabel": "YouTube: Word Families: -op Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-op%20Words%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XGzeJACNJG8",
         "topic": "Vocabulary",
         "quiz": [
           {
@@ -38042,6 +38046,7 @@ const curriculum: DayContent[] = [
         "summary": "Children look for and create repeating patterns using real materials like beads on a string or stacked blocks, connecting patterning to hands-on play.",
         "resourceLabel": "YouTube: Patterns in Everyday Life: Beads and Blocks",
         "resourceUrl": "https://www.youtube.com/results?search_query=Patterns%20in%20Everyday%20Life%3A%20Beads%20and%20Blocks%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eEV_z7kXO6c",
         "topic": "Patterning",
         "quiz": [
           {
@@ -38102,6 +38107,7 @@ const curriculum: DayContent[] = [
         "summary": "A look at winter weather, exploring how snow, ice, and cold temperatures change the world outside and the special activities winter brings.",
         "resourceLabel": "YouTube: Winter Season: Snow and Ice",
         "resourceUrl": "https://www.youtube.com/results?search_query=Winter%20Season%3A%20Snow%20and%20Ice%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=avz6--jcNW8",
         "topic": "Weather, Climate & Atmosphere",
         "quiz": [
           {
@@ -38162,6 +38168,7 @@ const curriculum: DayContent[] = [
         "summary": "Compares what school was like long ago, with small one-room schoolhouses and chalkboards, to school today, helping children understand change over time.",
         "resourceLabel": "YouTube: Then and Now: How Schools Have Changed",
         "resourceUrl": "https://www.youtube.com/results?search_query=Then%20and%20Now%3A%20How%20Schools%20Have%20Changed%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uEP37tLjTuY",
         "topic": "History & Change Over Time",
         "quiz": [
           {

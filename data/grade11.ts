@@ -33080,6 +33080,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: utopian fiction imagines a society organized around an idealized vision of order, equality, or harmony, often serving as a foil to dystopian fiction by exploring what a perfected world might require and whether it is achievable.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=JX6YyAV0PXQ",
         "quiz": [
           {
             "q": "What does utopian fiction typically imagine?",
@@ -33262,6 +33263,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: saponification is the hydrolysis reaction of a fat or oil with a strong base that breaks triglycerides into glycerol and fatty acid salts, the fatty acid salts being the soap molecules that can bind both grease and water to lift dirt away.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=SmmaBB-SqTI",
         "quiz": [
           {
             "q": "What is saponification?",
@@ -33327,6 +33329,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a rhetorical precis is a highly structured four-sentence summary that identifies a texts main claim, its supporting method, its stated purpose and audience, and the rhetorical strategies the author uses to achieve that purpose.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=UnNMp1YAlEI",
         "quiz": [
           {
             "q": "What is a rhetorical precis?",
@@ -33387,6 +33390,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand: function notation, such as f(x), represents the output of a function for a given input, while the domain is the set of possible inputs and the range is the set of possible outputs.",
         "resourceLabel": "YouTube: Introduction to Function Notation, Domain, and Range",
         "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Function%20Notation%2C%20Domain%2C%20and%20Range%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=31hDEFk7yUc",
         "quiz": [
           {
             "q": "What does function notation like f(x) represent?",
@@ -33446,6 +33450,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: leaves contain multiple photosynthetic pigments, including chlorophyll a, chlorophyll b, and carotenoids, each absorbing different wavelengths of light, and paper chromatography separates these pigments by exploiting their differing solubility as they travel up a solvent-soaked strip.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=W56RHxu2Hpc",
         "quiz": [
           {
             "q": "Which of these is a photosynthetic pigment found in leaves?",
@@ -33505,6 +33510,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: water softening removes dissolved calcium and magnesium ions responsible for hard water using ion exchange resins, which swap these hardness ions for sodium or potassium ions bound to the resin, preventing mineral scale buildup and improving soap effectiveness.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=PwNpav6oauQ",
         "quiz": [
           {
             "q": "What ions are primarily responsible for water hardness?",

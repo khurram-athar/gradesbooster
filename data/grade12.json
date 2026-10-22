@@ -32913,6 +32913,7 @@
         "summary": "Grade 12 English strand: free verse abandons regular metre and rhyme in favour of rhythms closer to natural speech, a shift pioneered by poets such as Walt Whitman and later championed by Modernist writers such as Ezra Pound as a deliberate break from fixed poetic form.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=WIu-AmdtlTw",
         "quiz": [
           {
             "q": "What does free verse deliberately abandon?",
@@ -32972,6 +32973,7 @@
         "summary": "Students synthesize end behaviour, zeros and their multiplicities, and the y-intercept to sketch an accurate graph of a polynomial function without technology, and to reconstruct a possible equation from a given sketch.",
         "resourceLabel": "YouTube: Sketching Polynomial Functions from Key Features",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sketching%20Polynomial%20Functions%20from%20Key%20Features%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SaZhAlR9YIU",
         "topic": "Polynomials & Factoring",
         "quiz": [
           {
@@ -33093,6 +33095,7 @@
         "summary": "Explains why refractive index depends on wavelength, calculates how different colours refract by different amounts in a prism, and applies the minimum deviation formula.",
         "resourceLabel": "YouTube: Dispersion of Light Through a Prism",
         "resourceUrl": "https://www.youtube.com/results?search_query=Dispersion%20of%20Light%20Through%20a%20Prism%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Aggi0g67uXM",
         "quiz": [
           {
             "q": "In a glass prism, which colour of visible light is refracted (bent) the most, and why?",
@@ -33158,6 +33161,7 @@
         "summary": "Grade 12 English strand: a fable is a brief narrative, often featuring animal characters, constructed to teach a moral lesson, and belongs to the broader allegorical mode in which characters and events consistently represent abstract ideas or values beyond the literal story.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=4IOsFCieGQA",
         "quiz": [
           {
             "q": "What is a fable typically constructed to do?",
@@ -33217,6 +33221,7 @@
         "summary": "Grade 12 Advanced Functions strand: Bayes theorem describes how to update the probability of an event in light of new evidence, relating the probability of a hypothesis given evidence to the probability of the evidence given the hypothesis and the hypothesis prior probability.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=XQoLVl31ZfQ",
         "quiz": [
           {
             "q": "What does Bayes theorem allow a statistician to do?",
@@ -33277,6 +33282,7 @@
         "summary": "Grade 9 Math strand: parametric equations express the x and y coordinates of a curve separately in terms of a third variable, called a parameter, allowing more flexible descriptions of motion and curves than a single equation.",
         "resourceLabel": "YouTube: Algebra: An Introduction to Parametric Equations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20An%20Introduction%20to%20Parametric%20Equations%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Fz6p4aC9e2Q",
         "quiz": [
           {
             "q": "What do parametric equations use to describe a curve?",
@@ -33337,6 +33343,7 @@
         "summary": "Uses the thin lens equation 1/f = 1/dₒ + 1/dᵢ and the magnification formula to determine image location, orientation, and size for converging and diverging lenses.",
         "resourceLabel": "YouTube: Converging and Diverging Lenses: The Lens Equation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Converging%20and%20Diverging%20Lenses%3A%20The%20Lens%20Equation%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=VKMswYSiyko",
         "quiz": [
           {
             "q": "A converging lens has f = 15 cm. An object is placed 20 cm in front of it. Find the image distance and describe the image.",
