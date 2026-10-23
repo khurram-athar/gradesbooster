@@ -33653,6 +33653,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: metatheatre draws attention to a plays own status as a performance, often through a play within the play, direct address to the audience, or characters who comment self-consciously on the act of staging a drama.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=JTvPtgogHOc",
         "quiz": [
           {
             "q": "What does metatheatre draw attention to?",
@@ -33772,6 +33773,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Math strand: the product rule and quotient rule provide methods for differentiating a function formed by multiplying or dividing two other functions, extending the basic derivative rules introduced with limits and the power rule.",
         "resourceLabel": "YouTube: Calculus Foundations: The Product and Quotient Rules for Derivatives",
         "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%20Foundations%3A%20The%20Product%20and%20Quotient%20Rules%20for%20Derivatives%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pEiVi2B8ksQ",
         "quiz": [
           {
             "q": "What does the product rule allow you to differentiate?",

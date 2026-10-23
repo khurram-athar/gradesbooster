@@ -33933,6 +33933,7 @@
         "summary": "Grade 7 Language strand: influencer marketing happens when a social media personality promotes a product, often for payment, and viewers benefit from recognizing sponsored content and thinking critically about whether a recommendation is genuine.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=2_sYGwuSRCg",
         "quiz": [
           {
             "q": "What is influencer marketing?",
@@ -33993,6 +33994,13 @@
         "summary": "Grade 7 Math strand: a tessellation is a repeating pattern of shapes that covers a flat surface with no gaps or overlaps, and shapes like equilateral triangles, squares, and regular hexagons can tessellate because their angles divide evenly around a point.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=PiOa_vWKJA4",
+        "videoUrls": [
+          {
+            "label": "Symmetry: Lines of Symmetry",
+            "url": "https://www.youtube.com/watch?v=dAqDwuHOi4g"
+          }
+        ],
         "quiz": [
           {
             "q": "What is a tessellation?",
@@ -34053,6 +34061,7 @@
         "summary": "Grade 7 Science strand: nanotechnology involves designing and manipulating materials at an extremely small scale, measured in nanometres, enabling applications such as targeted drug delivery in medicine and stronger, lighter materials in engineering.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=DAOFpgocfrg",
         "quiz": [
           {
             "q": "What is nanotechnology?",
@@ -34113,6 +34122,7 @@
         "summary": "Grade 5 Social Studies strand: Canadas immigration points system evaluates applicants for factors such as education, work experience, age, and language ability to help decide who may immigrate through certain programs.",
         "resourceLabel": "YouTube: Canadas Immigration Points System",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadas%20Immigration%20Points%20System%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=51MAPjOhZFs",
         "quiz": [
           {
             "q": "What is the purpose of Canadas immigration points system?",

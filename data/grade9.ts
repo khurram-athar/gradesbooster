@@ -34104,6 +34104,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use the relationship distance = rate × time to set up and solve equations for real-world travel problems, including problems involving two moving objects.",
         "resourceLabel": "YouTube: Distance-Rate-Time Word Problems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Distance-Rate-Time%20Word%20Problems%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yCSAcjXO4tU",
         "topic": "Equations & Inequalities",
         "quiz": [
           {
@@ -34224,6 +34225,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: global air travel connects distant regions through networks of hub airports and flight routes, shaping patterns of trade, tourism, and migration while raising questions about accessibility and environmental impact.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=cdfjLng90dI",
         "quiz": [
           {
             "q": "What role do hub airports play in global flight networks?",
