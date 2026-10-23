@@ -41807,6 +41807,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: personification gives human qualities to things that are not human, such as saying the wind whispered or the sun smiled.",
         "resourceLabel": "YouTube: Personification: Giving Human Qualities to Objects",
         "resourceUrl": "https://www.youtube.com/results?search_query=Personification%3A%20Giving%20Human%20Qualities%20to%20Objects%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IXTL3eq0e80",
         "quiz": [
           {
             "q": "What is personification?",
@@ -41889,6 +41890,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: students skip count backwards by 5s, saying 100, 95, 90, and continuing down toward 0.",
         "resourceLabel": "YouTube: Skip Counting Backwards by 5s",
         "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20Backwards%20by%205s%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PTePHopMI5U",
         "quiz": [
           {
             "q": "Counting backwards by 5s from 50, what comes next: 50, 45, ___?",
@@ -41973,6 +41975,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Comparing Baby Animals and Adult Animals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Baby%20Animals%20and%20Adult%20Animals%20grade%201%20educational",
         "topic": "Life Cycles & Growth",
+        "videoUrl": "https://www.youtube.com/watch?v=k5UiG8ANqa4",
         "quiz": [
           {
             "q": "What is a baby dog called?",
@@ -42033,6 +42036,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: How Food Travels: From Farm to Truck to Store",
         "resourceUrl": "https://www.youtube.com/results?search_query=How%20Food%20Travels%3A%20From%20Farm%20to%20Truck%20to%20Store%20grade%201%20educational",
         "topic": "Transportation & Infrastructure",
+        "videoUrl": "https://www.youtube.com/watch?v=sLvgMIerbPY",
         "quiz": [
           {
             "q": "After fruits and vegetables are picked on a farm, what often happens next?",

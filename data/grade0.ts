@@ -38237,6 +38237,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Word Families: -ob Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ob%20Words%20kindergarten%20educational",
         "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=MS_XJZF44z0",
         "quiz": [
           {
             "q": "Which word belongs to the -ob family?",
@@ -38357,6 +38358,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Spring Season: New Growth",
         "resourceUrl": "https://www.youtube.com/results?search_query=Spring%20Season%3A%20New%20Growth%20kindergarten%20educational",
         "topic": "Weather, Climate & Atmosphere",
+        "videoUrl": "https://www.youtube.com/watch?v=5H8wmJBlsPY",
         "quiz": [
           {
             "q": "Which season comes right after winter?",
@@ -38417,6 +38419,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Then and Now: How Toys Have Changed",
         "resourceUrl": "https://www.youtube.com/results?search_query=Then%20and%20Now%3A%20How%20Toys%20Have%20Changed%20kindergarten%20educational",
         "topic": "History & Change Over Time",
+        "videoUrl": "https://www.youtube.com/watch?v=aob7rM5PV5A",
         "quiz": [
           {
             "q": "What kind of toys did children often play with long ago?",

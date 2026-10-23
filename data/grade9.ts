@@ -33795,6 +33795,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Writing: Writing a Historical Fiction Scene (Research-Informed Narrative)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20a%20Historical%20Fiction%20Scene%20%28Research-Informed%20Narrative%29%20grade%209%20educational",
         "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=nkFhEfvtam0",
         "quiz": [
           {
             "q": "What distinguishes historical fiction from a purely invented fantasy story?",
@@ -33855,6 +33856,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Modeling Word Problems with Linear Equations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Modeling%20Word%20Problems%20with%20Linear%20Equations%20grade%209%20educational",
         "topic": "Equations & Inequalities",
+        "videoUrl": "https://www.youtube.com/watch?v=xKH1Evwu150",
         "quiz": [
           {
             "q": "A taxi charges a $4 flat fee plus $3 per kilometre. The total fare for a trip is $25. Which equation can be used to find the distance d in kilometres?",
@@ -33915,6 +33917,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Space Science: Satellites and Their Uses in Space Technology",
         "resourceUrl": "https://www.youtube.com/results?search_query=Space%20Science%3A%20Satellites%20and%20Their%20Uses%20in%20Space%20Technology%20grade%209%20educational",
         "topic": "Space & Astronomy",
+        "videoUrl": "https://www.youtube.com/watch?v=6pY8gj2-KQ4",
         "quiz": [
           {
             "q": "A satellite that stays above the same point on Earth's surface at all times is said to be in what kind of orbit?",
@@ -33974,6 +33977,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: some nations have built entirely new, planned capital cities, often to shift political power to a more central location, ease congestion in an existing large city, or symbolize a fresh start, revealing how geography and politics intersect in urban planning.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=ZiDNIPH85Jw",
         "quiz": [
           {
             "q": "What is a planned capital city?",

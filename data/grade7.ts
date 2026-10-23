@@ -33678,6 +33678,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: a movie review briefly summarizes the plot without spoiling key surprises, evaluates elements like acting, direction, and visuals, and supports the writers opinion with specific scenes or examples from the film.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=raiWajtEV9s",
         "quiz": [
           {
             "q": "What should a movie review generally include, along with a brief summary?",
@@ -33807,6 +33808,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: biodegradable materials, such as food scraps and paper, break down naturally through the action of living organisms, while non-biodegradable materials, such as many plastics, persist in the environment for a very long time and pose challenges for waste management.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Gboh2yaAinM",
         "quiz": [
           {
             "q": "What does biodegradable mean?",
@@ -33867,6 +33869,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the flag debate of 1964, championed by Prime Minister Lester B. Pearson, led to the adoption of the red and white Maple Leaf flag in 1965, replacing the Red Ensign and sparking heated disagreement over Canadas ties to British symbols.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=n5VjbgppKq4",
         "quiz": [
           {
             "q": "What was the Great Canadian Flag Debate of 1964 about?",

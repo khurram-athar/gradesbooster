@@ -35056,6 +35056,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: Canadas fishing industry harvests seafood such as salmon, lobster, and cod from coastal waters on the Atlantic and Pacific coasts, supporting coastal communities and export trade.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=TMXEeDihDo0",
         "quiz": [
           {
             "q": "What does the fishing industry harvest from Canadas coastal waters?",
@@ -35122,6 +35123,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: summarizing condenses the main ideas of a text into a much shorter form, while paraphrasing restates specific information in different words without necessarily shortening it.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=4Xox8MgzXo0",
         "quiz": [
           {
             "q": "What does summarizing a text involve?",
@@ -35182,6 +35184,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: Roman numerals use letters such as I, V, X, L, and C to represent numbers, an ancient number system still seen today on clocks, in book chapters, and in movie credits.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=P_qD1GJ1dR8",
         "quiz": [
           {
             "q": "What does the Roman numeral X represent?",
@@ -35242,6 +35245,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: caves often form when water slowly dissolves rock such as limestone, and mineral deposits left behind create formations such as stalactites hanging from the ceiling and stalagmites rising from the floor.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Tp-AGTtmjjA",
         "quiz": [
           {
             "q": "What type of rock is commonly dissolved by water to form caves?",
@@ -35301,6 +35305,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the National Day for Truth and Reconciliation, observed on September 30, honours residential school survivors and their families, and encourages learning and reflection about the history and experiences of Indigenous peoples in Canada.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=WEj5vjc2EDk",
         "quiz": [
           {
             "q": "On what date is the National Day for Truth and Reconciliation observed?",

@@ -33626,6 +33626,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: an effective introduction paragraph captures a readers attention with a hook, such as a surprising fact, question, or anecdote, and then narrows toward a clear thesis statement that previews the focus of the piece.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=Q3FETxHtE6A",
         "quiz": [
           {
             "q": "What is the purpose of a hook in an introduction paragraph?",
@@ -33687,6 +33688,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Converting Units in the Metric System",
         "resourceUrl": "https://www.youtube.com/results?search_query=Converting%20Units%20in%20the%20Metric%20System%20grade%208%20educational",
         "topic": "Measurement: Units",
+        "videoUrl": "https://www.youtube.com/watch?v=ZNX-a-5jGeM",
         "quiz": [
           {
             "q": "How many centimetres are in 3.5 metres?",
@@ -33746,6 +33748,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: a lever is a simple machine that pivots around a fixed point called a fulcrum, and torque describes the rotational force produced when an applied force acts at a distance from that pivot point, allowing levers to multiply force.",
         "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=YlYEi0PgG1g",
         "quiz": [
           {
             "q": "What is the fixed point around which a lever pivots called?",
@@ -33805,6 +33808,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: the British North America Act of 1867, passed by the British Parliament, formally created the Dominion of Canada by uniting the Province of Canada, Nova Scotia, and New Brunswick, and served as Canadas primary constitutional document until it was patriated and renamed in 1982.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "videoUrl": "https://www.youtube.com/watch?v=3RBwYebYH1A",
         "quiz": [
           {
             "q": "What did the British North America Act of 1867 formally create?",
@@ -33932,6 +33936,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Area of Composite 2D Figures",
         "resourceUrl": "https://www.youtube.com/results?search_query=Area%20of%20Composite%202D%20Figures%20grade%208%20educational",
         "topic": "Measurement: Perimeter & Area",
+        "videoUrl": "https://www.youtube.com/watch?v=bo483Varm-U",
         "quiz": [
           {
             "q": "An L-shaped figure is made of a 6 cm × 4 cm rectangle with a 2 cm × 3 cm rectangle removed from one corner. What is the area?",
@@ -33992,6 +33997,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Solutions and Solubility: What Dissolves and Why",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solutions%20and%20Solubility%3A%20What%20Dissolves%20and%20Why%20grade%208%20educational",
         "topic": "Matter & Materials",
+        "videoUrl": "https://www.youtube.com/watch?v=DwiNAMAuJ0k",
         "quiz": [
           {
             "q": "In a solution made by dissolving sugar in water, the sugar is called the:",
@@ -34051,6 +34057,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: Sir John A. Macdonald served as Canadas first prime minister following Confederation in 1867 and again in later years, playing a central role in national expansion projects such as the transcontinental railway while also being associated with controversial policies toward Indigenous peoples.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "videoUrl": "https://www.youtube.com/watch?v=Dx_v5VKWW_k",
         "quiz": [
           {
             "q": "What position did Sir John A. Macdonald hold following Confederation in 1867?",

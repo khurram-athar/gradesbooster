@@ -34155,6 +34155,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that Canada has three territories in the north - Yukon, Northwest Territories, and Nunavut - with cold climates and unique communities.",
         "resourceLabel": "YouTube: Canadas Territories: The North",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadas%20Territories%3A%20The%20North%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=AyH937Qavhg",
         "quiz": [
           {
             "q": "How many territories does Canada have?",
@@ -34471,6 +34472,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that before money was commonly used, people often traded goods directly with each other, a practice called bartering.",
         "resourceLabel": "YouTube: Trading and Bartering Long Ago",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trading%20and%20Bartering%20Long%20Ago%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wLF2GR0poF8",
         "quiz": [
           {
             "q": "What is bartering?",
@@ -34559,6 +34561,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: interviewing involves preparing clear questions in advance, listening carefully to answers, and asking follow-up questions to learn more about a topic.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=yMAJjw9p2pY",
         "quiz": [
           {
             "q": "What should an interviewer do before an interview?",
@@ -34619,6 +34622,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Math strand: students skip count by 4s, saying 4, 8, 12, 16, and continuing on up to 40.",
         "resourceLabel": "YouTube: Skip Counting by 4s to 40",
         "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%204s%20to%2040%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=C14BUe6P-UQ",
         "quiz": [
           {
             "q": "What comes next: 4, 8, 12, ___?",
@@ -34702,6 +34706,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore static electricity by rubbing objects, such as a balloon on hair, to discover how this invisible force can make light objects stick together or attract to each other.",
         "resourceLabel": "YouTube: Static Electricity: Making Things Stick",
         "resourceUrl": "https://www.youtube.com/results?search_query=Static%20Electricity%3A%20Making%20Things%20Stick%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5TAIUCYMlIQ",
         "quiz": [
           {
             "q": "What invisible force can make a rubbed balloon stick to a wall?",

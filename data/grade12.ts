@@ -33405,6 +33405,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: a mock-epic applies the grand style, conventions, and elevated language of classical epic poetry to a trivial or ordinary subject, creating satirical humour through the exaggerated mismatch between form and content.",
         "resourceLabel": "YouTube: Literature: The Mock-Epic and Satirical Verse",
         "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20The%20Mock-Epic%20and%20Satirical%20Verse%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uy4PFiPdgzQ",
         "quiz": [
           {
             "q": "What does a mock-epic apply to a trivial or ordinary subject?",
@@ -33465,6 +33466,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Rational Functions: Vertical Asymptotes and Holes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Vertical%20Asymptotes%20and%20Holes%20grade%2012%20educational",
         "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=Mss7tflVecE",
         "quiz": [
           {
             "q": "A rational function has a factor that cancels between numerator and denominator. This produces:",
@@ -33524,6 +33526,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: synthetic division is a shortcut method for dividing a polynomial by a linear binomial of the form x-a, using only the coefficients to quickly find the quotient and remainder.",
         "resourceLabel": "YouTube: Algebra: Synthetic Division of Polynomials",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Synthetic%20Division%20of%20Polynomials%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FxHWoUOq2iQ",
         "quiz": [
           {
             "q": "What does synthetic division provide a shortcut for?",
@@ -33584,6 +33587,7 @@ const curriculum: DayContent[] = [
         "summary": "Applies the mirror equation 1/f = 1/dₒ + 1/dᵢ to concave and convex mirrors to find image distance, orientation, and magnification for different object positions.",
         "resourceLabel": "YouTube: The Mirror Equation: Concave and Convex Mirrors",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Mirror%20Equation%3A%20Concave%20and%20Convex%20Mirrors%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=efPZ5uSDeuI",
         "quiz": [
           {
             "q": "A concave mirror has a radius of curvature of 40 cm. What is its focal length?",

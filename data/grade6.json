@@ -33645,6 +33645,7 @@
         "summary": "Grade 6 Language strand: a public service announcement, or PSA, is a short script written to inform or persuade an audience about an important issue, using clear language and a strong call to action.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=XKigAfp7WdU",
         "quiz": [
           {
             "q": "What is the purpose of a PSA?",
@@ -33705,6 +33706,7 @@
         "summary": "Grade 6 Math strand: every three-dimensional shape has vertices, edges, and faces, and for many solids these three counts are related by Eulers formula, which states that vertices plus faces equals edges plus two.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=ese66aa6luw",
         "quiz": [
           {
             "q": "What is a vertex on a 3D shape?",
@@ -33765,6 +33767,7 @@
         "summary": "Grade 6 Science strand: hurricanes are large rotating storms that form over warm ocean water, while tornadoes are fast, narrow rotating columns of air that form over land, and both can cause significant destruction.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=N7hmCOpWMR0",
         "quiz": [
           {
             "q": "Where do hurricanes typically form?",
@@ -33826,6 +33829,7 @@
         "resourceLabel": "YouTube: Latitude and Longitude: Finding Places on a Map",
         "resourceUrl": "https://www.youtube.com/results?search_query=Latitude%20and%20Longitude%3A%20Finding%20Places%20on%20a%20Map%20grade%206%20educational",
         "topic": "Map & Geography Skills",
+        "videoUrl": "https://www.youtube.com/watch?v=FEKFRV29Sk4",
         "quiz": [
           {
             "q": "Lines of latitude run in which direction?",
@@ -33891,6 +33895,7 @@
         "summary": "Grade 6 Language strand: correlative conjunctions are pairs of words, such as either or, neither nor, and not only but also, that work together to connect balanced parts of a sentence.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=klmsCRxWYNs",
         "quiz": [
           {
             "q": "What are correlative conjunctions?",
@@ -33951,6 +33956,7 @@
         "summary": "Grade 6 Math strand: odds in favour compare the number of favourable outcomes to unfavourable outcomes, while odds against compare unfavourable outcomes to favourable ones, offering another way to express likelihood besides probability.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=EI9Qijim8WI",
         "quiz": [
           {
             "q": "What do odds in favour compare?",
@@ -34011,6 +34017,7 @@
         "summary": "Grade 6 Science strand: the Earth is made up of layers, including the thin outer crust, the mostly solid mantle, and the core, which consists of a molten outer layer and a solid inner layer.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=2j-Z3AZ_hwU",
         "quiz": [
           {
             "q": "What is the outermost layer of the Earth called?",
@@ -34071,6 +34078,7 @@
         "resourceLabel": "YouTube: Time Zones Across Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%20Zones%20Across%20Canada%20grade%206%20educational",
         "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=VxVOnem4pR4",
         "quiz": [
           {
             "q": "Why does Canada have multiple time zones?",

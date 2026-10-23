@@ -41355,6 +41355,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore the -ap word family, learning that changing the first letter of words like cap, map, and tap creates new rhyming words that share the same ending sound.",
         "resourceLabel": "YouTube: Word Families: -ap Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ap%20Words%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=w9FL2-cSRuE",
         "quiz": [
           {
             "q": "Which word rhymes with cap?",
@@ -41521,6 +41522,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: some animals use mimicry, looking or acting like a different, often more dangerous animal, to help keep themselves safe.",
         "resourceLabel": "YouTube: Animal Mimicry: Looking Like Something Else",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Mimicry%3A%20Looking%20Like%20Something%20Else%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=goQf5p64xRk",
         "quiz": [
           {
             "q": "What is animal mimicry?",
@@ -41604,6 +41606,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about the job of a pharmacist, a community helper who works at a pharmacy and helps prepare the medicine that doctors say people need.",
         "resourceLabel": "YouTube: Our Pharmacist: Helping Us Stay Healthy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Pharmacist%3A%20Helping%20Us%20Stay%20Healthy%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cIUSKe_0sWQ",
         "quiz": [
           {
             "q": "What do we call a helper who prepares medicine at a pharmacy?",
