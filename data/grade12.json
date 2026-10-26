@@ -33717,6 +33717,7 @@
         "summary": "Grade 12 Advanced Functions strand: a Pythagorean triple is a set of three positive integers satisfying the Pythagorean relationship, and Euclids formula generates every primitive triple from a pair of positive integers, offering a systematic algebraic method for producing whole-number right triangles.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=ZpQu9w4AVlg",
         "quiz": [
           {
             "q": "What is a Pythagorean triple?",
@@ -33838,6 +33839,7 @@
         "summary": "Uses path difference and the fringe spacing formula Δy = λL/d to analyze bright and dark fringe locations in double-slit interference patterns.",
         "resourceLabel": "YouTube: Two-Source Interference: Path Difference and Fringe Spacing",
         "resourceUrl": "https://www.youtube.com/results?search_query=Two-Source%20Interference%3A%20Path%20Difference%20and%20Fringe%20Spacing%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_uy6LsTBf84",
         "quiz": [
           {
             "q": "Two slits separated by d = 0.20 mm are illuminated by light of wavelength 600 nm, with a screen L = 2.0 m away. What is the fringe spacing on the screen?",
@@ -33903,6 +33905,7 @@
         "summary": "Grade 12 English strand: climate fiction, or cli-fi, is a contemporary genre that imagines the human and social consequences of environmental change, using speculative settings to explore themes of loss, adaptation, and responsibility.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=E_975SJa6kw",
         "quiz": [
           {
             "q": "What does climate fiction, or cli-fi, primarily imagine?",
@@ -33964,6 +33967,7 @@
         "resourceLabel": "YouTube: Rational Functions: Horizontal Asymptotes and End Behaviour",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Horizontal%20Asymptotes%20and%20End%20Behaviour%20grade%2012%20educational",
         "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=kvhpu1TkSjI",
         "quiz": [
           {
             "q": "For a rational function f(x) = p(x)/q(x), if the degree of p is less than the degree of q, the horizontal asymptote is:",
@@ -34023,6 +34027,7 @@
         "summary": "Compute the dot product of two vectors to determine whether they are perpendicular, and solve for unknown components that make two vectors orthogonal.",
         "resourceLabel": "YouTube: Vectors: Using the Dot Product to Test for Perpendicularity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20Using%20the%20Dot%20Product%20to%20Test%20for%20Perpendicularity%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8fIZ2v-33xw",
         "quiz": [
           {
             "q": "Are vectors a = (3, 4) and b = (4, −3) perpendicular?",
@@ -34083,6 +34088,7 @@
         "summary": "Students learn to calculate the magnetic force on a charged particle moving through a magnetic field using F = qvB and use the right-hand rule to determine the direction of that force for various charge and velocity orientations.",
         "resourceLabel": "YouTube: Magnetic Force on a Moving Charge: F = qvB",
         "resourceUrl": "https://www.youtube.com/results?search_query=Magnetic%20Force%20on%20a%20Moving%20Charge%3A%20F%20%3D%20qvB%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UZhdG3GgvHo",
         "quiz": [
           {
             "q": "A proton (q = 1.6 × 10⁻¹⁹ C) moves at 2.0 × 10⁶ m/s perpendicular to a 0.50 T magnetic field. What is the magnitude of the magnetic force on it?",

@@ -41694,6 +41694,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore the -in word family, learning that changing the first letter of words like pin, win, and fin creates new rhyming words that share the same ending sound.",
         "resourceLabel": "YouTube: Word Families: -in Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-in%20Words%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=079vCoFwbz0",
         "quiz": [
           {
             "q": "Which word rhymes with pin?",
@@ -41777,6 +41778,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise subitizing, which means looking at a small group of dots or objects and knowing how many there are right away without counting one by one.",
         "resourceLabel": "YouTube: Subitizing: Knowing Amounts Without Counting",
         "resourceUrl": "https://www.youtube.com/results?search_query=Subitizing%3A%20Knowing%20Amounts%20Without%20Counting%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SpwuB7yIgZk",
         "quiz": [
           {
             "q": "What is 8 + 7?",
@@ -41953,6 +41955,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about the job of a garbage collector, a community helper who picks up garbage and recycling from homes so streets and neighbourhoods stay clean.",
         "resourceLabel": "YouTube: Our Garbage Collectors: Keeping Streets Tidy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Garbage%20Collectors%3A%20Keeping%20Streets%20Tidy%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OzEFMVPVKHc",
         "quiz": [
           {
             "q": "What do we call a helper who picks up garbage from homes?",
@@ -42039,6 +42042,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that adding -er to some words, such as changing tall to taller or small to smaller, helps compare two things.",
         "resourceLabel": "YouTube: Making New Words: Adding -er",
         "resourceUrl": "https://www.youtube.com/results?search_query=Making%20New%20Words%3A%20Adding%20-er%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=atUS2vC5dx8",
         "quiz": [
           {
             "q": "Add -er to the word tall. What new word do you make?",
@@ -42118,6 +42122,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise one-to-one correspondence, touching each object exactly once while saying one number word, so the last number said tells how many objects there are in total.",
         "resourceLabel": "YouTube: One-to-One Correspondence: Touching and Counting Carefully",
         "resourceUrl": "https://www.youtube.com/results?search_query=One-to-One%20Correspondence%3A%20Touching%20and%20Counting%20Carefully%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gtO7SGUlbJg",
         "quiz": [
           {
             "q": "What is 24 + 10?",
@@ -42201,6 +42206,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: whales and dolphins are mammals that live in the ocean, breathe air through blowholes, and give birth to live young rather than laying eggs.",
         "resourceLabel": "YouTube: Whales and Dolphins: Ocean Mammals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Whales%20and%20Dolphins%3A%20Ocean%20Mammals%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RBUuUMwwwiU",
         "quiz": [
           {
             "q": "Are whales and dolphins classified as mammals or fish?",
@@ -42261,6 +42267,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn why it is helpful and safe to know important personal information, such as their full name, home address, and a family phone number.",
         "resourceLabel": "YouTube: Knowing My Information: Name, Address, and Phone Number",
         "resourceUrl": "https://www.youtube.com/results?search_query=Knowing%20My%20Information%3A%20Name%2C%20Address%2C%20and%20Phone%20Number%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=aiCEDrJbeHc",
         "quiz": [
           {
             "q": "Which of these is important personal information to know for safety?",

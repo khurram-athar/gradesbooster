@@ -33824,6 +33824,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: a non-linear narrative presents events out of chronological order, and a circular narrative structure returns to its opening scene or idea by the end, shaping how readers interpret meaning.",
         "resourceLabel": "YouTube: Reading: Analyzing Circular and Non-Linear Narrative Structure",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Circular%20and%20Non-Linear%20Narrative%20Structure%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tbgegTBy0jw",
         "quiz": [
           {
             "q": "What does a non-linear narrative present events out of?",
@@ -33884,6 +33885,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: the unit circle is a circle with radius 1 centred at the origin, used to define sine and cosine values for any angle and connect trigonometry to coordinate geometry.",
         "resourceLabel": "YouTube: Trigonometry: An Introduction to the Unit Circle",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20An%20Introduction%20to%20the%20Unit%20Circle%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=1m9p9iubMLU",
         "quiz": [
           {
             "q": "What is the radius of the unit circle?",
@@ -34085,6 +34087,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: astroturfing is a media manipulation tactic in which an organized, well-funded campaign is deliberately disguised as spontaneous grassroots public opinion, requiring readers to question who benefits from a message before accepting it as authentic.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=9b6_j_mYF5E",
         "quiz": [
           {
             "q": "What is astroturfing?",
@@ -34145,6 +34148,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: the rule of 72 is a quick estimation technique that divides 72 by an annual interest rate to approximate the number of years needed for an investment to double, offering fast mental insight into exponential growth without a full logarithmic calculation.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=EqVnJAESCrw",
         "quiz": [
           {
             "q": "What does the rule of 72 estimate?",
@@ -34205,6 +34209,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: an autoimmune disorder occurs when the immune system fails to distinguish the bodys own cells from foreign invaders and mistakenly attacks healthy tissue, leading to chronic inflammation and damage in the affected organs or systems.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=2YK5vBUm9C8",
         "quiz": [
           {
             "q": "What causes an autoimmune disorder?",
@@ -34265,6 +34270,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: fluoride ions from toothpaste or drinking water can replace hydroxide ions in tooth enamels hydroxyapatite crystal structure, forming fluorapatite, a more acid-resistant mineral that helps remineralize weakened enamel and slow the progress of tooth decay.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=vjOlp75FXC8",
         "quiz": [
           {
             "q": "What mineral makes up the crystal structure of tooth enamel?",

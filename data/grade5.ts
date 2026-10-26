@@ -34939,6 +34939,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: a portmanteau word blends the sounds and meanings of two other words into one new word, such as brunch from breakfast and lunch.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=4lzOhH_tZiE",
         "quiz": [
           {
             "q": "What is a portmanteau word?",
@@ -34999,6 +35000,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: to compare fractions with different denominators, students can find equivalent fractions with a common denominator or use a model such as a number line or fraction strip.",
         "resourceLabel": "YouTube: Fractions: Comparing Fractions with Different Denominators",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Comparing%20Fractions%20with%20Different%20Denominators%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zRjLZROI7wc",
         "quiz": [
           {
             "q": "Which fraction is greater: 1/2 or 1/3?",
@@ -35059,6 +35061,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: a meteor shower occurs when Earth passes through a trail of debris left by a comet, causing many small particles to burn up in the atmosphere and appear as shooting stars.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=c5KgFo2rNWM",
         "quiz": [
           {
             "q": "What causes a meteor shower?",

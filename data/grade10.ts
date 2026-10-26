@@ -33762,6 +33762,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: clickbait refers to headlines or content designed primarily to attract clicks rather than to inform accurately, a strategy shaped by the attention economy, in which media companies compete for limited audience attention often at the expense of depth or accuracy.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=A_ZluBgewQY",
         "quiz": [
           {
             "q": "What is clickbait?",
@@ -34008,6 +34009,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: an absolute phrase consists of a noun followed by a participle or modifier and describes the surrounding sentence as a whole rather than modifying a single word, adding vivid detail without forming a complete independent clause.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=rAPByt-vUSQ",
         "quiz": [
           {
             "q": "What does an absolute phrase typically consist of?",
@@ -34069,6 +34071,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Surface Area of Pyramids and Cones",
         "resourceUrl": "https://www.youtube.com/results?search_query=Surface%20Area%20of%20Pyramids%20and%20Cones%20grade%2010%20educational",
         "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=DE4kpnQdPh8",
         "quiz": [
           {
             "q": "What is the formula for the surface area of a cone with radius r and slant height l?",
@@ -34128,6 +34131,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: water purification uses physical and chemical processes such as filtration, coagulation, and disinfection to remove contaminants, pathogens, and particulates from water, making it safe for human consumption and other uses.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=FvPakzqM3h8",
         "quiz": [
           {
             "q": "What is the main goal of water purification?",
@@ -34187,6 +34191,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the Old Age Pensions Act of 1927 established Canadas first federal old age pension program, providing modest, means-tested financial support to low-income seniors and marking an early step toward the modern Canadian social welfare system.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=nXnc__mBD-o",
         "quiz": [
           {
             "q": "In what year was the Old Age Pensions Act passed?",

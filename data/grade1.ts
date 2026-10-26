@@ -41447,6 +41447,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: What Makes a Good Worker? Skills and Attitudes",
         "resourceUrl": "https://www.youtube.com/results?search_query=What%20Makes%20a%20Good%20Worker%3F%20Skills%20and%20Attitudes%20grade%201%20educational",
         "topic": "Money, Jobs & Economy (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=ag1V76oBMkM",
         "quiz": [
           {
             "q": "Which of these is an example of being a responsible worker?",
@@ -42102,6 +42103,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: a sentence fragment is an incomplete thought that is missing a subject, a verb, or both, unlike a complete sentence.",
         "resourceLabel": "YouTube: Sentence Fragments: Complete vs Incomplete Thoughts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sentence%20Fragments%3A%20Complete%20vs%20Incomplete%20Thoughts%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ds0JHxYvkvQ",
         "quiz": [
           {
             "q": "What is a sentence fragment?",
@@ -42185,6 +42187,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: students compare metres and centimetres, learning that a metre is a much longer unit made up of 100 centimetres.",
         "resourceLabel": "YouTube: Length: Comparing Metres and Centimetres",
         "resourceUrl": "https://www.youtube.com/results?search_query=Length%3A%20Comparing%20Metres%20and%20Centimetres%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=VIQg8e0erEE",
         "quiz": [
           {
             "q": "Which unit is longer, a metre or a centimetre?",
@@ -42267,6 +42270,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: the beaver is a large rodent and Canadas national animal, known for building dams and lodges out of sticks and mud.",
         "resourceLabel": "YouTube: Beavers: Canadas National Animal",
         "resourceUrl": "https://www.youtube.com/results?search_query=Beavers%3A%20Canadas%20National%20Animal%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QMItKNAEnWI",
         "quiz": [
           {
             "q": "Which animal is known as Canadas national animal?",
@@ -42350,6 +42354,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: Orange Shirt Day, on September 30, is a special day when Canadians wear orange to remember Indigenous children and show that every child matters.",
         "resourceLabel": "YouTube: Orange Shirt Day: Every Child Matters",
         "resourceUrl": "https://www.youtube.com/results?search_query=Orange%20Shirt%20Day%3A%20Every%20Child%20Matters%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-Zk5qHqD82Q",
         "quiz": [
           {
             "q": "What colour do people wear to take part in Orange Shirt Day?",
@@ -42436,6 +42441,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: students clap the beats, or syllables, in a word to help them read and spell longer words, such as clapping twice for the word rabbit.",
         "resourceLabel": "YouTube: Syllables: Clapping the Beats in Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Syllables%3A%20Clapping%20the%20Beats%20in%20Words%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=9S7DY2lgJlU",
         "quiz": [
           {
             "q": "How many syllables does the word rabbit have?",
@@ -42518,6 +42524,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: students choose the best tool for a measuring task, such as a ruler for a short object or a scale for weight.",
         "resourceLabel": "YouTube: Choosing the Right Measuring Tool",
         "resourceUrl": "https://www.youtube.com/results?search_query=Choosing%20the%20Right%20Measuring%20Tool%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0YqMjjEMMmE",
         "quiz": [
           {
             "q": "Which tool would best measure the length of a pencil?",
@@ -42601,6 +42608,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: How Our Bodies Move: Joints and Bending",
         "resourceUrl": "https://www.youtube.com/results?search_query=How%20Our%20Bodies%20Move%3A%20Joints%20and%20Bending%20grade%201%20educational",
         "topic": "Human Body & Health",
+        "videoUrl": "https://www.youtube.com/watch?v=j918PoWWaB0",
         "quiz": [
           {
             "q": "What do we call the parts of our body where bones meet and allow bending, like the elbow?",
@@ -42661,6 +42669,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Caring for Our Classroom Plants and Green Spaces",
         "resourceUrl": "https://www.youtube.com/results?search_query=Caring%20for%20Our%20Classroom%20Plants%20and%20Green%20Spaces%20grade%201%20educational",
         "topic": "Environment & Sustainability (Social Studies)",
+        "videoUrl": "https://www.youtube.com/watch?v=0TJuJTFEBbs",
         "quiz": [
           {
             "q": "What do most plants need to grow well?",

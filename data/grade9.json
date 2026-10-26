@@ -34042,6 +34042,7 @@
         "summary": "Grade 9 Language strand: algorithmic recommendation systems use data about a users past behaviour to suggest new content, and understanding how these systems work helps a media-literate reader recognize why certain videos, posts, or products keep appearing in their feed.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=8x6bKjQw5a0",
         "quiz": [
           {
             "q": "What do algorithmic recommendation systems use to suggest content?",
@@ -34163,6 +34164,7 @@
         "summary": "Grade 9 Science strand: comets are icy bodies that develop glowing tails as they near the Sun, asteroids are rocky remnants mostly found in the asteroid belt, and near-Earth objects are tracked closely because their orbits occasionally bring them close to our planet.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=UHK-fbdbwF8",
         "quiz": [
           {
             "q": "What is a comet primarily made of?",
@@ -34290,6 +34292,7 @@
         "summary": "Grade 9 Language strand: who functions as a subject pronoun while whom functions as an object pronoun, and choosing correctly between them depends on whether the pronoun is performing the action or receiving it within its own clause.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=bPqMLKXoEac",
         "quiz": [
           {
             "q": "When should who be used in a sentence?",
@@ -34351,6 +34354,13 @@
         "resourceLabel": "YouTube: Mixture and Age Word Problems Using Algebra",
         "resourceUrl": "https://www.youtube.com/results?search_query=Mixture%20and%20Age%20Word%20Problems%20Using%20Algebra%20grade%209%20educational",
         "topic": "Equations & Inequalities",
+        "videoUrl": "https://www.youtube.com/watch?v=e2FAAMlAJ3c",
+        "videoUrls": [
+          {
+            "label": "Age Word Problems",
+            "url": "https://www.youtube.com/watch?v=b9YMbDH02rM"
+          }
+        ],
         "quiz": [
           {
             "q": "A shop mixes peanuts worth $3/kg with cashews worth $6/kg to make 10 kg of mix worth $4.50/kg. If x is the kg of peanuts used, which equation models this?",
@@ -34411,6 +34421,7 @@
         "resourceLabel": "YouTube: Space Science: Milestones in Space Exploration History",
         "resourceUrl": "https://www.youtube.com/results?search_query=Space%20Science%3A%20Milestones%20in%20Space%20Exploration%20History%20grade%209%20educational",
         "topic": "Space & Astronomy",
+        "videoUrl": "https://www.youtube.com/watch?v=mjUGN0WcsXw",
         "quiz": [
           {
             "q": "What was Sputnik 1, launched in 1957?",
@@ -34470,6 +34481,7 @@
         "summary": "Grade 9 Social Studies (Geography) strand: the global diamond and gemstone trade connects mining regions, often in Africa and parts of Asia, to cutting, polishing, and retail centres worldwide, and international efforts such as certification schemes attempt to prevent the trade of gems linked to conflict.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=JugWTOzDykE",
         "quiz": [
           {
             "q": "In which regions are many of the worlds diamonds and gemstones mined?",

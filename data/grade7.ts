@@ -34191,6 +34191,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: reported speech restates what someone said without using their exact words in quotation marks, often shifting the verb tense and changing pronouns to fit the perspective of the person reporting it.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=cW3pdeTYFZc",
         "quiz": [
           {
             "q": "What is reported speech?",
@@ -34251,6 +34252,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: converting between units of area requires squaring the linear conversion factor, while converting between units of volume requires cubing it, since area and volume involve two and three dimensions respectively.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=aFAk8JA4-d8",
         "quiz": [
           {
             "q": "Why must a linear conversion factor be squared when converting between units of area?",
@@ -34311,6 +34313,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: a circadian rhythm is an internal biological clock that repeats roughly every 24 hours, regulating the sleep-wake cycle and other body functions largely in response to patterns of light and darkness.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=gKmyCB0WNbs",
         "quiz": [
           {
             "q": "What is a circadian rhythm?",
@@ -34370,6 +34373,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: political cartoons use humour, symbols, and exaggeration to comment on events, leaders, or issues, offering historians a visual record of public opinion at a given time.",
         "resourceLabel": "YouTube: The Role of Political Cartoons in Recording History",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Role%20of%20Political%20Cartoons%20in%20Recording%20History%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GiU1Ni23OUs",
         "quiz": [
           {
             "q": "What is a political cartoon?",
