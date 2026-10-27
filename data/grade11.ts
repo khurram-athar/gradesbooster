@@ -34398,6 +34398,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: geometric probability calculates the likelihood of an event based on area, length, or volume rather than counting discrete outcomes, such as finding the chance a randomly thrown dart lands in a specific region.",
         "resourceLabel": "YouTube: Data Management: An Introduction to Geometric Probability",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20An%20Introduction%20to%20Geometric%20Probability%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8P6HGcwQYZ0",
         "quiz": [
           {
             "q": "What does geometric probability use to calculate likelihood?",

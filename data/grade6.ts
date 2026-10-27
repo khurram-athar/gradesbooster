@@ -34390,6 +34390,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: effective group discussions rely on shared norms such as listening actively, taking turns, staying on topic, and building respectfully on others ideas.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=e3IBLKYaK1E",
         "quiz": [
           {
             "q": "What is a shared norm that supports effective group discussion?",

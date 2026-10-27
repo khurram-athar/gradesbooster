@@ -34555,6 +34555,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: the North-West Territories were formally organized in 1870 to govern the vast lands acquired from the Hudsons Bay Company, and a territorial government was gradually established to administer the region before parts of it were later carved into new provinces.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "videoUrl": "https://www.youtube.com/watch?v=IAJLL8WZx2I",
         "quiz": [
           {
             "q": "In what year were the North-West Territories formally organized?",

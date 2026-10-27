@@ -4004,6 +4004,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore the school as a community. They identify helpers such as the principal, caretaker, librarian, and office staff.",
         "resourceLabel": "YouTube: Our School Community",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Community%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GYSqYSVOoc0",
         "quiz": [
           {
             "q": "Who is the leader of a school?",
@@ -39068,6 +39069,7 @@ const curriculum: DayContent[] = [
         "summary": "Children explore the concept of capacity by filling containers with water, sand, or beads and describing them as full, empty, or half-full.",
         "resourceLabel": "YouTube: Capacity: Full, Empty, and Half-Full",
         "resourceUrl": "https://www.youtube.com/results?search_query=Capacity%3A%20Full%2C%20Empty%2C%20and%20Half-Full%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QmqEKErBq7M",
         "topic": "Measurement: Units",
         "quiz": [
           {

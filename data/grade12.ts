@@ -34210,6 +34210,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: a Lucas sequence generalizes the Fibonacci sequence by starting from different initial values while following the same rule that each term equals the sum of the two preceding terms, producing related sequences with their own distinctive number-theoretic properties.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=Ipp8tCgoV1g",
         "quiz": [
           {
             "q": "What rule do Lucas sequences share with the Fibonacci sequence?",
