@@ -34439,6 +34439,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: an acronym is an abbreviation formed from the first letters of a phrase and pronounced as a single word, such as NASA, while an initialism is pronounced letter by letter, such as FBI.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=3csH1IwAyDg",
         "quiz": [
           {
             "q": "What is an acronym?",
@@ -34499,6 +34500,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: geometric probability compares the area of a favourable region to the area of the entire possible region, useful for situations like a dart landing inside a target or a spinner stopping in a certain zone.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=DeH5aHWxEaI",
         "quiz": [
           {
             "q": "What does geometric probability compare?",
@@ -34559,6 +34561,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: Newtons first law explains that objects stay at rest or in motion unless acted on by a force, providing a foundation for understanding how forces like friction and gravity affect movement.",
         "resourceLabel": "YouTube: Newtons First Law of Motion — Inertia in Everyday Life",
         "resourceUrl": "https://www.youtube.com/results?search_query=Newtons%20First%20Law%20of%20Motion%20%E2%80%94%20Inertia%20in%20Everyday%20Life%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gwukMqwBB_s",
         "quiz": [
           {
             "q": "According to Newtons first law, what happens to an object at rest unless a force acts on it?",
@@ -34619,6 +34622,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: the War Measures Act was a federal law that allowed the government to take special emergency powers during wartime or crises, at times limiting the civil liberties of Canadians.",
         "resourceLabel": "YouTube: The War Measures Act and Civil Liberties in Canadian History",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20War%20Measures%20Act%20and%20Civil%20Liberties%20in%20Canadian%20History%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cKEh6-Vglbw",
         "quiz": [
           {
             "q": "What was the War Measures Act?",

@@ -35259,6 +35259,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Math strand: students learn that cutting a shape into three equal parts makes thirds, with each part called one third.",
         "resourceLabel": "YouTube: Fractions: Introducing Thirds",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Introducing%20Thirds%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=P10xTqOrUvs",
         "quiz": [
           {
             "q": "If a shape is cut into three equal parts, each part is called ___.",
@@ -35342,6 +35343,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that germs are tiny living things too small to see that can make us sick, and that washing our hands with soap and water helps remove germs and keep us healthy.",
         "resourceLabel": "YouTube: Germs: Staying Healthy and Washing Our Hands",
         "resourceUrl": "https://www.youtube.com/results?search_query=Germs%3A%20Staying%20Healthy%20and%20Washing%20Our%20Hands%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7bkhoDLK_eg",
         "quiz": [
           {
             "q": "What are germs?",

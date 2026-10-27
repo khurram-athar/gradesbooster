@@ -34150,6 +34150,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: travel writing blends observation, narrative, and reflection to record a writers encounter with unfamiliar places and cultures, raising questions about the authority and possible bias of an outsiders perspective.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=zEqyZYrvS4A",
         "quiz": [
           {
             "q": "What does travel writing typically blend together?",
@@ -34269,6 +34270,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: a system of equations in three variables can be solved by systematically eliminating one variable at a time until the system reduces to two equations in two variables, then continuing to substitute back to find all three values.",
         "resourceLabel": "YouTube: Algebra: Solving Systems of Equations in Three Variables",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Systems%20of%20Equations%20in%20Three%20Variables%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0JQeo0yC9OQ",
         "quiz": [
           {
             "q": "What is the goal when solving a system of three equations with three variables?",
@@ -34329,6 +34331,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson examines how a coil of wire rotating in a magnetic field induces an alternating EMF (a generator), and how the same basic device runs in reverse to convert electrical energy into mechanical rotation (a motor). You will use Faraday's law and the concept of motional EMF to explain why the induced voltage varies sinusoidally as the coil rotates, and why a spinning motor also generates a 'back EMF' that opposes the applied current. Real-world efficiency losses (resistive heating, friction) and the role of slip rings/commutators in AC vs DC devices are also covered.",
         "resourceLabel": "YouTube: Generators and Motors: Converting Between Mechanical and Electrical Energy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Generators%20and%20Motors%3A%20Converting%20Between%20Mechanical%20and%20Electrical%20Energy%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RlP97BAez74",
         "quiz": [
           {
             "q": "In an AC generator, a coil rotates at constant angular velocity in a uniform magnetic field. Why is the induced EMF sinusoidal rather than constant?",

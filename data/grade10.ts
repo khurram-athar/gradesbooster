@@ -34257,6 +34257,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: narrative distance, sometimes called psychic distance, describes how close or removed a narrator feels from a characters inner thoughts and emotions, ranging from an intimate, close perspective to a detached, observational one.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=gcYMpoLFO1o",
         "quiz": [
           {
             "q": "What does narrative distance describe?",
@@ -34317,6 +34318,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare surface area and volume of different container shapes and dimensions to explore which designs minimize material use for a fixed volume, connecting geometry to real-world packaging decisions.",
         "resourceLabel": "YouTube: Optimizing Surface Area and Volume of Containers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Optimizing%20Surface%20Area%20and%20Volume%20of%20Containers%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hPRt6eERCu4",
         "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {
@@ -34377,6 +34379,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: the excretory system, especially the kidneys, filters waste products and excess water from the blood, producing urine and helping maintain the bodys internal balance.",
         "resourceLabel": "YouTube: The Excretory System: Kidneys and Waste Removal",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Excretory%20System%3A%20Kidneys%20and%20Waste%20Removal%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dZREDWD_5bA",
         "quiz": [
           {
             "q": "What is the main function of the excretory system?",

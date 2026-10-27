@@ -35197,6 +35197,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: a double negative occurs when two negative words are used in the same clause, which is considered incorrect in standard English and can be fixed by removing one negative word.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=OYRXMP3msDw",
         "quiz": [
           {
             "q": "What is a double negative?",
@@ -35257,6 +35258,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: the area of an irregular shape can be estimated by placing it on a grid and counting the number of whole and partial squares it covers.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=1lRH40BqlXw",
         "quiz": [
           {
             "q": "How can you estimate the area of an irregular shape using a grid?",
@@ -35317,6 +35319,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: bioluminescence is the ability of certain living things, such as fireflies and some deep-sea creatures, to produce their own light through a chemical reaction inside their bodies.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=fYsAK24le6U",
         "quiz": [
           {
             "q": "What is bioluminescence?",
@@ -35377,6 +35380,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: Remembrance Day, observed on November 11, honours Canadians who served and died in wartime, and war memorials across the country help preserve the memory of their sacrifice.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=yFK6SpWI5d4",
         "quiz": [
           {
             "q": "What does Remembrance Day honour?",
