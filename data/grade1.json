@@ -42734,6 +42734,7 @@
         "summary": "Grade 1 Language strand: a fact is a statement that can be proven true, while an opinion is what someone thinks or feels, and readers learn to tell them apart.",
         "resourceLabel": "YouTube: Fact and Opinion: Two Kinds of Statements",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fact%20and%20Opinion%3A%20Two%20Kinds%20of%20Statements%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PE_TPYdCssA",
         "quiz": [
           {
             "q": "What is a fact?",
@@ -42816,6 +42817,7 @@
         "summary": "Grade 1 Math strand: students estimate how many objects are in a large group by comparing it to a group of ten they can already count.",
         "resourceLabel": "YouTube: Estimating Groups of Ten",
         "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Groups%20of%20Ten%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8Qwugoey0dQ",
         "quiz": [
           {
             "q": "Why is it helpful to compare a large group to a group of ten?",
@@ -42898,6 +42900,13 @@
         "summary": "Grade 1 Science strand: turtles and tortoises are reptiles with hard shells that protect their bodies, and turtles usually live near water while tortoises live on land.",
         "resourceLabel": "YouTube: Turtles and Tortoises: Reptiles with Shells",
         "resourceUrl": "https://www.youtube.com/results?search_query=Turtles%20and%20Tortoises%3A%20Reptiles%20with%20Shells%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_ZpGPT6uWRw",
+        "videoUrls": [
+          {
+            "label": "Tortoises",
+            "url": "https://www.youtube.com/watch?v=zb4QLqXzNek"
+          }
+        ],
         "quiz": [
           {
             "q": "What protects a turtle or tortoises body?",
@@ -42981,6 +42990,7 @@
         "summary": "Students learn simple habits that help save water, such as turning off the tap while brushing teeth, and discuss why using water carefully is helpful for the community.",
         "resourceLabel": "YouTube: Saving Water at Home and School",
         "resourceUrl": "https://www.youtube.com/results?search_query=Saving%20Water%20at%20Home%20and%20School%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nTcFXJT0Fsc",
         "topic": "Environment & Sustainability (Social Studies)",
         "quiz": [
           {

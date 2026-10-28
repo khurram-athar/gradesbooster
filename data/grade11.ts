@@ -34586,6 +34586,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a doppelganger is a double or mirror-self figure who resembles the protagonist, often externalizing a hidden or repressed side of that characters identity and creating tension between the self a character presents and the self they conceal.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=o0eyPymT2LU",
         "quiz": [
           {
             "q": "What is a doppelganger in fiction?",
@@ -34706,6 +34707,7 @@ const curriculum: DayContent[] = [
         "summary": "Students study the structure of a neuron -- dendrites, cell body, axon, and myelin sheath -- and the electrical basis of the action potential, including depolarization and repolarization driven by sodium and potassium ion movement.",
         "resourceLabel": "YouTube: Human Biology: The Neuron -- Structure and the Action Potential",
         "resourceUrl": "https://www.youtube.com/results?search_query=Human%20Biology%3A%20The%20Neuron%20--%20Structure%20and%20the%20Action%20Potential%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-uty1gne6zs",
         "topic": "Human Body Systems",
         "quiz": [
           {
@@ -34766,6 +34768,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: dissolving a solute such as road salt in water lowers the freezing point of the resulting solution, a colligative property called freezing point depression, allowing icy roads treated with salt to remain liquid at temperatures below waters normal freezing point.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=oVfGIds8FWE",
         "quiz": [
           {
             "q": "What is freezing point depression?",

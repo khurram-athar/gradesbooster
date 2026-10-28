@@ -34504,6 +34504,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: an abstract or executive summary is a concise overview placed at the start of a longer document that summarizes its purpose, key findings, and conclusions, allowing readers to quickly understand the content without reading the entire text.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=6cMmxnvtaMY",
         "quiz": [
           {
             "q": "What is the main purpose of an abstract or executive summary?",
@@ -34564,6 +34565,7 @@ const curriculum: DayContent[] = [
         "summary": "Students calculate simple and compound interest using their respective formulas, compare the total amounts earned or owed over time, and explain why compound interest grows faster.",
         "resourceLabel": "YouTube: Simple Interest vs Compound Interest",
         "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20Interest%20vs%20Compound%20Interest%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=htxVlB5ywfc",
         "topic": "Financial Literacy",
         "quiz": [
           {
@@ -34624,6 +34626,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: wetlands are transitional ecosystems where land is saturated with water for significant periods, supporting high biodiversity while providing critical services such as filtering pollutants, controlling floods, and storing carbon.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=lMlT4oKZ_Os",
         "quiz": [
           {
             "q": "What defines a wetland ecosystem?",
@@ -34683,6 +34686,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: facing financial collapse during the Great Depression, the Dominion of Newfoundland suspended its own self-government in 1934 and was administered by an appointed Commission of Government under British oversight until Newfoundland eventually joined Canada in 1949.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=dWmVqozNjoM",
         "quiz": [
           {
             "q": "Why did Newfoundland suspend its self-government in 1934?",

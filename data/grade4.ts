@@ -35645,6 +35645,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: a dialect is a way of speaking shared by people in a particular region or group, involving differences in word choice, pronunciation, and expressions, such as pop versus soda.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=jxR2188FvLE",
         "quiz": [
           {
             "q": "What is a dialect?",
@@ -35917,6 +35918,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: a diamante poem is a seven-line poem shaped like a diamond that often contrasts two opposite ideas, using a set pattern of nouns, adjectives, and verbs.",
         "resourceLabel": "YouTube: Diamante Poems: Poems Shaped Like a Diamond",
         "resourceUrl": "https://www.youtube.com/results?search_query=Diamante%20Poems%3A%20Poems%20Shaped%20Like%20a%20Diamond%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=HEVxTVkSRYY",
         "quiz": [
           {
             "q": "What shape does a diamante poem form on the page?",
@@ -35977,6 +35979,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: a composite shape is made by combining two or more simple shapes, such as putting a triangle on top of a square to make a shape like a house.",
         "resourceLabel": "YouTube: Composite Shapes: Combining Simple Shapes to Make New Ones",
         "resourceUrl": "https://www.youtube.com/results?search_query=Composite%20Shapes%3A%20Combining%20Simple%20Shapes%20to%20Make%20New%20Ones%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KbDXgDeFoG4",
         "quiz": [
           {
             "q": "What is a composite shape?",
@@ -36059,6 +36062,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: density describes how tightly packed the matter in an object is, and it helps explain why some objects float higher or sink faster than others.",
         "resourceLabel": "YouTube: Density: Why Some Things Float Higher Than Others",
         "resourceUrl": "https://www.youtube.com/results?search_query=Density%3A%20Why%20Some%20Things%20Float%20Higher%20Than%20Others%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=skIRRfqA1s4",
         "quiz": [
           {
             "q": "What does density describe?",
@@ -36118,6 +36122,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: sports such as hockey and lacrosse hold special cultural significance in Canada, with lacrosse recognized as a summer national sport rooted in Indigenous tradition and hockey deeply woven into Canadian identity.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=kveaqF8LmHw",
         "quiz": [
           {
             "q": "Which sport is widely considered central to Canadian culture and identity?",

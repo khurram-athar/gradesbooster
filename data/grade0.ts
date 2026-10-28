@@ -39009,6 +39009,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practice 'reading' familiar signs, logos, and labels they see every day, like a STOP sign or a cereal box, building the understanding that print carries meaning.",
         "resourceLabel": "YouTube: Environmental Print: Reading Signs We Know",
         "resourceUrl": "https://www.youtube.com/results?search_query=Environmental%20Print%3A%20Reading%20Signs%20We%20Know%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vgU9vHj8N7Q",
         "topic": "Print Concepts",
         "quiz": [
           {
@@ -39130,6 +39131,7 @@ const curriculum: DayContent[] = [
         "summary": "Children learn how a frog begins life as an egg in the water, hatches into a swimming tadpole, and slowly grows legs and lungs to become a hopping frog.",
         "resourceLabel": "YouTube: Frogs: From Tadpole to Frog",
         "resourceUrl": "https://www.youtube.com/results?search_query=Frogs%3A%20From%20Tadpole%20to%20Frog%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=etGmCvIL014",
         "topic": "Life Cycles & Growth",
         "quiz": [
           {
@@ -39190,6 +39192,7 @@ const curriculum: DayContent[] = [
         "summary": "Introduces basic positional and directional language, like left, right, near, and far, to help children describe locations and follow simple directions.",
         "resourceLabel": "YouTube: Left, Right, Near, Far: Learning Simple Directions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Left%2C%20Right%2C%20Near%2C%20Far%3A%20Learning%20Simple%20Directions%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=76C7dfXdx-8",
         "topic": "World Geography & Cultures",
         "quiz": [
           {

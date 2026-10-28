@@ -34800,6 +34800,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: a false cognate, or false friend, is a word in one language that looks or sounds similar to a word in another language but has a different meaning, and recognizing these pairs helps language learners avoid common translation mistakes.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=2cEBt6kXv_8",
         "quiz": [
           {
             "q": "What is a false cognate?",
@@ -34860,6 +34861,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare theoretical probability, calculated from possible outcomes, with experimental probability, calculated from trial results, and explore how experimental results tend to approach theoretical predictions as the number of trials increases.",
         "resourceLabel": "YouTube: Theoretical vs. Experimental Probability",
         "resourceUrl": "https://www.youtube.com/results?search_query=Theoretical%20vs.%20Experimental%20Probability%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Ay5pnC-0bVI",
         "topic": "Probability",
         "quiz": [
           {
@@ -34920,6 +34922,13 @@ const curriculum: DayContent[] = [
         "summary": "Students calculate and reflect on their own ecological footprint, a measure of the natural resources and land needed to support their lifestyle, and identify practical ways to live more sustainably.",
         "resourceLabel": "YouTube: Biology: Ecological Footprint and Sustainable Living",
         "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Ecological%20Footprint%20and%20Sustainable%20Living%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oIB_l_U9t3E",
+        "videoUrls": [
+          {
+            "label": "Sustainable Living",
+            "url": "https://www.youtube.com/watch?v=PBkmOhOk8nk"
+          }
+        ],
         "topic": "Ecosystems & Environment",
         "quiz": [
           {
@@ -34980,6 +34989,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: permafrost is ground that remains frozen for at least two consecutive years, and its thawing in tundra regions due to rising temperatures threatens infrastructure, releases stored greenhouse gases, and reshapes northern landscapes and communities.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=7VV4s4uiwLY",
         "quiz": [
           {
             "q": "What is permafrost?",

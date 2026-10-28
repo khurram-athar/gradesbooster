@@ -34398,6 +34398,7 @@ const curriculum: DayContent[] = [
         "summary": "Introduces postcolonial literary theory, examining how texts represent, resist, or are shaped by the power dynamics of colonialism, with attention to concepts like 'the Other,' hybridity, and the 'writing back' tradition.",
         "resourceLabel": "YouTube: Literary Theory: Postcolonial Criticism -- Reading Empire and Resistance in Text",
         "resourceUrl": "https://www.youtube.com/results?search_query=Literary%20Theory%3A%20Postcolonial%20Criticism%20--%20Reading%20Empire%20and%20Resistance%20in%20Text%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=1nC428rtMB8",
         "topic": "Literary Theory",
         "quiz": [
           {
@@ -34458,6 +34459,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: the birthday problem asks how many people must be in a group before there is a better than even chance that two of them share a birthday, with the surprising answer, just twenty-three, illustrating how quickly coincidence probabilities grow in combinatorial settings.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=9G0w61pZPig",
         "quiz": [
           {
             "q": "What does the birthday problem ask?",
@@ -34518,6 +34520,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: the dot product combines two vectors to produce a single scalar value, calculated by multiplying corresponding components and summing the results, and it can reveal the angle between two vectors.",
         "resourceLabel": "YouTube: Geometry: An Introduction to the Dot Product of Vectors",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20An%20Introduction%20to%20the%20Dot%20Product%20of%20Vectors%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=VzX8KJKFhlM",
         "quiz": [
           {
             "q": "What type of value does the dot product of two vectors produce?",
@@ -34578,6 +34581,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson develops Hooke's Law, F = -kx, to describe the restoring force of an ideal spring and connects it to the elastic potential energy stored when a spring is stretched or compressed, E_e = 1/2 kx^2. You will practice combining spring force and energy relationships with conservation of mechanical energy to analyze systems such as a mass launched by a compressed spring or a block oscillating against a spring on a frictionless surface. The lesson also distinguishes the linear force-displacement graph from the resulting area-under-the-curve energy calculation.",
         "resourceLabel": "YouTube: Hooke's Law and Elastic Potential Energy in Springs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Hooke%27s%20Law%20and%20Elastic%20Potential%20Energy%20in%20Springs%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OmMIOZtM1ks",
         "quiz": [
           {
             "q": "A spring with spring constant k = 250 N/m is compressed by 0.12 m. How much elastic potential energy is stored?",

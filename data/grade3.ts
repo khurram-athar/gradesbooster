@@ -34790,6 +34790,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that community centres are public buildings where people can take part in sports, classes, and activities together.",
         "resourceLabel": "YouTube: Community Centres: Places to Play and Learn",
         "resourceUrl": "https://www.youtube.com/results?search_query=Community%20Centres%3A%20Places%20to%20Play%20and%20Learn%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QtpkaploWY0",
         "quiz": [
           {
             "q": "What is a community centre?",
@@ -35424,6 +35425,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that many goods travel a long journey, from being made in a factory, to being shipped by truck, train, or boat, before arriving at a store.",
         "resourceLabel": "YouTube: How Goods Travel: From Factory to Store",
         "resourceUrl": "https://www.youtube.com/results?search_query=How%20Goods%20Travel%3A%20From%20Factory%20to%20Store%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WazK8e88axE",
         "quiz": [
           {
             "q": "Where are many goods first made?",
@@ -35514,6 +35516,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: transition words such as first, next, however, and finally help connect ideas within and between sentences, making writing easier to follow.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=bJk_33K-1AU",
         "quiz": [
           {
             "q": "What do transition words help do?",
@@ -35574,6 +35577,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: students double two-digit numbers by adding the number to itself, such as doubling 14 to get 28.",
         "resourceLabel": "YouTube: Doubling Two-Digit Numbers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Doubling%20Two-Digit%20Numbers%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oCBbRXbbDsg",
         "quiz": [
           {
             "q": "What is double 14?",
@@ -35656,6 +35660,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a fossil is the preserved trace or remains of a plant or animal that lived a very long time ago, giving us clues about life on Earth in the past.",
         "resourceLabel": "YouTube: Fossils: Clues from Long Ago",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fossils%3A%20Clues%20from%20Long%20Ago%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZKtkrqOpECI",
         "quiz": [
           {
             "q": "What is a fossil?",
@@ -35739,6 +35744,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that Canada has two official languages, English and French, and that both languages are used in government documents and services.",
         "resourceLabel": "YouTube: Canadas Two Official Languages: English and French",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadas%20Two%20Official%20Languages%3A%20English%20and%20French%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Wo-_ixQpw1s",
         "quiz": [
           {
             "q": "How many official languages does Canada have?",

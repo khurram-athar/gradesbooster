@@ -35447,6 +35447,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: a folktale is a traditional story passed down through generations, often explaining customs or beliefs of a culture and featuring simple, memorable characters.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=gg-kCDT5Ctk",
         "quiz": [
           {
             "q": "What is a folktale?",
@@ -35507,6 +35508,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: expanded form breaks a large number into the sum of the values of each digit based on place value, such as writing 4,532 as 4000 + 500 + 30 + 2.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=qeAVXeETETI",
         "quiz": [
           {
             "q": "What does expanded form show about a number?",
@@ -35567,6 +35569,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: echolocation is a method some animals, such as bats, use to navigate and find prey by emitting sounds and listening for the echoes that bounce back off nearby objects.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=fSIFU8OTwrg",
         "quiz": [
           {
             "q": "What is echolocation?",
@@ -35627,6 +35630,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the Supreme Court of Canada is the highest court in the country, making final decisions on the most important legal cases.",
         "resourceLabel": "YouTube: The Supreme Court of Canada: The Highest Court in the Land",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Supreme%20Court%20of%20Canada%3A%20The%20Highest%20Court%20in%20the%20Land%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OqyooLXn4oc",
         "quiz": [
           {
             "q": "What is the Supreme Court of Canada?",
