@@ -32518,8 +32518,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20An%20Introduction%20to%20Conic%20Sections%20%E2%80%94%20Ellipses%20and%20Hyperbolas%20grade%2012%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=OPSCKXXvWiM",
         "videoUrls": [
-          { "label": "Ellipses", "url": "https://www.youtube.com/watch?v=OPSCKXXvWiM" },
-          { "label": "Hyperbolas", "url": "https://www.youtube.com/watch?v=Iu-4-fizlD4" }
+          {
+            "label": "Ellipses",
+            "url": "https://www.youtube.com/watch?v=OPSCKXXvWiM"
+          },
+          {
+            "label": "Hyperbolas",
+            "url": "https://www.youtube.com/watch?v=Iu-4-fizlD4"
+          }
         ],
         "quiz": [
           {
@@ -34964,6 +34970,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a rational function has an oblique (slant) asymptote when the degree of the numerator is exactly one more than the degree of the denominator, and use polynomial long division to find the equation of the slant asymptote.",
         "resourceLabel": "YouTube: Rational Functions: Oblique (Slant) Asymptotes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Oblique%20%28Slant%29%20Asymptotes%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=BXzyY6IWq20",
         "topic": "Functions: Rational",
         "quiz": [
           {
@@ -35024,6 +35031,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Math strand: the scalar projection of one vector onto another measures how much of the first vector points in the direction of the second, while the vector projection expresses that amount as a vector itself, both calculated using the dot product.",
         "resourceLabel": "YouTube: Vectors: Scalar and Vector Projections",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20Scalar%20and%20Vector%20Projections%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MDHnNExf3ms",
         "quiz": [
           {
             "q": "What does a scalar projection measure?",

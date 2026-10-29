@@ -32937,8 +32937,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Scale%20Drawings%20and%20Scale%20Factor%20grade%208%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=zGnUK_ITJLo",
         "videoUrls": [
-          { "label": "Scale Drawings", "url": "https://www.youtube.com/watch?v=zGnUK_ITJLo" },
-          { "label": "Scale Factor", "url": "https://www.youtube.com/watch?v=P1f3sJpIYGI" }
+          {
+            "label": "Scale Drawings",
+            "url": "https://www.youtube.com/watch?v=zGnUK_ITJLo"
+          },
+          {
+            "label": "Scale Factor",
+            "url": "https://www.youtube.com/watch?v=P1f3sJpIYGI"
+          }
         ],
         "topic": "2D/3D Geometry & Shapes",
         "quiz": [
@@ -35320,6 +35326,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand review: students revisit British Columbia and Prince Edward Island joining Confederation, the Manitoba Act, the British North America Act, Sir John A. Macdonald, the Supreme Court of Canada, the North-West Territories, Wilfrid Laurier, and Alberta and Saskatchewan joining Confederation.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "videoUrl": "https://www.youtube.com/watch?v=XRIkuVRjzK4",
+        "videoUrls": [
+          {
+            "label": "British Columbia Joins Confederation in 1871",
+            "url": "https://www.youtube.com/watch?v=XRIkuVRjzK4"
+          },
+          {
+            "label": "The Manitoba Act of 1870 and the Creation of Manitoba",
+            "url": "https://www.youtube.com/watch?v=sRe0b5fFu6E"
+          },
+          {
+            "label": "Sir John A. Macdonald: Canada's First Prime Minister",
+            "url": "https://www.youtube.com/watch?v=Dx_v5VKWW_k"
+          },
+          {
+            "label": "Wilfrid Laurier and the Growth of Canada in the Early 1900s",
+            "url": "https://www.youtube.com/watch?v=QYoIkoec8Tc"
+          }
+        ],
         "quiz": [
           {
             "q": "In what year did British Columbia join Confederation?",

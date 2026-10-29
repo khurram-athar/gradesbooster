@@ -35076,6 +35076,7 @@ const curriculum: DayContent[] = [
         "summary": "Students convert numbers between standard form and scientific notation and use exponent rules to multiply and divide numbers written in scientific notation, applying these skills to real-world measurements.",
         "resourceLabel": "YouTube: Scientific Notation and Operations with Very Large or Small Numbers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Scientific%20Notation%20and%20Operations%20with%20Very%20Large%20or%20Small%20Numbers%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yX6Mq9whsX0",
         "topic": "Exponents & Powers",
         "quiz": [
           {

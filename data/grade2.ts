@@ -42968,6 +42968,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn positional language, describing where an object is located using words such as above, below, inside, and outside.",
         "resourceLabel": "YouTube: Position Words: Above, Below, Inside, and Outside",
         "resourceUrl": "https://www.youtube.com/results?search_query=Position%20Words%3A%20Above%2C%20Below%2C%20Inside%2C%20and%20Outside%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6FTh2L8Woz0",
         "quiz": [
           {
             "q": "How many sides does a triangle have?",
@@ -43111,6 +43112,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn simple fire safety steps, such as staying low to avoid smoke, using stop drop and roll if clothing catches fire, and getting to a safe meeting spot outside.",
         "resourceLabel": "YouTube: Fire Safety: What to Do If There Is a Fire",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fire%20Safety%3A%20What%20to%20Do%20If%20There%20Is%20a%20Fire%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MmCLoMjc86Y",
         "quiz": [
           {
             "q": "What three steps should you do if your clothing catches fire?",

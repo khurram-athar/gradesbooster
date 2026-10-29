@@ -32689,8 +32689,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Least%20Common%20Multiple%20and%20Greatest%20Common%20Factor%20grade%206%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=CUEOL3_Wm3Y",
         "videoUrls": [
-          { "label": "Greatest Common Factor", "url": "https://www.youtube.com/watch?v=CUEOL3_Wm3Y" },
-          { "label": "Least Common Multiple", "url": "https://www.youtube.com/watch?v=Nu6AC6X3_E4" }
+          {
+            "label": "Greatest Common Factor",
+            "url": "https://www.youtube.com/watch?v=CUEOL3_Wm3Y"
+          },
+          {
+            "label": "Least Common Multiple",
+            "url": "https://www.youtube.com/watch?v=Nu6AC6X3_E4"
+          }
         ],
         "quiz": [
           {
@@ -35356,6 +35362,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn how Canadian troops captured Vimy Ridge in 1917 through careful planning and teamwork, and why the battle is remembered as a defining moment in the growth of Canadian national identity.",
         "resourceLabel": "YouTube: Vimy Ridge and Canada's Role in the First World War",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vimy%20Ridge%20and%20Canada%27s%20Role%20in%20the%20First%20World%20War%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iSEfxB3Lj74",
         "topic": "Canadian History: Early 20th Century",
         "quiz": [
           {

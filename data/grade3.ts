@@ -36152,6 +36152,21 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand review: students revisit correcting run-on sentences, etymology, identifying a central argument, writing a formal email, interviewing skills, collective nouns, comparing a book and its film adaptation, transition words, and writing an eyewitness news report.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=tctBlKEg1dw",
+        "videoUrls": [
+          {
+            "label": "Grammar: Correcting Run-on Sentences",
+            "url": "https://www.youtube.com/watch?v=tctBlKEg1dw"
+          },
+          {
+            "label": "Vocabulary: Etymology — Where Words Come From",
+            "url": "https://www.youtube.com/watch?v=gM2SVjCqJxY"
+          },
+          {
+            "label": "Oral Communication: Interviewing Skills",
+            "url": "https://www.youtube.com/watch?v=yMAJjw9p2pY"
+          }
+        ],
         "quiz": [
           {
             "q": "What is a run-on sentence?",
@@ -36211,6 +36226,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Math strand: perimeter is the distance all the way around the outside edge of a shape, like walking around the edge of a garden.",
         "resourceLabel": "YouTube: Perimeter: Walking Around the Edge of a Shape",
         "resourceUrl": "https://www.youtube.com/results?search_query=Perimeter%3A%20Walking%20Around%20the%20Edge%20of%20a%20Shape%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mqEOhagQnU8",
         "quiz": [
           {
             "q": "What is the perimeter of a shape?",
@@ -36294,6 +36310,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that erosion happens when wind or water slowly wears away and moves bits of soil or rock, gradually changing the shape of the land over time.",
         "resourceLabel": "YouTube: Erosion: How Wind and Water Change the Land",
         "resourceUrl": "https://www.youtube.com/results?search_query=Erosion%3A%20How%20Wind%20and%20Water%20Change%20the%20Land%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-43_HBy9huc",
         "quiz": [
           {
             "q": "What do we call it when wind or water slowly wears away soil or rock?",

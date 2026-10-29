@@ -43539,6 +43539,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn simple safety rules for being near water, such as swimming with an adult and wearing a life jacket, connecting science understanding of water to real-life safety.",
         "resourceLabel": "YouTube: Safety Around Water: Staying Safe Near Lakes and Pools",
         "resourceUrl": "https://www.youtube.com/results?search_query=Safety%20Around%20Water%3A%20Staying%20Safe%20Near%20Lakes%20and%20Pools%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FNg2w2wQwmY",
         "topic": "Human Body & Health",
         "quiz": [
           {

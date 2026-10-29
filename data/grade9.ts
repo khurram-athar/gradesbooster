@@ -35365,6 +35365,7 @@ const curriculum: DayContent[] = [
         "summary": "Students critically analyze graphs and statistics for misleading features such as truncated axes, inconsistent scales, and selectively reported data.",
         "resourceLabel": "YouTube: Identifying Misleading Graphs and Statistics",
         "resourceUrl": "https://www.youtube.com/results?search_query=Identifying%20Misleading%20Graphs%20and%20Statistics%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=E91bGT9BjYk",
         "topic": "Data Literacy",
         "quiz": [
           {
@@ -35425,6 +35426,7 @@ const curriculum: DayContent[] = [
         "summary": "Students calculate electric power using P = IV, connect the power ratings on household appliances to energy consumption over time, and estimate the cost of electricity usage in kilowatt-hours.",
         "resourceLabel": "YouTube: Physics: Electric Power and Energy Consumption",
         "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Electric%20Power%20and%20Energy%20Consumption%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=i1TJV-9ljDs",
         "topic": "Electricity & Magnetism",
         "quiz": [
           {

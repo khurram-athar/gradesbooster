@@ -36531,6 +36531,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: a prism has two matching flat ends connected by rectangular sides, while a pyramid has one flat base and triangular sides that meet at a single point.",
         "resourceLabel": "YouTube: Geometry: Prisms and Pyramids — Comparing 3D Shapes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Prisms%20and%20Pyramids%20%E2%80%94%20Comparing%203D%20Shapes%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eVDqk-39TZQ",
         "quiz": [
           {
             "q": "What shape do the two matching ends of a prism usually have?",
@@ -36591,6 +36592,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: a food web shows how many different food chains connect together, showing all the ways animals in a habitat eat and are eaten.",
         "resourceLabel": "YouTube: Food Webs: Connecting Many Food Chains",
         "resourceUrl": "https://www.youtube.com/results?search_query=Food%20Webs%3A%20Connecting%20Many%20Food%20Chains%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lmDn2o1HETI",
         "quiz": [
           {
             "q": "What is a food web?",
@@ -36674,6 +36676,7 @@ const curriculum: DayContent[] = [
         "summary": "Students investigate how early societies understood illness and healing, from herbal remedies and rituals to early surgical tools, and compare these practices to modern medicine.",
         "resourceLabel": "YouTube: Social Studies: Early Societies: Medicine and Healing Practices",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Early%20Societies%3A%20Medicine%20and%20Healing%20Practices%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2rvLEJrQm7g",
         "topic": "Early Societies",
         "quiz": [
           {
