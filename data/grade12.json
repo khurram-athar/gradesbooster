@@ -34651,6 +34651,7 @@
         "summary": "Grade 12 English strand: the aphorism is a brief, memorable statement expressing a general truth or observation with concentrated wit, closely related to the epigram, a short, pointed piece of writing often turning on a clever or surprising final line.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=csgm6Hf-4Bk",
         "quiz": [
           {
             "q": "What does an aphorism typically express?",
@@ -34711,6 +34712,7 @@
         "resourceLabel": "YouTube: Sketching Rational Functions: Combining All Key Features",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sketching%20Rational%20Functions%3A%20Combining%20All%20Key%20Features%20grade%2012%20educational",
         "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=g6e3We1r7vE",
         "quiz": [
           {
             "q": "When sketching a rational function, which feature indicates where the graph is undefined but does not go to infinity?",
@@ -34770,6 +34772,7 @@
         "summary": "Grade 9 Math strand: mathematical induction proves a statement is true for all natural numbers by first establishing a base case and then showing that if the statement holds for one value, it must also hold for the next.",
         "resourceLabel": "YouTube: Algebra: An Introduction to Mathematical Proof by Induction",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20An%20Introduction%20to%20Mathematical%20Proof%20by%20Induction%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dMn5w4_ztSw",
         "quiz": [
           {
             "q": "What does mathematical induction prove?",
@@ -34829,6 +34832,7 @@
         "summary": "Grade 12 Physics strand: the Global Positioning System requires corrections from both special and general relativity, since satellite clocks run slower due to their high orbital speed yet faster due to the weaker gravitational field at orbital altitude, and neglecting either effect would cause rapidly accumulating position errors.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=C6012z6NmUU",
         "quiz": [
           {
             "q": "Why do satellite clocks in the Global Positioning System require relativistic corrections?",

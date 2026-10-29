@@ -34832,6 +34832,7 @@
         "summary": "Grade 11 English strand: responding effectively to unplanned audience questions after a presentation requires active listening, brief clarifying restatement, and organized extemporaneous speaking that stays composed and on topic without the benefit of a prepared script.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=41ZBTgYSl0c",
         "quiz": [
           {
             "q": "What does handling audience questions well require beyond a prepared script?",
@@ -34892,6 +34893,7 @@
         "summary": "Grade 9 Math strand: the Pythagorean trigonometric identity states that sine squared plus cosine squared of an angle always equals one, a relationship derived directly from the Pythagorean Theorem applied to the unit circle.",
         "resourceLabel": "YouTube: Trigonometry: The Pythagorean Trigonometric Identity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20The%20Pythagorean%20Trigonometric%20Identity%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_xoXnqoIxJI",
         "quiz": [
           {
             "q": "What does the Pythagorean trigonometric identity state?",
@@ -34953,6 +34955,7 @@
         "resourceLabel": "YouTube: Ecology: Island Biogeography and Species-Area Relationships",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ecology%3A%20Island%20Biogeography%20and%20Species-Area%20Relationships%20grade%2011%20educational",
         "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=9SJnfR3G40Q",
         "quiz": [
           {
             "q": "According to island biogeography theory, larger islands tend to support more species mainly because they have:",

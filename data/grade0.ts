@@ -39260,6 +39260,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Story Sequencing: Putting the Pictures in Order",
         "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Sequencing%3A%20Putting%20the%20Pictures%20in%20Order%20kindergarten%20educational",
         "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=3j-8i4qvx64",
         "quiz": [
           {
             "q": "If a story shows a seed, a sprout, and then a flower, which comes first?",
@@ -39320,6 +39321,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Comparing Area: Which Covers More",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Area%3A%20Which%20Covers%20More%20kindergarten%20educational",
         "topic": "Measurement: Units",
+        "videoUrl": "https://www.youtube.com/watch?v=8cz_IB65pZM",
         "quiz": [
           {
             "q": "If a large placemat completely covers a smaller placemat when stacked on top, the large placemat covers",
@@ -39380,6 +39382,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Earthworms: Helpers Under the Ground",
         "resourceUrl": "https://www.youtube.com/results?search_query=Earthworms%3A%20Helpers%20Under%20the%20Ground%20kindergarten%20educational",
         "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=l-zc_1vjLnI",
         "quiz": [
           {
             "q": "Where do earthworms usually live?",
@@ -39440,6 +39443,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Map Symbols: What Do the Pictures Mean?",
         "resourceUrl": "https://www.youtube.com/results?search_query=Map%20Symbols%3A%20What%20Do%20the%20Pictures%20Mean%3F%20kindergarten%20educational",
         "topic": "World Geography & Cultures",
+        "videoUrl": "https://www.youtube.com/watch?v=dp8VOG8Cgag",
         "quiz": [
           {
             "q": "A small picture on a map that stands for something real is called a...",

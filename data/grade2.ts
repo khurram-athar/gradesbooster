@@ -42607,6 +42607,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to match uppercase, or capital, letters with their lowercase partners, such as matching a big B with a small b.",
         "resourceLabel": "YouTube: Uppercase and Lowercase Letters: Matching Big and Small",
         "resourceUrl": "https://www.youtube.com/results?search_query=Uppercase%20and%20Lowercase%20Letters%3A%20Matching%20Big%20and%20Small%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=EOX784OXmPs",
         "quiz": [
           {
             "q": "Which sentence uses capital letters correctly?",
@@ -42687,6 +42688,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: students skip count by 25s to quickly find the value of a group of quarters, such as 25, 50, 75, and 100 cents.",
         "resourceLabel": "YouTube: Skip Counting by 25s to Count Money",
         "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%2025s%20to%20Count%20Money%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ripoBT7rweo",
         "quiz": [
           {
             "q": "What comes next: 25, 50, 75, ___?",
@@ -42747,6 +42749,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: coral reefs are built by tiny animals called coral polyps, which live together in large colonies and form hard skeletons over time.",
         "resourceLabel": "YouTube: Coral Polyps: The Tiny Animals That Build Reefs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Coral%20Polyps%3A%20The%20Tiny%20Animals%20That%20Build%20Reefs%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=61Fh-0gCrlQ",
         "quiz": [
           {
             "q": "What tiny animals build coral reefs?",
@@ -42807,6 +42810,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a zoo is a community place where people can visit and learn about animals from around the world while zookeepers care for their needs.",
         "resourceLabel": "YouTube: Our Local Zoo: Learning About Animals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Local%20Zoo%3A%20Learning%20About%20Animals%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=VTmd1bZ3e9s",
         "quiz": [
           {
             "q": "What do we call a place where people can visit and learn about animals?",

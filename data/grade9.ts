@@ -35057,6 +35057,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Writing: Writing a Dystopian or Speculative Fiction Scene (World-Building Basics)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20a%20Dystopian%20or%20Speculative%20Fiction%20Scene%20%28World-Building%20Basics%29%20grade%209%20educational",
         "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=h2l1VD5ffPc",
         "quiz": [
           {
             "q": "What defines a dystopian setting in speculative fiction?",
@@ -35117,6 +35118,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Sampling Methods and Bias in Data Collection",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sampling%20Methods%20and%20Bias%20in%20Data%20Collection%20grade%209%20educational",
         "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=Rf-fIpB4D50",
         "quiz": [
           {
             "q": "A survey that includes only people who choose to respond online is an example of:",
@@ -35176,6 +35178,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: karst topography forms when slightly acidic water gradually dissolves soluble rock such as limestone, creating sinkholes, underground caves, and dramatic surface features over long periods of time.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=XMgattdqc_I",
         "quiz": [
           {
             "q": "What type of rock is most commonly associated with karst topography?",
@@ -35235,6 +35238,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: global financial centres, such as major cities with concentrated banking, stock exchange, and insurance activity, serve as hubs that connect national economies to international capital flows and shape patterns of global economic influence.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=wdfF-doIVjo",
         "quiz": [
           {
             "q": "What characterizes a global financial centre?",

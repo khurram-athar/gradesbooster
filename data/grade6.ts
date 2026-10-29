@@ -34890,6 +34890,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: a cliche is an expression that has been used so often it has lost much of its original impact, so writers often replace cliches with fresh, original language.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=tHNQfEeLN7c",
         "quiz": [
           {
             "q": "What is a cliche?",
@@ -35010,6 +35011,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: 3D printing is a technology that builds three-dimensional objects layer by layer from a digital design, allowing for rapid prototyping and customized manufacturing in fields from medicine to engineering.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=f94CnlQ0eq4",
         "quiz": [
           {
             "q": "How does a 3D printer create an object?",
@@ -35070,6 +35072,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Canada's Boreal Forest and Why It Matters",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Boreal%20Forest%20and%20Why%20It%20Matters%20grade%206%20educational",
         "topic": "Environment & Sustainability (Social Studies)",
+        "videoUrl": "https://www.youtube.com/watch?v=qd2cfmlCGXU",
         "quiz": [
           {
             "q": "The boreal forest is mostly made up of which type of trees?",

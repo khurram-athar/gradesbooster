@@ -36188,6 +36188,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: illustrations, diagrams, and photographs in non-fiction texts provide visual information that supports and extends the written words, helping readers better understand the topic.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=GQ03w1Igolc",
         "quiz": [
           {
             "q": "What is the purpose of illustrations in a non-fiction text?",
@@ -36248,6 +36249,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: students combine coins and bills to make amounts of money up to fifty dollars.",
         "resourceLabel": "YouTube: Money: Making Amounts Up to Fifty Dollars",
         "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Making%20Amounts%20Up%20to%20Fifty%20Dollars%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tq0gVkCNVcE",
         "quiz": [
           {
             "q": "How many ten dollar bills would you need to make fifty dollars?",
@@ -36331,6 +36333,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: humans have different types of teeth, including incisors, canines, and molars, each shaped for a different job in biting and chewing food, and healthy habits help protect teeth from decay.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=8FOl-jFusaM",
         "quiz": [
           {
             "q": "What job do incisors do?",
@@ -36392,6 +36395,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Social Studies: Confederation: How Canada Became a Country",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Confederation%3A%20How%20Canada%20Became%20a%20Country%20grade%204%20educational",
         "topic": "History: Colonial & 19th Century Canada",
+        "videoUrl": "https://www.youtube.com/watch?v=mUXJk6o0WeU",
         "quiz": [
           {
             "q": "In what year did Confederation create the Dominion of Canada?",
