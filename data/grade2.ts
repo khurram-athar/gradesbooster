@@ -43341,6 +43341,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: our sense of balance is controlled by a part deep inside our ear, helping us stand, walk, and stay steady without falling.",
         "resourceLabel": "YouTube: Our Sense of Balance: The Inner Ear",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Sense%20of%20Balance%3A%20The%20Inner%20Ear%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=slzh3scDm2U",
         "quiz": [
           {
             "q": "What sense helps us stand and walk without falling?",

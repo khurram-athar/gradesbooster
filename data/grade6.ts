@@ -34957,6 +34957,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: converting between units of area, such as square centimetres and square metres, requires squaring the linear conversion factor since area involves two dimensions.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=E1JpENSBQjA",
         "quiz": [
           {
             "q": "Why must the linear conversion factor be squared when converting units of area?",
