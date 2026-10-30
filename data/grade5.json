@@ -36144,62 +36144,63 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Canadian Border Services Agency and Keeping Our Borders Safe",
-        "summary": "Grade 3 Social Studies strand: the Canadian Border Services Agency helps keep the country safe by checking travellers and goods entering Canada at airports, land crossings, and ports.",
-        "resourceLabel": "YouTube: Social Studies: The Canadian Border Services Agency and Keeping Our Borders Safe",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Canadian%20Border%20Services%20Agency%20and%20Keeping%20Our%20Borders%20Safe%20grade%205%20educational",
+        "title": "The Beaver: Canada's National Animal Symbol",
+        "summary": "Grade 5 Social Studies strand: the beaver was officially adopted as a symbol of Canada because of its historical importance to the fur trade, and it is recognized today for its industrious, hardworking nature and its role as a keystone species that shapes wetland ecosystems.",
+        "resourceLabel": "YouTube: The Beaver: Canada's National Animal Symbol",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Beaver%3A%20Canada%27s%20National%20Animal%20Symbol%20grade%205%20educational",
         "quiz": [
           {
-            "q": "What does the Canadian Border Services Agency help do?",
+            "q": "Why was the beaver chosen as a symbol of Canada?",
             "options": [
-              "Keep the country safe by checking travellers and goods entering Canada",
-              "Build roads and highways",
-              "Deliver mail across the country",
-              "Run public libraries"
+              "Because of its historical importance to the fur trade",
+              "Because it is the fastest animal in Canada",
+              "Because it only lives in one province",
+              "Because it was Canada's first pet"
             ],
             "answer": 0
           },
           {
-            "q": "Where might border services officers work?",
+            "q": "What quality is the beaver often recognized for?",
             "options": [
-              "Only inside schools",
-              "Only inside hospitals",
-              "Only inside grocery stores",
-              "Airports, land crossings, and ports"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might officers check goods entering the country?",
-            "options": [
-              "To avoid ever checking anything",
-              "To make sure items are allowed and safe",
-              "To slow down every traveller with no reason",
-              "To remove all goods from the country"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What might a traveller be asked to show when entering Canada?",
-            "options": [
-              "Identification, such as a passport",
-              "A grocery list",
-              "Nothing at all is ever required",
-              "A library card only"
+              "Being industrious and hardworking",
+              "Being the loudest animal in Canada",
+              "Being unable to swim",
+              "Sleeping through the entire year"
             ],
             "answer": 0
           },
           {
-            "q": "Why is border security important to a country?",
+            "q": "What does a beaver build to create its habitat?",
             "options": [
-              "It only matters for one city",
-              "It prevents any travel from happening",
-              "It helps protect the safety and rules of the country",
-              "It has no importance at all"
+              "Dams and lodges",
+              "Underground tunnels only",
+              "Nests high in trees",
+              "Sand burrows on beaches"
             ],
-            "answer": 2
+            "answer": 0
+          },
+          {
+            "q": "What is a 'keystone species'?",
+            "options": [
+              "A species that has a major effect on shaping its ecosystem",
+              "A species that lives only in zoos",
+              "A species that cannot reproduce",
+              "A species found only in cities"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where can you find the beaver as a Canadian symbol?",
+            "options": [
+              "On the Canadian nickel (five-cent coin)",
+              "Only in Canadian passports",
+              "Only on provincial license plates",
+              "Nowhere official at all"
+            ],
+            "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=SuAOKyQd5-U"
       }
     ]
   },
@@ -36392,63 +36393,64 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Canadas National Parks System — Protecting Natural Spaces",
-        "summary": "Grade 5 Social Studies strand: Canadas national parks are protected natural areas managed by the federal government to conserve wildlife, ecosystems, and landscapes for future generations to enjoy.",
+        "title": "The Rocky Mountains: Landforms of Western Canada",
+        "summary": "Grade 5 Social Studies strand: the Rocky Mountains stretch through British Columbia and Alberta, forming a dramatic mountain range shaped over millions of years that influences the climate, wildlife, and economy of Western Canada through activities like tourism, forestry, and hydroelectric power.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
         "quiz": [
           {
-            "q": "What is the purpose of a national park?",
+            "q": "Which two provinces does the Rocky Mountain range pass through?",
             "options": [
-              "To protect wildlife, ecosystems, and landscapes for future generations",
-              "To sell natural resources as quickly as possible",
-              "To prevent anyone from ever visiting the area",
-              "To build as many new roads as possible"
+              "British Columbia and Alberta",
+              "Ontario and Quebec",
+              "Nova Scotia and New Brunswick",
+              "Manitoba and Saskatchewan"
             ],
             "answer": 0
           },
           {
-            "q": "Who generally manages Canadas national parks?",
+            "q": "How were the Rocky Mountains formed?",
             "options": [
-              "Foreign governments",
-              "The federal government",
-              "A single private company",
-              "Individual students"
+              "Shaped over millions of years by geological forces",
+              "Built by early settlers in a single decade",
+              "Created overnight by a single earthquake",
+              "Formed entirely underwater"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one way the Rocky Mountains affect the region's economy?",
+            "options": [
+              "Through activities like tourism, forestry, and hydroelectric power",
+              "By preventing any economic activity nearby",
+              "Through oil exports exclusively",
+              "By being completely uninhabited and unused"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do the Rocky Mountains influence the climate of Western Canada?",
+            "options": [
+              "They have no effect on climate at all",
+              "They can affect weather patterns and precipitation",
+              "They make Western Canada warmer than the equator",
+              "They eliminate winter entirely"
             ],
             "answer": 1
           },
           {
-            "q": "Why might a country choose to set aside land as a national park instead of developing it?",
+            "q": "What kind of landform are the Rocky Mountains an example of?",
             "options": [
-              "Protecting land is never valuable to a country",
-              "To make more space for factories and housing",
-              "National parks provide no benefit to wildlife",
-              "To preserve natural beauty and biodiversity for the future"
+              "A mountain range",
+              "A river delta",
+              "A desert plateau",
+              "An island chain"
             ],
-            "answer": 3
-          },
-          {
-            "q": "What might visitors typically do in a national park?",
-            "options": [
-              "Build permanent factories",
-              "Hike, camp, and observe wildlife responsibly",
-              "Ignore all posted park rules",
-              "Remove protected plants and animals"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is it important to follow rules, such as staying on marked trails, in a national park?",
-            "options": [
-              "Rules in national parks are never important",
-              "Following rules helps protect fragile ecosystems from damage",
-              "Marked trails are only there to count the number of visitors",
-              "Rules are required only for park staff, not visitors"
-            ],
-            "answer": 1
+            "answer": 0
           }
         ],
-        "topic": "Canadian Places & Symbols (Basic)"
+        "topic": "Canadian Places & Symbols (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=A30iarFVQs0"
       }
     ]
   },
@@ -53536,27 +53538,27 @@
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Canadian Border Services Agency and Keeping Our Borders Safe; Canadas National Parks System — Protecting Natural Spaces; Social Studies: Indigenous Languages of Canada; The House of Commons: Where Our Laws Are Debated",
+        "summary": "A practice recap of recent Social Studies lessons: The Beaver: Canada's National Animal Symbol; The Rocky Mountains: Landforms of Western Canada; Social Studies: Indigenous Languages of Canada; The House of Commons: Where Our Laws Are Debated",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
         "quiz": [
           {
-            "q": "What does the Canada Border Services Agency (CBSA) help do?",
+            "q": "Why was the beaver chosen as a symbol of Canada?",
             "options": [
-              "Build and repair roads and highways",
-              "Keep the country safe by checking people and goods entering Canada",
-              "Deliver mail and parcels across the country",
-              "Run public libraries in each city"
+              "Because of its historical importance to the fur trade",
+              "Because it is the fastest animal in Canada",
+              "Because it only lives in one province",
+              "Because it was Canada's first pet"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "What is the purpose of a national park?",
+            "q": "Which two provinces does the Rocky Mountain range pass through?",
             "options": [
-              "To protect wildlife, ecosystems, and landscapes for future generations",
-              "To sell natural resources as quickly as possible",
-              "To prevent anyone from ever visiting the area",
-              "To build as many new roads as possible"
+              "British Columbia and Alberta",
+              "Ontario and Quebec",
+              "Nova Scotia and New Brunswick",
+              "Manitoba and Saskatchewan"
             ],
             "answer": 0
           },

@@ -31434,62 +31434,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "History",
-        "title": "The Rowell-Sirois Commission and Canadian Federalism",
-        "summary": "Grade 10 History strand: established in the late 1930s during the Great Depression, the Rowell-Sirois Commission examined the financial relationship between the federal and provincial governments, recommending reforms that reshaped Canadian federalism and expanded the federal governments role in social welfare.",
+        "title": "The Governor General of Canada: Role and Evolution of the Office",
+        "summary": "Grade 10 History strand: the Governor General is the Crown's representative in Canada, performing ceremonial, constitutional, and diplomatic duties such as giving royal assent to laws, opening Parliament, and representing Canada at home and abroad, with the role evolving over the twentieth century from a British appointee toward a fully Canadian office.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
         "quiz": [
           {
-            "q": "When was the Rowell-Sirois Commission established?",
+            "q": "What is the main role of the Governor General?",
             "options": [
-              "In the late 1930s, during the Great Depression",
-              "Immediately after Confederation in 1867",
-              "After World War II in the 1950s",
-              "In the early 1800s"
+              "The Crown's representative in Canada performing ceremonial and constitutional duties",
+              "The head of Canada's armed forces in wartime only",
+              "An elected official who leads the federal government",
+              "A judge on the Supreme Court of Canada"
             ],
             "answer": 0
           },
           {
-            "q": "What relationship did the Rowell-Sirois Commission examine?",
+            "q": "What does it mean for a bill to receive royal assent?",
             "options": [
-              "The relationship between Canada and the United Nations",
-              "The relationship between Canada and Britain only",
-              "The financial relationship between federal and provincial governments",
-              "The relationship between two rival political parties"
+              "It is translated into French and English",
+              "It is formally approved by the Crown's representative, making it law",
+              "It is sent to the United Nations for review",
+              "It is cancelled by Parliament"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What broader system did the commissions recommendations help reshape?",
+            "q": "Who typically recommends a new Governor General for appointment?",
             "options": [
-              "The Canadian electoral map only",
-              "International trade agreements with Europe",
-              "Canadian federalism",
-              "The structure of the British monarchy"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What government role expanded as a result of related reforms?",
-            "options": [
-              "The federal governments role in social welfare",
-              "The judicial branchs role in taxation only",
-              "The municipal governments role in defence",
-              "The provincial governments role in foreign policy"
+              "The Prime Minister",
+              "The Supreme Court",
+              "The United States president",
+              "A popular national vote"
             ],
             "answer": 0
           },
           {
-            "q": "The Rowell-Sirois Commission was formed in response to economic difficulties caused by ___.",
+            "q": "How did the role of Governor General change over the twentieth century?",
             "options": [
-              "The 1918-1920 Spanish Flu Pandemic",
-              "The Great Depression",
-              "The Klondike Gold Rush",
-              "World War I"
+              "It disappeared entirely after 1931",
+              "It evolved from a British appointee toward a fully Canadian office",
+              "It gained the power to dissolve the Supreme Court",
+              "It became an elected position"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Besides ceremonial duties, what other kind of role can the Governor General play?",
+            "options": [
+              "Writing the federal budget",
+              "Representing Canada in some diplomatic and Commonwealth activities",
+              "Leading a political party",
+              "Collecting federal taxes"
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=xiF2H_S7CP4"
       }
     ]
   },
@@ -32436,62 +32437,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "History",
-        "title": "The Halibut Treaty of 1923 and Early Canadian Autonomy in Foreign Affairs",
-        "summary": "Grade 10 History strand: the Halibut Treaty of 1923 was the first international treaty negotiated and signed by Canada independently of Britain, a landmark step in the development of Canadian sovereignty in foreign affairs that paved the way for later milestones like the Balfour Declaration.",
+        "title": "The 1929 Stock Market Crash and the Onset of the Great Depression in Canada",
+        "summary": "Grade 10 History strand: the stock market crash of October 1929 triggered a decade-long economic collapse known as the Great Depression, which hit Canada especially hard due to its reliance on exports like wheat and lumber, leading to mass unemployment, drought on the Prairies, and growing pressure on government to provide relief.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
         "quiz": [
           {
-            "q": "What made the Halibut Treaty of 1923 historically significant?",
+            "q": "In what year did the stock market crash that triggered the Great Depression occur?",
             "options": [
-              "It ended all trade between Canada and the United States",
-              "It was the first treaty ever signed by any British colony",
-              "It established the Royal Canadian Navy",
-              "It was the first international treaty negotiated and signed by Canada independently of Britain"
+              "1919",
+              "1929",
+              "1939",
+              "1945"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What was the subject of the Halibut Treaty?",
+            "q": "Why was Canada especially hard hit by the Great Depression?",
             "options": [
-              "Immigration quotas",
-              "Military alliance terms",
-              "Railway construction rights",
-              "Fishing rights and conservation in the Pacific"
+              "Canada had no trade with other countries",
+              "Canada relied heavily on exports like wheat and lumber",
+              "Canada's population had been shrinking for decades",
+              "Canada had just finished a costly war"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Which country did Canada sign the Halibut Treaty with?",
+            "q": "Which region of Canada was hit by both the Depression and a severe drought?",
             "options": [
-              "The United States",
-              "Japan",
-              "Russia",
-              "France"
+              "The Atlantic coast",
+              "The Prairies",
+              "Northern Quebec",
+              "Vancouver Island"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was one major effect of the Great Depression on Canadians?",
+            "options": [
+              "A sudden housing boom",
+              "Mass unemployment",
+              "An immediate end to all taxes",
+              "A rapid population increase"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of pressure did the Depression put on government?",
+            "options": [
+              "Pressure to provide relief to struggling Canadians",
+              "Pressure to cancel all elections",
+              "Pressure to join a new war",
+              "Pressure to eliminate all provinces"
             ],
             "answer": 0
-          },
-          {
-            "q": "In what year was the Halibut Treaty signed?",
-            "options": [
-              "1905",
-              "1867",
-              "1923",
-              "1949"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How did the Halibut Treaty pave the way for later developments in Canadian autonomy?",
-            "options": [
-              "It was negotiated entirely by British diplomats on Canada's behalf",
-              "It ended any further Canadian involvement in foreign affairs",
-              "It transferred all foreign policy control back to Britain permanently",
-              "It set a precedent for Canada acting independently in foreign affairs, later reinforced by the Balfour Declaration"
-            ],
-            "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=94FH5Bzg22s"
       }
     ]
   },
@@ -32697,7 +32699,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "History Review: Canadian Confederation and Constitutional Development",
-        "summary": "Grade 10 History strand review: students revisit the 1919 Paris Peace Conference, the King-Byng Affair, the Manitoba Act, the Canadian Pacific Railway, the Rowell-Sirois Commission, the Manitoba Schools Question, British Columbia and Prince Edward Island joining Confederation, and the Halibut Treaty.",
+        "summary": "Grade 10 History strand review: students revisit the 1919 Paris Peace Conference, the King-Byng Affair, the Manitoba Act, the Canadian Pacific Railway, the role of the Governor General, the Manitoba Schools Question, British Columbia and Prince Edward Island joining Confederation, and the 1929 stock market crash.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
         "videoUrl": "https://www.youtube.com/watch?v=4O8syj77goQ",
@@ -32743,14 +32745,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What made the Halibut Treaty of 1923 historically significant?",
+            "q": "What triggered the Great Depression in 1929?",
             "options": [
-              "It ended all trade between Canada and the United States",
-              "It established the Royal Canadian Navy",
-              "It was the first treaty ever signed by any British colony",
-              "It was the first international treaty negotiated and signed by Canada independently of Britain"
+              "The stock market crash",
+              "A peace treaty with Britain",
+              "A new tax on railways",
+              "A provincial election"
             ],
-            "answer": 3
+            "answer": 0
           }
         ]
       }
@@ -33194,63 +33196,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "History",
-        "title": "The Naval Aid Bill and Canadas Pre-World War I Naval Debate",
-        "summary": "Grade 10 History strand: the Naval Aid Bill of 1912-13, proposed by Prime Minister Robert Borden to fund British dreadnoughts directly rather than build a Canadian navy, sparked a bitter national debate over Canadas military relationship with Britain and was ultimately defeated in the Senate.",
+        "title": "The Bluenose: Canada's Undefeated Racing Schooner, 1921",
+        "summary": "Grade 10 History strand: launched in Nova Scotia in 1921, the Bluenose was a fishing and racing schooner that went undefeated in international races for seventeen years, becoming a lasting symbol of Canadian maritime skill and endurance that still appears on the Canadian dime.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
         "quiz": [
           {
-            "q": "Who proposed the Naval Aid Bill?",
+            "q": "In what year was the Bluenose launched?",
             "options": [
-              "Prime Minister Mackenzie King",
-              "Prime Minister Lester Pearson",
-              "Prime Minister Robert Borden",
-              "Prime Minister Wilfrid Laurier"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What did the Naval Aid Bill propose to fund?",
-            "options": [
-              "A new Canadian air force",
-              "British dreadnoughts directly instead of building a Canadian navy",
-              "A national system of highways",
-              "The construction of the Canadian Pacific Railway"
+              "1905",
+              "1921",
+              "1939",
+              "1949"
             ],
             "answer": 1
           },
           {
-            "q": "What ultimately happened to the Naval Aid Bill?",
+            "q": "In which province was the Bluenose built?",
             "options": [
-              "It was approved directly by the King",
-              "It was never debated at all",
-              "It was defeated in the Senate",
-              "It passed unanimously in Parliament"
+              "Nova Scotia",
+              "Alberta",
+              "Ontario",
+              "British Columbia"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "What broader issue did the Naval Aid Bill debate reflect?",
+            "q": "What two purposes did the Bluenose serve?",
             "options": [
-              "A dispute over provincial boundaries",
-              "A disagreement over agricultural tariffs only",
-              "A conflict over railway construction routes",
-              "Disagreement over Canadas military relationship with Britain"
+              "Fishing and racing",
+              "Military patrol and cargo",
+              "Tourism and passenger ferry",
+              "Scientific research and mapping"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "The Naval Aid Bill debate occurred in the years immediately before which major conflict?",
+            "q": "How did the Bluenose perform in international races?",
             "options": [
-              "The Boer War",
-              "World War I",
-              "The Korean War",
-              "World War II"
+              "It lost every race it entered",
+              "It went undefeated for seventeen years",
+              "It raced only once and retired",
+              "It was disqualified from every race"
             ],
             "answer": 1
+          },
+          {
+            "q": "Where can an image of the Bluenose still be seen today?",
+            "options": [
+              "On the Canadian dime",
+              "On the back of the one dollar bill",
+              "On the Canadian passport cover",
+              "On provincial license plates"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "World War I"
+        "videoUrl": "https://www.youtube.com/watch?v=Ct_kRVQkGp0"
       }
     ]
   },
@@ -33940,62 +33942,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "History",
-        "title": "The Formation of the United Church of Canada in 1925",
-        "summary": "Grade 10 History strand: the United Church of Canada was formed in 1925 through the union of the Methodist, Congregationalist, and most Presbyterian churches in Canada, creating the largest Protestant denomination in the country and reflecting a broader movement toward Canadian religious and institutional independence.",
+        "title": "The Group of Seven and the Shaping of Canadian Identity in Art",
+        "summary": "Grade 10 History strand: formed in 1920, the Group of Seven was a collective of Canadian landscape painters whose bold depictions of the country's wilderness, from Algonquin Park to the Canadian Shield, helped define a distinctly Canadian artistic identity separate from European traditions.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
         "quiz": [
           {
-            "q": "In what year was the United Church of Canada formed?",
+            "q": "In what year was the Group of Seven formed?",
             "options": [
               "1905",
-              "1925",
-              "1949",
-              "1867"
+              "1920",
+              "1939",
+              "1949"
             ],
             "answer": 1
           },
           {
-            "q": "Which churches united to form the United Church of Canada?",
+            "q": "What subject matter did the Group of Seven primarily paint?",
             "options": [
-              "The Catholic and Anglican churches",
-              "The Baptist and Lutheran churches only",
-              "A union of every religious denomination in Canada",
-              "The Methodist, Congregationalist, and most Presbyterian churches"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What did the United Church of Canada become after its formation?",
-            "options": [
-              "A branch of the Catholic Church",
-              "The largest Protestant denomination in the country",
-              "A small, minor religious group with few members",
-              "An officially government-run institution"
+              "Portraits of European royalty",
+              "Canada's wilderness landscapes",
+              "Scenes from ancient Rome",
+              "Urban city skylines in the United States"
             ],
             "answer": 1
           },
           {
-            "q": "The formation of the United Church of Canada reflected a broader trend toward ___.",
+            "q": "What did the Group of Seven help establish for Canadian art?",
             "options": [
-              "The elimination of all religious institutions in Canada",
-              "Canadian religious and institutional independence",
-              "Continued dependence on British religious authority",
-              "A merger with an American religious denomination"
+              "A reliance on European painting traditions",
+              "A distinctly Canadian artistic identity",
+              "A rule banning landscape painting",
+              "A requirement to paint only portraits"
             ],
             "answer": 1
           },
           {
-            "q": "Which decade saw the formation of the United Church of Canada?",
+            "q": "Which Canadian wilderness area is closely associated with the Group of Seven's paintings?",
             "options": [
-              "The 1980s",
-              "The 1940s",
-              "The 1860s",
-              "The 1920s"
+              "Algonquin Park",
+              "The Sahara Desert",
+              "The Swiss Alps",
+              "The Amazon Rainforest"
             ],
-            "answer": 3
+            "answer": 0
+          },
+          {
+            "q": "The Group of Seven is best known as a collective of which kind of artists?",
+            "options": [
+              "Landscape painters",
+              "Opera composers",
+              "Film directors",
+              "Sculptors of government buildings"
+            ],
+            "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=hiAvYGTB8xk"
       }
     ]
   },
@@ -34435,62 +34438,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "History",
-        "title": "The Canadian Radio Broadcasting Act and the Founding of the CBC",
-        "summary": "Grade 10 History strand: the Canadian Radio Broadcasting Act of 1932 created a national public broadcaster to counter growing American radio influence and unify the country through shared programming, a role later expanded when the Canadian Broadcasting Corporation was formally established in 1936.",
+        "title": "Prohibition in Canada: The Rise and Fall of the Temperance Movement",
+        "summary": "Grade 10 History strand: driven by the temperance movement, most Canadian provinces banned the sale of alcohol in the years around the First World War, but prohibition proved difficult to enforce and was gradually repealed through the 1920s as provinces turned instead to government-controlled liquor sales.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
         "quiz": [
           {
-            "q": "What did the Canadian Radio Broadcasting Act of 1932 create?",
+            "q": "What movement pushed for the banning of alcohol sales in Canada?",
             "options": [
-              "A national public broadcaster",
-              "A new national police force",
-              "A national railway system",
-              "A federal income tax"
+              "The temperance movement",
+              "The labour movement",
+              "The suffrage movement",
+              "The conscription movement"
             ],
             "answer": 0
           },
           {
-            "q": "Why did the federal government establish a national public broadcaster?",
+            "q": "When did most Canadian provinces introduce prohibition?",
             "options": [
-              "To eliminate all radio broadcasting in Canada permanently",
-              "To counter growing American radio influence and unify the country through shared programming",
-              "To fund the construction of a national railway",
-              "To transfer all broadcasting control to private American companies"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "In what year was the Canadian Broadcasting Corporation formally established?",
-            "options": [
-              "1905",
-              "1936",
-              "1949",
-              "1867"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What common national concern motivated the creation of a public broadcaster in the 1930s?",
-            "options": [
-              "Concern that American radio signals were dominating Canadian audiences",
-              "A dispute over provincial voting rights",
-              "A lack of any interest in radio technology",
-              "A shortage of newspapers across the country"
+              "In the years around the First World War",
+              "Immediately after Confederation in 1867",
+              "During the Second World War",
+              "In the 1980s"
             ],
             "answer": 0
           },
           {
-            "q": "The founding of the CBC reflects a broader theme of which era in Canadian history?",
+            "q": "What problem did prohibition face in Canada?",
             "options": [
-              "Efforts to strengthen Canadian cultural identity and institutions",
-              "The complete rejection of all modern technology",
-              "A return to exclusively British-run institutions",
-              "The end of federal government involvement in communications"
+              "It was never passed into law anywhere",
+              "It had no effect on alcohol sales at all",
+              "It proved difficult to enforce",
+              "It was supported unanimously by every province forever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What generally replaced prohibition in most provinces during the 1920s?",
+            "options": [
+              "A complete and permanent ban with no changes",
+              "Government-controlled liquor sales",
+              "Private unregulated alcohol sales",
+              "A return to pre-Confederation laws"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Prohibition in Canada is an example of a reform movement driven mainly by concerns about ___.",
+            "options": [
+              "Alcohol's effects on health and society",
+              "Foreign trade tariffs",
+              "Railway construction routes",
+              "Provincial boundary disputes"
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=F0Z43Kb9slo"
       }
     ]
   },
@@ -35204,7 +35208,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "History Review: Institution-Building in Early Twentieth-Century Canada",
-        "summary": "Grade 10 History strand review: students revisit the founding of the North-West Mounted Police, the Naval Aid Bill, the Income War Tax Act of 1917, the formation of Canadian National Railways, the founding of the United Church of Canada, the Old Age Pensions Act, the founding of the CBC, Newfoundlands Commission of Government, and the founding of the Bank of Canada.",
+        "summary": "Grade 10 History strand review: students revisit the founding of the North-West Mounted Police, the Bluenose's famous racing career, the Income War Tax Act of 1917, the formation of Canadian National Railways, the Group of Seven art movement, the Old Age Pensions Act, the prohibition and temperance movement, Newfoundlands Commission of Government, and the founding of the Bank of Canada.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
         "quiz": [
@@ -35219,14 +35223,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What did the Naval Aid Bill propose to fund?",
+            "q": "What was the Bluenose famous for?",
             "options": [
-              "A national system of highways",
-              "A new Canadian air force",
-              "British dreadnoughts directly instead of building a Canadian navy",
-              "The construction of the Canadian Pacific Railway"
+              "Going undefeated in international racing for seventeen years",
+              "Losing every race it entered",
+              "Being Canada's first warship",
+              "Carrying mail across the Atlantic"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "What was the original stated purpose of the Income War Tax Act?",
@@ -42351,7 +42355,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The Massey Commission",
               "The Durham Report",
-              "The Rowell-Sirois Commission",
+              "The Balfour Declaration",
               "The Manitoba Schools Question inquiry"
             ],
             "answer": 0
@@ -51546,7 +51550,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: The King-Byng Affair of 1926 and the Constitutional Crisis; The Manitoba Act of 1870 and the Creation of Manitoba; The Canadian Pacific Railway and National Unity; The Rowell-Sirois Commission and Canadian Federalism.",
+        "summary": "Practice recap covering: The King-Byng Affair of 1926 and the Constitutional Crisis; The Manitoba Act of 1870 and the Creation of Manitoba; The Canadian Pacific Railway and National Unity; The Governor General of Canada: Role and Evolution of the Office.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -51581,14 +51585,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "What was the main focus of the Rowell-Sirois Commission's recommendations in the late 1930s?",
+            "q": "What is one of the Governor General's main constitutional duties?",
             "options": [
-              "Establishing Canada's first old-age pension system",
-              "Reorganizing federal-provincial financial relations and taxation powers",
-              "Creating a national healthcare system for Canada",
-              "Negotiating Canada's full independence from Britain"
+              "Giving royal assent to bills so they become law",
+              "Leading a political party in Parliament",
+              "Collecting federal income tax",
+              "Commanding provincial police forces"
             ],
-            "answer": 1
+            "answer": 0
           }
         ]
       }
@@ -51750,7 +51754,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: The Manitoba Schools Question and Language Rights; British Columbia Joins Confederation in 1871; Prince Edward Island Joins Confederation in 1873; The Halibut Treaty of 1923 and Early Canadian Autonomy in Foreign Affairs; History Review: Canadian Confederation and Constitutional Development.",
+        "summary": "Practice recap covering: The Manitoba Schools Question and Language Rights; British Columbia Joins Confederation in 1871; Prince Edward Island Joins Confederation in 1873; The 1929 Stock Market Crash and the Onset of the Great Depression in Canada; History Review: Canadian Confederation and Constitutional Development.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -51785,14 +51789,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Why is the Halibut Treaty of 1923 considered a landmark in Canadian history?",
+            "q": "What economic event in 1929 triggered the Great Depression in Canada?",
             "options": [
-              "It ended Canada's fishing rights in the Pacific Ocean",
-              "It was negotiated entirely by the British Foreign Office",
-              "It was the first treaty signed by Canada independently, without a British signature",
-              "It marked Canada's first treaty with another Commonwealth nation"
+              "The stock market crash",
+              "A railway strike",
+              "A drought in Ontario",
+              "A new trade tariff with France"
             ],
-            "answer": 2
+            "answer": 0
           }
         ]
       }
@@ -51954,7 +51958,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: The Founding of the North-West Mounted Police in 1873; The Naval Aid Bill and Canadas Pre-World War I Naval Debate; The Income War Tax Act of 1917; The Formation of Canadian National Railways in 1919; The Formation of the United Church of Canada in 1925.",
+        "summary": "Practice recap covering: The Founding of the North-West Mounted Police in 1873; The Bluenose: Canada's Undefeated Racing Schooner, 1921; The Income War Tax Act of 1917; The Formation of Canadian National Railways in 1919; The Group of Seven and the Shaping of Canadian Identity in Art.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -51969,14 +51973,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Who proposed the Naval Aid Bill?",
+            "q": "What made the Bluenose famous in Canadian history?",
             "options": [
-              "Prime Minister Mackenzie King",
-              "Prime Minister Lester Pearson",
-              "Prime Minister Robert Borden",
-              "Prime Minister Wilfrid Laurier"
+              "It went undefeated in racing for seventeen years",
+              "It was the first Canadian submarine",
+              "It carried the first Prime Minister to Confederation talks",
+              "It was destroyed in the Halifax Explosion"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "Why was the Income War Tax Act of 1917 introduced in Canada?",
@@ -51989,12 +51993,12 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "The formation of the United Church of Canada in 1925 resulted from the merger of which groups?",
+            "q": "The Group of Seven is best known for paintings of which subject?",
             "options": [
-              "Methodist, Presbyterian, and Congregationalist churches",
-              "Roman Catholic and Anglican churches",
-              "Baptist and Lutheran churches",
-              "Quaker and Mennonite congregations"
+              "Canada's wilderness landscapes",
+              "European royal portraits",
+              "Ancient Roman ruins",
+              "Modern city skyscrapers"
             ],
             "answer": 0
           }
@@ -52158,7 +52162,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: The Old Age Pensions Act of 1927; The Canadian Radio Broadcasting Act and the Founding of the CBC; Newfoundland and the Commission of Government of 1934; The Founding of the Bank of Canada in 1934-1935.",
+        "summary": "Practice recap covering: The Old Age Pensions Act of 1927; Prohibition in Canada: The Rise and Fall of the Temperance Movement; Newfoundland and the Commission of Government of 1934; The Founding of the Bank of Canada in 1934-1935.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -52173,12 +52177,12 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What did the Canadian Radio Broadcasting Act of 1932 create?",
+            "q": "What was prohibition in Canada primarily aimed at banning?",
             "options": [
-              "A national public broadcaster",
-              "A new national police force",
-              "A national railway system",
-              "A federal income tax"
+              "The sale of alcohol",
+              "The sale of automobiles",
+              "The use of radios",
+              "The practice of voting"
             ],
             "answer": 0
           },

@@ -36800,83 +36800,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Comparing Durations: Which Activity Takes Longer",
-        "summary": "Grade 1 Math strand: comparing durations means deciding which of two activities takes more time, such as figuring out that brushing your teeth takes less time than eating dinner.",
-        "resourceLabel": "YouTube: Comparing Durations: Which Activity Takes Longer",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Durations%3A%20Which%20Activity%20Takes%20Longer%20grade%204%20educational",
+        "title": "Introduction to Area: Counting Square Units",
+        "summary": "Grade 4 Math strand: area measures how much flat space a shape covers, and one simple way to find it is by counting how many equal-sized square units fit inside the shape, such as counting the squares on a grid to find the area of a rectangle.",
+        "resourceLabel": "YouTube: Introduction to Area: Counting Square Units",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Area%3A%20Counting%20Square%20Units%20grade%204%20educational",
         "quiz": [
           {
-            "q": "Which activity usually takes longer, brushing your teeth or eating dinner?",
+            "q": "What does area measure?",
             "options": [
-              "Neither takes any time",
-              "Brushing your teeth",
-              "Eating dinner",
-              "They take the same amount of time"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which activity usually takes longer, a school day or recess?",
-            "options": [
-              "They are exactly the same length",
-              "Neither has a length",
-              "Recess",
-              "A school day"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which of these activities would likely take the least amount of time?",
-            "options": [
-              "Sleeping at night",
-              "Going on a car trip",
-              "Watching a movie",
-              "Blinking your eyes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Comparing durations means deciding which activity takes ___ time.",
-            "options": [
-              "More or less",
-              "An unknown amount of",
-              "The same amount of",
-              "No"
+              "How much flat space a shape covers",
+              "How heavy a shape is",
+              "How far apart two points are",
+              "How tall a shape is"
             ],
             "answer": 0
           },
           {
-            "q": "Which activity would likely take longer, reading one page or reading a whole book?",
+            "q": "What is one way to find the area of a shape on a grid?",
             "options": [
-              "Reading one page",
-              "They take the same time",
-              "Neither takes time",
-              "Reading a whole book"
+              "Counting how many equal-sized square units fit inside it",
+              "Measuring only its tallest point",
+              "Counting the number of corners it has",
+              "Weighing the shape on a scale"
             ],
-            "answer": 3
+            "answer": 0
+          },
+          {
+            "q": "If a rectangle covers 12 square units on a grid, what is its area?",
+            "options": [
+              "12 square units",
+              "12 centimetres",
+              "12 sides",
+              "12 corners"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which shape covers more space: one made of 20 square units or one made of 8 square units?",
+            "options": [
+              "The one made of 20 square units",
+              "The one made of 8 square units",
+              "They cover the same space",
+              "Neither covers any space"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Area is always measured in ___.",
+            "options": [
+              "Square units",
+              "Straight lines only",
+              "Minutes",
+              "Kilograms"
+            ],
+            "answer": 0
           }
         ],
         "worksheet": [
           {
-            "prompt": "Which usually takes longer, brushing your teeth or eating dinner?",
+            "prompt": "If a rectangle covers 15 square units on a grid, what is its area?",
             "answers": [
-              "eating dinner"
+              "15 square units",
+              "15"
             ]
           },
           {
-            "prompt": "Which usually takes longer, a school day or recess?",
+            "prompt": "Which shape has a larger area: one made of 9 square units or one made of 14 square units?",
             "answers": [
-              "a school day"
+              "the one made of 14 square units",
+              "14 square units"
             ]
           },
           {
-            "prompt": "Name two activities and tell which one takes longer.",
+            "prompt": "Draw a rectangle on grid paper and count the squares to find its area. What unit do you use to describe area?",
             "answers": [
-              "answers vary"
+              "square units"
             ]
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Geometry & Measurement",
+        "videoUrl": "https://www.youtube.com/watch?v=HYcqztMsNSQ"
       },
       {
         "subject": "Science",
@@ -37339,7 +37342,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Math",
         "title": "Math Review: A Year of Numbers, Shapes, and Problem Solving",
-        "summary": "Grade 1 Math strand review, and a capstone review closing out the full year of Grade 1 Math: students revisit numbers to 800, fractions as eighths, composite shapes, money up to fifty dollars, comparing durations, and sorting data by two attributes.",
+        "summary": "Grade 1 Math strand review, and a capstone review closing out the full year of Grade 1 Math: students revisit numbers to 800, fractions as eighths, composite shapes, money up to fifty dollars, finding area by counting square units, and sorting data by two attributes.",
         "resourceLabel": "YouTube: Math Review: A Year of Numbers, Shapes, and Problem Solving",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20A%20Year%20of%20Numbers%2C%20Shapes%2C%20and%20Problem%20Solving%20grade%204%20educational",
         "quiz": [
@@ -37384,14 +37387,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which activity usually takes longer, brushing your teeth or eating dinner?",
+            "q": "If a rectangle covers 12 square units on a grid, what is its area?",
             "options": [
-              "Brushing your teeth",
-              "Neither takes any time",
-              "Eating dinner",
-              "They take the same amount of time"
+              "12 square units",
+              "12 centimetres",
+              "12 sides",
+              "12 corners"
             ],
-            "answer": 2
+            "answer": 0
           }
         ],
         "worksheet": [
@@ -53902,7 +53905,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Math",
         "title": "Practice: Mathematics Recap",
-        "summary": "A practice recap of recent Mathematics lessons: Geometry: Prisms and Pyramids — Comparing 3D Shapes; Comparing Durations: Which Activity Takes Longer; Data: Sorting Information by Two Attributes; Math Review: A Year of Numbers, Shapes, and Problem Solving.",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Prisms and Pyramids — Comparing 3D Shapes; Introduction to Area: Counting Square Units; Data: Sorting Information by Two Attributes; Math Review: A Year of Numbers, Shapes, and Problem Solving.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
         "quiz": [
@@ -53927,14 +53930,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Which activity usually takes longer, brushing your teeth or eating dinner?",
+            "q": "If a shape covers 9 square units on a grid, what is its area?",
             "options": [
-              "Neither takes any time",
-              "Brushing your teeth",
-              "Eating dinner",
-              "They take the same amount of time"
+              "9 square units",
+              "9 centimetres",
+              "9 corners",
+              "9 sides"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "If you sort toys by both their color and their size, how many attributes are you using?",

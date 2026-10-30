@@ -35114,62 +35114,63 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The History of the CBC and Public Broadcasting",
-        "summary": "Grade 7 Social Studies strand: the Canadian Broadcasting Corporation, founded in 1936, is a publicly funded broadcaster created to provide Canadian news and cultural programming in both English and French, helping to counter the influence of foreign broadcast signals.",
+        "title": "Marconi's Transatlantic Signal at Signal Hill, 1901",
+        "summary": "Grade 7 Social Studies strand: in December 1901, Guglielmo Marconi received the first transatlantic wireless radio signal atop Signal Hill in St. John's, Newfoundland, a breakthrough that proved long-distance wireless communication was possible and helped launch the era of modern radio and telecommunications.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
         "quiz": [
           {
-            "q": "What is the CBC?",
+            "q": "Where did Marconi receive the first transatlantic wireless signal?",
             "options": [
-              "A publicly funded Canadian broadcaster",
-              "A company that only produces printed newspapers",
-              "A privately owned foreign broadcasting company",
-              "A private streaming service launched in 2015"
+              "Signal Hill in St. John's, Newfoundland",
+              "Parliament Hill in Ottawa",
+              "Niagara Falls, Ontario",
+              "Vancouver Island, British Columbia"
             ],
             "answer": 0
           },
           {
-            "q": "Why was a public broadcaster created in Canada in the 1930s?",
+            "q": "In what year did this event take place?",
             "options": [
-              "To generate advertising revenue for private investors only",
-              "To completely eliminate radio broadcasting in Canada",
-              "To broadcast programming exclusively from other countries",
-              "To provide Canadian content and help counter the influence of foreign broadcast signals"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How is the CBC primarily funded?",
-            "options": [
-              "Primarily through ticket sales at live events",
-              "The CBC receives no funding of any kind",
-              "Through public funding from the government",
-              "Entirely through a single private investor"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is one goal of public broadcasting in Canada?",
-            "options": [
-              "Broadcasting only in a single language with no other option",
-              "Avoiding any coverage of Canadian news or culture",
-              "Providing news and cultural programming in both English and French",
-              "Maximizing advertising revenue above all else"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "In approximately what year was the CBC founded?",
-            "options": [
+              "1867",
+              "1901",
               "1936",
-              "1982",
-              "1965",
-              "1867"
+              "1949"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What did Marconi's signal prove was possible?",
+            "options": [
+              "Long-distance wireless communication across the ocean",
+              "Air travel across the Atlantic Ocean",
+              "Television broadcasting to every home",
+              "Sending mail without a postal service"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What later era did Marconi's breakthrough help launch?",
+            "options": [
+              "The era of modern radio and telecommunications",
+              "The era of the printing press",
+              "The era of steam-powered trains",
+              "The era of horse-drawn transportation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of technology did Marconi use to send and receive his signal?",
+            "options": [
+              "Wireless radio technology",
+              "Underwater telephone cables",
+              "Satellite television",
+              "Fibre-optic internet cables"
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=M_KCMJc-gTw"
       }
     ]
   },
@@ -35404,7 +35405,7 @@
       {
         "subject": "SocialStudies",
         "title": "Social Studies Review: Confederation, Constitution, and Canadian Identity",
-        "summary": "Grade 7 Social Studies strand review: students revisit the Fenian Raids, the National Policy of 1879, the patriation of the constitution, the flag debate of 1964, and the history of the CBC.",
+        "summary": "Grade 7 Social Studies strand review: students revisit the Fenian Raids, the National Policy of 1879, the patriation of the constitution, the flag debate of 1964, and Marconi's transatlantic radio signal.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
         "quiz": [
@@ -35449,14 +35450,14 @@
             "answer": 0
           },
           {
-            "q": "What is the CBC?",
+            "q": "Where did Marconi receive the first transatlantic wireless signal?",
             "options": [
-              "A company that only produces printed newspapers",
-              "A publicly funded Canadian broadcaster",
-              "A government department that regulates all Canadian media",
-              "A privately owned foreign broadcasting company"
+              "Signal Hill in St. John's, Newfoundland",
+              "Parliament Hill in Ottawa",
+              "Niagara Falls, Ontario",
+              "Vancouver Island, British Columbia"
             ],
-            "answer": 1
+            "answer": 0
           }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=5h5Pqgkjgws",
@@ -52469,7 +52470,7 @@
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: The Role of Political Cartoons in Recording History; The War Measures Act and Civil Liberties in Canadian History; Social Studies: The History of O Canada and National Symbols; Social Studies: The History of the CBC and Public Broadcasting.",
+        "summary": "A practice recap of recent Social Studies lessons: The Role of Political Cartoons in Recording History; The War Measures Act and Civil Liberties in Canadian History; Social Studies: The History of O Canada and National Symbols; Marconi's Transatlantic Signal at Signal Hill, 1901.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
         "quiz": [
@@ -52504,14 +52505,14 @@
             "answer": 1
           },
           {
-            "q": "What is the main purpose of a public broadcaster like the CBC?",
+            "q": "What did Marconi's 1901 transatlantic signal prove was possible?",
             "options": [
-              "To operate purely for private shareholder profit",
-              "To provide programming funded by government to serve the public interest",
-              "To broadcast only in one province",
-              "To replace all private television networks"
+              "Long-distance wireless communication across the ocean",
+              "Air travel across the Atlantic Ocean",
+              "Underwater cable repair",
+              "Television broadcasting to homes"
             ],
-            "answer": 1
+            "answer": 0
           }
         ]
       }
