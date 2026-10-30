@@ -43652,7 +43652,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=4HeeCYVqf3U"
       }
     ]
   },
@@ -43801,7 +43802,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=lKZp-jEvGqM"
       },
       {
         "subject": "Science",
@@ -43861,7 +43863,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ZwpbuCJr63E"
       },
       {
         "subject": "SocialStudies",
@@ -43944,7 +43947,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Civic Life & Cooperation (Basic)"
+        "topic": "Civic Life & Cooperation (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=BCb_i2aZqjo"
       }
     ]
   },
@@ -44092,7 +44096,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=1GUuH79G3Gw"
       },
       {
         "subject": "Science",

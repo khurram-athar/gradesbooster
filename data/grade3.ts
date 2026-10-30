@@ -36557,7 +36557,8 @@ const curriculum: DayContent[] = [
               "I am happy is spoken"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=vZ4BbyBUSmA"
       },
       {
         "subject": "Math",
@@ -36640,7 +36641,14 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=8lPAIYWIgrc",
+        "videoUrls": [
+          {
+            "label": "Rhombus",
+            "url": "https://www.youtube.com/watch?v=T8-8uX92Muk"
+          }
+        ]
       },
       {
         "subject": "Science",
@@ -36720,7 +36728,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Light & Sound"
+        "topic": "Light & Sound",
+        "videoUrl": "https://www.youtube.com/watch?v=3-xKZKxXuu0"
       },
       {
         "subject": "SocialStudies",

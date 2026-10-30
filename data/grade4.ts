@@ -36795,7 +36795,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Reading: Poetry"
+        "topic": "Reading: Poetry",
+        "videoUrl": "https://www.youtube.com/watch?v=J0WyJP-_BRo"
       },
       {
         "subject": "Math",
@@ -36935,7 +36936,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Human Body Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=SD8kLAD1jnA"
       },
       {
         "subject": "SocialStudies",
@@ -36995,7 +36997,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Natural Resources & Industry",
+        "videoUrl": "https://www.youtube.com/watch?v=A7pSRU9aj2A"
       }
     ]
   },
@@ -37204,7 +37207,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=GK_vRtHJZu4"
       },
       {
         "subject": "SocialStudies",

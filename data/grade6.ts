@@ -35482,7 +35482,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=jsBhTa80qnI"
       },
       {
         "subject": "Math",
@@ -35541,7 +35542,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=eNv4fHb7OvU"
       },
       {
         "subject": "Science",
@@ -35601,7 +35603,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=ZCFByeWEZzQ"
       },
       {
         "subject": "SocialStudies",
@@ -35661,7 +35664,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Indigenous Peoples & First Nations"
+        "topic": "Indigenous Peoples & First Nations",
+        "videoUrl": "https://www.youtube.com/watch?v=eOoOvUtuzYU"
       }
     ]
   },

@@ -35404,7 +35404,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=Zm0dC6J_7uk"
       },
       {
         "subject": "Functions",
@@ -35464,7 +35465,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Calculus: Derivatives"
+        "topic": "Calculus: Derivatives",
+        "videoUrl": "https://www.youtube.com/watch?v=17X5g9QArTc"
       },
       {
         "subject": "Biology",
@@ -35524,7 +35526,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=7tLV20dk-FM"
       },
       {
         "subject": "Chemistry",
@@ -35711,7 +35714,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Calculus: Derivatives"
+        "topic": "Calculus: Derivatives",
+        "videoUrl": "https://www.youtube.com/watch?v=8jVDEcQ0wXk"
       },
       {
         "subject": "Biology",

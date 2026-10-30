@@ -36267,7 +36267,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=QwkfVwfga5I"
       },
       {
         "subject": "Math",
@@ -36327,7 +36328,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=RdBrglxiGpo"
       },
       {
         "subject": "Science",
@@ -36387,7 +36389,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=M4rzNUZFV4w"
       },
       {
         "subject": "SocialStudies",

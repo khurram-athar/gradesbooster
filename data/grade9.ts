@@ -35615,7 +35615,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=SjunMcrXgE0"
       },
       {
         "subject": "Math",
@@ -35675,7 +35676,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=5JBXF8oDURc"
       },
       {
         "subject": "Science",
@@ -35735,7 +35737,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=jjy-eqWM38g"
       },
       {
         "subject": "SocialStudies",
@@ -35795,7 +35798,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Natural Resources & Industry",
+        "videoUrl": "https://www.youtube.com/watch?v=bOOV0fTBH8o"
       }
     ]
   },

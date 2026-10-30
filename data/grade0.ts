@@ -39811,7 +39811,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=iSybXF9qou0"
       },
       {
         "subject": "Math",
@@ -39871,7 +39872,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=FKg1tAXC_-E"
       },
       {
         "subject": "Science",
@@ -40104,7 +40106,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=fhe7vQjQBxM"
       },
       {
         "subject": "Math",

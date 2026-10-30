@@ -35218,7 +35218,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Shl9X7uaKVk"
       },
       {
         "subject": "AdvancedFunctions",
@@ -35278,7 +35279,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=jmqZG6roVqU"
       },
       {
         "subject": "Calculus",
@@ -35338,7 +35340,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Probability"
+        "topic": "Probability",
+        "videoUrl": "https://www.youtube.com/watch?v=6xPkG2pA-TU"
       },
       {
         "subject": "Physics",
@@ -35397,7 +35400,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=PYNSopwd1l4"
       }
     ]
   },

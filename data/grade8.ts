@@ -35463,7 +35463,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=CXzVFtEGpe4"
       },
       {
         "subject": "Math",
@@ -35523,7 +35524,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=P28KoFFPXzA"
       },
       {
         "subject": "Science",
@@ -35583,7 +35585,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=26faogpnFIo"
       },
       {
         "subject": "History",
@@ -35642,7 +35645,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=h9PNCiK1d6o"
       }
     ]
   },

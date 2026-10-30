@@ -43252,7 +43252,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=213g1rt2dKI"
       },
       {
         "subject": "Math",
@@ -43333,7 +43334,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=CYVmmTaqIPU"
       },
       {
         "subject": "Science",
@@ -43636,7 +43638,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=4rK9Kvv2BhY"
       },
       {
         "subject": "Science",

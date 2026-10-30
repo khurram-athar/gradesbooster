@@ -35541,7 +35541,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=skqj4jOSQU4"
       },
       {
         "subject": "Math",
@@ -35601,7 +35602,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Equations & Inequalities",
+        "videoUrl": "https://www.youtube.com/watch?v=4w0rWUCk-N8"
       },
       {
         "subject": "Science",
@@ -35661,7 +35663,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=DVox3i1pcpQ"
       },
       {
         "subject": "SocialStudies",
@@ -35721,7 +35724,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Government & Civics"
+        "topic": "Government & Civics",
+        "videoUrl": "https://www.youtube.com/watch?v=FD8sdFlaiqQ"
       }
     ]
   },
@@ -35907,7 +35911,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Life Cycles & Growth"
+        "topic": "Life Cycles & Growth",
+        "videoUrl": "https://www.youtube.com/watch?v=PeNuj2GH8xg"
       },
       {
         "subject": "SocialStudies",

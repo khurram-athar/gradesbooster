@@ -35325,7 +35325,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=04C3B1Ztwf0"
       },
       {
         "subject": "Math",
@@ -35385,7 +35386,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=e5nwJKUc3bA"
       },
       {
         "subject": "Science",
@@ -35445,7 +35447,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Evolution"
+        "topic": "Evolution",
+        "videoUrl": "https://www.youtube.com/watch?v=QDVbt2qQRqs"
       },
       {
         "subject": "History",
@@ -35505,7 +35508,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Canadian Places & Symbols (Basic)"
+        "topic": "Canadian Places & Symbols (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=pufhMfukBxg"
       }
     ]
   },
