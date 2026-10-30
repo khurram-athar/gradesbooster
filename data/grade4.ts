@@ -37016,6 +37016,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Grammar: Subject and Object Pronouns",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Subject%20and%20Object%20Pronouns%20grade%204%20educational",
         "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=6h59HizPzlw",
         "quiz": [
           {
             "q": "Which pronoun correctly completes: \"___ went to the park after school.\"?",
@@ -37075,6 +37076,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: objects can be sorted using two attributes at the same time, such as sorting shapes by both colour and size, to organize information in more detailed ways.",
         "resourceLabel": "YouTube: Data: Sorting Information by Two Attributes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Sorting%20Information%20by%20Two%20Attributes%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mSgFsAiQ0c0",
         "quiz": [
           {
             "q": "What does sorting by two attributes mean?",

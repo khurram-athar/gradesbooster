@@ -40116,6 +40116,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: The Four Seasons",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Four%20Seasons%20kindergarten%20educational",
         "topic": "Time & Money",
+        "videoUrl": "https://www.youtube.com/watch?v=8ZjpI6fgYSY",
         "quiz": [
           {
             "q": "Which season usually comes with snow and the coldest weather?",
@@ -40175,6 +40176,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: the beaver is Canadas national animal, known for its flat tail and strong teeth that it uses to cut down trees and build dams.",
         "resourceLabel": "YouTube: Beavers: Canadas National Animal",
         "resourceUrl": "https://www.youtube.com/results?search_query=Beavers%3A%20Canadas%20National%20Animal%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QMItKNAEnWI",
         "quiz": [
           {
             "q": "What animal is the national animal of Canada?",
@@ -40258,6 +40260,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Social Studies strand: electricians install and fix the wires and lights that bring electricity to our homes and schools.",
         "resourceLabel": "YouTube: Our Electricians: Keeping the Lights On",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Electricians%3A%20Keeping%20the%20Lights%20On%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qUghl4zbsBo",
         "quiz": [
           {
             "q": "What does an electrician mainly work with?",

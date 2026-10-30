@@ -43504,6 +43504,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: a timeline is a text feature that shows events in the order they happened, often with dates along a line.",
         "resourceLabel": "YouTube: Text Features: Timelines",
         "resourceUrl": "https://www.youtube.com/results?search_query=Text%20Features%3A%20Timelines%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=o50HA6QTxj0",
         "quiz": [
           {
             "q": "What does a timeline show?",
@@ -43647,6 +43648,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: many animals leave tracks, or footprints, in snow or mud, and we can use the shape of the tracks to guess which animal made them.",
         "resourceLabel": "YouTube: Animal Tracks: Footprints in the Snow",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Tracks%3A%20Footprints%20in%20the%20Snow%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Xz02S-CizAU",
         "quiz": [
           {
             "q": "What are animal tracks?",
