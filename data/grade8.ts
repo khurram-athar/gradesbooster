@@ -35712,7 +35712,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=PGI95jwIHTo"
       },
       {
         "subject": "Math",
@@ -35771,6 +35772,13 @@ const curriculum: DayContent[] = [
               "5"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=cqnYjR46T58",
+        "videoUrls": [
+          {
+            "label": "Divisibility Rules (6, 7, 8, 9, & 10)",
+            "url": "https://www.youtube.com/watch?v=OPz99FFbo7M"
           }
         ]
       },
@@ -35832,7 +35840,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=cFRHM1ERfPg"
       },
       {
         "subject": "History",
@@ -35892,7 +35901,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Canadian Places & Symbols (Basic)"
+        "topic": "Canadian Places & Symbols (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=9XaIO1I4K9k"
       }
     ]
   },

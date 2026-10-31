@@ -35852,7 +35852,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Measurement: Perimeter & Area"
+        "topic": "Measurement: Perimeter & Area",
+        "videoUrl": "https://www.youtube.com/watch?v=918qWRjICbs"
       },
       {
         "subject": "Science",
@@ -35972,6 +35973,13 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=rh_p65TkhVs",
+        "videoUrls": [
+          {
+            "label": "The Charlottetown Conference of 1864",
+            "url": "https://www.youtube.com/watch?v=mUXJk6o0WeU"
+          }
         ]
       }
     ]
@@ -36038,7 +36046,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=cjJszH88J8A"
       },
       {
         "subject": "Math",
@@ -36098,7 +36107,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=AxY7nTkgR6M"
       },
       {
         "subject": "Science",
@@ -36158,7 +36168,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Space & Astronomy"
+        "topic": "Space & Astronomy",
+        "videoUrl": "https://www.youtube.com/watch?v=EUU0-ZpFoK4"
       },
       {
         "subject": "SocialStudies",
@@ -36217,7 +36228,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=c_0AkIPhckA"
       }
     ]
   },

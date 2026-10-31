@@ -40401,7 +40401,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=PIDQ5CZebK0"
       },
       {
         "subject": "Math",
@@ -40543,7 +40544,8 @@ const curriculum: DayContent[] = [
               "in an oven"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=y8vLjPctrcU"
       },
       {
         "subject": "SocialStudies",
@@ -40626,7 +40628,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Economy, Trade & Currency"
+        "topic": "Economy, Trade & Currency",
+        "videoUrl": "https://www.youtube.com/watch?v=pRL93risEg4"
       }
     ]
   },

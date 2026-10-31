@@ -37252,7 +37252,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=Hw4lJze7PnE"
       },
       {
         "subject": "Math",
@@ -37335,7 +37336,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Number Sense: Basic Counting"
+        "topic": "Number Sense: Basic Counting",
+        "videoUrl": "https://www.youtube.com/watch?v=7stosHbZZZg"
       },
       {
         "subject": "Science",
@@ -37512,7 +37514,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Community Helpers & Civic Roles (Basic)"
+        "topic": "Community Helpers & Civic Roles (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=TdsWxgd0c9g"
       }
     ]
   },

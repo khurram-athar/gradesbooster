@@ -35731,7 +35731,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=i86LgCv8WWo"
       },
       {
         "subject": "Math",
@@ -35791,7 +35792,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Addition & Subtraction"
+        "topic": "Addition & Subtraction",
+        "videoUrl": "https://www.youtube.com/watch?v=Nsxb1ll_pBs",
+        "videoUrls": [
+          {
+            "label": "Subtracting Mixed Numbers with Regrouping",
+            "url": "https://www.youtube.com/watch?v=hcEs_YstYrY"
+          }
+        ]
       },
       {
         "subject": "Science",
@@ -35851,7 +35859,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=fbORpSWCShk"
       },
       {
         "subject": "SocialStudies",
@@ -35976,7 +35985,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading: Poetry"
+        "topic": "Reading: Poetry",
+        "videoUrl": "https://www.youtube.com/watch?v=9k7B3JLLGsc"
       },
       {
         "subject": "Math",
@@ -36106,7 +36116,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Forces & Motion"
+        "topic": "Forces & Motion",
+        "videoUrl": "https://www.youtube.com/watch?v=ymvSy5vniCM"
       },
       {
         "subject": "SocialStudies",

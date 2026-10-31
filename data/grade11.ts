@@ -35654,7 +35654,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=B7WkeHHjXbU"
       },
       {
         "subject": "Functions",
@@ -35774,7 +35775,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=H-e5UkKBrGg"
       },
       {
         "subject": "Chemistry",
@@ -35833,7 +35835,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ElpqPZd1RJU"
       }
     ]
   },

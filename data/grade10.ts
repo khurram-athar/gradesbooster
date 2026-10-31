@@ -35579,7 +35579,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=pKZGEbcJmMA"
       },
       {
         "subject": "Math",
@@ -35639,7 +35640,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=0-C_H5J3uJU"
       },
       {
         "subject": "Science",
@@ -35698,7 +35700,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=znnp-Ivj2ek"
       },
       {
         "subject": "History",

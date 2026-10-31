@@ -35466,7 +35466,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=N02qJRDzrLo"
       },
       {
         "subject": "AdvancedFunctions",
@@ -35525,6 +35526,13 @@ const curriculum: DayContent[] = [
               "The fixed cost only"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=H6U5n8bqCFM",
+        "videoUrls": [
+          {
+            "label": "Rational Equation Application: Travel/Rate Problem",
+            "url": "https://www.youtube.com/watch?v=Zjx2hCjKtiQ"
           }
         ]
       },
@@ -35586,7 +35594,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Vectors: Angle Between Forces"
+        "topic": "Vectors: Angle Between Forces",
+        "videoUrl": "https://www.youtube.com/watch?v=4hIh8ujylWE"
       },
       {
         "subject": "Physics",
@@ -35645,7 +35654,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dxJGm2QeX1g"
       }
     ]
   },

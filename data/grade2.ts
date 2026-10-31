@@ -43848,7 +43848,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=AytqvSMkzzc"
       },
       {
         "subject": "Math",
@@ -43930,7 +43931,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Combinatorics"
+        "topic": "Combinatorics",
+        "videoUrl": "https://www.youtube.com/watch?v=8Qw4wl8IvOI"
       },
       {
         "subject": "Science",
@@ -44013,7 +44015,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=IJ4YajWrDcA"
       },
       {
         "subject": "SocialStudies",

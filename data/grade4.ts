@@ -37273,7 +37273,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=Inpv0Elqrk8"
       }
     ]
   },
@@ -37339,7 +37340,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=_fYIo2TcEa0"
       },
       {
         "subject": "Math",
@@ -37494,7 +37496,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Plants & Photosynthesis"
+        "topic": "Plants & Photosynthesis",
+        "videoUrl": "https://www.youtube.com/watch?v=v6YhghG7mzQ"
       },
       {
         "subject": "SocialStudies",

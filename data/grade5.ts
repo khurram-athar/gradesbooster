@@ -36518,7 +36518,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=dk6ZxH_RgFQ"
       },
       {
         "subject": "Math",
@@ -36578,7 +36579,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=-0wDI6xM3zw"
       },
       {
         "subject": "Science",
@@ -36638,7 +36640,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=p4pWafuvdrY"
       },
       {
         "subject": "SocialStudies",
@@ -36698,7 +36701,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Indigenous Peoples & First Nations"
+        "topic": "Indigenous Peoples & First Nations",
+        "videoUrl": "https://www.youtube.com/watch?v=QQsAtZV631w"
       }
     ]
   },
@@ -36764,7 +36768,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=TLviHJE4dEs"
       },
       {
         "subject": "Math",
@@ -36824,7 +36829,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Multiplication & Division",
+        "videoUrl": "https://www.youtube.com/watch?v=dNSrfoYLQZU"
       },
       {
         "subject": "Science",
@@ -36884,7 +36890,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Life Cycles & Growth"
+        "topic": "Life Cycles & Growth",
+        "videoUrl": "https://www.youtube.com/watch?v=DORbovoZUvU"
       },
       {
         "subject": "SocialStudies",
@@ -36965,7 +36972,8 @@ const curriculum: DayContent[] = [
               "debate new laws"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=biMC4vn_ysc"
       }
     ]
   },

@@ -35865,7 +35865,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=BTuvDwhzjYU"
       },
       {
         "subject": "Math",
@@ -35925,7 +35926,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=P28KoFFPXzA"
       },
       {
         "subject": "Science",
@@ -35985,7 +35987,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=OKC_g3obGTo"
       },
       {
         "subject": "SocialStudies",
@@ -36045,7 +36048,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=Bj90WNfhxYA"
       }
     ]
   },

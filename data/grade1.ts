@@ -44391,7 +44391,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=A1V_RMGXmZc"
       },
       {
         "subject": "Science",
@@ -44451,7 +44452,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=c-3KCzxEgek"
       },
       {
         "subject": "SocialStudies",
@@ -44534,7 +44536,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Civic Life & Cooperation (Basic)"
+        "topic": "Civic Life & Cooperation (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=M1xHm5FFohU"
       }
     ]
   },
