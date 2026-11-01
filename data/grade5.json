@@ -37172,58 +37172,58 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "The Canadian Armed Forces — Structure and Roles",
-        "summary": "Grade 5 Social Studies strand: the Canadian Armed Forces are made up of the Army, Navy, and Air Force, and they work to defend Canada, support international peace efforts, and assist during domestic emergencies.",
+        "title": "Parliament Hill: Canada's Parliament Buildings",
+        "summary": "Grade 5 Social Studies strand: Parliament Hill in Ottawa is home to Canada's Parliament buildings, including the Centre Block and the Peace Tower, where elected members and senators meet to debate and make laws for the country.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
         "quiz": [
           {
-            "q": "What are the three main branches of the Canadian Armed Forces?",
+            "q": "In which city is Parliament Hill located?",
             "options": [
-              "The Army, Navy, and Air Force",
-              "The Federal, Provincial, and Municipal governments",
-              "The Police, Fire Department, and Coast Guard",
-              "The Senate, House of Commons, and Courts"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is one role of the Canadian Armed Forces?",
-            "options": [
-              "Running Canadas school system",
-              "Collecting income taxes from citizens",
-              "Passing new federal laws",
-              "Defending Canada and supporting international peace efforts"
+              "Montréal",
+              "Toronto",
+              "Winnipeg",
+              "Ottawa"
             ],
             "answer": 3
           },
           {
-            "q": "How might the Canadian Armed Forces help during a domestic emergency, such as a flood?",
+            "q": "Which famous tower rises above the Centre Block?",
             "options": [
-              "By taking over the provincial government during the flood",
-              "They are never involved in emergencies within Canada",
-              "They only operate outside of Canada",
-              "By assisting with evacuation, rescue, and recovery efforts"
+              "The CN Tower",
+              "The Skylon Tower",
+              "The Calgary Tower",
+              "The Peace Tower"
             ],
             "answer": 3
           },
           {
-            "q": "What does it mean for the Canadian Armed Forces to support international peace efforts?",
+            "q": "What happens in Canada's Parliament buildings?",
             "options": [
-              "By collecting taxes from foreign countries",
-              "They replace the governments of other countries",
-              "They may take part in peacekeeping missions in other countries",
-              "They are not permitted to work outside Canada under any circumstances"
+              "Judges hear criminal trials",
+              "Elected members and senators debate and pass laws",
+              "Provincial premiers set school calendars",
+              "Mayors approve city parking rules"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which river flows beside Parliament Hill?",
+            "options": [
+              "The Fraser River",
+              "The St. Lawrence River",
+              "The Ottawa River",
+              "The Red River"
             ],
             "answer": 2
           },
           {
-            "q": "Why might a country maintain armed forces even during peaceful times?",
+            "q": "Why is Parliament Hill an important symbol for Canadians?",
             "options": [
-              "Armed forces serve no purpose during peaceful times",
-              "To be prepared to defend the country and respond to emergencies if needed",
-              "To collect taxes during peaceful times",
-              "Armed forces are only useful during a declared war"
+              "It is where Canada's first settlers landed",
+              "It is the centre of Canada's national government",
+              "It is the largest park in the country",
+              "It is Canada's busiest shipping port"
             ],
             "answer": 1
           }
@@ -53752,19 +53752,19 @@
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: The Canadian Armed Forces — Structure and Roles; Social Studies: The Role of Ontarios Lieutenant Governor; Social Studies: The Canadian Armed Forces and National Defence; The House of Commons: Where Canadas Laws Begin",
+        "summary": "A practice recap of recent Social Studies lessons: Parliament Hill: Canada's Parliament Buildings; Social Studies: The Role of Ontarios Lieutenant Governor; Social Studies: The Canadian Armed Forces and National Defence; The House of Commons: Where Canadas Laws Begin",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
         "quiz": [
           {
-            "q": "What are the three main branches of the Canadian Armed Forces?",
+            "q": "The Peace Tower is part of which famous Canadian site?",
             "options": [
-              "The Army, Navy, and Air Force",
-              "The Federal, Provincial, and Municipal governments",
-              "The Police, Fire Department, and Coast Guard",
-              "The Senate, House of Commons, and Courts"
+              "Pier 21",
+              "Niagara Falls",
+              "The Calgary Stampede grounds",
+              "Parliament Hill"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "Who does the Lieutenant Governor represent in Ontario?",

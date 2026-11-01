@@ -35703,63 +35703,62 @@
       },
       {
         "subject": "History",
-        "title": "The Padlock Law of Quebec, 1937",
-        "summary": "Grade 10 History strand: the Padlock Law, passed by the Quebec government in 1937, allowed authorities to shut and padlock any premises used to propagate communism or bolshevism without a trial, a measure later challenged as an infringement on civil liberties.",
+        "title": "The Dirty Thirties: Drought and Dust on the Canadian Prairies",
+        "summary": "Grade 10 History strand: during the 1930s, severe drought, soil erosion and dust storms devastated farms in Saskatchewan, Alberta and Manitoba; together with collapsing wheat prices, they forced many farm families onto relief or off the land and led to federal measures such as the Prairie Farm Rehabilitation Act of 1935.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
         "quiz": [
           {
-            "q": "In what year was the Padlock Law passed?",
+            "q": "What name is commonly given to the decade of drought and economic hardship on the Prairies in the 1930s?",
             "options": [
-              "1867",
-              "1949",
-              "1905",
-              "1937"
+              "The Golden Harvest",
+              "The Dirty Thirties",
+              "The Roaring Twenties",
+              "The Quiet Years"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Which government passed the Padlock Law?",
+            "q": "Which two factors together hit Prairie farmers hardest in the 1930s?",
             "options": [
-              "The government of Quebec",
-              "The government of British Columbia",
-              "The government of Ontario",
-              "The federal government of Canada"
+              "Foreign land ownership and new tariffs on machinery",
+              "Prolonged drought and collapsing wheat prices",
+              "Heavy rainfall and record wheat exports",
+              "Mass migration to cities and a ban on wheat sales"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was the main goal of the Prairie Farm Rehabilitation Act of 1935?",
+            "options": [
+              "To help farmers conserve soil and water through measures such as shelterbelts and dams",
+              "To relocate Prairie farmers to Ontario",
+              "To end wheat exports",
+              "To nationalize all Prairie farmland"
             ],
             "answer": 0
           },
           {
-            "q": "What could authorities do under the Padlock Law?",
+            "q": "What was a \"Bennett buggy\"?",
             "options": [
-              "Grant additional voting rights to every citizen",
-              "Shut and padlock any premises used to propagate communism or bolshevism without a trial",
-              "Fund new provincial highways across Quebec",
-              "Establish a new provincial bank"
+              "A type of tractor",
+              "A government relief truck",
+              "A horse-drawn train car",
+              "A car pulled by horses because the owner could not afford gasoline"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "What broader concern did the Padlock Law later raise?",
+            "q": "Why did so much soil blow away in the dust storms of the Dirty Thirties?",
             "options": [
-              "Concerns about international trade tariffs",
-              "Concerns about civil liberties and freedom of expression",
-              "Concerns about railway safety standards",
-              "Concerns about the price of wheat"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What legal concept did critics argue the Padlock Law violated by allowing action without a trial?",
-            "options": [
-              "Responsible government",
-              "Free trade",
-              "Due process",
-              "Universal suffrage"
+              "Heavy rains turned the soil to dust",
+              "Cold winters froze the soil in place",
+              "Drought dried out the exposed topsoil and strong winds lifted it",
+              "Farmers had stopped planting crops by choice"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Government & Civics"
+        ]
       }
     ]
   },
@@ -35952,60 +35951,60 @@
       },
       {
         "subject": "History",
-        "title": "The National Housing Act of 1938",
-        "summary": "Grade 10 History strand: the National Housing Act of 1938 expanded federal involvement in housing by offering government-backed loans to encourage home construction and repair during the Great Depression, laying groundwork for later federal housing policy in Canada.",
+        "title": "The Royal Tour of 1939: King George VI and Queen Elizabeth in Canada",
+        "summary": "Grade 10 History strand: in May and June 1939, King George VI and Queen Elizabeth toured Canada, the first visit by a reigning British monarch, strengthening ties to the Crown on the eve of the Second World War; the royal couple also visited the United States on the same trip.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
         "quiz": [
           {
-            "q": "In what year was the National Housing Act passed?",
+            "q": "Which monarch and consort toured Canada in 1939?",
             "options": [
-              "1949",
-              "1905",
-              "1867",
-              "1938"
+              "King Edward VIII and Wallis Simpson",
+              "Queen Victoria and Prince Albert",
+              "King George VI and Queen Elizabeth",
+              "King George V and Queen Mary"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "What did the National Housing Act offer to encourage home construction?",
+            "q": "What made the 1939 royal tour historically significant?",
             "options": [
-              "Mandatory military service for builders",
-              "Free land grants to every citizen",
-              "A new national currency",
-              "Government-backed loans"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "During what economic period was the National Housing Act introduced?",
-            "options": [
-              "The height of the Klondike Gold Rush",
-              "The Great Depression",
-              "The years immediately following Confederation",
-              "The dot-com boom of the 1990s"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What broader policy area did the National Housing Act help establish?",
-            "options": [
-              "Federal involvement in housing policy",
-              "A national system of criminal courts",
-              "A national postal service",
-              "Federal control over provincial elections"
+              "It was the first visit to Canada by a reigning British monarch",
+              "It ended a Canada–US trade dispute",
+              "It marked Canada's declaration of independence",
+              "It was the last visit ever made by a monarch"
             ],
             "answer": 0
           },
           {
-            "q": "Why might a government offer backed loans for housing during a depression?",
+            "q": "Why did the timing of the tour matter?",
             "options": [
-              "To discourage any new construction during hard times",
-              "To eliminate the need for any future housing",
-              "To stimulate construction activity and employment during an economic downturn",
-              "To transfer all housing responsibility to foreign governments"
+              "It took place right after the Second World War ended",
+              "It celebrated the 100th anniversary of Confederation",
+              "It followed the signing of the Treaty of Versailles",
+              "War in Europe was close, and the tour strengthened Canada's ties to Britain and the Crown"
             ],
-            "answer": 2
+            "answer": 3
+          },
+          {
+            "q": "Who was Canada's prime minister during the 1939 royal tour?",
+            "options": [
+              "William Lyon Mackenzie King",
+              "Lester B. Pearson",
+              "Louis St. Laurent",
+              "R. B. Bennett"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which other country did the royal couple visit on the same 1939 trip?",
+            "options": [
+              "Australia",
+              "The United States",
+              "France",
+              "India"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -37683,7 +37682,7 @@
       {
         "subject": "History",
         "title": "History Review: Canada on the Eve of the Second World War (Days 141-149)",
-        "summary": "Grade 10 History strand review: students revisit the On-to-Ottawa Trek, the Padlock Law, the National Housing Act, the Munich Agreement, the founding of Trans-Canada Air Lines, the National Film Board, the Canadian Wheat Board, the Ogdensburg Agreement, and the National Resources Mobilization Act.",
+        "summary": "Grade 10 History strand review: students revisit the On-to-Ottawa Trek, the Dirty Thirties on the Prairies, the 1939 royal tour, the Munich Agreement, the founding of Trans-Canada Air Lines, the National Film Board, the Canadian Wheat Board, the Ogdensburg Agreement, and the National Resources Mobilization Act.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
         "videoUrl": "https://www.youtube.com/watch?v=4O8syj77goQ",
@@ -37699,14 +37698,14 @@
             "answer": 2
           },
           {
-            "q": "What could authorities do under the Padlock Law?",
+            "q": "Which 1935 federal program aimed to conserve soil and water on drought-hit Prairie farms?",
             "options": [
-              "Shut and padlock any premises used to propagate communism or bolshevism without a trial",
-              "Fund new provincial highways across Quebec",
-              "Grant additional voting rights to every citizen",
-              "Establish a new provincial bank"
+              "The Munich Agreement",
+              "The Bank of Canada Act",
+              "The Prairie Farm Rehabilitation Act",
+              "The Naval Service Act"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "What territory did the Munich Agreement allow Nazi Germany to annex?",
@@ -52384,15 +52383,15 @@
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: History Review: Institution-Building in Early Twentieth-Century Canada; The On-to-Ottawa Trek of 1935; The Padlock Law of Quebec, 1937; The National Housing Act of 1938.",
+        "summary": "Practice recap covering: History Review: Institution-Building in Early Twentieth-Century Canada; The On-to-Ottawa Trek of 1935; The Dirty Thirties: Drought and Dust on the Canadian Prairies; The Royal Tour of 1939: King George VI and Queen Elizabeth in Canada.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
           {
             "q": "The On-to-Ottawa Trek of 1935 was triggered largely by discontent over conditions in which federal program?",
             "options": [
-              "The National Housing Act",
-              "The Padlock Law",
+              "The Prairie Farm Rehabilitation Act",
+              "The Bank of Canada Act",
               "The Income War Tax Act",
               "The relief camps for unemployed men"
             ],
@@ -52409,22 +52408,22 @@
             "answer": 0
           },
           {
-            "q": "What did Quebec's Padlock Law of 1937 authorize the provincial government to do?",
+            "q": "Why did many Prairie farm families leave their land or go on relief in the 1930s?",
             "options": [
-              "Grant free land to any citizen who requested it",
-              "Establish a new provincial currency separate from the rest of Canada",
-              "Require all citizens to vote in municipal elections",
-              "Close down premises suspected of being used to promote communism or bolshevism"
+              "Drought, dust storms and collapsing wheat prices ruined their incomes",
+              "A flood that covered the whole Prairies",
+              "A federal ban on growing wheat",
+              "The closing of the Canada–US border"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What was the main goal of the National Housing Act of 1938?",
+            "q": "Which king toured Canada in 1939, the first reigning British monarch to visit the country?",
             "options": [
-              "To ban all private home construction in Canada",
-              "To nationalize all existing housing in major cities",
-              "To fund the construction of federal highways exclusively",
-              "To encourage home construction and improve access to mortgage financing"
+              "King George V",
+              "King Edward VII",
+              "Queen Victoria",
+              "King George VI"
             ],
             "answer": 3
           }

@@ -35864,60 +35864,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Order of Canada — Honouring Outstanding Canadians",
-        "summary": "Grade 6 Social Studies strand: the Order of Canada is one of the countrys highest civilian honours, awarded to individuals who have made outstanding contributions to the nation in fields such as the arts, science, community service, and public life.",
+        "title": "Social Studies: Viola Desmond — Challenging Segregation in Nova Scotia",
+        "summary": "Grade 6 Social Studies strand: in 1946 Viola Desmond, a Black Nova Scotian businesswoman, refused to leave the whites-only main floor of a theatre in New Glasgow, Nova Scotia; her stand became a symbol of the struggle against racial discrimination in Canada.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
           {
-            "q": "What is the Order of Canada?",
+            "q": "In which province did Viola Desmond take her stand in 1946?",
             "options": [
-              "A branch of the Canadian military",
-              "A federal government department",
-              "A type of Canadian currency",
-              "One of the countrys highest civilian honours"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Who typically receives the Order of Canada?",
-            "options": [
-              "Individuals who have made outstanding contributions to Canada",
-              "Only citizens of other countries",
-              "Only elected members of Parliament",
-              "Only professional athletes"
+              "Nova Scotia",
+              "Manitoba",
+              "Quebec",
+              "Alberta"
             ],
             "answer": 0
           },
           {
-            "q": "In what kinds of fields might someone earn the Order of Canada?",
+            "q": "What did Viola Desmond refuse to do at the theatre?",
             "options": [
-              "Only professional cooking",
-              "The arts, science, community service, and public life",
-              "Only video game design",
-              "Only weather forecasting"
+              "Leave before the film began",
+              "Pay for her movie ticket",
+              "Sit in the balcony with her friends",
+              "Give up a main-floor seat she was told only white patrons could use"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why might a country create an honour like the Order of Canada?",
+            "q": "What was Viola Desmond's work?",
             "options": [
-              "To reward only government employees",
-              "To publicly recognize and celebrate significant contributions to society",
-              "To replace the need for elections",
-              "Honours like this have no real purpose"
+              "She was a member of Parliament",
+              "She was a newspaper editor",
+              "She was a ship captain",
+              "She was a businesswoman who ran a beauty salon and school"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why could receiving the Order of Canada inspire other Canadians?",
+            "q": "How is Viola Desmond honoured on Canadian money?",
             "options": [
-              "It only recognizes achievements made outside of Canada",
-              "The award is never publicized to the Canadian public",
-              "It highlights meaningful ways ordinary people can make a lasting difference",
-              "Such honours discourage people from contributing to their communities"
+              "She is featured on the $10 bill",
+              "She is featured on a gold coin",
+              "She is featured on the $100 bill",
+              "She is featured on the $5 bill"
             ],
-            "answer": 2
+            "answer": 0
+          },
+          {
+            "q": "Why is her story important in Canadian history?",
+            "options": [
+              "It led to the creation of Canada's national flag",
+              "It showed how segregation was challenged and helped inspire the fight for equal rights",
+              "It created the Numbered Treaties",
+              "It ended the residential school system overnight"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -37874,7 +37874,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Social Studies Review: Reconciliation, Government, and Canadian History",
-        "summary": "Grade 6 Social Studies strand review: students revisit residential schools, the Order of Canada, federal budgets, the numbered treaties, and Canadas role in the Korean War.",
+        "summary": "Grade 6 Social Studies strand review: students revisit residential schools, Viola Desmond, federal budgets, the numbered treaties, and Canadas role in the Korean War.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -37889,14 +37889,14 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What is the Order of Canada?",
+            "q": "In which Nova Scotia town did Viola Desmond take her 1946 stand at a theatre?",
             "options": [
-              "One of the countrys highest civilian honours",
-              "A type of Canadian currency",
-              "A branch of the Canadian military",
-              "A federal government department"
+              "Halifax",
+              "Truro",
+              "New Glasgow",
+              "Sydney"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
             "q": "What does a federal budget outline?",
@@ -52710,7 +52710,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Vimy Ridge and Canada's Role in the First World War; Social Studies: Residential Schools in Canada — A History; Social Studies: The Order of Canada — Honouring Outstanding Canadians; Social Studies: The Canadian Museum for Human Rights.",
+        "summary": "A practice recap of recent Social Studies lessons: Vimy Ridge and Canada's Role in the First World War; Social Studies: Residential Schools in Canada — A History; Social Studies: Viola Desmond — Challenging Segregation in Nova Scotia; Social Studies: The Canadian Museum for Human Rights.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -52725,14 +52725,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What is the Order of Canada?",
+            "q": "Which Canadian is featured on the front of the $10 bill?",
             "options": [
-              "One of Canada's highest civilian honours, awarded for outstanding achievement and service",
-              "A branch of the Canadian military",
-              "A law passed by the House of Commons",
-              "A political party in Canada"
+              "Sir John A. Macdonald",
+              "Viola Desmond",
+              "Laura Secord",
+              "Terry Fox"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
             "q": "What were residential schools in Canada designed to do?",

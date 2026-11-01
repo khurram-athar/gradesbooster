@@ -44775,82 +44775,82 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Our School Board: Supporting Many Schools",
-        "summary": "Grade 1 Social Studies strand: a school board oversees many schools in an area, helping make decisions about education for a whole region.",
-        "resourceLabel": "YouTube: Our School Board: Supporting Many Schools",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Board%3A%20Supporting%20Many%20Schools%20grade%201%20educational",
+        "title": "Bike Safety: Why We Wear a Helmet",
+        "summary": "Grade 1 Social Studies strand: wearing a helmet and following safety rules help keep children safe when they ride bicycles in their community.",
+        "resourceLabel": "YouTube: Bike Safety: Why We Wear a Helmet",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Bike%20Safety%3A%20Why%20We%20Wear%20a%20Helmet%20grade%201%20educational",
         "quiz": [
           {
-            "q": "What does a school board oversee?",
+            "q": "Why should you wear a helmet when you ride a bike?",
             "options": [
-              "Many schools in an area",
-              "Only school buses",
-              "Only sports teams",
-              "Just one single classroom"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Does a school board oversee just one school or many schools?",
-            "options": [
-              "Only private homes",
-              "Just one school",
-              "No schools at all",
-              "Many schools"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is a school board an important part of education?",
-            "options": [
-              "It replaces teachers completely",
-              "It has no role in education",
-              "It only decides lunch menus",
-              "It helps make decisions that support many schools"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which of these might a school board help decide?",
-            "options": [
-              "The colour of every students shoes",
-              "Personal weekend plans for families",
-              "How schools in the area are run",
-              "What every student eats for breakfast at home"
+              "It makes the bell louder",
+              "It makes the bike go faster",
+              "It protects your head if you fall",
+              "It keeps your bike clean"
             ],
             "answer": 2
           },
           {
-            "q": "A school board works to support ___ across a region.",
+            "q": "When should you wear a bike helmet?",
             "options": [
-              "Only sports",
-              "Education",
-              "Only art class",
-              "Nothing important"
+              "Every time you ride",
+              "Only on weekends",
+              "Only on long trips",
+              "Only when it rains"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How should a bike helmet fit?",
+            "options": [
+              "Loose and tipped back",
+              "Snug and level on your head with the strap buckled",
+              "With the strap hanging open",
+              "Tilted over one ear"
             ],
             "answer": 1
+          },
+          {
+            "q": "Which is a safe way to ride your bike?",
+            "options": [
+              "Ride with no hands down a hill",
+              "Ride without looking ahead",
+              "Ride in the middle of a busy street",
+              "Follow the rules and stay in safe places"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Bike safety is important because it helps ___.",
+            "options": [
+              "prevent head injuries",
+              "keep the weather dry",
+              "make bikes lighter",
+              "make hills smaller"
+            ],
+            "answer": 0
           }
         ],
         "worksheet": [
           {
-            "prompt": "What does a school board do?",
+            "prompt": "Why do we wear a helmet on a bike?",
             "answers": [
-              "oversees many schools",
-              "makes decisions about education"
+              "to protect our head",
+              "to keep our head safe"
             ]
           },
           {
-            "prompt": "Does a school board oversee just one school or many schools?",
+            "prompt": "When should you wear a helmet?",
             "answers": [
-              "many schools",
-              "many schools in an area"
+              "every time I ride",
+              "always"
             ]
           },
           {
-            "prompt": "Why is a school board important?",
+            "prompt": "How should a helmet fit?",
             "answers": [
-              "helps schools run well",
-              "supports education for many students"
+              "snug and level",
+              "snug with the strap buckled"
             ]
           }
         ]
@@ -63825,17 +63825,17 @@
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Our School Board: Supporting Many Schools; Water Systems: How Clean Water Reaches Our Homes; World Landmarks: Famous Places Around the World; Wild Animals That Live Near Our Community.",
+        "summary": "A practice recap of recent Social Studies lessons: Bike Safety: Why We Wear a Helmet; Water Systems: How Clean Water Reaches Our Homes; World Landmarks: Famous Places Around the World; Wild Animals That Live Near Our Community.",
         "resourceLabel": "TVO Learn: Grade 1 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
         "quiz": [
           {
-            "q": "What does a school board oversee?",
+            "q": "What should you always wear when you ride a bike?",
             "options": [
-              "Many schools in an area",
-              "Only school buses",
-              "Only sports teams",
-              "Just one single classroom"
+              "A helmet",
+              "Swim goggles",
+              "A scarf",
+              "Sandals"
             ],
             "answer": 0
           },

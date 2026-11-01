@@ -36093,63 +36093,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Independent Reading: Climate Fiction and Environmental Storytelling",
-        "summary": "Grade 11 English strand: climate fiction, often called cli-fi, imagines characters and societies confronting environmental change and its consequences, using narrative to make abstract scientific projections feel immediate, personal, and morally urgent.",
+        "title": "Independent Reading: Memoir and Narrative Nonfiction",
+        "summary": "Grade 11 English strand: a memoir is a first-person account of a particular period or set of experiences in the author's life, using storytelling techniques such as scene, dialogue and reflection to explore memory and meaning while remaining factual.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
         "quiz": [
           {
-            "q": "What does climate fiction typically imagine?",
+            "q": "What distinguishes a memoir from a full autobiography?",
             "options": [
-              "Characters and societies confronting environmental change and its consequences",
-              "A utopian society that has already solved every environmental problem",
-              "A setting entirely disconnected from any scientific concept",
-              "A world with no environmental concerns of any kind"
+              "It is entirely invented",
+              "It is written only in the third person",
+              "It focuses on a specific period, theme or set of experiences rather than a whole life",
+              "It is always written by a historian"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which narrative point of view is most typical of memoir?",
+            "options": [
+              "First person",
+              "Omniscient third person",
+              "Objective third person",
+              "Second person"
             ],
             "answer": 0
           },
           {
-            "q": "What is another common name for climate fiction?",
+            "q": "What does a memoirist usually add beyond reporting what happened?",
             "options": [
-              "Epistolary fiction",
-              "Detective fiction",
-              "Hard-boiled fiction",
-              "Cli-fi"
+              "Reflection on what the events meant",
+              "A fictional ending",
+              "Invented supporting characters",
+              "Footnoted legal arguments"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What effect can narrative have on abstract scientific projections about climate change?",
+            "q": "Why is memory a challenge for memoir writers?",
             "options": [
-              "It always makes scientific projections seem less believable",
-              "It removes any moral dimension from the topic",
-              "It can make the projections feel immediate, personal, and morally urgent",
-              "It always replaces the need for any scientific data within the story"
+              "Memoirists cannot use scenes",
+              "Memories can be incomplete or shaped by perspective",
+              "Memoirs are not allowed to include dialogue",
+              "Memoirs must be under 1,000 words"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why might an author set a climate fiction story in a near-future version of a real city?",
+            "q": "Which technique helps narrative nonfiction read like a story?",
             "options": [
-              "Doing so guarantees the story cannot be read as fiction",
-              "Near-future settings remove all stakes from a narrative",
-              "Real cities cannot appear in works of fiction",
-              "To make the environmental consequences feel plausible and close to the readers own experience"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What kind of urgency does climate fiction often aim to create in its readers?",
-            "options": [
-              "An urgency limited strictly to questions of grammar",
-              "An urgency to memorize scientific formulas",
-              "A moral and emotional urgency about environmental change",
-              "No urgency of any kind, since the genre is purely decorative"
+              "Leaving out all names",
+              "Listing facts alphabetically",
+              "Building scenes with dialogue and sensory detail",
+              "Using only statistics"
             ],
             "answer": 2
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Independent Reading"
       },
       {
         "subject": "Functions",
@@ -37612,14 +37612,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "What does climate fiction typically imagine?",
+            "q": "A memoir is best described as ___.",
             "options": [
-              "A world with no environmental concerns of any kind",
-              "A nostalgic look back at a pre-industrial society with no technology",
-              "Characters and societies confronting environmental change and its consequences",
-              "A setting entirely disconnected from any scientific concept"
+              "a persuasive essay",
+              "a true first-person account of part of the author's life",
+              "a novel about invented characters",
+              "a poem in a fixed form"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "What does a political cartoon typically compress into a single frame?",
@@ -52459,17 +52459,17 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Independent Reading: Climate Fiction and Environmental Storytelling; Media Literacy: Political Cartoons and the Grammar of Visual Satire; Oral Communication: Vocal Delivery — Pace, Pitch, and Emphasis; Reading: Analyzing In Medias Res and Narrative Beginnings.",
+        "summary": "Practice recap covering: Independent Reading: Memoir and Narrative Nonfiction; Media Literacy: Political Cartoons and the Grammar of Visual Satire; Oral Communication: Vocal Delivery — Pace, Pitch, and Emphasis; Reading: Analyzing In Medias Res and Narrative Beginnings.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
           {
-            "q": "What does climate fiction typically imagine?",
+            "q": "Why do memoir writers include reflection?",
             "options": [
-              "Characters and societies confronting environmental change and its consequences",
-              "A utopian future where technology has already solved every environmental problem",
-              "A setting entirely disconnected from any scientific concept",
-              "A world with no environmental concerns of any kind"
+              "To explain what the experiences meant to them",
+              "To add invented plot twists",
+              "To avoid describing scenes",
+              "To cite legal precedents"
             ],
             "answer": 0
           },

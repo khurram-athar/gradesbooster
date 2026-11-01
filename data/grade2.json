@@ -43726,60 +43726,60 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "The Order of Canada: Honouring Outstanding Canadians",
-        "summary": "Grade 2 Social Studies strand: the Order of Canada is a special honour given to Canadians who have made an outstanding contribution to their community or country.",
-        "resourceLabel": "YouTube: The Order of Canada: Honouring Outstanding Canadians",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Order%20of%20Canada%3A%20Honouring%20Outstanding%20Canadians%20grade%202%20educational",
+        "title": "Robert Munsch: A Famous Canadian Storyteller",
+        "summary": "Grade 2 Social Studies strand: Robert Munsch is a well-known Canadian children's author whose funny stories, like The Paper Bag Princess and Love You Forever, are enjoyed by families around the world.",
+        "resourceLabel": "YouTube: Robert Munsch: A Famous Canadian Storyteller",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Robert%20Munsch%3A%20A%20Famous%20Canadian%20Storyteller%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is the Order of Canada?",
+            "q": "Who is Robert Munsch?",
             "options": [
-              "A type of holiday",
-              "A kind of coin",
-              "A sports league",
-              "A special honour for outstanding Canadians"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Who might receive the Order of Canada?",
-            "options": [
-              "Someone who made an outstanding contribution",
-              "Only politicians",
-              "Anyone chosen at random",
-              "Only professional athletes"
+              "A Canadian children's author",
+              "A zookeeper",
+              "A hockey coach",
+              "A big-city mayor"
             ],
             "answer": 0
           },
           {
-            "q": "Why does Canada give out this kind of honour?",
+            "q": "In The Paper Bag Princess, what does the princess wear after the dragon burns her clothes?",
             "options": [
-              "It has no purpose",
-              "To recognize people who have helped their community or country",
-              "To give away free prizes",
-              "To replace elections"
+              "A paper bag",
+              "A fancy gown",
+              "A winter coat",
+              "A superhero cape"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "The Order of Canada could be given to someone who worked in ___.",
+            "q": "Which Robert Munsch book is about a parent who sings \"I'll love you forever\"?",
             "options": [
-              "Only professional sports",
-              "Many different fields, like science or the arts",
-              "No particular field",
-              "Only one specific job"
+              "Moira's Birthday",
+              "Mud Puddle",
+              "The Paper Bag Princess",
+              "Love You Forever"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Recognizing outstanding Canadians can help inspire others to ___.",
+            "q": "How does Robert Munsch often try out a new story?",
             "options": [
-              "Avoid working hard",
-              "Ignore their community",
-              "Make a positive difference too",
-              "Stop trying to help others"
+              "He sings it on a stage",
+              "He waits until it is printed",
+              "He draws a map of it first",
+              "He tells it out loud to children"
             ],
-            "answer": 2
+            "answer": 3
+          },
+          {
+            "q": "Why do many families enjoy stories by authors like Robert Munsch?",
+            "options": [
+              "They show how to cook dinner",
+              "They are funny and fun to read aloud",
+              "They list the school rules",
+              "They explain how to ride a bike step by step"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -44018,60 +44018,60 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Our School Board: Supporting Many Schools",
-        "summary": "Grade 2 Social Studies strand: a school board oversees many schools in an area, helping make decisions about education for a whole region.",
-        "resourceLabel": "YouTube: Our School Board: Supporting Many Schools",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Board%3A%20Supporting%20Many%20Schools%20grade%202%20educational",
+        "title": "Our Local Hospital: Doctors, Nurses and Helpers",
+        "summary": "Grade 2 Social Studies strand: a hospital is a community service where doctors, nurses and other helpers care for people who are sick or hurt and help keep our community healthy.",
+        "resourceLabel": "YouTube: Our Local Hospital: Doctors, Nurses and Helpers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Local%20Hospital%3A%20Doctors%2C%20Nurses%20and%20Helpers%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does a school board oversee?",
+            "q": "What is a hospital?",
             "options": [
-              "Only school buses",
-              "Only sports teams",
-              "Just one single classroom",
-              "Many schools in an area"
+              "A place to watch movies",
+              "A place to borrow books",
+              "A place where people get care when they are sick or hurt",
+              "A place to buy groceries"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who helps take care of patients at a hospital?",
+            "options": [
+              "Pilots and sailors",
+              "Bakers and farmers",
+              "Builders and painters",
+              "Doctors and nurses"
             ],
             "answer": 3
           },
           {
-            "q": "Does a school board oversee just one school or many schools?",
+            "q": "Which number do you call in Canada if there is a serious emergency?",
             "options": [
-              "Only private homes",
-              "Just one school",
-              "No schools at all",
-              "Many schools"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is a school board an important part of education?",
-            "options": [
-              "It replaces teachers completely",
-              "It helps make decisions that support many schools",
-              "It only decides lunch menus",
-              "It has no role in education"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which of these might a school board help decide?",
-            "options": [
-              "How schools in the area are run",
-              "Personal weekend plans for families",
-              "The colour of every students shoes",
-              "What every student eats for breakfast at home"
+              "9-1-1",
+              "8-0-0",
+              "4-1-1",
+              "1-2-3"
             ],
             "answer": 0
           },
           {
-            "q": "A school board works to support ___ across a region.",
+            "q": "How do hospital helpers keep germs from spreading?",
             "options": [
-              "Only sports",
-              "Only art class",
-              "Education",
-              "Nothing important"
+              "They leave the windows open for dust",
+              "They wash their hands often",
+              "They sneeze without covering",
+              "They share cups with patients"
             ],
-            "answer": 2
+            "answer": 1
+          },
+          {
+            "q": "Hospitals help our community by ___.",
+            "options": [
+              "growing vegetables",
+              "building bridges",
+              "delivering the mail",
+              "taking care of people's health"
+            ],
+            "answer": 3
           }
         ]
       }
@@ -45956,7 +45956,7 @@
       {
         "subject": "SocialStudies",
         "title": "Social Studies Review: Government, Money, and Our Communities",
-        "summary": "Grade 2 Social Studies strand review: students revisit our senate, the Order of Canada, our school board, world currency, land acknowledgements, our legislature, our yearbook, lighthouses, and our fire hall.",
+        "summary": "Grade 2 Social Studies strand review: students revisit our senate, Robert Munsch, our local hospital, world currency, land acknowledgements, our legislature, our yearbook, lighthouses, and our fire hall.",
         "resourceLabel": "YouTube: Social Studies Review: Government, Money, and Our Communities",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Government%2C%20Money%2C%20and%20Our%20Communities%20grade%202%20educational",
         "quiz": [
@@ -45971,14 +45971,14 @@
             "answer": 2
           },
           {
-            "q": "What is the Order of Canada?",
+            "q": "Who is the Canadian author of The Paper Bag Princess?",
             "options": [
-              "A special honour for outstanding Canadians",
-              "A sports league",
-              "A type of holiday",
-              "A kind of coin"
+              "Beatrix Potter",
+              "A. A. Milne",
+              "Dr. Seuss",
+              "Robert Munsch"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
             "q": "What is a land acknowledgement?",
@@ -61258,7 +61258,7 @@
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Fire Safety: What to Do If There Is a Fire; Social Studies Review: Helpers, Holidays, and Our Country; The Order of Canada: Honouring Outstanding Canadians; Our School Board: Supporting Many Schools.",
+        "summary": "A practice recap of recent Social Studies lessons: Fire Safety: What to Do If There Is a Fire; Social Studies Review: Helpers, Holidays, and Our Country; Robert Munsch: A Famous Canadian Storyteller; Our Local Hospital: Doctors, Nurses and Helpers.",
         "resourceLabel": "TVO Learn: Grade 2 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-2-social-studies",
         "quiz": [
@@ -61273,14 +61273,14 @@
             "answer": 3
           },
           {
-            "q": "What is the Order of Canada?",
+            "q": "Robert Munsch is a famous Canadian ___.",
             "options": [
-              "A sports team",
-              "An honour given to Canadians who have made an outstanding contribution to the country",
-              "A type of Canadian currency",
-              "A national holiday"
+              "mayor",
+              "astronaut",
+              "children's author",
+              "hockey goalie"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
             "q": "What do we call a helper who stops traffic so people can cross the street safely?",
