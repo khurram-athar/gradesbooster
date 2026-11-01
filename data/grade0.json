@@ -40988,7 +40988,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ChqnN3cKzXQ"
       },
       {
         "subject": "Math",
@@ -41048,7 +41049,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=o13sxSaXxKM"
       },
       {
         "subject": "Science",
@@ -41108,7 +41110,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Jl_h9Nm4COM"
       },
       {
         "subject": "SocialStudies",
@@ -41191,7 +41194,8 @@
             ]
           }
         ],
-        "topic": "Civic Life & Cooperation (Basic)"
+        "topic": "Civic Life & Cooperation (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=rw9NstM1Q4E"
       }
     ]
   },

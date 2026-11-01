@@ -45004,7 +45004,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=AOcyRXySUp8"
       },
       {
         "subject": "Science",
@@ -45087,7 +45088,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=nTsrGHzASJ0"
       },
       {
         "subject": "SocialStudies",

@@ -40990,7 +40990,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ChqnN3cKzXQ"
       },
       {
         "subject": "Math",
@@ -41050,7 +41051,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=o13sxSaXxKM"
       },
       {
         "subject": "Science",
@@ -41110,7 +41112,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Jl_h9Nm4COM"
       },
       {
         "subject": "SocialStudies",
@@ -41193,7 +41196,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Civic Life & Cooperation (Basic)"
+        "topic": "Civic Life & Cooperation (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=rw9NstM1Q4E"
       }
     ]
   },
