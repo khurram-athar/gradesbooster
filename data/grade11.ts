@@ -35850,6 +35850,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: conditional sentences pair an if-clause with a result clause to express real possibilities, hypothetical situations, or outcomes contrary to fact, and choosing the right conditional pattern lets a writer signal exactly how likely or how imaginary a scenario is.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=vXp0ETWXbWo",
         "quiz": [
           {
             "q": "What two parts make up a conditional sentence?",
@@ -35910,6 +35911,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: the chain rule differentiates a composite function by multiplying the derivative of the outer function, evaluated at the inner function, by the derivative of the inner function, allowing nested functions to be differentiated layer by layer.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=0T0QrHO56qg",
         "quiz": [
           {
             "q": "What kind of function does the chain rule differentiate?",
@@ -35969,6 +35971,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson explains how cells with the same genome become structurally and functionally different by turning specific genes on or off, producing specialized cell types such as muscle, nerve, and skin cells.",
         "resourceLabel": "YouTube: Cell Differentiation: How One Genome Makes Many Cell Types",
         "resourceUrl": "https://www.youtube.com/results?search_query=Cell%20Differentiation%3A%20How%20One%20Genome%20Makes%20Many%20Cell%20Types%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gwAz_BtVuLA",
         "quiz": [
           {
             "q": "Nearly all cells in a multicellular organism contain the same genome. What explains why they look and function differently?",
@@ -36028,6 +36031,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science Biology strand: an enzyme is a biological catalyst, typically a protein, that speeds up chemical reactions in living organisms without being consumed in the process.",
         "resourceLabel": "YouTube: Enzymes and Biological Catalysts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Enzymes%20and%20Biological%20Catalysts%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gUncqL1ul8Q",
         "quiz": [
           {
             "q": "An enzyme is best described as ___.",

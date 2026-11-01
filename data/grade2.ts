@@ -44089,6 +44089,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that many stories have a problem faced by a character and a solution, which is how the character solves or fixes that problem by the end.",
         "resourceLabel": "YouTube: Story Solutions: How Problems Get Solved",
         "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Solutions%3A%20How%20Problems%20Get%20Solved%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RGzKUdWkcAs",
         "quiz": [
           {
             "q": "What do we call how a character fixes a problem in a story?",
@@ -44169,6 +44170,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare the height of objects and people, using the words taller and shorter to describe which one measures more or less from bottom to top.",
         "resourceLabel": "YouTube: Comparing Height: Taller and Shorter",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Height%3A%20Taller%20and%20Shorter%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hA8-xgHITTc",
         "quiz": [
           {
             "q": "If one building measures more from bottom to top than another, it is ___.",
@@ -44249,6 +44251,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: many animals leave tracks, or footprints, in snow or mud, and scientists can study the shape and pattern of tracks to identify which animal made them.",
         "resourceLabel": "YouTube: Animal Tracks: Reading Footprints in Snow and Mud",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Tracks%3A%20Reading%20Footprints%20in%20Snow%20and%20Mud%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=854O9tRCvMU",
         "quiz": [
           {
             "q": "What are animal tracks?",
@@ -44309,6 +44312,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: different countries use different kinds of money, called currency, and comparing currencies helps us understand how trade and travel work around the world.",
         "resourceLabel": "YouTube: World Currency: Comparing Money From Different Countries",
         "resourceUrl": "https://www.youtube.com/results?search_query=World%20Currency%3A%20Comparing%20Money%20From%20Different%20Countries%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=L3Ej3wr__w0",
         "quiz": [
           {
             "q": "What is the money used by a country called?",

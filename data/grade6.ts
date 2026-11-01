@@ -36125,6 +36125,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: located in Winnipeg, the Canadian Museum for Human Rights is the first museum in the world solely dedicated to the evolution, celebration, and future of human rights, featuring exhibits on both Canadian and global human rights issues.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=Ym6jgeOlpyc",
         "quiz": [
           {
             "q": "In which Canadian city is the Canadian Museum for Human Rights located?",
@@ -36191,6 +36192,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: sponsored content and native advertising are paid promotions designed to look like regular articles or posts, making it important for readers to identify labels such as sponsored or ad before trusting the information.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=BP1tbqkNctA",
         "quiz": [
           {
             "q": "What is sponsored content?",
@@ -36251,6 +36253,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: to add fractions with unlike denominators, students find a common denominator, rewrite each fraction as an equivalent fraction, then add the numerators.",
         "resourceLabel": "YouTube: Fractions: Adding Fractions with Unlike Denominators",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Adding%20Fractions%20with%20Unlike%20Denominators%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CoCmsyFQ_Xc",
         "quiz": [
           {
             "q": "What must fractions have before they can be added directly?",
@@ -36311,6 +36314,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: nuclear power plants generate electricity by splitting uranium atoms in a process called fission, which releases heat used to produce steam that spins turbines connected to generators.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=jpDRfaWYk3I",
         "quiz": [
           {
             "q": "What process do nuclear power plants use to release energy?",
@@ -36371,6 +36375,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: Canada is made up of ten provinces and three territories, each with its own capital city, and understanding their locations and regional groupings helps build a clearer picture of the countrys geography.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=vCfqg9GrB_0",
         "quiz": [
           {
             "q": "How many provinces does Canada have?",

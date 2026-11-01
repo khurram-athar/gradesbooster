@@ -40410,6 +40410,7 @@ const curriculum: DayContent[] = [
         "summary": "Children practice using the time words yesterday, today, and tomorrow to describe when events happened or will happen relative to the current day.",
         "resourceLabel": "YouTube: Yesterday, Today, and Tomorrow",
         "resourceUrl": "https://www.youtube.com/results?search_query=Yesterday%2C%20Today%2C%20and%20Tomorrow%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=81FLtpoh51w",
         "topic": "Time & Money",
         "quiz": [
           {
@@ -40643,6 +40644,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a period is a small dot placed at the end of a telling sentence to show the reader the sentence is finished.",
         "resourceLabel": "YouTube: Punctuation: Periods at the End of a Sentence",
         "resourceUrl": "https://www.youtube.com/results?search_query=Punctuation%3A%20Periods%20at%20the%20End%20of%20a%20Sentence%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yKkWo3KrOXE",
         "topic": "Grammar: Sentence Structure",
         "quiz": [
           {
@@ -40763,6 +40765,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: the recycling symbol has three arrows chasing each other, showing that materials can be turned into something new instead of thrown away.",
         "resourceLabel": "YouTube: Recycling Symbols: What the Arrows Mean",
         "resourceUrl": "https://www.youtube.com/results?search_query=Recycling%20Symbols%3A%20What%20the%20Arrows%20Mean%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hRT7DTYaEic",
         "quiz": [
           {
             "q": "How many arrows make up the recycling symbol?",
@@ -40845,6 +40848,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Social Studies strand: the town hall is a building where local leaders meet to make decisions and provide services for the community.",
         "resourceLabel": "YouTube: Our Town Hall: Where Decisions Are Made",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Town%20Hall%3A%20Where%20Decisions%20Are%20Made%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FVQhFIF2-tI",
         "quiz": [
           {
             "q": "What is a town hall?",

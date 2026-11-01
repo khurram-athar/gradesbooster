@@ -35667,6 +35667,7 @@
         "summary": "Grade 12 English strand: golden age detective fiction, exemplified by writers such as Agatha Christie, presents a puzzle-like mystery solved through logical deduction from carefully planted clues, typically culminating in a formal revelation scene that identifies the culprit.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=98pNh3LtV8c",
         "quiz": [
           {
             "q": "What structure typically defines golden age detective fiction?",
@@ -35727,6 +35728,7 @@
         "summary": "Students apply the laws of exponents, including negative, zero, and rational exponents, to simplify complex expressions involving exponential terms with variable and numeric bases.",
         "resourceLabel": "YouTube: Laws of Exponents: Simplifying Exponential Expressions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Laws%20of%20Exponents%3A%20Simplifying%20Exponential%20Expressions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LkhPRz7Hocg",
         "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
@@ -35787,6 +35789,7 @@
         "summary": "This lesson finds the absolute maximum and minimum values of a function on a closed interval by comparing critical points to the interval's endpoints.",
         "resourceLabel": "YouTube: Optimization on a Closed Interval: Finding Absolute Extrema",
         "resourceUrl": "https://www.youtube.com/results?search_query=Optimization%20on%20a%20Closed%20Interval%3A%20Finding%20Absolute%20Extrema%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=JXVGPEOQCb8",
         "quiz": [
           {
             "q": "To find the absolute extrema of f(x) on a closed interval [a, b], you must evaluate f at ___.",
@@ -35846,6 +35849,7 @@
         "summary": "Grade 12 Physics strand: total internal reflection occurs when light travelling in a denser medium strikes a boundary with a less dense medium at an angle greater than the critical angle, reflecting entirely back into the denser medium, a principle exploited by fiber-optic cables to transmit light signals with minimal loss.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=5bkiQob8ikc",
         "quiz": [
           {
             "q": "What is total internal reflection?",

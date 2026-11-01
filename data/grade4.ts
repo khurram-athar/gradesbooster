@@ -37505,6 +37505,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: Canada has several national symbols, including the beaver, recognized for its role in the fur trade and industriousness, and the maple leaf, featured on the national flag and representing Canadian identity.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=tOse7AtAeHA",
         "quiz": [
           {
             "q": "Which animal is a well-known national symbol of Canada?",
@@ -37571,6 +37572,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practice using a thesaurus to find synonyms and choose the word that best fits the meaning and tone of a sentence, making their writing more precise and interesting.",
         "resourceLabel": "YouTube: Vocabulary: Using a Thesaurus for Precise Word Choice",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Using%20a%20Thesaurus%20for%20Precise%20Word%20Choice%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YgJoY0huDtE",
         "topic": "Vocabulary",
         "quiz": [
           {
@@ -37631,6 +37633,7 @@ const curriculum: DayContent[] = [
         "summary": "Students multiply 3-digit numbers by a single digit using the standard algorithm with regrouping, applying the skill to word problems about everyday quantities.",
         "resourceLabel": "YouTube: Multiplying 3-Digit by 1-Digit Numbers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%203-Digit%20by%201-Digit%20Numbers%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iesL2yyy8CU",
         "topic": "Multiplication & Division",
         "quiz": [
           {
@@ -37691,6 +37694,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: a keystone species is an animal that has a very large effect on its ecosystem, helping keep many other plants and animals in balance.",
         "resourceLabel": "YouTube: Keystone Species: Animals That Hold Ecosystems Together",
         "resourceUrl": "https://www.youtube.com/results?search_query=Keystone%20Species%3A%20Animals%20That%20Hold%20Ecosystems%20Together%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Dd-Bslj_bOI",
         "quiz": [
           {
             "q": "What is a keystone species?",
@@ -37751,6 +37755,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to use letter-number grid systems on maps and atlases to locate specific places, building on earlier map skills like scale and compass direction.",
         "resourceLabel": "YouTube: Social Studies: Map Skills: Grid References and Coordinates",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Map%20Skills%3A%20Grid%20References%20and%20Coordinates%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xR0Tq8Rkg6c",
         "topic": "Map Skills & Geography Basics",
         "quiz": [
           {

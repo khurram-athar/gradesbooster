@@ -36063,6 +36063,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to recognize when a narrator's credibility is in question — due to bias, limited knowledge, mental state, or deliberate deception — and to read 'against the grain' to infer what is really happening.",
         "resourceLabel": "YouTube: Reading: Analyzing Unreliable Narrators",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Unreliable%20Narrators%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=A-lDvHT2QyQ",
         "topic": "Reading Comprehension & Strategies",
         "quiz": [
           {
@@ -36123,6 +36124,7 @@ const curriculum: DayContent[] = [
         "summary": "Students substitute given numerical values into algebraic expressions and evaluate them accurately, applying the order of operations to expressions with variables.",
         "resourceLabel": "YouTube: Evaluating Algebraic Expressions by Substitution",
         "resourceUrl": "https://www.youtube.com/results?search_query=Evaluating%20Algebraic%20Expressions%20by%20Substitution%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=k-KiWkV81fQ",
         "topic": "Number Sense: Operations",
         "quiz": [
           {
@@ -36183,6 +36185,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: the human reproductive system produces reproductive cells and supports the development of offspring, beginning with fertilization and continuing through the distinct stages of prenatal development inside the uterus.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=als-gv_D7bc",
         "quiz": [
           {
             "q": "What is the primary function of the human reproductive system?",
@@ -36243,6 +36246,10 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: a continental shelf is the shallow seabed extending from a coastline, and international agreements such as the United Nations Convention on the Law of the Sea establish exclusive economic zones and maritime boundaries governing resource rights over these often valuable areas.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=KirNCAjA6KY",
+        "videoUrls": [
+          { "label": "Maritime Zones Explained", "url": "https://www.youtube.com/watch?v=znRyJvYERtw" }
+        ],
         "quiz": [
           {
             "q": "What is a continental shelf?",
@@ -36309,6 +36316,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: investigative journalism involves researching and exposing information that is often hidden, using verified evidence from multiple credible sources, and structuring an article around a clear, well-supported lede.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=euys8ZhP9qU",
         "quiz": [
           {
             "q": "What is the primary goal of investigative journalism?",
@@ -36369,6 +36377,7 @@ const curriculum: DayContent[] = [
         "summary": "Students examine growing sequences of numbers, such as toothpick or tile patterns, and classify their growth as linear, quadratic, or exponential based on how the terms change from stage to stage.",
         "resourceLabel": "YouTube: Recognizing Number Patterns: Linear, Quadratic, and Exponential Growth",
         "resourceUrl": "https://www.youtube.com/results?search_query=Recognizing%20Number%20Patterns%3A%20Linear%2C%20Quadratic%2C%20and%20Exponential%20Growth%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CxEFOozrMSE",
         "topic": "Patterns & Relations",
         "quiz": [
           {
@@ -36429,6 +36438,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: a glacier forms when accumulated snow compacts into dense ice that flows under its own weight, and as it moves it erodes and deposits material, carving landforms such as U-shaped valleys, moraines, and fjords.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=CyDRJADPu6U",
         "quiz": [
           {
             "q": "How does a glacier form?",
@@ -36489,6 +36499,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: a sovereign wealth fund is a state-owned investment fund, often built from resource revenue such as oil exports, that many resource-rich countries use to save and invest wealth for future generations rather than spending it all at once.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=kcOr8yO50FQ",
         "quiz": [
           {
             "q": "What is a sovereign wealth fund?",
