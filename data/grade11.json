@@ -36207,7 +36207,18 @@
             "answer": 3
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=cy4PiY5ERTI",
+        "videoUrls": [
+          {
+            "label": "Time Value of Money",
+            "url": "https://www.youtube.com/watch?v=cy4PiY5ERTI"
+          },
+          {
+            "label": "Inflation",
+            "url": "https://www.youtube.com/watch?v=mGui80BR7vk"
+          }
+        ]
       },
       {
         "subject": "Biology",
@@ -36265,6 +36276,17 @@
               "By using slightly different resources or occupying slightly different niches"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=z31y-ZtegZ8",
+        "videoUrls": [
+          {
+            "label": "Ecological Niches",
+            "url": "https://www.youtube.com/watch?v=z31y-ZtegZ8"
+          },
+          {
+            "label": "Competitive Exclusion Principle",
+            "url": "https://www.youtube.com/watch?v=rZ_up40FZVw"
           }
         ]
       },

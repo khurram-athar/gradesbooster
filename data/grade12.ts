@@ -35968,7 +35968,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=qQqC6A9LevY"
       },
       {
         "subject": "AdvancedFunctions",
@@ -36027,7 +36028,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=gI-qXk7XojA"
       },
       {
         "subject": "Calculus",
@@ -36148,7 +36150,18 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Forces & Motion"
+        "topic": "Forces & Motion",
+        "videoUrl": "https://www.youtube.com/watch?v=depiNaj8utI",
+        "videoUrls": [
+          {
+            "label": "Newton's Rings",
+            "url": "https://www.youtube.com/watch?v=depiNaj8utI"
+          },
+          {
+            "label": "Thin Film Interference",
+            "url": "https://www.youtube.com/watch?v=oXowkdgJPO4"
+          }
+        ]
       }
     ]
   },

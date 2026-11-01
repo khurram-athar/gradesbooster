@@ -36075,7 +36075,18 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=lr8pNp3WxBs",
+        "videoUrls": [
+          {
+            "label": "The Business Memo",
+            "url": "https://www.youtube.com/watch?v=lr8pNp3WxBs"
+          },
+          {
+            "label": "The Professional Email",
+            "url": "https://www.youtube.com/watch?v=rfZ6aTp5XuA"
+          }
+        ]
       },
       {
         "subject": "Math",
@@ -36135,7 +36146,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=i7idZfS8t8w"
       },
       {
         "subject": "Science",
@@ -36195,7 +36207,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Rocks, Fossils & Earth's History"
+        "topic": "Rocks, Fossils & Earth's History",
+        "videoUrl": "https://www.youtube.com/watch?v=_r_nFT2m-Vg"
       },
       {
         "subject": "History",
@@ -36254,7 +36267,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YmTx6ibbCW8"
       }
     ]
   },
