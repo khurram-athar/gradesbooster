@@ -37427,6 +37427,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: the Lieutenant Governor represents the Crown in Ontario, performing ceremonial duties such as opening the legislature and giving royal assent to new provincial laws.",
         "resourceLabel": "YouTube: Social Studies: The Role of Ontarios Lieutenant Governor",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Role%20of%20Ontarios%20Lieutenant%20Governor%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cK1iyZsRnbk",
         "quiz": [
           {
             "q": "Who does the Lieutenant Governor represent in Ontario?",
@@ -37493,6 +37494,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: an ellipsis, three dots, shows a pause, trailing thought, or omitted words, while an em dash marks a sudden break or emphasizes extra information in a sentence.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=rZh2aafe8y0",
         "quiz": [
           {
             "q": "What does an ellipsis usually show in a sentence?",

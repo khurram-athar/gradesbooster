@@ -36664,6 +36664,7 @@ const curriculum: DayContent[] = [
         "summary": "Students review the four functional sentence types -- declarative, interrogative, imperative, and exclamatory -- and practice using correct end punctuation and structure for each purpose in their own writing.",
         "resourceLabel": "YouTube: Grammar: The Four Sentence Types by Purpose",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20The%20Four%20Sentence%20Types%20by%20Purpose%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=AaB6k6cBRiI",
         "topic": "Grammar: Sentence Structure",
         "quiz": [
           {

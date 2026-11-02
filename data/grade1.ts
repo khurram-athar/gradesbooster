@@ -45272,6 +45272,7 @@ const curriculum: DayContent[] = [
         "summary": "Students spin a simple two- or three-colour spinner many times, record the results, and compare what actually happened to what they predicted using probability language.",
         "resourceLabel": "YouTube: Probability: Conducting a Simple Spinner Experiment",
         "resourceUrl": "https://www.youtube.com/results?search_query=Probability%3A%20Conducting%20a%20Simple%20Spinner%20Experiment%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RqFLe7hWBZ0",
         "topic": "Probability",
         "quiz": [
           {
@@ -45506,6 +45507,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: the -est word family and the -end word family share ending sounds, as in best, nest, and rest, or bend, send, and spend.",
         "resourceLabel": "YouTube: Word Families: -est and -end",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-est%20and%20-end%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gVzSdrA-8Ag",
         "quiz": [
           {
             "q": "Which word belongs to the -est family?",
@@ -45649,6 +45651,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: frogs and toads are both amphibians, but frogs usually have smooth, wet skin while toads usually have bumpy, dry skin.",
         "resourceLabel": "YouTube: Frogs and Toads: Comparing Two Amphibians",
         "resourceUrl": "https://www.youtube.com/results?search_query=Frogs%20and%20Toads%3A%20Comparing%20Two%20Amphibians%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=K3oG6lyqZDI",
         "quiz": [
           {
             "q": "What kind of animals are both frogs and toads?",
@@ -45732,6 +45735,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about wild animals that commonly live near their community, such as squirrels, rabbits, and birds, and discuss where these animals find food and shelter.",
         "resourceLabel": "YouTube: Wild Animals That Live Near Our Community",
         "resourceUrl": "https://www.youtube.com/results?search_query=Wild%20Animals%20That%20Live%20Near%20Our%20Community%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GT7mIff1ego",
         "topic": "Canadian Geography & Environment",
         "quiz": [
           {

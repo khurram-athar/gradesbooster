@@ -38072,6 +38072,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to identify whether a text's main purpose is to persuade, inform, or entertain, using clues from the author's word choice, structure, and content.",
         "resourceLabel": "YouTube: Reading: Identifying an Author's Purpose",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Identifying%20an%20Author%27s%20Purpose%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UH-nQlMqTF4",
         "topic": "Reading Comprehension & Strategies",
         "quiz": [
           {
@@ -38132,6 +38133,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: calculating change involves subtracting the cost of an item from the amount paid, then determining which combination of bills and coins makes up that amount.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=2smR0fvsmWw",
         "quiz": [
           {
             "q": "How do you calculate the change owed after a purchase?",
@@ -38192,6 +38194,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: a pulley is a simple machine with a wheel and a rope that helps people lift heavy loads more easily by pulling down instead of straight up.",
         "resourceLabel": "YouTube: Simple Machines: Pulleys and Lifting Loads",
         "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20Machines%3A%20Pulleys%20and%20Lifting%20Loads%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fEmmjnjvmeU",
         "quiz": [
           {
             "q": "What is a pulley?",
@@ -38275,6 +38278,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the Royal Canadian Mint is the government organization responsible for designing and producing Canadas coins, using metal, precise measurements, and detailed designs.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=qywIiKKb6PA",
         "quiz": [
           {
             "q": "What is the Royal Canadian Mint responsible for?",
@@ -38340,6 +38344,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: a persuasive advertisement script uses catchy language, strong reasons, and a clear call to action to convince an audience to buy a product or support an idea.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=nMu-41kbweU",
         "quiz": [
           {
             "q": "What is the goal of a persuasive advertisement script?",
@@ -38400,6 +38405,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: the three interior angles of a triangle always add up to 180 degrees, so a missing angle can be found by subtracting the sum of the two known angles from 180.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=LAlQnW6-6c4",
         "quiz": [
           {
             "q": "What do the three interior angles of a triangle always add up to?",
@@ -38460,6 +38466,17 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: our fingernails and hair are parts of our body that keep growing throughout our lives and need regular care, like trimming and washing.",
         "resourceLabel": "YouTube: Our Fingernails and Hair: Growing Parts of Our Body",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Fingernails%20and%20Hair%3A%20Growing%20Parts%20of%20Our%20Body%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MBHh8Lh6unY",
+        "videoUrls": [
+          {
+            "url": "https://www.youtube.com/watch?v=MBHh8Lh6unY",
+            "label": "How Your Nails Grow? | The Dr. Binocs Show"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=jWPuYog0pXg",
+            "label": "How Your Hair Works"
+          }
+        ],
         "quiz": [
           {
             "q": "Which of these body parts keeps growing throughout our lives?",

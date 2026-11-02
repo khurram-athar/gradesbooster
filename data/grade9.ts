@@ -36248,7 +36248,10 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
         "videoUrl": "https://www.youtube.com/watch?v=KirNCAjA6KY",
         "videoUrls": [
-          { "label": "Maritime Zones Explained", "url": "https://www.youtube.com/watch?v=znRyJvYERtw" }
+          {
+            "label": "Maritime Zones Explained",
+            "url": "https://www.youtube.com/watch?v=znRyJvYERtw"
+          }
         ],
         "quiz": [
           {
@@ -36936,6 +36939,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: instinctive behaviour is innate and genetically programmed, requiring no prior learning, while learned behaviour is acquired through experience or observation and can be adjusted as an animal encounters new situations.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=kcqBrJgAfn0",
         "quiz": [
           {
             "q": "What is an instinctive behaviour?",

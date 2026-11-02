@@ -36801,6 +36801,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: rearranging a formula means isolating a different variable using inverse operations, such as rewriting the formula for the area of a rectangle to solve for its width instead of its area.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Uvs9eaL7y2k",
         "quiz": [
           {
             "q": "What does it mean to rearrange a formula?",
