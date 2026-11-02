@@ -36566,6 +36566,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: infographics and charts present complex information visually, but a manipulated axis scale or cherry-picked data can mislead a viewer, so careful readers check a visualizations source, labels, and scale before trusting its message.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=mlUgaVD3ITA",
         "quiz": [
           {
             "q": "What is the purpose of a well-designed infographic?",
@@ -36626,6 +36627,7 @@ const curriculum: DayContent[] = [
         "summary": "Students convert measurements between metric units (mm, cm, m, km) and imperial units (inches, feet, yards, miles) using conversion factors, and apply conversions to solve practical problems.",
         "resourceLabel": "YouTube: Converting Between Metric and Imperial Units of Measurement",
         "resourceUrl": "https://www.youtube.com/results?search_query=Converting%20Between%20Metric%20and%20Imperial%20Units%20of%20Measurement%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8SHTjGkbDp0",
         "topic": "Measurement: Units",
         "quiz": [
           {
@@ -36686,6 +36688,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use the pH scale to classify everyday substances as acidic, neutral, or basic, and explore how indicators change color to reveal a substance's approximate pH.",
         "resourceLabel": "YouTube: Chemistry: The pH Scale and Everyday Substances",
         "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20The%20pH%20Scale%20and%20Everyday%20Substances%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ckbsHM2igT0",
         "topic": "Chemical Reactions",
         "quiz": [
           {
@@ -36746,6 +36749,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: green hydrogen is a fuel produced through electrolysis powered by renewable electricity, and regions with abundant sun or wind resources are increasingly seen as attractive locations for large-scale green hydrogen production aimed at industries that are difficult to electrify directly.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=INcRRk_sPtM",
         "quiz": [
           {
             "q": "What is green hydrogen?",

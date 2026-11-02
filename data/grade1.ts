@@ -44781,6 +44781,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: wearing a helmet and following safety rules help keep children safe when they ride bicycles in their community.",
         "resourceLabel": "YouTube: Bike Safety: Why We Wear a Helmet",
         "resourceUrl": "https://www.youtube.com/results?search_query=Bike%20Safety%3A%20Why%20We%20Wear%20a%20Helmet%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NF8CiNXEmcU",
         "quiz": [
           {
             "q": "Why should you wear a helmet when you ride a bike?",
@@ -44869,6 +44870,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: a personal narrative is a true story about something that happened to the writer, told in their own words.",
         "resourceLabel": "YouTube: Personal Narrative: Writing About a Real Event",
         "resourceUrl": "https://www.youtube.com/results?search_query=Personal%20Narrative%3A%20Writing%20About%20a%20Real%20Event%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=EoaIfZxm3mU",
         "quiz": [
           {
             "q": "What is a personal narrative?",
@@ -45097,6 +45099,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: water systems clean and carry water through pipes from lakes, rivers, or wells to our homes so we have safe water to use.",
         "resourceLabel": "YouTube: Water Systems: How Clean Water Reaches Our Homes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Water%20Systems%3A%20How%20Clean%20Water%20Reaches%20Our%20Homes%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cGi4PugN4qY",
         "quiz": [
           {
             "q": "Where does the water used in our homes often come from originally?",
@@ -45185,6 +45188,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: comparing and contrasting two characters means looking at how they are alike and how they are different.",
         "resourceLabel": "YouTube: Compare and Contrast: Two Characters in a Story",
         "resourceUrl": "https://www.youtube.com/results?search_query=Compare%20and%20Contrast%3A%20Two%20Characters%20in%20a%20Story%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=M2XM03SLY8A",
         "quiz": [
           {
             "q": "What does it mean to compare two characters?",
@@ -45328,6 +45332,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: sharks are ocean fish with rows of sharp teeth, and most sharks are important predators that help keep ocean ecosystems healthy.",
         "resourceLabel": "YouTube: Sharks: Ocean Predators",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sharks%3A%20Ocean%20Predators%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZFk0xhqT5fQ",
         "quiz": [
           {
             "q": "What kind of animal is a shark?",
@@ -45411,6 +45416,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: world landmarks are famous and special places found in different countries that many people like to visit and learn about.",
         "resourceLabel": "YouTube: World Landmarks: Famous Places Around the World",
         "resourceUrl": "https://www.youtube.com/results?search_query=World%20Landmarks%3A%20Famous%20Places%20Around%20the%20World%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SdXHNiGg-Ss",
         "quiz": [
           {
             "q": "What is a world landmark?",

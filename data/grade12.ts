@@ -36175,6 +36175,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: memoir is a nonfiction form of life writing that reconstructs a specific period or theme from the authors own life, shaping remembered experience into narrative through selection, reflection, and a controlling perspective distinct from a comprehensive autobiography.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=EQWqDUAQwGA",
         "quiz": [
           {
             "q": "What does memoir typically reconstruct?",
@@ -36234,6 +36235,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: the Pearson correlation coefficient measures the strength and direction of the linear relationship between two quantitative variables, producing a value between negative one and positive one that indicates how closely the data follow a straight line.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=xZ_z8KWkhXE",
         "quiz": [
           {
             "q": "What does the Pearson correlation coefficient measure?",
@@ -36354,6 +36356,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson explains how a Van de Graaff generator uses a moving insulated belt and charge-transfer combs to continuously deposit charge onto a hollow metal dome, building up very high electric potentials. You will apply concepts of charge on conductors, electric field, and potential to explain why charge collects on the outer surface of the dome and why the maximum voltage is ultimately limited by dielectric breakdown of the surrounding air. The lesson connects this device to broader ideas about capacitance and electrostatic equilibrium on conductors.",
         "resourceLabel": "YouTube: The Van de Graaff Generator: Building Up and Storing Static Charge",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Van%20de%20Graaff%20Generator%3A%20Building%20Up%20and%20Storing%20Static%20Charge%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=y20lKZB5BR0",
         "quiz": [
           {
             "q": "In a Van de Graaff generator, why does the transferred charge end up on the outside surface of the metal dome rather than remaining in the interior?",

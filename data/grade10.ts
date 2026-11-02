@@ -35709,6 +35709,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: during the 1930s, severe drought, soil erosion and dust storms devastated farms in Saskatchewan, Alberta and Manitoba; together with collapsing wheat prices, they forced many farm families onto relief or off the land and led to federal measures such as the Prairie Farm Rehabilitation Act of 1935.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=3mc8TobjMVw",
         "quiz": [
           {
             "q": "What name is commonly given to the decade of drought and economic hardship on the Prairies in the 1930s?",
@@ -35957,6 +35958,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: in May and June 1939, King George VI and Queen Elizabeth toured Canada, the first visit by a reigning British monarch, strengthening ties to the Crown on the eve of the Second World War; the royal couple also visited the United States on the same trip.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=K-FvxNoBeNs",
         "quiz": [
           {
             "q": "Which monarch and consort toured Canada in 1939?",
@@ -36342,6 +36344,7 @@ const curriculum: DayContent[] = [
         "summary": "Students calculate slope from two points and from real-world contexts, interpreting slope as a constant rate of change.",
         "resourceLabel": "YouTube: Analytic Geometry: The Slope of a Line and Rate of Change",
         "resourceUrl": "https://www.youtube.com/results?search_query=Analytic%20Geometry%3A%20The%20Slope%20of%20a%20Line%20and%20Rate%20of%20Change%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cLNHbfcoMnM",
         "topic": "Analytic & Coordinate Geometry",
         "quiz": [
           {
@@ -36402,6 +36405,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: genetically modified organisms, or GMOs, are created by altering an organisms DNA to introduce desirable traits, such as pest resistance or improved crop yield, in modern agriculture.",
         "resourceLabel": "YouTube: Genetic Engineering in Agriculture: An Introduction to GMOs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Genetic%20Engineering%20in%20Agriculture%3A%20An%20Introduction%20to%20GMOs%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7TmcXYp8xu4",
         "quiz": [
           {
             "q": "What does GMO stand for?",
@@ -36462,6 +36466,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: Trans-Canada Air Lines was founded in 1937 as a federal Crown corporation to establish reliable, government-backed commercial air travel across the country, later becoming Air Canada and shaping the development of Canadian aviation infrastructure.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=4qhDJ5G2F_c",
         "quiz": [
           {
             "q": "In what year was Trans-Canada Air Lines founded?",

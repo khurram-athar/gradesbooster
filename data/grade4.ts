@@ -37822,6 +37822,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: comparing two texts on the same topic involves identifying similarities and differences in the information, perspective, or purpose each author presents.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=PkWU-lMdnJg",
         "quiz": [
           {
             "q": "What does comparing two texts on the same topic involve?",
@@ -37882,6 +37883,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: to round a number to the nearest ten thousand, students look at the thousands digit to decide whether to round up or keep the ten thousands digit the same.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=joTs5UryIEk",
         "quiz": [
           {
             "q": "What digit do you check when rounding to the nearest ten thousand?",
@@ -37942,6 +37944,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: a frog undergoes complete metamorphosis, changing from an egg to a tadpole living in water, then developing legs and lungs to become an adult frog that can live on land and in water.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=etGmCvIL014",
         "quiz": [
           {
             "q": "What is the first stage of a frogs life cycle?",
@@ -38002,6 +38005,7 @@ const curriculum: DayContent[] = [
         "summary": "Students examine how early societies created written laws, such as the Code of Hammurabi, to keep order, resolve disputes, and define punishments.",
         "resourceLabel": "YouTube: Social Studies: Early Societies: Laws and Codes of Justice",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Early%20Societies%3A%20Laws%20and%20Codes%20of%20Justice%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QEko2CMykuk",
         "topic": "Early Societies",
         "quiz": [
           {

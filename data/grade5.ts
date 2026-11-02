@@ -37178,6 +37178,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: Parliament Hill in Ottawa is home to Canada's Parliament buildings, including the Centre Block and the Peace Tower, where elected members and senators meet to debate and make laws for the country.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=gNmflsvBD4A",
         "quiz": [
           {
             "q": "In which city is Parliament Hill located?",
@@ -37243,6 +37244,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: a colon can introduce a list of items after a complete sentence, signalling to the reader that specific examples or details are about to follow.",
         "resourceLabel": "YouTube: Grammar: Using Colons Before Lists",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Using%20Colons%20Before%20Lists%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YkLtn5W9buY",
         "quiz": [
           {
             "q": "What can a colon introduce after a complete sentence?",
@@ -37303,6 +37305,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: two rectangles can have the same perimeter but different areas, showing that perimeter and area measure different things and do not always change together.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=0Ho8Az8y4Mw",
         "quiz": [
           {
             "q": "Can two rectangles have the same perimeter but different areas?",
@@ -37363,6 +37366,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: rusting is a chemical change that occurs when iron reacts with oxygen and moisture in the air, gradually forming a reddish-brown substance called rust that weakens the metal.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=qd2B9yCKzc0",
         "quiz": [
           {
             "q": "What is rusting?",

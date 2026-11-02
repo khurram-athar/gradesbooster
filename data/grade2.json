@@ -43730,6 +43730,7 @@
         "summary": "Grade 2 Social Studies strand: Robert Munsch is a well-known Canadian children's author whose funny stories, like The Paper Bag Princess and Love You Forever, are enjoyed by families around the world.",
         "resourceLabel": "YouTube: Robert Munsch: A Famous Canadian Storyteller",
         "resourceUrl": "https://www.youtube.com/results?search_query=Robert%20Munsch%3A%20A%20Famous%20Canadian%20Storyteller%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=M79hD9c6J0E",
         "quiz": [
           {
             "q": "Who is Robert Munsch?",
@@ -44022,6 +44023,7 @@
         "summary": "Grade 2 Social Studies strand: a hospital is a community service where doctors, nurses and other helpers care for people who are sick or hurt and help keep our community healthy.",
         "resourceLabel": "YouTube: Our Local Hospital: Doctors, Nurses and Helpers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Local%20Hospital%3A%20Doctors%2C%20Nurses%20and%20Helpers%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yCH_Ux0uEiQ",
         "quiz": [
           {
             "q": "What is a hospital?",
@@ -44438,6 +44440,7 @@
         "summary": "Grade 2 Math strand: elapsed time word problems ask us to figure out how much time has passed between a start time and an end time.",
         "resourceLabel": "YouTube: Time: Solving Elapsed Time Word Problems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Solving%20Elapsed%20Time%20Word%20Problems%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ML6r7BEZo7M",
         "quiz": [
           {
             "q": "If a movie starts at 2:00 and ends at 4:00, how much time passed?",
@@ -44498,6 +44501,7 @@
         "summary": "Grade 2 Science strand: vaccines help our immune system learn to recognize and fight off certain diseases before we ever get sick from them.",
         "resourceLabel": "YouTube: Vaccines: Helping Our Body Fight Disease",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vaccines%3A%20Helping%20Our%20Body%20Fight%20Disease%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5SproXmRUkI",
         "quiz": [
           {
             "q": "What do vaccines help our body do?",
@@ -44558,6 +44562,7 @@
         "summary": "Kindergarten Social Studies strand: airport workers such as pilots, flight attendants, and baggage handlers help people travel safely by air.",
         "resourceLabel": "YouTube: Our Airport Workers: Helping People Travel",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Airport%20Workers%3A%20Helping%20People%20Travel%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8wCddfAVFNo",
         "quiz": [
           {
             "q": "Who flies the airplane?",
@@ -44648,6 +44653,7 @@
         "summary": "Students learn that nonfiction books often use labels and photographs to give readers true information and help explain real people, places, or things.",
         "resourceLabel": "YouTube: Nonfiction Clues: Labels and Photographs in Books",
         "resourceUrl": "https://www.youtube.com/results?search_query=Nonfiction%20Clues%3A%20Labels%20and%20Photographs%20in%20Books%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=y03gQNA2PgE",
         "quiz": [
           {
             "q": "What kind of book gives readers true information about real people, places, or things?",
@@ -44729,6 +44735,7 @@
         "summary": "Grade 2 Math strand: students practise figuring out how much change to give back when someone pays with a five or ten dollar bill.",
         "resourceLabel": "YouTube: Money: Making Change from Five and Ten Dollar Bills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Making%20Change%20from%20Five%20and%20Ten%20Dollar%20Bills%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=97NX8YaGoZM",
         "quiz": [
           {
             "q": "If something costs 3 dollars and you pay with a 5 dollar bill, how much change do you get?",
@@ -44789,6 +44796,13 @@
         "summary": "Grade 2 Science strand: desert plants like cacti and succulents store water in their thick stems and leaves so they can survive long periods without rain.",
         "resourceLabel": "YouTube: Desert Plants: Cacti and Succulents",
         "resourceUrl": "https://www.youtube.com/results?search_query=Desert%20Plants%3A%20Cacti%20and%20Succulents%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PI9tlYxluX0",
+        "videoUrls": [
+          {
+            "label": "Succulents | Science for Kids",
+            "url": "https://www.youtube.com/watch?v=eYnD-P7gkD8"
+          }
+        ],
         "quiz": [
           {
             "q": "What do cacti and succulents store water in?",
@@ -44848,6 +44862,7 @@
         "summary": "Kindergarten Social Studies strand: the coast guard helps keep people safe on lakes, rivers, and oceans, including rescuing boats in trouble.",
         "resourceLabel": "YouTube: Our Coast Guard: Helping on the Water",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Coast%20Guard%3A%20Helping%20on%20the%20Water%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TdsWxgd0c9g",
         "quiz": [
           {
             "q": "Where does the coast guard mostly work?",

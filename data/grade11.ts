@@ -36097,6 +36097,13 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a memoir is a first-person account of a particular period or set of experiences in the author's life, using storytelling techniques such as scene, dialogue and reflection to explore memory and meaning while remaining factual.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=PLHkuSpJxPs",
+        "videoUrls": [
+          {
+            "label": "What Is Narrative Nonfiction?",
+            "url": "https://www.youtube.com/watch?v=zFrm7lxryB8"
+          }
+        ],
         "quiz": [
           {
             "q": "What distinguishes a memoir from a full autobiography?",
@@ -36364,6 +36371,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a political cartoon compresses commentary on a public issue into symbolic imagery, exaggerated caricature, and brief text, relying on a shared visual vocabulary of labels, symbols, and irony to make a persuasive argument in a single frame.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=GiU1Ni23OUs",
         "quiz": [
           {
             "q": "What does a political cartoon typically compress into a single frame?",
@@ -36424,6 +36432,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: an exponential equation has the variable in the exponent, and it can be solved by rewriting both sides with a common base and setting the exponents equal, or by applying logarithms when a common base cannot easily be found.",
         "resourceLabel": "YouTube: Algebra: Solving Exponential Equations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Exponential%20Equations%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NeHYuBnEzwo",
         "quiz": [
           {
             "q": "What defines an exponential equation?",
@@ -36484,6 +36493,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: the ABO blood group system classifies blood by the presence or absence of A and B antigens on red blood cells, while the Rh system adds a positive or negative marker, and mismatched transfusions can trigger a dangerous immune reaction against foreign antigens.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=nP-HQPZ8-0I",
         "quiz": [
           {
             "q": "What does the ABO blood group system classify?",
@@ -36543,6 +36553,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science Technology strand: nanotechnology involves manipulating matter at an extremely small scale, often at the level of individual atoms or molecules, to create materials with new or enhanced properties.",
         "resourceLabel": "YouTube: Nanotechnology and Materials Science",
         "resourceUrl": "https://www.youtube.com/results?search_query=Nanotechnology%20and%20Materials%20Science%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IkYimZBzguw",
         "quiz": [
           {
             "q": "Nanotechnology involves manipulating matter at ___.",

@@ -41211,6 +41211,7 @@ const curriculum: DayContent[] = [
         "summary": "Students pick up new words heard in a read-aloud story and use pictures and context clues to figure out what those words most likely mean.",
         "resourceLabel": "YouTube: Vocabulary: Learning New Words from Stories",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Learning%20New%20Words%20from%20Stories%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CiNggzdWkIo",
         "topic": "Vocabulary",
         "quiz": [
           {
@@ -41271,6 +41272,7 @@ const curriculum: DayContent[] = [
         "summary": "Children act out simple subtraction stories by physically removing objects from a small group of 5 or fewer, connecting the action of taking away to the resulting smaller amount.",
         "resourceLabel": "YouTube: Subtraction as Taking Away to 5",
         "resourceUrl": "https://www.youtube.com/results?search_query=Subtraction%20as%20Taking%20Away%20to%205%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FKPl42IkRMw",
         "topic": "Addition & Subtraction",
         "quiz": [
           {
@@ -41331,6 +41333,7 @@ const curriculum: DayContent[] = [
         "summary": "Children observe the features of a snail, including its hard shell and slow, gliding movement, and talk about how the shell protects its soft body.",
         "resourceLabel": "YouTube: Snails: Slow and Shelled",
         "resourceUrl": "https://www.youtube.com/results?search_query=Snails%3A%20Slow%20and%20Shelled%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=c8ma6vDvXAM",
         "topic": "Classification of Living Things (Basic)",
         "quiz": [
           {
@@ -41391,6 +41394,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Social Studies strand: Canadians have invented many useful things, such as basketball and insulin, that people around the world still use today.",
         "resourceLabel": "YouTube: Canadian Inventions: Things Made in Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Inventions%3A%20Things%20Made%20in%20Canada%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jfannfEZzCk",
         "quiz": [
           {
             "q": "Which sport was invented by a Canadian named James Naismith?",
