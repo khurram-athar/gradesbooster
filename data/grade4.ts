@@ -38820,7 +38820,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=f8uDZ9VwDrA"
       },
       {
         "subject": "SocialStudies",
@@ -38880,7 +38881,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=KyNbFrLoBSo"
       }
     ]
   },

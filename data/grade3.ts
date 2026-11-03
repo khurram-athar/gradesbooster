@@ -39169,7 +39169,8 @@ const curriculum: DayContent[] = [
               "small animals"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=m0XgSrdYQRY"
       },
       {
         "subject": "SocialStudies",

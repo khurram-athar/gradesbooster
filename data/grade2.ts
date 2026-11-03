@@ -45354,7 +45354,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Time & Money"
+        "topic": "Time & Money",
+        "videoUrl": "https://www.youtube.com/watch?v=sZKOq6N8R_I"
       },
       {
         "subject": "Science",
@@ -45414,7 +45415,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=2GoHBkLbrLE"
       },
       {
         "subject": "SocialStudies",

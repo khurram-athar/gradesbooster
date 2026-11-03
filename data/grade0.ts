@@ -41809,7 +41809,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=I7jbq7eqaC0"
       },
       {
         "subject": "Math",
@@ -41869,7 +41870,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=PuB3KgDkb74"
       },
       {
         "subject": "Science",
@@ -41929,7 +41931,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=OI9Nf4H6GSk"
       },
       {
         "subject": "SocialStudies",

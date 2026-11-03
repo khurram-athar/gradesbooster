@@ -45938,7 +45938,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=_2SCYd7I6Ws"
       },
       {
         "subject": "Science",
@@ -46021,7 +46022,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=KMdD6TTDZ_g"
       },
       {
         "subject": "SocialStudies",
@@ -46081,7 +46083,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YRx502Ju58o"
       }
     ]
   },

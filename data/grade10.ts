@@ -37014,7 +37014,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=3PBH75okmeI"
       }
     ]
   },

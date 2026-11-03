@@ -37147,7 +37147,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Money, Jobs & Economy (Basic)"
+        "topic": "Money, Jobs & Economy (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=3F1ee168f8A"
       }
     ]
   },
