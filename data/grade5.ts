@@ -37555,6 +37555,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: an interest rate shows how much extra money a savings account earns over time, and comparing rates from different accounts can help someone decide where their savings will grow the most.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=ScXAyGh0MRg",
         "quiz": [
           {
             "q": "What does an interest rate tell you about a savings account?",
@@ -37615,6 +37616,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: birds and insects have special adaptations for flight, such as lightweight bodies, wings shaped to create lift, and strong muscles, that allow them to move efficiently through the air.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=4Bp4MgmT0Co",
         "quiz": [
           {
             "q": "What is one adaptation that helps birds fly?",
@@ -37740,6 +37742,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: sponsored content is material paid for by a company or organization to promote a product or message, and it is often required to include a disclosure so readers know it is an advertisement.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=NEsGX1ck2F4",
         "quiz": [
           {
             "q": "What is sponsored content?",
@@ -37800,6 +37803,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: different types of graphs, such as bar graphs, line graphs, and circle graphs, are each best suited to displaying certain kinds of data, so choosing the right graph makes information clearer.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=zF_dBk8EPDk",
         "quiz": [
           {
             "q": "Why might different graphs be better suited to different kinds of data?",
@@ -37860,6 +37864,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: an earthquake occurs when built-up stress along a fault in Earths crust is suddenly released, and scientists measure the strength of an earthquake using a magnitude scale.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=jlLpZ9S2slQ",
         "quiz": [
           {
             "q": "What causes an earthquake?",
@@ -37920,6 +37925,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the House of Commons is the part of the Canadian Parliament where elected Members of Parliament debate and vote on new laws.",
         "resourceLabel": "YouTube: The House of Commons: Where Canadas Laws Begin",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20House%20of%20Commons%3A%20Where%20Canadas%20Laws%20Begin%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uwcMDuSGym4",
         "quiz": [
           {
             "q": "What is the House of Commons?",

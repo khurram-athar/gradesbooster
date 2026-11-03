@@ -36693,6 +36693,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: an elevator pitch is a brief, persuasive speech that clearly and quickly explains an idea, project, or product, typically lasting no longer than the length of a short elevator ride.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=aDt6cukCz7k",
         "quiz": [
           {
             "q": "What is an elevator pitch?",
@@ -36753,6 +36754,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: a graph can be misleading if its scale is manipulated, its axes are not labelled clearly, or only part of the data is shown, so critical readers should check these features before drawing conclusions.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=E91bGT9BjYk",
         "quiz": [
           {
             "q": "What is one way a graph can be made misleading?",
@@ -36813,6 +36815,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: hydrothermal vents are openings on the ocean floor that release heated, mineral-rich water, supporting unique deep-sea ecosystems where organisms rely on chemosynthesis instead of sunlight for energy.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=fOGEuhQPKvY",
         "quiz": [
           {
             "q": "What is a hydrothermal vent?",
@@ -36873,6 +36876,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: between 1871 and 1921, the Canadian government signed a series of numbered treaties with First Nations across much of the country, agreements that involved land, resources, and promises that have shaped relationships between Canada and Indigenous peoples ever since.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=5EyYhs_bhhg",
         "quiz": [
           {
             "q": "What were the numbered treaties?",
@@ -36999,6 +37003,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: probability can be expressed as a fraction, decimal, or percent, showing the likelihood of an event, such as a 1/2 chance being expressed as 50%.",
         "resourceLabel": "YouTube: Data Management: Expressing Probability as a Percent",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Expressing%20Probability%20as%20a%20Percent%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zE-Y_QCHOt8",
         "quiz": [
           {
             "q": "Probability can be expressed as a fraction, decimal, or ___.",
@@ -37059,6 +37064,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: sunscreen works by absorbing or reflecting ultraviolet (UV) radiation from the Sun, helping protect skin from sunburn and long-term damage caused by overexposure to UV rays.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=ZwpbuCJr63E",
         "quiz": [
           {
             "q": "What does sunscreen help protect the skin from?",
@@ -37118,6 +37124,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the Canadian Coast Guard is a federal agency responsible for maritime search and rescue, icebreaking, and ensuring safe navigation along Canadas extensive coastlines and waterways.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=TdsWxgd0c9g",
         "quiz": [
           {
             "q": "What is the main role of the Canadian Coast Guard?",

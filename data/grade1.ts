@@ -45591,6 +45591,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practice using simple movement directions, up, down, left, and right, to follow and describe a path from one square to another on a grid.",
         "resourceLabel": "YouTube: Following Directions on a Grid",
         "resourceUrl": "https://www.youtube.com/results?search_query=Following%20Directions%20on%20a%20Grid%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gRbwFq9665k",
         "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {

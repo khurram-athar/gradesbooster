@@ -36741,6 +36741,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: a conjunctive adverb, such as however, therefore, or moreover, connects two independent clauses and is typically preceded by a semicolon and followed by a comma, showing a logical relationship between ideas.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=zmxCmcCxCUY",
         "quiz": [
           {
             "q": "What is a conjunctive adverb?",
@@ -36861,6 +36862,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: acid rain forms when pollutants such as sulfur dioxide and nitrogen oxides react with water vapour in the atmosphere, creating precipitation that can harm forests, acidify lakes, and damage buildings and monuments.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=cRKQT7DeN-E",
         "quiz": [
           {
             "q": "What causes acid rain to form?",
@@ -36921,6 +36923,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: the Indian Act is a federal law first passed in 1876 that has governed many aspects of life for First Nations peoples, and its ongoing legacy remains an important part of understanding reconciliation in Canada.",
         "resourceLabel": "YouTube: The Indian Act and Its Legacy",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Indian%20Act%20and%20Its%20Legacy%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OhBrq7Ez-rQ",
         "quiz": [
           {
             "q": "What is the Indian Act?",
@@ -36986,6 +36989,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: slang is informal vocabulary that develops within a group or generation, often changing quickly and reflecting current culture, which is why it can make older writing or speech feel dated over time.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=PahKZdtnI_I",
         "quiz": [
           {
             "q": "What is slang?",
@@ -37046,6 +37050,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: the golden ratio is a special number, approximately 1.618, that appears when a line is divided so the ratio of the whole to the larger part equals the ratio of the larger part to the smaller part, and it appears throughout art, architecture, and natural patterns.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=BMJ_B9_ab74",
         "quiz": [
           {
             "q": "What is the approximate value of the golden ratio?",
@@ -37106,6 +37111,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: biomimicry is the practice of designing technology and materials by studying and imitating strategies found in nature, such as modeling an aircraft wing after a birds wing or an adhesive after a geckos foot.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=V2GvQXvjhLA",
         "quiz": [
           {
             "q": "What is biomimicry?",
@@ -37166,6 +37172,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: public opinion polls survey a sample of people to estimate how a larger population feels about candidates or issues, often shaping media coverage during elections.",
         "resourceLabel": "YouTube: Public Opinion Polls and Their Role in Canadian Elections",
         "resourceUrl": "https://www.youtube.com/results?search_query=Public%20Opinion%20Polls%20and%20Their%20Role%20in%20Canadian%20Elections%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ubR8rEgSZSU",
         "quiz": [
           {
             "q": "What is the purpose of a public opinion poll?",

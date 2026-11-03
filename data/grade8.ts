@@ -36725,6 +36725,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to write very large and very small numbers in scientific notation (a × 10ⁿ, where 1 ≤ a < 10) and convert between scientific and standard form.",
         "resourceLabel": "YouTube: Introduction to Scientific Notation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Scientific%20Notation%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YmqXohR1UfA",
         "topic": "Number Sense",
         "quiz": [
           {
@@ -36785,6 +36786,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: combustion is a chemical reaction in which a fuel rapidly reacts with oxygen, releasing heat and light, and requires three components known as the fire triangle: fuel, oxygen, and heat.",
         "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=DFF6L5D6Ros",
         "quiz": [
           {
             "q": "What is combustion?",
@@ -36844,6 +36846,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: Lester B. Pearson, a Canadian diplomat and later prime minister, won the Nobel Peace Prize in 1957 for helping resolve the Suez Crisis through the creation of a United Nations peacekeeping force.",
         "resourceLabel": "YouTube: Social Studies: Lester B. Pearson and the Nobel Peace Prize",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Lester%20B.%20Pearson%20and%20the%20Nobel%20Peace%20Prize%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Nnt0KTb6ymw",
         "quiz": [
           {
             "q": "What prize did Lester B. Pearson win in 1957?",
@@ -36909,6 +36912,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: an eponym is a word derived from the name of a real or fictional person, place, or event, such as sandwich or boycott, and studying eponyms can reveal interesting historical or cultural origins behind everyday vocabulary.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=_VyTMTdbI6o",
         "quiz": [
           {
             "q": "What is an eponym?",
@@ -36969,6 +36973,7 @@ const curriculum: DayContent[] = [
         "summary": "Students identify perfect squares, calculate square roots of perfect squares, and estimate square roots of non-perfect squares between two consecutive integers.",
         "resourceLabel": "YouTube: Squares, Square Roots, and Perfect Squares",
         "resourceUrl": "https://www.youtube.com/results?search_query=Squares%2C%20Square%20Roots%2C%20and%20Perfect%20Squares%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yICR9PiW340",
         "topic": "Square Roots & Radicals",
         "quiz": [
           {
@@ -37029,6 +37034,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: many flowering plants reproduce through pollination, the transfer of pollen from a flowers male structures to its female structures, often carried out by wind or animal pollinators such as bees, enabling fertilization and the production of seeds.",
         "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=rOALjGOUtoY",
         "quiz": [
           {
             "q": "What is pollination?",

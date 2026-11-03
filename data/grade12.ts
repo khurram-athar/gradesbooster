@@ -36422,6 +36422,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: the ballad is a narrative folk poem originally meant to be sung, typically composed in quatrains with a simple rhyme scheme, recounting a dramatic story of love, tragedy, or adventure through compressed, often repetitive language.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=0-yVJ5JCf1A",
         "quiz": [
           {
             "q": "What is a ballad in its traditional form?",
@@ -36482,6 +36483,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: combinatorial game theory analyzes two-player games of perfect information with no chance element, and the game of Nim, in which players remove objects from piles, provides a classic example whose winning strategy is determined using the binary XOR of pile sizes.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=H-SyB0NK3H8",
         "quiz": [
           {
             "q": "What kind of games does combinatorial game theory study?",
@@ -36541,6 +36543,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Calculus and Vectors strand: the scalar triple product combines three vectors using a cross product and a dot product to produce a single number whose absolute value equals the volume of the parallelepiped formed by the three vectors.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "videoUrl": "https://www.youtube.com/watch?v=6NeAK0rJwlk",
         "quiz": [
           {
             "q": "What operations combine to form the scalar triple product?",
@@ -36601,6 +36604,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn how Bohr's model describes electrons occupying quantized energy levels in the hydrogen atom and apply the model to calculate the energy and frequency of photons absorbed or emitted during electron transitions between levels.",
         "resourceLabel": "YouTube: The Bohr Model of the Hydrogen Atom and Energy Level Transitions",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Bohr%20Model%20of%20the%20Hydrogen%20Atom%20and%20Energy%20Level%20Transitions%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nJ-PtF14EFw",
         "quiz": [
           {
             "q": "In the Bohr model, an electron emits a photon when it:",
@@ -36666,6 +36670,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: concrete poetry arranges words, letters, and typography on the page so that the visual shape of the poem itself contributes directly to its meaning, treating the poems physical layout as inseparable from its verbal content.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=or4HGck4g2o",
         "quiz": [
           {
             "q": "What does concrete poetry emphasize alongside its words?",
@@ -36726,6 +36731,7 @@ const curriculum: DayContent[] = [
         "summary": "Students apply exponential decay models to real-world depreciation of assets such as vehicles and equipment, and use exponential functions to calculate present value, distinguishing exponential depreciation from straight-line depreciation.",
         "resourceLabel": "YouTube: Applications of Exponential Functions: Depreciation and Present Value",
         "resourceUrl": "https://www.youtube.com/results?search_query=Applications%20of%20Exponential%20Functions%3A%20Depreciation%20and%20Present%20Value%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tES2nNs8toU",
         "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
@@ -36786,6 +36792,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Math strand: the chain rule provides a method for differentiating a composite function, one function nested inside another, by multiplying the derivative of the outer function by the derivative of the inner function.",
         "resourceLabel": "YouTube: Calculus: The Chain Rule for Derivatives",
         "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20The%20Chain%20Rule%20for%20Derivatives%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=HaHsqDjWMLU",
         "quiz": [
           {
             "q": "What does the chain rule allow you to differentiate?",
@@ -36846,6 +36853,17 @@ const curriculum: DayContent[] = [
         "summary": "Students learn how work done against an electric field is stored as electric potential energy, and how potential difference (voltage) describes the energy per unit charge between two points in a field. They apply the relationships V = E_p/q and, for uniform fields, V = Ed, to solve problems involving charges moving between points at different potentials.",
         "resourceLabel": "YouTube: Electric Potential Energy and Electric Potential Difference",
         "resourceUrl": "https://www.youtube.com/results?search_query=Electric%20Potential%20Energy%20and%20Electric%20Potential%20Difference%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LzKMQByFSLc",
+        "videoUrls": [
+          {
+            "label": "Electric Potential Energy",
+            "url": "https://www.youtube.com/watch?v=LzKMQByFSLc"
+          },
+          {
+            "label": "Electric Potential Difference (Voltage)",
+            "url": "https://www.youtube.com/watch?v=NT6LYNq3jRE"
+          }
+        ],
         "quiz": [
           {
             "q": "What quantity represents the electric potential energy per unit charge between two points in a field?",

@@ -38577,6 +38577,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Language strand: adding the prefix re- to the start of a word can mean to do something again, such as changing do into redo.",
         "resourceLabel": "YouTube: Prefixes: Adding Re- to Change Meaning",
         "resourceUrl": "https://www.youtube.com/results?search_query=Prefixes%3A%20Adding%20Re-%20to%20Change%20Meaning%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fqF_vlZ0dYg",
         "quiz": [
           {
             "q": "What does the word redo mean?",
@@ -38743,6 +38744,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: after it rains, water collects in puddles, then slowly soaks into the ground or evaporates into the air.",
         "resourceLabel": "YouTube: Puddles: Where Does Rainwater Go?",
         "resourceUrl": "https://www.youtube.com/results?search_query=Puddles%3A%20Where%20Does%20Rainwater%20Go%3F%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TD3XSIE4ymo",
         "quiz": [
           {
             "q": "Where does rain often collect on the ground?",

@@ -38560,6 +38560,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the Canadian Armed Forces protect Canada and its citizens, respond to emergencies at home, and take part in international missions such as peacekeeping alongside other countries.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=CSHjbIaVR5Y",
         "quiz": [
           {
             "q": "What is a key responsibility of the Canadian Armed Forces?",

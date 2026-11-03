@@ -36819,6 +36819,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: reported, or indirect, speech relays what someone said without quoting their exact words, typically shifting the verb tense backward and adjusting pronouns so they reflect who is currently speaking.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=tBtc6rpcMz4",
         "quiz": [
           {
             "q": "What is reported (indirect) speech?",
@@ -36879,6 +36880,7 @@ const curriculum: DayContent[] = [
         "summary": "Students graph quadratic functions given in factored form by identifying the x-intercepts (zeros) directly from the factors, then use symmetry between the zeros to locate the vertex.",
         "resourceLabel": "YouTube: Graphing Quadratic Functions Using X-Intercepts (Zeros)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Graphing%20Quadratic%20Functions%20Using%20X-Intercepts%20%28Zeros%29%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uYNKJWFYh7k",
         "topic": "Quadratic Relations",
         "quiz": [
           {
@@ -37000,6 +37002,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: United Nations peacekeeping missions are deployed to help maintain peace and stability in regions affected by conflict, often establishing a neutral buffer zone that separates opposing forces and helps monitor a ceasefire along a contested border.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=6pZOnqGFBAc",
         "quiz": [
           {
             "q": "What is the general purpose of a United Nations peacekeeping mission?",
@@ -37066,6 +37069,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: a eulogy honours and celebrates the life of someone who has died, usually delivered at a memorial service in a respectful and heartfelt tone, often organized around a few central themes and specific anecdotes that help an audience connect emotionally.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=ttW998azc64",
         "quiz": [
           {
             "q": "What is the main purpose of a eulogy?",
@@ -37126,6 +37130,7 @@ const curriculum: DayContent[] = [
         "summary": "Students apply the order of operations (BEDMAS) to multi-step expressions involving integers, fractions, decimals, and exponents, building fluency for algebraic work throughout the course.",
         "resourceLabel": "YouTube: Order of Operations and Exponent Rules with Rational Numbers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Order%20of%20Operations%20and%20Exponent%20Rules%20with%20Rational%20Numbers%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fyDWO_053vk",
         "topic": "Number Sense",
         "quiz": [
           {
@@ -37186,6 +37191,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore the structure of the atom -- protons, neutrons, and electrons -- and learn to draw Bohr-Rutherford diagrams showing electron shell arrangements for the first 20 elements.",
         "resourceLabel": "YouTube: Atomic Structure and the Bohr-Rutherford Model",
         "resourceUrl": "https://www.youtube.com/results?search_query=Atomic%20Structure%20and%20the%20Bohr-Rutherford%20Model%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=v48u8hjqNBU",
         "topic": "Atoms, Elements & Compounds",
         "quiz": [
           {
