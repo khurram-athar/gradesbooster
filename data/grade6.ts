@@ -37244,7 +37244,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=u7AsppQT2tQ"
       },
       {
         "subject": "Math",
@@ -37613,7 +37614,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=xfZhb6lmxjk"
       },
       {
         "subject": "SocialStudies",

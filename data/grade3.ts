@@ -39344,7 +39344,8 @@ const curriculum: DayContent[] = [
               "no they can be spelled differently"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=wthpx6s00Po"
       },
       {
         "subject": "Math",
