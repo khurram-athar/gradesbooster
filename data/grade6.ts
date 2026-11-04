@@ -37252,6 +37252,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: comparing cell phone or subscription plans involves analyzing monthly costs, included features, and extra fees to determine which option offers the best value over time.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=41CyRoZLmEo",
         "quiz": [
           {
             "q": "What should be compared when choosing between two subscription plans?",
@@ -37312,6 +37313,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: engineers design earthquake-resistant buildings using features such as flexible materials, deep foundations, and shock-absorbing systems that allow a structure to move and absorb energy during an earthquake instead of collapsing.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=c4fKBGsllZI",
         "quiz": [
           {
             "q": "What is the main goal of earthquake-resistant building design?",
@@ -37372,6 +37374,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: after the American Revolution, thousands of Black Loyalists, many of whom had been formerly enslaved, resettled in British North America, particularly Nova Scotia, forming some of the earliest free Black communities in what is now Canada.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=E7yNN_g0Blo",
         "quiz": [
           {
             "q": "Who were the Black Loyalists?",
@@ -37437,6 +37440,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: setting includes the time and place of a story, and a skilled author uses details about setting to create a particular mood, the emotional atmosphere a reader feels while reading.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=IvIJl4xi8l8",
         "quiz": [
           {
             "q": "What is the setting of a story?",
@@ -37497,6 +37501,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: accuracy describes how close a measurement is to the true value, while precision describes how consistent repeated measurements are with each other, and both depend on the tools and care used when measuring.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=EeHtK5UYEMM",
         "quiz": [
           {
             "q": "What does accuracy describe in measurement?",

@@ -36715,6 +36715,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the National Film Board of Canada was established in 1939 to produce and distribute films that would interpret Canada to Canadians and the world, playing a major role in wartime propaganda and later in the countrys documentary filmmaking tradition.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=v35qPpKDJgM",
         "quiz": [
           {
             "q": "In what year was the National Film Board of Canada established?",
@@ -37029,6 +37030,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: synecdoche is a figure of speech in which a part represents a whole or a whole represents a part, while metonymy uses a closely associated term to stand in for something else, both allowing writers to create compact, vivid substitutions.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=nfYYPMhgMuQ",
         "quiz": [
           {
             "q": "What does synecdoche involve?",
@@ -37089,6 +37091,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use the distance formula, derived from the Pythagorean theorem, to calculate the length of a line segment given its endpoints, in abstract and applied contexts.",
         "resourceLabel": "YouTube: Analytic Geometry: The Length of a Line Segment",
         "resourceUrl": "https://www.youtube.com/results?search_query=Analytic%20Geometry%3A%20The%20Length%20of%20a%20Line%20Segment%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vZZD43NlDwE",
         "topic": "Analytic & Coordinate Geometry",
         "quiz": [
           {
@@ -37149,6 +37152,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: ocean acidification occurs as seawater absorbs increasing amounts of carbon dioxide from the atmosphere, lowering the oceans pH and reducing the availability of carbonate ions that many marine organisms need to build shells and skeletons.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=fgBozLCGUHY",
         "quiz": [
           {
             "q": "What causes ocean acidification?",
@@ -37209,6 +37213,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the Ogdensburg Agreement of 1940 was a defence pact between Canada and the United States, negotiated by Prime Minister Mackenzie King and President Franklin Roosevelt, that created the Permanent Joint Board on Defence to coordinate the two countries military cooperation.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=EhUkY9ZAV6M",
         "quiz": [
           {
             "q": "In what year was the Ogdensburg Agreement signed?",

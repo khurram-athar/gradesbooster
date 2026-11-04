@@ -38051,6 +38051,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: the interior angles of any triangle always add up to 180 degrees, and the interior angles of any quadrilateral always add up to 360 degrees.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=WJ9QkomWeU0",
+        "videoUrls": [
+          {
+            "label": "Triangle Interior Angles",
+            "url": "https://www.youtube.com/watch?v=WJ9QkomWeU0"
+          },
+          {
+            "label": "Quadrilateral Interior Angles",
+            "url": "https://www.youtube.com/watch?v=8mMSY3gMX6Y"
+          }
+        ],
         "quiz": [
           {
             "q": "What do the interior angles of any triangle always add up to?",
@@ -38111,6 +38122,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: distillation is a method of separating a mixture by heating it until part of it evaporates, then cooling the vapour so it condenses back into a liquid, leaving other substances behind.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=RMiGiSzAqKs",
         "quiz": [
           {
             "q": "What is distillation?",
@@ -38171,6 +38183,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: a school board is a locally elected body responsible for overseeing public schools in a region, and trustees are the elected members who help make decisions about education in their community.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=HrkLVgnMuWc",
         "quiz": [
           {
             "q": "What is a school board responsible for?",
@@ -38236,6 +38249,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: constructive feedback offers specific, respectful suggestions to help someone improve their work, focusing on both strengths and areas for growth.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=GP1ww_1AJzI",
         "quiz": [
           {
             "q": "What is constructive feedback?",
@@ -38296,6 +38310,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: dividing a decimal by a two-digit whole number follows the same steps as whole number division, keeping careful track of the decimal point in the quotient.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=NBns_ITKHJQ",
         "quiz": [
           {
             "q": "When dividing a decimal by a whole number, what must you keep careful track of?",
@@ -38356,6 +38371,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: animals can be classified by diet as herbivores, which eat only plants, carnivores, which eat only other animals, or omnivores, which eat both plants and animals.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=0pHXXP-xlG8",
         "quiz": [
           {
             "q": "A deer mostly eats grasses and leaves. In a food chain, which term best describes the deer?",
@@ -38415,6 +38431,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn how cities and towns are run by an elected mayor and council, and how municipal governments provide everyday services like water, roads, garbage collection, and parks.",
         "resourceLabel": "YouTube: How Municipal Governments Work: Mayors, Councils, and City Services",
         "resourceUrl": "https://www.youtube.com/results?search_query=How%20Municipal%20Governments%20Work%3A%20Mayors%2C%20Councils%2C%20and%20City%20Services%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=bKIGBcAtVfQ",
         "topic": "Local Community & Civic Participation",
         "quiz": [
           {

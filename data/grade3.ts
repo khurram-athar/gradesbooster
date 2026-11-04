@@ -38930,6 +38930,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Language strand: adding the suffix -ful to the end of a word can mean full of something, such as changing help into helpful.",
         "resourceLabel": "YouTube: Suffixes: Adding -ful to Change Meaning",
         "resourceUrl": "https://www.youtube.com/results?search_query=Suffixes%3A%20Adding%20-ful%20to%20Change%20Meaning%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=U_6mfwXe3Bo",
         "quiz": [
           {
             "q": "What does the word helpful mean?",
@@ -39012,6 +39013,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: students learn the counting up strategy for subtraction, counting from the smaller number up to the larger number to find the difference.",
         "resourceLabel": "YouTube: Subtraction: Counting Up Strategy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Subtraction%3A%20Counting%20Up%20Strategy%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=d3qPpyqbgsU",
         "quiz": [
           {
             "q": "What does the counting up strategy help us do?",
@@ -39178,6 +39180,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: the Canadian Shield is a huge, rocky land region that covers much of Canada, filled with lakes, forests, and ancient rock.",
         "resourceLabel": "YouTube: The Canadian Shield: A Special Land Region",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Canadian%20Shield%3A%20A%20Special%20Land%20Region%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2uC81ORr8qc",
         "quiz": [
           {
             "q": "What is the Canadian Shield?",
@@ -39349,6 +39352,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Math strand: students learn to read the hour and minutes shown on a digital clock, like a clock that shows 3:00.",
         "resourceLabel": "YouTube: Time: Reading a Digital Clock",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Reading%20a%20Digital%20Clock%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QmjAFlMttOo",
         "quiz": [
           {
             "q": "What does a digital clock use to show the time?",
@@ -39432,6 +39436,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: penguins are birds with wings shaped like flippers that help them swim, though they cannot fly through the air.",
         "resourceLabel": "YouTube: Penguins: Birds That Cannot Fly",
         "resourceUrl": "https://www.youtube.com/results?search_query=Penguins%3A%20Birds%20That%20Cannot%20Fly%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=898uyDlDy3Q",
         "quiz": [
           {
             "q": "Can penguins fly like most other birds?",

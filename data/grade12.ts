@@ -36929,6 +36929,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: weird fiction evokes a sense of cosmic horror by suggesting the existence of vast, indifferent, and unknowable forces beyond human comprehension, emphasizing dread and awe over conventional monsters or explainable threats.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=Ys64CFE1k0A",
         "quiz": [
           {
             "q": "What sense does weird fiction primarily aim to evoke in its readers?",
@@ -36989,6 +36990,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: the central limit theorem states that the distribution of sample means drawn from a population approaches a normal distribution as the sample size grows large, regardless of the shape of the original population distribution.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=YAlJCEDH2uY",
         "quiz": [
           {
             "q": "What does the central limit theorem describe?",
@@ -37049,6 +37051,7 @@ const curriculum: DayContent[] = [
         "summary": "Calculate the work done by a constant force acting through a displacement using the dot product formula W = F·d, including cases where force and displacement are given as vectors or as magnitude-and-angle pairs.",
         "resourceLabel": "YouTube: Vectors: Work Done by a Force Along a Displacement",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20Work%20Done%20by%20a%20Force%20Along%20a%20Displacement%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=p9938IIEhXU",
         "quiz": [
           {
             "q": "A force F = (10, 5) N acts on an object as it moves through displacement d = (3, 4) m. Find the work done.",
@@ -37109,6 +37112,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson introduces Kirchhoff's Current Law (charge conservation at junctions) and Kirchhoff's Voltage Law (energy conservation around closed loops) as the two systematic tools needed to analyze circuits that cannot be solved using simple series/parallel reduction. You will practice assigning current directions, writing junction and loop equations for multi-loop circuits with multiple EMF sources and resistors, and solving the resulting system of equations for unknown currents.",
         "resourceLabel": "YouTube: Kirchhoff's Voltage and Current Laws in Multi-Loop Circuits",
         "resourceUrl": "https://www.youtube.com/results?search_query=Kirchhoff%27s%20Voltage%20and%20Current%20Laws%20in%20Multi-Loop%20Circuits%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2Zu3ppq3n8I",
         "quiz": [
           {
             "q": "Kirchhoff's Current Law states that at any junction in a circuit:",

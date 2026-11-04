@@ -41940,6 +41940,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Social Studies strand: each province and territory in Canada has its own flag, with special colours and pictures that represent that place.",
         "resourceLabel": "YouTube: Provincial and Territorial Flags: Symbols of Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Provincial%20and%20Territorial%20Flags%3A%20Symbols%20of%20Canada%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TbvEaXP2plw",
         "quiz": [
           {
             "q": "What does each provincial or territorial flag represent?",
@@ -42028,6 +42029,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore how nonfiction books use real photos and labels to give facts, unlike the drawings used in make-believe stories.",
         "resourceLabel": "YouTube: Nonfiction Features: Labels and Photos",
         "resourceUrl": "https://www.youtube.com/results?search_query=Nonfiction%20Features%3A%20Labels%20and%20Photos%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=b-IKYsfNfUk",
         "topic": "Reading: Nonfiction",
         "quiz": [
           {
@@ -42088,6 +42090,7 @@ const curriculum: DayContent[] = [
         "summary": "Children practice instantly recognizing small groups of dots or objects (up to 5) without counting one by one, building a strong sense of quantity.",
         "resourceLabel": "YouTube: Subitizing: Recognizing Quantities at a Glance",
         "resourceUrl": "https://www.youtube.com/results?search_query=Subitizing%3A%20Recognizing%20Quantities%20at%20a%20Glance%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6yyz_OycV4A",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {
@@ -42148,6 +42151,7 @@ const curriculum: DayContent[] = [
         "summary": "Children learn about land turtles, exploring their hard protective shells and slow, careful way of moving as they search for food.",
         "resourceLabel": "YouTube: Turtles on Land: Slow and Steady",
         "resourceUrl": "https://www.youtube.com/results?search_query=Turtles%20on%20Land%3A%20Slow%20and%20Steady%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zb4QLqXzNek",
         "topic": "Classification of Living Things (Basic)",
         "quiz": [
           {
@@ -42208,6 +42212,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Social Studies strand: world landmarks are famous and special places found in different countries, like a tall tower or an ancient pyramid, that many people like to visit and learn about.",
         "resourceLabel": "YouTube: World Landmarks: Famous Places Around the World",
         "resourceUrl": "https://www.youtube.com/results?search_query=World%20Landmarks%3A%20Famous%20Places%20Around%20the%20World%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Uh332gXQYI4",
         "quiz": [
           {
             "q": "What is a world landmark?",

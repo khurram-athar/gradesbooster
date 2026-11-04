@@ -37119,6 +37119,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a white paper presents a detailed, evidence-based argument about a technical, policy, or business problem, combining research and data with a clear recommendation, aimed at persuading an informed reader to adopt a particular solution.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=bmXd_fVMr8A",
         "quiz": [
           {
             "q": "What does a white paper typically present?",
@@ -37179,6 +37180,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: the graph of the tangent function repeats every pi radians and has vertical asymptotes wherever cosine equals zero, since tangent is defined as sine divided by cosine and becomes undefined at those points.",
         "resourceLabel": "YouTube: Trigonometry: Graphing the Tangent Function and Its Asymptotes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20Graphing%20the%20Tangent%20Function%20and%20Its%20Asymptotes%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=n0cVo54OfXI",
+        "videoUrls": [
+          {
+            "label": "Graphing the Tangent Function",
+            "url": "https://www.youtube.com/watch?v=n0cVo54OfXI"
+          },
+          {
+            "label": "Asymptotes of the Tangent Function",
+            "url": "https://www.youtube.com/watch?v=Zze36spqjF0"
+          }
+        ],
         "quiz": [
           {
             "q": "What is the period of the basic tangent function y = tan(x)?",
@@ -37239,6 +37251,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: a bioindicator species is an organism whose presence, absence, or abundance reflects the health of its environment, and aquatic biologists often survey sensitive invertebrates in a stream to assess water quality without relying solely on chemical testing.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=C4fZESt1lS0",
         "quiz": [
           {
             "q": "What is a bioindicator species?",
@@ -37298,6 +37311,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: many invisible inks rely on colourless organic compounds that become visible after a chemical change, such as an acid-base reaction revealed with an indicator or an oxidation reaction triggered by heat, illustrating how redox and acid-base chemistry can be used to hide and reveal a written message.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=bX1CtjNNZJM",
         "quiz": [
           {
             "q": "What property do many invisible ink compounds share before they are revealed?",

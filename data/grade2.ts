@@ -45201,6 +45201,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise asking questions before, during, and after reading a story, wondering about characters, events, and what might happen next.",
         "resourceLabel": "YouTube: Asking Questions: Wondering About a Story",
         "resourceUrl": "https://www.youtube.com/results?search_query=Asking%20Questions%3A%20Wondering%20About%20a%20Story%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7C8CZjcnIq4",
         "quiz": [
           {
             "q": "Why might a reader ask questions before starting a story?",
@@ -45424,6 +45425,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: lighthouses along Canadas coasts use bright lights to help guide ships safely and warn them away from rocky shores.",
         "resourceLabel": "YouTube: Canadian Lighthouses: Guiding Ships Safely",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Lighthouses%3A%20Guiding%20Ships%20Safely%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=r7IprzmJyaM",
         "quiz": [
           {
             "q": "What is the main purpose of a lighthouse?",
@@ -45489,6 +45491,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: a graphic organizer is a visual tool, like a web or a chart, that helps writers plan and organize their ideas before writing.",
         "resourceLabel": "YouTube: Graphic Organizers: Mapping Out Our Ideas",
         "resourceUrl": "https://www.youtube.com/results?search_query=Graphic%20Organizers%3A%20Mapping%20Out%20Our%20Ideas%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=U3GF5Lv3Zu8",
         "quiz": [
           {
             "q": "What is a graphic organizer?",
@@ -45548,6 +45551,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore two flat shapes, the triangle, with three straight sides, and the rectangle, with four straight sides and four corners, describing their attributes.",
         "resourceLabel": "YouTube: 2D Shapes: Triangle and Rectangle",
         "resourceUrl": "https://www.youtube.com/results?search_query=2D%20Shapes%3A%20Triangle%20and%20Rectangle%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OEbRDtCAFdU",
         "quiz": [
           {
             "q": "How many straight sides does a triangle have?",
@@ -45630,6 +45634,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: a wetland is a special habitat where the land is covered by shallow water for at least part of the year, supporting many plants and animals.",
         "resourceLabel": "YouTube: Wetlands: A Habitat Between Land and Water",
         "resourceUrl": "https://www.youtube.com/results?search_query=Wetlands%3A%20A%20Habitat%20Between%20Land%20and%20Water%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xIJb9BRsLvg",
         "quiz": [
           {
             "q": "What is a wetland?",
@@ -45690,6 +45695,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the local fire hall is where firefighters keep their trucks and equipment ready and train so they can respond quickly to emergencies.",
         "resourceLabel": "YouTube: Our Local Fire Hall: Where Firefighters Prepare",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Local%20Fire%20Hall%3A%20Where%20Firefighters%20Prepare%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MDhfKlbkzs4",
         "quiz": [
           {
             "q": "What do firefighters keep ready at the fire hall?",

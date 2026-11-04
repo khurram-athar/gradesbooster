@@ -38626,6 +38626,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to write clear, step-by-step instructions for completing a simple task, using sequence words like \"first,\" \"next,\" and \"finally\" to guide the reader in the correct order.",
         "resourceLabel": "YouTube: Writing: Writing How-To Instructions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20How-To%20Instructions%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=9M09MwB-NMk",
         "topic": "Writing: Informational/Expository",
         "quiz": [
           {
@@ -38686,6 +38687,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare fractions with unlike denominators by reasoning about their size relative to the benchmarks 0, 1/2, and 1, without needing to find a common denominator.",
         "resourceLabel": "YouTube: Comparing Fractions Using Benchmarks",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Fractions%20Using%20Benchmarks%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=aN_uAm6V0qc",
         "topic": "Fractions",
         "quiz": [
           {
@@ -38896,6 +38898,7 @@ const curriculum: DayContent[] = [
         "summary": "Students identify and use adverbs of manner, time, place, and frequency to tell how, when, where, and how often an action happens, adding more detail to their sentences.",
         "resourceLabel": "YouTube: Grammar: Types of Adverbs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Types%20of%20Adverbs%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cFTKMx738J4",
         "topic": "Grammar: Parts of Speech",
         "quiz": [
           {
@@ -38956,6 +38959,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: the perimeter of a composite shape, made up of two or more simple shapes joined together, is found by adding the lengths of all the outer sides.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=4c_-Q5gADcQ",
         "quiz": [
           {
             "q": "What is a composite shape?",
@@ -39016,6 +39020,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: differences in air pressure between areas cause wind, as air moves from areas of higher pressure to areas of lower pressure, and this movement plays a major role in weather patterns.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=CH6EjBiXX0I",
         "quiz": [
           {
             "q": "What causes wind to form?",
@@ -39076,6 +39081,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: World Heritage Sites are locations recognized by UNESCO for their cultural or natural significance, and Canada is home to several such sites, including national parks and historic landmarks.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=3Dlera6Goqg",
         "quiz": [
           {
             "q": "What organization designates World Heritage Sites?",
