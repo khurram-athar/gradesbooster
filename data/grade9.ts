@@ -38824,6 +38824,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: a speech of introduction presents a speaker or guest to an audience by highlighting relevant credentials and accomplishments, building interest and credibility, and is typically brief so it does not overshadow the main speaker who follows.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=P6onm2Phy38",
         "quiz": [
           {
             "q": "What is the main purpose of a speech of introduction?",
@@ -38884,6 +38885,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: a mortgage is a long-term loan used to purchase property, typically requiring an upfront down payment representing a percentage of the purchase price, with the remaining balance repaid over time along with interest.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Mwdpt1FMuz8",
         "quiz": [
           {
             "q": "What is a mortgage?",
@@ -38944,6 +38946,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: minerals are identified using physical properties such as hardness, streak, lustre, and cleavage, and each mineral forms a characteristic crystal structure based on the orderly, repeating arrangement of its atoms.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=RiPk2SqDP0s",
         "quiz": [
           {
             "q": "What is a mineral?",
@@ -39004,6 +39007,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: the fast fashion industry relies on a global textile supply chain that moves raw materials, manufacturing, and finished clothing across many countries to produce inexpensive garments quickly, raising ongoing questions about labour conditions and environmental impact.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=GiHfwiZ5wsU",
         "quiz": [
           {
             "q": "What is fast fashion?",

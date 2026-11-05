@@ -38448,6 +38448,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: commedia dellArte was an early Italian form of improvised comic theatre built around a set of recurring stock characters, such as the clever servant and the foolish old miser, whose fixed traits allowed largely unscripted performances to still follow a recognizable comic structure.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=xGu3qXHbX5Q",
         "quiz": [
           {
             "q": "What kind of performance did commedia dellArte rely on?",
@@ -38508,6 +38509,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: a recurrence relation defines each term of a sequence in terms of earlier terms, and a linear recurrence with constant coefficients can be solved explicitly by finding the roots of an associated characteristic polynomial, generalizing the Fibonacci-style sequences studied earlier.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=ZhqEUrvK7eU",
         "quiz": [
           {
             "q": "What does a recurrence relation define for a sequence?",
@@ -38567,6 +38569,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: a z-score expresses how many standard deviations a data point lies above or below the mean of a data set, allowing values from different distributions to be compared on a common scale.",
         "resourceLabel": "YouTube: Statistics: Z-Scores and Standardizing Data",
         "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20Z-Scores%20and%20Standardizing%20Data%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=1yYCyAwg-7g",
         "quiz": [
           {
             "q": "What does a z-score measure?",
@@ -38627,6 +38630,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson revisits Newton's third law in more complex multi-object systems, emphasizing that action-reaction force pairs always act on two different objects, never on the same object, and therefore never cancel within a single free-body diagram. You will practice identifying the correct reaction partner for a given force in scenarios involving stacked objects, a person pushing off a wall, and objects connected by ropes or in contact with each other, distinguishing genuine third-law pairs from forces that merely happen to be equal by coincidence (such as balanced forces on a stationary object).",
         "resourceLabel": "YouTube: Newton's Third Law in Complex Systems: Analyzing Action-Reaction Force Pairs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Newton%27s%20Third%20Law%20in%20Complex%20Systems%3A%20Analyzing%20Action-Reaction%20Force%20Pairs%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TxhESW6YtOg",
         "quiz": [
           {
             "q": "According to Newton's third law, if object A exerts a force on object B, then:",

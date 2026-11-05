@@ -40205,6 +40205,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: an indirect object receives the direct object of a sentence, usually telling to whom or for whom an action is done, such as her in the sentence I gave her a gift.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=xz-TYjlr4IA",
         "quiz": [
           {
             "q": "What does an indirect object usually tell us?",
@@ -40265,6 +40266,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: converting between units of time involves knowing that 60 seconds make a minute, 60 minutes make an hour, and 24 hours make a day, to move between smaller and larger units.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=ImVe0ed4fVM",
         "quiz": [
           {
             "q": "How many seconds are in one minute?",
@@ -40325,6 +40327,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: a cave is a large, dark, hollow space underground or inside a mountain that provides shelter for animals like bats and insects.",
         "resourceLabel": "YouTube: Caves: Underground Homes for Bats and Bugs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Caves%3A%20Underground%20Homes%20for%20Bats%20and%20Bugs%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FTJEz4KF1yU",
         "quiz": [
           {
             "q": "Where are caves usually found?",
@@ -40407,6 +40410,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: each Canadian province and territory has its own flag, featuring unique colours, symbols, and designs that represent its history, geography, and identity.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=TbvEaXP2plw",
         "quiz": [
           {
             "q": "What does each Canadian province and territory have of its own?",

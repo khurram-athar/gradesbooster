@@ -38712,6 +38712,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: a problem-solution essay identifies a specific issue, explains its causes and effects, and proposes one or more realistic solutions supported by evidence and reasoning.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=ZVZcqRWtI0U",
         "quiz": [
           {
             "q": "What does a problem-solution essay identify?",
@@ -38772,6 +38773,7 @@ const curriculum: DayContent[] = [
         "summary": "Students generate a table of values from a linear equation and plot the resulting ordered pairs on a coordinate grid to graph the relation.",
         "resourceLabel": "YouTube: Plotting Points and Graphing Linear Relations from a Table of Values",
         "resourceUrl": "https://www.youtube.com/results?search_query=Plotting%20Points%20and%20Graphing%20Linear%20Relations%20from%20a%20Table%20of%20Values%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=r7USWiTmQdM",
         "topic": "Linear Relations",
         "quiz": [
           {
@@ -38832,6 +38834,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: decomposers such as fungi and bacteria break down dead organisms and waste material, releasing nutrients back into the soil so they can be reused by plants, making decomposers essential to nutrient cycling within an ecosystem.",
         "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=4a9JC1F50Lg",
         "quiz": [
           {
             "q": "What do decomposers such as fungi and bacteria break down?",
@@ -38892,6 +38895,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: Sir John A. Macdonald became Canadas first prime minister in 1867 and played a leading role in negotiating Confederation and expanding the young country westward through projects such as the transcontinental railway.",
         "resourceLabel": "YouTube: Social Studies: Sir John A. Macdonald — Canadas First Prime Minister",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Sir%20John%20A.%20Macdonald%20%E2%80%94%20Canadas%20First%20Prime%20Minister%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ft-N-zv3O2c",
         "quiz": [
           {
             "q": "What role did Sir John A. Macdonald hold beginning in 1867?",

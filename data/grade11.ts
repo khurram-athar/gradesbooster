@@ -38630,6 +38630,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a soliloquy is a dramatic speech in which a character alone on stage speaks their private thoughts aloud, giving the audience direct access to motives, doubts, or plans that other characters in the play cannot hear.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=4ogkXqh2HaU",
         "quiz": [
           {
             "q": "What is a soliloquy?",
@@ -38689,6 +38690,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand: a percentile indicates the percentage of data values in a set that fall below a given value, and quartiles divide an ordered data set into four equal parts, with the second quartile equal to the median.",
         "resourceLabel": "YouTube: Statistics: An Introduction to Percentiles and Quartiles",
         "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20An%20Introduction%20to%20Percentiles%20and%20Quartiles%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NpmPYVGqMg4",
         "quiz": [
           {
             "q": "What does a percentile indicate?",
@@ -38749,6 +38751,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: phylogenetics reconstructs the evolutionary relationships among species based on shared characteristics, and a cladogram is a branching diagram that represents these relationships, with each branch point marking a common ancestor shared by all species descending from it.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=cIQobFHFwcM",
         "quiz": [
           {
             "q": "What does phylogenetics reconstruct?",
@@ -38809,6 +38812,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: household bleach works as an oxidizing agent, breaking apart the conjugated pigment molecules responsible for stains and killing microorganisms by disrupting proteins and cell membranes through the same oxidation reactions that give bleach its cleaning and disinfecting power.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=nj6wnNdOQw8",
         "quiz": [
           {
             "q": "What type of chemical agent is household bleach?",

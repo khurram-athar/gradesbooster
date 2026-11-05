@@ -39540,6 +39540,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: hyperbole is an extreme exaggeration used for effect, not meant to be taken literally, such as saying I am so hungry I could eat a horse.",
         "resourceLabel": "YouTube: Reading: Understanding Hyperbole",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Understanding%20Hyperbole%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GUBNBCUTpvs",
         "quiz": [
           {
             "q": "What is hyperbole?",
@@ -39600,6 +39601,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: the capacity of a container can be found by measuring how much liquid it holds, and displacement is a method that measures an objects volume by observing how much liquid it pushes aside when submerged.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=xSbsbz7Ovb4",
         "quiz": [
           {
             "q": "What does capacity measure?",
@@ -39660,6 +39662,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: some deep-sea creatures produce their own light through a chemical reaction called bioluminescence, which they use to attract prey, communicate, or avoid predators in the dark ocean depths.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=aPUF40j47-o",
         "quiz": [
           {
             "q": "What is bioluminescence?",
@@ -39720,6 +39723,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about Chinese immigrants who helped build the Canadian Pacific Railway and the discriminatory head tax the Canadian government later charged Chinese immigrants, along with the eventual apology.",
         "resourceLabel": "YouTube: Chinese Immigration and the Head Tax",
         "resourceUrl": "https://www.youtube.com/results?search_query=Chinese%20Immigration%20and%20the%20Head%20Tax%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uu-uDSS0LOg",
         "topic": "Immigration & Settlement",
         "quiz": [
           {

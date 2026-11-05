@@ -38521,6 +38521,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Grammar strand: a verbal is a word formed from a verb that functions as a different part of speech — a gerund acts as a noun, a participle acts as an adjective, and an infinitive can act as a noun, adjective, or adverb.",
         "resourceLabel": "YouTube: Grammar: Verbals — Gerunds, Participles, and Infinitives",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Verbals%20%E2%80%94%20Gerunds%2C%20Participles%2C%20and%20Infinitives%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8c2b-zhk1DQ",
         "quiz": [
           {
             "q": "A gerund is a verb form ending in -ing that functions as a ___.",
@@ -38581,6 +38582,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use inverse trigonometric ratios (sin⁻¹, cos⁻¹, tan⁻¹) to find unknown angles in right triangles given two side lengths.",
         "resourceLabel": "YouTube: Trigonometry: Solving for Unknown Angles in Right Triangles",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20Solving%20for%20Unknown%20Angles%20in%20Right%20Triangles%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=1c3IcsPoexw",
         "topic": "Trigonometry",
         "quiz": [
           {
@@ -38641,6 +38643,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: rockets move forward according to Newtons third law, expelling exhaust gas backward at high speed to generate thrust forward, a principle that must overcome both gravity and atmospheric resistance for a rocket to reach space.",
         "resourceLabel": "YouTube: Space Science: Rocket Propulsion and Space Travel",
         "resourceUrl": "https://www.youtube.com/results?search_query=Space%20Science%3A%20Rocket%20Propulsion%20and%20Space%20Travel%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tzrwisYc03A",
         "quiz": [
           {
             "q": "Which law of motion explains how a rocket generates thrust?",
@@ -38701,6 +38704,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: Canadian troops fought in the Italian Campaign from 1943 to 1945, including the brutal house-to-house fighting of the Battle of Ortona in December 1943, an intense urban battle that became one of the wars most difficult engagements for Canadian forces.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=WKe0s0yormw",
         "quiz": [
           {
             "q": "From what years did Canadian troops fight in the Italian Campaign?",

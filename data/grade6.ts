@@ -38726,6 +38726,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: a fable is a short story, often featuring animal characters, that teaches a lesson called a moral, usually stated directly at the end of the story.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=13Y8jYzJeHY",
         "quiz": [
           {
             "q": "What is a fable?",
@@ -38786,6 +38787,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: a tessellation is a pattern of shapes that fit together perfectly with no gaps or overlaps to cover a flat surface, and regular tessellations can be made using equilateral triangles, squares, or regular hexagons.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=3VSyDpCEiyY",
         "quiz": [
           {
             "q": "What is a tessellation?",
@@ -38846,6 +38848,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: biodegradable materials, such as food scraps and paper, break down naturally through the action of decomposers, while non-biodegradable materials, such as many plastics, can persist in the environment for hundreds of years.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Gboh2yaAinM",
         "quiz": [
           {
             "q": "What does it mean for a material to be biodegradable?",
@@ -38906,6 +38909,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about the more than 100,000 British 'Home Children' sent to Canada between the 1860s and 1940s to work as farm labourers and domestic servants, and examine the mixed legacy of this child migration program.",
         "resourceLabel": "YouTube: Canada's Home Children",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Home%20Children%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yLDdHnit6eM",
         "topic": "Immigration & Settlement",
         "quiz": [
           {

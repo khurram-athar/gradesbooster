@@ -43470,6 +43470,7 @@ const curriculum: DayContent[] = [
         "summary": "Students create their own simple story by drawing a picture and adding a few words or letters to tell what is happening, combining drawing and early writing.",
         "resourceLabel": "YouTube: Writing a Story: Pictures and Words Together",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20a%20Story%3A%20Pictures%20and%20Words%20Together%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=waToWktB7ag",
         "topic": "Writing",
         "quiz": [
           {
@@ -43530,6 +43531,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to identify and use ordinal numbers, first through tenth, to describe position in a line or sequence.",
         "resourceLabel": "YouTube: Ordinal Numbers: First to Tenth",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ordinal%20Numbers%3A%20First%20to%20Tenth%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IglZ580Z5eM",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {
@@ -43590,6 +43592,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: a kangaroo is an animal from Australia that carries its baby, called a joey, in a special pouch on its belly.",
         "resourceLabel": "YouTube: Kangaroos: Animals with Pouches",
         "resourceUrl": "https://www.youtube.com/results?search_query=Kangaroos%3A%20Animals%20with%20Pouches%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=4s0Ewd3pG4s",
         "quiz": [
           {
             "q": "What is a baby kangaroo called?",
@@ -43673,6 +43676,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Social Studies strand: people make choices about money, deciding whether to spend it on something they want now or save it for something later.",
         "resourceLabel": "YouTube: Saving and Spending: Making Choices with Money",
         "resourceUrl": "https://www.youtube.com/results?search_query=Saving%20and%20Spending%3A%20Making%20Choices%20with%20Money%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NfurkrZEn3Q",
         "quiz": [
           {
             "q": "What does it mean to save money?",
