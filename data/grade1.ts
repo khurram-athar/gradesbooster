@@ -46968,6 +46968,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: the prefixes in- and im- can mean not, changing a word like active into inactive or possible into impossible.",
         "resourceLabel": "YouTube: Prefixes: in- and im-",
         "resourceUrl": "https://www.youtube.com/results?search_query=Prefixes%3A%20in-%20and%20im-%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Wd0lPRNLqPA",
         "quiz": [
           {
             "q": "What does the prefix in- often mean when added to a word?",
@@ -47050,6 +47051,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: students practise skip counting by 50s, counting 50, 100, 150, and so on, to build number sense with larger numbers.",
         "resourceLabel": "YouTube: Skip Counting by 50s",
         "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%2050s%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ywOKPqFUyCA",
         "quiz": [
           {
             "q": "What number comes right after 150 when counting by 50s?",
@@ -47133,6 +47135,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: a tornado is a spinning column of fast moving air that can form during a strong storm and cause damage.",
         "resourceLabel": "YouTube: Tornadoes: Spinning Storms",
         "resourceUrl": "https://www.youtube.com/results?search_query=Tornadoes%3A%20Spinning%20Storms%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-s3UwOq1P1E",
         "quiz": [
           {
             "q": "What is a tornado?",
@@ -47216,6 +47219,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: a postal code is a special set of letters and numbers that helps mail carriers deliver mail to the right address.",
         "resourceLabel": "YouTube: Our Postal Code: A Special Set of Letters and Numbers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Postal%20Code%3A%20A%20Special%20Set%20of%20Letters%20and%20Numbers%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=a1DcsrC8qiE",
         "quiz": [
           {
             "q": "What is a postal code made up of?",

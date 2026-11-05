@@ -38228,6 +38228,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: a cause is the reason something happens, while an effect is the result, and nonfiction writers often use signal words such as because, therefore, and as a result to show these relationships clearly.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=5BxPg8LsSdQ",
         "quiz": [
           {
             "q": "What is a cause in a cause and effect relationship?",
@@ -38288,6 +38289,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: a discount reduces the original price of an item by a percent, and the sale price is found by subtracting the discount amount from the original price.",
         "resourceLabel": "YouTube: Financial Literacy: Calculating Discounts and Sale Prices",
         "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Calculating%20Discounts%20and%20Sale%20Prices%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=og9bDI2XJfA",
         "quiz": [
           {
             "q": "What does a discount do to the original price of an item?",
@@ -38408,6 +38410,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the Highway of Heroes is a stretch of highway in Ontario where members of the public gather on overpasses to honour Canadian soldiers whose remains are being transported home, a tradition that began during the war in Afghanistan.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=HOpQV3xXL2o",
         "quiz": [
           {
             "q": "What is the Highway of Heroes?",

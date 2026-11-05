@@ -38261,6 +38261,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: a clipped word is a shortened form of a longer word that keeps the same meaning, such as gym from gymnasium or phone from telephone, and clipping is a common way English vocabulary evolves over time.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=462Y7v2O2Hw",
         "quiz": [
           {
             "q": "What is a clipped word?",
@@ -38321,6 +38322,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: the triangle inequality theorem states that the sum of the lengths of any two sides of a triangle must be greater than the length of the third side, which determines whether three given lengths can actually form a triangle.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=KlKYvbigBqs",
         "quiz": [
           {
             "q": "What does the triangle inequality theorem state?",
@@ -38381,6 +38383,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: a transverse wave moves particles up and down at right angles to the direction the wave travels, as in a wave on a rope, while a longitudinal wave moves particles back and forth in the same direction as the wave, as in a sound wave.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=0Anh9HthWgQ",
         "quiz": [
           {
             "q": "In a transverse wave, how do particles move relative to the direction of the wave?",
@@ -38441,6 +38444,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the Canadian National Railway was formed in 1919 when the federal government combined several financially struggling private railways into a single publicly owned company, helping stabilize rail service across the country.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=FynhdgmJpdk",
         "quiz": [
           {
             "q": "In what year was the Canadian National Railway formed?",

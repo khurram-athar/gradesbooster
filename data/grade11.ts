@@ -38132,6 +38132,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: an elliptical construction omits a word or phrase that can be clearly understood from context, allowing a sentence to avoid needless repetition while still remaining fully comprehensible to the reader.",
         "resourceLabel": "YouTube: Grammar: Elliptical Constructions and Implied Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Elliptical%20Constructions%20and%20Implied%20Words%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KkkW5wsD46M",
         "quiz": [
           {
             "q": "What is an elliptical construction?",
@@ -38192,6 +38193,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: the second derivative of a function reveals its concavity, with a positive second derivative indicating the graph curves upward and a negative second derivative indicating it curves downward, and an inflection point marks where concavity switches from one to the other.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=OhqNbQi9QPk",
         "quiz": [
           {
             "q": "What does the second derivative of a function reveal?",
@@ -38252,6 +38254,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: restriction enzymes cut DNA at specific recognition sequences, allowing scientists to splice a gene of interest into a plasmid vector and insert the resulting recombinant DNA into a host cell, a foundational technique behind much of modern genetic engineering.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=mMIRBNUuX6I",
         "quiz": [
           {
             "q": "What do restriction enzymes do to DNA?",
@@ -38312,6 +38315,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: azo compounds contain a nitrogen-nitrogen double bond linking two aromatic rings, and this extended conjugated system absorbs specific wavelengths of visible light, making azo compounds one of the most widely used classes of synthetic dye in textiles and food colouring.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=NmCXdWeC9AM",
         "quiz": [
           {
             "q": "What functional group defines an azo compound?",

@@ -46366,6 +46366,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: homographs are words spelled the same way but with different meanings, like bat, the flying animal, and bat, used to hit a ball.",
         "resourceLabel": "YouTube: Homographs: Same Spelling, Different Meanings",
         "resourceUrl": "https://www.youtube.com/results?search_query=Homographs%3A%20Same%20Spelling%2C%20Different%20Meanings%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CEDlBLTfSHE",
         "quiz": [
           {
             "q": "What is a homograph?",
@@ -46426,6 +46427,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore 3D shapes by testing whether each one rolls, like a sphere, stacks, like a cube, or slides, like the flat face of a cylinder.",
         "resourceLabel": "YouTube: 3D Shapes: Which Ones Roll, Stack, or Slide",
         "resourceUrl": "https://www.youtube.com/results?search_query=3D%20Shapes%3A%20Which%20Ones%20Roll%2C%20Stack%2C%20or%20Slide%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=kj-2c208cCc",
         "quiz": [
           {
             "q": "Which 3D shape rolls easily because it is round all over?",
@@ -46508,6 +46510,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: sharks are fish with skeletons made of cartilage instead of bone, and many species are skilled ocean predators.",
         "resourceLabel": "YouTube: Sharks: Ocean Predators",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sharks%3A%20Ocean%20Predators%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZFk0xhqT5fQ",
         "quiz": [
           {
             "q": "What are shark skeletons mostly made of?",
@@ -46568,6 +46571,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: multiculturalism means people from many different cultures, languages, and traditions live together and share their communities.",
         "resourceLabel": "YouTube: Multiculturalism: Many Cultures Living Together",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multiculturalism%3A%20Many%20Cultures%20Living%20Together%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rKgoVDV6UiE",
         "quiz": [
           {
             "q": "What does multiculturalism mean?",

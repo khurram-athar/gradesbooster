@@ -37948,6 +37948,7 @@
         "summary": "Grade 12 English strand: the historical novel sets its story in a real past period, blending researched historical detail with invented characters and plot, using the gap between documented fact and imaginative reconstruction to explore how the past can be understood and represented.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=ao2fcyX1KGw",
         "quiz": [
           {
             "q": "What defines a historical novel as a genre?",
@@ -38008,6 +38009,7 @@
         "summary": "Students solve exponential equations that cannot be rewritten with a common base by applying logarithms to both sides, using the power law of logarithms to isolate the variable.",
         "resourceLabel": "YouTube: Solving Exponential Equations Using Logarithms",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Exponential%20Equations%20Using%20Logarithms%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xLaz2yQSRcY",
         "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
@@ -38068,6 +38070,7 @@
         "summary": "Grade 9 Math strand: Bayes Theorem provides a method for updating the probability of an event as new evidence becomes available, building directly on the idea of conditional probability introduced earlier in the course.",
         "resourceLabel": "YouTube: Data Management: Bayes Theorem and Updating Probabilities",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Bayes%20Theorem%20and%20Updating%20Probabilities%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oZCskBpHWyk",
         "quiz": [
           {
             "q": "What does Bayes Theorem allow you to do?",
@@ -38128,6 +38131,7 @@
         "summary": "Grade 12 Physics strand: muons produced by cosmic rays high in the atmosphere have such a short lifetime that classical physics predicts almost none should reach the ground, yet many are detected at sea level, a discrepancy explained by relativistic time dilation extending their apparent lifetime as observed from the ground.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=4PLJUoyHsVE",
         "quiz": [
           {
             "q": "What is surprising, from a purely classical standpoint, about muons reaching the ground?",

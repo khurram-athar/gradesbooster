@@ -38204,6 +38204,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: slang is informal vocabulary that develops within a particular group or generation and often changes quickly over time, and recognizing slang helps readers understand a texts tone, audience, and time period.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=ANc9F0p3mkw",
         "quiz": [
           {
             "q": "What is slang?",
@@ -38264,6 +38265,7 @@ const curriculum: DayContent[] = [
         "summary": "Students solve equations with variables and constants on both sides, combining like terms and applying the distributive property where needed.",
         "resourceLabel": "YouTube: Solving Multi-Step Equations with Variables on Both Sides",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Multi-Step%20Equations%20with%20Variables%20on%20Both%20Sides%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nipGUDiG9Uc",
         "topic": "Equations & Inequalities",
         "quiz": [
           {
@@ -38324,6 +38326,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: static electricity builds up when electrons transfer between two objects through contact, often by rubbing, a process known as the triboelectric effect, leaving one object positively charged and the other negatively charged until the charge is discharged.",
         "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=IDQYakHRAG8",
         "quiz": [
           {
             "q": "How does static electricity typically build up?",
@@ -38384,6 +38387,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the League of Nations was an international organization formed after the First World War to help prevent future conflicts through cooperation and diplomacy, though it ultimately failed to stop the outbreak of the Second World War.",
         "resourceLabel": "YouTube: Social Studies: The League of Nations and Its Legacy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20League%20of%20Nations%20and%20Its%20Legacy%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KEzjieGNV0I",
         "quiz": [
           {
             "q": "When was the League of Nations formed?",
