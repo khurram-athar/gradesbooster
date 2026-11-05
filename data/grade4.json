@@ -39440,6 +39440,7 @@
         "summary": "Grade 4 Language strand: articles are small words used before nouns, where a and an are indefinite articles used with nonspecific nouns, while the is a definite article used with a specific noun, and an is used before words that begin with a vowel sound.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=cc7rgoC_nMI",
         "quiz": [
           {
             "q": "What is the definite article in English?",
@@ -39500,6 +39501,7 @@
         "summary": "Grade 4 Math strand: dividing a whole number by 10, 100, or 1,000 moves the digits to the right, shifting the decimal point left by one, two, or three places.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=YSFleu6fZts",
         "quiz": [
           {
             "q": "What happens to a number when it is divided by 10?",
@@ -39560,6 +39562,7 @@
         "summary": "Grade 4 Science strand: a butterfly undergoes complete metamorphosis, changing from an egg to a larva called a caterpillar, then to a pupa inside a chrysalis, before emerging as an adult butterfly.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=PWi-dQ-FMB8",
         "quiz": [
           {
             "q": "What is the first stage of a butterflys life cycle?",
@@ -39620,6 +39623,21 @@
         "summary": "Students locate and compare three of Canada's significant islands, learning about their geography, size, and importance to the surrounding provinces or territories.",
         "resourceLabel": "YouTube: Social Studies: Canada's Major Islands: Vancouver Island, Baffin Island, and PEI",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%27s%20Major%20Islands%3A%20Vancouver%20Island%2C%20Baffin%20Island%2C%20and%20PEI%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=aiFnR-zbPf8",
+        "videoUrls": [
+          {
+            "label": "Vancouver Island",
+            "url": "https://www.youtube.com/watch?v=aiFnR-zbPf8"
+          },
+          {
+            "label": "Baffin Island",
+            "url": "https://www.youtube.com/watch?v=_hCCQYK54vo"
+          },
+          {
+            "label": "Prince Edward Island",
+            "url": "https://www.youtube.com/watch?v=Z_8h-WFN4pM"
+          }
+        ],
         "topic": "Canadian Geography & Regions",
         "quiz": [
           {

@@ -39960,6 +39960,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Language strand: dialogue is when characters in a story talk, and it is often shown using quotation marks around the words they say.",
         "resourceLabel": "YouTube: Dialogue: When Characters Speak",
         "resourceUrl": "https://www.youtube.com/results?search_query=Dialogue%3A%20When%20Characters%20Speak%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WOgXD_Sj3Gg",
         "quiz": [
           {
             "q": "What is dialogue in a story?",
@@ -40043,6 +40044,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Math strand: students compare how much different containers can hold, learning that some containers hold more than others.",
         "resourceLabel": "YouTube: Measurement: Comparing Volume with Containers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Comparing%20Volume%20with%20Containers%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LpyawhWbijo",
         "quiz": [
           {
             "q": "What does the volume of a container measure?",
@@ -40126,6 +40128,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: when water gets very cold, it freezes and changes into a solid called ice or snow.",
         "resourceLabel": "YouTube: Ice and Snow: Water Becomes Solid",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ice%20and%20Snow%3A%20Water%20Becomes%20Solid%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZvfbjdFhOdc",
         "quiz": [
           {
             "q": "What happens to water when it gets very cold?",
@@ -40208,6 +40211,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: the Rocky Mountains are a tall, snow-capped mountain range in western Canada, known for their beautiful scenery and home to many animals.",
         "resourceLabel": "YouTube: The Rocky Mountains: A Famous Canadian Landmark",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Rocky%20Mountains%3A%20A%20Famous%20Canadian%20Landmark%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XETKbSBqyH8",
         "quiz": [
           {
             "q": "What are the Rocky Mountains?",

@@ -38791,6 +38791,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: a loanword is a word that English has borrowed from another language, such as balcony from Italian, kindergarten from German, and canoe from an Indigenous language.",
         "resourceLabel": "YouTube: Vocabulary: Loanwords — Words English Has Borrowed",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Loanwords%20%E2%80%94%20Words%20English%20Has%20Borrowed%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MAR0t6cT5g4",
         "quiz": [
           {
             "q": "What is a loanword?",
@@ -38851,6 +38852,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: a tessellation is a pattern of one or more shapes that repeats to cover a flat surface completely, with no gaps or overlaps.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=TJI6-JL_dDU",
         "quiz": [
           {
             "q": "What is a tessellation?",
@@ -38911,6 +38913,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: a food web shows how producers, consumers, and decomposers are connected as energy and nutrients move through an ecosystem, with each group playing a distinct role.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Vtb3I8Vzlfg",
         "quiz": [
           {
             "q": "What role do producers play in a food web?",
@@ -38971,6 +38974,7 @@ const curriculum: DayContent[] = [
         "summary": "Students examine the main sources of energy used and produced in Canada, including oil and gas from Alberta, hydroelectric power from rivers, and growing renewable sources like wind and solar.",
         "resourceLabel": "YouTube: Canada's Energy Resources: Oil, Hydroelectricity, and Renewables",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Energy%20Resources%3A%20Oil%2C%20Hydroelectricity%2C%20and%20Renewables%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=thQN-O8_Vks",
         "topic": "Natural Resources & Industry",
         "quiz": [
           {

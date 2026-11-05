@@ -37986,6 +37986,7 @@
         "summary": "Grade 7 Language strand: a compound-complex sentence combines at least two independent clauses with at least one dependent clause, allowing a writer to link multiple related ideas of differing importance within a single sentence.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=Hnmm57B0JgQ",
         "quiz": [
           {
             "q": "What is a compound-complex sentence?",
@@ -38046,6 +38047,7 @@
         "summary": "Grade 7 Math strand: speed can be calculated by dividing the distance travelled by the time taken, and rearranging this relationship allows a person to solve for distance or time when the other two values are known.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=gDlR3AKFHfM",
         "quiz": [
           {
             "q": "What formula is used to calculate speed?",
@@ -38106,6 +38108,17 @@
         "summary": "Grade 5 Science strand: Newtons second law explains that a greater force is needed to accelerate a heavier object, while Newtons third law states that every action has an equal and opposite reaction.",
         "resourceLabel": "YouTube: Newtons Second and Third Laws of Motion",
         "resourceUrl": "https://www.youtube.com/results?search_query=Newtons%20Second%20and%20Third%20Laws%20of%20Motion%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8o3j1wpabes",
+        "videoUrls": [
+          {
+            "label": "Newton's Second Law",
+            "url": "https://www.youtube.com/watch?v=8o3j1wpabes"
+          },
+          {
+            "label": "Newton's Third Law",
+            "url": "https://www.youtube.com/watch?v=wZsktFefGhI"
+          }
+        ],
         "quiz": [
           {
             "q": "What does Newtons second law describe?",

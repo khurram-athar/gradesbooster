@@ -37702,6 +37702,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: a sestina is a fixed poetic form of six six-line stanzas plus a three-line envoi, in which the same six end-words recur in a fixed rotating pattern across every stanza instead of relying on rhyme, generating meaning through the shifting context of repetition.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=h1nIg_ZbDTY",
         "quiz": [
           {
             "q": "What structural feature defines a sestina rather than a rhyme scheme?",
@@ -37761,6 +37762,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: a confidence interval uses sample data to construct a range of plausible values for an unknown population parameter, paired with a confidence level that describes how often intervals built this way would capture the true parameter across repeated sampling.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=tFWsuO9f74o",
         "quiz": [
           {
             "q": "What does a confidence interval provide an estimate of?",
@@ -37821,6 +37823,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: the projection of one vector onto another describes how much of the first vector points in the direction of the second, and it can be calculated using the dot product together with the magnitude of the vector being projected onto.",
         "resourceLabel": "YouTube: Geometry: Vector Projections and Scalar Components",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Vector%20Projections%20and%20Scalar%20Components%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TaIM8i6p-JY",
         "quiz": [
           {
             "q": "What does the projection of one vector onto another describe?",
@@ -37881,6 +37884,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore how two overlapping waves combine according to the principle of superposition, producing constructive interference where crests align and destructive interference where a crest meets a trough.",
         "resourceLabel": "YouTube: Wave Interference: Constructive and Destructive Superposition",
         "resourceUrl": "https://www.youtube.com/results?search_query=Wave%20Interference%3A%20Constructive%20and%20Destructive%20Superposition%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oTjTXS40pqs",
         "quiz": [
           {
             "q": "According to the principle of superposition, when two waves overlap, the resulting displacement at a point is ___.",

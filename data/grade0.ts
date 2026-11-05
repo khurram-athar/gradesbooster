@@ -42585,6 +42585,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practice connecting a story to their own life, saying 'This reminds me of...' when something in the book matches something they know.",
         "resourceLabel": "YouTube: Making Connections: This Reminds Me Of",
         "resourceUrl": "https://www.youtube.com/results?search_query=Making%20Connections%3A%20This%20Reminds%20Me%20Of%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=93l-pRLX_9A",
         "topic": "Reading Comprehension",
         "quiz": [
           {
@@ -42645,6 +42646,7 @@ const curriculum: DayContent[] = [
         "summary": "Children practice matching written numerals 1 to 10 with the correct number of objects, strengthening the link between symbols and quantities.",
         "resourceLabel": "YouTube: Numeral Recognition: Matching Numbers to Quantities",
         "resourceUrl": "https://www.youtube.com/results?search_query=Numeral%20Recognition%3A%20Matching%20Numbers%20to%20Quantities%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RCBbGfEw6nc",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {
@@ -42705,6 +42707,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: summer is a warm season with long sunny days, when many plants grow, flowers bloom, and children can play outside for a long time.",
         "resourceLabel": "YouTube: Summer Season",
         "resourceUrl": "https://www.youtube.com/results?search_query=Summer%20Season%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=EKuczTnH694",
         "quiz": [
           {
             "q": "What is summer weather usually like?",
@@ -42788,6 +42791,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Social Studies strand: paramedics are trained helpers who quickly come to give medical care when someone is hurt or very sick.",
         "resourceLabel": "YouTube: Our Paramedics: Helping in an Emergency",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Paramedics%3A%20Helping%20in%20an%20Emergency%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GBi1l0LDbpg",
         "quiz": [
           {
             "q": "What is the main job of a paramedic?",

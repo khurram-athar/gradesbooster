@@ -46756,6 +46756,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use ten-frame pictures filled with counters to represent, read, and compare numbers up to 20, building a strong sense of numbers in relation to ten.",
         "resourceLabel": "YouTube: Ten Frames: Representing Numbers to Twenty",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ten%20Frames%3A%20Representing%20Numbers%20to%20Twenty%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LIUkCs3NPws",
         "topic": "Number Sense",
         "quiz": [
           {
@@ -46816,6 +46817,7 @@ const curriculum: DayContent[] = [
         "summary": "Students test simple shapes, like triangles and squares, to discover which shapes make the strongest, most stable structures.",
         "resourceLabel": "YouTube: Building Strong Structures: Shapes That Support Weight",
         "resourceUrl": "https://www.youtube.com/results?search_query=Building%20Strong%20Structures%3A%20Shapes%20That%20Support%20Weight%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mBHJtWbsiaA",
         "topic": "Structures & Mechanisms",
         "quiz": [
           {
@@ -46876,6 +46878,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: Family Day is a holiday in Ontario every February when families and friends can spend time together and rest.",
         "resourceLabel": "YouTube: Family Day: A Special Ontario Holiday",
         "resourceUrl": "https://www.youtube.com/results?search_query=Family%20Day%3A%20A%20Special%20Ontario%20Holiday%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ofgQ1bm34zM",
         "quiz": [
           {
             "q": "In what month is Family Day celebrated in Ontario?",

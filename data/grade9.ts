@@ -38074,6 +38074,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: a restrictive clause provides essential information that narrows the meaning of the noun it modifies and is not set off by commas, while a nonrestrictive clause adds extra, non-essential information and is always set off by commas.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=NjTM4booWHo",
         "quiz": [
           {
             "q": "What is a restrictive clause?",
@@ -38134,6 +38135,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn the conditions that guarantee two triangles are congruent (SSS, SAS, ASA, and RHS) and use them to justify why given triangles must be identical in shape and size.",
         "resourceLabel": "YouTube: Congruent Triangles and Triangle Congruence Conditions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Congruent%20Triangles%20and%20Triangle%20Congruence%20Conditions%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tfa9s0rfzC4",
         "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {
@@ -38194,6 +38196,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare how ionic bonds form through electron transfer and covalent bonds form through electron sharing, and connect bond type to properties like melting point and conductivity.",
         "resourceLabel": "YouTube: Ionic and Covalent Bonding: How Atoms Combine",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ionic%20and%20Covalent%20Bonding%3A%20How%20Atoms%20Combine%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NgD9yHSJ29I",
         "topic": "Atoms, Elements & Compounds",
         "quiz": [
           {
@@ -38254,6 +38257,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: a cross-border metropolitan region forms when two cities in different countries grow closely linked through trade, commuting, and shared infrastructure, creating a functionally connected urban area that spans an international boundary.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=Z6_bN-toEkI",
         "quiz": [
           {
             "q": "What is a cross-border metropolitan region?",

@@ -37884,6 +37884,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: an emphatic sentence uses structures such as the auxiliary verb do to stress a point, while a cleft sentence divides a single idea into two clauses, often beginning with it or what, to highlight one particular piece of information.",
         "resourceLabel": "YouTube: Grammar: Emphatic and Cleft Sentences",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Emphatic%20and%20Cleft%20Sentences%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MzFdq4aKPh4",
         "quiz": [
           {
             "q": "What is the purpose of an emphatic sentence?",
@@ -37944,6 +37945,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: a related rates problem uses the chain rule to connect the rates of change of two or more quantities that are linked by an equation, letting you find how fast one quantity is changing at a given instant from the known rate of change of another.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=kQF9pOqmS0U",
         "quiz": [
           {
             "q": "What technique do related rates problems rely on to connect changing quantities?",
@@ -38003,6 +38005,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: wetlands are ecosystems saturated with water for at least part of the year, and they provide critical ecosystem services such as filtering pollutants, storing floodwater, and supporting high levels of biodiversity, making them among the most productive habitats on Earth.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=cvGD67WJAXI",
         "quiz": [
           {
             "q": "What defines a wetland ecosystem?",
@@ -38063,6 +38066,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: electronegativity measures how strongly an atom attracts shared electrons in a covalent bond, and a large difference in electronegativity between two bonded atoms produces a polar bond with partial positive and negative charges, while a small difference produces a nonpolar bond.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=_T9iZWhZTY8",
         "quiz": [
           {
             "q": "What does electronegativity measure?",
