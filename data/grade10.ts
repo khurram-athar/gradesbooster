@@ -38273,6 +38273,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: a character sketch is a short piece of writing that vividly portrays a characters physical appearance, personality traits, and motivations without necessarily including a complete plot, allowing a writer to practise close observation and descriptive detail.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=UmOfabuW_TM",
         "quiz": [
           {
             "q": "What is a character sketch?",
@@ -38333,6 +38334,7 @@ const curriculum: DayContent[] = [
         "summary": "Students apply the primary trigonometric ratios to calculate unknown side lengths in right triangles, given one angle and one side.",
         "resourceLabel": "YouTube: Trigonometry: Solving for Unknown Sides in Right Triangles",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20Solving%20for%20Unknown%20Sides%20in%20Right%20Triangles%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=t2uZOiDYcuE",
         "topic": "Trigonometry",
         "quiz": [
           {
@@ -38393,6 +38395,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: CRISPR is a gene-editing tool that allows scientists to precisely cut and modify sections of DNA, opening possibilities for treating genetic diseases, improving crops, and advancing biological research.",
         "resourceLabel": "YouTube: CRISPR and Modern Gene Editing",
         "resourceUrl": "https://www.youtube.com/results?search_query=CRISPR%20and%20Modern%20Gene%20Editing%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6tw_JVz_IEc",
         "quiz": [
           {
             "q": "What does CRISPR allow scientists to do?",
@@ -38452,6 +38455,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: in 1942, Prime Minister Mackenzie King held a national plebiscite asking Canadians to release his government from its earlier promise not to introduce overseas conscription, resulting in a majority yes vote nationally but strong opposition in Quebec, deepening tensions over wartime policy.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=sbfdCQ6Wsxw",
         "quiz": [
           {
             "q": "In what year was the national plebiscite on conscription held?",

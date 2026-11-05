@@ -38382,6 +38382,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: correlative conjunctions such as either-or, neither-nor, and not only-but also work in pairs to link balanced grammatical elements, and keeping the paired elements parallel in structure gives a sentence rhythm and clarity that a single conjunction cannot achieve alone.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=-8hxRH0PNxc",
         "quiz": [
           {
             "q": "What is distinctive about correlative conjunctions?",
@@ -38442,6 +38443,7 @@ const curriculum: DayContent[] = [
         "summary": "A composite function f(g(x)) is built by applying one function to the output of another; this lesson practises evaluating composite functions and identifying the inner and outer function, the key skill behind the chain rule used in later calculus courses.",
         "resourceLabel": "YouTube: Applying the Chain Rule Idea to Composite Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Applying%20the%20Chain%20Rule%20Idea%20to%20Composite%20Functions%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lxtlwnCV-HM",
         "quiz": [
           {
             "q": "If f(x) = x^2 and g(x) = x + 3, what is f(g(2))?",
@@ -38501,6 +38503,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: gel electrophoresis separates DNA fragments by size as an electric current pulls negatively charged DNA through a porous gel, with smaller fragments migrating farther, producing a banding pattern unique enough to individuals to be used in DNA fingerprinting.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=N3TrRc9CL9w",
         "quiz": [
           {
             "q": "What property of DNA fragments does gel electrophoresis separate by?",
@@ -38561,6 +38564,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: immunology studies how the immune system protects the body from pathogens, and vaccines work by training the immune system to recognize specific pathogens before an actual infection occurs.",
         "resourceLabel": "YouTube: Science: Vaccines and Immunology",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Vaccines%20and%20Immunology%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rb7TVW77ZCs",
         "quiz": [
           {
             "q": "What does immunology study?",

@@ -40618,6 +40618,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Language strand: the question words why and how help us ask about reasons and the way something happens.",
         "resourceLabel": "YouTube: Question Words: Why and How",
         "resourceUrl": "https://www.youtube.com/results?search_query=Question%20Words%3A%20Why%20and%20How%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ho5R-yX90MQ",
         "quiz": [
           {
             "q": "What does the question word why usually ask about?",
@@ -40700,6 +40701,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Math strand: students learn that a dime is worth 10 cents and a quarter is worth 25 cents, and practice adding them together.",
         "resourceLabel": "YouTube: Money: Counting Dimes and Quarters",
         "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Counting%20Dimes%20and%20Quarters%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fdmtmr8G7A8",
         "quiz": [
           {
             "q": "How much is one dime worth?",
@@ -40783,6 +40785,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: moving air, or wind, can be used to do work, such as spinning a pinwheel, sailing a boat, or turning a wind turbine.",
         "resourceLabel": "YouTube: Wind Power: Using Moving Air",
         "resourceUrl": "https://www.youtube.com/results?search_query=Wind%20Power%3A%20Using%20Moving%20Air%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=U5_cZ3IRUkU",
         "quiz": [
           {
             "q": "What is wind?",
@@ -40867,6 +40870,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare daily life, housing, jobs, and services in rural and urban communities across Ontario, identifying how each type of community meets people's needs differently.",
         "resourceLabel": "YouTube: Social Studies: Rural and Urban Communities — Comparing Ways of Life",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Rural%20and%20Urban%20Communities%20%E2%80%94%20Comparing%20Ways%20of%20Life%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=04lO0ISBT40",
         "topic": "Communities & Community Helpers",
         "quiz": [
           {

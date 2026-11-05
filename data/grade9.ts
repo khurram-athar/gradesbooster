@@ -38574,6 +38574,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: verbal irony occurs when a speaker says the opposite of what they truly mean, while situational irony occurs when the actual outcome of a situation is strikingly different from what was expected, and both differ from dramatic irony, where the audience knows something a character does not.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=Ptwxw6FFmKo",
         "quiz": [
           {
             "q": "What is verbal irony?",
@@ -38634,6 +38635,7 @@ const curriculum: DayContent[] = [
         "summary": "Students apply the Pythagorean theorem to solve real-world problems involving distance, navigation, and diagonal measurements, including situations where a diagram must first be sketched.",
         "resourceLabel": "YouTube: Applications of the Pythagorean Theorem in Real-World Problems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Applications%20of%20the%20Pythagorean%20Theorem%20in%20Real-World%20Problems%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8XlI5HIOo38",
         "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {
@@ -38694,6 +38696,7 @@ const curriculum: DayContent[] = [
         "summary": "Students classify chemical reactions as synthesis, decomposition, single displacement, double displacement, or combustion using word and formula equations.",
         "resourceLabel": "YouTube: Types of Chemical Reactions: Synthesis, Decomposition, and Combustion",
         "resourceUrl": "https://www.youtube.com/results?search_query=Types%20of%20Chemical%20Reactions%3A%20Synthesis%2C%20Decomposition%2C%20and%20Combustion%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7BYkPWwNE00",
         "topic": "Chemical Reactions",
         "quiz": [
           {
@@ -38754,6 +38757,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: the growth of remote work has allowed some workers to become digital nomads, living and working from different countries while maintaining employment elsewhere, reshaping migration patterns and prompting some governments to create specific visas to attract these mobile workers.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=3b_WaZwn_DY",
         "quiz": [
           {
             "q": "What is a digital nomad?",

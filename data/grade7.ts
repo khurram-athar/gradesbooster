@@ -38511,6 +38511,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: a static character remains essentially the same throughout a story, while a dynamic character undergoes a significant, lasting change in personality, beliefs, or outlook as a result of the events in the plot.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=KGNJ7Rd6VpM",
         "quiz": [
           {
             "q": "What is a static character?",
@@ -38571,6 +38572,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: the surface area of a cylinder is found by adding the areas of its two circular ends and the area of its curved side, which unrolls into a rectangle.",
         "resourceLabel": "YouTube: Geometry: Surface Area of a Cylinder",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Surface%20Area%20of%20a%20Cylinder%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dNDbRbHNXFQ",
         "quiz": [
           {
             "q": "A cylinder has a radius of 3 cm and a height of 10 cm. Which expression gives the area of ONE circular end in square cm?",
@@ -38631,6 +38633,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: elements in the periodic table are organized into families, or groups, that share similar chemical properties, such as the highly reactive alkali metals in the first column and the unreactive noble gases in the final column.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=t_f8bB1kf6M",
         "quiz": [
           {
             "q": "What do elements within the same family, or group, of the periodic table generally share?",
@@ -38691,6 +38694,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the 1950 Winnipeg Flood was one of the most severe floods in Manitoba history, forcing tens of thousands of residents to evacuate and prompting the later construction of the Red River Floodway to help protect the city from future flooding.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=5JRMcLqSBMg",
         "quiz": [
           {
             "q": "In what year did the major Winnipeg Flood take place?",

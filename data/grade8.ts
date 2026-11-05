@@ -38453,6 +38453,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: a static character remains essentially unchanged throughout a story, while a dynamic character undergoes significant internal change, often as a result of a storys central conflict, and recognizing this distinction helps readers understand character development.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=550RMm7EDqQ",
         "quiz": [
           {
             "q": "What defines a static character?",
@@ -38513,6 +38514,7 @@ const curriculum: DayContent[] = [
         "summary": "Students solve one-step and two-step linear inequalities, paying attention to reversing the inequality sign when multiplying or dividing by a negative, and represent solutions on a number line.",
         "resourceLabel": "YouTube: Solving and Graphing One-Variable Inequalities",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20and%20Graphing%20One-Variable%20Inequalities%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=S_GxAF6xV8Q",
         "topic": "Equations & Inequalities",
         "quiz": [
           {
@@ -38573,6 +38575,7 @@ const curriculum: DayContent[] = [
         "summary": "Students investigate what air pressure is and how it changes with altitude and weather conditions, and learn how barometers measure air pressure to help predict changing weather.",
         "resourceLabel": "YouTube: Air Pressure and How Barometers Work",
         "resourceUrl": "https://www.youtube.com/results?search_query=Air%20Pressure%20and%20How%20Barometers%20Work%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=EkDhlzA-lwI",
         "topic": "Earth Systems",
         "quiz": [
           {

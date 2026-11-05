@@ -46638,6 +46638,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: a character trait describes what a character is like on the inside, such as brave, honest, or kind, shown through their words and actions.",
         "resourceLabel": "YouTube: Character Traits: Describing Who Someone Is",
         "resourceUrl": "https://www.youtube.com/results?search_query=Character%20Traits%3A%20Describing%20Who%20Someone%20Is%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=s0U_CaZeuw8",
         "quiz": [
           {
             "q": "What is a character trait?",
@@ -46698,6 +46699,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: an analog clock shows time with moving hands on a round face, while a digital clock shows time using numbers only.",
         "resourceLabel": "YouTube: Telling Time: Digital and Analog Clocks",
         "resourceUrl": "https://www.youtube.com/results?search_query=Telling%20Time%3A%20Digital%20and%20Analog%20Clocks%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=sAYiUZSRmk0",
         "quiz": [
           {
             "q": "Which clock shows time using hands on a round face?",
@@ -46758,6 +46760,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: penguins are birds with wings shaped like flippers that help them swim instead of fly, and many species live in cold climates.",
         "resourceLabel": "YouTube: Penguins: Birds That Cannot Fly",
         "resourceUrl": "https://www.youtube.com/results?search_query=Penguins%3A%20Birds%20That%20Cannot%20Fly%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=kRrDox31-wk",
         "quiz": [
           {
             "q": "Can most penguins fly?",
@@ -46818,6 +46821,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: hockey is a fast winter sport played on ice that is closely connected to Canadian culture and community life.",
         "resourceLabel": "YouTube: Hockey: Canadas Popular Winter Sport",
         "resourceUrl": "https://www.youtube.com/results?search_query=Hockey%3A%20Canadas%20Popular%20Winter%20Sport%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=HD9zOG1W3Zw",
         "quiz": [
           {
             "q": "What kind of sport is hockey?",
