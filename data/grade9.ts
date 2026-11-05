@@ -38257,7 +38257,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: a cross-border metropolitan region forms when two cities in different countries grow closely linked through trade, commuting, and shared infrastructure, creating a functionally connected urban area that spans an international boundary.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
-        "videoUrl": "https://www.youtube.com/watch?v=Z6_bN-toEkI",
+        "videoUrl": "https://www.youtube.com/watch?v=ELVMk85ef-o",
         "quiz": [
           {
             "q": "What is a cross-border metropolitan region?",

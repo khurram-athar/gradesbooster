@@ -37870,7 +37870,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=7b34XYgADlM"
+        "videoUrl": "https://www.youtube.com/watch?v=8SxnCZbXYI4"
       }
     ]
   },

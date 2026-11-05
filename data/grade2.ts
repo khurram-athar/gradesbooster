@@ -46299,7 +46299,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the Royal Canadian Mounted Police, or RCMP, is a police force that works to keep people safe across many parts of Canada.",
         "resourceLabel": "YouTube: The Royal Canadian Mounted Police: A National Police Force",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Royal%20Canadian%20Mounted%20Police%3A%20A%20National%20Police%20Force%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=GnZpuBTLiRg",
+        "videoUrl": "https://www.youtube.com/watch?v=E-h_FKaAc2k",
         "quiz": [
           {
             "q": "What does RCMP stand for?",

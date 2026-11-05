@@ -37971,8 +37971,8 @@ const curriculum: DayContent[] = [
         "videoUrl": "https://www.youtube.com/watch?v=VUqvpaDHjgU",
         "videoUrls": [
           {
-            "label": "Road to Responsible Government in Canada",
-            "url": "https://www.youtube.com/watch?v=VnNPKeLk7gU"
+            "label": "Canada's Path to Democracy: Durham Report, Baldwin & LaFontaine",
+            "url": "https://www.youtube.com/watch?v=DQQ2iT-wiE8"
           }
         ]
       }
