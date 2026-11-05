@@ -37331,7 +37331,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=UfeU18mIT60"
       },
       {
         "subject": "Math",
@@ -37391,7 +37392,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=N3LWO13tSuM"
       },
       {
         "subject": "Science",
@@ -37451,7 +37453,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Human Body Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=v_j-LD2YEqg"
       },
       {
         "subject": "History",
@@ -37510,7 +37513,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=k0Uqcay0Woo"
       }
     ]
   },

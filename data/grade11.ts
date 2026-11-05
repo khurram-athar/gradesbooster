@@ -37429,7 +37429,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Reading: Poetry"
+        "topic": "Reading: Poetry",
+        "videoUrl": "https://www.youtube.com/watch?v=H3XzbfkmpEY"
       },
       {
         "subject": "Functions",
@@ -37489,7 +37490,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=ECNH_1TTOjs"
       },
       {
         "subject": "Biology",
@@ -37549,7 +37551,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=iuPeJG6fQbU"
       },
       {
         "subject": "Chemistry",
@@ -37609,7 +37612,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=MD3Fc0XOjWk"
       }
     ]
   },

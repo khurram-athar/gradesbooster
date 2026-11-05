@@ -37229,7 +37229,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YgLYZPHXgXo"
       },
       {
         "subject": "AdvancedFunctions",
@@ -37287,6 +37288,17 @@ const curriculum: DayContent[] = [
               "It builds directly on that vertex and edge structure to select a minimal connecting subset of edges"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=TzLswrllE7E",
+        "videoUrls": [
+          {
+            "label": "Discrete Mathematics: Spanning Trees",
+            "url": "https://www.youtube.com/watch?v=TzLswrllE7E"
+          },
+          {
+            "label": "Graph Theory: Kruskal's Algorithm",
+            "url": "https://www.youtube.com/watch?v=d4BEgzK08JE"
           }
         ]
       },
@@ -37348,7 +37360,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Vectors: Cross Product"
+        "topic": "Vectors: Cross Product",
+        "videoUrl": "https://www.youtube.com/watch?v=0XnLFYwinOs"
       },
       {
         "subject": "Physics",
@@ -37407,7 +37420,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=N1CPp1Mbj88"
       }
     ]
   },

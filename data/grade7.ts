@@ -37599,7 +37599,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=7ikvixNSKEU"
       },
       {
         "subject": "Science",
@@ -37720,7 +37721,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Natural Resources & Industry",
+        "videoUrl": "https://www.youtube.com/watch?v=X-2lTy-pwGg"
       }
     ]
   },

@@ -46378,7 +46378,8 @@ const curriculum: DayContent[] = [
               "pictures of school events"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=BRsl95EYnS0"
       }
     ]
   },

@@ -37620,7 +37620,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=hnGUjL-ngak"
       },
       {
         "subject": "Math",
@@ -37680,7 +37681,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=SpkvJ7N2Adc"
       },
       {
         "subject": "Science",
@@ -37739,7 +37741,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ewJimXu3ZLo"
       },
       {
         "subject": "SocialStudies",
@@ -37799,7 +37802,18 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Population & Urbanization"
+        "topic": "Population & Urbanization",
+        "videoUrl": "https://www.youtube.com/watch?v=DP_NwxpMz6o",
+        "videoUrls": [
+          {
+            "label": "A Tale of Twin Towns Case Study",
+            "url": "https://www.youtube.com/watch?v=DP_NwxpMz6o"
+          },
+          {
+            "label": "City Diplomacy to Make International Policies",
+            "url": "https://www.youtube.com/watch?v=LrY3ZM-h-Ls"
+          }
+        ]
       }
     ]
   },

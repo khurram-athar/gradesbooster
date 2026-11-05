@@ -37463,7 +37463,18 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=FKf5a8HBbk8",
+        "videoUrls": [
+          {
+            "label": "What is Data-Driven Journalism?",
+            "url": "https://www.youtube.com/watch?v=FKf5a8HBbk8"
+          },
+          {
+            "label": "Investigative Journalism Basics",
+            "url": "https://www.youtube.com/watch?v=uK0DETDU79k"
+          }
+        ]
       },
       {
         "subject": "Math",
@@ -37523,7 +37534,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Ph5UI0wwq1A"
       },
       {
         "subject": "Science",
@@ -37583,7 +37595,18 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=aOop-vS58jc",
+        "videoUrls": [
+          {
+            "label": "Weathering and Soil - How Soil Is Formed",
+            "url": "https://www.youtube.com/watch?v=aOop-vS58jc"
+          },
+          {
+            "label": "Erosion and Deposition - How Earth's Surface Changes Over Time",
+            "url": "https://www.youtube.com/watch?v=vphjWgeiGpc"
+          }
+        ]
       },
       {
         "subject": "History",
@@ -37642,7 +37665,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=rEQuZG7N9dI"
       }
     ]
   },
