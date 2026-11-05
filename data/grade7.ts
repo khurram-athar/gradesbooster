@@ -37967,6 +37967,13 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=VUqvpaDHjgU",
+        "videoUrls": [
+          {
+            "label": "Road to Responsible Government in Canada",
+            "url": "https://www.youtube.com/watch?v=VnNPKeLk7gU"
+          }
         ]
       }
     ]

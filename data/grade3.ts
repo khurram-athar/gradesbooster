@@ -39695,7 +39695,8 @@ const curriculum: DayContent[] = [
               "I am"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=x3Yjm745i0s"
       },
       {
         "subject": "Math",
@@ -39778,7 +39779,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Fractions"
+        "topic": "Fractions",
+        "videoUrl": "https://www.youtube.com/watch?v=npQUHL4Ifxs"
       },
       {
         "subject": "Science",
@@ -39861,7 +39863,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Rocks, Fossils & Earth's History"
+        "topic": "Rocks, Fossils & Earth's History",
+        "videoUrl": "https://www.youtube.com/watch?v=3b2rCNfkzBU"
       },
       {
         "subject": "SocialStudies",
@@ -39942,7 +39945,8 @@ const curriculum: DayContent[] = [
               "travel and wildlife"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Rzb1uMsoN0s"
       }
     ]
   },

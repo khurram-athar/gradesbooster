@@ -37739,7 +37739,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Probability"
+        "topic": "Probability",
+        "videoUrl": "https://www.youtube.com/watch?v=DeH5aHWxEaI"
       },
       {
         "subject": "Biology",
@@ -37868,7 +37869,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=7b34XYgADlM"
       }
     ]
   },

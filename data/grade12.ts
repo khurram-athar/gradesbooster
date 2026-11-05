@@ -37486,6 +37486,13 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=KMVnscTctqI",
+        "videoUrls": [
+          {
+            "label": "Detective Fiction Overview",
+            "url": "https://www.youtube.com/watch?v=xC0NSQKecjo"
+          }
         ]
       },
       {
@@ -37620,7 +37627,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Place Value & Number Sense",
+        "videoUrl": "https://www.youtube.com/watch?v=6Y3jHHE_hbA"
       },
       {
         "subject": "Physics",

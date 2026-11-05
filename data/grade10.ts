@@ -37640,7 +37640,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=3V7PDJP_bPM"
       },
       {
         "subject": "Science",
@@ -37700,7 +37701,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Human Body Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=jqy0i1KXUO4"
       },
       {
         "subject": "History",

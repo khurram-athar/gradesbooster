@@ -39273,7 +39273,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Gw4SMAffF94"
       },
       {
         "subject": "Science",
@@ -39356,7 +39357,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Rocks, Fossils & Earth's History"
+        "topic": "Rocks, Fossils & Earth's History",
+        "videoUrl": "https://www.youtube.com/watch?v=W1InAfn7am0"
       },
       {
         "subject": "SocialStudies",
