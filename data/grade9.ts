@@ -39074,6 +39074,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: podcast and audio journalism deliver news and storytelling through sound alone, relying on voice, pacing, and sound design to engage listeners, which requires a media-literate listener to evaluate the credibility of sources even without visual cues.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=7mceoIAmqWU",
         "quiz": [
           {
             "q": "What distinguishes podcast and audio journalism from traditional print journalism?",
@@ -39134,6 +39135,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn the conditions for triangle similarity (AA, SSS, SAS) and use proportional side lengths to solve for unknown measurements in similar triangles.",
         "resourceLabel": "YouTube: Similar Triangles and Similarity Conditions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Similar%20Triangles%20and%20Similarity%20Conditions%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vSXh6f-QItQ",
         "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {
@@ -39194,6 +39196,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: the search for extraterrestrial intelligence uses radio telescopes to listen for potential signals from other civilizations, and the Drake Equation estimates the number of communicating civilizations in our galaxy by multiplying several factors, including the rate of star formation and the fraction of planets that could support life.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=6AnLznzIjSE",
         "quiz": [
           {
             "q": "What is the main goal of the search for extraterrestrial intelligence?",
@@ -39254,6 +39257,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: the global poverty line is a standardized income threshold used to measure extreme poverty across countries, and its uneven geographic distribution reflects differences in economic development, conflict, and access to resources around the world.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=6KC56Ik-DYY",
         "quiz": [
           {
             "q": "What is the global poverty line?",

@@ -47159,6 +47159,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: bold print makes words stand out as darker and thicker, while italics slant words sideways, and both features signal important words to readers.",
         "resourceLabel": "YouTube: Text Features: Bold Print and Italics",
         "resourceUrl": "https://www.youtube.com/results?search_query=Text%20Features%3A%20Bold%20Print%20and%20Italics%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6_cBymz3Uro",
         "quiz": [
           {
             "q": "What does bold print look like?",
@@ -47219,6 +47220,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: students add the prices of several items together to find the total cost of a purchase.",
         "resourceLabel": "YouTube: Money: Finding the Total Cost of Multiple Items",
         "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Finding%20the%20Total%20Cost%20of%20Multiple%20Items%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=AVSaip4ZQ7U",
         "quiz": [
           {
             "q": "If a pencil costs 1 dollar and an eraser costs 2 dollars, what is the total cost?",
@@ -47369,6 +47371,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the Trans-Canada Highway is a very long road that connects communities across the country, from coast to coast.",
         "resourceLabel": "YouTube: The Trans-Canada Highway: Connecting the Country",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Trans-Canada%20Highway%3A%20Connecting%20the%20Country%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6r4iIR2m6D0",
         "quiz": [
           {
             "q": "What does the Trans-Canada Highway connect?",

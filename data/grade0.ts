@@ -43841,6 +43841,7 @@ const curriculum: DayContent[] = [
         "summary": "Children practice reciting the counting sequence from 1 all the way to 100 by ones, building number sequence fluency and stamina.",
         "resourceLabel": "YouTube: Rote Counting to 100 by Ones",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rote%20Counting%20to%20100%20by%20Ones%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xZSTL39XmdA",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {
@@ -43901,6 +43902,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: sharks are a kind of fish with many sharp teeth, and they use their gills to breathe underwater like other fish.",
         "resourceLabel": "YouTube: Sharks: Fish of the Deep Ocean",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sharks%3A%20Fish%20of%20the%20Deep%20Ocean%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=kl9qJMpoYqs",
         "quiz": [
           {
             "q": "What kind of animal is a shark?",
@@ -43984,6 +43986,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Social Studies strand: Earth Day is a special day when people around the world do things like pick up litter and plant trees to help take care of our planet.",
         "resourceLabel": "YouTube: Earth Day: Caring for Our Planet",
         "resourceUrl": "https://www.youtube.com/results?search_query=Earth%20Day%3A%20Caring%20for%20Our%20Planet%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=I435O6hErkY",
         "quiz": [
           {
             "q": "What is the main purpose of Earth Day?",

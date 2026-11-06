@@ -38696,6 +38696,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: a literature review surveys and synthesizes existing scholarship on a topic, organizing sources thematically or chronologically to identify trends, agreements, and gaps, distinct from a research essay because its primary goal is mapping a field rather than arguing a single original thesis.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=zIYC6zG265E",
         "quiz": [
           {
             "q": "What is the primary goal of a literature review?",
@@ -38755,6 +38756,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: a continued fraction expresses a real number as a nested sequence of integer and reciprocal terms, and truncating this expansion produces the best possible rational approximations to that number for a given denominator size, a property exploited in both pure number theory and practical approximation.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=N_8b7iT3i7Q",
         "quiz": [
           {
             "q": "What does a continued fraction express a real number as?",
@@ -38815,6 +38817,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Math strand: the polar coordinate system locates a point using a distance from a fixed origin and an angle from a fixed direction, rather than the horizontal and vertical distances used in the Cartesian system, offering a natural way to describe curves with rotational symmetry.",
         "resourceLabel": "YouTube: Geometry: An Introduction to Polar Coordinates",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20An%20Introduction%20to%20Polar%20Coordinates%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IAb98ZgSJNw",
         "quiz": [
           {
             "q": "What two values define a point in the polar coordinate system?",
@@ -38875,6 +38878,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson defines mechanical power as the rate at which work is done or energy is transferred, P = W/t, and develops the related instantaneous expression P = Fv for a force acting on a moving object. You will apply these relationships to compare machines that do the same work in different times, calculate the power output of engines or motors, and connect power to real-world efficiency considerations where not all input power converts to useful output.",
         "resourceLabel": "YouTube: Power: The Rate of Doing Work in Mechanical Systems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Power%3A%20The%20Rate%20of%20Doing%20Work%20in%20Mechanical%20Systems%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SYrgLXJzuhY",
         "quiz": [
           {
             "q": "A motor does 4500 J of work in 15 seconds. What is its power output?",

@@ -47966,6 +47966,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: some plural nouns do not simply add -s or -es, but change in special ways, such as mouse becoming mice or foot becoming feet.",
         "resourceLabel": "YouTube: Plural Nouns: Irregular Plurals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Plural%20Nouns%3A%20Irregular%20Plurals%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=kSmEWsFktTA",
         "quiz": [
           {
             "q": "What is the plural of mouse?",
@@ -48046,6 +48047,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: kilograms and grams are standard units used to measure how heavy something is, with grams used for lighter objects and kilograms for heavier ones.",
         "resourceLabel": "YouTube: Measurement: Weight in Kilograms and Grams",
         "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Weight%20in%20Kilograms%20and%20Grams%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=58ckl4SaeYQ",
         "quiz": [
           {
             "q": "Which unit would you use to weigh a small paperclip?",
@@ -48127,6 +48129,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: chameleons are lizards that can change the colour of their skin to blend in with their surroundings or show their feelings.",
         "resourceLabel": "YouTube: Chameleons: Colour-Changing Lizards",
         "resourceUrl": "https://www.youtube.com/results?search_query=Chameleons%3A%20Colour-Changing%20Lizards%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NyeNq-BauEU",
         "quiz": [
           {
             "q": "What kind of animal is a chameleon?",
@@ -48209,6 +48212,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare needs and wants of children living in different climates and communities around the world, noticing how basic needs like shelter and clothing can look different depending on where people live.",
         "resourceLabel": "YouTube: Needs and Wants Around the World: Comparing What People Use",
         "resourceUrl": "https://www.youtube.com/results?search_query=Needs%20and%20Wants%20Around%20the%20World%3A%20Comparing%20What%20People%20Use%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FpNyTKgi1Io",
         "topic": "Families & Diversity (Basic)",
         "quiz": [
           {

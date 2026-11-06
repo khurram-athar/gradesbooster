@@ -38961,6 +38961,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: photojournalism uses photographs to document real events, but choices such as cropping, framing, and digital editing can alter how a viewer interprets an image, making it important for media consumers to consider a photographs context and possible manipulation.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=HTYQhpG4N-M",
         "quiz": [
           {
             "q": "What is photojournalism?",
@@ -39021,6 +39022,7 @@ const curriculum: DayContent[] = [
         "summary": "Students interpret slope as the rate of change between two variables, calculating it as rise over run from graphs, tables, and pairs of points.",
         "resourceLabel": "YouTube: Understanding Slope as Rate of Change",
         "resourceUrl": "https://www.youtube.com/results?search_query=Understanding%20Slope%20as%20Rate%20of%20Change%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KGJEg2C7YbI",
         "topic": "Linear Relations",
         "quiz": [
           {
@@ -39081,6 +39083,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: the Milky Way is a large spiral galaxy containing billions of stars, including the Sun, arranged in a flattened disc with curved spiral arms surrounding a dense central bulge.",
         "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=tj_QPnO8vpQ",
         "quiz": [
           {
             "q": "What type of galaxy is the Milky Way?",
@@ -39141,6 +39144,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: Canada began in 1867 with four provinces and grew over more than a century as additional provinces and territories joined, including Manitoba, British Columbia, Prince Edward Island, and eventually Newfoundland and Labrador in 1949.",
         "resourceLabel": "YouTube: Social Studies: How the Provinces and Territories Joined Confederation Over Time",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20How%20the%20Provinces%20and%20Territories%20Joined%20Confederation%20Over%20Time%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uCaTbrJ8fdM",
         "quiz": [
           {
             "q": "How many provinces made up Canada at Confederation in 1867?",

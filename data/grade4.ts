@@ -40476,6 +40476,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: suffixes are word parts added to the end of a base word that change its meaning or part of speech, such as -tion, -ment, and -able.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=xfT9T9gW32c",
         "quiz": [
           {
             "q": "What is a suffix?",
@@ -40536,6 +40537,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to estimate the size of an angle in degrees by comparing it to benchmark angles like 45°, 90°, and 180°, before checking their estimate with a protractor.",
         "resourceLabel": "YouTube: Estimating Angle Measures",
         "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Angle%20Measures%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3Cma8gkhVHA",
         "topic": "Angles",
         "quiz": [
           {
@@ -40596,6 +40598,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: animals can be classified by diet as herbivores, which eat only plants, carnivores, which eat only other animals, and omnivores, which eat both plants and animals.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=0pHXXP-xlG8",
         "quiz": [
           {
             "q": "What does a herbivore eat?",
@@ -40656,6 +40659,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: a school board is a local governing body responsible for managing public schools in a region, making decisions about programs, staffing, and resources for students.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=NPgzwvMqb7U",
         "quiz": [
           {
             "q": "What is a school board responsible for?",

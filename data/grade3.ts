@@ -41266,6 +41266,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Language strand: the -ut word family shares the same ending sound, as in but, cut, hut, and nut.",
         "resourceLabel": "YouTube: Word Families: -ut Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ut%20Words%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ehCrjk4hdc4",
         "quiz": [
           {
             "q": "Which word belongs to the -ut family?",
@@ -41350,6 +41351,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Math strand: students combine different 2D shapes, like triangles, squares, and circles, to build pictures such as a house or a boat.",
         "resourceLabel": "YouTube: Shapes: Composing Pictures with 2D Shapes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Shapes%3A%20Composing%20Pictures%20with%202D%20Shapes%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0-7GrWFQKFw",
         "quiz": [
           {
             "q": "Which shape is often used for the roof of a house picture?",
@@ -41516,6 +41518,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about the Anishinaabe and Haudenosaunee peoples who have lived in the forested regions of what is now Ontario for thousands of years, including how they used the land, water, and forests for food, shelter, and travel.",
         "resourceLabel": "YouTube: Social Studies: The Woodland First Nations of Ontario",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Woodland%20First%20Nations%20of%20Ontario%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LHVsFxH4rLQ",
         "topic": "Indigenous Peoples & First Nations",
         "quiz": [
           {
