@@ -3939,7 +3939,7 @@ const curriculum: DayContent[] = [
         "summary": "An inference is a conclusion you draw by combining clues from the text with what you already know.",
         "resourceLabel": "YouTube: Making Inferences",
         "resourceUrl": "https://www.youtube.com/results?search_query=Making%20Inferences%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=xlYhs7xlH9U",
+        "videoUrl": "https://www.youtube.com/watch?v=pPUNv6_C_cI",
         "quiz": [
           {
             "q": "A character enters a room, immediately opens all the windows, and fans their face with a magazine. What can you infer?",
@@ -4371,7 +4371,7 @@ const curriculum: DayContent[] = [
         "summary": "The Arctic region of Canada has a unique cold climate, tundra landscape, and is home to Inuit communities with rich traditions.",
         "resourceLabel": "YouTube: The Arctic: Geography and Peoples",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Arctic%3A%20Geography%20and%20Peoples%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=0_Il1-U2TRA",
+        "videoUrl": "https://www.youtube.com/watch?v=SaUfZJoP1VI",
         "quiz": [
           {
             "q": "Why has traditional Inuit knowledge been essential for survival in the Arctic environment?",
@@ -4938,11 +4938,11 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of making inferences, nonfiction text features, persuasive writing, and dialogue.",
         "resourceLabel": "YouTube: Review: Inferences, Text Features, and Persuasion",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Inferences%2C%20Text%20Features%2C%20and%20Persuasion%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=xlYhs7xlH9U",
+        "videoUrl": "https://www.youtube.com/watch?v=pPUNv6_C_cI",
         "videoUrls": [
           {
             "label": "Making Inferences",
-            "url": "https://www.youtube.com/watch?v=xlYhs7xlH9U"
+            "url": "https://www.youtube.com/watch?v=pPUNv6_C_cI"
           },
           {
             "label": "Text Features in Nonfiction",
@@ -5168,7 +5168,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "The Arctic: Geography and Peoples",
-            "url": "https://www.youtube.com/watch?v=0_Il1-U2TRA"
+            "url": "https://www.youtube.com/watch?v=SaUfZJoP1VI"
           },
           {
             "label": "Rights and Freedoms in Canada",

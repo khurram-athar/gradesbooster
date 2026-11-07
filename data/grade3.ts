@@ -5513,7 +5513,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise using books, encyclopedias, and reliable websites to find information. They evaluate source reliability.",
         "resourceLabel": "YouTube: Research Skills: Finding Information",
         "resourceUrl": "https://www.youtube.com/results?search_query=Research%20Skills%3A%20Finding%20Information%20grade%203%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=84nDQvBfg60",
+        "videoUrl": "https://www.youtube.com/watch?v=8nKZ4xvN9aE",
         "quiz": [
           {
             "q": "A reliable source of information is one that ___.",

@@ -6730,7 +6730,7 @@ const curriculum: DayContent[] = [
         "summary": "Students examine how the stories we tell about history shape national identity, and whose voices have historically been left out of official narratives.",
         "resourceLabel": "YouTube: History: The Power of Narrative",
         "resourceUrl": "https://www.youtube.com/results?search_query=History%3A%20The%20Power%20of%20Narrative%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=uGlbMtbCkf0",
+        "videoUrl": "https://www.youtube.com/watch?v=mxYI6TLozvw",
         "quiz": [
           {
             "q": "Historical narrative refers to ___.",

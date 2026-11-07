@@ -43841,7 +43841,7 @@ const curriculum: DayContent[] = [
         "summary": "Children practice reciting the counting sequence from 1 all the way to 100 by ones, building number sequence fluency and stamina.",
         "resourceLabel": "YouTube: Rote Counting to 100 by Ones",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rote%20Counting%20to%20100%20by%20Ones%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=xZSTL39XmdA",
+        "videoUrl": "https://www.youtube.com/watch?v=U6BCbH3Vwwk",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {

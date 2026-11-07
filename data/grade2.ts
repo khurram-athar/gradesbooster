@@ -26386,7 +26386,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Number Sense: Basic Counting",
-        "videoUrl": "https://www.youtube.com/watch?v=xZSTL39XmdA"
+        "videoUrl": "https://www.youtube.com/watch?v=P27fDK56yn0"
       },
       {
         "subject": "Science",
