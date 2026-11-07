@@ -15841,7 +15841,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: online algorithms select and prioritize content based on a user’s past activity, which can create a filter bubble that limits exposure to differing viewpoints and reinforces existing beliefs.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
-        "videoUrl": "https://www.youtube.com/watch?v=9F_sJRyGMkc",
+        "videoUrl": "https://www.youtube.com/watch?v=Zk1o2BpC79g",
         "quiz": [
           {
             "q": "An online algorithm selects and prioritizes content based on ___.",
@@ -17386,7 +17386,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Media Literacy: Filter Bubbles",
-            "url": "https://www.youtube.com/watch?v=9F_sJRyGMkc"
+            "url": "https://www.youtube.com/watch?v=Zk1o2BpC79g"
           },
           {
             "label": "Idioms and Figurative Expressions",
