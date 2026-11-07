@@ -21053,7 +21053,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Vocabulary",
-        "videoUrl": "https://www.youtube.com/watch?v=Udv-4_pY0vg"
+        "videoUrl": "https://www.youtube.com/watch?v=4lzOhH_tZiE"
       },
       {
         "subject": "Math",
@@ -21921,7 +21921,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=hDSLY8qrHjI"
+        "videoUrl": "https://www.youtube.com/watch?v=73yT6ZC1tnI"
       },
       {
         "subject": "History",
@@ -27769,7 +27769,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: Canada sent thousands of troops as part of a United Nations force during the Korean War from 1950 to 1953, helping defend South Korea, a conflict now sometimes called Canadas Forgotten War.",
         "resourceLabel": "YouTube: Social Studies: Canadas Role in the Korean War",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canadas%20Role%20in%20the%20Korean%20War%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=WQ_Eh9DA2K4",
+        "videoUrl": "https://www.youtube.com/watch?v=oeCDIVhU8ZY",
         "quiz": [
           {
             "q": "What international organization led the coalition Canada joined during the Korean War?",
