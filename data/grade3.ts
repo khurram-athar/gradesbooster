@@ -26281,7 +26281,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Oral Communication & Presentation",
-        "videoUrl": "https://www.youtube.com/watch?v=pbWuralh0Ow"
+        "videoUrl": "https://www.youtube.com/watch?v=ECU0hDq13RA"
       },
       {
         "subject": "Math",
@@ -32477,7 +32477,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Vocabulary",
-        "videoUrl": "https://www.youtube.com/watch?v=xjd3AwEfRKE"
+        "videoUrl": "https://www.youtube.com/watch?v=pus_d4JZrKE"
       },
       {
         "subject": "Math",
