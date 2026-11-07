@@ -23595,7 +23595,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies strand: gentrification is a process in which rising property values and new investment in a lower-income urban neighbourhood attract wealthier residents, often displacing long-time residents.",
         "resourceLabel": "YouTube: Social Studies: Urban Gentrification and Neighbourhood Change",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Urban%20Gentrification%20and%20Neighbourhood%20Change%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=OlMsey_h600",
+        "videoUrl": "https://www.youtube.com/watch?v=k2exWKRwRQY",
         "quiz": [
           {
             "q": "What is gentrification?",
