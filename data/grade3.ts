@@ -19813,7 +19813,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: tourism is an industry built around people visiting interesting places, and Ontario attracts tourists with attractions like Niagara Falls, provincial parks, and vibrant cities.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=u-OGGMGgbh0",
+        "videoUrl": "https://www.youtube.com/watch?v=4v3-q7QSv-U",
         "quiz": [
           {
             "q": "Tourism is an industry built around people ___ interesting places.",
@@ -22646,11 +22646,11 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand review: students revisit Ontario manufacturing, municipal budgets, comparing provinces, Indigenous place names, local charities, the Underground Railroad, water conservation, weather and the economy, and civic participation.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=u-OGGMGgbh0",
+        "videoUrl": "https://www.youtube.com/watch?v=4v3-q7QSv-U",
         "videoUrls": [
           {
             "label": "Social Studies: Tourism in Ontario: Visiting Our Province",
-            "url": "https://www.youtube.com/watch?v=u-OGGMGgbh0"
+            "url": "https://www.youtube.com/watch?v=4v3-q7QSv-U"
           },
           {
             "label": "Social Studies: Treaties Between Canada and Indigenous Peoples",
