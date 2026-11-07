@@ -30378,7 +30378,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: 24-hour time, also called military time, avoids the need for AM and PM by numbering hours from 00 to 23 across a full day.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=NrjCp56GMN4",
+        "videoUrl": "https://www.youtube.com/watch?v=Ib84G7OQY1k",
         "quiz": [
           {
             "q": "Which range of hours is used on a 24-hour clock?",
