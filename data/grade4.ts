@@ -27307,7 +27307,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Research Skills",
-        "videoUrl": "https://www.youtube.com/watch?v=jwJfMpReaRs"
+        "videoUrl": "https://www.youtube.com/watch?v=qfuWM897mjI"
       },
       {
         "subject": "Math",
@@ -27504,7 +27504,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: number prefixes such as uni-, bi-, tri-, and quad- attach to the beginning of words to show how many, as in unicycle, bicycle, triangle, and quadrilateral.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
-        "videoUrl": "https://www.youtube.com/watch?v=eZMIwFTMS4k",
+        "videoUrl": "https://www.youtube.com/watch?v=-tZ5DKUXXGg",
         "quiz": [
           {
             "q": "Which prefix means one, as in unicycle?",
