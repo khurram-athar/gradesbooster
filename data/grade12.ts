@@ -5408,7 +5408,7 @@ const curriculum: DayContent[] = [
         "title": "Atomic Structure and Quantum Numbers",
         "summary": "Students examine the Bohr model, quantum mechanical model, and electron configurations using quantum numbers.",
         "resourceLabel": "Crash Course Physics",
-        "resourceUrl": "https://www.youtube.com/watch?v=Ewf6RuLlSvc",
+        "resourceUrl": "https://www.youtube.com/watch?v=Aoi4j8es4gQ",
         "videoUrl": "https://www.youtube.com/watch?v=eRIN9CPDrpo",
         "quiz": [
           {
@@ -14504,7 +14504,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: skilled use of the semicolon and colon shapes the rhythm and emphasis of a sentence, allowing a writer to connect closely related ideas or build toward a climactic point with precision.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
-        "videoUrl": "https://www.youtube.com/watch?v=V5ksKf2NDdA",
+        "videoUrl": "https://www.youtube.com/watch?v=th-zyfvwDdI",
         "quiz": [
           {
             "q": "Skilled use of the semicolon and colon shapes the rhythm and ___ of a sentence.",
