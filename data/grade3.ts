@@ -7874,7 +7874,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 3 Science Life Systems strand: pollination moves pollen from flower to flower (often by insects like bees), and seed dispersal spreads seeds by wind, animals, or water so new plants can grow in new places.",
         "resourceLabel": "TVO Learn: Grade 3 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=YOPd3pjJy9E",
+        "videoUrl": "https://www.youtube.com/watch?v=7QJIMmXSTbc",
         "quiz": [
           {
             "q": "Which insect commonly helps pollinate flowers?",
@@ -27161,7 +27161,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: oral history is knowledge and stories passed down by speaking rather than writing, and many communities, including Indigenous communities, use storytelling from elders to preserve their history and traditions.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=BNY7L_RdObA",
+        "videoUrl": "https://www.youtube.com/watch?v=toAfSCqzGG8",
         "quiz": [
           {
             "q": "What do we call history and knowledge that is passed down by speaking rather than writing?",
