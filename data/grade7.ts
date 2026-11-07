@@ -24787,7 +24787,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Vocabulary",
-        "videoUrl": "https://www.youtube.com/watch?v=F0EFPWV4d1g"
+        "videoUrl": "https://www.youtube.com/watch?v=oe64p-QzhNE"
       },
       {
         "subject": "Math",
@@ -25036,7 +25036,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=F0EFPWV4d1g"
+        "videoUrl": "https://www.youtube.com/watch?v=oe64p-QzhNE"
       },
       {
         "subject": "Math",
