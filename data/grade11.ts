@@ -9087,7 +9087,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: genetic testing analyzes an individual’s DNA to identify potential genetic conditions or traits, raising important ethical questions about privacy, consent, and the use of this information.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
-        "videoUrl": "https://www.youtube.com/watch?v=rG1crCLAzM8",
+        "videoUrl": "https://www.youtube.com/watch?v=ZvsRLWHICD4",
         "quiz": [
           {
             "q": "Genetic testing analyzes an individual’s DNA to identify ___.",
@@ -15933,7 +15933,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: extremophiles are organisms, primarily microorganisms, that thrive in conditions once thought too harsh for life, such as extreme heat, cold, pressure, or acidity, expanding scientific understanding of where and how life can exist.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
-        "videoUrl": "https://www.youtube.com/watch?v=ppJQOePUO08",
+        "videoUrl": "https://www.youtube.com/watch?v=MY1d5Saqrc4",
         "quiz": [
           {
             "q": "An extremophile is best described as an organism that ___.",
@@ -17493,7 +17493,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Extremophiles and the Limits of Life",
-            "url": "https://www.youtube.com/watch?v=ppJQOePUO08"
+            "url": "https://www.youtube.com/watch?v=MY1d5Saqrc4"
           },
           {
             "label": "Animal Adaptations to Extreme Environments",
@@ -28470,7 +28470,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Animal Adaptations & Behaviour",
-        "videoUrl": "https://www.youtube.com/watch?v=PNXokAH8GLE"
+        "videoUrl": "https://www.youtube.com/watch?v=AdXiJxeSoDI"
       },
       {
         "subject": "Chemistry",
