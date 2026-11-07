@@ -10721,7 +10721,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Renaissance was a period of renewed interest in art, science, and learning that began in Italy and transformed ideas about the world across Europe.",
         "resourceLabel": "YouTube: The Renaissance: Art, Science, and New Ideas",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Renaissance%3A%20Art%2C%20Science%2C%20and%20New%20Ideas%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=5g2t582YeCs",
+        "videoUrl": "https://www.youtube.com/watch?v=6DhaGe1DvsY",
         "quiz": [
           {
             "q": "The Renaissance was a period of renewed interest in ___.",
