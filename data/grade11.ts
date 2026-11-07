@@ -11480,7 +11480,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: analyzing setting involves examining how the time and place of a story influence its mood, characters, and themes, rather than treating setting as simply a backdrop.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
-        "videoUrl": "https://www.youtube.com/watch?v=3AzgjQZgVIg",
+        "videoUrl": "https://www.youtube.com/watch?v=40g0Cib7iIE",
         "quiz": [
           {
             "q": "Analyzing setting involves examining how the time and place of a story influence its ___.",
