@@ -23997,7 +23997,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that different animals have different life spans, the length of time they typically live, such as a mouse living only a few years while a tortoise can live over one hundred years.",
         "resourceLabel": "YouTube: Animal Life Spans: How Long Animals Live",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Life%20Spans%3A%20How%20Long%20Animals%20Live%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=JGYNKnBjJfk",
+        "videoUrl": "https://www.youtube.com/watch?v=PzhugKqxCTI",
         "quiz": [
           {
             "q": "What word describes the length of time an animal typically lives?",
