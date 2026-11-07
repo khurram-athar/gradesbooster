@@ -3177,7 +3177,7 @@ const curriculum: DayContent[] = [
         "title": "Astrophysics: Stars, Galaxies, and Cosmology",
         "summary": "Students examine stellar evolution, galaxy structure, and the Big Bang model of the universe, connecting nuclear physics and gravity to astrophysics.",
         "resourceLabel": "Crash Course Astronomy: Stars and Cosmology",
-        "resourceUrl": "https://www.youtube.com/watch?v=qGHBcRcPQeI",
+        "resourceUrl": "https://www.youtube.com/watch?v=VYxYuaDvdM0",
         "videoUrl": "https://www.youtube.com/watch?v=gNNH7ctGDh0",
         "quiz": [
           {
@@ -4231,7 +4231,7 @@ const curriculum: DayContent[] = [
         "title": "Literary Theory: Reading Through a Lens",
         "summary": "Students apply feminist, Marxist, and psychoanalytic critical lenses to literary texts, understanding how theory shapes interpretation.",
         "resourceLabel": "TED-Ed: Literature",
-        "resourceUrl": "https://www.youtube.com/watch?v=qGHBcRcPQeI",
+        "resourceUrl": "https://www.youtube.com/watch?v=J8rU-NmCjLA",
         "videoUrl": "https://www.youtube.com/watch?v=_Vh2miANqUA",
         "quiz": [
           {
