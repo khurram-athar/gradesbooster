@@ -17113,7 +17113,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: evaluating an author’s credentials and expertise involves considering their background, training, and experience to judge how reliable their claims about a topic might be.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
-        "videoUrl": "https://www.youtube.com/watch?v=gf9U_i7_U5s",
+        "videoUrl": "https://www.youtube.com/watch?v=aotBmAakCIw",
         "quiz": [
           {
             "q": "An author’s credentials refer to their ___.",
@@ -17402,7 +17402,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Evaluating Author Credibility",
-            "url": "https://www.youtube.com/watch?v=gf9U_i7_U5s"
+            "url": "https://www.youtube.com/watch?v=aotBmAakCIw"
           }
         ],
         "quiz": [
@@ -28864,7 +28864,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Media Literacy",
-        "videoUrl": "https://www.youtube.com/watch?v=3V6pXZXqqUE"
+        "videoUrl": "https://www.youtube.com/watch?v=rrpFObGbV9Y"
       },
       {
         "subject": "Math",
