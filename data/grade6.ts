@@ -11579,7 +11579,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Media Literacy",
-        "videoUrl": "https://www.youtube.com/watch?v=nMgglZyiz3E"
+        "videoUrl": "https://www.youtube.com/watch?v=AAY-q1iVLaM"
       },
       {
         "subject": "Math",
@@ -22296,7 +22296,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: comparing a book to its film adaptation involves examining what details, characters, or events were kept, changed, or removed, and considering why those choices might have been made.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
-        "videoUrl": "https://www.youtube.com/watch?v=DHNgqXp-ljw",
+        "videoUrl": "https://www.youtube.com/watch?v=KwliliXJ4jQ",
         "quiz": [
           {
             "q": "What does comparing a book to its film adaptation involve examining?",
@@ -22597,7 +22597,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=DHNgqXp-ljw"
+        "videoUrl": "https://www.youtube.com/watch?v=KwliliXJ4jQ"
       },
       {
         "subject": "Math",
@@ -38537,7 +38537,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: a simulation uses a model, such as flipping a coin or drawing coloured tiles, to estimate the probability of a real-world event when repeating the actual event many times would be impractical.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=CgRJiwqRWg4",
+        "videoUrl": "https://www.youtube.com/watch?v=YP6y9KstyMM",
         "quiz": [
           {
             "q": "What is a simulation in probability?",
