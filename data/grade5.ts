@@ -12902,7 +12902,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Nervous System",
-            "url": "https://www.youtube.com/watch?v=KK0TXLObpkU"
+            "url": "https://www.youtube.com/watch?v=7n1CfhZ2Vw8"
           },
           {
             "label": "Friction",
@@ -30619,7 +30619,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Vocabulary",
-        "videoUrl": "https://www.youtube.com/watch?v=eZMIwFTMS4k"
+        "videoUrl": "https://www.youtube.com/watch?v=-tZ5DKUXXGg"
       },
       {
         "subject": "Math",
