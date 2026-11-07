@@ -9127,7 +9127,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: the global energy transition involves shifting from fossil fuel dependence toward renewable energy sources, a process shaped by geography, technology, and economic factors.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=eMak2RhweVo",
+        "videoUrl": "https://www.youtube.com/watch?v=zaXBVYr9Ij0",
         "quiz": [
           {
             "q": "The energy transition refers to ___.",
@@ -16444,7 +16444,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: political geography examines how administrative boundaries, such as Canada’s federal, provincial, and municipal levels, divide authority and responsibility across different regions of a country.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=-oxAojygZLA",
+        "videoUrl": "https://www.youtube.com/watch?v=fpOEDfRWYj8",
         "quiz": [
           {
             "q": "Political geography examines how administrative boundaries divide ___.",
@@ -17758,7 +17758,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Political Geography: Federal, Provincial, and Municipal Boundaries",
-            "url": "https://www.youtube.com/watch?v=-oxAojygZLA"
+            "url": "https://www.youtube.com/watch?v=fpOEDfRWYj8"
           },
           {
             "label": "The Geography of Urban Food Deserts",
@@ -20461,7 +20461,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=N1jEzyoEpEg"
+        "videoUrl": "https://www.youtube.com/watch?v=UEj0S7GVGSY"
       },
       {
         "subject": "Math",
@@ -23345,7 +23345,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies strand: countries sometimes construct physical border walls or barriers to control the movement of people and goods, raising geographic questions about security, economics, and human rights.",
         "resourceLabel": "YouTube: Social Studies: The Geography of Border Walls and Migration Control",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Geography%20of%20Border%20Walls%20and%20Migration%20Control%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=XKovk9h9cKY",
+        "videoUrl": "https://www.youtube.com/watch?v=vwSOds50Afk",
         "quiz": [
           {
             "q": "What is one reason a country might construct a physical border wall?",
@@ -28420,7 +28420,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: e-waste refers to discarded electronic devices, and its global geography involves complex patterns of disposal, recycling, and shipment, often from wealthier nations to developing regions.",
         "resourceLabel": "YouTube: Social Studies: The Geography of E-Waste and Electronic Recycling",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Geography%20of%20E-Waste%20and%20Electronic%20Recycling%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=4GtWGHvX-rk",
+        "videoUrl": "https://www.youtube.com/watch?v=_Y2ePj3wr8M",
         "quiz": [
           {
             "q": "What is e-waste?",
@@ -30640,7 +30640,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Chemistry: Metals, Nonmetals, and Metalloids",
         "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Metals%2C%20Nonmetals%2C%20and%20Metalloids%20grade%209%20educational",
         "topic": "Atoms, Elements & Compounds",
-        "videoUrl": "https://www.youtube.com/watch?v=62eS9KB2Qsw",
+        "videoUrl": "https://www.youtube.com/watch?v=dpyfCuXVSkg",
         "quiz": [
           {
             "q": "Which property is typical of most metals?",
@@ -36250,7 +36250,7 @@ const curriculum: DayContent[] = [
         "videoUrls": [
           {
             "label": "Maritime Zones Explained",
-            "url": "https://www.youtube.com/watch?v=znRyJvYERtw"
+            "url": "https://www.youtube.com/watch?v=HP7RWExrdns"
           }
         ],
         "quiz": [
