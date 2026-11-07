@@ -27706,7 +27706,7 @@ const curriculum: DayContent[] = [
         "summary": "Children learn that families celebrate special days in their own unique ways, from birthdays to holidays and traditions.",
         "resourceLabel": "YouTube: Family Celebrations: Special Days We Share",
         "resourceUrl": "https://www.youtube.com/results?search_query=Family%20Celebrations%3A%20Special%20Days%20We%20Share%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=1U8G1oYXQY0",
+        "videoUrl": "https://www.youtube.com/watch?v=1z7Xz8dnCq4",
         "topic": "Families & Diversity (Basic)",
         "quiz": [
           {
@@ -39509,7 +39509,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that adding -s to a word can show there is more than one of something, like turning 'cat' into 'cats'.",
         "resourceLabel": "YouTube: Plurals: Adding -s to Show More Than One",
         "resourceUrl": "https://www.youtube.com/results?search_query=Plurals%3A%20Adding%20-s%20to%20Show%20More%20Than%20One%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=V8vXop8hfkg",
+        "videoUrl": "https://www.youtube.com/watch?v=KK5xHo5HPZw",
         "topic": "Grammar: Parts of Speech",
         "quiz": [
           {
