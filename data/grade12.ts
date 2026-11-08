@@ -4671,7 +4671,7 @@ const curriculum: DayContent[] = [
         "summary": "Students analyse the superposition of waves — constructive and destructive interference, standing waves, and resonance in strings and air columns.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=7cDAYFTXq3E",
-        "videoUrl": "https://www.youtube.com/watch?v=JUCLoczzwPo",
+        "videoUrl": "https://www.youtube.com/watch?v=CAe3lkYNKt8",
         "quiz": [
           {
             "q": "The principle of superposition states ___.",

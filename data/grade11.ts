@@ -5615,7 +5615,7 @@ const curriculum: DayContent[] = [
         "summary": "Students consolidate understanding of the human reproductive system, development, and reproductive health.",
         "resourceLabel": "YouTube: Human Biology: Reproductive System and Development Review",
         "resourceUrl": "https://www.youtube.com/results?search_query=Human%20Biology%3A%20Reproductive%20System%20and%20Development%20Review%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=iVyRKkYGCgk",
+        "videoUrl": "https://www.youtube.com/watch?v=BtsSbZ85yiQ",
         "quiz": [
           {
             "q": "Oogenesis (egg cell production) differs from spermatogenesis in that ___.",
@@ -37800,7 +37800,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=iVyRKkYGCgk",
+        "videoUrl": "https://www.youtube.com/watch?v=BtsSbZ85yiQ",
         "videoUrls": [
           {
             "label": "Development",

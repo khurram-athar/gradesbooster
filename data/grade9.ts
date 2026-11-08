@@ -4478,7 +4478,7 @@ const curriculum: DayContent[] = [
         "summary": "Compare global energy resources (fossil fuels, nuclear, renewables) and examine patterns of consumption and their geographic distribution (CGC1W).",
         "resourceLabel": "YouTube: Global Energy Resources and Consumption Patterns",
         "resourceUrl": "https://www.youtube.com/results?search_query=Global%20Energy%20Resources%20and%20Consumption%20Patterns%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=1N4Hs4Tsh0U",
+        "videoUrl": "https://www.youtube.com/watch?v=-RSrviqvAmY",
         "quiz": [
           {
             "q": "Fossil fuels include...",
@@ -5017,7 +5017,7 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of agricultural geography, transportation and trade, global energy, and HDI.",
         "resourceLabel": "YouTube: Review: Food Security, Transport Networks, Energy Resources, and Development Indicators",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Food%20Security%2C%20Transport%20Networks%2C%20Energy%20Resources%2C%20and%20Development%20Indicators%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=8c5ZN7BseNA",
+        "videoUrl": "https://www.youtube.com/watch?v=-RSrviqvAmY",
         "videoUrls": [
           {
             "label": "Food Security",
