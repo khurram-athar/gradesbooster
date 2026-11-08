@@ -13923,7 +13923,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about wildlife found across Canada, such as moose in forests, polar bears in the Arctic, and beavers near rivers and lakes, and how each animal is suited to where it lives.",
         "resourceLabel": "YouTube: Canadian Wildlife and Where Animals Live",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Wildlife%20and%20Where%20Animals%20Live%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=zZp0hZYrR7Y",
+        "videoUrl": "https://www.youtube.com/watch?v=Pi8xQzuKr3g",
         "quiz": [
           {
             "q": "Which large animal is commonly found in Canadian forests?",

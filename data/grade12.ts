@@ -1130,7 +1130,17 @@ const curriculum: DayContent[] = [
         "summary": "Students find equations of tangent and normal lines to curves, and solve introductory related rates problems.",
         "resourceLabel": "Khan Academy: Tangent Line Equations",
         "resourceUrl": "https://www.youtube.com/watch?v=IWcPMJBTDQg",
-        "videoUrl": "https://www.youtube.com/watch?v=j6I3EXiKB2A",
+        "videoUrl": "https://www.youtube.com/watch?v=ktOYbZ8CpLA",
+        "videoUrls": [
+          {
+            "label": "Tangent Lines",
+            "url": "https://www.youtube.com/watch?v=ktOYbZ8CpLA"
+          },
+          {
+            "label": "Related Rates",
+            "url": "https://www.youtube.com/watch?v=kQF9pOqmS0U"
+          }
+        ],
         "quiz": [
           {
             "q": "The equation of the tangent line to y = f(x) at (a, f(a)) is ___.",
@@ -3057,7 +3067,7 @@ const curriculum: DayContent[] = [
         "summary": "Students apply all function families to real-world data — choosing, fitting, and interpreting mathematical models.",
         "resourceLabel": "Khan Academy: Mathematical Modeling",
         "resourceUrl": "https://www.youtube.com/watch?v=A3M9Ksxrd9c",
-        "videoUrl": "https://www.youtube.com/watch?v=x08fgxixyCY",
+        "videoUrl": "https://www.youtube.com/watch?v=hChH_go-vwo",
         "quiz": [
           {
             "q": "When data shows exponential growth that eventually levels off, the best model is ___.",
@@ -20624,7 +20634,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: data journalism combines reporting with statistical analysis and visual infographics, presenting complex information in a form intended to be both accurate and accessible.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
-        "videoUrl": "https://www.youtube.com/watch?v=ZawrCDQ2HqE",
+        "videoUrl": "https://www.youtube.com/watch?v=RnhNnSVhQlM",
         "quiz": [
           {
             "q": "What does data journalism combine with reporting?",
@@ -29167,7 +29177,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=b9SYaUt4yCY"
+        "videoUrl": "https://www.youtube.com/watch?v=pulwSRZJJTM"
       },
       {
         "subject": "AdvancedFunctions",
@@ -36731,7 +36741,7 @@ const curriculum: DayContent[] = [
         "summary": "Students apply exponential decay models to real-world depreciation of assets such as vehicles and equipment, and use exponential functions to calculate present value, distinguishing exponential depreciation from straight-line depreciation.",
         "resourceLabel": "YouTube: Applications of Exponential Functions: Depreciation and Present Value",
         "resourceUrl": "https://www.youtube.com/results?search_query=Applications%20of%20Exponential%20Functions%3A%20Depreciation%20and%20Present%20Value%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=tES2nNs8toU",
+        "videoUrl": "https://www.youtube.com/watch?v=EyI1vC8tqRw",
         "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {

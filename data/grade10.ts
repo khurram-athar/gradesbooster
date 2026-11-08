@@ -34757,7 +34757,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: a doppelganger is a characters double or look-alike, often representing a hidden or opposing side of the original characters personality, and the motif is frequently used to explore themes of identity, morality, and psychological duality.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
-        "videoUrl": "https://www.youtube.com/watch?v=zEwJGgQNdnU",
+        "videoUrl": "https://www.youtube.com/watch?v=jULgYAn1xWU",
         "quiz": [
           {
             "q": "What is a doppelganger in literature?",

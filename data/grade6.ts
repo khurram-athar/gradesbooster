@@ -29183,7 +29183,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Writing",
-        "videoUrl": "https://www.youtube.com/watch?v=vEKJ-VWQuLQ"
+        "videoUrl": "https://www.youtube.com/watch?v=QOphAqdYv6g"
       },
       {
         "subject": "Math",

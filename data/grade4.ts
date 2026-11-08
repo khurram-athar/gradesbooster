@@ -15038,7 +15038,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Energy",
-        "videoUrl": "https://www.youtube.com/watch?v=jRucyeL1XIE"
+        "videoUrl": "https://www.youtube.com/watch?v=PKm4ZVNmJyQ"
       },
       {
         "subject": "SocialStudies",
@@ -34029,7 +34029,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: assonance repeats vowel sounds within nearby words, while consonance repeats consonant sounds, and both create musical patterns in poetry.",
         "resourceLabel": "YouTube: Assonance and Consonance: Sound Patterns in Poetry",
         "resourceUrl": "https://www.youtube.com/results?search_query=Assonance%20and%20Consonance%3A%20Sound%20Patterns%20in%20Poetry%20grade%204%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=JrWGvMJGs4E",
+        "videoUrl": "https://www.youtube.com/watch?v=v0QND1He2DA",
         "quiz": [
           {
             "q": "What does assonance repeat?",

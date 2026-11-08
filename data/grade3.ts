@@ -33633,7 +33633,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: etymology is the study of where words come from and how their meanings have changed over time, and many English words have roots in other languages such as Latin, Greek, or French.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
-        "videoUrl": "https://www.youtube.com/watch?v=gM2SVjCqJxY",
+        "videoUrl": "https://www.youtube.com/watch?v=YEaSxhcns7Y",
         "quiz": [
           {
             "q": "What is etymology?",
@@ -36153,7 +36153,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand review: students revisit correcting run-on sentences, etymology, identifying a central argument, writing a formal email, interviewing skills, collective nouns, comparing a book and its film adaptation, transition words, and writing an eyewitness news report.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
-        "videoUrl": "https://www.youtube.com/watch?v=tctBlKEg1dw",
+        "videoUrl": "https://www.youtube.com/watch?v=YEaSxhcns7Y",
         "videoUrls": [
           {
             "label": "Grammar: Correcting Run-on Sentences",
