@@ -44075,6 +44075,7 @@ const curriculum: DayContent[] = [
         "summary": "Students identify uppercase and lowercase letter X, and notice that X most often appears at the end of words, making the /ks/ sound as in box and fox.",
         "resourceLabel": "YouTube: Letter X",
         "resourceUrl": "https://www.youtube.com/results?search_query=Letter%20X%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FsSmBs0yEpk",
         "topic": "Phonics & Word Recognition",
         "quiz": [
           {
@@ -44135,6 +44136,7 @@ const curriculum: DayContent[] = [
         "summary": "Children explore the meaning of zero as representing an empty set or 'none,' an important early number concept.",
         "resourceLabel": "YouTube: Zero: Understanding 'None'",
         "resourceUrl": "https://www.youtube.com/results?search_query=Zero%3A%20Understanding%20%27None%27%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7u1-HB92c6c",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {
@@ -44195,6 +44197,7 @@ const curriculum: DayContent[] = [
         "summary": "Children learn why washing hands with soap and water helps remove germs and keep our bodies healthy, especially before eating and after using the washroom.",
         "resourceLabel": "YouTube: Germs and Hand Washing: Staying Healthy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Germs%20and%20Hand%20Washing%3A%20Staying%20Healthy%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eNmte6Xe3R4",
         "topic": "Human Body & Health",
         "quiz": [
           {
@@ -44255,6 +44258,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Social Studies strand: Canadian coins and bills have special pictures and symbols on them, like a loon on the dollar coin and a portrait on many bills.",
         "resourceLabel": "YouTube: Canadian Currency: Symbols on Our Coins and Bills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Currency%3A%20Symbols%20on%20Our%20Coins%20and%20Bills%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YwhNC5C3OHI",
         "quiz": [
           {
             "q": "What word describes Canadian money like coins and bills?",

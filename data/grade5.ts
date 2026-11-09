@@ -40039,6 +40039,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: a hyphen joins parts of certain compound words and compound modifiers, such as well-known or six-year-old, helping clarify meaning when words work together to describe something.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=g0WptlLlhfU",
         "quiz": [
           {
             "q": "What is one common use of a hyphen?",
@@ -40099,6 +40100,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: the metric system is based on powers of ten, so converting between units, such as millimetres to centimetres or grams to kilograms, involves multiplying or dividing by 10, 100, or 1000.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=TVVPivUdfrU",
         "quiz": [
           {
             "q": "What is the metric system based on?",
@@ -40233,6 +40235,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn how, during World War II, the Canadian government forcibly relocated and interned Japanese Canadians and seized their property, and later issued a formal apology and redress in 1988.",
         "resourceLabel": "YouTube: Japanese Canadian Internment During World War II",
         "resourceUrl": "https://www.youtube.com/results?search_query=Japanese%20Canadian%20Internment%20During%20World%20War%20II%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=1JC9UxN9tJo",
         "topic": "History: 20th Century Canada",
         "quiz": [
           {

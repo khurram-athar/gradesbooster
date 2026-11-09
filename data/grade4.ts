@@ -40726,6 +40726,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: the protagonist is the main character a story follows, while the antagonist is the character or force that creates conflict and opposes the protagonist.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=AgfBr79JzOU",
         "quiz": [
           {
             "q": "Who is the protagonist of a story?",
@@ -40786,6 +40787,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: reading and writing numbers to 100,000 involves understanding place value positions including ten thousands and hundred thousands, and expressing numbers in standard and word form.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=G6OPy5otI5E",
         "quiz": [
           {
             "q": "What is the value of the digit 3 in the number 63,000?",
@@ -40846,6 +40848,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: humans go through stages of a life cycle including infancy, childhood, adolescence, and adulthood, each marked by physical growth and development.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=2vUPhZUofco",
         "quiz": [
           {
             "q": "What is the first stage of the human life cycle?",
@@ -40906,6 +40909,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the CN Tower is a tall communications and observation tower in Toronto, recognized as an important Canadian landmark and a symbol of the citys skyline.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=gRBkwUWFj74",
         "quiz": [
           {
             "q": "In which city is the CN Tower located?",

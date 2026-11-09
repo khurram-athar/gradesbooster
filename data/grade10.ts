@@ -39018,6 +39018,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: sentences can be classified by structure as simple, containing one independent clause; compound, containing two or more independent clauses; complex, containing an independent clause and at least one subordinate clause; or compound-complex, combining both features.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=smgyeUomfyA",
         "quiz": [
           {
             "q": "What defines a simple sentence?",
@@ -39078,6 +39079,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn the cosine law and apply it to find an unknown side or angle in an oblique triangle when given two sides and the included angle, or all three sides.",
         "resourceLabel": "YouTube: Trigonometry: Introduction to the Cosine Law",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20Introduction%20to%20the%20Cosine%20Law%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3wGQMyaWoLA",
         "topic": "Trigonometry",
         "quiz": [
           {
@@ -39138,6 +39140,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: the rate of a chemical reaction can be increased by raising the temperature, increasing the concentration of reactants, increasing surface area, or adding a catalyst, each of which increases how often and how effectively particles collide.",
         "resourceLabel": "YouTube: Chemistry: Factors That Affect the Rate of a Chemical Reaction",
         "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Factors%20That%20Affect%20the%20Rate%20of%20a%20Chemical%20Reaction%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=JK7yPzO9POU",
         "quiz": [
           {
             "q": "What generally happens to a reaction rate when temperature is increased?",
@@ -39198,6 +39201,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the Battle of the Scheldt was a series of difficult operations in the fall of 1944 in which the First Canadian Army fought to clear the Scheldt Estuary of German forces, a campaign essential to opening the port of Antwerp for vital Allied supply shipments.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=vuK_7FHgLdE",
         "quiz": [
           {
             "q": "In what year did the Battle of the Scheldt take place?",

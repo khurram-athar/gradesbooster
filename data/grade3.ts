@@ -41585,6 +41585,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Language strand: the -un word family shares the same ending sound, as in run, fun, sun, and bun.",
         "resourceLabel": "YouTube: Word Families: -un Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-un%20Words%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nCF_zfflsD0",
         "quiz": [
           {
             "q": "Which word belongs to the -un family?",
@@ -41669,6 +41670,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: students compare two three-digit numbers to decide which is greater or less using place value.",
         "resourceLabel": "YouTube: Comparing Three-Digit Numbers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Three-Digit%20Numbers%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hLsnpcP8hu0",
         "quiz": [
           {
             "q": "Which number is greater, 312 or 321?",
@@ -41749,6 +41751,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: bridges are structures built to help people and vehicles cross rivers, roads, or valleys safely.",
         "resourceLabel": "YouTube: Bridges and Structures: Simple Engineering",
         "resourceUrl": "https://www.youtube.com/results?search_query=Bridges%20and%20Structures%3A%20Simple%20Engineering%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oVOnRPefcno",
         "quiz": [
           {
             "q": "What is the main purpose of a bridge?",
@@ -41832,6 +41835,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore the daily work of voyageurs, the men who paddled canoes loaded with furs and supplies across Canada's rivers and lakes, learning about their routes, tools, and role in the early fur trade economy.",
         "resourceLabel": "YouTube: Social Studies: Life of a Voyageur in the Fur Trade",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Life%20of%20a%20Voyageur%20in%20the%20Fur%20Trade%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PtZ2EJ5KTuI",
         "topic": "History: Colonial & 19th Century Canada",
         "quiz": [
           {

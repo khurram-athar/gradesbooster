@@ -39211,6 +39211,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: a split infinitive occurs when a word, usually an adverb, is placed between the word to and the base verb it introduces, and while some traditional style guides discourage the construction, modern usage often accepts it when it improves clarity.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=jtNLr9yAS6Y",
         "quiz": [
           {
             "q": "What is a split infinitive?",
@@ -39271,6 +39272,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use slope-intercept form, y = mx + b, to identify the slope and y-intercept of a line and graph it directly on a coordinate grid.",
         "resourceLabel": "YouTube: Graphing Lines Using Slope and y-Intercept",
         "resourceUrl": "https://www.youtube.com/results?search_query=Graphing%20Lines%20Using%20Slope%20and%20y-Intercept%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QorjCqL9-ic",
         "topic": "Linear Relations",
         "quiz": [
           {
@@ -39331,6 +39333,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: the Global Positioning System uses a network of orbiting satellites that continuously transmit timed signals, allowing a receiver on Earth to calculate its exact location by measuring how long each signal took to arrive from multiple satellites.",
         "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=wCcARVbL_Dk",
         "quiz": [
           {
             "q": "What does the Global Positioning System rely on?",
@@ -39390,6 +39393,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the North-West Rebellion of 1885, led in part by Louis Riel, arose from Metis and First Nations grievances over land rights and government treatment in the North-West Territories.",
         "resourceLabel": "YouTube: Social Studies: The North-West Rebellion and Louis Riel",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20North-West%20Rebellion%20and%20Louis%20Riel%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=t5YrtvO7FDs",
         "quiz": [
           {
             "q": "In what year did the North-West Rebellion take place?",

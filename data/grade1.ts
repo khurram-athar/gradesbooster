@@ -48279,6 +48279,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: the word because is a conjunction that joins two ideas together to explain why something happens.",
         "resourceLabel": "YouTube: Conjunctions: Joining Ideas with Because",
         "resourceUrl": "https://www.youtube.com/results?search_query=Conjunctions%3A%20Joining%20Ideas%20with%20Because%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ECiFApWcrDU",
         "quiz": [
           {
             "q": "What does the word because usually explain?",
@@ -48362,6 +48363,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: a litre is a standard unit used to measure capacity, or how much liquid a container can hold.",
         "resourceLabel": "YouTube: Measurement: Capacity in Litres",
         "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Capacity%20in%20Litres%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XOvxggo3Re8",
         "quiz": [
           {
             "q": "What does a litre measure?",
@@ -48445,6 +48447,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: jellyfish are soft ocean animals without bones that float in the water and use stinging tentacles to catch food.",
         "resourceLabel": "YouTube: Jellyfish: Ocean Animals Without Bones",
         "resourceUrl": "https://www.youtube.com/results?search_query=Jellyfish%3A%20Ocean%20Animals%20Without%20Bones%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KWSFYpdbar4",
         "quiz": [
           {
             "q": "What is special about a jellyfish body?",
@@ -48526,6 +48529,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practice skills for being a good listener, such as looking at the speaker and waiting for instructions to finish, and apply these skills by following multi-step directions.",
         "resourceLabel": "YouTube: Being a Good Listener: Following Directions at School",
         "resourceUrl": "https://www.youtube.com/results?search_query=Being%20a%20Good%20Listener%3A%20Following%20Directions%20at%20School%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oGaSqdpy8HM",
         "topic": "Rules & Responsibilities (Basic)",
         "quiz": [
           {
