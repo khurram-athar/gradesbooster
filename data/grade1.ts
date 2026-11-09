@@ -35845,7 +35845,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Time & Money",
-        "videoUrl": "https://www.youtube.com/watch?v=VL7P_7q0g_M"
+        "videoUrl": "https://www.youtube.com/watch?v=ULR9LWiaKRQ"
       },
       {
         "subject": "Science",

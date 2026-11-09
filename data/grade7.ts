@@ -1020,7 +1020,7 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of clauses, roots/affixes, theme/tone, and argument/evidence.",
         "resourceLabel": "YouTube: Review: Grammar, Vocabulary, and Theme",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Grammar%2C%20Vocabulary%2C%20and%20Theme%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=V1kKVYUkx0Y",
+        "videoUrl": "https://www.youtube.com/watch?v=hNC1d91i6jg",
         "quiz": [
           {
             "q": "An independent clause can...",
@@ -2396,7 +2396,13 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of ecosystems, matter, structures, and heat transfer.",
         "resourceLabel": "YouTube: Final Review: Science Skills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=h7ue5gHJiPE",
+        "videoUrl": "https://www.youtube.com/watch?v=TitrRpMUt0I",
+        "videoUrls": [
+          {
+            "label": "Heat Transfer - Conduction, Convection, and Radiation",
+            "url": "https://www.youtube.com/watch?v=bRZwzy0xvhM"
+          }
+        ],
         "quiz": [
           {
             "q": "Producers in an ecosystem...",
@@ -2456,7 +2462,7 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of New France, Confederation, geography, and resources.",
         "resourceLabel": "YouTube: Final Review: Social Studies Skills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=nYyIRh7O-4o",
+        "videoUrl": "https://www.youtube.com/watch?v=Qo7aTFHyhPE",
         "quiz": [
           {
             "q": "New France came under British control after...",
@@ -30133,11 +30139,11 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=V1kKVYUkx0Y",
+        "videoUrl": "https://www.youtube.com/watch?v=hNC1d91i6jg",
         "videoUrls": [
           {
             "label": "Grammar",
-            "url": "https://www.youtube.com/watch?v=V1kKVYUkx0Y"
+            "url": "https://www.youtube.com/watch?v=hNC1d91i6jg"
           },
           {
             "label": "Vocabulary",
@@ -32685,11 +32691,11 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=V1kKVYUkx0Y",
+        "videoUrl": "https://www.youtube.com/watch?v=hNC1d91i6jg",
         "videoUrls": [
           {
             "label": "Grammar",
-            "url": "https://www.youtube.com/watch?v=V1kKVYUkx0Y"
+            "url": "https://www.youtube.com/watch?v=hNC1d91i6jg"
           },
           {
             "label": "Vocabulary",
@@ -35238,11 +35244,11 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=V1kKVYUkx0Y",
+        "videoUrl": "https://www.youtube.com/watch?v=hNC1d91i6jg",
         "videoUrls": [
           {
             "label": "Grammar",
-            "url": "https://www.youtube.com/watch?v=V1kKVYUkx0Y"
+            "url": "https://www.youtube.com/watch?v=hNC1d91i6jg"
           },
           {
             "label": "Vocabulary",
@@ -45229,11 +45235,11 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=V1kKVYUkx0Y",
+        "videoUrl": "https://www.youtube.com/watch?v=hNC1d91i6jg",
         "videoUrls": [
           {
             "label": "Grammar",
-            "url": "https://www.youtube.com/watch?v=V1kKVYUkx0Y"
+            "url": "https://www.youtube.com/watch?v=hNC1d91i6jg"
           },
           {
             "label": "Reading",
@@ -47022,11 +47028,11 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=V1kKVYUkx0Y",
+        "videoUrl": "https://www.youtube.com/watch?v=hNC1d91i6jg",
         "videoUrls": [
           {
             "label": "Grammar",
-            "url": "https://www.youtube.com/watch?v=V1kKVYUkx0Y"
+            "url": "https://www.youtube.com/watch?v=hNC1d91i6jg"
           },
           {
             "label": "Vocabulary",

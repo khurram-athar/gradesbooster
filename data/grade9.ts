@@ -1007,7 +1007,13 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of clauses, thesis statements, persuasive analysis, and literary devices.",
         "resourceLabel": "YouTube: Review: Sentences, Essays, and Devices",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Sentences%2C%20Essays%2C%20and%20Devices%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=S928_8W7JuA",
+        "videoUrl": "https://www.youtube.com/watch?v=C3SqNtDx4UM",
+        "videoUrls": [
+          {
+            "label": "Ethos, Pathos & Logos",
+            "url": "https://www.youtube.com/watch?v=aUpiy67_nt4"
+          }
+        ],
         "quiz": [
           {
             "q": "A complex sentence contains an independent clause and...",

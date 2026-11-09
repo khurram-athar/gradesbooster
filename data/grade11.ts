@@ -8965,7 +8965,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a personal essay explores the writer’s own experiences and reflections with an honest, distinctive voice, often embracing vulnerability to create a genuine connection with readers.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
-        "videoUrl": "https://www.youtube.com/watch?v=ezr4dPT5zmI",
+        "videoUrl": "https://www.youtube.com/watch?v=zKYaHgMn4wo",
         "quiz": [
           {
             "q": "A personal essay explores ___.",
