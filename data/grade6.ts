@@ -39475,6 +39475,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: dashes and parentheses can both be used to add extra information to a sentence, with dashes often creating a stronger emphasis while parentheses typically set off information considered less essential.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=HJnHOCWy7hs",
         "quiz": [
           {
             "q": "What is one use of a dash in a sentence?",
@@ -39535,6 +39536,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: creating a simple spending plan involves dividing money, such as an allowance, into categories like saving, spending, and sharing, helping build habits of tracking income and expenses.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=437hOqo4OVs",
         "quiz": [
           {
             "q": "What is a spending plan?",
@@ -39595,6 +39597,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: desalination is the process of removing salt and other minerals from seawater to produce fresh water suitable for drinking or irrigation, often using methods such as distillation or reverse osmosis.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=3h49i1iDNP4",
         "quiz": [
           {
             "q": "What does desalination remove from seawater?",
@@ -39654,6 +39657,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: Emancipation Day, observed on August 1, commemorates the 1834 abolition of slavery throughout the British Empire, including British North America, and is marked by celebrations in communities across Canada.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=LV_2y8rrKH8",
         "quiz": [
           {
             "q": "What does Emancipation Day commemorate?",

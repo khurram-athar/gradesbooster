@@ -39388,6 +39388,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a cover letter introduces a job or program applicant to a reader who has not yet seen their full application, using a concise, tailored argument to connect the applicants specific experience to the specific opportunity rather than repeating a resume in sentence form.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=NUhDP30IRKk",
         "quiz": [
           {
             "q": "What is the purpose of a cover letter?",
@@ -39448,6 +39449,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: a progressive tax system applies increasing tax rates to successive brackets of income, so the marginal tax rate taxes only the portion of income within the highest bracket reached, while the average tax rate is the total tax paid divided by total income, and the two rates are rarely equal.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=i4q9XHMYUPQ",
         "quiz": [
           {
             "q": "What does a progressive tax system apply to successive brackets of income?",
@@ -39507,6 +39509,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: the menstrual cycle is regulated by a shifting balance of hormones, including estrogen, progesterone, and pituitary hormones that trigger ovulation, coordinating the buildup and shedding of the uterine lining across a roughly monthly cycle in preparation for a possible pregnancy.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=h36poEtEbi4",
         "quiz": [
           {
             "q": "What regulates the menstrual cycle?",
@@ -39566,6 +39569,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: a rocket propellant system pairs a fuel with an oxidizer that supplies the oxygen needed for combustion even in the vacuum of space, and the choice of fuel-oxidizer combination determines the thrust, efficiency, and storage challenges of a given rocket design.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=bsdO5dIWhP4",
         "quiz": [
           {
             "q": "What does an oxidizer supply in a rocket propellant system?",

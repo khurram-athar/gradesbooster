@@ -39201,6 +39201,7 @@
         "summary": "Grade 12 English strand: Southern Gothic is an American literary mode set in the southern United States that uses decayed settings, grotesque or morally flawed characters, and undercurrents of violence or social decay to expose unsettling truths beneath a regions genteel surface.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=T1Gewey01DE",
         "quiz": [
           {
             "q": "What regional setting characterizes Southern Gothic fiction?",
@@ -39261,6 +39262,7 @@
         "summary": "Grade 12 Advanced Functions strand: a logarithmic spiral is a curve whose distance from its centre grows exponentially with the angle of rotation, giving it the self-similar property that it looks the same at every scale, a shape that appears throughout nature in forms such as nautilus shells and spiral galaxies.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=MsAEasiiD24",
         "quiz": [
           {
             "q": "What relationship defines a logarithmic spiral?",
@@ -39321,6 +39323,7 @@
         "summary": "Grade 10 Math strand: related rates problems use implicit differentiation to determine how the rate of change of one quantity relates to the rate of change of another quantity, when both are connected by an equation and changing with respect to time.",
         "resourceLabel": "YouTube: Calculus: Related Rates",
         "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20Related%20Rates%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=I9mVUo-bhM8",
         "quiz": [
           {
             "q": "What do related rates problems determine?",
@@ -39380,6 +39383,7 @@
         "summary": "Students learn to apply conservation of momentum along perpendicular x- and y-axes to analyze collisions that occur in two dimensions, and to distinguish elastic collisions, where kinetic energy is also conserved, from inelastic collisions, where it is not. They practise resolving vector components before and after a collision to find unknown speeds and directions.",
         "resourceLabel": "YouTube: Elastic and Inelastic Collisions in Two Dimensions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Elastic%20and%20Inelastic%20Collisions%20in%20Two%20Dimensions%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=p19i0gk3uFE",
         "quiz": [
           {
             "q": "In any collision in two dimensions, which quantity is always conserved for the system, regardless of collision type?",

@@ -37991,6 +37991,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: a reflective journal entry describes a personal experience and explores the writers thoughts, feelings, and what they learned from it.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=b9QYrv6rzeI",
         "quiz": [
           {
             "q": "What does a reflective journal entry mainly explore?",
@@ -40423,6 +40424,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: pasteurization is a process that heats liquids like milk to a specific temperature for a set time to kill harmful bacteria, making the liquid safer to drink without changing it drastically.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=nB-jOi_bO0w",
         "quiz": [
           {
             "q": "What is the main purpose of pasteurization?",
@@ -40482,6 +40484,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: Canadian currency has changed over time, featuring different portraits, symbols, and security features on coins and bank notes that reflect the countrys history and values.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=92GmnaiCoyM",
         "quiz": [
           {
             "q": "What might Canadian currency feature on its coins and bank notes?",

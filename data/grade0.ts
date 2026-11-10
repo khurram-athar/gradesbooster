@@ -44348,6 +44348,7 @@ const curriculum: DayContent[] = [
         "summary": "Students identify uppercase and lowercase letter Y, practice writing it, and name pictures that begin with the /y/ sound like yarn and yo-yo.",
         "resourceLabel": "YouTube: Letter Y",
         "resourceUrl": "https://www.youtube.com/results?search_query=Letter%20Y%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Wa_9FdUyrJ0",
         "topic": "Phonics & Word Recognition",
         "quiz": [
           {
@@ -44408,6 +44409,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore different ways to break apart and put together numbers up to 10, such as showing 7 as 5 and 2 or as 4 and 3.",
         "resourceLabel": "YouTube: Composing and Decomposing Numbers Within 10",
         "resourceUrl": "https://www.youtube.com/results?search_query=Composing%20and%20Decomposing%20Numbers%20Within%2010%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=G05AgnEGmgw",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {
@@ -44468,6 +44470,7 @@ const curriculum: DayContent[] = [
         "summary": "Children discover their heartbeat by placing a hand on their chest, noticing how it beats faster after moving around and slower while resting.",
         "resourceLabel": "YouTube: Our Heartbeat: Feel It Beat",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Heartbeat%3A%20Feel%20It%20Beat%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tF9-jLZNM10",
         "topic": "Human Body & Health",
         "quiz": [
           {

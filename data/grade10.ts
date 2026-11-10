@@ -39267,6 +39267,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: pastoral literature idealizes rural life and the natural world, often using vivid nature imagery to contrast the simplicity of the countryside with the complexity or corruption of urban or courtly life, inviting reflection on humanitys relationship with nature.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=WUBuNCk5na0",
         "quiz": [
           {
             "q": "What does pastoral literature typically idealize?",
@@ -39327,6 +39328,7 @@ const curriculum: DayContent[] = [
         "summary": "Students describe how changing a, h, and k in vertex form y = a(x − h)^2 + k transforms the graph of a parabola, including stretches, reflections, and shifts from the parent function y = x^2.",
         "resourceLabel": "YouTube: Transformations of Quadratic Relations: y = a(x − h)^2 + k",
         "resourceUrl": "https://www.youtube.com/results?search_query=Transformations%20of%20Quadratic%20Relations%3A%20y%20%3D%20a%28x%20%E2%88%92%20h%29%5E2%20%2B%20k%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xwRWBuc_854",
         "quiz": [
           {
             "q": "In y = a(x − h)^2 + k, what does the value of h control?",
@@ -39386,6 +39388,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: ocean currents move vast amounts of water around the globe, driven partly by wind at the surface and partly by differences in water temperature and salinity that drive a deep, slow-moving global conveyor known as thermohaline circulation.",
         "resourceLabel": "YouTube: Earth Science: Ocean Currents and Thermohaline Circulation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Earth%20Science%3A%20Ocean%20Currents%20and%20Thermohaline%20Circulation%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=C0ck2njRe9Y",
         "quiz": [
           {
             "q": "What are two factors that help drive ocean currents?",
@@ -39446,6 +39449,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: in the final months of the Second World War in early 1945, Canadian troops played a leading role in liberating the Netherlands from German occupation, an effort that relieved widespread famine and forged a lasting bond of friendship between Canada and the Dutch people.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=jg3DB6P3IPc",
         "quiz": [
           {
             "q": "In what year did the liberation of the Netherlands largely occur?",

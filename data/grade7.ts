@@ -39513,6 +39513,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: a persuasive speech typically opens with an attention-getting introduction, develops supporting arguments organized logically, addresses potential counterarguments, and closes with a strong call to action.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=lRfqBhxFk0I",
         "quiz": [
           {
             "q": "What does a persuasive speech typically open with?",
@@ -39573,6 +39574,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: percent change measures how much a value has increased or decreased relative to its original amount, while percent error measures how far a measured or estimated value is from the actual, correct value.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=BmCGiwuY2yA",
         "quiz": [
           {
             "q": "What does percent change measure?",
@@ -39633,6 +39635,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: scientists believe the solar system formed about 4.6 billion years ago from a giant, collapsing cloud of gas and dust, with most of the material forming the sun at the centre and the remaining material gradually clumping together to form the planets.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=C7cqc9jHFdg",
         "quiz": [
           {
             "q": "About how long ago do scientists believe the solar system formed?",
@@ -39693,6 +39696,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the 2010 Winter Olympics held in Vancouver brought major international attention to Canada, showcased Canadian athletes on home soil, and became a widely remembered moment of shared national pride and identity.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=7uJBhxtrQ_w",
         "quiz": [
           {
             "q": "In which Canadian city were the 2010 Winter Olympics held?",
