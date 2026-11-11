@@ -39709,6 +39709,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: parody imitates the style of a work or genre to mock or comment on it humorously, while pastiche imitates a style out of admiration rather than mockery, and distinguishing between the two helps readers understand an authors purpose.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=_jg8L323-KI",
         "quiz": [
           {
             "q": "What is the main purpose of parody?",
@@ -39769,6 +39770,7 @@ const curriculum: DayContent[] = [
         "summary": "Students set up and solve proportions using cross-multiplication to find unknown values in ratio and rate problems.",
         "resourceLabel": "YouTube: Ratios, Rates, and Solving Proportions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ratios%2C%20Rates%2C%20and%20Solving%20Proportions%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RQ2nYUBVvqI",
         "topic": "Ratios & Rates",
         "quiz": [
           {
@@ -39829,6 +39831,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore the electromagnetic spectrum, learning that visible light is only a small part of a much larger range of waves that includes radio waves, infrared, ultraviolet, X-rays, and gamma rays.",
         "resourceLabel": "YouTube: The Electromagnetic Spectrum: Beyond Visible Light",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Electromagnetic%20Spectrum%3A%20Beyond%20Visible%20Light%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iVbuCROYAz4",
         "topic": "Light & Sound",
         "quiz": [
           {
@@ -39889,6 +39892,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the Canadian Radio-television and Telecommunications Commission, or CRTC, regulates broadcasting in Canada, including rules that require a certain amount of Canadian content on radio and television.",
         "resourceLabel": "YouTube: Social Studies: The CRTC and Canadian Content Rules in Broadcasting",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20CRTC%20and%20Canadian%20Content%20Rules%20in%20Broadcasting%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=t79JljSQGfw",
         "quiz": [
           {
             "q": "What does the acronym CRTC stand for?",

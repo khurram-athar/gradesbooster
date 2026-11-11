@@ -44619,6 +44619,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids move beyond spotting rhymes and practice making their own rhyming words by changing the beginning sound of a word.",
         "resourceLabel": "YouTube: Rhyming Words: Making New Rhymes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rhyming%20Words%3A%20Making%20New%20Rhymes%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5T52TCrQ2M4",
         "topic": "Phonics & Word Recognition",
         "quiz": [
           {
@@ -44679,6 +44680,7 @@ const curriculum: DayContent[] = [
         "summary": "Children practice representing numbers up to 10 using fingers, counters, and other objects as different tools for showing the same quantity.",
         "resourceLabel": "YouTube: Showing Numbers: Using Fingers and Objects to 10",
         "resourceUrl": "https://www.youtube.com/results?search_query=Showing%20Numbers%3A%20Using%20Fingers%20and%20Objects%20to%2010%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WfEyynAaLRY",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {
@@ -44739,6 +44741,7 @@ const curriculum: DayContent[] = [
         "summary": "A simple look at breathing, helping children notice how their chest rises and falls as their lungs fill with air and let it back out.",
         "resourceLabel": "YouTube: Breathing: How Our Lungs Work",
         "resourceUrl": "https://www.youtube.com/results?search_query=Breathing%3A%20How%20Our%20Lungs%20Work%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0giiDDBJVQU",
         "topic": "Human Body & Health",
         "quiz": [
           {

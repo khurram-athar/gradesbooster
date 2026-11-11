@@ -41225,6 +41225,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: a travel brochure is a persuasive informational text that describes a destination using engaging descriptions, facts, and images to encourage people to visit.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=GPRTyAe57DI",
         "quiz": [
           {
             "q": "What is the purpose of a travel brochure?",
@@ -41285,6 +41286,7 @@ const curriculum: DayContent[] = [
         "summary": "Students design their own number patterns by choosing a starting number and an operation rule, then challenge a partner to figure out the rule from the pattern.",
         "resourceLabel": "YouTube: Creating Number Patterns with a Rule",
         "resourceUrl": "https://www.youtube.com/results?search_query=Creating%20Number%20Patterns%20with%20a%20Rule%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iPbg7GCU5Cs",
         "topic": "Patterning",
         "quiz": [
           {
@@ -41345,6 +41347,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: composting is a natural process where decomposers such as bacteria, fungi, and worms break down organic waste into nutrient-rich soil that can support new plant growth.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=uB61rfeeAsM",
         "quiz": [
           {
             "q": "What is composting?",
@@ -41405,6 +41408,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: national historic sites are locations across Canada recognized for their importance to the countrys history, preserving buildings, events, and stories for future generations.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=6plofYCEVhM",
         "quiz": [
           {
             "q": "What is a national historic site?",

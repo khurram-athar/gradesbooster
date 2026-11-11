@@ -39724,6 +39724,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: a primary source is firsthand evidence created during the time being studied, such as a letter or photograph, while a secondary source, such as a textbook, analyzes or interprets information from primary sources.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=AR-iM8B5iJg",
         "quiz": [
           {
             "q": "What is a primary source?",
@@ -39784,6 +39785,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: a percent greater than 100 represents an amount larger than the whole, while a percent less than 1 represents a very small fraction of the whole, both calculated using the same percent relationships as any other percent.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=UYhYtjk4nsY",
         "quiz": [
           {
             "q": "What does a percent greater than 100 represent?",
@@ -39844,6 +39846,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: streamlining is shaping an object to move smoothly through water with less resistance, called drag, which is why boats and fish often have narrow, smooth, pointed shapes.",
         "resourceLabel": "YouTube: Science: Forces: Streamlining and Reducing Drag in Water",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Forces%3A%20Streamlining%20and%20Reducing%20Drag%20in%20Water%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nLnHxLGXZIY",
         "quiz": [
           {
             "q": "What do we call the force that resists an object’s motion through water?",
@@ -39904,6 +39907,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore how Canadian municipalities manage garbage, recycling, and composting differently, and discuss the '3 Rs' (reduce, reuse, recycle) alongside the challenges of landfill space and waste diversion.",
         "resourceLabel": "YouTube: Recycling and Waste Management Across Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Recycling%20and%20Waste%20Management%20Across%20Canada%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ARBqPuvYq0c",
         "topic": "Environment & Sustainability (Social Studies)",
         "quiz": [
           {

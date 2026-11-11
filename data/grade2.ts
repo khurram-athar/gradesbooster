@@ -48008,6 +48008,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: an acrostic poem uses the first letter of each line to spell out a word, often the topic of the poem, reading down the page.",
         "resourceLabel": "YouTube: Acrostic Poems: Writing With Hidden Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Acrostic%20Poems%3A%20Writing%20With%20Hidden%20Words%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=BbO042rJTNA",
         "quiz": [
           {
             "q": "What does an acrostic poem spell using the first letter of each line?",
@@ -48068,6 +48069,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a year is divided into twelve months, such as January and July, and that a calendar helps us keep track of days, weeks, and months.",
         "resourceLabel": "YouTube: Calendar: Months of the Year",
         "resourceUrl": "https://www.youtube.com/results?search_query=Calendar%3A%20Months%20of%20the%20Year%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YNSNeOKvznE",
         "quiz": [
           {
             "q": "How many months are there in one year?",
@@ -48159,6 +48161,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: scavengers are animals that eat dead plants and animals they find, helping clean up the environment and recycle nutrients.",
         "resourceLabel": "YouTube: Scavengers: Natures Cleanup Crew",
         "resourceUrl": "https://www.youtube.com/results?search_query=Scavengers%3A%20Natures%20Cleanup%20Crew%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vOUETkTPcoQ",
         "quiz": [
           {
             "q": "What do scavengers typically eat?",
@@ -48218,6 +48221,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Social Studies strand: leaders help guide a group, and everyone can practise being a leader by taking turns leading a line or a game.",
         "resourceLabel": "YouTube: Being a Leader: Taking Turns to Lead",
         "resourceUrl": "https://www.youtube.com/results?search_query=Being%20a%20Leader%3A%20Taking%20Turns%20to%20Lead%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=V3Cc4SPas1c",
         "quiz": [
           {
             "q": "What does a leader do for a group?",

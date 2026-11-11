@@ -39451,6 +39451,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: blank verse is unrhymed poetry written in a consistent metre, most often iambic pentameter, a five-foot line alternating unstressed and stressed syllables that closely mirrors natural English speech rhythms, widely used in dramatic and epic verse.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=TmwuGQIgj9A",
         "quiz": [
           {
             "q": "What distinguishes blank verse from rhymed poetic forms studied earlier, such as the sonnet?",
@@ -39510,6 +39511,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: simple linear regression fits a straight line to paired data by choosing the slope and intercept that minimize the sum of squared vertical distances between the data points and the line, producing the least squares line used to model and predict a linear relationship.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=kFQk-eF8VlQ",
         "quiz": [
           {
             "q": "What does simple linear regression fit to a set of paired data?",
@@ -39570,6 +39572,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: a function is continuous at a point if its graph has no break, jump, or hole there, meaning the limit of the function as it approaches that point equals the actual value of the function at that point.",
         "resourceLabel": "YouTube: Calculus Preview: Continuity of Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%20Preview%3A%20Continuity%20of%20Functions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WT7oxiiFYt8",
         "quiz": [
           {
             "q": "What does it mean for a function to be continuous at a point?",
@@ -39629,6 +39632,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson introduces the center of mass of a system of particles or an extended object, showing how to calculate its position as a mass-weighted average of the positions of the system's components. You will learn that the center of mass of an isolated system moves according to Newton's second law as if all the mass were concentrated there and all external forces acted at that point, even while individual parts of the system move in complicated ways (such as a spinning wrench thrown through the air).",
         "resourceLabel": "YouTube: Center of Mass: Locating and Tracking the Motion of a System of Particles",
         "resourceUrl": "https://www.youtube.com/results?search_query=Center%20of%20Mass%3A%20Locating%20and%20Tracking%20the%20Motion%20of%20a%20System%20of%20Particles%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=O-q-MAYpNLI",
         "quiz": [
           {
             "q": "The center of mass of a two-particle system is calculated using which formula, where m1, m2 are masses and x1, x2 are positions?",

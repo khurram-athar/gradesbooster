@@ -39762,6 +39762,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: an anagram is a word or phrase formed by rearranging the letters of another word or phrase, and anagrams are one form of wordplay that writers and puzzle creators use to explore language creatively.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=EYDqUxUdnsQ",
         "quiz": [
           {
             "q": "What is an anagram?",
@@ -39822,6 +39823,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: quadrilaterals can be classified by properties such as side length, angle measure, and parallel sides, distinguishing shapes like parallelograms, rectangles, rhombuses, squares, and trapezoids from one another.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=0OW2bU0So-4",
         "quiz": [
           {
             "q": "What property defines a parallelogram?",
@@ -39882,6 +39884,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: distillation separates the components of a mixture based on differences in boiling point, heating the mixture so the substance with the lower boiling point evaporates first and can then be cooled and collected separately.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=RMiGiSzAqKs",
         "quiz": [
           {
             "q": "What property does distillation use to separate a mixture?",
@@ -39942,6 +39945,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: after years of economic hardship, Newfoundland held referendums in 1948 on whether to join Canada, remain a British colony, or seek independence, ultimately voting narrowly to become Canadas tenth province in 1949.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=L-tcw7AZMMs",
         "quiz": [
           {
             "q": "In what year did Newfoundland officially join Canada as a province?",

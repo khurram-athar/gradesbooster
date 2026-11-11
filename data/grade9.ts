@@ -39829,6 +39829,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: pastoral imagery idealizes rural or natural settings, often to contrast the simplicity of nature with the complexity of urban or modern life, and writers use nature imagery more broadly to reflect a characters emotional state or reinforce a texts central themes.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=WUBuNCk5na0",
         "quiz": [
           {
             "q": "What does pastoral imagery typically idealize?",
@@ -39889,6 +39890,7 @@ const curriculum: DayContent[] = [
         "summary": "Students calculate the slope of a line as rate of change (rise over run) between two points and interpret its meaning in real-world contexts such as speed or cost per item.",
         "resourceLabel": "YouTube: Rate of Change and Slope of a Line",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rate%20of%20Change%20and%20Slope%20of%20a%20Line%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MYCH7gswI4k",
         "topic": "Linear Relations",
         "quiz": [
           {
@@ -39949,6 +39951,7 @@ const curriculum: DayContent[] = [
         "summary": "Students are introduced to the key quantities that describe electric circuits -- voltage, current, and resistance -- along with the instruments used to measure each one.",
         "resourceLabel": "YouTube: Current Electricity: Voltage, Current, and Resistance",
         "resourceUrl": "https://www.youtube.com/results?search_query=Current%20Electricity%3A%20Voltage%2C%20Current%2C%20and%20Resistance%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=J4Vq-xHqUo8",
         "topic": "Electricity & Magnetism",
         "quiz": [
           {
@@ -40009,6 +40012,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: language policy refers to the official decisions a government makes about which languages are used in education, government, and public life, and official bilingualism, as practiced in Canada, recognizes two languages with equal legal status at the federal level.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=lIVMh97mHxw",
         "quiz": [
           {
             "q": "What is language policy?",

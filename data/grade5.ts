@@ -40551,6 +40551,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: a comparison shopping report presents information about similar products, comparing features such as price, quality, and value, to help a reader make an informed purchasing decision.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=nwhar6I9apM",
         "quiz": [
           {
             "q": "What is the main purpose of a comparison shopping report?",
@@ -40611,6 +40612,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: a net is a two-dimensional pattern that can be folded to form a three-dimensional shape, and the net of a triangular prism includes two triangular faces and three rectangular faces.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=MzhZvBpe3E0",
         "quiz": [
           {
             "q": "What is a net in geometry?",
@@ -40671,6 +40673,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: a migratory bird corridor is a route that birds travel along during seasonal migration, often following coastlines, rivers, or mountain ranges to find food and suitable stopover habitats.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Q-mMMpl_T80",
         "quiz": [
           {
             "q": "What is a migratory bird corridor?",
@@ -40731,6 +40734,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn how Canada became the first country in the world to adopt an official multiculturalism policy in 1971, encouraging cultural diversity as part of Canadian identity.",
         "resourceLabel": "YouTube: Canada's Official Multiculturalism Policy of 1971",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Official%20Multiculturalism%20Policy%20of%201971%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rKgoVDV6UiE",
         "topic": "Culture, Diversity & Multiculturalism",
         "quiz": [
           {

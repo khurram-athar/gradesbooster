@@ -42227,6 +42227,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Language strand: adding the prefix pre- to the start of a word can mean before, such as changing view into preview, meaning to see before.",
         "resourceLabel": "YouTube: Prefixes: Adding Pre- to Change Meaning",
         "resourceUrl": "https://www.youtube.com/results?search_query=Prefixes%3A%20Adding%20Pre-%20to%20Change%20Meaning%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OCpYRe3nZ1I",
         "quiz": [
           {
             "q": "What does the word preview mean?",
@@ -42391,6 +42392,7 @@ const curriculum: DayContent[] = [
         "summary": "Students open up a soaked bean seed to find the seed coat, embryo, and cotyledons, learning what each part does to help a new plant start growing.",
         "resourceLabel": "YouTube: Science: Parts of a Seed — What's Inside?",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Parts%20of%20a%20Seed%20%E2%80%94%20What%27s%20Inside%3F%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=n7QCCosY9-k",
         "topic": "Life Cycles & Growth",
         "quiz": [
           {
@@ -42451,6 +42453,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to distinguish between needs (things required to live, like food and shelter) and wants (things that are nice to have but not essential), and practice making simple spending choices based on that difference.",
         "resourceLabel": "YouTube: Social Studies: Needs vs. Wants — Making Choices in a Community",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Needs%20vs.%20Wants%20%E2%80%94%20Making%20Choices%20in%20a%20Community%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=JxOnaWLgSGQ",
         "topic": "Economy, Trade & Currency",
         "quiz": [
           {

@@ -48933,6 +48933,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: text boxes and sidebars are small sections on a page that give extra facts or interesting information related to the main text.",
         "resourceLabel": "YouTube: Text Features: Text Boxes and Sidebars",
         "resourceUrl": "https://www.youtube.com/results?search_query=Text%20Features%3A%20Text%20Boxes%20and%20Sidebars%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=y03gQNA2PgE",
         "quiz": [
           {
             "q": "What is a text box used for on a page?",
@@ -49014,6 +49015,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: repeating patterns can use more than one attribute at once, such as shape, colour, and size, to make the pattern more complex.",
         "resourceLabel": "YouTube: Patterns: Repeating Patterns with Shape, Colour, and Size",
         "resourceUrl": "https://www.youtube.com/results?search_query=Patterns%3A%20Repeating%20Patterns%20with%20Shape%2C%20Colour%2C%20and%20Size%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Lh3twupvl7M",
         "quiz": [
           {
             "q": "Which of these is an attribute a pattern could be based on?",
@@ -49095,6 +49097,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: elephants are the largest land animals, known for their long trunks, big ears, and strong memories.",
         "resourceLabel": "YouTube: Elephants: The Largest Land Animals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Elephants%3A%20The%20Largest%20Land%20Animals%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=W5Nno_N14aM",
         "quiz": [
           {
             "q": "What is special about the size of an elephant?",
