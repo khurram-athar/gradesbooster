@@ -6821,7 +6821,21 @@ const curriculum: DayContent[] = [
         "summary": "Students review and consolidate key Grade 3 math concepts: number sense, measurement, geometry, patterning, and data.",
         "resourceLabel": "YouTube: Review: All Strands",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20All%20Strands%20grade%203%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=ZXESkVVMOwY",
+        "videoUrl": "https://www.youtube.com/watch?v=QS32l5WhSuY",
+        "videoUrls": [
+          {
+            "label": "Number Sense: Place Value",
+            "url": "https://www.youtube.com/watch?v=QS32l5WhSuY"
+          },
+          {
+            "label": "Geometry: Congruence and Symmetry",
+            "url": "https://www.youtube.com/watch?v=1u57rNNxDHg"
+          },
+          {
+            "label": "Data: Bar Graphs",
+            "url": "https://www.youtube.com/watch?v=zF_dBk8EPDk"
+          }
+        ],
         "quiz": [
           {
             "q": "256 + 399 = ?",

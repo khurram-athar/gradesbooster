@@ -7417,7 +7417,21 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Mathematics comprehensive review: all strands.",
         "resourceLabel": "YouTube: Year Review: Mathematics",
         "resourceUrl": "https://www.youtube.com/results?search_query=Year%20Review%3A%20Mathematics%20grade%204%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=pbhzG-6BIsU",
+        "videoUrl": "https://www.youtube.com/watch?v=dAgfnK528RA",
+        "videoUrls": [
+          {
+            "label": "Number Sense and Operations",
+            "url": "https://www.youtube.com/watch?v=dAgfnK528RA"
+          },
+          {
+            "label": "Geometry: Angles",
+            "url": "https://www.youtube.com/watch?v=aOipc02LUpo"
+          },
+          {
+            "label": "Data: Line Graphs",
+            "url": "https://www.youtube.com/watch?v=hcgThf5mv38"
+          }
+        ],
         "quiz": [
           {
             "q": "7 × 8 + 4 = ?",
