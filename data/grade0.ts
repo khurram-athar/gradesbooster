@@ -44890,6 +44890,7 @@ const curriculum: DayContent[] = [
         "summary": "Students identify uppercase and lowercase letter Z, practice writing it, and name pictures that begin with the /z/ sound like zebra and zipper.",
         "resourceLabel": "YouTube: Letter Z",
         "resourceUrl": "https://www.youtube.com/results?search_query=Letter%20Z%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IDeUZy_iNT4",
         "topic": "Phonics & Word Recognition",
         "quiz": [
           {
@@ -45010,6 +45011,7 @@ const curriculum: DayContent[] = [
         "summary": "Children explore why getting enough sleep each night helps their bodies and brains grow, heal, and feel ready for a new day.",
         "resourceLabel": "YouTube: Sleep and Rest: Why Our Bodies Need It",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sleep%20and%20Rest%3A%20Why%20Our%20Bodies%20Need%20It%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zr3riJJZbI0",
         "topic": "Human Body & Health",
         "quiz": [
           {
