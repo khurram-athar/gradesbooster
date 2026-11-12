@@ -40437,6 +40437,21 @@
         "summary": "Grade 7 Social Studies strand review: students revisit the Battle of Vimy Ridge, the creation of the Canadian National Railway, Canadian currency and the Royal Canadian Mint, the Metis Nation, and the Ontario Human Rights Code.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=FynhdgmJpdk",
+        "videoUrls": [
+          {
+            "label": "Creation of the Canadian National Railway",
+            "url": "https://www.youtube.com/watch?v=FynhdgmJpdk"
+          },
+          {
+            "label": "History of Canadian Currency and the Royal Canadian Mint",
+            "url": "https://www.youtube.com/watch?v=nm6R1N4gwfQ"
+          },
+          {
+            "label": "The Metis Nation and the Red River Resistance",
+            "url": "https://www.youtube.com/watch?v=YIxJ7I8vRzU"
+          }
+        ],
         "quiz": [
           {
             "q": "In what year did the Battle of Vimy Ridge take place?",

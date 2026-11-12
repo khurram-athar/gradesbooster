@@ -40449,6 +40449,7 @@ const curriculum: DayContent[] = [
         "summary": "Students apply Ohm's Law (V = IR) to calculate an unknown voltage, current, or resistance in simple electric circuits.",
         "resourceLabel": "YouTube: Ohm's Law and Circuit Calculations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ohm%27s%20Law%20and%20Circuit%20Calculations%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=O-dG_M5azD4",
         "topic": "Electricity & Magnetism",
         "quiz": [
           {

@@ -41735,6 +41735,29 @@
         "summary": "Grade 4 Language strand review: students revisit articles, plot structure, character sketches, indirect objects, and suffixes.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=cc7rgoC_nMI",
+        "videoUrls": [
+          {
+            "label": "Articles — A, An, and The",
+            "url": "https://www.youtube.com/watch?v=cc7rgoC_nMI"
+          },
+          {
+            "label": "Plot Structure",
+            "url": "https://www.youtube.com/watch?v=s-QB58egsK4"
+          },
+          {
+            "label": "Writing a Character Sketch",
+            "url": "https://www.youtube.com/watch?v=uprqTevElfs"
+          },
+          {
+            "label": "Indirect Objects",
+            "url": "https://www.youtube.com/watch?v=xz-TYjlr4IA"
+          },
+          {
+            "label": "Common Suffixes",
+            "url": "https://www.youtube.com/watch?v=xfT9T9gW32c"
+          }
+        ],
         "quiz": [
           {
             "q": "What is the definite article in English?",

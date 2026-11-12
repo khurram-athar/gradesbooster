@@ -40141,6 +40141,33 @@
         "summary": "Grade 11 English strand review: students revisit the aubade, the picaresque novel, correlative conjunctions, the soliloquy, satirical news and misinformation, nonverbal communication, the cover letter, sound devices, and foreshadowing and dramatic irony.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=-8hxRH0PNxc",
+        "videoUrls": [
+          {
+            "label": "Correlative Conjunctions and Balanced Sentence Structure",
+            "url": "https://www.youtube.com/watch?v=-8hxRH0PNxc"
+          },
+          {
+            "label": "The Soliloquy and Interior Thought on Stage",
+            "url": "https://www.youtube.com/watch?v=4ogkXqh2HaU"
+          },
+          {
+            "label": "Nonverbal Communication and Body Language in Presentations",
+            "url": "https://www.youtube.com/watch?v=TmbQFWBvTtY"
+          },
+          {
+            "label": "The Cover Letter and Professional Correspondence",
+            "url": "https://www.youtube.com/watch?v=NUhDP30IRKk"
+          },
+          {
+            "label": "Sound Devices — Alliteration, Assonance, and Onomatopoeia",
+            "url": "https://www.youtube.com/watch?v=6dACXPirT3s"
+          },
+          {
+            "label": "Foreshadowing and Dramatic Irony",
+            "url": "https://www.youtube.com/watch?v=TCbk7GEYn2g"
+          }
+        ],
         "quiz": [
           {
             "q": "What does an aubade typically mourn?",
@@ -40260,6 +40287,7 @@
         "summary": "This lesson examines how populations grow under ideal versus limited conditions, and explains the roles of carrying capacity and limiting factors in regulating population size.",
         "resourceLabel": "YouTube: Population Dynamics: Growth, Limits, and Carrying Capacity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Population%20Dynamics%3A%20Growth%2C%20Limits%2C%20and%20Carrying%20Capacity%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fbORpSWCShk",
         "quiz": [
           {
             "q": "Exponential population growth occurs when:",

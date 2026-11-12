@@ -40080,6 +40080,7 @@ const curriculum: DayContent[] = [
         "summary": "Students factor trinomials of the form x² + bx + c into two binomials by finding two numbers that multiply to c and add to b.",
         "resourceLabel": "YouTube: Algebra: Factoring Simple Trinomials",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Factoring%20Simple%20Trinomials%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MnGfA2uO6C8",
         "topic": "Polynomials & Factoring",
         "quiz": [
           {

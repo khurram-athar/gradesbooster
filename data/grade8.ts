@@ -40282,6 +40282,7 @@ const curriculum: DayContent[] = [
         "summary": "Students divide a total quantity into parts according to a given ratio, applying the technique to money, ingredients, and other real-world sharing problems.",
         "resourceLabel": "YouTube: Dividing a Quantity into a Given Ratio",
         "resourceUrl": "https://www.youtube.com/results?search_query=Dividing%20a%20Quantity%20into%20a%20Given%20Ratio%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SlZPVsOzRgk",
         "topic": "Ratios & Rates",
         "quiz": [
           {
@@ -40342,6 +40343,7 @@ const curriculum: DayContent[] = [
         "summary": "Students study the law of reflection and compare how flat, convex, and concave mirrors form different kinds of images, connecting these properties to everyday uses like car mirrors and makeup mirrors.",
         "resourceLabel": "YouTube: Mirrors and Reflection: The Physics of Images",
         "resourceUrl": "https://www.youtube.com/results?search_query=Mirrors%20and%20Reflection%3A%20The%20Physics%20of%20Images%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oDNqfxRYQY0",
         "topic": "Light & Sound",
         "quiz": [
           {

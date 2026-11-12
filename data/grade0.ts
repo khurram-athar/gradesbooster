@@ -45162,6 +45162,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids practice counting how many syllables, or beats, are in a word and match each word to its correct number.",
         "resourceLabel": "YouTube: Syllables: Counting the Beats in a Word",
         "resourceUrl": "https://www.youtube.com/results?search_query=Syllables%3A%20Counting%20the%20Beats%20in%20a%20Word%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=v8c_ZJEFfBE",
         "topic": "Phonics & Word Recognition",
         "quiz": [
           {
@@ -45222,6 +45223,7 @@ const curriculum: DayContent[] = [
         "summary": "Children practice counting by 5s (5, 10, 15, 20...) to build number patterns and prepare for later counting strategies.",
         "resourceLabel": "YouTube: Skip Counting by 5s",
         "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%205s%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=u-jNaApkLXM",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {
@@ -45282,6 +45284,7 @@ const curriculum: DayContent[] = [
         "summary": "Children compare baby, child, and grown-up stages of human life, noticing how our bodies and abilities change as we grow older.",
         "resourceLabel": "YouTube: Growing Up: How We Change as We Grow",
         "resourceUrl": "https://www.youtube.com/results?search_query=Growing%20Up%3A%20How%20We%20Change%20as%20We%20Grow%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2vUPhZUofco",
         "topic": "Human Body & Health",
         "quiz": [
           {
