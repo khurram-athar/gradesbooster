@@ -39696,6 +39696,7 @@
         "summary": "Grade 12 English strand: the campus novel is set within a university or college community and often satirizes academic ambition, institutional politics, and intellectual pretension, using the closed, hierarchical world of academia to explore broader questions of status, identity, and belonging.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=QMIvL8PUjf0",
         "quiz": [
           {
             "q": "What setting typically defines a campus novel?",
@@ -39756,6 +39757,7 @@
         "summary": "Grade 12 Advanced Functions strand: the law of large numbers states that as the number of independent trials of a random experiment increases, the sample average of the results converges toward the experiments true expected value, explaining why long-run frequencies stabilize even though individual outcomes remain unpredictable.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=VpuN8vCQ--M",
         "quiz": [
           {
             "q": "What does the law of large numbers describe as the number of independent trials increases?",
@@ -39816,6 +39818,21 @@
         "summary": "Grade 9 Math strand review: students revisit radical equations, the Euclidean algorithm, Bayes Theorem, z-scores, and continuity of functions from Days 131-139.",
         "resourceLabel": "YouTube: Math Review: Algebra, Number Theory, Statistics, and Calculus Preview",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Algebra%2C%20Number%20Theory%2C%20Statistics%2C%20and%20Calculus%20Preview%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pFFoAGIEyJc",
+        "videoUrls": [
+          {
+            "label": "Radical Equations",
+            "url": "https://www.youtube.com/watch?v=pFFoAGIEyJc"
+          },
+          {
+            "label": "Euclidean Algorithm",
+            "url": "https://www.youtube.com/watch?v=HjYzYVJNBFk"
+          },
+          {
+            "label": "Bayes' Theorem",
+            "url": "https://www.youtube.com/watch?v=cqTwHnNbc8g"
+          }
+        ],
         "quiz": [
           {
             "q": "What defines a radical equation?",
@@ -39875,6 +39892,7 @@
         "summary": "This lesson examines the Michelson interferometer, a device that splits a beam of light into two perpendicular paths using a beam splitter, reflects each off a mirror, and recombines them to produce an interference pattern sensitive to tiny path-length differences. You will explain how moving one mirror by a distance equal to a quarter wavelength shifts the interference pattern by one fringe, allowing precise measurement of wavelength (or, historically, testing for the existence of the luminiferous ether in the Michelson-Morley experiment).",
         "resourceLabel": "YouTube: The Michelson Interferometer: Measuring Wavelength with Interference",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Michelson%20Interferometer%3A%20Measuring%20Wavelength%20with%20Interference%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=j-u3IEgcTiQ",
         "quiz": [
           {
             "q": "In a Michelson interferometer, what is the function of the beam splitter?",

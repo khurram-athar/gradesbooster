@@ -39974,6 +39974,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: a collective noun names a group of people, animals, or things treated as a single unit, such as a flock of birds, a team of players, or a herd of cattle.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=rvNbD308XRo",
         "quiz": [
           {
             "q": "What is a collective noun?",
@@ -40034,6 +40035,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: water displacement is a method for finding the volume of an irregularly shaped object by submerging it in water and measuring the rise in water level, which equals the objects volume.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=e0geXKxeTn4",
         "quiz": [
           {
             "q": "What does the water displacement method measure?",
@@ -40094,6 +40096,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: bird beaks have evolved into a wide variety of shapes and sizes suited to different diets, such as long thin beaks for probing flowers, hooked beaks for tearing meat, and short strong beaks for cracking seeds.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=xEbRZs1L59E",
         "quiz": [
           {
             "q": "What is one factor that has shaped the variety of bird beak shapes?",

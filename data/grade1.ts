@@ -49266,6 +49266,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: a shape poem is a poem written so that the words form the outline of the object the poem is about, combining writing and art.",
         "resourceLabel": "YouTube: Shape Poems: Poetry You Can See",
         "resourceUrl": "https://www.youtube.com/results?search_query=Shape%20Poems%3A%20Poetry%20You%20Can%20See%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=c5niXJjnE94",
         "quiz": [
           {
             "q": "What makes a shape poem different from a regular poem?",
@@ -49513,6 +49514,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: grandparents and elders share wisdom, stories, and traditions with younger generations, helping communities remember their history.",
         "resourceLabel": "YouTube: Grandparents and Elders: Learning from Our Elders",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grandparents%20and%20Elders%3A%20Learning%20from%20Our%20Elders%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=H2AOg4-zyyo",
         "quiz": [
           {
             "q": "What can grandparents and elders often share with younger generations?",

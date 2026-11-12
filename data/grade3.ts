@@ -42534,6 +42534,17 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Language strand: the letters oa and ea can team up to make one vowel sound, as in boat and read.",
         "resourceLabel": "YouTube: Vowel Teams: oa and ea",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20oa%20and%20ea%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=e3rnxjGbC0w",
+        "videoUrls": [
+          {
+            "label": "OA/OE Vowel Team",
+            "url": "https://www.youtube.com/watch?v=e3rnxjGbC0w"
+          },
+          {
+            "label": "EA Vowel Team",
+            "url": "https://www.youtube.com/watch?v=hsxhnhxyIpE"
+          }
+        ],
         "quiz": [
           {
             "q": "Which word has the oa vowel team?",
@@ -42616,6 +42627,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Math strand: students make a reasonable guess about how many objects are in a jar before counting to check.",
         "resourceLabel": "YouTube: Estimating Quantities: About How Many in a Jar",
         "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Quantities%3A%20About%20How%20Many%20in%20a%20Jar%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xnUkIsdvfGY",
         "quiz": [
           {
             "q": "What does it mean to estimate how many objects are in a jar?",
@@ -42698,6 +42710,7 @@ const curriculum: DayContent[] = [
         "summary": "Students design a fair test comparing plants grown with and without light, changing only one variable at a time so the results can be trusted.",
         "resourceLabel": "YouTube: Science Inquiry: Fair Testing — What Do Plants Need to Grow Best?",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Inquiry%3A%20Fair%20Testing%20%E2%80%94%20What%20Do%20Plants%20Need%20to%20Grow%20Best%3F%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CmAfthg6DTw",
         "topic": "Scientific Inquiry & Skills",
         "quiz": [
           {
@@ -42758,6 +42771,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare the climate of Canada's physical regions -- such as the Arctic, the Prairies, and the Coastal Regions -- and explain how differences in temperature and precipitation shape the kinds of homes, clothing, and activities found in each.",
         "resourceLabel": "YouTube: Social Studies: Comparing Climate Across Canada's Regions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Comparing%20Climate%20Across%20Canada%27s%20Regions%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QqN-4naM5JI",
         "topic": "Canadian Geography & Regions",
         "quiz": [
           {

@@ -39764,6 +39764,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: a verse novel is a novel-length narrative told primarily through poetry rather than prose, combining the storytelling scope of a novel with the condensed, rhythmic, and imagistic qualities of poetic form.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=S3Yj_GxJAaA",
         "quiz": [
           {
             "q": "What is a verse novel?",
@@ -39823,6 +39824,7 @@ const curriculum: DayContent[] = [
         "summary": "Students identify the greatest common factor (GCF) of terms in a polynomial and use it to write the polynomial as a product of the GCF and a simpler polynomial.",
         "resourceLabel": "YouTube: Algebra: Common Factoring and the Greatest Common Factor",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Common%20Factoring%20and%20the%20Greatest%20Common%20Factor%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ynefQgfxZBs",
         "topic": "Polynomials & Factoring",
         "quiz": [
           {
@@ -39883,6 +39885,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: pollinators such as bees transfer pollen between flowers, supporting the reproduction of many food crops and wild plants, and colony collapse disorder is a phenomenon in which worker bees abruptly disappear from a hive, threatening pollination services and agricultural productivity.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=oz1Cz8ko8iY",
         "quiz": [
           {
             "q": "What role do pollinators such as bees play in ecosystems?",

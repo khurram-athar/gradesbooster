@@ -39885,6 +39885,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: foreshadowing plants early hints of events that will happen later in a narrative, while dramatic irony occurs when the audience knows something a character does not, and both techniques create suspense by shaping what a reader anticipates and how they interpret a characters choices.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=TCbk7GEYn2g",
+        "videoUrls": [
+          {
+            "label": "Foreshadowing",
+            "url": "https://www.youtube.com/watch?v=TCbk7GEYn2g"
+          },
+          {
+            "label": "Dramatic Irony",
+            "url": "https://www.youtube.com/watch?v=RZFYuX84n1U"
+          }
+        ],
         "quiz": [
           {
             "q": "What does foreshadowing do?",
@@ -39944,6 +39955,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand: variance measures how far a set of data values are spread out from their mean by averaging the squared differences between each value and the mean, giving more weight to values that are farther away.",
         "resourceLabel": "YouTube: Statistics: An Introduction to Variance",
         "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20An%20Introduction%20to%20Variance%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=x0rmUXWtSS8",
         "quiz": [
           {
             "q": "What does variance measure about a data set?",
@@ -40004,6 +40016,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn how the cohesion-tension theory explains the upward movement of water through xylem, driven by transpiration pulling on a continuous water column held together by hydrogen bonding between water molecules.",
         "resourceLabel": "YouTube: Plant Biology: Transpiration and the Cohesion-Tension Theory",
         "resourceUrl": "https://www.youtube.com/results?search_query=Plant%20Biology%3A%20Transpiration%20and%20the%20Cohesion-Tension%20Theory%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cytdEltpQtA",
         "topic": "Plants & Photosynthesis",
         "quiz": [
           {
@@ -40064,6 +40077,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: nonstick cookware coatings rely on fluoropolymers, long carbon-chain molecules bonded to fluorine atoms whose strong carbon-fluorine bonds resist chemical reaction and create an extremely low-friction surface that food will not readily stick to or react with.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=lA0ytKrWa_o",
         "quiz": [
           {
             "q": "What class of material do nonstick cookware coatings rely on?",

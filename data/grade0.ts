@@ -44951,6 +44951,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practice counting by 2s (2, 4, 6, 8...) to build early skip-counting skills and number pattern recognition.",
         "resourceLabel": "YouTube: Skip Counting by 2s",
         "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%202s%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qn5LxbYc9GI",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {
@@ -45072,6 +45073,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Social Studies strand: pilots are trained to safely fly airplanes, taking passengers and goods to cities and countries around the world.",
         "resourceLabel": "YouTube: Our Pilots: Flying Us to New Places",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Pilots%3A%20Flying%20Us%20to%20New%20Places%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Y_xjhJzdGKA",
         "quiz": [
           {
             "q": "What is the main job of a pilot?",

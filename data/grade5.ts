@@ -40801,6 +40801,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: paraphrasing means restating someone elses ideas in your own words while giving credit to the original source, while plagiarizing means using someone elses words or ideas without permission or credit.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=uAmm5YSe_us",
         "quiz": [
           {
             "q": "What does paraphrasing mean?",
@@ -40861,6 +40862,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: a loan is money borrowed that must be paid back over time, often in equal payments, and understanding loans helps students see how borrowing and repaying money works.",
         "resourceLabel": "YouTube: Financial Literacy: Understanding Simple Loans and Repayment",
         "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Understanding%20Simple%20Loans%20and%20Repayment%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=c9VFbAJRSv0",
         "quiz": [
           {
             "q": "What is a loan?",
@@ -40921,6 +40923,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: a hydrogen fuel cell produces electricity through a chemical reaction between hydrogen and oxygen, releasing mainly water vapour as a byproduct, offering a clean alternative energy source.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=1F8nNQLWlNc",
         "quiz": [
           {
             "q": "What does a hydrogen fuel cell produce through a chemical reaction?",
