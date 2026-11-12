@@ -34190,16 +34190,16 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "History",
-        "title": "The Old Age Pensions Act of 1927",
-        "summary": "Grade 10 History strand: the Old Age Pensions Act of 1927 established Canadas first federal old age pension program, providing modest, means-tested financial support to low-income seniors and marking an early step toward the modern Canadian social welfare system.",
+        "title": "The Founding of the CBC and Public Broadcasting in Canada, 1932-1936",
+        "summary": "Grade 10 History strand: after the Aird Commission of 1929 recommended public ownership of radio, the federal government created the Canadian Radio Broadcasting Commission in 1932 and then the Canadian Broadcasting Corporation (CBC) in 1936, a national public broadcaster meant to connect Canadians across a vast country and offer Canadian programming in English and French.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
-        "videoUrl": "https://www.youtube.com/watch?v=nXnc__mBD-o",
+        "videoUrl": "https://www.youtube.com/watch?v=A8CNeQns-bQ",
         "quiz": [
           {
-            "q": "In what year was the Old Age Pensions Act passed?",
+            "q": "In what year was the Canadian Broadcasting Corporation (CBC) created?",
             "options": [
-              "1927",
+              "1936",
               "1905",
               "1867",
               "1949"
@@ -34207,44 +34207,44 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What did the Old Age Pensions Act establish?",
+            "q": "Which 1929 commission recommended public ownership of radio broadcasting in Canada?",
             "options": [
-              "A national healthcare system for all Canadians",
-              "A national unemployment insurance program",
-              "Canadas first federal old age pension program",
-              "A federal minimum wage law"
+              "The Rowell-Sirois Commission",
+              "The Aird Commission",
+              "The Massey Commission",
+              "The Durham Commission"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Who was eligible to receive support under the original Old Age Pensions Act?",
+            "q": "Why did many Canadians want a public broadcaster?",
             "options": [
-              "Only federal government employees",
-              "Only wealthy retired business owners",
-              "All Canadians regardless of age or income",
-              "Low-income seniors, based on a means test"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The Old Age Pensions Act is considered an early step toward what broader system?",
-            "options": [
-              "The modern Canadian social welfare system",
-              "The Canadian tax appeals system",
-              "The provincial court system",
-              "The Canadian military justice system"
+              "To provide national programming and reduce the dominance of American stations",
+              "To replace all newspapers with radio",
+              "To make radios illegal in rural areas",
+              "To raise taxes on imported cars"
             ],
             "answer": 0
           },
           {
-            "q": "What term describes a program that provides benefits based on an applicants income level?",
+            "q": "Which body was created in 1932 before the CBC?",
             "options": [
-              "Privately insured only",
-              "Universally funded with no conditions",
-              "Available only to corporations",
-              "Means-tested"
+              "The Bank of Canada",
+              "The Canadian Radio Broadcasting Commission",
+              "The Canadian Wheat Board",
+              "The North-West Mounted Police"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "What best describes the CBC?",
+            "options": [
+              "A privately owned American network",
+              "A national public broadcaster with English and French services",
+              "A provincial police force",
+              "A federal tax agency"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -35208,7 +35208,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "History Review: Institution-Building in Early Twentieth-Century Canada",
-        "summary": "Grade 10 History strand review: students revisit the founding of the North-West Mounted Police, the Bluenose's famous racing career, the Income War Tax Act of 1917, the formation of Canadian National Railways, the Group of Seven art movement, the Old Age Pensions Act, the prohibition and temperance movement, Newfoundlands Commission of Government, and the founding of the Bank of Canada.",
+        "summary": "Grade 10 History strand review: students revisit the founding of the North-West Mounted Police, the Bluenose's famous racing career, the Income War Tax Act of 1917, the formation of Canadian National Railways, the Group of Seven art movement, the founding of the CBC and public broadcasting, the prohibition and temperance movement, Newfoundlands Commission of Government, and the founding of the Bank of Canada.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
         "quiz": [
@@ -35243,9 +35243,9 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What did the Old Age Pensions Act establish?",
+            "q": "What did the Canadian Broadcasting Act of 1936 create?",
             "options": [
-              "Canadas first federal old age pension program",
+              "The CBC as a national public broadcaster",
               "A federal minimum wage law",
               "A national healthcare system for all Canadians",
               "A national unemployment insurance program"
@@ -38766,61 +38766,61 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Media Literacy: Analyzing Reality Television",
-        "summary": "Grade 10 English strand: reality television presents seemingly unscripted footage of real people in constructed situations, edited and structured by producers to build narrative tension, conflict, and character arcs for entertainment rather than to provide an unfiltered record of events.",
+        "title": "Media Literacy: Representation and Stereotypes in Media",
+        "summary": "Grade 10 English strand: representation is how people, groups, and ideas are portrayed in media, and stereotypes are oversimplified portrayals repeated so often that they can shape how audiences see others and themselves; media-literate viewers ask who is shown, who is missing, and who created the message.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
-        "videoUrl": "https://www.youtube.com/watch?v=PEy3EbLI6Ws",
+        "videoUrl": "https://www.youtube.com/watch?v=kVAztNx0rHQ",
         "quiz": [
           {
-            "q": "What does reality television present to viewers?",
+            "q": "In media literacy, what does \"representation\" mean?",
             "options": [
-              "A purely animated program with no real participants",
-              "Seemingly unscripted footage of real people in constructed situations",
-              "Fully scripted dialogue performed by professional actors only",
-              "A live unedited broadcast with no post-production of any kind"
+              "How much money a media company earns",
+              "How people, groups, and ideas are portrayed in media",
+              "The number of viewers a program has",
+              "The length of a media text"
             ],
             "answer": 1
           },
           {
-            "q": "What role do producers typically play in shaping reality television?",
+            "q": "What is a stereotype?",
             "options": [
-              "They eliminate all editing from the final program",
-              "They appear on screen as the only visible participants",
-              "They edit and structure footage to build narrative tension and conflict",
-              "They have no involvement in the final broadcast whatsoever"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might reality television not provide an unfiltered record of events?",
-            "options": [
-              "Because reality television contains no editing decisions at all",
-              "Because editing choices shape which moments are shown and how they are framed",
-              "Because reality television is always broadcast completely live with no editing",
-              "Because participants are never aware they are being filmed"
+              "A fact that is true of every member of a group",
+              "An oversimplified, fixed idea about a group of people",
+              "A type of camera shot",
+              "A rule about how to write a headline"
             ],
             "answer": 1
           },
           {
-            "q": "What is a common narrative technique used in reality television editing?",
+            "q": "Why can repeated stereotypes in media be harmful?",
             "options": [
-              "Presenting footage in a random order with no structure",
-              "Building a character arc or storyline through selective editing across episodes",
-              "Removing every participant from the final broadcast",
-              "Avoiding any depiction of conflict whatsoever"
+              "They make media texts shorter",
+              "They can shape how audiences see certain groups and how people see themselves",
+              "They always make stories more accurate",
+              "They prevent anyone from using social media"
             ],
             "answer": 1
           },
           {
-            "q": "Why is media literacy useful when watching reality television?",
+            "q": "Which question best helps you analyze representation in a media text?",
             "options": [
-              "It guarantees that reality television contains no editing of any kind",
-              "It removes any need to think critically about televised content",
-              "It proves that reality television is always a fully accurate record",
-              "It helps viewers recognize the constructed and edited nature of what appears to be unscripted content"
+              "Who is shown, who is missing, and how are they portrayed?",
+              "How many commercials are in the program?",
+              "What font does the title use?",
+              "How long is the credit sequence?"
             ],
-            "answer": 3
+            "answer": 0
+          },
+          {
+            "q": "What is one way media creators can improve representation?",
+            "options": [
+              "Use the same familiar character types in every story",
+              "Include a wider range of voices and perspectives in telling stories",
+              "Avoid showing any real communities",
+              "Remove all characters from the story"
+            ],
+            "answer": 1
           }
         ],
         "topic": "Media Literacy"
@@ -40004,7 +40004,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "English Review: Grammar, Reading, and Literary Forms (Days 151-159)",
-        "summary": "Grade 10 English strand review: students revisit subordinate clauses and complex sentences, tone shifts in poetry, the character sketch, the picaresque novel, reality television, sentence types, pastoral imagery, the news report, and the verse novel.",
+        "summary": "Grade 10 English strand review: students revisit subordinate clauses and complex sentences, tone shifts in poetry, the character sketch, the picaresque novel, representation and stereotypes in media, sentence types, pastoral imagery, the news report, and the verse novel.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
         "quiz": [
@@ -52236,14 +52236,14 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: The Old Age Pensions Act of 1927; Prohibition in Canada: The Rise and Fall of the Temperance Movement; Newfoundland and the Commission of Government of 1934; The Founding of the Bank of Canada in 1934-1935.",
+        "summary": "Practice recap covering: The Founding of the CBC and Public Broadcasting in Canada, 1932-1936; Prohibition in Canada: The Rise and Fall of the Temperance Movement; Newfoundland and the Commission of Government of 1934; The Founding of the Bank of Canada in 1934-1935.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
           {
-            "q": "In what year was the Old Age Pensions Act passed?",
+            "q": "In what year was the Canadian Broadcasting Corporation (CBC) created?",
             "options": [
-              "1927",
+              "1936",
               "1905",
               "1867",
               "1949"
@@ -52905,7 +52905,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Writing: The Character Sketch; Grammar: Verbals — Gerunds, Participles, and Infinitives; Media Literacy: Analyzing Reality Television; Grammar: Simple, Compound, Complex, and Compound-Complex Sentences.",
+        "summary": "Practice recap covering: Writing: The Character Sketch; Grammar: Verbals — Gerunds, Participles, and Infinitives; Media Literacy: Representation and Stereotypes in Media; Grammar: Simple, Compound, Complex, and Compound-Complex Sentences.",
         "resourceLabel": "TVO Learn: Grade 10 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -52940,14 +52940,14 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What editing technique do reality television producers often use to manufacture conflict between cast members?",
+            "q": "Which question best helps you analyze how a group is represented in a media text?",
             "options": [
-              "Filming exclusively in black and white",
-              "Selectively splicing footage out of chronological order to create tension",
-              "Refusing to use any dialogue at all",
-              "Airing episodes live with no editing whatsoever"
+              "Who is shown, who is missing, and how are they portrayed?",
+              "How many commercials are in the program?",
+              "What font does the title use?",
+              "How long is the credit sequence?"
             ],
-            "answer": 1
+            "answer": 0
           }
         ]
       },
