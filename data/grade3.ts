@@ -43549,6 +43549,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that plants have different lifespans — some complete their life cycle in one season, some in two, and some live and regrow for many years.",
         "resourceLabel": "YouTube: Science: Annual, Biennial, and Perennial Plants",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Annual%2C%20Biennial%2C%20and%20Perennial%20Plants%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vCseJse0I2w",
         "topic": "Life Cycles & Growth",
         "quiz": [
           {
