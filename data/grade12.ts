@@ -40483,6 +40483,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: the revenge tragedy is a dramatic genre, prominent on the Elizabethan and Jacobean stage, centred on a protagonist who pursues vengeance for a grievous wrong, typically a murder, and moves through intrigue, madness, and violence toward a climactic and often devastating bloodbath.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=57rgVdvya4w",
         "quiz": [
           {
             "q": "What central action drives the plot of a revenge tragedy?",

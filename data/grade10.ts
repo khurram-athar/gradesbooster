@@ -7658,7 +7658,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: examining specific Canadian peacekeeping missions, such as those in Cyprus or the former Yugoslavia, illustrates the practical challenges and impact of Canada’s international peacekeeping role.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
-        "videoUrl": "https://www.youtube.com/watch?v=_SzpgL1g8RA",
+        "videoUrl": "https://www.youtube.com/watch?v=CSHjbIaVR5Y",
         "quiz": [
           {
             "q": "Case studies of Canadian peacekeeping missions help illustrate ___.",

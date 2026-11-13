@@ -1,0 +1,5597 @@
+{
+  "note": "Fills found defective in the 2026-11-06 audit. Replace each (new search, must pass the Step 2 verification gate), update .ts + .json, then delete the entry. bad_id may also appear in other lessons of the same grade; replace it everywhere it is listed here. ORDER: process items top to bottom (broken/deleted first, then <1min clips, then >15min videos longest first). Khurram approved fixing all of them on 2026-11-06. For long/short items the replacement must be 2:00-15:00 and on-topic for the lesson title; for the same bad_id in a Review lesson of the same grade, reuse the replacement already chosen. Remove an entry once fixed and committed. Long videos up to 16:00 are deliberately LEFT in place (Khurram, 2026-11-06). PRIORITY POLICY (Khurram, 2026-11-06): broken items (reason is not 'long:' or 'short:') go FIRST and may use the whole day's search budget; then 'short:' items. While any broken or short item remains, do NOT work on 'long:' items or new backlog. Once only 'long:' items remain, spend at most HALF of the day's search budget on them (top to bottom, longest first) and use the other half for new backlog fills (Step 0g). Items with needs_human=true are SKIPPED (Khurram/Claude decide the topic).",
+  "items": [
+    {
+      "grade": 11,
+      "day": 28,
+      "subject": "Chemistry",
+      "bad_id": "5yw1YH7YA7c",
+      "reason": "long: 2:19:08 (allowed 2:00-15:00)",
+      "title": "Chemistry Final Exam"
+    },
+    {
+      "grade": 12,
+      "day": 14,
+      "subject": "Physics",
+      "bad_id": "CwkhvFlNFp0",
+      "reason": "long: 1:58:55 (allowed 2:00-15:00)",
+      "title": "Physics Final Assessment Review"
+    },
+    {
+      "grade": 12,
+      "day": 58,
+      "subject": "English",
+      "bad_id": "31CcclqEiZw",
+      "reason": "long: 1:35:44 (allowed 2:00-15:00)",
+      "title": "Comparing Dystopian Visions: Brave New World vs. Nineteen Eighty-Four"
+    },
+    {
+      "grade": 11,
+      "day": 30,
+      "subject": "Functions",
+      "bad_id": "Sw9O7el5HVU",
+      "reason": "long: 1:32:44 (allowed 2:00-15:00)",
+      "title": "Grade 11 Functions: Final Day"
+    },
+    {
+      "grade": 11,
+      "day": 27,
+      "subject": "Chemistry",
+      "bad_id": "cQ4mxWeQCQU",
+      "reason": "long: 1:29:13 (allowed 2:00-15:00)",
+      "title": "Chemistry Culminating: Final Assessment and Reflection"
+    },
+    {
+      "grade": 12,
+      "day": 8,
+      "subject": "Physics",
+      "bad_id": "csMqfwJRjCs",
+      "reason": "long: 1:22:40 (allowed 2:00-15:00)",
+      "title": "Magnetic Fields and Forces"
+    },
+    {
+      "grade": 12,
+      "day": 20,
+      "subject": "English",
+      "bad_id": "vtIzMaLkCaM",
+      "reason": "long: 1:21:52 (allowed 2:00-15:00)",
+      "title": "The Research Essay: Argument and Evidence at University Leve"
+    },
+    {
+      "grade": 12,
+      "day": 3,
+      "subject": "AdvancedFunctions",
+      "bad_id": "oqHJ5xQYTEI",
+      "reason": "long: 1:20:06 (allowed 2:00-15:00)",
+      "title": "Exponential and Logarithmic Functions: Advanced Applications"
+    },
+    {
+      "grade": 10,
+      "day": 59,
+      "subject": "English",
+      "bad_id": "G2q2lGtDa18",
+      "reason": "long: 1:19:41 (allowed 2:00-15:00)",
+      "title": "Literature: War Literature and Testimony"
+    },
+    {
+      "grade": 10,
+      "day": 60,
+      "subject": "English",
+      "bad_id": "G2q2lGtDa18",
+      "reason": "long: 1:19:41 (allowed 2:00-15:00)",
+      "title": "Review: Narrative Forms, Rhetoric, and War Literature"
+    },
+    {
+      "grade": 12,
+      "day": 86,
+      "subject": "Calculus",
+      "bad_id": "6-on6Ra0Elg",
+      "reason": "long: 1:19:07 (allowed 2:00-15:00)",
+      "title": "Vectors in Three Dimensions"
+    },
+    {
+      "grade": 12,
+      "day": 148,
+      "subject": "Physics",
+      "bad_id": "2Zu3ppq3n8I",
+      "reason": "long: 1:17:34 (allowed 2:00-15:00)",
+      "title": "Kirchhoff's Voltage and Current Laws in Multi-Loop Circuits"
+    },
+    {
+      "grade": 9,
+      "day": 29,
+      "subject": "SocialStudies",
+      "bad_id": "XccYJvOL4to",
+      "reason": "long: 1:17:05 (allowed 2:00-15:00)",
+      "title": "Geographic Inquiry Project Design (Capstone Skill)"
+    },
+    {
+      "grade": 12,
+      "day": 29,
+      "subject": "AdvancedFunctions",
+      "bad_id": "fDmjiV_Tx-E",
+      "reason": "long: 1:15:04 (allowed 2:00-15:00)",
+      "title": "Advanced Functions: Final Reflection and Looking Forward"
+    },
+    {
+      "grade": 8,
+      "day": 29,
+      "subject": "Science",
+      "bad_id": "Ldt5WT5fduQ",
+      "reason": "long: 1:14:03 (allowed 2:00-15:00)",
+      "title": "Science: Year Review and Looking Forward"
+    },
+    {
+      "grade": 11,
+      "day": 15,
+      "subject": "Biology",
+      "bad_id": "g36IqWvXxqU",
+      "reason": "long: 1:12:59 (allowed 2:00-15:00)",
+      "title": "Biology: Final Exam Preparation"
+    },
+    {
+      "grade": 10,
+      "day": 12,
+      "subject": "Math",
+      "bad_id": "Veb22xD0Ao0",
+      "reason": "long: 1:10:54 (allowed 2:00-15:00)",
+      "title": "Review: Quadratics, Trigonometry, and Analytic Geometry"
+    },
+    {
+      "grade": 10,
+      "day": 15,
+      "subject": "Math",
+      "bad_id": "Veb22xD0Ao0",
+      "reason": "long: 1:10:54 (allowed 2:00-15:00)",
+      "title": "Review: Grade 10 Math Comprehensive"
+    },
+    {
+      "grade": 10,
+      "day": 22,
+      "subject": "Math",
+      "bad_id": "Veb22xD0Ao0",
+      "reason": "long: 1:10:54 (allowed 2:00-15:00)",
+      "title": "Exam Preparation: Grade 10 Mathematics Review"
+    },
+    {
+      "grade": 10,
+      "day": 50,
+      "subject": "Math",
+      "bad_id": "Veb22xD0Ao0",
+      "reason": "long: 1:10:54 (allowed 2:00-15:00)",
+      "title": "Mixed Review: Quadratics, Trigonometry, and Analytic Geometry"
+    },
+    {
+      "grade": 10,
+      "day": 14,
+      "subject": "Science",
+      "bad_id": "EjbSulQogIA",
+      "reason": "long: 1:08:46 (allowed 2:00-15:00)",
+      "title": "Science Review: Connecting Chemistry, Biology, Physics"
+    },
+    {
+      "grade": 10,
+      "day": 29,
+      "subject": "Science",
+      "bad_id": "EjbSulQogIA",
+      "reason": "long: 1:08:46 (allowed 2:00-15:00)",
+      "title": "Science: Exam Preparation and Review"
+    },
+    {
+      "grade": 11,
+      "day": 40,
+      "subject": "Functions",
+      "bad_id": "Vk8-ezhw6YE",
+      "reason": "long: 1:05:57 (allowed 2:00-15:00)",
+      "title": "Review: Functions, Trigonometry, and Financial Math"
+    },
+    {
+      "grade": 12,
+      "day": 50,
+      "subject": "AdvancedFunctions",
+      "bad_id": "lx8RcYcYVuU",
+      "reason": "long: 1:04:56 (allowed 2:00-15:00)",
+      "title": "Review: Grade 12 Advanced Functions -- Comprehensive Synthesis"
+    },
+    {
+      "grade": 12,
+      "day": 50,
+      "subject": "AdvancedFunctions",
+      "bad_id": "J6TnZxUUzqU",
+      "reason": "long: 1:04:47 (allowed 2:00-15:00)",
+      "title": "Review: Grade 12 Advanced Functions -- Comprehensive Synthesis"
+    },
+    {
+      "grade": 11,
+      "day": 64,
+      "subject": "Functions",
+      "bad_id": "_Pyi12dn4Kw",
+      "reason": "long: 1:03:24 (allowed 2:00-15:00)",
+      "title": "Statistics: Measures of Central Tendency and Spread"
+    },
+    {
+      "grade": 10,
+      "day": 48,
+      "subject": "Math",
+      "bad_id": "4Gq3LPORQ-U",
+      "reason": "long: 1:02:48 (allowed 2:00-15:00)",
+      "title": "Simplifying and Operating with Radicals"
+    },
+    {
+      "grade": 12,
+      "day": 3,
+      "subject": "Physics",
+      "bad_id": "_MR1Dp8-F8w",
+      "reason": "long: 1:01:44 (allowed 2:00-15:00)",
+      "title": "Work, Energy, and Power: Advanced Applications"
+    },
+    {
+      "grade": 10,
+      "day": 67,
+      "subject": "History",
+      "bad_id": "lcqXufK5yYw",
+      "reason": "long: 1:01:44 (allowed 2:00-15:00)",
+      "title": "The Air India Bombing and Its Legacy"
+    },
+    {
+      "grade": 9,
+      "day": 41,
+      "subject": "SocialStudies",
+      "bad_id": "6CMVLyQs5nA",
+      "reason": "long: 1:00:36 (allowed 2:00-15:00)",
+      "title": "Geography of Conflict: Resource Wars and Water Scarcity"
+    },
+    {
+      "grade": 11,
+      "day": 53,
+      "subject": "Biology",
+      "bad_id": "UkkQRtxlEwI",
+      "reason": "long: 1:00:10 (allowed 2:00-15:00)",
+      "title": "Biology: Circadian Rhythms and Biological Clocks"
+    },
+    {
+      "grade": 1,
+      "day": 50,
+      "subject": "Math",
+      "bad_id": "8cR_1Qi-tP4",
+      "reason": "long: 59:22 (allowed 2:00-15:00)",
+      "title": "Math Review: Facts, Patterns, and Time"
+    },
+    {
+      "grade": 5,
+      "day": 50,
+      "subject": "Math",
+      "bad_id": "Cvy0A0jAWHU",
+      "reason": "long: 59:01 (allowed 2:00-15:00)",
+      "title": "Review: Fractions, Percent, Integers, and Geometry"
+    },
+    {
+      "grade": 5,
+      "day": 160,
+      "subject": "Math",
+      "bad_id": "Cvy0A0jAWHU",
+      "reason": "long: 59:01 (allowed 2:00-15:00)",
+      "title": "Math Review: Geometry, Number Sense, Algebra, and Measurement"
+    },
+    {
+      "grade": 5,
+      "day": 170,
+      "subject": "Math",
+      "bad_id": "Cvy0A0jAWHU",
+      "reason": "long: 59:01 (allowed 2:00-15:00)",
+      "title": "Math Review: Geometry, Algebra, Measurement, and Data"
+    },
+    {
+      "grade": 7,
+      "day": 13,
+      "subject": "SocialStudies",
+      "bad_id": "SMAAoyie6KY",
+      "reason": "long: 58:16 (allowed 2:00-15:00)",
+      "title": "Residential Schools and Truth and Reconciliation"
+    },
+    {
+      "grade": 7,
+      "day": 40,
+      "subject": "Math",
+      "bad_id": "oJo2M6KovGM",
+      "reason": "long: 58:08 (allowed 2:00-15:00)",
+      "title": "Number Theory: GCF and LCM"
+    },
+    {
+      "grade": 7,
+      "day": 180,
+      "subject": "Math",
+      "bad_id": "oJo2M6KovGM",
+      "reason": "long: 58:08 (allowed 2:00-15:00)",
+      "title": "Math Review: Systems, Number Theory, and Geometry (Days 171-179)"
+    },
+    {
+      "grade": 7,
+      "day": 187,
+      "subject": "Math",
+      "bad_id": "oJo2M6KovGM",
+      "reason": "long: 58:08 (allowed 2:00-15:00)",
+      "title": "Math Capstone Review: Geometry, Number Theory, Algebra, and Data Management (Days 181-186)"
+    },
+    {
+      "grade": 12,
+      "day": 29,
+      "subject": "Calculus",
+      "bad_id": "I3GWzXRectE",
+      "reason": "long: 58:03 (allowed 2:00-15:00)",
+      "title": "Calculus: Final Reflection and University Preparation"
+    },
+    {
+      "grade": 11,
+      "day": 27,
+      "subject": "Biology",
+      "bad_id": "2046MMjLhMY",
+      "reason": "long: 57:23 (allowed 2:00-15:00)",
+      "title": "Biology Culminating: Final Assessment and Reflection"
+    },
+    {
+      "grade": 12,
+      "day": 1,
+      "subject": "AdvancedFunctions",
+      "bad_id": "5fOavu0X1Z0",
+      "reason": "long: 57:17 (allowed 2:00-15:00)",
+      "title": "Polynomial Functions: Deep Dive into Graphs and Equations"
+    },
+    {
+      "grade": 10,
+      "day": 115,
+      "subject": "History",
+      "bad_id": "N87z5Ndv2o4",
+      "reason": "long: 57:03 (allowed 2:00-15:00)",
+      "title": "The St. Lawrence Seaway"
+    },
+    {
+      "grade": 8,
+      "day": 148,
+      "subject": "History",
+      "bad_id": "ZM3h_cSJ4Lw",
+      "reason": "long: 56:41 (allowed 2:00-15:00)",
+      "title": "The Yukon Act of 1898 and the Creation of Yukon Territory"
+    },
+    {
+      "grade": 12,
+      "day": 118,
+      "subject": "AdvancedFunctions",
+      "bad_id": "pxfNOyZrXB8",
+      "reason": "long: 55:52 (allowed 2:00-15:00)",
+      "title": "Discrete Math: Farey Sequences and Mediants"
+    },
+    {
+      "grade": 11,
+      "day": 51,
+      "subject": "Chemistry",
+      "bad_id": "ljbtbnAh5cc",
+      "reason": "long: 54:54 (allowed 2:00-15:00)",
+      "title": "Chemistry: Nomenclature of Inorganic Compounds"
+    },
+    {
+      "grade": 12,
+      "day": 53,
+      "subject": "Calculus",
+      "bad_id": "FIbpibkywmk",
+      "reason": "long: 54:42 (allowed 2:00-15:00)",
+      "title": "Calculus: Linear Approximation and Differentials"
+    },
+    {
+      "grade": 12,
+      "day": 47,
+      "subject": "Calculus",
+      "bad_id": "15awMHeP1Yc",
+      "reason": "long: 54:18 (allowed 2:00-15:00)",
+      "title": "Curve Sketching: Using Sign Charts to Determine Concavity"
+    },
+    {
+      "grade": 10,
+      "day": 59,
+      "subject": "History",
+      "bad_id": "nMyiTRMDp_c",
+      "reason": "long: 53:46 (allowed 2:00-15:00)",
+      "title": "Canada\u2019s Role in Afghanistan"
+    },
+    {
+      "grade": 12,
+      "day": 26,
+      "subject": "Physics",
+      "bad_id": "b1t41Q3xRM8",
+      "reason": "long: 53:37 (allowed 2:00-15:00)",
+      "title": "Physics: Comprehensive Review"
+    },
+    {
+      "grade": 12,
+      "day": 27,
+      "subject": "Physics",
+      "bad_id": "b1t41Q3xRM8",
+      "reason": "long: 53:37 (allowed 2:00-15:00)",
+      "title": "Physics: Final Exam Preparation"
+    },
+    {
+      "grade": 12,
+      "day": 69,
+      "subject": "Physics",
+      "bad_id": "b1t41Q3xRM8",
+      "reason": "long: 53:37 (allowed 2:00-15:00)",
+      "title": "Review: Chemistry, Physics, and Biology Applications"
+    },
+    {
+      "grade": 11,
+      "day": 50,
+      "subject": "Chemistry",
+      "bad_id": "J4WJCYpTYj8",
+      "reason": "long: 53:22 (allowed 2:00-15:00)",
+      "title": "Review: Intermolecular Forces, Equilibrium, and Organic Chemistry"
+    },
+    {
+      "grade": 8,
+      "day": 90,
+      "subject": "History",
+      "bad_id": "aIc8UC5J5Vs",
+      "reason": "long: 52:57 (allowed 2:00-15:00)",
+      "title": "Social Studies: The Avro Arrow \u2014 A Canadian Aviation Story"
+    },
+    {
+      "grade": 4,
+      "day": 31,
+      "subject": "Science",
+      "bad_id": "w4Xw0M2QWJ4",
+      "reason": "long: 51:48 (allowed 2:00-15:00)",
+      "title": "Species at Risk in Canadian Ecosystems"
+    },
+    {
+      "grade": 11,
+      "day": 49,
+      "subject": "Functions",
+      "bad_id": "CjF_yQ2N638",
+      "reason": "long: 51:03 (allowed 2:00-15:00)",
+      "title": "Review: Radicals, Statistics, and Vectors"
+    },
+    {
+      "grade": 11,
+      "day": 49,
+      "subject": "Functions",
+      "bad_id": "l9ioZA9brtc",
+      "reason": "long: 50:03 (allowed 2:00-15:00)",
+      "title": "Review: Radicals, Statistics, and Vectors"
+    },
+    {
+      "grade": 7,
+      "day": 56,
+      "subject": "SocialStudies",
+      "bad_id": "WTAC2t-Bsas",
+      "reason": "long: 49:51 (allowed 2:00-15:00)",
+      "title": "Canada\u2019s National Parks and Environmental Policy"
+    },
+    {
+      "grade": 7,
+      "day": 177,
+      "subject": "SocialStudies",
+      "bad_id": "WTAC2t-Bsas",
+      "reason": "long: 49:51 (allowed 2:00-15:00)",
+      "title": "Social Studies Review: Parks, Government, and Canadian History"
+    },
+    {
+      "grade": 10,
+      "day": 46,
+      "subject": "Science",
+      "bad_id": "iuxaJKwDdGA",
+      "reason": "long: 49:50 (allowed 2:00-15:00)",
+      "title": "Homeostasis and the Endocrine System"
+    },
+    {
+      "grade": 0,
+      "day": 149,
+      "subject": "SocialStudies",
+      "bad_id": "Uh332gXQYI4",
+      "reason": "long: 49:35 (allowed 2:00-15:00)",
+      "title": "World Landmarks: Famous Places Around the World"
+    },
+    {
+      "grade": 11,
+      "day": 138,
+      "subject": "English",
+      "bad_id": "o0eyPymT2LU",
+      "reason": "long: 49:18 (allowed 2:00-15:00)",
+      "title": "Literature: The Doppelganger Motif in Fiction"
+    },
+    {
+      "grade": 10,
+      "day": 30,
+      "subject": "Math",
+      "bad_id": "vSfKV5rlPRs",
+      "reason": "long: 49:15 (allowed 2:00-15:00)",
+      "title": "Grade 10 Math: Final Celebration and Reflection"
+    },
+    {
+      "grade": 5,
+      "day": 57,
+      "subject": "Science",
+      "bad_id": "FCxCkXI4fc8",
+      "reason": "long: 49:01 (allowed 2:00-15:00)",
+      "title": "Natural Disasters and Their Causes"
+    },
+    {
+      "grade": 5,
+      "day": 180,
+      "subject": "Science",
+      "bad_id": "FCxCkXI4fc8",
+      "reason": "long: 49:01 (allowed 2:00-15:00)",
+      "title": "Science Review: Natural Disasters, Ecosystems, and Energy"
+    },
+    {
+      "grade": 10,
+      "day": 37,
+      "subject": "Science",
+      "bad_id": "fCALoYT5Z7I",
+      "reason": "long: 48:48 (allowed 2:00-15:00)",
+      "title": "Earth Science: Climate Systems and Modelling"
+    },
+    {
+      "grade": 10,
+      "day": 120,
+      "subject": "Science",
+      "bad_id": "fCALoYT5Z7I",
+      "reason": "long: 48:48 (allowed 2:00-15:00)",
+      "title": "Science Review: Senses, Chemistry, and Earth Science"
+    },
+    {
+      "grade": 10,
+      "day": 130,
+      "subject": "Science",
+      "bad_id": "fCALoYT5Z7I",
+      "reason": "long: 48:48 (allowed 2:00-15:00)",
+      "title": "Science Review: Human Biology, Chemistry, and Earth Science"
+    },
+    {
+      "grade": 10,
+      "day": 140,
+      "subject": "Science",
+      "bad_id": "fCALoYT5Z7I",
+      "reason": "long: 48:48 (allowed 2:00-15:00)",
+      "title": "Science Review: Cell Processes, Chemistry, and Earth Systems"
+    },
+    {
+      "grade": 10,
+      "day": 170,
+      "subject": "Science",
+      "bad_id": "fCALoYT5Z7I",
+      "reason": "long: 48:48 (allowed 2:00-15:00)",
+      "title": "Science Review: Chemistry, Physics, Earth Science, and Biology (Days 161-169)"
+    },
+    {
+      "grade": 10,
+      "day": 180,
+      "subject": "Science",
+      "bad_id": "fCALoYT5Z7I",
+      "reason": "long: 48:48 (allowed 2:00-15:00)",
+      "title": "Science Review: Physics, Chemistry, Earth Science, and Biology (Days 171-179)"
+    },
+    {
+      "grade": 10,
+      "day": 187,
+      "subject": "Science",
+      "bad_id": "fCALoYT5Z7I",
+      "reason": "long: 48:48 (allowed 2:00-15:00)",
+      "title": "Science Review: The Final Review -- Physics, Chemistry, Earth Science, and Biology (Days 181-186)"
+    },
+    {
+      "grade": 11,
+      "day": 44,
+      "subject": "Chemistry",
+      "bad_id": "-LgfjlHqYKs",
+      "reason": "long: 48:40 (allowed 2:00-15:00)",
+      "title": "Organic Chemistry: Esters, Amides, and Biological Relevance"
+    },
+    {
+      "grade": 11,
+      "day": 44,
+      "subject": "Functions",
+      "bad_id": "4Up5gsDeluw",
+      "reason": "long: 48:10 (allowed 2:00-15:00)",
+      "title": "Functions: Rate of Change -- Average vs Instantaneous"
+    },
+    {
+      "grade": 8,
+      "day": 138,
+      "subject": "History",
+      "bad_id": "QYoIkoec8Tc",
+      "reason": "long: 47:40 (allowed 2:00-15:00)",
+      "title": "Wilfrid Laurier and the Growth of Canada in the Early 1900s"
+    },
+    {
+      "grade": 8,
+      "day": 140,
+      "subject": "History",
+      "bad_id": "QYoIkoec8Tc",
+      "reason": "long: 47:40 (allowed 2:00-15:00)",
+      "title": "History Review: Confederation Expansion and Institutions (Days 131-139)"
+    },
+    {
+      "grade": 10,
+      "day": 107,
+      "subject": "History",
+      "bad_id": "rVtkZHnJedw",
+      "reason": "long: 44:46 (allowed 2:00-15:00)",
+      "title": "The Acadian Expulsion (Le Grand D\u00e9rangement)"
+    },
+    {
+      "grade": 10,
+      "day": 118,
+      "subject": "History",
+      "bad_id": "whDXkZsykPc",
+      "reason": "long: 44:44 (allowed 2:00-15:00)",
+      "title": "The Nisgaa Treaty and Modern Land Claims"
+    },
+    {
+      "grade": 10,
+      "day": 120,
+      "subject": "History",
+      "bad_id": "whDXkZsykPc",
+      "reason": "long: 44:44 (allowed 2:00-15:00)",
+      "title": "History Review: Canadian Autonomy and Modern Land Claims"
+    },
+    {
+      "grade": 8,
+      "day": 9,
+      "subject": "History",
+      "bad_id": "b-sTWJkmqpM",
+      "reason": "long: 44:30 (allowed 2:00-15:00)",
+      "title": "World War I: Canada's Experience"
+    },
+    {
+      "grade": 11,
+      "day": 42,
+      "subject": "English",
+      "bad_id": "PxgY9q_vuJw",
+      "reason": "long: 44:15 (allowed 2:00-15:00)",
+      "title": "Writing: The Op-Ed and Public Argument"
+    },
+    {
+      "grade": 6,
+      "day": 22,
+      "subject": "Math",
+      "bad_id": "GqHWdTLL8Qw",
+      "reason": "long: 43:51 (allowed 2:00-15:00)",
+      "title": "Geometry: Transformations"
+    },
+    {
+      "grade": 11,
+      "day": 129,
+      "subject": "English",
+      "bad_id": "vLn_wmedmT0",
+      "reason": "long: 43:24 (allowed 2:00-15:00)",
+      "title": "Reading: Comparing Translations of a Text"
+    },
+    {
+      "grade": 9,
+      "day": 1,
+      "subject": "Math",
+      "bad_id": "nuEvGRc6xBo",
+      "reason": "long: 43:21 (allowed 2:00-15:00)",
+      "title": "Algebraic Expressions Review"
+    },
+    {
+      "grade": 12,
+      "day": 6,
+      "subject": "English",
+      "bad_id": "H-wDC1EeSFQ",
+      "reason": "long: 42:30 (allowed 2:00-15:00)",
+      "title": "Literature: Poetry \u2014 The Lyric Tradition"
+    },
+    {
+      "grade": 10,
+      "day": 20,
+      "subject": "Science",
+      "bad_id": "B_ketdzJtY8",
+      "reason": "long: 41:56 (allowed 2:00-15:00)",
+      "title": "Chemistry: Organic Chemistry Introduction"
+    },
+    {
+      "grade": 10,
+      "day": 22,
+      "subject": "Science",
+      "bad_id": "7xeFP0SEDdc",
+      "reason": "long: 41:29 (allowed 2:00-15:00)",
+      "title": "Science: Review and Synthesis"
+    },
+    {
+      "grade": 11,
+      "day": 14,
+      "subject": "Biology",
+      "bad_id": "7xeFP0SEDdc",
+      "reason": "long: 41:29 (allowed 2:00-15:00)",
+      "title": "Biology Synthesis: Connections Across Strands"
+    },
+    {
+      "grade": 12,
+      "day": 6,
+      "subject": "Calculus",
+      "bad_id": "WqRPFvZWF0k",
+      "reason": "long: 41:29 (allowed 2:00-15:00)",
+      "title": "Curve Sketching Using Derivatives"
+    },
+    {
+      "grade": 12,
+      "day": 27,
+      "subject": "Calculus",
+      "bad_id": "WqRPFvZWF0k",
+      "reason": "long: 41:29 (allowed 2:00-15:00)",
+      "title": "Derivatives Review: Curve Sketching, Optimization, and Relat"
+    },
+    {
+      "grade": 12,
+      "day": 183,
+      "subject": "Calculus",
+      "bad_id": "WqRPFvZWF0k",
+      "reason": "long: 41:29 (allowed 2:00-15:00)",
+      "title": "Calculus Preview: Optimization Using Derivatives"
+    },
+    {
+      "grade": 12,
+      "day": 187,
+      "subject": "Calculus",
+      "bad_id": "WqRPFvZWF0k",
+      "reason": "long: 41:29 (allowed 2:00-15:00)",
+      "title": "Math Review: Reciprocal Trig Functions, Wilsons Theorem, Payday Loans, and Optimization"
+    },
+    {
+      "grade": 5,
+      "day": 57,
+      "subject": "Math",
+      "bad_id": "2vjbNZaFz3c",
+      "reason": "long: 41:23 (allowed 2:00-15:00)",
+      "title": "Converting Between Fractions, Decimals, and Percents"
+    },
+    {
+      "grade": 7,
+      "day": 115,
+      "subject": "Math",
+      "bad_id": "2vjbNZaFz3c",
+      "reason": "long: 41:23 (allowed 2:00-15:00)",
+      "title": "Measurement: Converting Among Fractions, Decimals, and Percents"
+    },
+    {
+      "grade": 7,
+      "day": 120,
+      "subject": "Math",
+      "bad_id": "2vjbNZaFz3c",
+      "reason": "long: 41:23 (allowed 2:00-15:00)",
+      "title": "Math Review: Geometry, Measurement, and Data"
+    },
+    {
+      "grade": 7,
+      "day": 130,
+      "subject": "Math",
+      "bad_id": "2vjbNZaFz3c",
+      "reason": "long: 41:23 (allowed 2:00-15:00)",
+      "title": "Math Review: Probability, Measurement, Data, and Geometry"
+    },
+    {
+      "grade": 5,
+      "day": 48,
+      "subject": "Science",
+      "bad_id": "CrDcViPozcY",
+      "reason": "long: 41:18 (allowed 2:00-15:00)",
+      "title": "Forces: Friction and Air Resistance"
+    },
+    {
+      "grade": 12,
+      "day": 11,
+      "subject": "AdvancedFunctions",
+      "bad_id": "LNZl4GqVm58",
+      "reason": "long: 40:29 (allowed 2:00-15:00)",
+      "title": "Functions Review: Connecting All Function Families"
+    },
+    {
+      "grade": 11,
+      "day": 106,
+      "subject": "Functions",
+      "bad_id": "LNZl4GqVm58",
+      "reason": "long: 40:29 (allowed 2:00-15:00)",
+      "title": "Function Notation, Domain, and Range"
+    },
+    {
+      "grade": 11,
+      "day": 112,
+      "subject": "Functions",
+      "bad_id": "LNZl4GqVm58",
+      "reason": "long: 40:29 (allowed 2:00-15:00)",
+      "title": "Calculus Preview: Continuity of Functions"
+    },
+    {
+      "grade": 10,
+      "day": 91,
+      "subject": "Science",
+      "bad_id": "iIJD8RNLpS0",
+      "reason": "long: 40:06 (allowed 2:00-15:00)",
+      "title": "Chemistry: Types of Chemical Reactions"
+    },
+    {
+      "grade": 9,
+      "day": 10,
+      "subject": "Science",
+      "bad_id": "5v9F8Ns2cxY",
+      "reason": "long: 40:00 (allowed 2:00-15:00)",
+      "title": "Final Review: Science Skills"
+    },
+    {
+      "grade": 12,
+      "day": 117,
+      "subject": "Calculus",
+      "bad_id": "CpuYFUXe-gg",
+      "reason": "long: 39:08 (allowed 2:00-15:00)",
+      "title": "Vectors: Adding and Subtracting Forces Geometrically"
+    },
+    {
+      "grade": 10,
+      "day": 41,
+      "subject": "Math",
+      "bad_id": "vk_bcc4lkzI",
+      "reason": "long: 39:07 (allowed 2:00-15:00)",
+      "title": "Verifying Triangle Properties Using Slope and Length"
+    },
+    {
+      "grade": 10,
+      "day": 146,
+      "subject": "History",
+      "bad_id": "v35qPpKDJgM",
+      "reason": "long: 39:04 (allowed 2:00-15:00)",
+      "title": "The Founding of the National Film Board of Canada in 1939"
+    },
+    {
+      "grade": 8,
+      "day": 59,
+      "subject": "Science",
+      "bad_id": "T9RL-GSr2Ns",
+      "reason": "long: 38:52 (allowed 2:00-15:00)",
+      "title": "Energy Transformations and Conservation of Energy"
+    },
+    {
+      "grade": 12,
+      "day": 2,
+      "subject": "Physics",
+      "bad_id": "g550H4e5FCY",
+      "reason": "long: 38:23 (allowed 2:00-15:00)",
+      "title": "Forces: Newton's Laws in 2D"
+    },
+    {
+      "grade": 6,
+      "day": 50,
+      "subject": "Science",
+      "bad_id": "g550H4e5FCY",
+      "reason": "long: 38:23 (allowed 2:00-15:00)",
+      "title": "Review: Photosynthesis, Body Systems, and Physical Science"
+    },
+    {
+      "grade": 11,
+      "day": 9,
+      "subject": "Functions",
+      "bad_id": "FIOcFEz8-CA",
+      "reason": "long: 38:12 (allowed 2:00-15:00)",
+      "title": "Applications of Exponential and Logarithmic Functions"
+    },
+    {
+      "grade": 12,
+      "day": 61,
+      "subject": "English",
+      "bad_id": "8YDcUuz8dhs",
+      "reason": "long: 38:03 (allowed 2:00-15:00)",
+      "title": "Literature: Magical Realism and the Blending of Worlds"
+    },
+    {
+      "grade": 12,
+      "day": 70,
+      "subject": "English",
+      "bad_id": "8YDcUuz8dhs",
+      "reason": "long: 38:03 (allowed 2:00-15:00)",
+      "title": "Review: Grade 12 English -- Days 61-69 Synthesis"
+    },
+    {
+      "grade": 1,
+      "day": 50,
+      "subject": "Science",
+      "bad_id": "AHQGNb0zBgg",
+      "reason": "long: 38:00 (allowed 2:00-15:00)",
+      "title": "Science Review: Bodies, Air, and Animals"
+    },
+    {
+      "grade": 12,
+      "day": 33,
+      "subject": "Calculus",
+      "bad_id": "Srqij2JXdeg",
+      "reason": "long: 37:23 (allowed 2:00-15:00)",
+      "title": "Concavity and the Second Derivative Test"
+    },
+    {
+      "grade": 12,
+      "day": 177,
+      "subject": "Calculus",
+      "bad_id": "Srqij2JXdeg",
+      "reason": "long: 37:23 (allowed 2:00-15:00)",
+      "title": "Calculus Preview: Concavity and the Second Derivative"
+    },
+    {
+      "grade": 9,
+      "day": 10,
+      "subject": "Math",
+      "bad_id": "_lxccBUcNaY",
+      "reason": "long: 36:56 (allowed 2:00-15:00)",
+      "title": "Final Review: Math Skills"
+    },
+    {
+      "grade": 10,
+      "day": 23,
+      "subject": "Math",
+      "bad_id": "v4eUxyMip0c",
+      "reason": "long: 36:50 (allowed 2:00-15:00)",
+      "title": "Trigonometry Extension: Sine and Cosine Graphs"
+    },
+    {
+      "grade": 12,
+      "day": 94,
+      "subject": "English",
+      "bad_id": "GuZlMBtVwdM",
+      "reason": "long: 36:39 (allowed 2:00-15:00)",
+      "title": "Literature: The Found Poem \u2014 Repurposing Existing Text"
+    },
+    {
+      "grade": 10,
+      "day": 67,
+      "subject": "Math",
+      "bad_id": "q5j3Q_f68Dc",
+      "reason": "long: 36:35 (allowed 2:00-15:00)",
+      "title": "Finding Medians and Altitudes of a Triangle"
+    },
+    {
+      "grade": 12,
+      "day": 2,
+      "subject": "Calculus",
+      "bad_id": "WsQQvHm4lSw",
+      "reason": "long: 36:22 (allowed 2:00-15:00)",
+      "title": "Derivatives: Definition and Basic Rules"
+    },
+    {
+      "grade": 10,
+      "day": 60,
+      "subject": "Science",
+      "bad_id": "yYjnl_fj6IA",
+      "reason": "long: 36:17 (allowed 2:00-15:00)",
+      "title": "Review: Chemistry, Biology, and Physics Applications"
+    },
+    {
+      "grade": 8,
+      "day": 117,
+      "subject": "Language",
+      "bad_id": "3K9lfdKQ4CM",
+      "reason": "long: 36:12 (allowed 2:00-15:00)",
+      "title": "Reading: Analyzing Hyperbole, Understatement, and Paradox"
+    },
+    {
+      "grade": 12,
+      "day": 55,
+      "subject": "Calculus",
+      "bad_id": "iFyOs7z8Uqk",
+      "reason": "long: 36:09 (allowed 2:00-15:00)",
+      "title": "Derivatives of Trigonometric and Exponential Functions: Mixed Practice"
+    },
+    {
+      "grade": 12,
+      "day": 32,
+      "subject": "English",
+      "bad_id": "-Ic7cJuaBtU",
+      "reason": "long: 36:01 (allowed 2:00-15:00)",
+      "title": "Literature: Feminist Literary Criticism"
+    },
+    {
+      "grade": 12,
+      "day": 138,
+      "subject": "Calculus",
+      "bad_id": "VzX8KJKFhlM",
+      "reason": "long: 35:10 (allowed 2:00-15:00)",
+      "title": "Geometry: An Introduction to the Dot Product of Vectors"
+    },
+    {
+      "grade": 10,
+      "day": 148,
+      "subject": "History",
+      "bad_id": "EhUkY9ZAV6M",
+      "reason": "long: 35:06 (allowed 2:00-15:00)",
+      "title": "The Ogdensburg Agreement of 1940"
+    },
+    {
+      "grade": 12,
+      "day": 4,
+      "subject": "Calculus",
+      "bad_id": "_niP0JaOgHY",
+      "reason": "long: 35:01 (allowed 2:00-15:00)",
+      "title": "Derivatives of Trigonometric and Exponential Functions"
+    },
+    {
+      "grade": 12,
+      "day": 130,
+      "subject": "Calculus",
+      "bad_id": "Iu-4-fizlD4",
+      "reason": "long: 34:50 (allowed 2:00-15:00)",
+      "title": "Geometry: An Introduction to Conic Sections \u2014 Ellipses and Hyperbolas"
+    },
+    {
+      "grade": 10,
+      "day": 41,
+      "subject": "English",
+      "bad_id": "JGCTtHsAU1w",
+      "reason": "long: 34:46 (allowed 2:00-15:00)",
+      "title": "Reading: Irony and Symbolism in Fiction"
+    },
+    {
+      "grade": 10,
+      "day": 65,
+      "subject": "Math",
+      "bad_id": "4r6X46fw-oE",
+      "reason": "long: 34:17 (allowed 2:00-15:00)",
+      "title": "Absolute Value Functions and Equations"
+    },
+    {
+      "grade": 10,
+      "day": 70,
+      "subject": "Math",
+      "bad_id": "4r6X46fw-oE",
+      "reason": "long: 34:17 (allowed 2:00-15:00)",
+      "title": "Review: Inverse Functions and Absolute Value Functions"
+    },
+    {
+      "grade": 12,
+      "day": 133,
+      "subject": "Physics",
+      "bad_id": "VKMswYSiyko",
+      "reason": "long: 34:16 (allowed 2:00-15:00)",
+      "title": "Converging and Diverging Lenses: The Lens Equation"
+    },
+    {
+      "grade": 0,
+      "day": 69,
+      "subject": "Math",
+      "bad_id": "r2K1Py9U87I",
+      "reason": "long: 34:08 (allowed 2:00-15:00)",
+      "title": "Time: Reading a Clock to the Hour"
+    },
+    {
+      "grade": 10,
+      "day": 35,
+      "subject": "Science",
+      "bad_id": "38SyS6zXwe4",
+      "reason": "long: 33:59 (allowed 2:00-15:00)",
+      "title": "Reflection and Refraction of Light"
+    },
+    {
+      "grade": 11,
+      "day": 36,
+      "subject": "Functions",
+      "bad_id": "5fLDW8uTks0",
+      "reason": "long: 33:55 (allowed 2:00-15:00)",
+      "title": "Financial Mathematics: Annuities and Present Value"
+    },
+    {
+      "grade": 11,
+      "day": 80,
+      "subject": "Functions",
+      "bad_id": "5fLDW8uTks0",
+      "reason": "long: 33:55 (allowed 2:00-15:00)",
+      "title": "Review: Sinusoidal Modelling and Simple Annuities"
+    },
+    {
+      "grade": 12,
+      "day": 129,
+      "subject": "Calculus",
+      "bad_id": "97pe-QlSGqA",
+      "reason": "long: 33:29 (allowed 2:00-15:00)",
+      "title": "Algebra: An Introduction to Parametric Equations"
+    },
+    {
+      "grade": 11,
+      "day": 7,
+      "subject": "Chemistry",
+      "bad_id": "PYZJXWBMqBE",
+      "reason": "long: 33:25 (allowed 2:00-15:00)",
+      "title": "Organic Chemistry: Naming and Reactions"
+    },
+    {
+      "grade": 12,
+      "day": 147,
+      "subject": "Physics",
+      "bad_id": "LzKMQByFSLc",
+      "reason": "long: 33:16 (allowed 2:00-15:00)",
+      "title": "Electric Potential Energy and Electric Potential Difference"
+    },
+    {
+      "grade": 2,
+      "day": 45,
+      "subject": "Science",
+      "bad_id": "ZubFxK_QDTw",
+      "reason": "long: 33:02 (allowed 2:00-15:00)",
+      "title": "Review: Plant Life Cycle, Floating and Sinking, Gravity and Food Chains"
+    },
+    {
+      "grade": 11,
+      "day": 40,
+      "subject": "Functions",
+      "bad_id": "Kr0SVPIGsCs",
+      "reason": "long: 32:52 (allowed 2:00-15:00)",
+      "title": "Review: Functions, Trigonometry, and Financial Math"
+    },
+    {
+      "grade": 8,
+      "day": 95,
+      "subject": "Math",
+      "bad_id": "w4wKXVwtGac",
+      "reason": "long: 32:52 (allowed 2:00-15:00)",
+      "title": "Probability Trees and Multi-Stage Events"
+    },
+    {
+      "grade": 10,
+      "day": 95,
+      "subject": "Math",
+      "bad_id": "w4wKXVwtGac",
+      "reason": "long: 32:52 (allowed 2:00-15:00)",
+      "title": "Probability: Tree Diagrams and Compound Events"
+    },
+    {
+      "grade": 9,
+      "day": 2,
+      "subject": "Math",
+      "bad_id": "0ofTvk9uAl8",
+      "reason": "long: 32:50 (allowed 2:00-15:00)",
+      "title": "Linear Relations: Intro to Slope"
+    },
+    {
+      "grade": 9,
+      "day": 5,
+      "subject": "Math",
+      "bad_id": "0ofTvk9uAl8",
+      "reason": "long: 32:50 (allowed 2:00-15:00)",
+      "title": "Review: Algebra and Linear Relations"
+    },
+    {
+      "grade": 9,
+      "day": 187,
+      "subject": "Math",
+      "bad_id": "0ofTvk9uAl8",
+      "reason": "long: 32:50 (allowed 2:00-15:00)",
+      "title": "Review: Linear Relations, Geometry, and Data Management (Days 147-186)"
+    },
+    {
+      "grade": 10,
+      "day": 133,
+      "subject": "History",
+      "bad_id": "weYOf_Q49as",
+      "reason": "long: 32:49 (allowed 2:00-15:00)",
+      "title": "The Income War Tax Act of 1917"
+    },
+    {
+      "grade": 10,
+      "day": 42,
+      "subject": "English",
+      "bad_id": "NB9-B590Y-k",
+      "reason": "long: 32:33 (allowed 2:00-15:00)",
+      "title": "Writing: The Persuasive Op-Ed"
+    },
+    {
+      "grade": 10,
+      "day": 98,
+      "subject": "Math",
+      "bad_id": "nd46bA9DKE0",
+      "reason": "long: 32:31 (allowed 2:00-15:00)",
+      "title": "Geometry: Circle Theorems \u2014 Tangents and Inscribed Angles"
+    },
+    {
+      "grade": 12,
+      "day": 74,
+      "subject": "Calculus",
+      "bad_id": "M9yWBWSs3Go",
+      "reason": "long: 32:15 (allowed 2:00-15:00)",
+      "title": "Continuity and the Intermediate Value Theorem"
+    },
+    {
+      "grade": 12,
+      "day": 126,
+      "subject": "Physics",
+      "bad_id": "KiJi8yqB_Rg",
+      "reason": "long: 32:02 (allowed 2:00-15:00)",
+      "title": "Refraction and Snell's Law: Bending Light Between Media"
+    },
+    {
+      "grade": 10,
+      "day": 7,
+      "subject": "Science",
+      "bad_id": "dHjWVlfNraM",
+      "reason": "long: 31:47 (allowed 2:00-15:00)",
+      "title": "Physics: Kinematics \u2014 Motion in One Dimension"
+    },
+    {
+      "grade": 10,
+      "day": 53,
+      "subject": "Science",
+      "bad_id": "dHjWVlfNraM",
+      "reason": "long: 31:47 (allowed 2:00-15:00)",
+      "title": "Review: Cells, Chemical Bonding, and Motion"
+    },
+    {
+      "grade": 0,
+      "day": 79,
+      "subject": "Language",
+      "bad_id": "wgrtvyu1fOY",
+      "reason": "long: 31:47 (allowed 2:00-15:00)",
+      "title": "Sight Words: Reading Words We Know by Heart"
+    },
+    {
+      "grade": 10,
+      "day": 170,
+      "subject": "Science",
+      "bad_id": "dHjWVlfNraM",
+      "reason": "long: 31:47 (allowed 2:00-15:00)",
+      "title": "Science Review: Chemistry, Physics, Earth Science, and Biology (Days 161-169)"
+    },
+    {
+      "grade": 10,
+      "day": 180,
+      "subject": "Science",
+      "bad_id": "dHjWVlfNraM",
+      "reason": "long: 31:47 (allowed 2:00-15:00)",
+      "title": "Science Review: Physics, Chemistry, Earth Science, and Biology (Days 171-179)"
+    },
+    {
+      "grade": 10,
+      "day": 187,
+      "subject": "Science",
+      "bad_id": "dHjWVlfNraM",
+      "reason": "long: 31:47 (allowed 2:00-15:00)",
+      "title": "Science Review: The Final Review -- Physics, Chemistry, Earth Science, and Biology (Days 181-186)"
+    },
+    {
+      "grade": 11,
+      "day": 35,
+      "subject": "Biology",
+      "bad_id": "UKgbfxPTn_s",
+      "reason": "long: 31:39 (allowed 2:00-15:00)",
+      "title": "Animal Physiology: Muscular and Skeletal Systems"
+    },
+    {
+      "grade": 12,
+      "day": 130,
+      "subject": "Calculus",
+      "bad_id": "OPSCKXXvWiM",
+      "reason": "long: 31:39 (allowed 2:00-15:00)",
+      "title": "Geometry: An Introduction to Conic Sections \u2014 Ellipses and Hyperbolas"
+    },
+    {
+      "grade": 12,
+      "day": 80,
+      "subject": "Calculus",
+      "bad_id": "qGCKjuhA4eQ",
+      "reason": "long: 31:36 (allowed 2:00-15:00)",
+      "title": "Rational Functions: Graphing and Asymptotes in Depth"
+    },
+    {
+      "grade": 12,
+      "day": 55,
+      "subject": "AdvancedFunctions",
+      "bad_id": "Pn03dfOz-Cs",
+      "reason": "long: 31:19 (allowed 2:00-15:00)",
+      "title": "Statistics: The Normal Distribution and Z-Scores"
+    },
+    {
+      "grade": 12,
+      "day": 60,
+      "subject": "AdvancedFunctions",
+      "bad_id": "Pn03dfOz-Cs",
+      "reason": "long: 31:19 (allowed 2:00-15:00)",
+      "title": "Review: Grade 12 Advanced Functions -- Days 51-59 Synthesis"
+    },
+    {
+      "grade": 12,
+      "day": 160,
+      "subject": "AdvancedFunctions",
+      "bad_id": "Pn03dfOz-Cs",
+      "reason": "long: 31:19 (allowed 2:00-15:00)",
+      "title": "AdvancedFunctions Review: Statistics, Optimization, and Discrete Math"
+    },
+    {
+      "grade": 0,
+      "day": 55,
+      "subject": "Math",
+      "bad_id": "ScW_Svb4mPU",
+      "reason": "long: 30:52 (allowed 2:00-15:00)",
+      "title": "Counting On: Starting from a Number"
+    },
+    {
+      "grade": 12,
+      "day": 21,
+      "subject": "English",
+      "bad_id": "qP7KQhrVtBc",
+      "reason": "long: 30:49 (allowed 2:00-15:00)",
+      "title": "The Novel as Social Document: Realism and Its Discontents"
+    },
+    {
+      "grade": 11,
+      "day": 28,
+      "subject": "Biology",
+      "bad_id": "icQAkF1yxTE",
+      "reason": "long: 30:45 (allowed 2:00-15:00)",
+      "title": "Biology Final Exam"
+    },
+    {
+      "grade": 2,
+      "day": 91,
+      "subject": "Math",
+      "bad_id": "P21aWkWWY6w",
+      "reason": "long: 30:45 (allowed 2:00-15:00)",
+      "title": "Multiplication Facts: 8s and 9s"
+    },
+    {
+      "grade": 9,
+      "day": 40,
+      "subject": "Language",
+      "bad_id": "CcpBAeedIdE",
+      "reason": "long: 30:44 (allowed 2:00-15:00)",
+      "title": "Reading: Analyzing an Author\u2019s Craft Across a Text"
+    },
+    {
+      "grade": 12,
+      "day": 50,
+      "subject": "Physics",
+      "bad_id": "WiTQxNaKAYA",
+      "reason": "long: 30:42 (allowed 2:00-15:00)",
+      "title": "Review: Grade 12 Physics -- Comprehensive Synthesis"
+    },
+    {
+      "grade": 11,
+      "day": 77,
+      "subject": "Biology",
+      "bad_id": "T5ScIqPnqf8",
+      "reason": "long: 30:22 (allowed 2:00-15:00)",
+      "title": "Human Biology: The Stress Response and the HPA Axis"
+    },
+    {
+      "grade": 11,
+      "day": 90,
+      "subject": "Biology",
+      "bad_id": "T5ScIqPnqf8",
+      "reason": "long: 30:22 (allowed 2:00-15:00)",
+      "title": "Review: Genetics, Ecology, and Human Health (Days 81-89)"
+    },
+    {
+      "grade": 12,
+      "day": 35,
+      "subject": "Physics",
+      "bad_id": "KoZ61FujkRk",
+      "reason": "long: 30:18 (allowed 2:00-15:00)",
+      "title": "Physics: Capacitors and Electric Potential Energy"
+    },
+    {
+      "grade": 12,
+      "day": 23,
+      "subject": "AdvancedFunctions",
+      "bad_id": "s19dWIHficY",
+      "reason": "long: 30:11 (allowed 2:00-15:00)",
+      "title": "Combinations and the Binomial Theorem"
+    },
+    {
+      "grade": 7,
+      "day": 64,
+      "subject": "Math",
+      "bad_id": "x8wEnG4GURQ",
+      "reason": "long: 29:41 (allowed 2:00-15:00)",
+      "title": "Volume and Surface Area of Pyramids and Cones"
+    },
+    {
+      "grade": 7,
+      "day": 70,
+      "subject": "Math",
+      "bad_id": "x8wEnG4GURQ",
+      "reason": "long: 29:41 (allowed 2:00-15:00)",
+      "title": "Review: Math Skills (Days 61-69)"
+    },
+    {
+      "grade": 10,
+      "day": 22,
+      "subject": "Science",
+      "bad_id": "GJjikpQj9vQ",
+      "reason": "long: 29:40 (allowed 2:00-15:00)",
+      "title": "Science: Review and Synthesis"
+    },
+    {
+      "grade": 12,
+      "day": 38,
+      "subject": "AdvancedFunctions",
+      "bad_id": "aOiYRFpLBe8",
+      "reason": "long: 29:36 (allowed 2:00-15:00)",
+      "title": "Transformations of Functions: A Unified Approach"
+    },
+    {
+      "grade": 12,
+      "day": 40,
+      "subject": "AdvancedFunctions",
+      "bad_id": "aOiYRFpLBe8",
+      "reason": "long: 29:36 (allowed 2:00-15:00)",
+      "title": "Review: Rational Inequalities, Piecewise, and Transformations"
+    },
+    {
+      "grade": 7,
+      "day": 138,
+      "subject": "Language",
+      "bad_id": "_PoDMph6VTQ",
+      "reason": "long: 29:35 (allowed 2:00-15:00)",
+      "title": "Reading: Analyzing Anti-Heroes and Morally Complex Characters"
+    },
+    {
+      "grade": 2,
+      "day": 139,
+      "subject": "Language",
+      "bad_id": "EOX784OXmPs",
+      "reason": "long: 29:34 (allowed 2:00-15:00)",
+      "title": "Uppercase and Lowercase Letters: Matching Big and Small"
+    },
+    {
+      "grade": 11,
+      "day": 75,
+      "subject": "Chemistry",
+      "bad_id": "kJTCuRSeh6g",
+      "reason": "long: 29:31 (allowed 2:00-15:00)",
+      "title": "Acids and Bases: Weak Acid and Base Equilibria (Ka and Kb)"
+    },
+    {
+      "grade": 11,
+      "day": 160,
+      "subject": "Chemistry",
+      "bad_id": "kJTCuRSeh6g",
+      "reason": "long: 29:31 (allowed 2:00-15:00)",
+      "title": "Chemistry Review: Polarity, Household Chemistry, and Acid-Base Extensions"
+    },
+    {
+      "grade": 12,
+      "day": 138,
+      "subject": "Physics",
+      "bad_id": "OmMIOZtM1ks",
+      "reason": "long: 29:30 (allowed 2:00-15:00)",
+      "title": "Hooke's Law and Elastic Potential Energy in Springs"
+    },
+    {
+      "grade": 9,
+      "day": 77,
+      "subject": "Science",
+      "bad_id": "agQpPPQ5IVQ",
+      "reason": "long: 29:11 (allowed 2:00-15:00)",
+      "title": "Genetics: Predicting Inheritance with Punnett Squares"
+    },
+    {
+      "grade": 9,
+      "day": 80,
+      "subject": "Science",
+      "bad_id": "agQpPPQ5IVQ",
+      "reason": "long: 29:11 (allowed 2:00-15:00)",
+      "title": "Review: The Digestive System, Nervous System, Genetics, and Ozone Depletion"
+    },
+    {
+      "grade": 8,
+      "day": 109,
+      "subject": "History",
+      "bad_id": "pBwHjTVgqvM",
+      "reason": "long: 29:06 (allowed 2:00-15:00)",
+      "title": "The M\u00e9tis Scrip System and Land Grants"
+    },
+    {
+      "grade": 6,
+      "day": 44,
+      "subject": "Math",
+      "bad_id": "S27hcKy49UM",
+      "reason": "long: 29:03 (allowed 2:00-15:00)",
+      "title": "Volume of Triangular Prisms and Cylinders"
+    },
+    {
+      "grade": 12,
+      "day": 53,
+      "subject": "AdvancedFunctions",
+      "bad_id": "kmfzFAmcZDc",
+      "reason": "long: 29:00 (allowed 2:00-15:00)",
+      "title": "Vectors: The Scalar (Dot) Product and Projections"
+    },
+    {
+      "grade": 12,
+      "day": 33,
+      "subject": "AdvancedFunctions",
+      "bad_id": "0ZoSxPg6JSQ",
+      "reason": "long: 28:56 (allowed 2:00-15:00)",
+      "title": "Piecewise and Absolute Value Functions: Advanced Analysis"
+    },
+    {
+      "grade": 2,
+      "day": 126,
+      "subject": "SocialStudies",
+      "bad_id": "b4qkrzr7xvs",
+      "reason": "long: 28:56 (allowed 2:00-15:00)",
+      "title": "Statues and Monuments: Remembering Our History"
+    },
+    {
+      "grade": 7,
+      "day": 41,
+      "subject": "SocialStudies",
+      "bad_id": "tYRNIrO6RFA",
+      "reason": "long: 28:43 (allowed 2:00-15:00)",
+      "title": "Canada\u2019s Path to Full Independence: The Statute of Westminster"
+    },
+    {
+      "grade": 8,
+      "day": 67,
+      "subject": "Math",
+      "bad_id": "IrRTGbqr8MQ",
+      "reason": "long: 28:42 (allowed 2:00-15:00)",
+      "title": "Geometry: Congruence and Geometric Constructions"
+    },
+    {
+      "grade": 9,
+      "day": 107,
+      "subject": "Language",
+      "bad_id": "ZrhJtKd5YiI",
+      "reason": "long: 28:30 (allowed 2:00-15:00)",
+      "title": "Grammar: Apostrophes for Possession and Contraction"
+    },
+    {
+      "grade": 9,
+      "day": 110,
+      "subject": "Language",
+      "bad_id": "ZrhJtKd5YiI",
+      "reason": "long: 28:30 (allowed 2:00-15:00)",
+      "title": "Review: Personification, Grammar, Figurative Language, and Media Literacy (Days 101-109)"
+    },
+    {
+      "grade": 12,
+      "day": 51,
+      "subject": "AdvancedFunctions",
+      "bad_id": "hkicxo7NW7g",
+      "reason": "long: 28:24 (allowed 2:00-15:00)",
+      "title": "Trigonometric Functions: Modelling Periodic Phenomena with Sinusoidal Functions"
+    },
+    {
+      "grade": 0,
+      "day": 50,
+      "subject": "Science",
+      "bad_id": "aHek9T1UDD4",
+      "reason": "long: 28:19 (allowed 2:00-15:00)",
+      "title": "Science Review: Life Cycles, Habitats, and Our Bodies"
+    },
+    {
+      "grade": 10,
+      "day": 103,
+      "subject": "English",
+      "bad_id": "g3v6raB0FYI",
+      "reason": "long: 28:15 (allowed 2:00-15:00)",
+      "title": "Writing: The Feature Article"
+    },
+    {
+      "grade": 10,
+      "day": 110,
+      "subject": "English",
+      "bad_id": "g3v6raB0FYI",
+      "reason": "long: 28:15 (allowed 2:00-15:00)",
+      "title": "Review: Archetypes, Genre, and Communication (Days 101-109)"
+    },
+    {
+      "grade": 12,
+      "day": 105,
+      "subject": "Physics",
+      "bad_id": "8NLzuURxFwY",
+      "reason": "long: 28:11 (allowed 2:00-15:00)",
+      "title": "Projectile Motion Launched at an Angle from an Elevated Height"
+    },
+    {
+      "grade": 2,
+      "day": 24,
+      "subject": "Science",
+      "bad_id": "DF5ys_3uuuU",
+      "reason": "long: 27:59 (allowed 2:00-15:00)",
+      "title": "The Five Senses in Science Observations"
+    },
+    {
+      "grade": 0,
+      "day": 127,
+      "subject": "Science",
+      "bad_id": "DF5ys_3uuuU",
+      "reason": "long: 27:59 (allowed 2:00-15:00)",
+      "title": "The Five Senses: How We Explore the World"
+    },
+    {
+      "grade": 11,
+      "day": 8,
+      "subject": "Functions",
+      "bad_id": "m1OitPmkydY",
+      "reason": "long: 27:57 (allowed 2:00-15:00)",
+      "title": "Trigonometric Identities"
+    },
+    {
+      "grade": 12,
+      "day": 18,
+      "subject": "Calculus",
+      "bad_id": "Xq0YEXPwi4Y",
+      "reason": "long: 27:57 (allowed 2:00-15:00)",
+      "title": "Implicit Differentiation and Inverse Functions"
+    },
+    {
+      "grade": 3,
+      "day": 38,
+      "subject": "Language",
+      "bad_id": "Z5b--ZuGUQg",
+      "reason": "long: 27:53 (allowed 2:00-15:00)",
+      "title": "Reading: Fact vs Opinion"
+    },
+    {
+      "grade": 3,
+      "day": 32,
+      "subject": "Language",
+      "bad_id": "jl8yEmdocvU",
+      "reason": "long: 27:43 (allowed 2:00-15:00)",
+      "title": "Reading: Making Connections"
+    },
+    {
+      "grade": 9,
+      "day": 89,
+      "subject": "Language",
+      "bad_id": "OrmyLaLCaIo",
+      "reason": "long: 27:39 (allowed 2:00-15:00)",
+      "title": "Media Literacy: Analyzing Narrative and Persuasion in Video Games"
+    },
+    {
+      "grade": 9,
+      "day": 90,
+      "subject": "Language",
+      "bad_id": "OrmyLaLCaIo",
+      "reason": "long: 27:39 (allowed 2:00-15:00)",
+      "title": "Review: Narrative Analysis, Grammar, and Media Literacy (Days 81-89)"
+    },
+    {
+      "grade": 12,
+      "day": 27,
+      "subject": "English",
+      "bad_id": "N70D6xP0aQo",
+      "reason": "long: 27:35 (allowed 2:00-15:00)",
+      "title": "Writing Workshop: Style, Voice, and the Sentence"
+    },
+    {
+      "grade": 12,
+      "day": 60,
+      "subject": "AdvancedFunctions",
+      "bad_id": "h1RQw7yaoGM",
+      "reason": "long: 27:35 (allowed 2:00-15:00)",
+      "title": "Review: Grade 12 Advanced Functions -- Days 51-59 Synthesis"
+    },
+    {
+      "grade": 10,
+      "day": 138,
+      "subject": "Science",
+      "bad_id": "lMlT4oKZ_Os",
+      "reason": "long: 27:26 (allowed 2:00-15:00)",
+      "title": "Earth Science: Wetlands and Their Ecological Role"
+    },
+    {
+      "grade": 11,
+      "day": 15,
+      "subject": "Chemistry",
+      "bad_id": "cv3U2K_ES3g",
+      "reason": "long: 27:21 (allowed 2:00-15:00)",
+      "title": "Chemistry: Final Exam Preparation"
+    },
+    {
+      "grade": 11,
+      "day": 24,
+      "subject": "Chemistry",
+      "bad_id": "cv3U2K_ES3g",
+      "reason": "long: 27:21 (allowed 2:00-15:00)",
+      "title": "Chemistry: Year-End Exam Preparation"
+    },
+    {
+      "grade": 12,
+      "day": 12,
+      "subject": "AdvancedFunctions",
+      "bad_id": "5NadGZg4lfI",
+      "reason": "long: 27:21 (allowed 2:00-15:00)",
+      "title": "Exam Preparation: Comprehensive Review"
+    },
+    {
+      "grade": 12,
+      "day": 14,
+      "subject": "AdvancedFunctions",
+      "bad_id": "5NadGZg4lfI",
+      "reason": "long: 27:21 (allowed 2:00-15:00)",
+      "title": "Advanced Functions Final Assessment Review"
+    },
+    {
+      "grade": 12,
+      "day": 26,
+      "subject": "AdvancedFunctions",
+      "bad_id": "5NadGZg4lfI",
+      "reason": "long: 27:21 (allowed 2:00-15:00)",
+      "title": "Advanced Functions: Comprehensive Review"
+    },
+    {
+      "grade": 12,
+      "day": 27,
+      "subject": "AdvancedFunctions",
+      "bad_id": "5NadGZg4lfI",
+      "reason": "long: 27:21 (allowed 2:00-15:00)",
+      "title": "Advanced Functions: Final Exam Preparation"
+    },
+    {
+      "grade": 11,
+      "day": 129,
+      "subject": "Chemistry",
+      "bad_id": "nhvL9pOuxvQ",
+      "reason": "long: 27:11 (allowed 2:00-15:00)",
+      "title": "Chemistry: The Chemistry of Composting and Organic Decomposition"
+    },
+    {
+      "grade": 12,
+      "day": 16,
+      "subject": "AdvancedFunctions",
+      "bad_id": "Fg5-h8s1pxE",
+      "reason": "long: 27:04 (allowed 2:00-15:00)",
+      "title": "Vectors in Three Dimensions"
+    },
+    {
+      "grade": 10,
+      "day": 56,
+      "subject": "History",
+      "bad_id": "6xQS2QYyXxE",
+      "reason": "long: 27:01 (allowed 2:00-15:00)",
+      "title": "Same-Sex Marriage Legalization in Canada"
+    },
+    {
+      "grade": 8,
+      "day": 14,
+      "subject": "History",
+      "bad_id": "7wAefyeXrY0",
+      "reason": "long: 26:48 (allowed 2:00-15:00)",
+      "title": "Canada in the Modern World: 1950s\u20131980s"
+    },
+    {
+      "grade": 11,
+      "day": 14,
+      "subject": "Functions",
+      "bad_id": "yEPVEfUVrF4",
+      "reason": "long: 26:48 (allowed 2:00-15:00)",
+      "title": "Grade 11 Functions: Review and Synthesis"
+    },
+    {
+      "grade": 11,
+      "day": 138,
+      "subject": "Chemistry",
+      "bad_id": "oVfGIds8FWE",
+      "reason": "long: 26:43 (allowed 2:00-15:00)",
+      "title": "Chemistry: Freezing Point Depression and Road Deicing"
+    },
+    {
+      "grade": 5,
+      "day": 45,
+      "subject": "Science",
+      "bad_id": "mCgUZZTbFKU",
+      "reason": "long: 26:42 (allowed 2:00-15:00)",
+      "title": "Stars and Constellations"
+    },
+    {
+      "grade": 11,
+      "day": 9,
+      "subject": "Chemistry",
+      "bad_id": "bNcTt3l3Q8k",
+      "reason": "long: 26:40 (allowed 2:00-15:00)",
+      "title": "Chemical Equilibrium: Le Chatelier's Principle"
+    },
+    {
+      "grade": 7,
+      "day": 54,
+      "subject": "SocialStudies",
+      "bad_id": "CnEdbmwmSls",
+      "reason": "long: 26:34 (allowed 2:00-15:00)",
+      "title": "Culminating Task: A Timeline of Canadian Milestones"
+    },
+    {
+      "grade": 7,
+      "day": 55,
+      "subject": "SocialStudies",
+      "bad_id": "CnEdbmwmSls",
+      "reason": "long: 26:34 (allowed 2:00-15:00)",
+      "title": "Confederation: The Birth of Canada in 1867"
+    },
+    {
+      "grade": 7,
+      "day": 112,
+      "subject": "SocialStudies",
+      "bad_id": "CnEdbmwmSls",
+      "reason": "long: 26:34 (allowed 2:00-15:00)",
+      "title": "Social Studies Review: Government, Economy, and Canadian History"
+    },
+    {
+      "grade": 7,
+      "day": 106,
+      "subject": "Science",
+      "bad_id": "1Q15fgz-lUk",
+      "reason": "long: 26:25 (allowed 2:00-15:00)",
+      "title": "Science: Pendulums and Periodic Motion"
+    },
+    {
+      "grade": 12,
+      "day": 63,
+      "subject": "AdvancedFunctions",
+      "bad_id": "ymU0bCf8M3U",
+      "reason": "long: 26:22 (allowed 2:00-15:00)",
+      "title": "Functions: The Behaviour of Rational Functions Near Oblique Asymptotes"
+    },
+    {
+      "grade": 11,
+      "day": 17,
+      "subject": "Chemistry",
+      "bad_id": "JknzbSVBuYM",
+      "reason": "long: 26:19 (allowed 2:00-15:00)",
+      "title": "Organic Chemistry: Polymers and Materials"
+    },
+    {
+      "grade": 11,
+      "day": 180,
+      "subject": "Chemistry",
+      "bad_id": "JknzbSVBuYM",
+      "reason": "long: 26:19 (allowed 2:00-15:00)",
+      "title": "Chemistry Review: Bonding, Materials, Energy, and Catalysis"
+    },
+    {
+      "grade": 10,
+      "day": 29,
+      "subject": "Math",
+      "bad_id": "0OobMub0bAg",
+      "reason": "long: 26:14 (allowed 2:00-15:00)",
+      "title": "Exam Skills: Mathematical Problem Solving Strategies"
+    },
+    {
+      "grade": 8,
+      "day": 116,
+      "subject": "History",
+      "bad_id": "x177UZwjesg",
+      "reason": "long: 26:10 (allowed 2:00-15:00)",
+      "title": "The Manitoba Schools Question"
+    },
+    {
+      "grade": 7,
+      "day": 64,
+      "subject": "Language",
+      "bad_id": "_fTf8zbEqcQ",
+      "reason": "long: 26:06 (allowed 2:00-15:00)",
+      "title": "Vocabulary: Homophones and Homographs"
+    },
+    {
+      "grade": 12,
+      "day": 83,
+      "subject": "AdvancedFunctions",
+      "bad_id": "wvH1OvKEc4E",
+      "reason": "long: 26:03 (allowed 2:00-15:00)",
+      "title": "Solving Trigonometric Equations Over a Restricted Domain"
+    },
+    {
+      "grade": 1,
+      "day": 47,
+      "subject": "SocialStudies",
+      "bad_id": "S-3DXB5Qzl4",
+      "reason": "long: 26:02 (allowed 2:00-15:00)",
+      "title": "Caring for Pets and Animals"
+    },
+    {
+      "grade": 3,
+      "day": 64,
+      "subject": "Language",
+      "bad_id": "cpGTQ9DCTac",
+      "reason": "long: 25:42 (allowed 2:00-15:00)",
+      "title": "Writing: Writing a Postcard to a Friend"
+    },
+    {
+      "grade": 0,
+      "day": 126,
+      "subject": "Science",
+      "bad_id": "1sKgjAqdCDI",
+      "reason": "long: 25:40 (allowed 2:00-15:00)",
+      "title": "The Moon and Stars: What We See at Night"
+    },
+    {
+      "grade": 7,
+      "day": 146,
+      "subject": "SocialStudies",
+      "bad_id": "OhBrq7Ez-rQ",
+      "reason": "long: 25:36 (allowed 2:00-15:00)",
+      "title": "The Indian Act and Its Legacy"
+    },
+    {
+      "grade": 11,
+      "day": 96,
+      "subject": "English",
+      "bad_id": "IzRR1d9xHhg",
+      "reason": "long: 25:31 (allowed 2:00-15:00)",
+      "title": "Writing: The Public Service Announcement and Advocacy Writing"
+    },
+    {
+      "grade": 12,
+      "day": 79,
+      "subject": "Calculus",
+      "bad_id": "fnhFneOz6n8",
+      "reason": "long: 25:27 (allowed 2:00-15:00)",
+      "title": "Solving Logarithmic Equations"
+    },
+    {
+      "grade": 1,
+      "day": 34,
+      "subject": "Language",
+      "bad_id": "i9kINwIoT1w",
+      "reason": "long: 25:25 (allowed 2:00-15:00)",
+      "title": "Beginning Blends: sp, sm, sn, sw"
+    },
+    {
+      "grade": 1,
+      "day": 70,
+      "subject": "Language",
+      "bad_id": "i9kINwIoT1w",
+      "reason": "long: 25:25 (allowed 2:00-15:00)",
+      "title": "Language Review: Blends, Vowel Teams, and Word Meaning"
+    },
+    {
+      "grade": 1,
+      "day": 90,
+      "subject": "Language",
+      "bad_id": "i9kINwIoT1w",
+      "reason": "long: 25:25 (allowed 2:00-15:00)",
+      "title": "Language Review: Vowel Teams, Text Features, and Word Meaning"
+    },
+    {
+      "grade": 0,
+      "day": 94,
+      "subject": "Language",
+      "bad_id": "i9kINwIoT1w",
+      "reason": "long: 25:25 (allowed 2:00-15:00)",
+      "title": "Beginning Blends with S: st, sp, sn"
+    },
+    {
+      "grade": 1,
+      "day": 100,
+      "subject": "Language",
+      "bad_id": "i9kINwIoT1w",
+      "reason": "long: 25:25 (allowed 2:00-15:00)",
+      "title": "Language Review: Vowel Teams, Word Parts, and Story Craft"
+    },
+    {
+      "grade": 1,
+      "day": 110,
+      "subject": "Language",
+      "bad_id": "i9kINwIoT1w",
+      "reason": "long: 25:25 (allowed 2:00-15:00)",
+      "title": "Language Review: Nouns, Sentences, and Story Elements"
+    },
+    {
+      "grade": 1,
+      "day": 120,
+      "subject": "Language",
+      "bad_id": "i9kINwIoT1w",
+      "reason": "long: 25:25 (allowed 2:00-15:00)",
+      "title": "Language Review: Adverbs, Dialogue, and Story Grammar"
+    },
+    {
+      "grade": 1,
+      "day": 150,
+      "subject": "Language",
+      "bad_id": "i9kINwIoT1w",
+      "reason": "long: 25:25 (allowed 2:00-15:00)",
+      "title": "Language Review: New Vowel Teams, Word Parts, and Writing Skills"
+    },
+    {
+      "grade": 1,
+      "day": 160,
+      "subject": "Language",
+      "bad_id": "i9kINwIoT1w",
+      "reason": "long: 25:25 (allowed 2:00-15:00)",
+      "title": "Language Review: Genres, Figurative Language, and Word Parts"
+    },
+    {
+      "grade": 11,
+      "day": 16,
+      "subject": "Chemistry",
+      "bad_id": "BqNDbU41JMU",
+      "reason": "long: 25:24 (allowed 2:00-15:00)",
+      "title": "Chemical Kinetics: Rates of Reaction"
+    },
+    {
+      "grade": 10,
+      "day": 54,
+      "subject": "History",
+      "bad_id": "SDm4qX0UGe0",
+      "reason": "long: 25:24 (allowed 2:00-15:00)",
+      "title": "The Suez Crisis and the Birth of Peacekeeping (Lester Pearson)"
+    },
+    {
+      "grade": 10,
+      "day": 60,
+      "subject": "History",
+      "bad_id": "SDm4qX0UGe0",
+      "reason": "long: 25:24 (allowed 2:00-15:00)",
+      "title": "Review: Twentieth- and Twenty-First-Century Canadian History"
+    },
+    {
+      "grade": 11,
+      "day": 34,
+      "subject": "Chemistry",
+      "bad_id": "c8dDLe37ONg",
+      "reason": "long: 25:23 (allowed 2:00-15:00)",
+      "title": "Solutions: Colligative Properties"
+    },
+    {
+      "grade": 12,
+      "day": 90,
+      "subject": "Physics",
+      "bad_id": "c8dDLe37ONg",
+      "reason": "long: 25:23 (allowed 2:00-15:00)",
+      "title": "Colligative Properties of Solutions"
+    },
+    {
+      "grade": 11,
+      "day": 47,
+      "subject": "Functions",
+      "bad_id": "MjqFvyNkoL8",
+      "reason": "long: 25:20 (allowed 2:00-15:00)",
+      "title": "Functions: Transformations Across Function Families"
+    },
+    {
+      "grade": 7,
+      "day": 4,
+      "subject": "Science",
+      "bad_id": "mPsNNDXrBHY",
+      "reason": "long: 25:19 (allowed 2:00-15:00)",
+      "title": "Heat in the Environment"
+    },
+    {
+      "grade": 12,
+      "day": 118,
+      "subject": "English",
+      "bad_id": "x2SbwMPMTX4",
+      "reason": "long: 25:18 (allowed 2:00-15:00)",
+      "title": "Literature: Disability Studies and Representation in Fiction"
+    },
+    {
+      "grade": 11,
+      "day": 3,
+      "subject": "Chemistry",
+      "bad_id": "7Cfq0ilw7ps",
+      "reason": "long: 25:16 (allowed 2:00-15:00)",
+      "title": "Stoichiometry: Mole Concept and Calculations"
+    },
+    {
+      "grade": 11,
+      "day": 135,
+      "subject": "Chemistry",
+      "bad_id": "7Cfq0ilw7ps",
+      "reason": "long: 25:16 (allowed 2:00-15:00)",
+      "title": "Review: Chemistry, Physics, and Biology Concepts"
+    },
+    {
+      "grade": 12,
+      "day": 19,
+      "subject": "AdvancedFunctions",
+      "bad_id": "5AWob_z74Ks",
+      "reason": "long: 25:11 (allowed 2:00-15:00)",
+      "title": "Equations of Lines and Planes: Intersections and Distances"
+    },
+    {
+      "grade": 10,
+      "day": 20,
+      "subject": "History",
+      "bad_id": "7pbkW7ErQbs",
+      "reason": "long: 25:09 (allowed 2:00-15:00)",
+      "title": "The Environment and Politics: Canada's Climate Debate"
+    },
+    {
+      "grade": 6,
+      "day": 37,
+      "subject": "SocialStudies",
+      "bad_id": "lnoqlCV__z4",
+      "reason": "long: 25:02 (allowed 2:00-15:00)",
+      "title": "Ancient Nubia (Kingdom of Kush)"
+    },
+    {
+      "grade": 8,
+      "day": 81,
+      "subject": "History",
+      "bad_id": "lnoqlCV__z4",
+      "reason": "long: 25:02 (allowed 2:00-15:00)",
+      "title": "Social Studies: Ancient Nubia: Kingdoms Along the Nile"
+    },
+    {
+      "grade": 1,
+      "day": 128,
+      "subject": "Science",
+      "bad_id": "zwtHA1F5UVw",
+      "reason": "long: 24:56 (allowed 2:00-15:00)",
+      "title": "Honeybees: Life Inside a Hive"
+    },
+    {
+      "grade": 11,
+      "day": 82,
+      "subject": "Functions",
+      "bad_id": "mVO2dcuR7P0",
+      "reason": "long: 24:54 (allowed 2:00-15:00)",
+      "title": "Discrete Math: Recursive Sequences and the Fibonacci Sequence"
+    },
+    {
+      "grade": 8,
+      "day": 94,
+      "subject": "Math",
+      "bad_id": "mVO2dcuR7P0",
+      "reason": "long: 24:54 (allowed 2:00-15:00)",
+      "title": "The Fibonacci Sequence and the Golden Ratio"
+    },
+    {
+      "grade": 8,
+      "day": 120,
+      "subject": "History",
+      "bad_id": "_OwUDVXD5wc",
+      "reason": "long: 24:53 (allowed 2:00-15:00)",
+      "title": "Social Studies: The Bank of Canada and Monetary Policy"
+    },
+    {
+      "grade": 8,
+      "day": 21,
+      "subject": "History",
+      "bad_id": "MtbL8HZ4hGM",
+      "reason": "long: 24:52 (allowed 2:00-15:00)",
+      "title": "Review: Canadian History Grade 8"
+    },
+    {
+      "grade": 8,
+      "day": 153,
+      "subject": "History",
+      "bad_id": "MtbL8HZ4hGM",
+      "reason": "long: 24:52 (allowed 2:00-15:00)",
+      "title": "Social Studies Review: Canadian Institutions, History, and Exploration"
+    },
+    {
+      "grade": 8,
+      "day": 166,
+      "subject": "History",
+      "bad_id": "MtbL8HZ4hGM",
+      "reason": "long: 24:52 (allowed 2:00-15:00)",
+      "title": "Social Studies Review: The Final Chapter \u2014 Government, Rights, and Canadian History"
+    },
+    {
+      "grade": 8,
+      "day": 59,
+      "subject": "Math",
+      "bad_id": "rnPeLg0sZV8",
+      "reason": "long: 24:48 (allowed 2:00-15:00)",
+      "title": "Financial Literacy: Understanding Payroll Deductions and Net Income"
+    },
+    {
+      "grade": 10,
+      "day": 43,
+      "subject": "Math",
+      "bad_id": "ZRM1HXhVcZk",
+      "reason": "long: 24:47 (allowed 2:00-15:00)",
+      "title": "Quadratic Modelling: Fitting a Parabola Using Zeros and a Point"
+    },
+    {
+      "grade": 12,
+      "day": 38,
+      "subject": "Calculus",
+      "bad_id": "Ltsy_IAHRek",
+      "reason": "long: 24:45 (allowed 2:00-15:00)",
+      "title": "Curve Sketching: Local Extrema of a Rational Function"
+    },
+    {
+      "grade": 12,
+      "day": 34,
+      "subject": "AdvancedFunctions",
+      "bad_id": "ioIXtHlr95c",
+      "reason": "long: 24:41 (allowed 2:00-15:00)",
+      "title": "Rational Inequalities: Solving and Graphing"
+    },
+    {
+      "grade": 12,
+      "day": 40,
+      "subject": "AdvancedFunctions",
+      "bad_id": "ioIXtHlr95c",
+      "reason": "long: 24:41 (allowed 2:00-15:00)",
+      "title": "Review: Rational Inequalities, Piecewise, and Transformations"
+    },
+    {
+      "grade": 9,
+      "day": 21,
+      "subject": "Language",
+      "bad_id": "zfbUzWqsH74",
+      "reason": "long: 24:40 (allowed 2:00-15:00)",
+      "title": "Subject-Verb Agreement in Complex Sentences"
+    },
+    {
+      "grade": 9,
+      "day": 25,
+      "subject": "Language",
+      "bad_id": "zfbUzWqsH74",
+      "reason": "long: 24:40 (allowed 2:00-15:00)",
+      "title": "Review: Subject-Verb Agreement, Symbolism, Satire, and Close"
+    },
+    {
+      "grade": 7,
+      "day": 53,
+      "subject": "Math",
+      "bad_id": "FdnH3GPYOQA",
+      "reason": "long: 24:38 (allowed 2:00-15:00)",
+      "title": "The Pythagorean Theorem: Applications"
+    },
+    {
+      "grade": 7,
+      "day": 60,
+      "subject": "Math",
+      "bad_id": "FdnH3GPYOQA",
+      "reason": "long: 24:38 (allowed 2:00-15:00)",
+      "title": "Review: Polynomials, Pythagorean Applications, and Data Displays"
+    },
+    {
+      "grade": 10,
+      "day": 139,
+      "subject": "History",
+      "bad_id": "_13c1aRFTzw",
+      "reason": "long: 24:32 (allowed 2:00-15:00)",
+      "title": "The Founding of the Bank of Canada in 1934-1935"
+    },
+    {
+      "grade": 12,
+      "day": 41,
+      "subject": "Physics",
+      "bad_id": "A4HZzUkXiEs",
+      "reason": "long: 24:24 (allowed 2:00-15:00)",
+      "title": "Physics: Doppler Effect and Wave Phenomena"
+    },
+    {
+      "grade": 4,
+      "day": 43,
+      "subject": "Math",
+      "bad_id": "KWsLyjXKhrM",
+      "reason": "long: 24:16 (allowed 2:00-15:00)",
+      "title": "Comparing and Ordering Decimals"
+    },
+    {
+      "grade": 12,
+      "day": 15,
+      "subject": "Calculus",
+      "bad_id": "q082eMlXI3Q",
+      "reason": "long: 24:08 (allowed 2:00-15:00)",
+      "title": "Derivatives and Rates of Change: A Year-End Review"
+    },
+    {
+      "grade": 1,
+      "day": 82,
+      "subject": "SocialStudies",
+      "bad_id": "S0-ZKIlEYO8",
+      "reason": "long: 24:05 (allowed 2:00-15:00)",
+      "title": "Recycling Centres: Where Our Bottles and Cans Go"
+    },
+    {
+      "grade": 6,
+      "day": 115,
+      "subject": "SocialStudies",
+      "bad_id": "8q4e89BmcIg",
+      "reason": "long: 23:58 (allowed 2:00-15:00)",
+      "title": "Social Studies: The Franklin Expedition \u2014 Arctic Exploration History"
+    },
+    {
+      "grade": 6,
+      "day": 66,
+      "subject": "Math",
+      "bad_id": "WRps2iJaSPE",
+      "reason": "long: 23:57 (allowed 2:00-15:00)",
+      "title": "Line Symmetry and Rotational Symmetry"
+    },
+    {
+      "grade": 6,
+      "day": 70,
+      "subject": "Math",
+      "bad_id": "WRps2iJaSPE",
+      "reason": "long: 23:57 (allowed 2:00-15:00)",
+      "title": "Review: Math Days 61-69"
+    },
+    {
+      "grade": 8,
+      "day": 31,
+      "subject": "Language",
+      "bad_id": "OfmmcXJzQGM",
+      "reason": "long: 23:55 (allowed 2:00-15:00)",
+      "title": "Grammar: Advanced Punctuation (Em Dashes, Colons, Semicolons)"
+    },
+    {
+      "grade": 7,
+      "day": 15,
+      "subject": "SocialStudies",
+      "bad_id": "07MuNspzhpQ",
+      "reason": "long: 23:52 (allowed 2:00-15:00)",
+      "title": "Review: Railway, Settlement, Reconciliation, World War I"
+    },
+    {
+      "grade": 5,
+      "day": 11,
+      "subject": "SocialStudies",
+      "bad_id": "PPEkKOoSXC0",
+      "reason": "long: 23:43 (allowed 2:00-15:00)",
+      "title": "The Fur Trade and the Economy of New France"
+    },
+    {
+      "grade": 5,
+      "day": 15,
+      "subject": "SocialStudies",
+      "bad_id": "PPEkKOoSXC0",
+      "reason": "long: 23:43 (allowed 2:00-15:00)",
+      "title": "Review: Fur Trade, Underground Railroad, and Immigration"
+    },
+    {
+      "grade": 5,
+      "day": 136,
+      "subject": "SocialStudies",
+      "bad_id": "PPEkKOoSXC0",
+      "reason": "long: 23:43 (allowed 2:00-15:00)",
+      "title": "Social Studies Review: Immigration, Trade, and Public Services"
+    },
+    {
+      "grade": 10,
+      "day": 4,
+      "subject": "Math",
+      "bad_id": "SGUP6BkA870",
+      "reason": "long: 23:36 (allowed 2:00-15:00)",
+      "title": "Quadratics: Standard Form and Applications"
+    },
+    {
+      "grade": 2,
+      "day": 84,
+      "subject": "SocialStudies",
+      "bad_id": "pnLIpbFqkEk",
+      "reason": "long: 23:36 (allowed 2:00-15:00)",
+      "title": "Non-Profit Organizations: Helping Communities in Need"
+    },
+    {
+      "grade": 3,
+      "day": 85,
+      "subject": "SocialStudies",
+      "bad_id": "pnLIpbFqkEk",
+      "reason": "long: 23:36 (allowed 2:00-15:00)",
+      "title": "Social Studies: The Role of Non-Profits and Charities Locally"
+    },
+    {
+      "grade": 5,
+      "day": 6,
+      "subject": "Science",
+      "bad_id": "wyRy8kowyM8",
+      "reason": "long: 23:33 (allowed 2:00-15:00)",
+      "title": "Changes in Matter"
+    },
+    {
+      "grade": 6,
+      "day": 18,
+      "subject": "SocialStudies",
+      "bad_id": "tpy5BMhMYYw",
+      "reason": "long: 23:31 (allowed 2:00-15:00)",
+      "title": "Ancient Civilisations: China"
+    },
+    {
+      "grade": 9,
+      "day": 26,
+      "subject": "Math",
+      "bad_id": "vZZD43NlDwE",
+      "reason": "long: 23:29 (allowed 2:00-15:00)",
+      "title": "Midpoint and Length of a Line Segment"
+    },
+    {
+      "grade": 9,
+      "day": 30,
+      "subject": "Math",
+      "bad_id": "vZZD43NlDwE",
+      "reason": "long: 23:29 (allowed 2:00-15:00)",
+      "title": "Final Review: Coordinate Geometry, Rates, Fractions in Algeb"
+    },
+    {
+      "grade": 8,
+      "day": 77,
+      "subject": "Math",
+      "bad_id": "vZZD43NlDwE",
+      "reason": "long: 23:29 (allowed 2:00-15:00)",
+      "title": "Geometry: Finding the Midpoint and Length of a Line Segment"
+    },
+    {
+      "grade": 10,
+      "day": 148,
+      "subject": "Math",
+      "bad_id": "vZZD43NlDwE",
+      "reason": "long: 23:29 (allowed 2:00-15:00)",
+      "title": "Analytic Geometry: The Length of a Line Segment"
+    },
+    {
+      "grade": 9,
+      "day": 187,
+      "subject": "Math",
+      "bad_id": "vZZD43NlDwE",
+      "reason": "long: 23:29 (allowed 2:00-15:00)",
+      "title": "Review: Linear Relations, Geometry, and Data Management (Days 147-186)"
+    },
+    {
+      "grade": 11,
+      "day": 146,
+      "subject": "English",
+      "bad_id": "aIL2u5EWa7M",
+      "reason": "long: 23:27 (allowed 2:00-15:00)",
+      "title": "Oral Communication: Vocal Delivery \u2014 Pace, Pitch, and Emphasis"
+    },
+    {
+      "grade": 11,
+      "day": 24,
+      "subject": "Functions",
+      "bad_id": "upseC-rZ5QI",
+      "reason": "long: 23:26 (allowed 2:00-15:00)",
+      "title": "Statistics: Correlation and Regression"
+    },
+    {
+      "grade": 11,
+      "day": 156,
+      "subject": "Functions",
+      "bad_id": "upseC-rZ5QI",
+      "reason": "long: 23:26 (allowed 2:00-15:00)",
+      "title": "Math Review: Probability, Number Theory, and Statistics (Days 171-179)"
+    },
+    {
+      "grade": 7,
+      "day": 32,
+      "subject": "SocialStudies",
+      "bad_id": "vpKUXjrrHXs",
+      "reason": "long: 23:17 (allowed 2:00-15:00)",
+      "title": "The Rebellions of 1837"
+    },
+    {
+      "grade": 4,
+      "day": 109,
+      "subject": "Language",
+      "bad_id": "HFx9goZ3y1E",
+      "reason": "long: 23:17 (allowed 2:00-15:00)",
+      "title": "Writing: Writing a Diary Entry from a Historical Perspective"
+    },
+    {
+      "grade": 4,
+      "day": 110,
+      "subject": "Language",
+      "bad_id": "HFx9goZ3y1E",
+      "reason": "long: 23:17 (allowed 2:00-15:00)",
+      "title": "Review: Vocabulary, Grammar, and Reading Skills (Days 101-109)"
+    },
+    {
+      "grade": 12,
+      "day": 4,
+      "subject": "AdvancedFunctions",
+      "bad_id": "iNj_loo2-W4",
+      "reason": "long: 23:14 (allowed 2:00-15:00)",
+      "title": "Trigonometric Functions: Identities and Equations (Advanced)"
+    },
+    {
+      "grade": 11,
+      "day": 16,
+      "subject": "Functions",
+      "bad_id": "tY-sTxnPJKw",
+      "reason": "long: 23:13 (allowed 2:00-15:00)",
+      "title": "Advanced Trigonometry: Compound Angle Formulas"
+    },
+    {
+      "grade": 1,
+      "day": 41,
+      "subject": "Language",
+      "bad_id": "svqH6KIm_Os",
+      "reason": "long: 23:13 (allowed 2:00-15:00)",
+      "title": "Consonant Blends: br, cr, dr, gr"
+    },
+    {
+      "grade": 1,
+      "day": 31,
+      "subject": "Language",
+      "bad_id": "d4PKjUFyyoM",
+      "reason": "long: 23:11 (allowed 2:00-15:00)",
+      "title": "Consonant Digraphs: sh, ch, th, wh"
+    },
+    {
+      "grade": 1,
+      "day": 60,
+      "subject": "Language",
+      "bad_id": "d4PKjUFyyoM",
+      "reason": "long: 23:11 (allowed 2:00-15:00)",
+      "title": "Language Review: Digraphs, Vowel Teams, and Sentence Types"
+    },
+    {
+      "grade": 0,
+      "day": 71,
+      "subject": "Language",
+      "bad_id": "d4PKjUFyyoM",
+      "reason": "long: 23:11 (allowed 2:00-15:00)",
+      "title": "Digraphs: sh, ch, and th"
+    },
+    {
+      "grade": 0,
+      "day": 80,
+      "subject": "Language",
+      "bad_id": "d4PKjUFyyoM",
+      "reason": "long: 23:11 (allowed 2:00-15:00)",
+      "title": "Language Review: Digraphs, Word Families, and Books"
+    },
+    {
+      "grade": 0,
+      "day": 100,
+      "subject": "Language",
+      "bad_id": "d4PKjUFyyoM",
+      "reason": "long: 23:11 (allowed 2:00-15:00)",
+      "title": "Language Review: Word Families, Blends, and Vowel Sounds"
+    },
+    {
+      "grade": 12,
+      "day": 95,
+      "subject": "AdvancedFunctions",
+      "bad_id": "i5V21WCHTVo",
+      "reason": "long: 23:07 (allowed 2:00-15:00)",
+      "title": "Discrete Math: Catalan Numbers and Counting Problems"
+    },
+    {
+      "grade": 10,
+      "day": 29,
+      "subject": "English",
+      "bad_id": "rnyZzmjIm6c",
+      "reason": "long: 23:00 (allowed 2:00-15:00)",
+      "title": "Exam Skills: The Unseen Poem"
+    },
+    {
+      "grade": 12,
+      "day": 24,
+      "subject": "Physics",
+      "bad_id": "-LECEvusk8E",
+      "reason": "long: 22:57 (allowed 2:00-15:00)",
+      "title": "The Photoelectric Effect and Einstein's Explanation"
+    },
+    {
+      "grade": 12,
+      "day": 93,
+      "subject": "Physics",
+      "bad_id": "N6IhkTjWrd4",
+      "reason": "long: 22:57 (allowed 2:00-15:00)",
+      "title": "Newton's Second Law with Connected Objects: Atwood Machines and Pulley Systems"
+    },
+    {
+      "grade": 8,
+      "day": 148,
+      "subject": "Math",
+      "bad_id": "WDEdo3kIdjc",
+      "reason": "long: 22:55 (allowed 2:00-15:00)",
+      "title": "Simplifying Algebraic Expressions: Collecting Like Terms"
+    },
+    {
+      "grade": 7,
+      "day": 11,
+      "subject": "SocialStudies",
+      "bad_id": "tWVWgDZZ1qo",
+      "reason": "long: 22:54 (allowed 2:00-15:00)",
+      "title": "The Canadian Pacific Railway and Westward Expansion"
+    },
+    {
+      "grade": 10,
+      "day": 61,
+      "subject": "History",
+      "bad_id": "tWrw75ZfUJ0",
+      "reason": "long: 22:53 (allowed 2:00-15:00)",
+      "title": "The Great Depression in Canada: Relief Camps and the Regina Riot"
+    },
+    {
+      "grade": 10,
+      "day": 70,
+      "subject": "History",
+      "bad_id": "tWrw75ZfUJ0",
+      "reason": "long: 22:53 (allowed 2:00-15:00)",
+      "title": "Review: Mid-Century Canadian Society, Policy, and Identity"
+    },
+    {
+      "grade": 8,
+      "day": 57,
+      "subject": "Math",
+      "bad_id": "LdrBNhWw9AM",
+      "reason": "long: 22:50 (allowed 2:00-15:00)",
+      "title": "Weighted Averages"
+    },
+    {
+      "grade": 10,
+      "day": 31,
+      "subject": "Science",
+      "bad_id": "dYwdi4Vifkw",
+      "reason": "long: 22:49 (allowed 2:00-15:00)",
+      "title": "Chemistry: Solutions and Concentration"
+    },
+    {
+      "grade": 6,
+      "day": 22,
+      "subject": "SocialStudies",
+      "bad_id": "Mnws0xna2To",
+      "reason": "long: 22:47 (allowed 2:00-15:00)",
+      "title": "The British Empire and Colonialism"
+    },
+    {
+      "grade": 8,
+      "day": 141,
+      "subject": "History",
+      "bad_id": "h9PNCiK1d6o",
+      "reason": "long: 22:46 (allowed 2:00-15:00)",
+      "title": "Sir Wilfrid Lauriers Reciprocity Election of 1911"
+    },
+    {
+      "grade": 12,
+      "day": 47,
+      "subject": "AdvancedFunctions",
+      "bad_id": "I_6WdPd53Zs",
+      "reason": "long: 22:45 (allowed 2:00-15:00)",
+      "title": "Recursive Sequences: Advanced Applications"
+    },
+    {
+      "grade": 7,
+      "day": 89,
+      "subject": "SocialStudies",
+      "bad_id": "ST7M4BjnfK4",
+      "reason": "long: 22:45 (allowed 2:00-15:00)",
+      "title": "The Role of Lieutenant Governors in the Provinces"
+    },
+    {
+      "grade": 11,
+      "day": 7,
+      "subject": "Functions",
+      "bad_id": "bm8oYKKlCXI",
+      "reason": "long: 22:37 (allowed 2:00-15:00)",
+      "title": "Trigonometric Functions: Graphs of sin, cos, tan"
+    },
+    {
+      "grade": 12,
+      "day": 36,
+      "subject": "English",
+      "bad_id": "H4IeA4HRORk",
+      "reason": "long: 22:36 (allowed 2:00-15:00)",
+      "title": "Literature: Trauma and Memory in Contemporary Fiction"
+    },
+    {
+      "grade": 0,
+      "day": 78,
+      "subject": "Science",
+      "bad_id": "puBqL5KbfSU",
+      "reason": "long: 22:36 (allowed 2:00-15:00)",
+      "title": "Nests and Homes: How Animals Build Shelter"
+    },
+    {
+      "grade": 4,
+      "day": 69,
+      "subject": "Language",
+      "bad_id": "bkHqulZMgJ4",
+      "reason": "long: 22:35 (allowed 2:00-15:00)",
+      "title": "Vocabulary: Connotation and Denotation"
+    },
+    {
+      "grade": 10,
+      "day": 5,
+      "subject": "History",
+      "bad_id": "1xuM5pHqylc",
+      "reason": "long: 22:32 (allowed 2:00-15:00)",
+      "title": "The Quiet Revolution and Canadian Identity"
+    },
+    {
+      "grade": 12,
+      "day": 128,
+      "subject": "English",
+      "bad_id": "Lm_AzK27mZY",
+      "reason": "long: 22:29 (allowed 2:00-15:00)",
+      "title": "Media Analysis: Video Game Narrative and Interactive Storytelling"
+    },
+    {
+      "grade": 12,
+      "day": 139,
+      "subject": "AdvancedFunctions",
+      "bad_id": "g6e3We1r7vE",
+      "reason": "long: 22:27 (allowed 2:00-15:00)",
+      "title": "Sketching Rational Functions: Combining All Key Features"
+    },
+    {
+      "grade": 8,
+      "day": 29,
+      "subject": "History",
+      "bad_id": "HsM2FZfVkFI",
+      "reason": "long: 22:15 (allowed 2:00-15:00)",
+      "title": "Grade 8 History: Final Reflection"
+    },
+    {
+      "grade": 4,
+      "day": 38,
+      "subject": "Language",
+      "bad_id": "uUss3kgVoes",
+      "reason": "long: 22:15 (allowed 2:00-15:00)",
+      "title": "Media Literacy: Advertising Techniques"
+    },
+    {
+      "grade": 10,
+      "day": 49,
+      "subject": "Science",
+      "bad_id": "0UNn5LtmVBo",
+      "reason": "long: 22:12 (allowed 2:00-15:00)",
+      "title": "Chemistry: Stoichiometry and Chemical Calculations"
+    },
+    {
+      "grade": 11,
+      "day": 105,
+      "subject": "Functions",
+      "bad_id": "dLLaPvND6rQ",
+      "reason": "long: 22:12 (allowed 2:00-15:00)",
+      "title": "Rational Exponents and Radical Notation"
+    },
+    {
+      "grade": 12,
+      "day": 59,
+      "subject": "AdvancedFunctions",
+      "bad_id": "5u2ipk6GiQc",
+      "reason": "long: 22:08 (allowed 2:00-15:00)",
+      "title": "Discrete Math: Graph Theory Basics (Vertices and Edges)"
+    },
+    {
+      "grade": 10,
+      "day": 73,
+      "subject": "Math",
+      "bad_id": "P182Abv3fOk",
+      "reason": "long: 22:06 (allowed 2:00-15:00)",
+      "title": "Financial Literacy: Compound Interest and Amortization"
+    },
+    {
+      "grade": 0,
+      "day": 55,
+      "subject": "Science",
+      "bad_id": "gJ0vXVfZ0L0",
+      "reason": "long: 21:59 (allowed 2:00-15:00)",
+      "title": "Trees Through the Seasons"
+    },
+    {
+      "grade": 7,
+      "day": 22,
+      "subject": "SocialStudies",
+      "bad_id": "HaEmIakO7f4",
+      "reason": "long: 21:54 (allowed 2:00-15:00)",
+      "title": "Natural Disasters and Their Geographic Causes"
+    },
+    {
+      "grade": 8,
+      "day": 143,
+      "subject": "Language",
+      "bad_id": "Vb8ppbR0fLM",
+      "reason": "long: 21:53 (allowed 2:00-15:00)",
+      "title": "Reading: Analyzing Multiple Points of View in a Narrative"
+    },
+    {
+      "grade": 10,
+      "day": 7,
+      "subject": "Math",
+      "bad_id": "PUB0TaZ7bhA",
+      "reason": "long: 21:52 (allowed 2:00-15:00)",
+      "title": "Trigonometry: Primary Trig Ratios (SOH-CAH-TOA)"
+    },
+    {
+      "grade": 12,
+      "day": 17,
+      "subject": "AdvancedFunctions",
+      "bad_id": "gaE4QJUDOJQ",
+      "reason": "long: 21:49 (allowed 2:00-15:00)",
+      "title": "Lines and Planes in Three Dimensions"
+    },
+    {
+      "grade": 12,
+      "day": 51,
+      "subject": "Physics",
+      "bad_id": "mXxsT1ut35Q",
+      "reason": "long: 21:44 (allowed 2:00-15:00)",
+      "title": "Physics: The Bohr Model and Atomic Emission Spectra"
+    },
+    {
+      "grade": 12,
+      "day": 60,
+      "subject": "Physics",
+      "bad_id": "mXxsT1ut35Q",
+      "reason": "long: 21:44 (allowed 2:00-15:00)",
+      "title": "Review: Grade 12 Physics -- Days 51-59 Synthesis"
+    },
+    {
+      "grade": 11,
+      "day": 93,
+      "subject": "Functions",
+      "bad_id": "sU2pyMR8GZ4",
+      "reason": "long: 21:44 (allowed 2:00-15:00)",
+      "title": "Trigonometry: Sum and Difference Identities"
+    },
+    {
+      "grade": 12,
+      "day": 115,
+      "subject": "Calculus",
+      "bad_id": "sU2pyMR8GZ4",
+      "reason": "long: 21:44 (allowed 2:00-15:00)",
+      "title": "Trigonometry: Sum and Difference Identities"
+    },
+    {
+      "grade": 8,
+      "day": 92,
+      "subject": "Math",
+      "bad_id": "ee8RK5JMI8Q",
+      "reason": "long: 21:40 (allowed 2:00-15:00)",
+      "title": "Adding and Subtracting Integers"
+    },
+    {
+      "grade": 10,
+      "day": 128,
+      "subject": "Math",
+      "bad_id": "gzxHPXGCHKs",
+      "reason": "long: 21:40 (allowed 2:00-15:00)",
+      "title": "Medians and Altitudes of a Triangle"
+    },
+    {
+      "grade": 12,
+      "day": 80,
+      "subject": "AdvancedFunctions",
+      "bad_id": "gEhxBFQCYic",
+      "reason": "long: 21:37 (allowed 2:00-15:00)",
+      "title": "Compound Angle Formulas: Sum and Difference Identities"
+    },
+    {
+      "grade": 4,
+      "day": 27,
+      "subject": "Science",
+      "bad_id": "y66-VXL_FQk",
+      "reason": "long: 21:34 (allowed 2:00-15:00)",
+      "title": "Review: Materials and Earth"
+    },
+    {
+      "grade": 4,
+      "day": 133,
+      "subject": "Science",
+      "bad_id": "y66-VXL_FQk",
+      "reason": "long: 21:34 (allowed 2:00-15:00)",
+      "title": "Science Review: Ocean Life, Earth, and Our Bodies"
+    },
+    {
+      "grade": 10,
+      "day": 47,
+      "subject": "English",
+      "bad_id": "hhuNm8rou6k",
+      "reason": "long: 21:32 (allowed 2:00-15:00)",
+      "title": "Literature: Contemporary Indigenous Voices"
+    },
+    {
+      "grade": 9,
+      "day": 27,
+      "subject": "Math",
+      "bad_id": "em7jSY16_NY",
+      "reason": "long: 21:26 (allowed 2:00-15:00)",
+      "title": "Solving Proportions and Rates"
+    },
+    {
+      "grade": 9,
+      "day": 30,
+      "subject": "Math",
+      "bad_id": "em7jSY16_NY",
+      "reason": "long: 21:26 (allowed 2:00-15:00)",
+      "title": "Final Review: Coordinate Geometry, Rates, Fractions in Algeb"
+    },
+    {
+      "grade": 1,
+      "day": 40,
+      "subject": "Language",
+      "bad_id": "U8t9Jg1r6G0",
+      "reason": "long: 21:20 (allowed 2:00-15:00)",
+      "title": "Common Sight Words for Grade 1"
+    },
+    {
+      "grade": 10,
+      "day": 116,
+      "subject": "Math",
+      "bad_id": "pNDUHJvB-8s",
+      "reason": "long: 21:19 (allowed 2:00-15:00)",
+      "title": "Zeros, Roots, and X-Intercepts of Quadratic Relations"
+    },
+    {
+      "grade": 11,
+      "day": 50,
+      "subject": "Chemistry",
+      "bad_id": "SQyV1NQUGQY",
+      "reason": "long: 21:18 (allowed 2:00-15:00)",
+      "title": "Review: Intermolecular Forces, Equilibrium, and Organic Chemistry"
+    },
+    {
+      "grade": 11,
+      "day": 11,
+      "subject": "Chemistry",
+      "bad_id": "LsqKL3pBVMA",
+      "reason": "long: 21:17 (allowed 2:00-15:00)",
+      "title": "Thermochemistry: Energy Changes in Chemical Reactions"
+    },
+    {
+      "grade": 12,
+      "day": 88,
+      "subject": "Calculus",
+      "bad_id": "tnF9f3zCCKI",
+      "reason": "long: 21:17 (allowed 2:00-15:00)",
+      "title": "Permutations and Combinations: Advanced Applications"
+    },
+    {
+      "grade": 12,
+      "day": 91,
+      "subject": "Calculus",
+      "bad_id": "tnF9f3zCCKI",
+      "reason": "long: 21:17 (allowed 2:00-15:00)",
+      "title": "Review: Logarithms, Rational Functions, and Counting Methods"
+    },
+    {
+      "grade": 11,
+      "day": 170,
+      "subject": "Chemistry",
+      "bad_id": "LsqKL3pBVMA",
+      "reason": "long: 21:17 (allowed 2:00-15:00)",
+      "title": "Chemistry Review: Everyday Chemistry, Energy, and Human Physiology"
+    },
+    {
+      "grade": 11,
+      "day": 180,
+      "subject": "Chemistry",
+      "bad_id": "LsqKL3pBVMA",
+      "reason": "long: 21:17 (allowed 2:00-15:00)",
+      "title": "Chemistry Review: Bonding, Materials, Energy, and Catalysis"
+    },
+    {
+      "grade": 10,
+      "day": 20,
+      "subject": "Math",
+      "bad_id": "9pJupVoCq7g",
+      "reason": "long: 21:13 (allowed 2:00-15:00)",
+      "title": "Introduction to Functions: Domain, Range, Notation"
+    },
+    {
+      "grade": 10,
+      "day": 45,
+      "subject": "Math",
+      "bad_id": "hk8px3odNYY",
+      "reason": "long: 21:10 (allowed 2:00-15:00)",
+      "title": "Function Notation, Domain, and Range"
+    },
+    {
+      "grade": 12,
+      "day": 83,
+      "subject": "Calculus",
+      "bad_id": "2N62v_63SBo",
+      "reason": "long: 21:06 (allowed 2:00-15:00)",
+      "title": "Rational Functions and Asymptotes (Intro)"
+    },
+    {
+      "grade": 10,
+      "day": 6,
+      "subject": "English",
+      "bad_id": "jul2urONzOQ",
+      "reason": "long: 21:05 (allowed 2:00-15:00)",
+      "title": "Grammar and Style: Sophisticated Sentence Construction"
+    },
+    {
+      "grade": 10,
+      "day": 120,
+      "subject": "English",
+      "bad_id": "jul2urONzOQ",
+      "reason": "long: 21:05 (allowed 2:00-15:00)",
+      "title": "English Review: Grammar, Vocabulary, and Reading Analysis"
+    },
+    {
+      "grade": 8,
+      "day": 131,
+      "subject": "Science",
+      "bad_id": "MZ6GCH2nLy0",
+      "reason": "long: 21:05 (allowed 2:00-15:00)",
+      "title": "Fluid Pressure and Pascal's Principle"
+    },
+    {
+      "grade": 10,
+      "day": 140,
+      "subject": "English",
+      "bad_id": "jul2urONzOQ",
+      "reason": "long: 21:05 (allowed 2:00-15:00)",
+      "title": "English Review: Grammar, Rhetoric, and Contemporary Literacy"
+    },
+    {
+      "grade": 10,
+      "day": 160,
+      "subject": "English",
+      "bad_id": "jul2urONzOQ",
+      "reason": "long: 21:05 (allowed 2:00-15:00)",
+      "title": "English Review: Grammar, Reading, and Literary Forms (Days 151-159)"
+    },
+    {
+      "grade": 10,
+      "day": 170,
+      "subject": "English",
+      "bad_id": "jul2urONzOQ",
+      "reason": "long: 21:05 (allowed 2:00-15:00)",
+      "title": "English Review: Grammar, Reading, Writing, and Media Literacy (Days 161-169)"
+    },
+    {
+      "grade": 10,
+      "day": 180,
+      "subject": "English",
+      "bad_id": "jul2urONzOQ",
+      "reason": "long: 21:05 (allowed 2:00-15:00)",
+      "title": "English Review: Grammar, Reading, Writing, and Oral Communication (Days 171-179)"
+    },
+    {
+      "grade": 10,
+      "day": 187,
+      "subject": "English",
+      "bad_id": "jul2urONzOQ",
+      "reason": "long: 21:05 (allowed 2:00-15:00)",
+      "title": "English Review: The Final Review -- Reading, Writing, Grammar, and Media Literacy (Days 181-186)"
+    },
+    {
+      "grade": 12,
+      "day": 94,
+      "subject": "Physics",
+      "bad_id": "ufgY237M5KQ",
+      "reason": "long: 21:02 (allowed 2:00-15:00)",
+      "title": "Newton's Second Law: Analyzing Forces on Inclined Planes"
+    },
+    {
+      "grade": 6,
+      "day": 143,
+      "subject": "SocialStudies",
+      "bad_id": "Ym6jgeOlpyc",
+      "reason": "long: 21:00 (allowed 2:00-15:00)",
+      "title": "Social Studies: The Canadian Museum for Human Rights"
+    },
+    {
+      "grade": 9,
+      "day": 145,
+      "subject": "Language",
+      "bad_id": "mlUgaVD3ITA",
+      "reason": "long: 21:00 (allowed 2:00-15:00)",
+      "title": "Media Literacy: Analyzing Data Visualization and Infographics"
+    },
+    {
+      "grade": 10,
+      "day": 75,
+      "subject": "History",
+      "bad_id": "sfesn3T0sQ4",
+      "reason": "long: 20:59 (allowed 2:00-15:00)",
+      "title": "The Bomarc Missile Crisis and Canada-US Cold War Tensions"
+    },
+    {
+      "grade": 8,
+      "day": 30,
+      "subject": "Math",
+      "bad_id": "_Gd13a5uLB4",
+      "reason": "long: 20:58 (allowed 2:00-15:00)",
+      "title": "Grade 8 Math: Celebration and Forward Look"
+    },
+    {
+      "grade": 6,
+      "day": 65,
+      "subject": "Math",
+      "bad_id": "33_Gx-dof7I",
+      "reason": "long: 20:57 (allowed 2:00-15:00)",
+      "title": "Comparing and Ordering Rational Numbers"
+    },
+    {
+      "grade": 8,
+      "day": 143,
+      "subject": "Math",
+      "bad_id": "33_Gx-dof7I",
+      "reason": "long: 20:57 (allowed 2:00-15:00)",
+      "title": "Comparing and Ordering Rational Numbers"
+    },
+    {
+      "grade": 3,
+      "day": 127,
+      "subject": "Math",
+      "bad_id": "f2j7pw6abOc",
+      "reason": "long: 20:57 (allowed 2:00-15:00)",
+      "title": "Calendar Math: Counting Days Until an Event"
+    },
+    {
+      "grade": 0,
+      "day": 77,
+      "subject": "SocialStudies",
+      "bad_id": "XlHzvTEstz8",
+      "reason": "long: 20:56 (allowed 2:00-15:00)",
+      "title": "Our Local Museum: Learning About the Past"
+    },
+    {
+      "grade": 11,
+      "day": 27,
+      "subject": "English",
+      "bad_id": "sFIVrfTz2jM",
+      "reason": "long: 20:55 (allowed 2:00-15:00)",
+      "title": "Culminating Task: Literary Analysis or Creative Piece"
+    },
+    {
+      "grade": 2,
+      "day": 58,
+      "subject": "Science",
+      "bad_id": "G9HJkjF3-Ns",
+      "reason": "long: 20:54 (allowed 2:00-15:00)",
+      "title": "Taking Care of Your Teeth"
+    },
+    {
+      "grade": 9,
+      "day": 17,
+      "subject": "Science",
+      "bad_id": "WWJQpuv9ElE",
+      "reason": "long: 20:53 (allowed 2:00-15:00)",
+      "title": "Types of Chemical Reactions"
+    },
+    {
+      "grade": 11,
+      "day": 53,
+      "subject": "Chemistry",
+      "bad_id": "iHrKsfw827c",
+      "reason": "long: 20:42 (allowed 2:00-15:00)",
+      "title": "Chemistry: Chromatography \u2014 Principles and Applications"
+    },
+    {
+      "grade": 11,
+      "day": 60,
+      "subject": "Chemistry",
+      "bad_id": "iHrKsfw827c",
+      "reason": "long: 20:42 (allowed 2:00-15:00)",
+      "title": "Review: Bonding, Separation, and Applied Chemistry"
+    },
+    {
+      "grade": 5,
+      "day": 73,
+      "subject": "SocialStudies",
+      "bad_id": "jsPOHWSZuHg",
+      "reason": "long: 20:42 (allowed 2:00-15:00)",
+      "title": "The Role of the Governor General"
+    },
+    {
+      "grade": 5,
+      "day": 79,
+      "subject": "SocialStudies",
+      "bad_id": "jsPOHWSZuHg",
+      "reason": "long: 20:42 (allowed 2:00-15:00)",
+      "title": "Our Governor General: A Ceremonial Role in Canada"
+    },
+    {
+      "grade": 5,
+      "day": 80,
+      "subject": "SocialStudies",
+      "bad_id": "jsPOHWSZuHg",
+      "reason": "long: 20:42 (allowed 2:00-15:00)",
+      "title": "Review: The Klondike, Government Roles, and Arctic Exploration"
+    },
+    {
+      "grade": 5,
+      "day": 92,
+      "subject": "SocialStudies",
+      "bad_id": "jsPOHWSZuHg",
+      "reason": "long: 20:42 (allowed 2:00-15:00)",
+      "title": "Social Studies Review: Government, Explorers, and Canadian Symbols"
+    },
+    {
+      "grade": 5,
+      "day": 120,
+      "subject": "SocialStudies",
+      "bad_id": "jsPOHWSZuHg",
+      "reason": "long: 20:42 (allowed 2:00-15:00)",
+      "title": "Social Studies Review: Reconciliation, Civics, and Canadian Symbols"
+    },
+    {
+      "grade": 12,
+      "day": 112,
+      "subject": "English",
+      "bad_id": "UPDiXuESUeg",
+      "reason": "long: 20:40 (allowed 2:00-15:00)",
+      "title": "Literary Theory: New Criticism and Close Reading"
+    },
+    {
+      "grade": 10,
+      "day": 93,
+      "subject": "History",
+      "bad_id": "pxhREu7wz0M",
+      "reason": "long: 20:39 (allowed 2:00-15:00)",
+      "title": "The Klondike Gold Rush"
+    },
+    {
+      "grade": 10,
+      "day": 48,
+      "subject": "History",
+      "bad_id": "POo2X-6XNGw",
+      "reason": "long: 20:33 (allowed 2:00-15:00)",
+      "title": "The Oka Crisis and Indigenous Land Rights"
+    },
+    {
+      "grade": 10,
+      "day": 50,
+      "subject": "History",
+      "bad_id": "POo2X-6XNGw",
+      "reason": "long: 20:33 (allowed 2:00-15:00)",
+      "title": "Review: Social Movements and Nation-Building in Canada"
+    },
+    {
+      "grade": 9,
+      "day": 129,
+      "subject": "Language",
+      "bad_id": "hfdSkCGsFCI",
+      "reason": "long: 20:30 (allowed 2:00-15:00)",
+      "title": "Reading: Analyzing Point of View and Narrative Distance"
+    },
+    {
+      "grade": 11,
+      "day": 2,
+      "subject": "Functions",
+      "bad_id": "a5x4lwnvHM0",
+      "reason": "long: 20:28 (allowed 2:00-15:00)",
+      "title": "Polynomial Functions: Characteristics and Graphs"
+    },
+    {
+      "grade": 12,
+      "day": 104,
+      "subject": "Calculus",
+      "bad_id": "a5x4lwnvHM0",
+      "reason": "long: 20:28 (allowed 2:00-15:00)",
+      "title": "Polynomial Functions: Zeros, Factors, and End Behaviour"
+    },
+    {
+      "grade": 0,
+      "day": 47,
+      "subject": "Science",
+      "bad_id": "haPVcic4bEc",
+      "reason": "long: 20:26 (allowed 2:00-15:00)",
+      "title": "Shadows: Light and Dark"
+    },
+    {
+      "grade": 12,
+      "day": 57,
+      "subject": "Physics",
+      "bad_id": "SPTNKnCqlW4",
+      "reason": "long: 20:25 (allowed 2:00-15:00)",
+      "title": "Physics: Simple Machines and Mechanical Advantage"
+    },
+    {
+      "grade": 8,
+      "day": 65,
+      "subject": "Science",
+      "bad_id": "SPTNKnCqlW4",
+      "reason": "long: 20:25 (allowed 2:00-15:00)",
+      "title": "Systems in Action: Simple Machines and Mechanical Advantage"
+    },
+    {
+      "grade": 8,
+      "day": 70,
+      "subject": "Science",
+      "bad_id": "SPTNKnCqlW4",
+      "reason": "long: 20:25 (allowed 2:00-15:00)",
+      "title": "Review: Days 61-69 Science Concepts"
+    },
+    {
+      "grade": 9,
+      "day": 63,
+      "subject": "Science",
+      "bad_id": "SPTNKnCqlW4",
+      "reason": "long: 20:25 (allowed 2:00-15:00)",
+      "title": "Simple Machines and Mechanical Advantage"
+    },
+    {
+      "grade": 10,
+      "day": 77,
+      "subject": "Science",
+      "bad_id": "SPTNKnCqlW4",
+      "reason": "long: 20:25 (allowed 2:00-15:00)",
+      "title": "Physics: Simple Machines and Mechanical Advantage"
+    },
+    {
+      "grade": 11,
+      "day": 19,
+      "subject": "Functions",
+      "bad_id": "AkeZ79GyAlk",
+      "reason": "long: 20:24 (allowed 2:00-15:00)",
+      "title": "Graphing Technology: Exploring Functions with Technology"
+    },
+    {
+      "grade": 2,
+      "day": 45,
+      "subject": "Language",
+      "bad_id": "ICdhDZ1Lpro",
+      "reason": "long: 20:21 (allowed 2:00-15:00)",
+      "title": "Review: Silent Letters, Homophones, Adverbs and Cause and Effect"
+    },
+    {
+      "grade": 10,
+      "day": 46,
+      "subject": "Math",
+      "bad_id": "kkRrCrXC-fA",
+      "reason": "long: 20:21 (allowed 2:00-15:00)",
+      "title": "Linear-Quadratic Systems: Solving Algebraically"
+    },
+    {
+      "grade": 11,
+      "day": 21,
+      "subject": "Chemistry",
+      "bad_id": "m9jM8lWxrAE",
+      "reason": "long: 20:20 (allowed 2:00-15:00)",
+      "title": "Organic Chemistry: Functional Groups and Biological Molecule"
+    },
+    {
+      "grade": 12,
+      "day": 1,
+      "subject": "Calculus",
+      "bad_id": "YNstP0ESndU",
+      "reason": "long: 20:20 (allowed 2:00-15:00)",
+      "title": "Introduction to Limits and Continuity"
+    },
+    {
+      "grade": 12,
+      "day": 72,
+      "subject": "Physics",
+      "bad_id": "m9jM8lWxrAE",
+      "reason": "long: 20:20 (allowed 2:00-15:00)",
+      "title": "Chemistry: Organic Compounds and Functional Groups"
+    },
+    {
+      "grade": 12,
+      "day": 80,
+      "subject": "Physics",
+      "bad_id": "m9jM8lWxrAE",
+      "reason": "long: 20:20 (allowed 2:00-15:00)",
+      "title": "Review: Grade 12 Physics -- Days 71-79 Synthesis"
+    },
+    {
+      "grade": 11,
+      "day": 111,
+      "subject": "Functions",
+      "bad_id": "YNstP0ESndU",
+      "reason": "long: 20:20 (allowed 2:00-15:00)",
+      "title": "Calculus Preview: An Introduction to Limits"
+    },
+    {
+      "grade": 12,
+      "day": 144,
+      "subject": "Calculus",
+      "bad_id": "YNstP0ESndU",
+      "reason": "long: 20:20 (allowed 2:00-15:00)",
+      "title": "Calculus Preview: An Introduction to Limits"
+    },
+    {
+      "grade": 12,
+      "day": 145,
+      "subject": "Calculus",
+      "bad_id": "YNstP0ESndU",
+      "reason": "long: 20:20 (allowed 2:00-15:00)",
+      "title": "Math Review: Advanced Algebra, Number Theory, and Calculus Preview"
+    },
+    {
+      "grade": 11,
+      "day": 15,
+      "subject": "Functions",
+      "bad_id": "A9peFTbopxY",
+      "reason": "long: 20:18 (allowed 2:00-15:00)",
+      "title": "Functions: Final Exam Preparation"
+    },
+    {
+      "grade": 0,
+      "day": 124,
+      "subject": "SocialStudies",
+      "bad_id": "WtUNK9zo8Ek",
+      "reason": "long: 20:18 (allowed 2:00-15:00)",
+      "title": "Our Bus Drivers: Getting Us to School Safely"
+    },
+    {
+      "grade": 1,
+      "day": 124,
+      "subject": "SocialStudies",
+      "bad_id": "WtUNK9zo8Ek",
+      "reason": "long: 20:18 (allowed 2:00-15:00)",
+      "title": "Our School Bus Driver: Getting Us to School Safely"
+    },
+    {
+      "grade": 0,
+      "day": 134,
+      "subject": "Science",
+      "bad_id": "avz6--jcNW8",
+      "reason": "long: 20:17 (allowed 2:00-15:00)",
+      "title": "Winter Season: Snow and Ice"
+    },
+    {
+      "grade": 12,
+      "day": 18,
+      "subject": "AdvancedFunctions",
+      "bad_id": "Gt-DqSMryYA",
+      "reason": "long: 20:15 (allowed 2:00-15:00)",
+      "title": "The Cross Product in 3D"
+    },
+    {
+      "grade": 12,
+      "day": 134,
+      "subject": "English",
+      "bad_id": "uy4PFiPdgzQ",
+      "reason": "long: 20:13 (allowed 2:00-15:00)",
+      "title": "Literature: The Mock-Epic and Satirical Verse"
+    },
+    {
+      "grade": 11,
+      "day": 4,
+      "subject": "Chemistry",
+      "bad_id": "CK2yK_JTUH4",
+      "reason": "long: 20:12 (allowed 2:00-15:00)",
+      "title": "Stoichiometry: Limiting Reagents and Percent Yield"
+    },
+    {
+      "grade": 7,
+      "day": 116,
+      "subject": "Math",
+      "bad_id": "b38hFWvEjwI",
+      "reason": "long: 20:10 (allowed 2:00-15:00)",
+      "title": "Measurement: Precision, Accuracy, and Significant Figures"
+    },
+    {
+      "grade": 12,
+      "day": 89,
+      "subject": "English",
+      "bad_id": "dB8-iOHx4oA",
+      "reason": "long: 20:05 (allowed 2:00-15:00)",
+      "title": "Literature: Speculative Fiction and the Ethics of World-Building"
+    },
+    {
+      "grade": 12,
+      "day": 90,
+      "subject": "English",
+      "bad_id": "dB8-iOHx4oA",
+      "reason": "long: 20:05 (allowed 2:00-15:00)",
+      "title": "Review: Literary Form, Media, and Style (Days 81-89)"
+    },
+    {
+      "grade": 11,
+      "day": 9,
+      "subject": "Biology",
+      "bad_id": "n_R8j2zcyZQ",
+      "reason": "long: 20:04 (allowed 2:00-15:00)",
+      "title": "Ecology: Population Dynamics and Community Ecology"
+    },
+    {
+      "grade": 4,
+      "day": 82,
+      "subject": "Science",
+      "bad_id": "_kA-_aro3lI",
+      "reason": "long: 20:04 (allowed 2:00-15:00)",
+      "title": "Arctic Animals: Living in the Cold"
+    },
+    {
+      "grade": 2,
+      "day": 125,
+      "subject": "Science",
+      "bad_id": "_kA-_aro3lI",
+      "reason": "long: 20:04 (allowed 2:00-15:00)",
+      "title": "Polar Animals: Surviving the Arctic Cold"
+    },
+    {
+      "grade": 11,
+      "day": 130,
+      "subject": "Biology",
+      "bad_id": "n_R8j2zcyZQ",
+      "reason": "long: 20:04 (allowed 2:00-15:00)",
+      "title": "Biology Review: Cell Biology, Genetics, Physiology, and Ecology"
+    },
+    {
+      "grade": 12,
+      "day": 61,
+      "subject": "AdvancedFunctions",
+      "bad_id": "gFsz4GsWXpA",
+      "reason": "long: 20:03 (allowed 2:00-15:00)",
+      "title": "Solving Exponential Equations Using Common Bases"
+    },
+    {
+      "grade": 6,
+      "day": 98,
+      "subject": "Math",
+      "bad_id": "IgeSnB63Qew",
+      "reason": "long: 20:02 (allowed 2:00-15:00)",
+      "title": "Patterning and Algebra: Line Graphs and Analyzing Trends Over Time"
+    },
+    {
+      "grade": 9,
+      "day": 94,
+      "subject": "Math",
+      "bad_id": "AMXGBH7hoJY",
+      "reason": "long: 19:58 (allowed 2:00-15:00)",
+      "title": "Financial Literacy: Understanding Income Tax Basics"
+    },
+    {
+      "grade": 10,
+      "day": 10,
+      "subject": "Science",
+      "bad_id": "1u5GSxuSj7A",
+      "reason": "long: 19:55 (allowed 2:00-15:00)",
+      "title": "Physics: Waves and Sound"
+    },
+    {
+      "grade": 12,
+      "day": 55,
+      "subject": "Physics",
+      "bad_id": "eLwraf_A80U",
+      "reason": "long: 19:53 (allowed 2:00-15:00)",
+      "title": "Physics: Nuclear Binding Energy and Mass Defect"
+    },
+    {
+      "grade": 7,
+      "day": 24,
+      "subject": "Math",
+      "bad_id": "WHfef-NghN8",
+      "reason": "long: 19:52 (allowed 2:00-15:00)",
+      "title": "Venn Diagrams and Set Notation (Intro)"
+    },
+    {
+      "grade": 12,
+      "day": 44,
+      "subject": "AdvancedFunctions",
+      "bad_id": "jxRqRLMliPc",
+      "reason": "long: 19:50 (allowed 2:00-15:00)",
+      "title": "Geometric Series: Sum to Infinity"
+    },
+    {
+      "grade": 9,
+      "day": 61,
+      "subject": "Math",
+      "bad_id": "G3ucF7dMXY4",
+      "reason": "long: 19:46 (allowed 2:00-15:00)",
+      "title": "Simplifying Radicals and Square Roots"
+    },
+    {
+      "grade": 9,
+      "day": 70,
+      "subject": "Math",
+      "bad_id": "G3ucF7dMXY4",
+      "reason": "long: 19:46 (allowed 2:00-15:00)",
+      "title": "Review: Radicals, Systems, Spheres/Cones, and Logarithms"
+    },
+    {
+      "grade": 2,
+      "day": 31,
+      "subject": "Language",
+      "bad_id": "EtnI7JPeCAQ",
+      "reason": "long: 19:45 (allowed 2:00-15:00)",
+      "title": "Consonant Blends: bl, cl, fl, gl"
+    },
+    {
+      "grade": 0,
+      "day": 93,
+      "subject": "Language",
+      "bad_id": "EtnI7JPeCAQ",
+      "reason": "long: 19:45 (allowed 2:00-15:00)",
+      "title": "Beginning Blends with L: bl, cl, fl"
+    },
+    {
+      "grade": 2,
+      "day": 140,
+      "subject": "Language",
+      "bad_id": "EtnI7JPeCAQ",
+      "reason": "long: 19:45 (allowed 2:00-15:00)",
+      "title": "Language Review: Blends, Text Features, and Persuasive Forms"
+    },
+    {
+      "grade": 12,
+      "day": 34,
+      "subject": "Calculus",
+      "bad_id": "aesw9FeSXjI",
+      "reason": "long: 19:43 (allowed 2:00-15:00)",
+      "title": "Curve Sketching: Using the First Derivative to Sketch a Polynomial Function"
+    },
+    {
+      "grade": 9,
+      "day": 17,
+      "subject": "SocialStudies",
+      "bad_id": "Q7xp1-VvtZ0",
+      "reason": "long: 19:42 (allowed 2:00-15:00)",
+      "title": "Transportation Networks and Trade Routes"
+    },
+    {
+      "grade": 9,
+      "day": 120,
+      "subject": "SocialStudies",
+      "bad_id": "Q7xp1-VvtZ0",
+      "reason": "long: 19:42 (allowed 2:00-15:00)",
+      "title": "Social Studies Review: Global Geography and Trade"
+    },
+    {
+      "grade": 12,
+      "day": 19,
+      "subject": "Calculus",
+      "bad_id": "SL2RobwU_M4",
+      "reason": "long: 19:40 (allowed 2:00-15:00)",
+      "title": "Mean Value Theorem and Monotonicity"
+    },
+    {
+      "grade": 12,
+      "day": 108,
+      "subject": "Physics",
+      "bad_id": "AtbaYUYTawg",
+      "reason": "long: 19:40 (allowed 2:00-15:00)",
+      "title": "Electric Field Lines and Equipotential Surfaces"
+    },
+    {
+      "grade": 11,
+      "day": 119,
+      "subject": "Biology",
+      "bad_id": "ECBbAjoEHWI",
+      "reason": "long: 19:39 (allowed 2:00-15:00)",
+      "title": "Biology: Hydrothermal Vent Ecosystems and Chemosynthesis"
+    },
+    {
+      "grade": 7,
+      "day": 52,
+      "subject": "SocialStudies",
+      "bad_id": "KY4eYH3Uer0",
+      "reason": "long: 19:38 (allowed 2:00-15:00)",
+      "title": "Canada\u2019s Immigration Policy: Historical Changes"
+    },
+    {
+      "grade": 0,
+      "day": 70,
+      "subject": "Science",
+      "bad_id": "RY9kFJ55uno",
+      "reason": "long: 19:37 (allowed 2:00-15:00)",
+      "title": "Sink or Float: Testing Objects in Water"
+    },
+    {
+      "grade": 4,
+      "day": 127,
+      "subject": "SocialStudies",
+      "bad_id": "qqQxa68XQcc",
+      "reason": "long: 19:33 (allowed 2:00-15:00)",
+      "title": "Social Studies: Early Societies: Calendars and Measuring Time"
+    },
+    {
+      "grade": 12,
+      "day": 8,
+      "subject": "AdvancedFunctions",
+      "bad_id": "Tj89FA-d0f8",
+      "reason": "long: 19:32 (allowed 2:00-15:00)",
+      "title": "Discrete Functions: Advanced Sequences, Series, and Financia"
+    },
+    {
+      "grade": 10,
+      "day": 34,
+      "subject": "Math",
+      "bad_id": "Tj89FA-d0f8",
+      "reason": "long: 19:32 (allowed 2:00-15:00)",
+      "title": "Arithmetic and Geometric Sequences and Series"
+    },
+    {
+      "grade": 12,
+      "day": 160,
+      "subject": "AdvancedFunctions",
+      "bad_id": "Tj89FA-d0f8",
+      "reason": "long: 19:32 (allowed 2:00-15:00)",
+      "title": "AdvancedFunctions Review: Statistics, Optimization, and Discrete Math"
+    },
+    {
+      "grade": 4,
+      "day": 88,
+      "subject": "SocialStudies",
+      "bad_id": "oHEF5CGlCkU",
+      "reason": "long: 19:30 (allowed 2:00-15:00)",
+      "title": "Social Studies: The History of Canadian Currency"
+    },
+    {
+      "grade": 11,
+      "day": 74,
+      "subject": "Biology",
+      "bad_id": "hRGg5it5FMI",
+      "reason": "long: 19:29 (allowed 2:00-15:00)",
+      "title": "Ecology: Keystone Species and Trophic Cascades"
+    },
+    {
+      "grade": 11,
+      "day": 80,
+      "subject": "Biology",
+      "bad_id": "hRGg5it5FMI",
+      "reason": "long: 19:29 (allowed 2:00-15:00)",
+      "title": "Review: Biochemistry, Molecular Biology, Ecology, and Human Physiology"
+    },
+    {
+      "grade": 11,
+      "day": 57,
+      "subject": "Chemistry",
+      "bad_id": "PQS_xFG7lpw",
+      "reason": "long: 19:25 (allowed 2:00-15:00)",
+      "title": "Chemistry: Electroplating and Corrosion Prevention"
+    },
+    {
+      "grade": 11,
+      "day": 60,
+      "subject": "Chemistry",
+      "bad_id": "PQS_xFG7lpw",
+      "reason": "long: 19:25 (allowed 2:00-15:00)",
+      "title": "Review: Bonding, Separation, and Applied Chemistry"
+    },
+    {
+      "grade": 12,
+      "day": 92,
+      "subject": "English",
+      "bad_id": "kVWX4j8WqBU",
+      "reason": "long: 19:25 (allowed 2:00-15:00)",
+      "title": "Literature: The K\u00fcnstlerroman \u2014 The Artist\u2019s Coming-of-Age Novel"
+    },
+    {
+      "grade": 8,
+      "day": 50,
+      "subject": "Science",
+      "bad_id": "RoIpCJwX7-M",
+      "reason": "long: 19:23 (allowed 2:00-15:00)",
+      "title": "Review: Biotechnology, Environmental Science, and Emerging Technology"
+    },
+    {
+      "grade": 12,
+      "day": 62,
+      "subject": "AdvancedFunctions",
+      "bad_id": "nJrdnr4f5Dg",
+      "reason": "long: 19:18 (allowed 2:00-15:00)",
+      "title": "Solving Logarithmic Equations and Extraneous Roots"
+    },
+    {
+      "grade": 9,
+      "day": 117,
+      "subject": "SocialStudies",
+      "bad_id": "8d5d_HXGeMA",
+      "reason": "long: 19:18 (allowed 2:00-15:00)",
+      "title": "Social Studies: The Geography of Global Shipping Ports and Freight"
+    },
+    {
+      "grade": 7,
+      "day": 136,
+      "subject": "Language",
+      "bad_id": "cW3pdeTYFZc",
+      "reason": "long: 19:16 (allowed 2:00-15:00)",
+      "title": "Grammar: Reported (Indirect) Speech"
+    },
+    {
+      "grade": 10,
+      "day": 36,
+      "subject": "Math",
+      "bad_id": "TVUShslXDGI",
+      "reason": "long: 19:15 (allowed 2:00-15:00)",
+      "title": "Introduction to Trigonometric Ratios (SOH-CAH-TOA)"
+    },
+    {
+      "grade": 12,
+      "day": 46,
+      "subject": "Physics",
+      "bad_id": "usyi149KNLY",
+      "reason": "long: 19:15 (allowed 2:00-15:00)",
+      "title": "Physics: Superconductivity"
+    },
+    {
+      "grade": 4,
+      "day": 124,
+      "subject": "Science",
+      "bad_id": "LSOvevsM3aY",
+      "reason": "long: 19:14 (allowed 2:00-15:00)",
+      "title": "Science: The Five Senses and Sensory Organs"
+    },
+    {
+      "grade": 10,
+      "day": 143,
+      "subject": "Science",
+      "bad_id": "M90XEREe66s",
+      "reason": "long: 19:14 (allowed 2:00-15:00)",
+      "title": "The Physics of Rainbows and Light Dispersion"
+    },
+    {
+      "grade": 12,
+      "day": 12,
+      "subject": "Physics",
+      "bad_id": "-L5OQp2J46g",
+      "reason": "long: 19:13 (allowed 2:00-15:00)",
+      "title": "Physics Year-End: Connections and Applications"
+    },
+    {
+      "grade": 9,
+      "day": 128,
+      "subject": "Language",
+      "bad_id": "6NkTobntycY",
+      "reason": "long: 19:13 (allowed 2:00-15:00)",
+      "title": "Vocabulary: Malapropisms and Commonly Confused Words"
+    },
+    {
+      "grade": 12,
+      "day": 145,
+      "subject": "AdvancedFunctions",
+      "bad_id": "xZ_z8KWkhXE",
+      "reason": "long: 19:13 (allowed 2:00-15:00)",
+      "title": "Statistics: Correlation and the Pearson Correlation Coefficient"
+    },
+    {
+      "grade": 0,
+      "day": 117,
+      "subject": "Science",
+      "bad_id": "5hH5radPWHo",
+      "reason": "long: 19:11 (allowed 2:00-15:00)",
+      "title": "Magnets: Things That Stick Together"
+    },
+    {
+      "grade": 1,
+      "day": 91,
+      "subject": "Science",
+      "bad_id": "5hH5radPWHo",
+      "reason": "long: 19:11 (allowed 2:00-15:00)",
+      "title": "What Magnets Attract and What They Don't"
+    },
+    {
+      "grade": 8,
+      "day": 15,
+      "subject": "Science",
+      "bad_id": "LiR0wNi1JHg",
+      "reason": "long: 19:10 (allowed 2:00-15:00)",
+      "title": "Cells: Review and Synthesis"
+    },
+    {
+      "grade": 5,
+      "day": 26,
+      "subject": "Science",
+      "bad_id": "tUmZ9djDHh8",
+      "reason": "long: 19:08 (allowed 2:00-15:00)",
+      "title": "Renewable vs. Non-Renewable Resources Revisited"
+    },
+    {
+      "grade": 5,
+      "day": 30,
+      "subject": "Science",
+      "bad_id": "tUmZ9djDHh8",
+      "reason": "long: 19:08 (allowed 2:00-15:00)",
+      "title": "Final Review: Resources, Stewardship, Moon Phases, and Ecosy"
+    },
+    {
+      "grade": 5,
+      "day": 160,
+      "subject": "Science",
+      "bad_id": "tUmZ9djDHh8",
+      "reason": "long: 19:08 (allowed 2:00-15:00)",
+      "title": "Science Review: Ecosystems, Climate, Simple Machines, and Ocean Life"
+    },
+    {
+      "grade": 5,
+      "day": 170,
+      "subject": "Science",
+      "bad_id": "tUmZ9djDHh8",
+      "reason": "long: 19:08 (allowed 2:00-15:00)",
+      "title": "Science Review: Ocean Zones, Machines, Weather, and Ecosystems"
+    },
+    {
+      "grade": 5,
+      "day": 180,
+      "subject": "Science",
+      "bad_id": "tUmZ9djDHh8",
+      "reason": "long: 19:08 (allowed 2:00-15:00)",
+      "title": "Science Review: Natural Disasters, Ecosystems, and Energy"
+    },
+    {
+      "grade": 11,
+      "day": 136,
+      "subject": "English",
+      "bad_id": "9b6_j_mYF5E",
+      "reason": "long: 19:06 (allowed 2:00-15:00)",
+      "title": "Media Literacy: Astroturfing and Manufactured Grassroots Campaigns"
+    },
+    {
+      "grade": 11,
+      "day": 92,
+      "subject": "Chemistry",
+      "bad_id": "AfWG6avOR_E",
+      "reason": "long: 19:05 (allowed 2:00-15:00)",
+      "title": "Chemistry: Sunscreen and UV Photoprotection"
+    },
+    {
+      "grade": 7,
+      "day": 59,
+      "subject": "Math",
+      "bad_id": "zB16KWrb1KU",
+      "reason": "long: 19:04 (allowed 2:00-15:00)",
+      "title": "Adding and Subtracting Polynomials"
+    },
+    {
+      "grade": 9,
+      "day": 135,
+      "subject": "SocialStudies",
+      "bad_id": "cdfjLng90dI",
+      "reason": "long: 19:03 (allowed 2:00-15:00)",
+      "title": "Social Studies: The Geography of Global Air Travel and Flight Networks"
+    },
+    {
+      "grade": 8,
+      "day": 89,
+      "subject": "Science",
+      "bad_id": "PXNKkcB0pI4",
+      "reason": "long: 19:01 (allowed 2:00-15:00)",
+      "title": "Science: The Chemistry of Batteries and Energy Storage"
+    },
+    {
+      "grade": 9,
+      "day": 117,
+      "subject": "Language",
+      "bad_id": "iI75W7M4Puw",
+      "reason": "long: 19:01 (allowed 2:00-15:00)",
+      "title": "Reading: Analyzing Anti-Heroes in Literature"
+    },
+    {
+      "grade": 11,
+      "day": 39,
+      "subject": "Functions",
+      "bad_id": "91O3vKGigDE",
+      "reason": "long: 18:59 (allowed 2:00-15:00)",
+      "title": "Trigonometric Identities: Proving and Applying"
+    },
+    {
+      "grade": 9,
+      "day": 49,
+      "subject": "Science",
+      "bad_id": "aubZU0iWtgI",
+      "reason": "long: 18:59 (allowed 2:00-15:00)",
+      "title": "Science: Osmosis and Diffusion in Cells"
+    },
+    {
+      "grade": 11,
+      "day": 52,
+      "subject": "Biology",
+      "bad_id": "aubZU0iWtgI",
+      "reason": "long: 18:59 (allowed 2:00-15:00)",
+      "title": "Biology: Osmosis and Cell Transport Mechanisms"
+    },
+    {
+      "grade": 6,
+      "day": 82,
+      "subject": "Language",
+      "bad_id": "36wG9pSYu7Q",
+      "reason": "long: 18:51 (allowed 2:00-15:00)",
+      "title": "Grammar: Modal Verbs and Their Uses"
+    },
+    {
+      "grade": 9,
+      "day": 95,
+      "subject": "Math",
+      "bad_id": "_wakGOMwkR4",
+      "reason": "long: 18:50 (allowed 2:00-15:00)",
+      "title": "Trigonometry: Angle of Elevation and Depression"
+    },
+    {
+      "grade": 11,
+      "day": 13,
+      "subject": "Chemistry",
+      "bad_id": "5iTOphGnCtg",
+      "reason": "long: 18:49 (allowed 2:00-15:00)",
+      "title": "Chemistry Review: Major Concepts and Connections"
+    },
+    {
+      "grade": 10,
+      "day": 44,
+      "subject": "Math",
+      "bad_id": "ZfjzxEBa1jQ",
+      "reason": "long: 18:49 (allowed 2:00-15:00)",
+      "title": "Solving Systems of Equations by Substitution"
+    },
+    {
+      "grade": 12,
+      "day": 43,
+      "subject": "Calculus",
+      "bad_id": "bh8JTQ1eS74",
+      "reason": "long: 18:49 (allowed 2:00-15:00)",
+      "title": "Vector-Valued Functions and Motion"
+    },
+    {
+      "grade": 12,
+      "day": 69,
+      "subject": "Physics",
+      "bad_id": "5iTOphGnCtg",
+      "reason": "long: 18:49 (allowed 2:00-15:00)",
+      "title": "Review: Chemistry, Physics, and Biology Applications"
+    },
+    {
+      "grade": 9,
+      "day": 81,
+      "subject": "Math",
+      "bad_id": "ZfjzxEBa1jQ",
+      "reason": "long: 18:49 (allowed 2:00-15:00)",
+      "title": "Solving Systems of Equations by Substitution"
+    },
+    {
+      "grade": 7,
+      "day": 47,
+      "subject": "Language",
+      "bad_id": "FVR8zz8ci2k",
+      "reason": "long: 18:48 (allowed 2:00-15:00)",
+      "title": "Media Literacy: How Film and Video Editing Techniques Shape Meaning"
+    },
+    {
+      "grade": 12,
+      "day": 77,
+      "subject": "Calculus",
+      "bad_id": "iXdMpXMuEGI",
+      "reason": "long: 18:47 (allowed 2:00-15:00)",
+      "title": "Vectors in Two Dimensions"
+    },
+    {
+      "grade": 12,
+      "day": 78,
+      "subject": "Calculus",
+      "bad_id": "iXdMpXMuEGI",
+      "reason": "long: 18:47 (allowed 2:00-15:00)",
+      "title": "Review: Logarithms, Vectors, and Probability"
+    },
+    {
+      "grade": 11,
+      "day": 122,
+      "subject": "Functions",
+      "bad_id": "iXdMpXMuEGI",
+      "reason": "long: 18:47 (allowed 2:00-15:00)",
+      "title": "Introduction to Vectors"
+    },
+    {
+      "grade": 9,
+      "day": 24,
+      "subject": "SocialStudies",
+      "bad_id": "VfDAd-MO94o",
+      "reason": "long: 18:46 (allowed 2:00-15:00)",
+      "title": "GPS, GIS, and Remote Sensing Technology"
+    },
+    {
+      "grade": 12,
+      "day": 35,
+      "subject": "AdvancedFunctions",
+      "bad_id": "cSKAqfGXOPI",
+      "reason": "long: 18:40 (allowed 2:00-15:00)",
+      "title": "Vectors: Solving Navigation Problems with Bearings"
+    },
+    {
+      "grade": 12,
+      "day": 147,
+      "subject": "Calculus",
+      "bad_id": "HaHsqDjWMLU",
+      "reason": "long: 18:40 (allowed 2:00-15:00)",
+      "title": "Calculus: The Chain Rule for Derivatives"
+    },
+    {
+      "grade": 10,
+      "day": 134,
+      "subject": "Math",
+      "bad_id": "cSKAqfGXOPI",
+      "reason": "long: 18:40 (allowed 2:00-15:00)",
+      "title": "Trigonometry Applications: Surveying and Navigation Problems"
+    },
+    {
+      "grade": 12,
+      "day": 84,
+      "subject": "AdvancedFunctions",
+      "bad_id": "Vw-RwPBWS8g",
+      "reason": "long: 18:35 (allowed 2:00-15:00)",
+      "title": "Graphing Sinusoidal Functions: Amplitude, Period, and Phase Shift"
+    },
+    {
+      "grade": 12,
+      "day": 146,
+      "subject": "AdvancedFunctions",
+      "bad_id": "H-SyB0NK3H8",
+      "reason": "long: 18:35 (allowed 2:00-15:00)",
+      "title": "Discrete Math: Combinatorial Game Theory and the Game of Nim"
+    },
+    {
+      "grade": 12,
+      "day": 51,
+      "subject": "English",
+      "bad_id": "MZ_6u7JbvU0",
+      "reason": "long: 18:33 (allowed 2:00-15:00)",
+      "title": "Literature: Existentialist Philosophy in the Modern Novel"
+    },
+    {
+      "grade": 12,
+      "day": 60,
+      "subject": "English",
+      "bad_id": "MZ_6u7JbvU0",
+      "reason": "long: 18:33 (allowed 2:00-15:00)",
+      "title": "Review: Grade 12 English -- Days 51-59 Synthesis"
+    },
+    {
+      "grade": 10,
+      "day": 1,
+      "subject": "Science",
+      "bad_id": "xTtV61KPV3s",
+      "reason": "long: 18:31 (allowed 2:00-15:00)",
+      "title": "Chemistry: Atomic Theory and the Periodic Table"
+    },
+    {
+      "grade": 10,
+      "day": 120,
+      "subject": "Science",
+      "bad_id": "xTtV61KPV3s",
+      "reason": "long: 18:31 (allowed 2:00-15:00)",
+      "title": "Science Review: Senses, Chemistry, and Earth Science"
+    },
+    {
+      "grade": 10,
+      "day": 130,
+      "subject": "Science",
+      "bad_id": "xTtV61KPV3s",
+      "reason": "long: 18:31 (allowed 2:00-15:00)",
+      "title": "Science Review: Human Biology, Chemistry, and Earth Science"
+    },
+    {
+      "grade": 10,
+      "day": 140,
+      "subject": "Science",
+      "bad_id": "xTtV61KPV3s",
+      "reason": "long: 18:31 (allowed 2:00-15:00)",
+      "title": "Science Review: Cell Processes, Chemistry, and Earth Systems"
+    },
+    {
+      "grade": 10,
+      "day": 170,
+      "subject": "Science",
+      "bad_id": "xTtV61KPV3s",
+      "reason": "long: 18:31 (allowed 2:00-15:00)",
+      "title": "Science Review: Chemistry, Physics, Earth Science, and Biology (Days 161-169)"
+    },
+    {
+      "grade": 10,
+      "day": 180,
+      "subject": "Science",
+      "bad_id": "xTtV61KPV3s",
+      "reason": "long: 18:31 (allowed 2:00-15:00)",
+      "title": "Science Review: Physics, Chemistry, Earth Science, and Biology (Days 171-179)"
+    },
+    {
+      "grade": 10,
+      "day": 187,
+      "subject": "Science",
+      "bad_id": "xTtV61KPV3s",
+      "reason": "long: 18:31 (allowed 2:00-15:00)",
+      "title": "Science Review: The Final Review -- Physics, Chemistry, Earth Science, and Biology (Days 181-186)"
+    },
+    {
+      "grade": 12,
+      "day": 105,
+      "subject": "Calculus",
+      "bad_id": "qwyg5NzJvoI",
+      "reason": "long: 18:30 (allowed 2:00-15:00)",
+      "title": "Introduction to Vectors"
+    },
+    {
+      "grade": 5,
+      "day": 127,
+      "subject": "SocialStudies",
+      "bad_id": "3hpNona8M4g",
+      "reason": "long: 18:30 (allowed 2:00-15:00)",
+      "title": "Canadas Three Oceans: Atlantic, Pacific, and Arctic"
+    },
+    {
+      "grade": 8,
+      "day": 93,
+      "subject": "History",
+      "bad_id": "yFUaO573cGQ",
+      "reason": "long: 18:29 (allowed 2:00-15:00)",
+      "title": "Social Studies: The Canadian Pacific Railway and Nation-Building"
+    },
+    {
+      "grade": 9,
+      "day": 11,
+      "subject": "Language",
+      "bad_id": "ir7I_dbJCqo",
+      "reason": "long: 18:26 (allowed 2:00-15:00)",
+      "title": "Theme and Conflict in a Short Story"
+    },
+    {
+      "grade": 9,
+      "day": 15,
+      "subject": "Language",
+      "bad_id": "ir7I_dbJCqo",
+      "reason": "long: 18:26 (allowed 2:00-15:00)",
+      "title": "Review: Story Analysis, Media, Speech, and Narrators"
+    },
+    {
+      "grade": 11,
+      "day": 35,
+      "subject": "Functions",
+      "bad_id": "-_myO_Lmdbw",
+      "reason": "long: 18:26 (allowed 2:00-15:00)",
+      "title": "Sequences: Recursive Formulas and Applications"
+    },
+    {
+      "grade": 12,
+      "day": 42,
+      "subject": "English",
+      "bad_id": "aGEODO2_48E",
+      "reason": "long: 18:26 (allowed 2:00-15:00)",
+      "title": "Literature: Postmodern Metafiction and Self-Reference"
+    },
+    {
+      "grade": 11,
+      "day": 70,
+      "subject": "Functions",
+      "bad_id": "-_myO_Lmdbw",
+      "reason": "long: 18:26 (allowed 2:00-15:00)",
+      "title": "Review: The Ambiguous Case of the Sine Law and Sequences"
+    },
+    {
+      "grade": 5,
+      "day": 26,
+      "subject": "Language",
+      "bad_id": "TSPz9YOpLgU",
+      "reason": "long: 18:25 (allowed 2:00-15:00)",
+      "title": "Comparing Two Texts on the Same Topic"
+    },
+    {
+      "grade": 5,
+      "day": 30,
+      "subject": "Language",
+      "bad_id": "TSPz9YOpLgU",
+      "reason": "long: 18:25 (allowed 2:00-15:00)",
+      "title": "Final Review: Comparing Texts, Sequence, Editing, and Word S"
+    },
+    {
+      "grade": 0,
+      "day": 136,
+      "subject": "Language",
+      "bad_id": "gmpF3tiWeN4",
+      "reason": "long: 18:25 (allowed 2:00-15:00)",
+      "title": "Rhyming Words: Thinking of a Rhyme"
+    },
+    {
+      "grade": 12,
+      "day": 120,
+      "subject": "English",
+      "bad_id": "_Vh2miANqUA",
+      "reason": "long: 18:24 (allowed 2:00-15:00)",
+      "title": "English Review: Literary Theory and Poetic Form"
+    },
+    {
+      "grade": 12,
+      "day": 180,
+      "subject": "English",
+      "bad_id": "_Vh2miANqUA",
+      "reason": "long: 18:24 (allowed 2:00-15:00)",
+      "title": "English Review: Narrative Tradition, Theory, and Public Rhetoric"
+    },
+    {
+      "grade": 12,
+      "day": 3,
+      "subject": "Calculus",
+      "bad_id": "V0xlG8gq7uc",
+      "reason": "long: 18:19 (allowed 2:00-15:00)",
+      "title": "Derivatives: Product, Quotient, and Chain Rules"
+    },
+    {
+      "grade": 10,
+      "day": 124,
+      "subject": "Math",
+      "bad_id": "SlySA3a_sXw",
+      "reason": "long: 18:19 (allowed 2:00-15:00)",
+      "title": "Verifying Properties of Triangles Using Coordinate Geometry"
+    },
+    {
+      "grade": 7,
+      "day": 95,
+      "subject": "Language",
+      "bad_id": "5Zg-C8AAIGg",
+      "reason": "long: 18:18 (allowed 2:00-15:00)",
+      "title": "Media Literacy: Analyzing Infographics and Data Visualization"
+    },
+    {
+      "grade": 10,
+      "day": 38,
+      "subject": "Math",
+      "bad_id": "hCWymDG7724",
+      "reason": "long: 18:17 (allowed 2:00-15:00)",
+      "title": "Transformations of Exponential Functions"
+    },
+    {
+      "grade": 11,
+      "day": 81,
+      "subject": "Functions",
+      "bad_id": "F3DMOyRoHUc",
+      "reason": "long: 18:17 (allowed 2:00-15:00)",
+      "title": "Functions: Logarithmic Scales \u2014 pH, Richter, and Decibels"
+    },
+    {
+      "grade": 0,
+      "day": 84,
+      "subject": "Language",
+      "bad_id": "cY7JggN5M-U",
+      "reason": "long: 18:17 (allowed 2:00-15:00)",
+      "title": "Rhyming or Not: Does It Rhyme?"
+    },
+    {
+      "grade": 12,
+      "day": 124,
+      "subject": "AdvancedFunctions",
+      "bad_id": "F3DMOyRoHUc",
+      "reason": "long: 18:17 (allowed 2:00-15:00)",
+      "title": "Logarithmic Scales in Science: pH, Richter, and Decibels"
+    },
+    {
+      "grade": 11,
+      "day": 84,
+      "subject": "Functions",
+      "bad_id": "SE5SBTgrwH8",
+      "reason": "long: 18:16 (allowed 2:00-15:00)",
+      "title": "Trigonometric Identities: Compound and Double-Angle Formulas"
+    },
+    {
+      "grade": 12,
+      "day": 81,
+      "subject": "AdvancedFunctions",
+      "bad_id": "SE5SBTgrwH8",
+      "reason": "long: 18:16 (allowed 2:00-15:00)",
+      "title": "Double Angle Formulas for Sine, Cosine, and Tangent"
+    },
+    {
+      "grade": 9,
+      "day": 106,
+      "subject": "Science",
+      "bad_id": "CJ6aB5ULqa0",
+      "reason": "long: 18:13 (allowed 2:00-15:00)",
+      "title": "Science: Lenses and the Formation of Images (Concave and Convex)"
+    },
+    {
+      "grade": 12,
+      "day": 7,
+      "subject": "Physics",
+      "bad_id": "r-SCyD7f_zI",
+      "reason": "long: 18:10 (allowed 2:00-15:00)",
+      "title": "Electric Circuits: Current, Resistance, and Ohm's Law"
+    },
+    {
+      "grade": 10,
+      "day": 42,
+      "subject": "Science",
+      "bad_id": "r-SCyD7f_zI",
+      "reason": "long: 18:10 (allowed 2:00-15:00)",
+      "title": "Physics: Electric Circuits and Ohm\u2019s Law"
+    },
+    {
+      "grade": 12,
+      "day": 40,
+      "subject": "Physics",
+      "bad_id": "r-SCyD7f_zI",
+      "reason": "long: 18:10 (allowed 2:00-15:00)",
+      "title": "Review: Thermodynamics, Circuits, and Modern Physics"
+    },
+    {
+      "grade": 12,
+      "day": 130,
+      "subject": "Physics",
+      "bad_id": "r-SCyD7f_zI",
+      "reason": "long: 18:10 (allowed 2:00-15:00)",
+      "title": "Physics Review: Matter-Energy Conversion, Circuits, and Optics"
+    },
+    {
+      "grade": 10,
+      "day": 144,
+      "subject": "English",
+      "bad_id": "rfZ6aTp5XuA",
+      "reason": "long: 18:10 (allowed 2:00-15:00)",
+      "title": "Writing: The Business Memo and Professional Email"
+    },
+    {
+      "grade": 12,
+      "day": 170,
+      "subject": "Physics",
+      "bad_id": "r-SCyD7f_zI",
+      "reason": "long: 18:10 (allowed 2:00-15:00)",
+      "title": "Physics Review: Relativity, Circuits, and Nuclear Physics"
+    },
+    {
+      "grade": 9,
+      "day": 89,
+      "subject": "Math",
+      "bad_id": "nyk3UGwCAms",
+      "reason": "long: 18:09 (allowed 2:00-15:00)",
+      "title": "Multiplying Binomials Using the Distributive Property (FOIL)"
+    },
+    {
+      "grade": 12,
+      "day": 10,
+      "subject": "AdvancedFunctions",
+      "bad_id": "tHNVX3e9zd0",
+      "reason": "long: 18:08 (allowed 2:00-15:00)",
+      "title": "Proof and Mathematical Reasoning"
+    },
+    {
+      "grade": 12,
+      "day": 25,
+      "subject": "Calculus",
+      "bad_id": "WaMvWIay8QQ",
+      "reason": "long: 18:07 (allowed 2:00-15:00)",
+      "title": "Derivatives: Finding a Pattern in Higher-Order Derivatives"
+    },
+    {
+      "grade": 8,
+      "day": 99,
+      "subject": "History",
+      "bad_id": "BCCA1n-AoPs",
+      "reason": "long: 18:05 (allowed 2:00-15:00)",
+      "title": "Social Studies: The Canadian Bill of Rights of 1960"
+    },
+    {
+      "grade": 8,
+      "day": 103,
+      "subject": "Math",
+      "bad_id": "YXpZhN6iwXI",
+      "reason": "long: 18:04 (allowed 2:00-15:00)",
+      "title": "Percent Problems: Finding the Whole"
+    },
+    {
+      "grade": 12,
+      "day": 110,
+      "subject": "AdvancedFunctions",
+      "bad_id": "GS7dIWA6Hpo",
+      "reason": "long: 18:03 (allowed 2:00-15:00)",
+      "title": "Discrete Math: The Inclusion-Exclusion Principle"
+    },
+    {
+      "grade": 6,
+      "day": 30,
+      "subject": "Math",
+      "bad_id": "RnR57m46c8U",
+      "reason": "long: 18:02 (allowed 2:00-15:00)",
+      "title": "Grade 6 Math Year Review"
+    },
+    {
+      "grade": 11,
+      "day": 42,
+      "subject": "Chemistry",
+      "bad_id": "WTQvfvoOF3g",
+      "reason": "long: 18:02 (allowed 2:00-15:00)",
+      "title": "Nuclear Chemistry: Half-Life Calculations and Applications"
+    },
+    {
+      "grade": 10,
+      "day": 91,
+      "subject": "English",
+      "bad_id": "HTEUXulCJZY",
+      "reason": "long: 18:01 (allowed 2:00-15:00)",
+      "title": "Reading: Analyzing Satire and Parody"
+    },
+    {
+      "grade": 5,
+      "day": 53,
+      "subject": "SocialStudies",
+      "bad_id": "p6vzrjbvj5M",
+      "reason": "long: 18:00 (allowed 2:00-15:00)",
+      "title": "Canadian Explorers: Discovering New Places"
+    },
+    {
+      "grade": 11,
+      "day": 75,
+      "subject": "Functions",
+      "bad_id": "8J3n7amHQzU",
+      "reason": "long: 18:00 (allowed 2:00-15:00)",
+      "title": "Trigonometry: Modelling Periodic Phenomena with Sinusoidal Functions"
+    },
+    {
+      "grade": 11,
+      "day": 80,
+      "subject": "Functions",
+      "bad_id": "8J3n7amHQzU",
+      "reason": "long: 18:00 (allowed 2:00-15:00)",
+      "title": "Review: Sinusoidal Modelling and Simple Annuities"
+    },
+    {
+      "grade": 10,
+      "day": 25,
+      "subject": "English",
+      "bad_id": "zVu-XvULZNg",
+      "reason": "long: 17:59 (allowed 2:00-15:00)",
+      "title": "Language Conventions: Grammar for Academic Writing"
+    },
+    {
+      "grade": 11,
+      "day": 86,
+      "subject": "Chemistry",
+      "bad_id": "74-X94OP2XI",
+      "reason": "long: 17:59 (allowed 2:00-15:00)",
+      "title": "The Mole Concept and Molar Mass"
+    },
+    {
+      "grade": 11,
+      "day": 90,
+      "subject": "Chemistry",
+      "bad_id": "74-X94OP2XI",
+      "reason": "long: 17:59 (allowed 2:00-15:00)",
+      "title": "Review: Equilibrium, Materials, and Applied Chemistry (Days 81-89)"
+    },
+    {
+      "grade": 11,
+      "day": 59,
+      "subject": "Biology",
+      "bad_id": "8X5aDyGUKjE",
+      "reason": "long: 17:58 (allowed 2:00-15:00)",
+      "title": "Biology: The History of Evolutionary Theory (Darwin and Wallace)"
+    },
+    {
+      "grade": 11,
+      "day": 60,
+      "subject": "Biology",
+      "bad_id": "8X5aDyGUKjE",
+      "reason": "long: 17:58 (allowed 2:00-15:00)",
+      "title": "Review: Systems, Senses, and Evolutionary History"
+    },
+    {
+      "grade": 9,
+      "day": 78,
+      "subject": "SocialStudies",
+      "bad_id": "9wRAk6Oq0-I",
+      "reason": "long: 17:57 (allowed 2:00-15:00)",
+      "title": "Canada in World War II"
+    },
+    {
+      "grade": 12,
+      "day": 98,
+      "subject": "AdvancedFunctions",
+      "bad_id": "YaU5JTe3cPU",
+      "reason": "long: 17:56 (allowed 2:00-15:00)",
+      "title": "Functions: Descartes\u2019 Rule of Signs"
+    },
+    {
+      "grade": 8,
+      "day": 64,
+      "subject": "Math",
+      "bad_id": "JRf7_RKF3uA",
+      "reason": "long: 17:54 (allowed 2:00-15:00)",
+      "title": "Financial Literacy: Currency Exchange and Unit Pricing"
+    },
+    {
+      "grade": 10,
+      "day": 89,
+      "subject": "Math",
+      "bad_id": "JRf7_RKF3uA",
+      "reason": "long: 17:54 (allowed 2:00-15:00)",
+      "title": "Financial Literacy: Currency Exchange and International Finance"
+    },
+    {
+      "grade": 10,
+      "day": 90,
+      "subject": "Math",
+      "bad_id": "JRf7_RKF3uA",
+      "reason": "long: 17:54 (allowed 2:00-15:00)",
+      "title": "Review: Functions, Geometry, and Probability (Days 81-89)"
+    },
+    {
+      "grade": 8,
+      "day": 16,
+      "subject": "Math",
+      "bad_id": "ZvL9aDGNHqA",
+      "reason": "long: 17:53 (allowed 2:00-15:00)",
+      "title": "Algebra: Multiplying Polynomials"
+    },
+    {
+      "grade": 10,
+      "day": 129,
+      "subject": "Math",
+      "bad_id": "9-eHMMpQC2k",
+      "reason": "long: 17:52 (allowed 2:00-15:00)",
+      "title": "Primary Trigonometric Ratios: Sine, Cosine, and Tangent"
+    },
+    {
+      "grade": 0,
+      "day": 141,
+      "subject": "SocialStudies",
+      "bad_id": "qtO6e1ZSO28",
+      "reason": "long: 17:50 (allowed 2:00-15:00)",
+      "title": "Our Lifeguards: Keeping Us Safe at the Pool"
+    },
+    {
+      "grade": 10,
+      "day": 35,
+      "subject": "English",
+      "bad_id": "l26IWC_8g3g",
+      "reason": "long: 17:49 (allowed 2:00-15:00)",
+      "title": "Reading: Analyzing Graphic Novels"
+    },
+    {
+      "grade": 12,
+      "day": 46,
+      "subject": "AdvancedFunctions",
+      "bad_id": "fKyBOLsqRlo",
+      "reason": "long: 17:47 (allowed 2:00-15:00)",
+      "title": "Functions: Symmetry -- Even, Odd, and Neither"
+    },
+    {
+      "grade": 11,
+      "day": 57,
+      "subject": "Biology",
+      "bad_id": "fhiqKZCT6OA",
+      "reason": "long: 17:47 (allowed 2:00-15:00)",
+      "title": "Biology: Animal Reproduction \u2014 Strategies and Adaptations"
+    },
+    {
+      "grade": 3,
+      "day": 69,
+      "subject": "SocialStudies",
+      "bad_id": "qY5kN665hsg",
+      "reason": "long: 17:47 (allowed 2:00-15:00)",
+      "title": "Social Studies: Canada\u2019s Currency: Coins and Bills"
+    },
+    {
+      "grade": 3,
+      "day": 70,
+      "subject": "SocialStudies",
+      "bad_id": "qY5kN665hsg",
+      "reason": "long: 17:47 (allowed 2:00-15:00)",
+      "title": "Review: Government, Geography, and Economy"
+    },
+    {
+      "grade": 11,
+      "day": 120,
+      "subject": "Biology",
+      "bad_id": "fhiqKZCT6OA",
+      "reason": "long: 17:47 (allowed 2:00-15:00)",
+      "title": "Biology Review: Adaptations, Cell Biology, and Ecosystems"
+    },
+    {
+      "grade": 11,
+      "day": 5,
+      "subject": "Biology",
+      "bad_id": "D2Y_eEaxrYo",
+      "reason": "long: 17:46 (allowed 2:00-15:00)",
+      "title": "Photosynthesis: Light-Dependent and Light-Independent Reacti"
+    },
+    {
+      "grade": 7,
+      "day": 66,
+      "subject": "Math",
+      "bad_id": "NDytTAJX6RM",
+      "reason": "long: 17:46 (allowed 2:00-15:00)",
+      "title": "Algebra: Solving Equations Involving Fractions and Decimals"
+    },
+    {
+      "grade": 12,
+      "day": 41,
+      "subject": "AdvancedFunctions",
+      "bad_id": "rTtFRs_ygG8",
+      "reason": "long: 17:44 (allowed 2:00-15:00)",
+      "title": "Logarithmic Functions: Modelling Exponential Growth and Decay"
+    },
+    {
+      "grade": 12,
+      "day": 21,
+      "subject": "AdvancedFunctions",
+      "bad_id": "Ej3ZVxljJfo",
+      "reason": "long: 17:42 (allowed 2:00-15:00)",
+      "title": "Vectors: Applications to Navigation and Problem Solving"
+    },
+    {
+      "grade": 11,
+      "day": 56,
+      "subject": "English",
+      "bad_id": "fXYckRgsdjI",
+      "reason": "long: 17:40 (allowed 2:00-15:00)",
+      "title": "Literature: Understanding Comics \u2014 Visual Language and Sequential Art"
+    },
+    {
+      "grade": 10,
+      "day": 102,
+      "subject": "History",
+      "bad_id": "unZGJKNQR8I",
+      "reason": "long: 17:39 (allowed 2:00-15:00)",
+      "title": "The Rebellions of 1837-38 in Upper and Lower Canada"
+    },
+    {
+      "grade": 7,
+      "day": 122,
+      "subject": "SocialStudies",
+      "bad_id": "unZGJKNQR8I",
+      "reason": "long: 17:39 (allowed 2:00-15:00)",
+      "title": "Social Studies: The Rebellions of 1837 in Upper and Lower Canada"
+    },
+    {
+      "grade": 10,
+      "day": 53,
+      "subject": "English",
+      "bad_id": "CC_7h6jHIzQ",
+      "reason": "long: 17:37 (allowed 2:00-15:00)",
+      "title": "Grammar: Rhetorical Devices in Argumentative Writing"
+    },
+    {
+      "grade": 10,
+      "day": 60,
+      "subject": "English",
+      "bad_id": "CC_7h6jHIzQ",
+      "reason": "long: 17:37 (allowed 2:00-15:00)",
+      "title": "Review: Narrative Forms, Rhetoric, and War Literature"
+    },
+    {
+      "grade": 12,
+      "day": 31,
+      "subject": "Calculus",
+      "bad_id": "5kh7uMeOFaU",
+      "reason": "long: 17:33 (allowed 2:00-15:00)",
+      "title": "Continuity and the Intermediate Value Theorem"
+    },
+    {
+      "grade": 8,
+      "day": 136,
+      "subject": "History",
+      "bad_id": "a1E3p5pfLyI",
+      "reason": "long: 17:33 (allowed 2:00-15:00)",
+      "title": "The Formation of the Supreme Court of Canada in 1875"
+    },
+    {
+      "grade": 3,
+      "day": 18,
+      "subject": "SocialStudies",
+      "bad_id": "2Nf1tNQlPYw",
+      "reason": "long: 17:32 (allowed 2:00-15:00)",
+      "title": "Economy: Goods and Services"
+    },
+    {
+      "grade": 12,
+      "day": 36,
+      "subject": "Physics",
+      "bad_id": "PLQrPqYlPmI",
+      "reason": "long: 17:32 (allowed 2:00-15:00)",
+      "title": "Physics: RC Circuits and Time Constants"
+    },
+    {
+      "grade": 9,
+      "day": 77,
+      "subject": "Math",
+      "bad_id": "Th9mT4TxvOI",
+      "reason": "long: 17:31 (allowed 2:00-15:00)",
+      "title": "Number Systems: Rational, Irrational, and Real Numbers"
+    },
+    {
+      "grade": 6,
+      "day": 81,
+      "subject": "Science",
+      "bad_id": "6_BGHy4sfMs",
+      "reason": "long: 17:30 (allowed 2:00-15:00)",
+      "title": "Science: Renewable vs Fossil Fuel Power Plants Compared"
+    },
+    {
+      "grade": 12,
+      "day": 148,
+      "subject": "Calculus",
+      "bad_id": "p9938IIEhXU",
+      "reason": "long: 17:30 (allowed 2:00-15:00)",
+      "title": "Vectors: Work Done by a Force Along a Displacement"
+    },
+    {
+      "grade": 12,
+      "day": 68,
+      "subject": "Calculus",
+      "bad_id": "bDvLCB8eRBQ",
+      "reason": "long: 17:29 (allowed 2:00-15:00)",
+      "title": "Optimization: Minimizing the Cost of a Combined Land-and-Underwater Pipeline"
+    },
+    {
+      "grade": 12,
+      "day": 104,
+      "subject": "Physics",
+      "bad_id": "xaAthgG0o8o",
+      "reason": "long: 17:25 (allowed 2:00-15:00)",
+      "title": "Double-Slit Interference and the Wave Nature of Light"
+    },
+    {
+      "grade": 11,
+      "day": 54,
+      "subject": "Chemistry",
+      "bad_id": "HCWwRh5CXYU",
+      "reason": "long: 17:22 (allowed 2:00-15:00)",
+      "title": "Chemistry: Crystal Structures and Lattice Types"
+    },
+    {
+      "grade": 11,
+      "day": 103,
+      "subject": "Chemistry",
+      "bad_id": "16fFjAcxJSc",
+      "reason": "long: 17:21 (allowed 2:00-15:00)",
+      "title": "Chemistry: The Arrhenius Equation and Activation Energy"
+    },
+    {
+      "grade": 8,
+      "day": 133,
+      "subject": "Math",
+      "bad_id": "D4nGkWOPb6M",
+      "reason": "long: 17:20 (allowed 2:00-15:00)",
+      "title": "Area of a Circle"
+    },
+    {
+      "grade": 12,
+      "day": 48,
+      "subject": "Physics",
+      "bad_id": "QIaAleG0Eb4",
+      "reason": "long: 17:18 (allowed 2:00-15:00)",
+      "title": "Physics: Satellites and Orbital Mechanics"
+    },
+    {
+      "grade": 12,
+      "day": 103,
+      "subject": "Physics",
+      "bad_id": "QIaAleG0Eb4",
+      "reason": "long: 17:18 (allowed 2:00-15:00)",
+      "title": "Gravitational Field Strength and Orbital Motion"
+    },
+    {
+      "grade": 12,
+      "day": 63,
+      "subject": "Calculus",
+      "bad_id": "3wrXDw5ETh4",
+      "reason": "long: 17:17 (allowed 2:00-15:00)",
+      "title": "Calculus: Related Extrema -- Optimization on Closed Intervals Revisited"
+    },
+    {
+      "grade": 9,
+      "day": 105,
+      "subject": "Math",
+      "bad_id": "50lGnME56I4",
+      "reason": "long: 17:17 (allowed 2:00-15:00)",
+      "title": "Solving Multi-Step Linear Equations with Fractions and Decimals"
+    },
+    {
+      "grade": 6,
+      "day": 119,
+      "subject": "Language",
+      "bad_id": "0SNaOisC2II",
+      "reason": "long: 17:16 (allowed 2:00-15:00)",
+      "title": "Writing: Writing a Short Screenplay Scene"
+    },
+    {
+      "grade": 11,
+      "day": 73,
+      "subject": "Chemistry",
+      "bad_id": "d86lQloVCf0",
+      "reason": "long: 17:12 (allowed 2:00-15:00)",
+      "title": "Organic Chemistry: Aromatic Compounds and Benzene Derivatives"
+    },
+    {
+      "grade": 11,
+      "day": 80,
+      "subject": "Chemistry",
+      "bad_id": "d86lQloVCf0",
+      "reason": "long: 17:12 (allowed 2:00-15:00)",
+      "title": "Review: Hydrates, Gas Laws, Nuclear Chemistry, and Environmental Chemistry"
+    },
+    {
+      "grade": 8,
+      "day": 24,
+      "subject": "Language",
+      "bad_id": "-RqwPj_J_IU",
+      "reason": "long: 17:11 (allowed 2:00-15:00)",
+      "title": "Reading: Poetry Analysis"
+    },
+    {
+      "grade": 10,
+      "day": 62,
+      "subject": "Math",
+      "bad_id": "0gicD4STzpg",
+      "reason": "long: 17:11 (allowed 2:00-15:00)",
+      "title": "Radical Functions and Equations"
+    },
+    {
+      "grade": 8,
+      "day": 120,
+      "subject": "Language",
+      "bad_id": "-RqwPj_J_IU",
+      "reason": "long: 17:11 (allowed 2:00-15:00)",
+      "title": "Language Review: Grammar, Vocabulary, and Reading Analysis"
+    },
+    {
+      "grade": 11,
+      "day": 140,
+      "subject": "Functions",
+      "bad_id": "0gicD4STzpg",
+      "reason": "long: 17:11 (allowed 2:00-15:00)",
+      "title": "Algebra: Solving Radical Equations"
+    },
+    {
+      "grade": 11,
+      "day": 74,
+      "subject": "Functions",
+      "bad_id": "yOrXqvO2M1M",
+      "reason": "long: 17:09 (allowed 2:00-15:00)",
+      "title": "Introduction to Cubic Functions"
+    },
+    {
+      "grade": 12,
+      "day": 14,
+      "subject": "English",
+      "bad_id": "GNL1_tNTqpw",
+      "reason": "long: 17:08 (allowed 2:00-15:00)",
+      "title": "Grade 12 English: Culminating Preparation"
+    },
+    {
+      "grade": 6,
+      "day": 20,
+      "subject": "Math",
+      "bad_id": "YEzqPnE-XZA",
+      "reason": "long: 17:07 (allowed 2:00-15:00)",
+      "title": "Comparing and Ordering Fractions"
+    },
+    {
+      "grade": 8,
+      "day": 11,
+      "subject": "Math",
+      "bad_id": "_h6leOD0juY",
+      "reason": "long: 17:07 (allowed 2:00-15:00)",
+      "title": "Patterning: Arithmetic and Geometric Sequences"
+    },
+    {
+      "grade": 5,
+      "day": 40,
+      "subject": "Science",
+      "bad_id": "uxxCUe3z2n8",
+      "reason": "long: 17:07 (allowed 2:00-15:00)",
+      "title": "Scientific Method and Experimental Design"
+    },
+    {
+      "grade": 8,
+      "day": 55,
+      "subject": "History",
+      "bad_id": "zjK7PWmRRyg",
+      "reason": "long: 17:06 (allowed 2:00-15:00)",
+      "title": "The Industrial Revolution: Causes and Effects"
+    },
+    {
+      "grade": 8,
+      "day": 66,
+      "subject": "History",
+      "bad_id": "zjK7PWmRRyg",
+      "reason": "long: 17:06 (allowed 2:00-15:00)",
+      "title": "Review: Revolutions, Rights, and Global Change"
+    },
+    {
+      "grade": 10,
+      "day": 28,
+      "subject": "Math",
+      "bad_id": "ZQElzjCsl9o",
+      "reason": "long: 17:05 (allowed 2:00-15:00)",
+      "title": "Mathematics: Year-End Summary and Growth Reflection"
+    },
+    {
+      "grade": 12,
+      "day": 30,
+      "subject": "Calculus",
+      "bad_id": "WUvTyaaNkzM",
+      "reason": "long: 17:05 (allowed 2:00-15:00)",
+      "title": "Grade 12 Calculus: Final Day"
+    },
+    {
+      "grade": 10,
+      "day": 61,
+      "subject": "English",
+      "bad_id": "43Vrnaz8fYU",
+      "reason": "long: 17:03 (allowed 2:00-15:00)",
+      "title": "Characterization: How Authors Build Complex Characters"
+    },
+    {
+      "grade": 10,
+      "day": 70,
+      "subject": "English",
+      "bad_id": "43Vrnaz8fYU",
+      "reason": "long: 17:03 (allowed 2:00-15:00)",
+      "title": "Review: Character, Craft, and Rhetorical Analysis"
+    },
+    {
+      "grade": 10,
+      "day": 90,
+      "subject": "English",
+      "bad_id": "43Vrnaz8fYU",
+      "reason": "long: 17:03 (allowed 2:00-15:00)",
+      "title": "Review: Rhetoric, Media, and Literary Analysis (Days 81-89)"
+    },
+    {
+      "grade": 3,
+      "day": 5,
+      "subject": "Math",
+      "bad_id": "vmQgOqE8r_Y",
+      "reason": "long: 17:02 (allowed 2:00-15:00)",
+      "title": "Multiplication: Facts to 5"
+    },
+    {
+      "grade": 9,
+      "day": 116,
+      "subject": "Math",
+      "bad_id": "wh6bK-VGln8",
+      "reason": "long: 17:02 (allowed 2:00-15:00)",
+      "title": "First Differences: Identifying Linear vs. Non-Linear Relations"
+    },
+    {
+      "grade": 10,
+      "day": 66,
+      "subject": "English",
+      "bad_id": "nkFhEfvtam0",
+      "reason": "long: 16:59 (allowed 2:00-15:00)",
+      "title": "Literature: Historical Fiction and Its Purpose"
+    },
+    {
+      "grade": 10,
+      "day": 70,
+      "subject": "English",
+      "bad_id": "nkFhEfvtam0",
+      "reason": "long: 16:59 (allowed 2:00-15:00)",
+      "title": "Review: Character, Craft, and Rhetorical Analysis"
+    },
+    {
+      "grade": 5,
+      "day": 94,
+      "subject": "Math",
+      "bad_id": "SkidyDQuupA",
+      "reason": "long: 16:59 (allowed 2:00-15:00)",
+      "title": "Data Management: Tree Diagrams and Sample Space"
+    },
+    {
+      "grade": 9,
+      "day": 134,
+      "subject": "Language",
+      "bad_id": "nkFhEfvtam0",
+      "reason": "long: 16:59 (allowed 2:00-15:00)",
+      "title": "Writing: Writing a Historical Fiction Scene (Research-Informed Narrative)"
+    },
+    {
+      "grade": 2,
+      "day": 69,
+      "subject": "Math",
+      "bad_id": "dkWvwUheqfY",
+      "reason": "long: 16:56 (allowed 2:00-15:00)",
+      "title": "Multiplication Facts: 2s, 5s, and 10s"
+    },
+    {
+      "grade": 2,
+      "day": 70,
+      "subject": "Math",
+      "bad_id": "dkWvwUheqfY",
+      "reason": "long: 16:56 (allowed 2:00-15:00)",
+      "title": "Final Review: Math Skills (Days 61-69)"
+    },
+    {
+      "grade": 8,
+      "day": 10,
+      "subject": "Math",
+      "bad_id": "eBAq_caikJ4",
+      "reason": "long: 16:51 (allowed 2:00-15:00)",
+      "title": "Measurement: Surface Area and Volume of 3D Solids"
+    },
+    {
+      "grade": 8,
+      "day": 22,
+      "subject": "Math",
+      "bad_id": "eBAq_caikJ4",
+      "reason": "long: 16:51 (allowed 2:00-15:00)",
+      "title": "Review: Measurement and Data"
+    },
+    {
+      "grade": 9,
+      "day": 19,
+      "subject": "Math",
+      "bad_id": "eBAq_caikJ4",
+      "reason": "long: 16:51 (allowed 2:00-15:00)",
+      "title": "Surface Area and Volume of Prisms and Cylinders"
+    },
+    {
+      "grade": 9,
+      "day": 61,
+      "subject": "Language",
+      "bad_id": "Gf6MmdzhubI",
+      "reason": "long: 16:50 (allowed 2:00-15:00)",
+      "title": "Reading: Analyzing Setting as a Literary Element"
+    },
+    {
+      "grade": 9,
+      "day": 70,
+      "subject": "Language",
+      "bad_id": "Gf6MmdzhubI",
+      "reason": "long: 16:50 (allowed 2:00-15:00)",
+      "title": "Review: Setting, Characterization, Advertising, and Active/Passive Voice"
+    },
+    {
+      "grade": 11,
+      "day": 63,
+      "subject": "Functions",
+      "bad_id": "AKyb4Y4k0ks",
+      "reason": "long: 16:49 (allowed 2:00-15:00)",
+      "title": "Trigonometry: The Ambiguous Case of the Sine Law"
+    },
+    {
+      "grade": 11,
+      "day": 70,
+      "subject": "Functions",
+      "bad_id": "AKyb4Y4k0ks",
+      "reason": "long: 16:49 (allowed 2:00-15:00)",
+      "title": "Review: The Ambiguous Case of the Sine Law and Sequences"
+    },
+    {
+      "grade": 12,
+      "day": 93,
+      "subject": "AdvancedFunctions",
+      "bad_id": "2-mxYrCNX60",
+      "reason": "long: 16:47 (allowed 2:00-15:00)",
+      "title": "Discrete Math: The Pigeonhole Principle"
+    },
+    {
+      "grade": 10,
+      "day": 88,
+      "subject": "English",
+      "bad_id": "Nj-hdQMa3uA",
+      "reason": "long: 16:45 (allowed 2:00-15:00)",
+      "title": "Oral Communication: Storytelling Techniques in Public Speaking"
+    },
+    {
+      "grade": 1,
+      "day": 116,
+      "subject": "SocialStudies",
+      "bad_id": "BhO9RkR77AA",
+      "reason": "long: 16:45 (allowed 2:00-15:00)",
+      "title": "The Terry Fox Run: A Canadian Tradition of Giving"
+    },
+    {
+      "grade": 12,
+      "day": 7,
+      "subject": "AdvancedFunctions",
+      "bad_id": "EvJah9UtqEQ",
+      "reason": "long: 16:44 (allowed 2:00-15:00)",
+      "title": "Rates of Change: Introduction to Calculus Concepts"
+    },
+    {
+      "grade": 10,
+      "day": 47,
+      "subject": "Math",
+      "bad_id": "99CL-tNyNR0",
+      "reason": "long: 16:43 (allowed 2:00-15:00)",
+      "title": "Non-Right Triangle Applications in Three Dimensions"
+    },
+    {
+      "grade": 9,
+      "day": 56,
+      "subject": "Language",
+      "bad_id": "e9_Ize7ZDwg",
+      "reason": "long: 16:43 (allowed 2:00-15:00)",
+      "title": "Reading: Analyzing Frame Narratives and Nested Stories"
+    },
+    {
+      "grade": 9,
+      "day": 60,
+      "subject": "Language",
+      "bad_id": "e9_Ize7ZDwg",
+      "reason": "long: 16:43 (allowed 2:00-15:00)",
+      "title": "Review: Foil Characters, Personal Essays, Frame Narratives, and Bias"
+    },
+    {
+      "grade": 11,
+      "day": 54,
+      "subject": "English",
+      "bad_id": "e9_Ize7ZDwg",
+      "reason": "long: 16:43 (allowed 2:00-15:00)",
+      "title": "Reading: Analyzing Frame Narratives"
+    },
+    {
+      "grade": 7,
+      "day": 89,
+      "subject": "Language",
+      "bad_id": "e9_Ize7ZDwg",
+      "reason": "long: 16:43 (allowed 2:00-15:00)",
+      "title": "Reading: Analyzing Frame Narratives"
+    },
+    {
+      "grade": 6,
+      "day": 114,
+      "subject": "Language",
+      "bad_id": "e9_Ize7ZDwg",
+      "reason": "long: 16:43 (allowed 2:00-15:00)",
+      "title": "Reading: Frame Narratives \u2014 A Story Within a Story"
+    },
+    {
+      "grade": 12,
+      "day": 97,
+      "subject": "English",
+      "bad_id": "e9_Ize7ZDwg",
+      "reason": "long: 16:43 (allowed 2:00-15:00)",
+      "title": "Literature: The Palimpsest Narrative \u2014 Layered Stories"
+    },
+    {
+      "grade": 7,
+      "day": 150,
+      "subject": "Language",
+      "bad_id": "e9_Ize7ZDwg",
+      "reason": "long: 16:43 (allowed 2:00-15:00)",
+      "title": "Language Review: Modal Verbs, Slang, Frame Narratives, and Blog Writing"
+    },
+    {
+      "grade": 12,
+      "day": 76,
+      "subject": "AdvancedFunctions",
+      "bad_id": "UeuuFqbTYgA",
+      "reason": "long: 16:41 (allowed 2:00-15:00)",
+      "title": "Reciprocal Trigonometric Functions: Secant, Cosecant, and Cotangent"
+    },
+    {
+      "grade": 9,
+      "day": 73,
+      "subject": "Science",
+      "bad_id": "o3yTt2JKg2s",
+      "reason": "long: 16:41 (allowed 2:00-15:00)",
+      "title": "Physics: How Refrigerators and Heat Pumps Move Heat"
+    },
+    {
+      "grade": 11,
+      "day": 126,
+      "subject": "Chemistry",
+      "bad_id": "fDglQCYTiqc",
+      "reason": "long: 16:40 (allowed 2:00-15:00)",
+      "title": "Chemistry: Enthalpy of Solution and Hydration Energy"
+    },
+    {
+      "grade": 12,
+      "day": 54,
+      "subject": "Physics",
+      "bad_id": "4xIQGbYur9Q",
+      "reason": "long: 16:36 (allowed 2:00-15:00)",
+      "title": "Physics: Neutron Stars and Stellar Remnants"
+    },
+    {
+      "grade": 12,
+      "day": 60,
+      "subject": "Physics",
+      "bad_id": "4xIQGbYur9Q",
+      "reason": "long: 16:36 (allowed 2:00-15:00)",
+      "title": "Review: Grade 12 Physics -- Days 51-59 Synthesis"
+    },
+    {
+      "grade": 9,
+      "day": 115,
+      "subject": "Science",
+      "bad_id": "EAyzRmAKueE",
+      "reason": "long: 16:36 (allowed 2:00-15:00)",
+      "title": "Robotics and Mechatronics: An Introduction"
+    },
+    {
+      "grade": 6,
+      "day": 139,
+      "subject": "Science",
+      "bad_id": "f94CnlQ0eq4",
+      "reason": "long: 16:36 (allowed 2:00-15:00)",
+      "title": "3D Printing and Modern Manufacturing Technology"
+    },
+    {
+      "grade": 7,
+      "day": 31,
+      "subject": "Math",
+      "bad_id": "BqOf_1PI_lo",
+      "reason": "long: 16:34 (allowed 2:00-15:00)",
+      "title": "Simplifying and Expanding Algebraic Expressions"
+    },
+    {
+      "grade": 10,
+      "day": 55,
+      "subject": "English",
+      "bad_id": "Gr4g1dqQL5g",
+      "reason": "long: 16:33 (allowed 2:00-15:00)",
+      "title": "Media Literacy: Recognizing Propaganda Techniques"
+    },
+    {
+      "grade": 6,
+      "day": 22,
+      "subject": "Science",
+      "bad_id": "srpl5YRw-_U",
+      "reason": "long: 16:32 (allowed 2:00-15:00)",
+      "title": "Biodiversity: Food Webs and Human Impact"
+    },
+    {
+      "grade": 7,
+      "day": 15,
+      "subject": "Science",
+      "bad_id": "srpl5YRw-_U",
+      "reason": "long: 16:32 (allowed 2:00-15:00)",
+      "title": "Review: Cells, Classification, Carbon Cycle, Matter"
+    },
+    {
+      "grade": 11,
+      "day": 19,
+      "subject": "Biology",
+      "bad_id": "srpl5YRw-_U",
+      "reason": "long: 16:32 (allowed 2:00-15:00)",
+      "title": "Ecology: Climate Change and Ecological Response"
+    },
+    {
+      "grade": 10,
+      "day": 144,
+      "subject": "Math",
+      "bad_id": "i7idZfS8t8w",
+      "reason": "long: 16:32 (allowed 2:00-15:00)",
+      "title": "The Quadratic Formula"
+    },
+    {
+      "grade": 5,
+      "day": 42,
+      "subject": "Science",
+      "bad_id": "DChTODOdjPg",
+      "reason": "long: 16:31 (allowed 2:00-15:00)",
+      "title": "The Excretory System"
+    },
+    {
+      "grade": 0,
+      "day": 46,
+      "subject": "Math",
+      "bad_id": "ap4KQuXDBWs",
+      "reason": "long: 16:26 (allowed 2:00-15:00)",
+      "title": "Measurement: Weight, Heavier and Lighter"
+    },
+    {
+      "grade": 8,
+      "day": 88,
+      "subject": "Math",
+      "bad_id": "sqDVrXq_eh0",
+      "reason": "long: 16:26 (allowed 2:00-15:00)",
+      "title": "Probability: Conditional Probability and Real-World Applications"
+    },
+    {
+      "grade": 12,
+      "day": 78,
+      "subject": "Calculus",
+      "bad_id": "sqDVrXq_eh0",
+      "reason": "long: 16:26 (allowed 2:00-15:00)",
+      "title": "Review: Logarithms, Vectors, and Probability"
+    },
+    {
+      "grade": 12,
+      "day": 45,
+      "subject": "Calculus",
+      "bad_id": "8gPXUof5HoY",
+      "reason": "long: 16:25 (allowed 2:00-15:00)",
+      "title": "Curve Sketching: A Trigonometric Function Over One Period"
+    },
+    {
+      "grade": 11,
+      "day": 42,
+      "subject": "Functions",
+      "bad_id": "l2gEvV41Ws0",
+      "reason": "long: 16:24 (allowed 2:00-15:00)",
+      "title": "Discrete Math: Pascal\u2019s Triangle and the Binomial Theorem"
+    },
+    {
+      "grade": 11,
+      "day": 50,
+      "subject": "Functions",
+      "bad_id": "l2gEvV41Ws0",
+      "reason": "long: 16:24 (allowed 2:00-15:00)",
+      "title": "Review: Pascal's Triangle Patterns and Expected Value"
+    },
+    {
+      "grade": 9,
+      "day": 97,
+      "subject": "Language",
+      "bad_id": "9MLjFNxi9Yo",
+      "reason": "long: 16:22 (allowed 2:00-15:00)",
+      "title": "Media Literacy: Analyzing Memes and Internet Culture"
+    },
+    {
+      "grade": 9,
+      "day": 146,
+      "subject": "SocialStudies",
+      "bad_id": "6pZOnqGFBAc",
+      "reason": "long: 16:21 (allowed 2:00-15:00)",
+      "title": "Social Studies: The Geography of Peacekeeping Missions and UN Buffer Zones"
+    },
+    {
+      "grade": 11,
+      "day": 25,
+      "subject": "Functions",
+      "bad_id": "0f5KL8qRdnI",
+      "reason": "long: 16:19 (allowed 2:00-15:00)",
+      "title": "Functions: Exploring Connections and Preparing for Grade 12"
+    },
+    {
+      "grade": 6,
+      "day": 58,
+      "subject": "SocialStudies",
+      "bad_id": "ptbQdW6UwvM",
+      "reason": "long: 16:18 (allowed 2:00-15:00)",
+      "title": "Social Studies: The Metis Nation and the Red River Resistance"
+    },
+    {
+      "grade": 12,
+      "day": 49,
+      "subject": "AdvancedFunctions",
+      "bad_id": "zg9N2gAf6a4",
+      "reason": "long: 16:18 (allowed 2:00-15:00)",
+      "title": "Review: Sequences, Symmetry, and Recursive Applications"
+    },
+    {
+      "grade": 9,
+      "day": 139,
+      "subject": "Language",
+      "bad_id": "h2l1VD5ffPc",
+      "reason": "long: 16:18 (allowed 2:00-15:00)",
+      "title": "Writing: Writing a Dystopian or Speculative Fiction Scene (World-Building Basics)"
+    },
+    {
+      "grade": 10,
+      "day": 11,
+      "subject": "Math",
+      "bad_id": "4j2emMn7UaI",
+      "reason": "long: 16:17 (allowed 2:00-15:00)",
+      "title": "Financial Literacy: Earning, Saving, and Investing"
+    },
+    {
+      "grade": 7,
+      "day": 83,
+      "subject": "Language",
+      "bad_id": "41s2xrDH-Pw",
+      "reason": "long: 16:16 (allowed 2:00-15:00)",
+      "title": "Writing: Argumentative Essays"
+    },
+    {
+      "grade": 7,
+      "day": 90,
+      "subject": "Language",
+      "bad_id": "41s2xrDH-Pw",
+      "reason": "long: 16:16 (allowed 2:00-15:00)",
+      "title": "Review: Motifs, Grammar, and Media Literacy (Days 81-89)"
+    },
+    {
+      "grade": 7,
+      "day": 81,
+      "subject": "Language",
+      "bad_id": "DQ3gPeUh34M",
+      "reason": "long: 16:12 (allowed 2:00-15:00)",
+      "title": "Reading: Analyzing Motifs in Literature"
+    },
+    {
+      "grade": 9,
+      "day": 57,
+      "subject": "SocialStudies",
+      "bad_id": "Pco_xElw99o",
+      "reason": "long: 16:10 (allowed 2:00-15:00)",
+      "title": "Indigenous Self-Government and Land Governance in Canada"
+    },
+    {
+      "grade": 9,
+      "day": 60,
+      "subject": "SocialStudies",
+      "bad_id": "Pco_xElw99o",
+      "reason": "long: 16:10 (allowed 2:00-15:00)",
+      "title": "Review: Coastal Geography, Trade, Governance, and Refugee Settlement"
+    },
+    {
+      "grade": 11,
+      "day": 5,
+      "subject": "Chemistry",
+      "bad_id": "MDHlaTHbEgM",
+      "reason": "long: 16:09 (allowed 2:00-15:00)",
+      "title": "Solutions Chemistry: Concentration and Solubility"
+    },
+    {
+      "grade": 10,
+      "day": 90,
+      "subject": "Science",
+      "bad_id": "MDHlaTHbEgM",
+      "reason": "long: 16:09 (allowed 2:00-15:00)",
+      "title": "Solutions and Solubility"
+    },
+    {
+      "grade": 4,
+      "day": 139,
+      "subject": "Science",
+      "bad_id": "8FOl-jFusaM",
+      "reason": "long: 16:09 (allowed 2:00-15:00)",
+      "title": "Science: Teeth and Dental Health"
+    },
+    {
+      "grade": 7,
+      "day": 121,
+      "subject": "Science",
+      "bad_id": "MDHlaTHbEgM",
+      "reason": "long: 16:09 (allowed 2:00-15:00)",
+      "title": "Solutions, Solubility, and Concentration"
+    },
+    {
+      "grade": 12,
+      "day": 127,
+      "subject": "Calculus",
+      "bad_id": "iOYOxfrkSR0",
+      "reason": "long: 16:08 (allowed 2:00-15:00)",
+      "title": "Vectors: Magnitude and Direction from Components"
+    },
+    {
+      "grade": 11,
+      "day": 8,
+      "subject": "Chemistry",
+      "bad_id": "dF5lB7gRtcA",
+      "reason": "long: 16:05 (allowed 2:00-15:00)",
+      "title": "Electrochemistry: Oxidation-Reduction Reactions"
+    },
+    {
+      "grade": 12,
+      "day": 48,
+      "subject": "English",
+      "bad_id": "pfcNIpBL_e8",
+      "reason": "long: 16:05 (allowed 2:00-15:00)",
+      "title": "Literature: Finding Your Voice -- Spoken Word and Poetry Performance"
+    },
+    {
+      "grade": 10,
+      "day": 61,
+      "subject": "Science",
+      "bad_id": "dF5lB7gRtcA",
+      "reason": "long: 16:05 (allowed 2:00-15:00)",
+      "title": "Chemistry: Redox Reactions and Oxidation Numbers"
+    },
+    {
+      "grade": 10,
+      "day": 70,
+      "subject": "Science",
+      "bad_id": "dF5lB7gRtcA",
+      "reason": "long: 16:05 (allowed 2:00-15:00)",
+      "title": "Review: Chemistry, Biology, Physics, and Earth Science Applications"
+    },
+    {
+      "grade": 8,
+      "day": 12,
+      "subject": "History",
+      "bad_id": "I79TpDe3t2g",
+      "reason": "long: 16:04 (allowed 2:00-15:00)",
+      "title": "The Cold War and Canada"
+    },
+    {
+      "grade": 10,
+      "day": 4,
+      "subject": "History",
+      "bad_id": "I79TpDe3t2g",
+      "reason": "long: 16:04 (allowed 2:00-15:00)",
+      "title": "The Cold War: Origins and Canada's Role"
+    },
+    {
+      "grade": 7,
+      "day": 48,
+      "subject": "Science",
+      "bad_id": "3JuKR7jf46o",
+      "reason": "long: 16:04 (allowed 2:00-15:00)",
+      "title": "Space Exploration: Missions and Technology"
+    },
+    {
+      "grade": 10,
+      "day": 32,
+      "subject": "History",
+      "bad_id": "CeUzX_fFZw8",
+      "reason": "long: 16:04 (allowed 2:00-15:00)",
+      "title": "Constitutional Reform Attempts: Meech Lake and Charlottetown"
+    },
+    {
+      "grade": 7,
+      "day": 150,
+      "subject": "Science",
+      "bad_id": "3JuKR7jf46o",
+      "reason": "long: 16:04 (allowed 2:00-15:00)",
+      "title": "Science Review: Extremophiles, Gene Editing, Space, and Environmental Chemistry"
+    },
+    {
+      "grade": 10,
+      "day": 170,
+      "subject": "History",
+      "bad_id": "I79TpDe3t2g",
+      "reason": "long: 16:04 (allowed 2:00-15:00)",
+      "title": "History Review: Postwar Canada and the Early Cold War (Days 161-169)"
+    },
+    {
+      "grade": 12,
+      "day": 89,
+      "subject": "AdvancedFunctions",
+      "bad_id": "iooJ_8qvv9o",
+      "reason": "long: 16:03 (allowed 2:00-15:00)",
+      "title": "Modelling Periodic Phenomena with Sinusoidal Functions"
+    },
+    {
+      "grade": 12,
+      "day": 18,
+      "subject": "English",
+      "bad_id": "_Vh2miANqUA",
+      "reason": "long: 18:24 (allowed 2:00-15:00)",
+      "title": "Literary Theory: Reading Through a Lens"
+    }
+  ]
+}

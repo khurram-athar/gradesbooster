@@ -40898,6 +40898,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: equalization payments are funds transferred by the federal government to less wealthy provinces so that all provinces can provide reasonably similar levels of public services at reasonably similar levels of taxation.",
         "resourceLabel": "YouTube: Social Studies: Equalization Payments Between Canadian Provinces",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Equalization%20Payments%20Between%20Canadian%20Provinces%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=9vyd8p3BzCc",
         "quiz": [
           {
             "q": "What are equalization payments?",
