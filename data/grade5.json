@@ -41276,8 +41276,9 @@
         "subject": "SocialStudies",
         "title": "Supply and Demand: How Markets Work",
         "summary": "Students learn the basic economic concept of supply and demand -- how the amount of a good available and how much people want it affect prices in the marketplace.",
-        "resourceLabel": "YouTube: Supply and Demand: How Markets Work",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Supply%20and%20Demand%3A%20How%20Markets%20Work%20grade%205%20educational",
+        "resourceLabel": "YouTube: Supply and Demand - Exploring How Prices and Availability Affect What We Buy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Supply%20and%20Demand%20-%20Exploring%20How%20Prices%20and%20Availability%20Affect%20What%20We%20Buy",
+        "videoUrl": "https://www.youtube.com/watch?v=8m6twYociyY",
         "topic": "Economics & Trade",
         "quiz": [
           {
@@ -41342,8 +41343,9 @@
         "subject": "Language",
         "title": "Grammar: Comparative and Superlative Adjectives",
         "summary": "Grade 5 Language strand: a comparative adjective compares two things, usually adding -er or the word more, while a superlative adjective compares three or more things, usually adding -est or the word most.",
-        "resourceLabel": "TVO Learn: Grade 5 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "resourceLabel": "YouTube: Comparison of Adjectives | English Grammar & Composition Grade 5 | Periwinkle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparison%20of%20Adjectives%20%7C%20English%20Grammar%20%26%20Composition%20Grade%205%20%7C%20Periwinkle",
+        "videoUrl": "https://www.youtube.com/watch?v=Xg0RBX1rEag",
         "quiz": [
           {
             "q": "What does a comparative adjective do?",
@@ -41402,8 +41404,9 @@
         "subject": "Math",
         "title": "Geometry: Classifying Polygons — Regular and Irregular",
         "summary": "Grade 5 Math strand: a regular polygon has all sides and all angles equal, while an irregular polygon has sides or angles that are not all equal.",
-        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "resourceLabel": "YouTube: Regular & Irregular Polygons | IconMath",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Regular%20%26%20Irregular%20Polygons%20%7C%20IconMath",
+        "videoUrl": "https://www.youtube.com/watch?v=UN57vvrMrY4",
         "quiz": [
           {
             "q": "What is true about every side and angle of a regular polygon?",
@@ -41462,8 +41465,9 @@
         "subject": "Science",
         "title": "Ocean Zones: Sunlight, Twilight, and Midnight Layers of the Sea",
         "summary": "Grade 5 Science strand: the ocean is divided into layers based on how much sunlight reaches them, from the bright sunlight zone near the surface to the dark midnight zone in the deep sea.",
-        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "resourceLabel": "YouTube: Let's Learn the Ocean Zones! | SciShow Kids",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Let%27s%20Learn%20the%20Ocean%20Zones%21%20%7C%20SciShow%20Kids",
+        "videoUrl": "https://www.youtube.com/watch?v=fHVE4B-UjmM",
         "quiz": [
           {
             "q": "What is the sunlight zone of the ocean?",
@@ -41522,8 +41526,9 @@
         "subject": "SocialStudies",
         "title": "Terry Fox and the Marathon of Hope",
         "summary": "Students learn about Terry Fox, a young Canadian who ran partway across Canada on one leg to raise money for cancer research, and how his Marathon of Hope continues to inspire annual fundraising runs today.",
-        "resourceLabel": "YouTube: Terry Fox and the Marathon of Hope",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Terry%20Fox%20and%20the%20Marathon%20of%20Hope%20grade%205%20educational",
+        "resourceLabel": "YouTube: Why Terry Fox is a Canadian Hero | CBC Kids",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Why%20Terry%20Fox%20is%20a%20Canadian%20Hero%20%7C%20CBC%20Kids",
+        "videoUrl": "https://www.youtube.com/watch?v=70WbeqNOJQs",
         "topic": "Famous Canadians & History (Basic)",
         "quiz": [
           {

@@ -40233,8 +40233,9 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "The Morality Play: Medieval Allegory on the Stage",
         "summary": "Grade 12 English strand: a morality play is a form of medieval drama in which characters personify abstract qualities, such as Virtue or Vice, guiding a representative human protagonist through temptation and moral choice toward an explicitly didactic lesson about salvation and conduct.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Medieval Theatre Explained: Mystery, Miracle & Morality in under 3 minutes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Medieval%20Theatre%20Explained%3A%20Mystery%2C%20Miracle%20%26%20Morality%20in%20under%203%20minutes",
+        "videoUrl": "https://www.youtube.com/watch?v=qx-6e8d-n88",
         "quiz": [
           {
             "q": "What kind of characters typically populate a morality play?",
@@ -40292,8 +40293,9 @@ const curriculum: DayContent[] = [
         "subject": "AdvancedFunctions",
         "title": "Statistics: The Student t-Distribution and Small-Sample Inference",
         "summary": "Grade 12 Advanced Functions strand: the Student t-distribution is a probability distribution used instead of the normal distribution when estimating a population mean from a small sample with an unknown population standard deviation, having heavier tails that account for the extra uncertainty of a small sample.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "resourceLabel": "YouTube: Student's T Distribution",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Student%27s%20T%20Distribution",
+        "videoUrl": "https://www.youtube.com/watch?v=32CuxWdOlow",
         "quiz": [
           {
             "q": "When is the Student t-distribution typically used instead of the normal distribution?",
@@ -40352,8 +40354,9 @@ const curriculum: DayContent[] = [
         "subject": "Calculus",
         "title": "Geometry: The Cross Product of Vectors",
         "summary": "Grade 9 Math strand: the cross product of two vectors produces a new vector that is perpendicular to both original vectors, with a magnitude equal to the area of the parallelogram they form, distinguishing it from the dot product, which produces a scalar.",
-        "resourceLabel": "YouTube: Geometry: The Cross Product of Vectors",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20The%20Cross%20Product%20of%20Vectors%20grade%2012%20educational",
+        "resourceLabel": "YouTube: The Vector Cross Product",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Vector%20Cross%20Product",
+        "videoUrl": "https://www.youtube.com/watch?v=gPnWm-IXoAY",
         "quiz": [
           {
             "q": "What kind of quantity results from taking the cross product of two vectors?",
@@ -40412,8 +40415,9 @@ const curriculum: DayContent[] = [
         "subject": "Physics",
         "title": "The Twin Paradox: Applying Time Dilation to Space Travel",
         "summary": "This lesson uses the classic 'twin paradox' thought experiment, one twin stays on Earth while the other travels at relativistic speed to a distant star and back, to apply time dilation, delta_t = delta_t0 / sqrt(1 - v^2/c^2), and resolve the apparent paradox of each twin seeing the other as the one who ages more slowly. You will explain why the situation is not actually symmetric: the traveling twin undergoes acceleration/deceleration and changes reference frames, which breaks the symmetry and results in the traveling twin aging less upon reunion.",
-        "resourceLabel": "YouTube: The Twin Paradox: Applying Time Dilation to Space Travel",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Twin%20Paradox%3A%20Applying%20Time%20Dilation%20to%20Space%20Travel%20grade%2012%20physics%20educational",
+        "resourceLabel": "YouTube: Special Relativity Part 2: Time Dilation and the Twin Paradox",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Special%20Relativity%20Part%202%3A%20Time%20Dilation%20and%20the%20Twin%20Paradox",
+        "videoUrl": "https://www.youtube.com/watch?v=iIEeSiT3SI4",
         "quiz": [
           {
             "q": "In the twin paradox, why is the aging difference between the twins NOT actually a paradox, despite each twin observing the other's clock running slow during the trip?",

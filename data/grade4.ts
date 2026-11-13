@@ -41817,8 +41817,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Multiplying 2-Digit Numbers Using an Area Model",
         "summary": "Students use an area (box) model to break apart two 2-digit numbers by place value and multiply the partial products, building a visual understanding of the standard algorithm.",
-        "resourceLabel": "YouTube: Multiplying 2-Digit Numbers Using an Area Model",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%202-Digit%20Numbers%20Using%20an%20Area%20Model%20grade%204%20educational",
+        "resourceLabel": "YouTube: 4th Grade Mathematics - Lesson 3: Multi-digit multiplication using the Area Array Model",
+        "resourceUrl": "https://www.youtube.com/results?search_query=4th%20Grade%20Mathematics%20-%20Lesson%203%3A%20Multi-digit%20multiplication%20using%20the%20Area%20Array%20Model",
+        "videoUrl": "https://www.youtube.com/watch?v=EUvOyz2Ysq0",
         "topic": "Multiplication & Division",
         "quiz": [
           {
@@ -42003,8 +42004,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Interrogative Pronouns — Who, Whom, Whose, Which, and What",
         "summary": "Grade 4 Language strand: interrogative pronouns, including who, whom, whose, which, and what, are used to ask questions and stand in for the noun being asked about.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "resourceLabel": "YouTube: Interrogative Pronouns Explained",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Interrogative%20Pronouns%20Explained",
+        "videoUrl": "https://www.youtube.com/watch?v=7xlvJAw9s5I",
         "quiz": [
           {
             "q": "Which interrogative pronoun asks about a person acting as the subject?",
@@ -42063,8 +42065,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Geometry: Points, Lines, Line Segments, and Rays",
         "summary": "Grade 4 Math strand: a point marks an exact location in space, a line extends infinitely in both directions, a line segment has two fixed endpoints, and a ray starts at one point and extends infinitely in a single direction.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "resourceLabel": "YouTube: An Intro to Points, Lines, Line Segments, and Rays | Geometry | Math with Mr. J",
+        "resourceUrl": "https://www.youtube.com/results?search_query=An%20Intro%20to%20Points%2C%20Lines%2C%20Line%20Segments%2C%20and%20Rays%20%7C%20Geometry%20%7C%20Math%20with%20Mr.%20J",
+        "videoUrl": "https://www.youtube.com/watch?v=lnV59_ELs1o",
         "quiz": [
           {
             "q": "What is a point in geometry?",
@@ -42123,8 +42126,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Decomposers: Natures Recyclers",
         "summary": "Grade 1 Science strand: decomposers, such as earthworms and fungi, break down dead plants and animals into simple materials that enrich the soil and help new plants grow.",
-        "resourceLabel": "YouTube: Decomposers: Natures Recyclers",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Decomposers%3A%20Natures%20Recyclers%20grade%204%20educational",
+        "resourceLabel": "YouTube: Decomposition and Decomposers | ExploreEcology",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Decomposition%20and%20Decomposers%20%7C%20ExploreEcology",
+        "videoUrl": "https://www.youtube.com/watch?v=4_0VfTpRNpU",
         "quiz": [
           {
             "q": "What do decomposers break down?",
@@ -42206,8 +42210,9 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Social Studies: Early Societies: Inventions We Still Use Today",
         "summary": "Students identify inventions and ideas from early societies, such as the wheel, written numbers, and irrigation, that continue to shape everyday life in the modern world.",
-        "resourceLabel": "YouTube: Social Studies: Early Societies: Inventions We Still Use Today",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Early%20Societies%3A%20Inventions%20We%20Still%20Use%20Today%20grade%204%20educational",
+        "resourceLabel": "YouTube: Invention of Wheel | Who Invented Wheel? | Dr. Binocs Show",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Invention%20of%20Wheel%20%7C%20Who%20Invented%20Wheel%3F%20%7C%20Dr.%20Binocs%20Show",
+        "videoUrl": "https://www.youtube.com/watch?v=6UfoM4UbLak",
         "topic": "Early Societies",
         "quiz": [
           {

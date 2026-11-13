@@ -40387,8 +40387,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "First Differences and Identifying Linear vs Non-Linear Relations",
         "summary": "Students calculate first differences in a table of values to determine whether a relation is linear (constant first differences) or non-linear (varying first differences).",
-        "resourceLabel": "YouTube: First Differences and Identifying Linear vs Non-Linear Relations",
-        "resourceUrl": "https://www.youtube.com/results?search_query=First%20Differences%20and%20Identifying%20Linear%20vs%20Non-Linear%20Relations%20grade%209%20educational",
+        "resourceLabel": "YouTube: 4.7 - Connecting Variation, Slope and First Differences of Linear Relations - MPM1D Grade 9 Academic",
+        "resourceUrl": "https://www.youtube.com/results?search_query=4.7%20-%20Connecting%20Variation%2C%20Slope%20and%20First%20Differences%20of%20Linear%20Relations%20-%20MPM1D%20Grade%209%20Academic",
+        "videoUrl": "https://www.youtube.com/watch?v=qc7bxAWMj3k",
         "topic": "Linear Relations",
         "quiz": [
           {
@@ -40574,8 +40575,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Elliptical Constructions (Omitting Understood Words for Concise Style)",
         "summary": "Students learn to identify and use elliptical constructions — sentences that omit words which are understood from context — to write more concise, less repetitive sentences.",
-        "resourceLabel": "YouTube: Grammar: Elliptical Constructions (Omitting Understood Words for Concise Style)",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Elliptical%20Constructions%20%28Omitting%20Understood%20Words%20for%20Concise%20Style%29%20grade%209%20educational",
+        "resourceLabel": "YouTube: Everyday Grammar TV: Elliptical Structures | VOA Learning English",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Everyday%20Grammar%20TV%3A%20Elliptical%20Structures%20%7C%20VOA%20Learning%20English",
+        "videoUrl": "https://www.youtube.com/watch?v=64-uoP3Vce0",
         "topic": "Grammar: Sentence Structure",
         "quiz": [
           {
@@ -40634,8 +40636,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Solving Literal Equations: Rearranging Formulas for a Given Variable",
         "summary": "Students rearrange formulas and literal equations to isolate a specified variable, applying the same inverse-operation strategies used to solve linear equations.",
-        "resourceLabel": "YouTube: Solving Literal Equations: Rearranging Formulas for a Given Variable",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Literal%20Equations%3A%20Rearranging%20Formulas%20for%20a%20Given%20Variable%20grade%209%20educational",
+        "resourceLabel": "YouTube: Solving literal equations made easy | Brian McLogan",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20literal%20equations%20made%20easy%20%7C%20Brian%20McLogan",
+        "videoUrl": "https://www.youtube.com/watch?v=_KRBOMwkIBE",
         "topic": "Equations & Inequalities",
         "quiz": [
           {
@@ -40694,8 +40697,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Electrical Power and the Cost of Electricity",
         "summary": "Students calculate electrical power using P = IV and explore how electric utilities bill households based on energy used in kilowatt-hours.",
-        "resourceLabel": "YouTube: Electrical Power and the Cost of Electricity",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Electrical%20Power%20and%20the%20Cost%20of%20Electricity%20grade%209%20educational",
+        "resourceLabel": "YouTube: Grade 9 Term 3 Energy & The Cost of Electricity (Mr Chi)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grade%209%20Term%203%20Energy%20%26%20The%20Cost%20of%20Electricity%20%28Mr%20Chi%29",
+        "videoUrl": "https://www.youtube.com/watch?v=M9hxrvtFfZE",
         "topic": "Electricity & Magnetism",
         "quiz": [
           {
@@ -40754,8 +40758,9 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Social Studies: The Geography of Urban Congestion Pricing and Traffic Management",
         "summary": "Grade 9 Social Studies (Geography) strand: congestion pricing charges drivers a fee for entering a busy urban area during peak hours, aiming to reduce traffic congestion and pollution while encouraging the use of public transit and generating revenue for infrastructure.",
-        "resourceLabel": "TVO Learn: Grade 9 Geography",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "resourceLabel": "YouTube: New York City's New Congestion Pricing, Explained | The Wall Street Journal",
+        "resourceUrl": "https://www.youtube.com/results?search_query=New%20York%20City%27s%20New%20Congestion%20Pricing%2C%20Explained%20%7C%20The%20Wall%20Street%20Journal",
+        "videoUrl": "https://www.youtube.com/watch?v=hgurrvho_Ug",
         "quiz": [
           {
             "q": "What is congestion pricing?",

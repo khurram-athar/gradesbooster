@@ -40437,8 +40437,9 @@
         "subject": "SocialStudies",
         "title": "Canada's Grassland and Prairie Ecosystems",
         "summary": "Students explore the prairie grasslands of Alberta, Saskatchewan, and Manitoba, learning about native grasses and wildlife like bison, and how this ecosystem has been transformed by farming over the past century.",
-        "resourceLabel": "YouTube: Canada's Grassland and Prairie Ecosystems",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Grassland%20and%20Prairie%20Ecosystems%20grade%206%20educational",
+        "resourceLabel": "YouTube: What is the Grassland Biome?",
+        "resourceUrl": "https://www.youtube.com/results?search_query=What%20is%20the%20Grassland%20Biome%3F",
+        "videoUrl": "https://www.youtube.com/watch?v=g04XBno4Gsc",
         "topic": "Canadian Geography & Environment",
         "quiz": [
           {
@@ -40503,8 +40504,9 @@
         "subject": "Language",
         "title": "Grammar: Conditional Sentences and If-Then Statements",
         "summary": "Grade 6 Language strand: a conditional sentence expresses a condition and its result, often built with an if clause and a result clause, such as If it rains, the game will be cancelled.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: THE CONDITIONALS - 0,1,2 & 3 Conditionals | English with Lucy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=THE%20CONDITIONALS%20-%200%2C1%2C2%20%26%203%20Conditionals%20%7C%20English%20with%20Lucy",
+        "videoUrl": "https://www.youtube.com/watch?v=vXp0ETWXbWo",
         "quiz": [
           {
             "q": "What are the two main parts of a conditional sentence?",
@@ -40563,8 +40565,9 @@
         "subject": "Math",
         "title": "Number Sense: Dividing Decimals Using the Standard Algorithm",
         "summary": "Grade 6 Math strand: dividing decimals using the standard algorithm often involves shifting the decimal point in the divisor to make it a whole number, shifting the decimal point in the dividend the same number of places, then dividing as usual.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "resourceLabel": "YouTube: How to Divide a Decimal by a Decimal | Math with Mr. J",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20to%20Divide%20a%20Decimal%20by%20a%20Decimal%20%7C%20Math%20with%20Mr.%20J",
+        "videoUrl": "https://www.youtube.com/watch?v=Val4TmjHXRY",
         "quiz": [
           {
             "q": "What is the first step often used when dividing by a decimal?",
@@ -40623,8 +40626,9 @@
         "subject": "Science",
         "title": "Simple Machines: Gears and How They Change Speed and Force",
         "summary": "Grade 6 Science strand: a gear is a wheel with teeth that interlocks with other gears to transmit motion, and connecting gears of different sizes can change the speed or force of a rotating system.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: Gears and Levers | Forces and Motion | Physics | FuseSchool",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Gears%20and%20Levers%20%7C%20Forces%20and%20Motion%20%7C%20Physics%20%7C%20FuseSchool",
+        "videoUrl": "https://www.youtube.com/watch?v=nWx5zCJSOU8",
         "quiz": [
           {
             "q": "What is a gear?",
@@ -40683,8 +40687,9 @@
         "subject": "SocialStudies",
         "title": "Reading Population Density Maps",
         "summary": "Students learn what population density means, how to interpret shaded or dot-density maps that show it, and why Canada's population is so unevenly distributed across its vast territory.",
-        "resourceLabel": "YouTube: Reading Population Density Maps",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%20Population%20Density%20Maps%20grade%206%20educational",
+        "resourceLabel": "YouTube: Understanding Population Density and Distribution | Geography for Kids",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Understanding%20Population%20Density%20and%20Distribution%20%7C%20Geography%20for%20Kids",
+        "videoUrl": "https://www.youtube.com/watch?v=h2r-PBUO1LU",
         "topic": "Map & Geography Skills",
         "quiz": [
           {

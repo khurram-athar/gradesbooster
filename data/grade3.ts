@@ -42322,8 +42322,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Converting Between Metres and Centimetres",
         "summary": "Grade 1 Math strand: students learn that one metre is equal to 100 centimetres, and practise converting between the two units.",
-        "resourceLabel": "YouTube: Converting Between Metres and Centimetres",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Converting%20Between%20Metres%20and%20Centimetres%20grade%203%20educational",
+        "resourceLabel": "YouTube: Changing Metres to Centimetres | Math Lesson with Mr. Alfred (Grade 4)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Changing%20Metres%20to%20Centimetres%20%7C%20Math%20Lesson%20with%20Mr.%20Alfred%20%28Grade%204%29",
+        "videoUrl": "https://www.youtube.com/watch?v=0lo0tHxR5rM",
         "quiz": [
           {
             "q": "How many centimetres are in one metre?",
@@ -43130,8 +43131,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Story Genre: Fairy Tales and Fables",
         "summary": "Kindergarten Language strand: fairy tales are make-believe stories that often include magic, while fables are short stories with animal characters that teach a lesson.",
-        "resourceLabel": "YouTube: Story Genre: Fairy Tales and Fables",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Genre%3A%20Fairy%20Tales%20and%20Fables%20grade%203%20educational",
+        "resourceLabel": "YouTube: Traditional Literature: Folktales, Fairytales, and Fables",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Traditional%20Literature%3A%20Folktales%2C%20Fairytales%2C%20and%20Fables",
+        "videoUrl": "https://www.youtube.com/watch?v=eaVh8yGbXNc",
         "quiz": [
           {
             "q": "What might a fairy tale often include?",
@@ -43213,8 +43215,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Number: Rounding to the Nearest 10 000",
         "summary": "Grade 3 Math strand: to round a number to the nearest 10 000, look at the thousands digit; if it is 5 or more, round up, and if it is less than 5, round down.",
-        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "resourceLabel": "YouTube: Rounding to the Nearest Ten Thousand",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rounding%20to%20the%20Nearest%20Ten%20Thousand",
+        "videoUrl": "https://www.youtube.com/watch?v=joTs5UryIEk",
         "quiz": [
           {
             "q": "What is 47 000 rounded to the nearest 10 000?",
@@ -43273,8 +43276,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Science: How Plants Respond to Light (Phototropism)",
         "summary": "Students explore why houseplants bend toward a window, learning that plants grow toward light so their leaves can gather more energy.",
-        "resourceLabel": "YouTube: Science: How Plants Respond to Light (Phototropism)",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20How%20Plants%20Respond%20to%20Light%20%28Phototropism%29%20grade%203%20educational",
+        "resourceLabel": "YouTube: How Do Plants Grow Toward the Light | Fun Science & English for Kids",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20Do%20Plants%20Grow%20Toward%20the%20Light%20%7C%20Fun%20Science%20%26%20English%20for%20Kids",
+        "videoUrl": "https://www.youtube.com/watch?v=7BjSvrUveH0",
         "topic": "Plants & Photosynthesis",
         "quiz": [
           {
@@ -43333,8 +43337,9 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Social Studies: Bartering and Trade in Early Canadian Communities",
         "summary": "Students learn how communities in Canada between 1780 and 1850 often exchanged goods directly through bartering before coined money was widely available, and compare this system to using currency today.",
-        "resourceLabel": "YouTube: Social Studies: Bartering and Trade in Early Canadian Communities",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Bartering%20and%20Trade%20in%20Early%20Canadian%20Communities%20grade%203%20educational",
+        "resourceLabel": "YouTube: Why Do We Trade? | History of Money for Kids | Bartering Explained",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Why%20Do%20We%20Trade%3F%20%7C%20History%20of%20Money%20for%20Kids%20%7C%20Bartering%20Explained",
+        "videoUrl": "https://www.youtube.com/watch?v=UMGZN0DNkeM",
         "topic": "History: Colonial & 19th Century Canada",
         "quiz": [
           {

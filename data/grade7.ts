@@ -40517,8 +40517,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: The Perfect Verb Tenses — Present, Past, and Future Perfect",
         "summary": "Grade 7 Language strand: the present perfect tense (has/have plus a past participle) shows an action begun in the past that still has relevance now, the past perfect tense (had plus a past participle) shows an action completed before another past action, and the future perfect tense (will have plus a past participle) shows an action that will be completed before a specific future time.",
-        "resourceLabel": "TVO Learn: Grade 7 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "resourceLabel": "YouTube: How to Use Perfect Verb Tenses - English Verbs Guide | Triple A English",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20to%20Use%20Perfect%20Verb%20Tenses%20-%20English%20Verbs%20Guide%20%7C%20Triple%20A%20English",
+        "videoUrl": "https://www.youtube.com/watch?v=Zmf9XYY8OWs",
         "quiz": [
           {
             "q": "What does the present perfect tense generally show?",
@@ -40577,8 +40578,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Algebra: Point-Slope Form of a Linear Equation",
         "summary": "Grade 7 Math strand: point-slope form, written as y minus y1 equals m times the quantity x minus x1, lets a person write the equation of a line directly from its slope m and the coordinates of a single known point (x1, y1), which is especially useful when the y-intercept is not known.",
-        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "resourceLabel": "YouTube: Point Slope Form - Basic Introduction - Algebra | The Organic Chemistry Tutor",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Point%20Slope%20Form%20-%20Basic%20Introduction%20-%20Algebra%20%7C%20The%20Organic%20Chemistry%20Tutor",
+        "videoUrl": "https://www.youtube.com/watch?v=yoHs1h5qtuQ",
         "quiz": [
           {
             "q": "What two pieces of information does point-slope form require to write the equation of a line?",
@@ -40637,8 +40639,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Astronomy: Solar and Lunar Eclipses",
         "summary": "Grade 7 Science strand: a solar eclipse occurs when the moon passes directly between the sun and Earth, blocking some or all of the suns light, while a lunar eclipse occurs when Earth passes between the sun and the moon, causing Earths shadow to fall across the moons surface.",
-        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "resourceLabel": "YouTube: Eclipses for kids - What an eclipse is and how many types there are | Smile and Learn",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Eclipses%20for%20kids%20-%20What%20an%20eclipse%20is%20and%20how%20many%20types%20there%20are%20%7C%20Smile%20and%20Learn",
+        "videoUrl": "https://www.youtube.com/watch?v=Cca5DaNs98w",
         "quiz": [
           {
             "q": "What happens during a solar eclipse?",
@@ -40697,8 +40700,9 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Social Studies: The Founding of Halifax in 1749",
         "summary": "Grade 7 Social Studies strand: the British founded Halifax in 1749 as a fortified naval settlement on the Atlantic coast, intended to counterbalance the nearby French fortress of Louisbourg, and the city grew into a major port and naval base central to Atlantic Canadas history.",
-        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "resourceLabel": "YouTube: Why Did Britain Found Halifax on Mi'kmaq Land",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Why%20Did%20Britain%20Found%20Halifax%20on%20Mi%27kmaq%20Land",
+        "videoUrl": "https://www.youtube.com/watch?v=SUPsZnD-OlY",
         "quiz": [
           {
             "q": "In what year was Halifax founded?",

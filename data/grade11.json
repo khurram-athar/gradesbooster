@@ -40225,8 +40225,9 @@
         "subject": "Functions",
         "title": "Functions: Domain and Range in Interval and Set Notation",
         "summary": "Students determine the domain and range of polynomial, radical, and rational functions and express restrictions using interval notation and set notation.",
-        "resourceLabel": "YouTube: Functions: Domain and Range in Interval and Set Notation",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Domain%20and%20Range%20in%20Interval%20and%20Set%20Notation%20grade%2011%20educational",
+        "resourceLabel": "YouTube: Finding the Domain and Range From a Graph (Interval Notation)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Finding%20the%20Domain%20and%20Range%20From%20a%20Graph%20%28Interval%20Notation%29",
+        "videoUrl": "https://www.youtube.com/watch?v=IZWVlEB0IbU",
         "topic": "Functions: General/Intro",
         "quiz": [
           {
@@ -40411,8 +40412,9 @@
         "subject": "English",
         "title": "Poetry: The Haiku and Tanka — Compression and Natural Imagery",
         "summary": "Grade 11 English strand: a haiku is a compressed three-line poetic form built around a fixed syllable pattern and a single vivid image drawn from nature, while a tanka extends the same tradition to five lines and adds a personal or emotional turn after the natural image has been established.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: How Is Tanka Different From Haiku?",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20Is%20Tanka%20Different%20From%20Haiku%3F",
+        "videoUrl": "https://www.youtube.com/watch?v=I1XocsCD0Qk",
         "quiz": [
           {
             "q": "What structural feature defines a haiku?",
@@ -40471,8 +40473,9 @@
         "subject": "Functions",
         "title": "Calculus: Higher-Order Derivatives and Rates of Change of Rates of Change",
         "summary": "Grade 11 Functions strand: a higher-order derivative is found by differentiating a function more than once, so the third derivative measures how the rate of change of the rate of change is itself changing, and higher-order derivatives reveal increasingly subtle features of a functions behaviour beyond slope and concavity.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "resourceLabel": "YouTube: Higher Order Derivatives",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Higher%20Order%20Derivatives",
+        "videoUrl": "https://www.youtube.com/watch?v=s7rd9YPJrNc",
         "quiz": [
           {
             "q": "How is a higher-order derivative found?",
@@ -40531,8 +40534,9 @@
         "subject": "Biology",
         "title": "Ecology: Grassland and Savanna Ecosystems",
         "summary": "Grade 11 Biology strand: grassland and savanna ecosystems are dominated by grasses with scattered trees or none at all, shaped by seasonal rainfall, periodic fire, and grazing pressure that together prevent woody plants from overtaking the landscape and maintain the open structure characteristic of these biomes.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: The Savannah Biome - Biomes #2",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Savannah%20Biome%20-%20Biomes%20%232",
+        "videoUrl": "https://www.youtube.com/watch?v=Mle5gmEpYys",
         "quiz": [
           {
             "q": "What plant type dominates grassland and savanna ecosystems?",
@@ -40591,8 +40595,9 @@
         "subject": "Chemistry",
         "title": "Chemistry: Caffeine and Alkaloid Extraction Chemistry",
         "summary": "Grade 11 Chemistry strand: caffeine is a naturally occurring alkaloid, a nitrogen-containing organic compound, and its extraction from coffee beans or tea leaves typically relies on differences in solubility between polar water and a nonpolar solvent to separate caffeine from the other plant compounds surrounding it.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "resourceLabel": "YouTube: Caffeine extraction and separation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Caffeine%20extraction%20and%20separation",
+        "videoUrl": "https://www.youtube.com/watch?v=7_AOw68oxOw",
         "quiz": [
           {
             "q": "What class of organic compound is caffeine?",

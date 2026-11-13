@@ -40139,8 +40139,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Chemistry: Catalysts and Reaction Rates",
         "summary": "Grade 8 Science strand: a catalyst is a substance that increases the rate of a chemical reaction without being permanently consumed in the process, often by providing an alternative pathway that requires less energy to begin the reaction.",
-        "resourceLabel": "YouTube: Chemistry: Catalysts and Reaction Rates",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Catalysts%20and%20Reaction%20Rates%20grade%2010%20educational",
+        "resourceLabel": "YouTube: What Are Catalysts? | Reactions | Chemistry",
+        "resourceUrl": "https://www.youtube.com/results?search_query=What%20Are%20Catalysts%3F%20%7C%20Reactions%20%7C%20Chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=m_9bpZep1QM",
         "quiz": [
           {
             "q": "What does a catalyst do to a chemical reaction?",
@@ -40325,8 +40326,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Algebra: Factoring Complex Trinomials by Decomposition",
         "summary": "Students factor trinomials where the leading coefficient is not 1, using the decomposition (split-the-middle-term) method.",
-        "resourceLabel": "YouTube: Algebra: Factoring Complex Trinomials by Decomposition",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Factoring%20Complex%20Trinomials%20by%20Decomposition%20grade%2010%20educational",
+        "resourceLabel": "YouTube: How to factor by decomposition with complex trinomials (where a is not 1)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20to%20factor%20by%20decomposition%20with%20complex%20trinomials%20%28where%20a%20is%20not%201%29",
+        "videoUrl": "https://www.youtube.com/watch?v=dpsQ0oN481w",
         "topic": "Polynomials & Factoring",
         "quiz": [
           {
@@ -40385,8 +40387,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Chemistry: The Chemistry of Fireworks and Flame Tests",
         "summary": "Grade 10 Science strand: a flame test identifies certain metal ions by observing the distinct colour their compounds produce when heated in a flame, a principle also used in fireworks, where specific metal salts are chosen to create vivid colours through the same excited-electron process.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Flame Tests of Metal Ions, With Labels",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Flame%20Tests%20of%20Metal%20Ions%2C%20With%20Labels",
+        "videoUrl": "https://www.youtube.com/watch?v=1EXr_L7Ojqg",
         "quiz": [
           {
             "q": "What does a flame test identify?",
@@ -40444,8 +40447,9 @@ const curriculum: DayContent[] = [
         "subject": "History",
         "title": "The Baby Boom and Postwar Economic Growth in Canada",
         "summary": "Grade 10 History strand: the baby boom was a sharp rise in birth rates across Canada following the Second World War, accompanying rapid postwar economic growth, suburban expansion, and increased consumer spending that reshaped Canadian society through the late 1940s and 1950s.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: What Life Was Really Like in Canada During the 1950s | Baby Boom & Suburban Life",
+        "resourceUrl": "https://www.youtube.com/results?search_query=What%20Life%20Was%20Really%20Like%20in%20Canada%20During%20the%201950s%20%7C%20Baby%20Boom%20%26%20Suburban%20Life",
+        "videoUrl": "https://www.youtube.com/watch?v=9UT97vu3HpA",
         "quiz": [
           {
             "q": "What was the baby boom?",

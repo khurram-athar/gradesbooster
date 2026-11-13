@@ -48848,8 +48848,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Riddles: Writing Playful Questions and Answers",
         "summary": "Grade 2 Language strand: a riddle is a playful question with a clue-filled answer, often using wordplay or hidden meanings to make the reader think and smile.",
-        "resourceLabel": "YouTube: Riddles: Writing Playful Questions and Answers",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Riddles%3A%20Writing%20Playful%20Questions%20and%20Answers%20grade%202%20educational",
+        "resourceLabel": "YouTube: How to Write a Riddle Poem",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20to%20Write%20a%20Riddle%20Poem",
+        "videoUrl": "https://www.youtube.com/watch?v=4kJAYHSSnec",
         "quiz": [
           {
             "q": "What is a riddle?",
@@ -48907,8 +48908,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Fractions: Recognizing Equal Parts of a Whole",
         "summary": "Grade 2 Math strand: for a shape to show a true fraction, it must be divided into parts that are all the same size, called equal parts.",
-        "resourceLabel": "YouTube: Fractions: Recognizing Equal Parts of a Whole",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Recognizing%20Equal%20Parts%20of%20a%20Whole%20grade%202%20educational",
+        "resourceLabel": "YouTube: Partitioning Shapes-Fractions | MightyOwl Math | 2nd Grade",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Partitioning%20Shapes-Fractions%20%7C%20MightyOwl%20Math%20%7C%202nd%20Grade",
+        "videoUrl": "https://www.youtube.com/watch?v=KKRhWHuVRy8",
         "quiz": [
           {
             "q": "For a fraction to be shown correctly, a shape must be divided into ___.",
@@ -48967,8 +48969,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Earthworms: Helpers Beneath the Soil",
         "summary": "Grade 2 Science strand: earthworms live underground and help the soil by tunnelling through it, letting in air and water, and breaking down dead plant material.",
-        "resourceLabel": "YouTube: Earthworms: Helpers Beneath the Soil",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Earthworms%3A%20Helpers%20Beneath%20the%20Soil%20grade%202%20educational",
+        "resourceLabel": "YouTube: Worms Are Wonderful | Amazing Animals | Backyard Science | SciShow Kids",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Worms%20Are%20Wonderful%20%7C%20Amazing%20Animals%20%7C%20Backyard%20Science%20%7C%20SciShow%20Kids",
+        "videoUrl": "https://www.youtube.com/watch?v=l-zc_1vjLnI",
         "quiz": [
           {
             "q": "Where do earthworms usually live?",
@@ -49027,8 +49030,9 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Our School Bus Driver: Getting Us There Safely",
         "summary": "Kindergarten Social Studies strand: the school bus driver is a community helper who drives students safely to and from school every day.",
-        "resourceLabel": "YouTube: Our School Bus Driver: Getting Us There Safely",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Bus%20Driver%3A%20Getting%20Us%20There%20Safely%20grade%202%20educational",
+        "resourceLabel": "YouTube: I Want To Be A School Bus Driver - Kids Dream Jobs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=I%20Want%20To%20Be%20A%20School%20Bus%20Driver%20-%20Kids%20Dream%20Jobs",
+        "videoUrl": "https://www.youtube.com/watch?v=zkg4NPcCIOc",
         "quiz": [
           {
             "q": "Who is the community helper who helps students get to school safely each day on the yellow vehicle?",

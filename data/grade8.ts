@@ -40468,8 +40468,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Direct and Indirect Speech",
         "summary": "Grade 8 Language strand: direct speech quotes a speakers exact words within quotation marks, while indirect speech, or reported speech, restates what someone said without quotation marks, often shifting pronouns and verb tense.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: REPORTED SPEECH in English - Indirect Speech vs Direct Speech | English with Lucy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=REPORTED%20SPEECH%20in%20English%20-%20Indirect%20Speech%20vs%20Direct%20Speech%20%7C%20English%20with%20Lucy",
+        "videoUrl": "https://www.youtube.com/watch?v=eplQBhE0-Hg",
         "quiz": [
           {
             "q": "What does direct speech do?",
@@ -40528,8 +40529,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Fractions, Decimals, and Percents: Converting Between Forms",
         "summary": "Students convert fluently among fractions, decimals, and percents, and use these conversions to compare quantities expressed in different forms.",
-        "resourceLabel": "YouTube: Fractions, Decimals, and Percents: Converting Between Forms",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%2C%20Decimals%2C%20and%20Percents%3A%20Converting%20Between%20Forms%20grade%208%20educational",
+        "resourceLabel": "YouTube: Converting Between Fractions, Decimals, and Percentages | Professor Dave Explains",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Converting%20Between%20Fractions%2C%20Decimals%2C%20and%20Percentages%20%7C%20Professor%20Dave%20Explains",
+        "videoUrl": "https://www.youtube.com/watch?v=-Xt4UDk7Kzw",
         "topic": "Number Sense",
         "quiz": [
           {
@@ -40588,8 +40590,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Chemistry: Chromatography and Separating Mixtures",
         "summary": "Grade 8 Science strand: chromatography separates the components of a mixture, such as ink, based on how differently each component travels through a material like paper, allowing scientists to identify individual substances within a mixture.",
-        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "resourceLabel": "YouTube: Separating Mixtures | Chemistry Matters",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Separating%20Mixtures%20%7C%20Chemistry%20Matters",
+        "videoUrl": "https://www.youtube.com/watch?v=wuJ1xyqo2Hk",
         "quiz": [
           {
             "q": "What does chromatography do?",
