@@ -40543,6 +40543,7 @@ const curriculum: DayContent[] = [
         "summary": "Students solve inequalities involving logarithmic expressions by applying the properties of logarithms, accounting for domain restrictions (arguments must be positive), and testing intervals to determine the solution set.",
         "resourceLabel": "YouTube: Solving Logarithmic Inequalities",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Logarithmic%20Inequalities%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=sjy1jNLGqUY",
         "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
@@ -40603,6 +40604,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: a confidence interval estimates a range of values likely to contain the true population parameter, and a stated confidence level, such as 95 percent, describes how often intervals built this way would capture the true value if the sampling process were repeated.",
         "resourceLabel": "YouTube: Statistics: An Introduction to Confidence Intervals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20An%20Introduction%20to%20Confidence%20Intervals%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TqOeMYtOc1w",
         "quiz": [
           {
             "q": "What does a confidence interval estimate?",
@@ -40663,6 +40665,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson examines perfectly inelastic collisions, where two objects collide and stick together, moving with a common final velocity. Students learn that while total momentum is always conserved, kinetic energy is not — some is converted to heat, sound, and deformation. Worked examples show how to apply conservation of momentum to find the combined velocity and calculate the fraction of kinetic energy lost.",
         "resourceLabel": "YouTube: Perfectly Inelastic Collisions: Objects Combining and Moving Together",
         "resourceUrl": "https://www.youtube.com/results?search_query=Perfectly%20Inelastic%20Collisions%3A%20Objects%20Combining%20and%20Moving%20Together%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=C1XuwHLacao",
         "quiz": [
           {
             "q": "In a perfectly inelastic collision between two objects, which quantity is always conserved?",

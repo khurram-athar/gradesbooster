@@ -40718,6 +40718,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: a compound word forms when two or more smaller words combine to create a new word with its own meaning, and compounds can be written as one word, as two separate words, or joined by a hyphen.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=82G-ZWzUHhU",
         "quiz": [
           {
             "q": "What is a compound word?",
@@ -40778,6 +40779,7 @@ const curriculum: DayContent[] = [
         "summary": "Students calculate simple interest earned or owed using the formula I = Prt, applying it to savings accounts and short-term loans.",
         "resourceLabel": "YouTube: Financial Literacy: Simple Interest",
         "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Simple%20Interest%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=BkYwvVOFHrY",
         "topic": "Financial Literacy",
         "quiz": [
           {
@@ -40838,6 +40840,7 @@ const curriculum: DayContent[] = [
         "summary": "Students trace the path of air through the respiratory system, from the nose and trachea to the lungs and alveoli, and explain how oxygen and carbon dioxide are exchanged with the blood.",
         "resourceLabel": "YouTube: The Respiratory System: How We Breathe",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Respiratory%20System%3A%20How%20We%20Breathe%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=v_j-LD2YEqg",
         "topic": "Human Body Systems",
         "quiz": [
           {

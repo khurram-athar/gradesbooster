@@ -50260,6 +50260,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: the vowel teams ey and eigh can both make the long a sound, as in the words they and eight.",
         "resourceLabel": "YouTube: Vowel Teams: ey and eigh (Long A Sound)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20ey%20and%20eigh%20%28Long%20A%20Sound%29%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Un0Kg5HoaU4",
         "quiz": [
           {
             "q": "What sound do the vowel teams ey and eigh often make?",
@@ -50342,6 +50343,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare two groups of objects by matching items one-to-one to determine which group has more, fewer, or if the groups are equal, without needing to count first.",
         "resourceLabel": "YouTube: Comparing Sets Using One-to-One Matching",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Sets%20Using%20One-to-One%20Matching%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0kFthxlh_Ck",
         "topic": "Number Sense",
         "quiz": [
           {

@@ -40516,6 +40516,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: a nominal clause, also called a noun clause, functions within a sentence the way a single noun would, serving as a subject, object, or complement, and is often introduced by words such as that, what, whoever, or whether.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=nYpmbJlSVOA",
         "quiz": [
           {
             "q": "What role does a nominal clause play in a sentence?",
@@ -40576,6 +40577,13 @@ const curriculum: DayContent[] = [
         "summary": "Students recognize and factor special polynomial patterns: the difference of squares (a² - b²) and perfect square trinomials (a² ± 2ab + b²).",
         "resourceLabel": "YouTube: Algebra: Difference of Squares and Perfect Square Trinomials",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Difference%20of%20Squares%20and%20Perfect%20Square%20Trinomials%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=f6yhfmW41wI",
+        "videoUrls": [
+          {
+            "label": "Factoring Difference of Squares",
+            "url": "https://www.youtube.com/watch?v=wBOou3NBfrI"
+          }
+        ],
         "topic": "Polynomials & Factoring",
         "quiz": [
           {
@@ -40636,6 +40644,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: the electromagnetic spectrum includes all types of electromagnetic radiation, ranging from long-wavelength radio waves to short-wavelength gamma rays, with visible light forming only a small portion used by the human eye.",
         "resourceLabel": "YouTube: Physics: The Electromagnetic Spectrum and Its Applications",
         "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20The%20Electromagnetic%20Spectrum%20and%20Its%20Applications%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=C4os2eqc8Y4",
         "quiz": [
           {
             "q": "What does the electromagnetic spectrum include?",

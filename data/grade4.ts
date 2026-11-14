@@ -42279,6 +42279,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: reflexive pronouns, such as myself, yourself, himself, herself, itself, ourselves, yourselves, and themselves, are used when the subject and object of a sentence refer to the same person or thing.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=7UL49hVrDoo",
         "quiz": [
           {
             "q": "What is a reflexive pronoun?",
@@ -42339,6 +42340,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practice reading and interpreting bar graphs where the vertical axis is scaled in jumps of 2, 5, or 10 rather than by ones, so each gridline represents more than one unit.",
         "resourceLabel": "YouTube: Reading Bar Graphs with Scaled Intervals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%20Bar%20Graphs%20with%20Scaled%20Intervals%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=J2DKgCf353k",
         "topic": "Statistics & Data",
         "quiz": [
           {
@@ -42460,6 +42462,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the Bay of Fundy, located between Nova Scotia and New Brunswick, is famous for having the highest tides in the world, caused by the unique shape of the bay funnelling huge volumes of water.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=wC6m2KNpcto",
         "quiz": [
           {
             "q": "In which two provinces is the Bay of Fundy located?",

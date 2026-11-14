@@ -43406,6 +43406,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Language strand: the main idea of a story is what the story is mostly about, even though the story might include many small details.",
         "resourceLabel": "YouTube: Main Idea: What Is the Story Mostly About",
         "resourceUrl": "https://www.youtube.com/results?search_query=Main%20Idea%3A%20What%20Is%20the%20Story%20Mostly%20About%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vjIprpVupu0",
         "quiz": [
           {
             "q": "What does the main idea of a story tell readers?",
@@ -43489,6 +43490,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: parallel lines never meet and stay the same distance apart, while perpendicular lines cross each other at a right angle.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=AVvZaT5jPjU",
         "quiz": [
           {
             "q": "What is true about parallel lines?",
@@ -43610,6 +43612,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to interpret basic symbols and colour patterns used on Canadian weather and climate maps, such as temperature zones and precipitation symbols, to describe conditions in different parts of the country.",
         "resourceLabel": "YouTube: Social Studies: Reading Weather and Climate Maps",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Reading%20Weather%20and%20Climate%20Maps%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=E0e8cJ5qJE0",
         "topic": "Map Skills & Geography Basics",
         "quiz": [
           {

@@ -40665,6 +40665,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a verbal is a verb form that functions as another part of speech, so a gerund acts as a noun, a participle acts as an adjective, and an infinitive can act as a noun, adjective, or adverb, letting a writer pack additional action into a sentence without adding a full clause.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=R47OBLT4ze0",
         "quiz": [
           {
             "q": "What is a verbal?",
@@ -40725,6 +40726,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: curve sketching combines the first derivative test, which locates local maxima and minima by tracking where a function changes from increasing to decreasing or back, with the second derivative test, which confirms concavity, to build an accurate picture of a functions shape without plotting every point.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=o2I3lajJklE",
         "quiz": [
           {
             "q": "What does the first derivative test locate?",
@@ -40785,6 +40787,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: the liver filters blood arriving from the digestive tract, breaking down or neutralizing toxins and metabolic waste products, storing glucose as glycogen, and producing bile that aids in the digestion and absorption of dietary fats, making it central to both detoxification and metabolism.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=KpqrvAtoMeM",
         "quiz": [
           {
             "q": "What does the liver do to blood arriving from the digestive tract?",
@@ -40844,6 +40847,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: chewing gum consists of an insoluble polymer base that remains chewable because it does not dissolve in saliva, combined with soluble sugars, flavour compounds, and softeners that dissolve and diffuse out during chewing, which is why sweetness and flavour fade well before the gum itself breaks down.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=3St_lpRwwaA",
         "quiz": [
           {
             "q": "Why does the base of chewing gum remain chewable rather than dissolving?",

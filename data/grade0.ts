@@ -45694,6 +45694,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids learn that some words, called synonyms, mean almost the same thing, like 'happy' and 'glad'.",
         "resourceLabel": "YouTube: Synonyms: Words That Mean the Same",
         "resourceUrl": "https://www.youtube.com/results?search_query=Synonyms%3A%20Words%20That%20Mean%20the%20Same%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=X4EhMDpeHyc",
         "topic": "Vocabulary",
         "quiz": [
           {
@@ -45754,6 +45755,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practice identifying and using the words left and right to describe direction and the position of objects.",
         "resourceLabel": "YouTube: Positional Words: Left and Right",
         "resourceUrl": "https://www.youtube.com/results?search_query=Positional%20Words%3A%20Left%20and%20Right%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=aTrPlk66WNk",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {

@@ -40827,6 +40827,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: a clipped word forms when a longer word is shortened, dropping one or more syllables while keeping the same essential meaning, such as gym from gymnasium or phone from telephone.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=gZhtcT2TviU",
         "quiz": [
           {
             "q": "What is a clipped word?",
@@ -40887,6 +40888,7 @@ const curriculum: DayContent[] = [
         "summary": "Students solve systems of two linear equations by adding or subtracting the equations to eliminate one variable, using multiplication when necessary to create matching coefficients.",
         "resourceLabel": "YouTube: Systems of Linear Equations: Solving by Elimination",
         "resourceUrl": "https://www.youtube.com/results?search_query=Systems%20of%20Linear%20Equations%3A%20Solving%20by%20Elimination%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jj7a1e2ar_E",
         "topic": "Equations & Inequalities",
         "quiz": [
           {
@@ -40947,6 +40949,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare energy sources -- including solar, wind, hydro, fossil fuels, and nuclear -- based on renewability, environmental impact, and reliability.",
         "resourceLabel": "YouTube: Renewable and Non-Renewable Energy Resources",
         "resourceUrl": "https://www.youtube.com/results?search_query=Renewable%20and%20Non-Renewable%20Energy%20Resources%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oFMC8yO9NK8",
         "topic": "Energy",
         "quiz": [
           {

@@ -40766,6 +40766,7 @@
         "summary": "Grade 7 Language strand: a restrictive modifier provides essential information needed to identify the noun it describes and is not set off by commas, while a non-restrictive modifier adds extra, non-essential information and is set off by commas.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=NjTM4booWHo",
         "quiz": [
           {
             "q": "What does a restrictive modifier do?",
@@ -40826,6 +40827,13 @@
         "summary": "Grade 7 Math strand: elapsed time is found by subtracting a starting time from an ending time, and the 24-hour clock avoids the need for AM and PM by numbering the hours of the day from 0 to 23, a format commonly used in travel schedules and scientific records.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=WyGidJ3kCb8",
+        "videoUrls": [
+          {
+            "label": "elapsed time using a timeline",
+            "url": "https://www.youtube.com/watch?v=ML6r7BEZo7M"
+          }
+        ],
         "quiz": [
           {
             "q": "How is elapsed time generally calculated?",
@@ -40886,6 +40894,7 @@
         "summary": "Grade 7 Science strand: Earths atmosphere is divided into layers based on temperature and altitude, including the troposphere closest to the surface where weather occurs, the stratosphere containing the ozone layer, and the higher mesosphere, thermosphere, and exosphere.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=8OzwUnopXRA",
         "quiz": [
           {
             "q": "In which layer of the atmosphere does most weather occur?",
