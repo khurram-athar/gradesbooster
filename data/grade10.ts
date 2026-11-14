@@ -2812,7 +2812,13 @@ const curriculum: DayContent[] = [
         "summary": "Students consolidate Grade 10 math topics.",
         "resourceLabel": "YouTube: Review: Quadratics, Trigonometry, and Analytic Geometry",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Quadratics%2C%20Trigonometry%2C%20and%20Analytic%20Geometry%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Veb22xD0Ao0",
+        "videoUrl": "https://www.youtube.com/watch?v=Mua0yzRF_x0",
+        "videoUrls": [
+          {
+            "label": "Trigonometry (sine ratio)",
+            "url": "https://www.youtube.com/watch?v=4jSqFXdmKR0"
+          }
+        ],
         "quiz": [
           {
             "q": "Solve by the quadratic formula: x² − 4x − 5 = 0",
@@ -3556,7 +3562,13 @@ const curriculum: DayContent[] = [
         "summary": "Students review all major Grade 10 mathematics topics.",
         "resourceLabel": "YouTube: Review: Grade 10 Math Comprehensive",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Grade%2010%20Math%20Comprehensive%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Veb22xD0Ao0",
+        "videoUrl": "https://www.youtube.com/watch?v=Mua0yzRF_x0",
+        "videoUrls": [
+          {
+            "label": "Trigonometry (sine ratio)",
+            "url": "https://www.youtube.com/watch?v=4jSqFXdmKR0"
+          }
+        ],
         "quiz": [
           {
             "q": "Solve the system: 2x + 3y = 12 and x − y = 1",
@@ -5296,7 +5308,13 @@ const curriculum: DayContent[] = [
         "summary": "Students review all major Grade 10 math concepts for assessment readiness.",
         "resourceLabel": "YouTube: Exam Preparation: Grade 10 Mathematics Review",
         "resourceUrl": "https://www.youtube.com/results?search_query=Exam%20Preparation%3A%20Grade%2010%20Mathematics%20Review%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Veb22xD0Ao0",
+        "videoUrl": "https://www.youtube.com/watch?v=Mua0yzRF_x0",
+        "videoUrls": [
+          {
+            "label": "Trigonometry (sine ratio)",
+            "url": "https://www.youtube.com/watch?v=4jSqFXdmKR0"
+          }
+        ],
         "quiz": [
           {
             "q": "Solve: x² + 2x − 15 = 0",
@@ -12258,7 +12276,13 @@ const curriculum: DayContent[] = [
         "summary": "A cumulative review connecting quadratic relations, the sine and cosine laws, and analytic geometry formulas.",
         "resourceLabel": "YouTube: Mixed Review: Quadratics, Trigonometry, and Analytic Geometry",
         "resourceUrl": "https://www.youtube.com/results?search_query=Mixed%20Review%3A%20Quadratics%2C%20Trigonometry%2C%20and%20Analytic%20Geometry%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Veb22xD0Ao0",
+        "videoUrl": "https://www.youtube.com/watch?v=Mua0yzRF_x0",
+        "videoUrls": [
+          {
+            "label": "Trigonometry (sine ratio)",
+            "url": "https://www.youtube.com/watch?v=4jSqFXdmKR0"
+          }
+        ],
         "quiz": [
           {
             "q": "Convert y = x² + 8x + 10 to vertex form.",
@@ -14490,7 +14514,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: war literature and testimony present firsthand or fictionalized accounts of conflict, often exploring themes of trauma, survival, and the human cost of war through personal perspective.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
-        "videoUrl": "https://www.youtube.com/watch?v=G2q2lGtDa18",
+        "videoUrl": "https://www.youtube.com/watch?v=92eL39SRt34",
         "quiz": [
           {
             "q": "War literature and testimony often present ___.",
@@ -14750,7 +14774,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "War Literature",
-            "url": "https://www.youtube.com/watch?v=G2q2lGtDa18"
+            "url": "https://www.youtube.com/watch?v=92eL39SRt34"
           }
         ],
         "quiz": [

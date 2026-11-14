@@ -7332,7 +7332,7 @@ const curriculum: DayContent[] = [
         "summary": "Apply the geographic inquiry process to design a mini-project: identify a geographic question, select appropriate data sources and tools, plan an investigation, and outline how to communicate findings (CGC1W capstone).",
         "resourceLabel": "YouTube: Geographic Inquiry Project Design (Capstone Skill)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geographic%20Inquiry%20Project%20Design%20%28Capstone%20Skill%29%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=XccYJvOL4to",
+        "videoUrl": "https://www.youtube.com/watch?v=BpXCRki-YwE",
         "quiz": [
           {
             "q": "The first step in a geographic inquiry project is to...",

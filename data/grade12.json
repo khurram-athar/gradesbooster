@@ -568,7 +568,7 @@
         "summary": "Students solve complex exponential and logarithmic equations, apply change of base, and model real phenomena including logistic growth.",
         "resourceLabel": "Khan Academy: Logarithm Properties",
         "resourceUrl": "https://www.youtube.com/watch?v=TMmxKZaCqe0",
-        "videoUrl": "https://www.youtube.com/watch?v=oqHJ5xQYTEI",
+        "videoUrl": "https://www.youtube.com/watch?v=K_PiPfYxtao",
         "quiz": [
           {
             "q": "The change of base formula log_b(x) = log(x)/log(b) allows ___.",
@@ -1946,7 +1946,7 @@
         "summary": "Students examine magnetic fields produced by current-carrying conductors, and the force on a current or moving charge in a magnetic field.",
         "resourceLabel": "Crash Course Physics: Magnetic Fields",
         "resourceUrl": "https://www.youtube.com/watch?v=s94suB5uLWw",
-        "videoUrl": "https://www.youtube.com/watch?v=csMqfwJRjCs",
+        "videoUrl": "https://www.youtube.com/watch?v=s94suB5uLWw",
         "quiz": [
           {
             "q": "The force on a charge q moving with velocity v in a magnetic field B is ___.",
@@ -3433,7 +3433,7 @@
         "summary": "Students review all Grade 12 Physics content and practise exam-level problems.",
         "resourceLabel": "Crash Course Physics: Final Review",
         "resourceUrl": "https://www.youtube.com/watch?v=pGj9isFr21U",
-        "videoUrl": "https://www.youtube.com/watch?v=CwkhvFlNFp0",
+        "videoUrl": "https://www.youtube.com/watch?v=nllCgjlWAF4",
         "quiz": [
           {
             "q": "A ball on a string of radius 0.5 m completes one revolution in 2 s. Find centripetal acceleration.",
@@ -7042,7 +7042,7 @@
         "summary": "Students reflect on the year's learning in Advanced Functions and its significance for future study.",
         "resourceLabel": "Khan Academy",
         "resourceUrl": "https://www.youtube.com/watch?v=nRmBsxBpTjs",
-        "videoUrl": "https://www.youtube.com/watch?v=fDmjiV_Tx-E",
+        "videoUrl": "https://www.youtube.com/watch?v=i9JRTmDd0EA",
         "quiz": [
           {
             "q": "The central organising concept of Advanced Functions is ___.",
@@ -14263,7 +14263,7 @@
         "summary": "Grade 12 English strand: Aldous Huxley's Brave New World and George Orwell's Nineteen Eighty-Four imagine two very different dystopias — a plastic, consumerist pleasure-state versus a surveillance state built on fear and propaganda — and comparing them reveals how each captures different anxieties about control.",
         "resourceLabel": "YouTube: Comparing Dystopian Visions: Brave New World vs. Nineteen Eighty-Four",
         "resourceUrl": "https://www.youtube.com/results?search_query=Brave%20New%20World%20vs%20Nineteen%20Eighty-Four%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=31CcclqEiZw",
+        "videoUrl": "https://www.youtube.com/watch?v=rjU8iJDEuaY",
         "quiz": [
           {
             "q": "Nineteen Eighty-Four imagines a dystopia primarily built on ___.",
@@ -21499,7 +21499,7 @@
         "summary": "Grade 10 Geometry strand (extension): a vector in three dimensions extends the two-dimensional concept by adding a third component, allowing magnitude and direction to be described in space rather than on a flat plane.",
         "resourceLabel": "YouTube: Vectors in Three Dimensions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%20in%20Three%20Dimensions%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=6-on6Ra0Elg",
+        "videoUrl": "https://www.youtube.com/watch?v=6FXzFrgxB_k",
         "quiz": [
           {
             "q": "A vector in three dimensions extends the two-dimensional concept by adding ___.",
@@ -37120,7 +37120,7 @@
         "summary": "This lesson introduces Kirchhoff's Current Law (charge conservation at junctions) and Kirchhoff's Voltage Law (energy conservation around closed loops) as the two systematic tools needed to analyze circuits that cannot be solved using simple series/parallel reduction. You will practice assigning current directions, writing junction and loop equations for multi-loop circuits with multiple EMF sources and resistors, and solving the resulting system of equations for unknown currents.",
         "resourceLabel": "YouTube: Kirchhoff's Voltage and Current Laws in Multi-Loop Circuits",
         "resourceUrl": "https://www.youtube.com/results?search_query=Kirchhoff%27s%20Voltage%20and%20Current%20Laws%20in%20Multi-Loop%20Circuits%20grade%2012%20physics%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=2Zu3ppq3n8I",
+        "videoUrl": "https://www.youtube.com/watch?v=fm_Xh1dpmrU",
         "quiz": [
           {
             "q": "Kirchhoff's Current Law states that at any junction in a circuit:",
