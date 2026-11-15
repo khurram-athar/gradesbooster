@@ -11777,7 +11777,7 @@ const curriculum: DayContent[] = [
         "summary": "Students simplify radical expressions by factoring out perfect squares, and add, subtract, and multiply radicals such as square roots that appear in geometry and quadratic-formula work.",
         "resourceLabel": "YouTube: Simplifying and Operating with Radicals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Simplifying%20and%20Operating%20with%20Radicals%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=4Gq3LPORQ-U",
+        "videoUrl": "https://www.youtube.com/watch?v=Llrngdh3Rrg",
         "quiz": [
           {
             "q": "What is the simplified form of √72?",
@@ -16746,7 +16746,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the 1985 bombing of Air India Flight 182, planned in Canada, killed all 329 people aboard and remains the deadliest terrorist attack in Canadian history, prompting lasting debate over airport security and the treatment of victims’ families.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
-        "videoUrl": "https://www.youtube.com/watch?v=lcqXufK5yYw",
+        "videoUrl": "https://www.youtube.com/watch?v=zXxxi1vVD9o",
         "quiz": [
           {
             "q": "The Air India bombing took place in which year?",

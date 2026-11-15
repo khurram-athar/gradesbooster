@@ -9862,7 +9862,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 7 Number strand: the greatest common factor (GCF) is the largest number that divides evenly into two or more numbers, while the least common multiple (LCM) is the smallest number that is a multiple of two or more numbers.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=oJo2M6KovGM",
+        "videoUrl": "https://www.youtube.com/watch?v=Y7Xav-XAhXs",
         "quiz": [
           {
             "q": "What is the GCF of 12 and 18?",
@@ -45357,11 +45357,11 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=oJo2M6KovGM",
+        "videoUrl": "https://www.youtube.com/watch?v=Y7Xav-XAhXs",
         "videoUrls": [
           {
             "label": "Number Theory",
-            "url": "https://www.youtube.com/watch?v=oJo2M6KovGM"
+            "url": "https://www.youtube.com/watch?v=Y7Xav-XAhXs"
           },
           {
             "label": "Geometry (Days 171-179)",
@@ -47172,7 +47172,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Number Theory",
-            "url": "https://www.youtube.com/watch?v=oJo2M6KovGM"
+            "url": "https://www.youtube.com/watch?v=Y7Xav-XAhXs"
           },
           {
             "label": "Algebra",
