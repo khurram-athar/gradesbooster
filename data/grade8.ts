@@ -40966,8 +40966,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Analyzing Diction and Word Choice in Literature",
         "summary": "Grade 8 Language strand: diction refers to an authors deliberate choice of words, and analyzing diction, including whether words are formal or informal, concrete or abstract, helps readers understand tone, mood, and characterization.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: \"What is Diction in Literature?\": A Literary Guide for English Students and Teachers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=%22What%20is%20Diction%20in%20Literature%3F%22%3A%20A%20Literary%20Guide%20for%20English%20Students%20and%20Teachers",
+        "videoUrl": "https://www.youtube.com/watch?v=rGZZHyIHxOM",
         "quiz": [
           {
             "q": "What does diction refer to?",
@@ -41026,8 +41027,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Financial Literacy: Budgeting Income and Expenses",
         "summary": "Students create and analyze a simple monthly budget, categorizing income and expenses, and calculate the net balance (surplus or deficit).",
-        "resourceLabel": "YouTube: Financial Literacy: Budgeting Income and Expenses",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Budgeting%20Income%20and%20Expenses%20grade%208%20educational",
+        "resourceLabel": "YouTube: Financial Literacy\u2014Making a Budget | Learn how to create a budget",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%E2%80%94Making%20a%20Budget%20%7C%20Learn%20how%20to%20create%20a%20budget",
+        "videoUrl": "https://www.youtube.com/watch?v=cYGiipJOiLg",
         "topic": "Financial Literacy",
         "quiz": [
           {
@@ -41086,8 +41088,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Earth Science: Weathering and the Formation of Caves",
         "summary": "Grade 8 Science strand: weathering breaks down rock over time through physical and chemical processes, and when slightly acidic water slowly dissolves soluble rock such as limestone, it can carve out extensive underground cave systems.",
-        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "resourceLabel": "YouTube: How Water and Chemical Weathering Formed the World's Largest Cave | Mammoth Cave National Park",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20Water%20and%20Chemical%20Weathering%20Formed%20the%20World%27s%20Largest%20Cave%20%7C%20Mammoth%20Cave%20National%20Park",
+        "videoUrl": "https://www.youtube.com/watch?v=Z22E663GxUs",
         "quiz": [
           {
             "q": "What does weathering do to rock over time?",
@@ -41146,8 +41149,9 @@ const curriculum: DayContent[] = [
         "subject": "History",
         "title": "Social Studies: The White Paper of 1969 and First Nations Opposition",
         "summary": "Grade 6 Social Studies strand: the 1969 White Paper was a federal government policy proposal that would have eliminated the Indian Act and existing treaty rights, but it was withdrawn after strong opposition from First Nations leaders and communities across Canada.",
-        "resourceLabel": "YouTube: Social Studies: The White Paper of 1969 and First Nations Opposition",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20White%20Paper%20of%201969%20and%20First%20Nations%20Opposition%20grade%208%20educational",
+        "resourceLabel": "YouTube: Trudeau's 1969 White Paper: The First Nations Who Fought Back | Red Paper Rising",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trudeau%27s%201969%20White%20Paper%3A%20The%20First%20Nations%20Who%20Fought%20Back%20%7C%20Red%20Paper%20Rising",
+        "videoUrl": "https://www.youtube.com/watch?v=5Qyw-IEd6mE",
         "quiz": [
           {
             "q": "What government document is known as the White Paper of 1969?",

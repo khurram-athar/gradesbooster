@@ -40729,8 +40729,9 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Menippean Satire: Mocking Attitudes Rather Than Persons",
         "summary": "Grade 12 English strand: Menippean satire is a loose, prose-based satirical form that mocks mental attitudes, such as pedantry or dogmatism, rather than targeting specific individuals, often mixing genres and digressive structure to parody the very form of intellectual seriousness it examines.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Menippean Satire: Why It's More Relevant Than Ever",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Menippean%20Satire%3A%20Why%20It%27s%20More%20Relevant%20Than%20Ever",
+        "videoUrl": "https://www.youtube.com/watch?v=6q86CAvQWmk",
         "quiz": [
           {
             "q": "What does Menippean satire primarily target?",
@@ -40788,8 +40789,9 @@ const curriculum: DayContent[] = [
         "subject": "AdvancedFunctions",
         "title": "Solving Logarithmic Equations",
         "summary": "Students solve logarithmic equations by condensing to a single logarithm and converting to exponential form, and verify solutions against the domain restrictions of logarithmic functions.",
-        "resourceLabel": "YouTube: Solving Logarithmic Equations",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Logarithmic%20Equations%20grade%2012%20educational",
+        "resourceLabel": "YouTube: Solving Logarithmic Equations (5 Examples)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Logarithmic%20Equations%20%285%20Examples%29",
+        "videoUrl": "https://www.youtube.com/watch?v=kBeHeTIcZ98",
         "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
@@ -40848,8 +40850,9 @@ const curriculum: DayContent[] = [
         "subject": "Calculus",
         "title": "Sequences and Series: Infinite Geometric Series and Convergence",
         "summary": "Grade 9 Math strand: an infinite geometric series converges to a finite sum, given by a divided by one minus r, whenever the absolute value of the common ratio r is less than one, and it diverges otherwise since the terms no longer shrink toward zero.",
-        "resourceLabel": "YouTube: Sequences and Series: Infinite Geometric Series and Convergence",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Sequences%20and%20Series%3A%20Infinite%20Geometric%20Series%20and%20Convergence%20grade%2012%20educational",
+        "resourceLabel": "YouTube: WHAT IS SUM TO INFINITY OF A CONVERGENT GEOMETRIC SERIES?? (A-level Maths, Pure Maths Video 78)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=WHAT%20IS%20SUM%20TO%20INFINITY%20OF%20A%20CONVERGENT%20GEOMETRIC%20SERIES%3F%3F%20%28A-level%20Maths%2C%20Pure%20Maths%20Video%2078%29",
+        "videoUrl": "https://www.youtube.com/watch?v=INfk0L--8Rg",
         "quiz": [
           {
             "q": "Under what condition does an infinite geometric series converge to a finite sum?",
@@ -40908,8 +40911,9 @@ const curriculum: DayContent[] = [
         "subject": "Physics",
         "title": "Electromagnetic Induction: Faraday's and Lenz's Laws",
         "summary": "Students explore how a changing magnetic flux induces an EMF in a coil, using Faraday's law to calculate induced EMF and Lenz's law to determine the direction of induced current.",
-        "resourceLabel": "YouTube: Electromagnetic Induction: Faraday's and Lenz's Laws",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Electromagnetic%20Induction%3A%20Faraday%27s%20and%20Lenz%27s%20Laws%20grade%2012%20educational",
+        "resourceLabel": "YouTube: What is Electromagnetic Induction? | Faraday's Laws and Lenz Law | iKen | iKen Edu | iKen App",
+        "resourceUrl": "https://www.youtube.com/results?search_query=What%20is%20Electromagnetic%20Induction%3F%20%7C%20Faraday%27s%20Laws%20and%20Lenz%20Law%20%7C%20iKen%20%7C%20iKen%20Edu%20%7C%20iKen%20App",
+        "videoUrl": "https://www.youtube.com/watch?v=3HyORmBip-w",
         "quiz": [
           {
             "q": "What does Faraday's law of electromagnetic induction state?",

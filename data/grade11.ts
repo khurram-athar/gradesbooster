@@ -40911,8 +40911,9 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Literature: The Family Saga Novel Across Generations",
         "summary": "Grade 11 English strand: a family saga novel traces a family across multiple generations, following how inherited wealth, trauma, tradition, or ambition are passed down and reshaped by each successive generation, using the family itself as a lens for exploring broader historical and social change.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Books that Do Family Saga Right!",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Books%20that%20Do%20Family%20Saga%20Right%21",
+        "videoUrl": "https://www.youtube.com/watch?v=uPoSz62CQ1I",
         "quiz": [
           {
             "q": "What does a family saga novel typically trace?",
@@ -40970,8 +40971,9 @@ const curriculum: DayContent[] = [
         "subject": "Functions",
         "title": "Financial Mathematics: Simple Interest and Calculating Total Amount",
         "summary": "Students calculate simple interest earned or owed using I = Prt and determine the total amount accumulated on loans and investments over time.",
-        "resourceLabel": "YouTube: Financial Mathematics: Simple Interest and Calculating Total Amount",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Mathematics%3A%20Simple%20Interest%20and%20Calculating%20Total%20Amount%20grade%2011%20educational",
+        "resourceLabel": "YouTube: Simple Interest Formula",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20Interest%20Formula",
+        "videoUrl": "https://www.youtube.com/watch?v=NCYNXkbTTUo",
         "topic": "Financial Literacy",
         "quiz": [
           {
@@ -41030,8 +41032,9 @@ const curriculum: DayContent[] = [
         "subject": "Biology",
         "title": "Genetics: Nondisjunction and Aneuploidy",
         "summary": "Grade 11 Biology strand: nondisjunction occurs when chromosomes fail to separate properly during meiosis, producing gametes with an abnormal number of chromosomes, and when such a gamete is fertilized, the resulting condition, called aneuploidy, can lead to a chromosome count that differs from the typical number for the species.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Nondisjunction in Meiosis",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Nondisjunction%20in%20Meiosis",
+        "videoUrl": "https://www.youtube.com/watch?v=uS3aJ9bLsKU",
         "quiz": [
           {
             "q": "What is nondisjunction?",
@@ -41090,8 +41093,9 @@ const curriculum: DayContent[] = [
         "subject": "Chemistry",
         "title": "Chemistry: Water Electrolysis and Hydrogen as a Fuel Source",
         "summary": "Grade 11 Chemistry strand: electrolysis of water uses an electric current to split water molecules into hydrogen gas at the cathode and oxygen gas at the anode, and the hydrogen produced can later be recombined with oxygen in a fuel cell to release energy, making water electrolysis a route to storing electrical energy as chemical fuel.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "resourceLabel": "YouTube: Electrolysis of Water - Electrochemistry",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electrolysis%20of%20Water%20-%20Electrochemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=zMLNHm4nUCQ",
         "quiz": [
           {
             "q": "What does electrolysis of water use to split water molecules?",

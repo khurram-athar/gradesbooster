@@ -42526,8 +42526,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Possessive Pronouns",
         "summary": "Grade 4 Language strand: possessive pronouns, such as mine, yours, his, hers, its, ours, and theirs, show ownership and replace a noun instead of coming before one.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "resourceLabel": "YouTube: Possessive Pronouns Explained | English Grammar for Grade 3-4 | Early Education | Grammar Tutorial",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Possessive%20Pronouns%20Explained%20%7C%20English%20Grammar%20for%20Grade%203-4%20%7C%20Early%20Education%20%7C%20Grammar%20Tutorial",
+        "videoUrl": "https://www.youtube.com/watch?v=jABDkzCeaC0",
         "quiz": [
           {
             "q": "What do possessive pronouns show?",
@@ -42586,8 +42587,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Data Management: Constructing and Interpreting Line Plots",
         "summary": "Grade 4 Math strand: a line plot displays data along a number line using symbols such as Xs or dots to show how many times each value occurs, making it easy to see the shape and spread of a data set.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "resourceLabel": "YouTube: Use and make line plots. Grade 3",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Use%20and%20make%20line%20plots.%20Grade%203",
+        "videoUrl": "https://www.youtube.com/watch?v=dIE_-1fa--s",
         "quiz": [
           {
             "q": "What does a line plot use to show how many times a value occurs?",
@@ -42646,8 +42648,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Gears: How They Change Speed and Direction",
         "summary": "Students explore how interlocking gears transfer motion, changing speed and direction, and identify gears in everyday machines like clocks and bicycles.",
-        "resourceLabel": "YouTube: Gears: How They Change Speed and Direction",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Gears%3A%20How%20They%20Change%20Speed%20and%20Direction%20grade%204%20educational",
+        "resourceLabel": "YouTube: Grade 4 Science: Explaining the Gear System on a Bicycle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grade%204%20Science%3A%20Explaining%20the%20Gear%20System%20on%20a%20Bicycle",
+        "videoUrl": "https://www.youtube.com/watch?v=oifV7-zYLhg",
         "topic": "Structures, Materials & Engineering",
         "quiz": [
           {

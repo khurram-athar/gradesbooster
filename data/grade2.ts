@@ -49368,8 +49368,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Shape Poems: Writing Poetry in a Picture",
         "summary": "Grade 2 Language strand: a shape poem, also called a concrete poem, arranges its words so the poem itself forms the outline of its topic, like a poem about a tree shaped like a tree.",
-        "resourceLabel": "YouTube: Shape Poems: Writing Poetry in a Picture",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Shape%20Poems%3A%20Writing%20Poetry%20in%20a%20Picture%20grade%202%20educational",
+        "resourceLabel": "YouTube: Writing Poetry for Kids - Episode 10 : Shape or Concrete Poem",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20Poetry%20for%20Kids%20-%20Episode%2010%20%3A%20Shape%20or%20Concrete%20Poem",
+        "videoUrl": "https://www.youtube.com/watch?v=c5niXJjnE94",
         "quiz": [
           {
             "q": "What makes a shape poem special?",
@@ -49428,8 +49429,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Data: Creating a Pictograph With a Key",
         "summary": "Grade 2 Math strand: a pictograph uses pictures to represent data, and a key tells the reader how many items each picture stands for, such as one picture equalling two votes.",
-        "resourceLabel": "YouTube: Data: Creating a Pictograph With a Key",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Creating%20a%20Pictograph%20With%20a%20Key%20grade%202%20educational",
+        "resourceLabel": "YouTube: Pictographs for Kids | Read, Interpret, and Draw Picture Graphs | Interpret Scaled Pictographs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Pictographs%20for%20Kids%20%7C%20Read%2C%20Interpret%2C%20and%20Draw%20Picture%20Graphs%20%7C%20Interpret%20Scaled%20Pictographs",
+        "videoUrl": "https://www.youtube.com/watch?v=V4vijfX-3u0",
         "quiz": [
           {
             "q": "What does a key on a pictograph tell the reader?",
@@ -49488,8 +49490,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Turtles: Reptiles With Shells",
         "summary": "Grade 2 Science strand: turtles are reptiles with a hard shell that protects their soft body, and many species can pull their head and legs inside the shell for safety.",
-        "resourceLabel": "YouTube: Turtles: Reptiles With Shells",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Turtles%3A%20Reptiles%20With%20Shells%20grade%202%20educational",
+        "resourceLabel": "YouTube: Turtle Time with Dr. Turtleman!",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Turtle%20Time%20with%20Dr.%20Turtleman%21",
+        "videoUrl": "https://www.youtube.com/watch?v=2ZJzs19myik",
         "quiz": [
           {
             "q": "What protects a turtles soft body?",
@@ -49548,8 +49551,9 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "The Poppy: A Symbol of Remembrance",
         "summary": "Grade 2 Social Studies strand: the poppy is a red flower worn as a symbol of remembrance to honour those who served and died in wars, especially around Remembrance Day.",
-        "resourceLabel": "YouTube: The Poppy: A Symbol of Remembrance",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Poppy%3A%20A%20Symbol%20of%20Remembrance%20grade%202%20educational",
+        "resourceLabel": "YouTube: Why Do We Celebrate Poppy Day? | Remembrance Day for Kids l History for Kids",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Why%20Do%20We%20Celebrate%20Poppy%20Day%3F%20%7C%20Remembrance%20Day%20for%20Kids%20l%20History%20for%20Kids",
+        "videoUrl": "https://www.youtube.com/watch?v=yFK6SpWI5d4",
         "quiz": [
           {
             "q": "What does the poppy symbolize?",

@@ -41004,8 +41004,9 @@
         "subject": "Language",
         "title": "Vocabulary: Homographs and Multiple-Meaning Words",
         "summary": "Grade 6 Language strand: a homograph is a word that is spelled the same as another word but may have a different meaning and sometimes a different pronunciation, such as the word tear meaning to rip or a drop of water from crying.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: What are Homographs? Words with multiple meanings! | Learn English",
+        "resourceUrl": "https://www.youtube.com/results?search_query=What%20are%20Homographs%3F%20Words%20with%20multiple%20meanings%21%20%7C%20Learn%20English",
+        "videoUrl": "https://www.youtube.com/watch?v=CEDlBLTfSHE",
         "quiz": [
           {
             "q": "What is a homograph?",
@@ -41064,8 +41065,9 @@
         "subject": "Math",
         "title": "Geometry: The Cartesian Plane and Four Quadrants",
         "summary": "Grade 6 Math strand: the Cartesian plane is divided by a horizontal x-axis and a vertical y-axis into four quadrants, and the signs of the x and y coordinates determine which quadrant a point is located in.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "resourceLabel": "YouTube: Quadrants of the Coordinate Plane | What are the Four Quadrants? | Math with Mr. J",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Quadrants%20of%20the%20Coordinate%20Plane%20%7C%20What%20are%20the%20Four%20Quadrants%3F%20%7C%20Math%20with%20Mr.%20J",
+        "videoUrl": "https://www.youtube.com/watch?v=uc9hWu73Phw",
         "quiz": [
           {
             "q": "What two axes divide the Cartesian plane?",
@@ -41124,8 +41126,9 @@
         "subject": "Science",
         "title": "How Solar Panels Convert Sunlight into Electricity",
         "summary": "Grade 6 Science strand: a solar panel is made of photovoltaic cells that absorb sunlight and convert its energy directly into electrical energy, offering a renewable alternative to fossil fuel power sources.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: How do solar panels work? - Richard Komp",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20do%20solar%20panels%20work%3F%20-%20Richard%20Komp",
+        "videoUrl": "https://www.youtube.com/watch?v=xKxrkht7CpY",
         "quiz": [
           {
             "q": "What are solar panels made of?",
@@ -41184,8 +41187,9 @@
         "subject": "SocialStudies",
         "title": "Endangered Species and Wildlife Conservation in Canada",
         "summary": "Students learn what it means for a species to be 'at risk,' examine examples like the woodland caribou and North Atlantic right whale, and explore how laws and conservation programs try to protect Canadian wildlife.",
-        "resourceLabel": "YouTube: Endangered Species and Wildlife Conservation in Canada",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Endangered%20Species%20and%20Wildlife%20Conservation%20in%20Canada%20grade%206%20educational",
+        "resourceLabel": "YouTube: CANADA'S ENDANGERED SPECIES 2025 - PROTECTING WILDLIFE NEARING EXTINCTION",
+        "resourceUrl": "https://www.youtube.com/results?search_query=CANADA%27S%20ENDANGERED%20SPECIES%202025%20-%20PROTECTING%20WILDLIFE%20NEARING%20EXTINCTION",
+        "videoUrl": "https://www.youtube.com/watch?v=i4mKvE5Oip4",
         "topic": "Environment & Sustainability (Social Studies)",
         "quiz": [
           {
