@@ -42096,6 +42096,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: some words combine more than one prefix or suffix, such as unbelievably, which adds the prefix un- and the suffixes -able and -ly to the root word believe.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=uc8AgRPyFe8",
         "quiz": [
           {
             "q": "What does it mean when a word has multiple affixes?",
@@ -42156,6 +42157,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: a balance scale compares the mass of two objects by showing which side is heavier, and can be used with standard masses to estimate and measure the mass of an object.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=m2I-JKne-W4",
         "quiz": [
           {
             "q": "What does a balance scale compare?",
@@ -42216,6 +42218,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: barometric pressure is the weight of the air pressing down on Earths surface, and a falling barometric pressure often signals that a storm is approaching.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=EkDhlzA-lwI",
         "quiz": [
           {
             "q": "What does barometric pressure measure?",
@@ -42276,6 +42279,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about the Supreme Court of Canada, the highest court in the country, including how its judges are appointed and why its decisions are final.",
         "resourceLabel": "YouTube: The Supreme Court of Canada and Its Role",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Supreme%20Court%20of%20Canada%20and%20Its%20Role%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=R8ZbI2p9mps",
         "topic": "Government & Civics",
         "quiz": [
           {

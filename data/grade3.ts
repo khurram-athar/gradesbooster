@@ -44040,6 +44040,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: to find a missing factor in a multiplication sentence, such as 6 x ___ = 42, students can use known multiplication facts or division to solve for the unknown number.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=e5WF9iMzOAw",
         "quiz": [
           {
             "q": "What is the missing factor in 6 x ___ = 42?",
@@ -44160,6 +44161,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to use simple letter-and-number grid coordinates, like those on a classroom or city map, to locate and describe the exact position of a place, building on earlier map-skill lessons.",
         "resourceLabel": "YouTube: Social Studies: Grid Coordinates — Finding Places on a Map",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Grid%20Coordinates%20%E2%80%94%20Finding%20Places%20on%20a%20Map%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xR0Tq8Rkg6c",
         "topic": "Map Skills & Geography Basics",
         "quiz": [
           {

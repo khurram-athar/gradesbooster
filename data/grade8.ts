@@ -41218,6 +41218,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: a cause and effect essay explains why an event or situation occurred and examines the consequences that followed, organized either by explaining multiple causes of one effect or multiple effects of one cause.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=MFCk4wLEzLQ",
         "quiz": [
           {
             "q": "What does a cause and effect essay explain?",
@@ -41278,6 +41279,7 @@ const curriculum: DayContent[] = [
         "summary": "Students calculate sales tax and tips as percentages of a bill and find the final total cost including these added percentages.",
         "resourceLabel": "YouTube: Financial Literacy: Calculating Sales Tax and Tips",
         "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Calculating%20Sales%20Tax%20and%20Tips%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jb_RwR_Eso4",
         "topic": "Financial Literacy",
         "quiz": [
           {
@@ -41338,6 +41340,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn how the excretory system, including the kidneys, bladder, and skin, removes waste products and excess water from the body to maintain a healthy internal balance.",
         "resourceLabel": "YouTube: The Excretory System: How the Body Filters Waste",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Excretory%20System%3A%20How%20the%20Body%20Filters%20Waste%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=q5qaGHfdmYM",
         "topic": "Human Body Systems",
         "quiz": [
           {
@@ -41398,6 +41401,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: Canada took part in a multinational military and reconstruction mission in Afghanistan beginning in 2001, contributing troops and aid as part of an international effort following the September 11 attacks.",
         "resourceLabel": "YouTube: Social Studies: Canadas Mission in Afghanistan",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canadas%20Mission%20in%20Afghanistan%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jC4rQzktII0",
         "quiz": [
           {
             "q": "In what year did Canadas mission in Afghanistan begin?",

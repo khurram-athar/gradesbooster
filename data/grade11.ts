@@ -41161,6 +41161,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: digital editing tools make it possible to alter a photograph in ways that are difficult for a viewer to detect, from removing an object to reshaping a persons body, raising ethical questions about how much manipulation a viewer should expect and when an altered image crosses from enhancement into deception.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=gfSlUxSLFo0",
         "quiz": [
           {
             "q": "What do digital editing tools make possible with a photograph?",
@@ -41221,6 +41222,7 @@ const curriculum: DayContent[] = [
         "summary": "Students apply the compound interest formula A = P(1 + r/n)^(nt) to calculate the future value of investments and compare compounding frequencies.",
         "resourceLabel": "YouTube: Financial Mathematics: Compound Interest and the Future Value Formula",
         "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Mathematics%3A%20Compound%20Interest%20and%20the%20Future%20Value%20Formula%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZNM69RWZFzI",
         "topic": "Financial Literacy",
         "quiz": [
           {
@@ -41281,6 +41283,7 @@ const curriculum: DayContent[] = [
         "summary": "Students distinguish the light-dependent reactions, which occur in the thylakoid membrane and produce ATP and NADPH, from the light-independent Calvin cycle in the stroma, which uses those products to fix carbon dioxide into sugar.",
         "resourceLabel": "YouTube: Biology: Photosynthesis -- Light Reactions and the Calvin Cycle",
         "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Photosynthesis%20--%20Light%20Reactions%20and%20the%20Calvin%20Cycle%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dAF5FngVa7A",
         "topic": "Plants & Photosynthesis",
         "quiz": [
           {
@@ -41341,6 +41344,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: tattoo ink consists of insoluble pigment particles suspended in a carrier liquid, and once injected into the dermis these particles are too large for the bodys immune cells to fully remove, allowing the pigment to remain visible beneath the skin for years or decades.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=_1bYzWrhVAA",
         "quiz": [
           {
             "q": "What are the pigment particles in tattoo ink suspended in?",

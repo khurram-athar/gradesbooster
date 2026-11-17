@@ -50872,6 +50872,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: an interjection is a short word or phrase, like Wow or Hooray, that shows a burst of strong feeling and is often followed by an exclamation mark.",
         "resourceLabel": "YouTube: Interjections: Showing Strong Feelings with Wow and Hooray",
         "resourceUrl": "https://www.youtube.com/results?search_query=Interjections%3A%20Showing%20Strong%20Feelings%20with%20Wow%20and%20Hooray%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=HpURS9pPxg8",
         "quiz": [
           {
             "q": "What does an interjection usually show?",
@@ -50954,6 +50955,7 @@ const curriculum: DayContent[] = [
         "summary": "Students identify and name common 3D shapes -- cubes, spheres, cones, and cylinders -- by matching them to everyday objects like dice, balls, ice cream cones, and cans.",
         "resourceLabel": "YouTube: Naming 3D Shapes in the World: Cubes, Spheres, Cones, and Cylinders",
         "resourceUrl": "https://www.youtube.com/results?search_query=Naming%203D%20Shapes%20in%20the%20World%3A%20Cubes%2C%20Spheres%2C%20Cones%2C%20and%20Cylinders%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=w27TpLQexbc",
         "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {
@@ -51014,6 +51016,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: crabs are small sea animals with hard shells and pincers that usually walk sideways along beaches and ocean floors.",
         "resourceLabel": "YouTube: Crabs: Sideways Walkers of the Shore",
         "resourceUrl": "https://www.youtube.com/results?search_query=Crabs%3A%20Sideways%20Walkers%20of%20the%20Shore%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ybLFw98tlOM",
         "quiz": [
           {
             "q": "How do crabs usually walk?",
@@ -51097,6 +51100,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: a citizenship ceremony is a special event where newcomers promise to follow Canadian laws and officially become Canadian citizens.",
         "resourceLabel": "YouTube: Citizenship Ceremony: Becoming a Canadian Citizen",
         "resourceUrl": "https://www.youtube.com/results?search_query=Citizenship%20Ceremony%3A%20Becoming%20a%20Canadian%20Citizen%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_BolmzWM9PE",
         "quiz": [
           {
             "q": "What happens at a citizenship ceremony?",

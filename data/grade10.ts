@@ -41104,6 +41104,7 @@ const curriculum: DayContent[] = [
         "summary": "Students convert a quadratic from standard form to vertex form by completing the square, and use the vertex form to identify the maximum or minimum point.",
         "resourceLabel": "YouTube: Algebra: Completing the Square to Find the Vertex",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Completing%20the%20Square%20to%20Find%20the%20Vertex%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=02h9yhc7ruc",
         "topic": "Quadratic Relations",
         "quiz": [
           {
@@ -41164,6 +41165,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: hibernation is a prolonged state of reduced metabolic activity that some animals enter to survive periods of cold and food scarcity, while torpor describes a shorter-term, less extreme drop in body temperature and metabolism used by other animals to conserve energy.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=I0ko4LTIz50",
         "quiz": [
           {
             "q": "What is hibernation?",
@@ -41224,6 +41226,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the Gouzenko Affair began in 1945 when Soviet embassy clerk Igor Gouzenko defected in Ottawa with documents revealing a Soviet spy network operating in Canada, an event widely seen as an early spark of the Cold War and a wake-up call about espionage among wartime allies.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=pFmEswtFlaQ",
         "quiz": [
           {
             "q": "Who was Igor Gouzenko?",

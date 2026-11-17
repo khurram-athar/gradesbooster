@@ -41258,6 +41258,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: an opinion piece states a clear position on a topic and supports it with reasons and evidence, while using a tone appropriate for its intended audience, such as a school newsletter.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=3-KQSlA6bg4",
         "quiz": [
           {
             "q": "What does an opinion piece state?",
@@ -41318,6 +41319,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: real-world situations, such as the cost of buying several items, can be represented using algebraic equations that model the relationship between a variable quantity and a known cost or rate.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=C_KffdI34ZU",
         "quiz": [
           {
             "q": "What can algebraic equations be used to represent?",
@@ -41378,6 +41380,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: the International Space Station is a research laboratory orbiting Earth where astronauts live and work in microgravity, conducting experiments that would be difficult or impossible to perform on the ground.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=RqoSBfGA0_c",
+        "videoUrls": [
+          {
+            "label": "What is the ISS?",
+            "url": "https://www.youtube.com/watch?v=RqoSBfGA0_c"
+          },
+          {
+            "label": "Living in Microgravity",
+            "url": "https://www.youtube.com/watch?v=UyFYgeE32f0"
+          }
+        ],
         "quiz": [
           {
             "q": "What is the International Space Station?",
@@ -41438,6 +41451,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about the tundra biome found in Canada's far north, including permafrost, the short growing season, and how Arctic wildlife and Inuit communities have adapted to this extreme environment.",
         "resourceLabel": "YouTube: Canada's Tundra and Arctic Ecosystems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Tundra%20and%20Arctic%20Ecosystems%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hqWE6Hp4YL8",
         "topic": "Canadian Geography & Environment",
         "quiz": [
           {

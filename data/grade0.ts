@@ -46238,6 +46238,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids practice sorting words into groups, or categories, such as animals, foods, or colours, and finding the word that does not belong.",
         "resourceLabel": "YouTube: Category Words: Things That Go Together",
         "resourceUrl": "https://www.youtube.com/results?search_query=Category%20Words%3A%20Things%20That%20Go%20Together%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vpg--e0pCdE",
         "topic": "Vocabulary",
         "quiz": [
           {
@@ -46298,6 +46299,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to identify and name common three-dimensional shapes, including spheres, cubes, cones, and cylinders, in everyday objects.",
         "resourceLabel": "YouTube: 3D Shapes: Sphere, Cube, Cone, and Cylinder",
         "resourceUrl": "https://www.youtube.com/results?search_query=3D%20Shapes%3A%20Sphere%2C%20Cube%2C%20Cone%2C%20and%20Cylinder%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2cg-Uc556-Q",
         "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {
@@ -46358,6 +46360,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: elephants are the largest animals that live on land, using their long trunks to eat, drink, and greet other elephants.",
         "resourceLabel": "YouTube: Elephants: The Largest Land Animals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Elephants%3A%20The%20Largest%20Land%20Animals%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=86YW3Bo9Sqc",
         "quiz": [
           {
             "q": "What are elephants known for being?",
@@ -46441,6 +46444,7 @@ const curriculum: DayContent[] = [
         "summary": "Explores the idea of gratitude and giving thanks, connecting it to community traditions where people share meals and kindness with others.",
         "resourceLabel": "YouTube: Being Thankful: A Time to Share with Others",
         "resourceUrl": "https://www.youtube.com/results?search_query=Being%20Thankful%3A%20A%20Time%20to%20Share%20with%20Others%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YyQxMryrWYQ",
         "topic": "Local Community & Civic Participation",
         "quiz": [
           {

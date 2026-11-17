@@ -40977,6 +40977,7 @@
         "summary": "Grade 12 English strand: a closet drama is a play written in dramatic form, complete with dialogue and stage directions, that is intended primarily to be read on the page rather than staged in performance, allowing a writer to use theatrical structure for effects that would be difficult or impossible to realize in a live production.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=iGdZ7L6Y8EY",
         "quiz": [
           {
             "q": "What distinguishes a closet drama from a conventional stage play?",
@@ -41036,6 +41037,7 @@
         "summary": "Grade 12 Advanced Functions strand: Dijkstras algorithm finds the shortest path from a starting vertex to every other vertex in a graph with non-negative edge weights, repeatedly selecting the closest unvisited vertex and updating the shortest known distances to its neighbours until every vertex has been finalized.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=bZkzH5x0SKU",
         "quiz": [
           {
             "q": "What problem does Dijkstras algorithm solve?",
@@ -41096,6 +41098,7 @@
         "summary": "Use the magnitude of the cross product, |a×b|, to calculate the area of a parallelogram or triangle formed by two vectors.",
         "resourceLabel": "YouTube: Vectors: Using the Cross Product to Find the Area of a Parallelogram",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20Using%20the%20Cross%20Product%20to%20Find%20the%20Area%20of%20a%20Parallelogram%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YbZmAqGUkqc",
         "quiz": [
           {
             "q": "Find the area of the parallelogram formed by a = (2, 0, 0) and b = (0, 3, 0).",
@@ -41156,6 +41159,7 @@
         "summary": "Students learn how to calculate equivalent resistance for resistors arranged in series and in parallel, and how current and voltage behave differently in each configuration. The lesson covers the series formula (R_eq = R1 + R2 + ...) and the parallel formula (1/R_eq = 1/R1 + 1/R2 + ...), with worked numerical examples. Understanding these networks is essential for analyzing more complex circuits in the Fields strand.",
         "resourceLabel": "YouTube: Series and Parallel Resistor Networks: Equivalent Resistance",
         "resourceUrl": "https://www.youtube.com/results?search_query=Series%20and%20Parallel%20Resistor%20Networks%3A%20Equivalent%20Resistance%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dEuBykX5_B4",
         "quiz": [
           {
             "q": "Three resistors of 2.0 Ω, 4.0 Ω, and 6.0 Ω are connected in series across a battery. What is their equivalent resistance?",
