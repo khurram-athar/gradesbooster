@@ -9786,7 +9786,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Financial Math",
-            "url": "https://www.youtube.com/watch?v=Vk8-ezhw6YE"
+            "url": "https://www.youtube.com/watch?v=5n_JBf-9ohA"
           }
         ],
         "quiz": [
