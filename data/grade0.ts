@@ -46511,6 +46511,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids learn that describing words, or adjectives, tell more about a person, place, or thing, like a 'soft' blanket or a 'tall' tree.",
         "resourceLabel": "YouTube: Describing Words: Adjectives",
         "resourceUrl": "https://www.youtube.com/results?search_query=Describing%20Words%3A%20Adjectives%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=4f3H12YNlxo",
         "topic": "Grammar: Parts of Speech",
         "quiz": [
           {
@@ -46571,6 +46572,7 @@ const curriculum: DayContent[] = [
         "summary": "Children practice connecting shapes they know to objects they see in everyday life, such as a clock being a circle or a door being a rectangle.",
         "resourceLabel": "YouTube: Shapes All Around: Matching Shapes to Real Objects",
         "resourceUrl": "https://www.youtube.com/results?search_query=Shapes%20All%20Around%3A%20Matching%20Shapes%20to%20Real%20Objects%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lcl8uB2AWM0",
         "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {

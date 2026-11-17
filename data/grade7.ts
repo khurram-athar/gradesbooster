@@ -41581,8 +41581,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Geometry: Classifying Triangles by Sides and Angles",
         "summary": "Grade 7 Math strand: triangles can be classified by their side lengths as scalene (no equal sides), isosceles (two equal sides), or equilateral (three equal sides), and separately by their angle measures as acute, right, or obtuse.",
-        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "resourceLabel": "YouTube: Geometry: Classifying Triangles by Sides and Angles",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Classifying%20Triangles%20by%20Sides%20and%20Angles%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=A-X6owHsxfs",
         "quiz": [
           {
             "q": "What is a scalene triangle?",

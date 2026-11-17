@@ -41637,6 +41637,7 @@ const curriculum: DayContent[] = [
         "summary": "Students calculate and interpret measures of spread, including range and mean absolute deviation (MAD), to describe how spread out a data set is.",
         "resourceLabel": "YouTube: One-Variable Data: Measures of Spread (Range and Mean Absolute Deviation)",
         "resourceUrl": "https://www.youtube.com/results?search_query=One-Variable%20Data%3A%20Measures%20of%20Spread%20%28Range%20and%20Mean%20Absolute%20Deviation%29%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GdIkEngwGNU",
         "topic": "Statistics & Data",
         "quiz": [
           {

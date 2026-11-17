@@ -12317,11 +12317,11 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Complex Numbers in Polar Form",
-            "url": "https://www.youtube.com/watch?v=J6TnZxUUzqU"
+            "url": "https://www.youtube.com/watch?v=ncXI47FIgP8"
           },
           {
             "label": "Constrained Optimization",
-            "url": "https://www.youtube.com/watch?v=lx8RcYcYVuU"
+            "url": "https://www.youtube.com/watch?v=yuqB-d5MjZA"
           }
         ],
         "quiz": [

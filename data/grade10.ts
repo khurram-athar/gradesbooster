@@ -41353,6 +41353,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use the quadratic formula to solve quadratic equations that do not factor easily, and practice identifying a, b, and c from standard form.",
         "resourceLabel": "YouTube: Algebra: The Quadratic Formula",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20The%20Quadratic%20Formula%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=kW1uzR7fOdA",
         "topic": "Quadratic Relations",
         "quiz": [
           {
