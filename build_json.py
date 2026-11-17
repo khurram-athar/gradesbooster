@@ -100,6 +100,9 @@ def export_grade_to_json_string(grade):
         shutil.rmtree(scratch_dir, ignore_errors=True)
 
 
+MAX_VIDEO_URLS = 5  # keep in step with the z.array(...).max(5) in curriculum-sync.server.ts
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--grade', type=int, default=None, help='only regenerate this grade (0-12)')
@@ -120,6 +123,19 @@ def main():
             new_data = json.loads(json_str)
         except Exception as e:
             print(f'grade{g}: ERROR {e}', file=sys.stderr)
+            stale_or_failed.append(g)
+            continue
+
+        # The production curriculum sync (curriculum-sync.server.ts) rejects a
+        # whole grade if any lesson has more than 5 videoUrls entries, so catch
+        # it here before it reaches GitHub.
+        too_many = [
+            f"Day {day.get('day')} {s.get('subject')} ({len(s['videoUrls'])} videoUrls)"
+            for day in new_data for s in day.get('subjects', [])
+            if len(s.get('videoUrls') or []) > MAX_VIDEO_URLS
+        ]
+        if too_many:
+            print(f'grade{g}: ERROR videoUrls max is {MAX_VIDEO_URLS} (sync would reject): ' + '; '.join(too_many), file=sys.stderr)
             stale_or_failed.append(g)
             continue
 
