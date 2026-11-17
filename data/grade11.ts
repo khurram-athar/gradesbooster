@@ -40154,10 +40154,6 @@ const curriculum: DayContent[] = [
             "url": "https://www.youtube.com/watch?v=4ogkXqh2HaU"
           },
           {
-            "label": "Nonverbal Communication and Body Language in Presentations",
-            "url": "https://www.youtube.com/watch?v=TmbQFWBvTtY"
-          },
-          {
             "label": "The Cover Letter and Professional Correspondence",
             "url": "https://www.youtube.com/watch?v=NUhDP30IRKk"
           },
