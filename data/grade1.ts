@@ -51508,6 +51508,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Cause and Effect: Why Things Happen",
         "resourceUrl": "https://www.youtube.com/results?search_query=Cause%20and%20Effect%3A%20Why%20Things%20Happen%20grade%201%20educational",
         "topic": "Reading Comprehension",
+        "videoUrl": "https://www.youtube.com/watch?v=T7uq3g0TVpU",
         "quiz": [
           {
             "q": "What is a 'cause'?",
@@ -51567,6 +51568,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: students practise adding a two-digit number and a one-digit number by combining the ones first and then adding the tens.",
         "resourceLabel": "YouTube: Addition: Adding a Two-Digit Number and a One-Digit Number",
         "resourceUrl": "https://www.youtube.com/results?search_query=Addition%3A%20Adding%20a%20Two-Digit%20Number%20and%20a%20One-Digit%20Number%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fFQrEHr4lPw",
         "quiz": [
           {
             "q": "What is 23 plus 4?",
@@ -51651,6 +51653,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Why We Sleep: Rest and Growing Bodies",
         "resourceUrl": "https://www.youtube.com/results?search_query=Why%20We%20Sleep%3A%20Rest%20and%20Growing%20Bodies%20grade%201%20educational",
         "topic": "Human Body & Health",
+        "videoUrl": "https://www.youtube.com/watch?v=CoCL0IB4u4g",
         "quiz": [
           {
             "q": "Why do our bodies need sleep?",
@@ -51710,6 +51713,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: National Flag of Canada Day is celebrated every February to honour the day Canada adopted its red and white maple leaf flag.",
         "resourceLabel": "YouTube: National Flag of Canada Day: Celebrating Our Flag",
         "resourceUrl": "https://www.youtube.com/results?search_query=National%20Flag%20of%20Canada%20Day%3A%20Celebrating%20Our%20Flag%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=VaF80rQbCd8",
         "quiz": [
           {
             "q": "In what month is National Flag of Canada Day celebrated?",

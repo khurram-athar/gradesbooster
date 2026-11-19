@@ -50235,6 +50235,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: caves are dark underground spaces where little or no sunlight reaches, and the animals that live there, like bats, are often adapted to darkness.",
         "resourceLabel": "YouTube: Caves: Dark Underground Habitats",
         "resourceUrl": "https://www.youtube.com/results?search_query=Caves%3A%20Dark%20Underground%20Habitats%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FTJEz4KF1yU",
         "quiz": [
           {
             "q": "What is a cave?",
@@ -50295,6 +50296,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: Canadian Thanksgiving is a holiday celebrated in October where families gather to give thanks and share a meal celebrating the harvest.",
         "resourceLabel": "YouTube: Canadian Thanksgiving: A Harvest Celebration",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Thanksgiving%3A%20A%20Harvest%20Celebration%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eOfGyEvPB3k",
         "quiz": [
           {
             "q": "What does Canadian Thanksgiving celebrate?",
