@@ -46633,6 +46633,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: a tornado is a powerful, spinning column of air that can move quickly across the ground during a strong storm.",
         "resourceLabel": "YouTube: Tornadoes: Powerful Spinning Storms",
         "resourceUrl": "https://www.youtube.com/results?search_query=Tornadoes%3A%20Powerful%20Spinning%20Storms%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-s3UwOq1P1E",
         "quiz": [
           {
             "q": "What is a tornado?",
@@ -46717,6 +46718,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Caring for Our Pets: A Big Responsibility",
         "resourceUrl": "https://www.youtube.com/results?search_query=Caring%20for%20Our%20Pets%3A%20A%20Big%20Responsibility%20kindergarten%20educational",
         "topic": "Families & Diversity (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=DbNNXpeGC7g",
         "quiz": [
           {
             "q": "What is one thing a pet needs from its owner every day?",

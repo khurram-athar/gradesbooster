@@ -41528,6 +41528,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Angle Relationships: Complementary, Supplementary, and Vertically Opposite Angles",
         "resourceUrl": "https://www.youtube.com/results?search_query=Angle%20Relationships%3A%20Complementary%2C%20Supplementary%2C%20and%20Vertically%20Opposite%20Angles%20grade%208%20educational",
         "topic": "Geometry",
+        "videoUrl": "https://www.youtube.com/watch?v=QjwbvNdUSTk",
         "quiz": [
           {
             "q": "Two angles are complementary. If one angle is 35°, what is the other?",
@@ -41588,6 +41589,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: The Skeletal System: Bones, Joints, and Movement",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Skeletal%20System%3A%20Bones%2C%20Joints%2C%20and%20Movement%20grade%208%20educational",
         "topic": "Human Body Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=m26gr04HIVE",
         "quiz": [
           {
             "q": "Which of the following is NOT a main function of the human skeletal system?",
@@ -41647,6 +41649,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the Indian Act, first passed in 1876, is federal legislation that has governed many aspects of registered First Nations peoples lives, including status, land, and governance, and it remains a significant and controversial part of Canadian law.",
         "resourceLabel": "YouTube: Social Studies: The Indian Act — History and Impact",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Indian%20Act%20%E2%80%94%20History%20and%20Impact%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hjtoUaNvvLo",
         "quiz": [
           {
             "q": "In what year was the Indian Act first passed?",

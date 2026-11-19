@@ -41518,6 +41518,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: a deepfake is a digitally altered video or image, often created using artificial intelligence, that can make it appear as though someone said or did something they never actually did.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=mkbKUJRmnK4",
         "quiz": [
           {
             "q": "What is a deepfake?",
@@ -41578,6 +41579,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: experimental probability is calculated from the actual results of repeated trials, and this data can be used to make predictions about the likely outcomes of future events.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=8bK-xfh8-rY",
         "quiz": [
           {
             "q": "How is experimental probability calculated?",
@@ -41638,6 +41640,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: hibernation is a state of greatly reduced activity, heart rate, and body temperature that some animals enter to conserve energy during winter when food is scarce, while torpor is a shorter, less extreme version of this state.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=XfpWqi0F2VQ",
         "quiz": [
           {
             "q": "What is hibernation?",
@@ -41699,6 +41702,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Powwows: Celebrating Indigenous Culture",
         "resourceUrl": "https://www.youtube.com/results?search_query=Powwows%3A%20Celebrating%20Indigenous%20Culture%20grade%206%20educational",
         "topic": "Indigenous Peoples & First Nations",
+        "videoUrl": "https://www.youtube.com/watch?v=V8LRK4iRVPI",
         "quiz": [
           {
             "q": "What is a powwow?",

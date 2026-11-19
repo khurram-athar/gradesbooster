@@ -41228,6 +41228,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Grammar and Style: Nominalization and the Weight of Abstract Nouns",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%20and%20Style%3A%20Nominalization%20and%20the%20Weight%20of%20Abstract%20Nouns%20grade%2012%20educational",
         "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=dNlkHtMgcPQ",
         "quiz": [
           {
             "q": "Nominalization is best defined as:",
@@ -41288,6 +41289,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Graphing Logarithmic Functions and Their Transformations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Graphing%20Logarithmic%20Functions%20and%20Their%20Transformations%20grade%2012%20educational",
         "topic": "Functions: Exponential & Logarithmic",
+        "videoUrl": "https://www.youtube.com/watch?v=KoMiHOz28Yk",
         "quiz": [
           {
             "q": "What is the vertical asymptote of y = log(x)?",
@@ -41347,6 +41349,7 @@ const curriculum: DayContent[] = [
         "summary": "Write and interpret the vector equation of a line in 2D, r = r0 + t·d, using a point on the line and a direction vector, and determine whether given points lie on the line.",
         "resourceLabel": "YouTube: Vectors: The Vector Equation of a Line in Two Dimensions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20The%20Vector%20Equation%20of%20a%20Line%20in%20Two%20Dimensions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=84wYuxpPS3Y",
         "quiz": [
           {
             "q": "A line passes through point (2, 3) with direction vector (1, 4). Which is the correct vector equation of the line?",
@@ -41407,6 +41410,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Physics strand: polarization describes the orientation of the oscillations of a light waves electric field, and Malus law gives the intensity of light transmitted through a polarizing filter as proportional to the square of the cosine of the angle between the lights polarization direction and the filters transmission axis.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=ATXWZ7ftwBY",
         "quiz": [
           {
             "q": "What does the polarization of a light wave describe?",

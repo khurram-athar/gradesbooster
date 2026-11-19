@@ -43026,6 +43026,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Spelling: Adding Suffixes -ed and -ing",
         "resourceUrl": "https://www.youtube.com/results?search_query=Spelling%3A%20Adding%20Suffixes%20-ed%20and%20-ing%20grade%204%20educational",
         "topic": "Spelling",
+        "videoUrl": "https://www.youtube.com/watch?v=wUs_1zGTtAU",
         "quiz": [
           {
             "q": "What is the correct spelling of \"hop\" + -ing?",
@@ -43086,6 +43087,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Conducting a Probability Experiment",
         "resourceUrl": "https://www.youtube.com/results?search_query=Conducting%20a%20Probability%20Experiment%20grade%204%20educational",
         "topic": "Probability",
+        "videoUrl": "https://www.youtube.com/watch?v=5JlZ5usFJcA",
         "quiz": [
           {
             "q": "Before running an experiment, a statement of what is likely to happen based on math is called:",
@@ -43146,6 +43148,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: The Phases of the Moon",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Phases%20of%20the%20Moon%20grade%204%20educational",
         "topic": "Space & Astronomy",
+        "videoUrl": "https://www.youtube.com/watch?v=BQvo7vyCmuE",
         "quiz": [
           {
             "q": "Why does the Moon appear to change shape (go through phases) over about a month?",
@@ -43205,6 +43208,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: Point Pelee National Park, located at the southern tip of mainland Canada, is an important resting point for millions of migrating birds each spring and fall due to its location along a major migration route.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=jLzprmI1l20",
+        "videoUrls": [
+          {
+            "label": "Migratory Birds Explained",
+            "url": "https://www.youtube.com/watch?v=jLzprmI1l20"
+          },
+          {
+            "label": "Birding at Point Pelee National Park",
+            "url": "https://www.youtube.com/watch?v=7TXdrMNDRbU"
+          }
+        ],
         "quiz": [
           {
             "q": "Where is Point Pelee National Park located?",

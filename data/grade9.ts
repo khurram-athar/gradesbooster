@@ -41577,6 +41577,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: product placement occurs when a brand or product is deliberately featured within a film or television show in exchange for payment or promotional consideration, blending advertising with entertainment in a way that a media-literate viewer should learn to recognize.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=vxmOXhnPAU4",
         "quiz": [
           {
             "q": "What is product placement?",
@@ -41699,6 +41700,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: The Carbon Cycle and the Nitrogen Cycle",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Carbon%20Cycle%20and%20the%20Nitrogen%20Cycle%20grade%209%20educational",
         "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=Bn41lXKyVWQ",
         "quiz": [
           {
             "q": "Which process removes carbon dioxide from the atmosphere and stores carbon in plants?",
@@ -41758,6 +41760,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: high-speed rail networks connect major cities with trains capable of significantly higher speeds than conventional rail, reshaping regional geography by shortening travel times, encouraging economic integration between connected cities, and offering an alternative to short-haul air travel.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=e8rTMumc6i8",
         "quiz": [
           {
             "q": "What defines a high-speed rail network?",

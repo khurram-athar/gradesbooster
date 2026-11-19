@@ -41407,6 +41407,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a panel discussion brings together several speakers with different perspectives on a shared topic, guided by a moderator who manages turn-taking, keeps the conversation focused, and draws out disagreement or nuance rather than letting a single voice dominate the exchange.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=Yqx2giqENUQ",
         "quiz": [
           {
             "q": "What does a panel discussion bring together?",
@@ -41468,6 +41469,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Sequences: Arithmetic Sequences — General Term and Sum Formulas",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sequences%3A%20Arithmetic%20Sequences%20%E2%80%94%20General%20Term%20and%20Sum%20Formulas%20grade%2011%20educational",
         "topic": "Sequences & Series",
+        "videoUrl": "https://www.youtube.com/watch?v=t2hfWdqxqlI",
         "quiz": [
           {
             "q": "What is the 10th term of the arithmetic sequence 4, 7, 10, 13, ...?",
@@ -41527,6 +41529,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: sexual selection favours traits that increase an individuals success at attracting mates or competing with rivals for access to them, which can produce elaborate features such as bright plumage or large antlers even when those traits provide no direct survival advantage or actively hinder it.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=Qh9lCV8-TcY",
         "quiz": [
           {
             "q": "What does sexual selection favour?",
@@ -41587,6 +41590,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: a metallic bond forms when metal atoms share a sea of freely moving electrons, giving metals properties like conductivity and malleability, and an alloy is a mixture of two or more metals with enhanced properties.",
         "resourceLabel": "YouTube: Science: Chemical Bonding: Metallic Bonds and Alloys",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Chemical%20Bonding%3A%20Metallic%20Bonds%20and%20Alloys%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-ntOkgo7knY",
         "quiz": [
           {
             "q": "What forms a metallic bond?",

@@ -44228,6 +44228,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Language strand: the -ad word family shares the same ending sound, as in bad, dad, mad, and sad.",
         "resourceLabel": "YouTube: Word Families: -ad Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ad%20Words%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qpKPlII05LY",
         "quiz": [
           {
             "q": "Which word belongs to the -ad family?",
@@ -44312,6 +44313,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: repeated subtraction is a division strategy where the divisor is subtracted from the dividend again and again until reaching zero, and the number of subtractions equals the quotient.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=_xcO88b5W6Q",
         "quiz": [
           {
             "q": "In repeated subtraction, what number equals the quotient?",
@@ -44373,6 +44375,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Science: Fruit, Vegetable, or Seed? Sorting Plant Parts We Eat",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Fruit%2C%20Vegetable%2C%20or%20Seed%3F%20Sorting%20Plant%20Parts%20We%20Eat%20grade%203%20educational",
         "topic": "Classification of Living Things",
+        "videoUrl": "https://www.youtube.com/watch?v=eBSAb24QpcY",
         "quiz": [
           {
             "q": "In science, a fruit is defined as the part of the plant that:",
@@ -44432,6 +44435,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: the border between Canada and the United States is known as the longest undefended border in the world, and it supports close trade and travel between the two countries.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=D4hFdpCgHdU",
         "quiz": [
           {
             "q": "What is the border between Canada and the United States often called?",

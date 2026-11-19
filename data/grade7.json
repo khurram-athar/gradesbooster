@@ -41642,6 +41642,7 @@
         "summary": "Grade 7 Science strand: GPS satellites orbiting Earth continuously send timed signals to receivers on the ground, and a GPS device calculates its exact position by measuring the time delay of signals received from at least four satellites, a process called trilateration.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=RSA3feQ9gKk",
         "quiz": [
           {
             "q": "What do GPS satellites continuously send to receivers on the ground?",
@@ -41701,6 +41702,17 @@
         "summary": "Grade 4 Social Studies strand: ancient Israel developed within the Fertile Crescent, a region with rich soil and access to water that supported early farming, trade, and the growth of significant historical societies.",
         "resourceLabel": "YouTube: Social Studies: Ancient Israel and the Fertile Crescent",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Ancient%20Israel%20and%20the%20Fertile%20Crescent%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZybFYikBMLg",
+        "videoUrls": [
+          {
+            "label": "History of Ancient Israel and Judah",
+            "url": "https://www.youtube.com/watch?v=ZybFYikBMLg"
+          },
+          {
+            "label": "The Fertile Crescent Explained",
+            "url": "https://www.youtube.com/watch?v=VA6iJlPK5a4"
+          }
+        ],
         "quiz": [
           {
             "q": "What is the Fertile Crescent known for?",

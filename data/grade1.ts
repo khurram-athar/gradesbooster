@@ -51189,6 +51189,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Language strand: some words have silent letters that are not pronounced, such as the silent g in sign and the silent t in listen.",
         "resourceLabel": "YouTube: Silent Letters: gn and st",
         "resourceUrl": "https://www.youtube.com/results?search_query=Silent%20Letters%3A%20gn%20and%20st%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6p4hRbPQC2w",
         "quiz": [
           {
             "q": "Which letter is silent in the word sign?",
@@ -51271,6 +51272,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: 3D shapes can be sorted by how many flat faces they have, such as a cube with six faces or a cone with one flat face.",
         "resourceLabel": "YouTube: Geometry: Sorting 3D Shapes by Number of Faces",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Sorting%203D%20Shapes%20by%20Number%20of%20Faces%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gP6OJdHTRes",
         "quiz": [
           {
             "q": "How many faces does a cube have?",
@@ -51355,6 +51357,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Comparing Materials: Wood, Metal, Plastic, and Fabric",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Materials%3A%20Wood%2C%20Metal%2C%20Plastic%2C%20and%20Fabric%20grade%201%20educational",
         "topic": "Materials & States of Matter (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=H1Z-8IHdtb0",
         "quiz": [
           {
             "q": "Which material is commonly used to make a metal spoon because it is strong and can be shaped?",
@@ -51414,6 +51417,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: translators and interpreters help people who speak different languages understand each other by changing words from one language into another.",
         "resourceLabel": "YouTube: Translators and Interpreters: Helping People Communicate",
         "resourceUrl": "https://www.youtube.com/results?search_query=Translators%20and%20Interpreters%3A%20Helping%20People%20Communicate%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZlGiyEOC8oQ",
         "quiz": [
           {
             "q": "What do translators and interpreters help people do?",

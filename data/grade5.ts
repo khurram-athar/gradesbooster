@@ -42346,6 +42346,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: product placement is when a brand or product appears within a movie, show, or video, often blending into the story rather than appearing as a separate advertisement.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=vxmOXhnPAU4",
         "quiz": [
           {
             "q": "What is product placement?",
@@ -42476,6 +42477,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: a keystone species has an unusually large effect on its ecosystem relative to its numbers, and removing it can cause major changes throughout the food web.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Dd-Bslj_bOI",
         "quiz": [
           {
             "q": "What is a keystone species?",
@@ -42537,6 +42539,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Vimy Ridge and Canada's Coming of Age",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vimy%20Ridge%20and%20Canada%27s%20Coming%20of%20Age%20grade%205%20educational",
         "topic": "History: 20th Century Canada",
+        "videoUrl": "https://www.youtube.com/watch?v=IsdpM4YH33g",
         "quiz": [
           {
             "q": "During which war did the Battle of Vimy Ridge take place?",
