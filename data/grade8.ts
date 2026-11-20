@@ -2187,7 +2187,7 @@ const curriculum: DayContent[] = [
         "summary": "Students examine Canada's military contributions, the home front, the conscription crisis, and how WWI changed Canada's international standing.",
         "resourceLabel": "YouTube: World War I: Canada's Experience",
         "resourceUrl": "https://www.youtube.com/results?search_query=World%20War%20I%3A%20Canada%27s%20Experience%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=b-sTWJkmqpM",
+        "videoUrl": "https://www.youtube.com/watch?v=99v9y-XM2v0",
         "quiz": [
           {
             "q": "Canada's most celebrated military achievement of WWI was ___.",
@@ -34811,7 +34811,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: Sir Wilfrid Laurier, who served as prime minister from 1896 to 1911, presided over a period of rapid economic growth, western settlement, and immigration, famously predicting that the twentieth century would belong to Canada.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
-        "videoUrl": "https://www.youtube.com/watch?v=QYoIkoec8Tc",
+        "videoUrl": "https://www.youtube.com/watch?v=MJwL9fc3dFQ",
         "quiz": [
           {
             "q": "During which years did Sir Wilfrid Laurier serve as prime minister?",
@@ -37345,7 +37345,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: passed in response to the rapid population growth of the Klondike Gold Rush, the Yukon Act of 1898 formally separated Yukon from the North-West Territories and created a distinct Yukon Territory with its own local government.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
-        "videoUrl": "https://www.youtube.com/watch?v=ZM3h_cSJ4Lw",
+        "videoUrl": "https://www.youtube.com/watch?v=fv-szCK5XHY",
         "quiz": [
           {
             "q": "What rapid population change prompted the passing of the Yukon Act in 1898?",
@@ -41715,6 +41715,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: the imperative mood is used to give commands, make requests, or offer instructions, typically omitting the subject you, which is understood rather than stated.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=uL-Vwtcn9wY",
         "quiz": [
           {
             "q": "What is the imperative mood used for?",
@@ -41776,6 +41777,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Angle Sum of Triangles and Polygons",
         "resourceUrl": "https://www.youtube.com/results?search_query=Angle%20Sum%20of%20Triangles%20and%20Polygons%20grade%208%20educational",
         "topic": "Geometry",
+        "videoUrl": "https://www.youtube.com/watch?v=9_Y8P3oHwL0",
         "quiz": [
           {
             "q": "A triangle has angles of 50° and 65°. What is the third angle?",

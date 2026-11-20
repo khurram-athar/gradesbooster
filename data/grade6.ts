@@ -41828,6 +41828,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: GST is a federal sales tax applied across Canada, while HST combines the federal tax with a provincial sales tax into a single rate, and both are calculated as a percent added to the price of many purchases.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=mnPUB3zqi1s",
         "quiz": [
           {
             "q": "What does GST stand for?",
@@ -41888,6 +41889,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: thunderstorms form when warm, moist air rises rapidly and cools, building tall storm clouds in which electrical charges separate, eventually discharging as lightning, with thunder created by the rapid expansion of air heated by the strike.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=VqXnN_FQfrc",
         "quiz": [
           {
             "q": "What kind of air rises to help form a thunderstorm?",
@@ -41948,6 +41950,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Inuit Traditional Knowledge and the Land",
         "resourceUrl": "https://www.youtube.com/results?search_query=Inuit%20Traditional%20Knowledge%20and%20the%20Land%20grade%206%20educational",
         "topic": "Indigenous Peoples & First Nations",
+        "videoUrl": "https://www.youtube.com/watch?v=RYMEoFOZavs",
         "quiz": [
           {
             "q": "What does 'Inuit Qaujimajatuqangit' generally refer to?",

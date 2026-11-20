@@ -43285,6 +43285,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: an acrostic poem uses the letters of a word, spelled vertically down the page, as the starting letter for each line, often describing or relating to that word.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=kgr5tDh7Hkw",
         "quiz": [
           {
             "q": "What is an acrostic poem?",
@@ -43345,6 +43346,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: a number is divisible by 4 if its last two digits form a number divisible by 4, and a number is divisible by 8 if its last three digits form a number divisible by 8.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=ze1kEpcLfMA",
         "quiz": [
           {
             "q": "How can you tell if a number is divisible by 4?",
@@ -43406,6 +43408,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Mixtures: Solutions vs Suspensions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Mixtures%3A%20Solutions%20vs%20Suspensions%20grade%204%20educational",
         "topic": "Matter & Materials",
+        "videoUrl": "https://www.youtube.com/watch?v=XEAiLm2zuvc",
         "quiz": [
           {
             "q": "What happens to sugar when it is stirred into warm water to make a solution?",

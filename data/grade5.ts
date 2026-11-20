@@ -14747,7 +14747,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: natural disasters such as earthquakes, floods, and tornadoes are caused by natural processes in the Earth’s systems, including shifting tectonic plates and extreme weather.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=FCxCkXI4fc8",
+        "videoUrl": "https://www.youtube.com/watch?v=ay416AyoqRU",
         "quiz": [
           {
             "q": "An earthquake is often caused by ___.",
@@ -42725,6 +42725,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: a 3D printer builds a solid object by adding material one thin layer at a time, following a digital design, until the full three-dimensional shape is complete.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=NcP9lpAJ5bA",
         "quiz": [
           {
             "q": "How does a 3D printer build an object?",
@@ -42784,6 +42785,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: the St. Lawrence Seaway is a system of canals and locks that allows large ships to travel between the Atlantic Ocean and the Great Lakes, supporting trade across central Canada.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=po3fu_T14xo",
         "quiz": [
           {
             "q": "What does the St. Lawrence Seaway allow large ships to do?",
@@ -46315,11 +46317,11 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=FCxCkXI4fc8",
+        "videoUrl": "https://www.youtube.com/watch?v=ay416AyoqRU",
         "videoUrls": [
           {
             "label": "Natural Disasters",
-            "url": "https://www.youtube.com/watch?v=FCxCkXI4fc8"
+            "url": "https://www.youtube.com/watch?v=ay416AyoqRU"
           },
           {
             "label": "Ecosystems",

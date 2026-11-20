@@ -70,7 +70,7 @@
         "summary": "Students investigate polynomial functions of all degrees — connecting multiplicity of zeros, end behaviour, turning points, and algebraic form to graphical behaviour.",
         "resourceLabel": "Khan Academy: Polynomial Graphs",
         "resourceUrl": "https://www.youtube.com/watch?v=1WRYEBHLLm8",
-        "videoUrl": "https://www.youtube.com/watch?v=5fOavu0X1Z0",
+        "videoUrl": "https://www.youtube.com/watch?v=oG7LXqkOOr4",
         "quiz": [
           {
             "q": "A polynomial of degree n can have at most ___ real zeros and at most ___ turning points.",
@@ -11602,7 +11602,7 @@
         "summary": "Build a sign chart for f''(x) by testing a value in each interval between its zeros (and any points where f is undefined) to determine where a function is concave up or concave down.",
         "resourceLabel": "YouTube: Curve Sketching: Using Sign Charts to Determine Concavity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Curve%20Sketching%3A%20Using%20Sign%20Charts%20to%20Determine%20Concavity%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=15awMHeP1Yc",
+        "videoUrl": "https://www.youtube.com/watch?v=WjUJwQ2hWls",
         "quiz": [
           {
             "q": "For f(x) = x^4 - 6x^2, f''(x) = 12x^2 - 12. Which intervals make up the correct concavity sign chart?",
@@ -13141,7 +13141,7 @@
         "summary": "Grade 12 Calculus strand: linear approximation uses a function’s tangent line at a known point to estimate nearby values, and the differential expresses the small resulting change in output for a small change in input.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
-        "videoUrl": "https://www.youtube.com/watch?v=FIbpibkywmk",
+        "videoUrl": "https://www.youtube.com/watch?v=VVtGpDPn1CU",
         "quiz": [
           {
             "q": "Linear approximation uses a function’s tangent line at a known point to estimate ___.",
@@ -29485,7 +29485,7 @@
           }
         ],
         "topic": "Sequences & Series",
-        "videoUrl": "https://www.youtube.com/watch?v=pxfNOyZrXB8"
+        "videoUrl": "https://www.youtube.com/watch?v=Ww4c9FNLy-Q"
       },
       {
         "subject": "Calculus",
@@ -41475,6 +41475,7 @@
         "summary": "Grade 12 English strand: erasure poetry is created by taking an existing source text and removing, blacking out, or otherwise obscuring most of its words, leaving behind a sparse new poem formed from the remaining fragments, turning the act of subtraction itself into a compositional method.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=AjdsnNOVzno",
         "quiz": [
           {
             "q": "How is an erasure poem typically created?",
@@ -41536,6 +41537,7 @@
         "resourceLabel": "YouTube: Logarithmic Scales in Science: pH, Decibels, and the Richter Scale",
         "resourceUrl": "https://www.youtube.com/results?search_query=Logarithmic%20Scales%20in%20Science%3A%20pH%2C%20Decibels%2C%20and%20the%20Richter%20Scale%20grade%2012%20educational",
         "topic": "Functions: Exponential & Logarithmic",
+        "videoUrl": "https://www.youtube.com/watch?v=hd2DyfKv8-g",
         "quiz": [
           {
             "q": "A solution with pH 4 is how many times more acidic (in H+ concentration) than a solution with pH 6?",
@@ -41595,6 +41597,7 @@
         "summary": "Grade 10 Math strand: the second derivative of a function measures how the rate of change itself is changing, and its sign indicates concavity, with a positive second derivative showing the graph curves upward and a negative second derivative showing the graph curves downward.",
         "resourceLabel": "YouTube: Calculus: The Second Derivative and Concavity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20The%20Second%20Derivative%20and%20Concavity%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jdgqFfJuzBw",
         "quiz": [
           {
             "q": "What does the second derivative of a function measure?",
@@ -41655,6 +41658,7 @@
         "summary": "Students learn that mass and energy are equivalent through Einstein's relation E = mc², and that the binding energy holding a nucleus together corresponds to a measurable mass defect between the nucleus and its separate nucleons. They apply this relationship to calculate energy released in nuclear reactions and to explain the stability of atomic nuclei.",
         "resourceLabel": "YouTube: Mass-Energy Equivalence: E = mc² and Nuclear Binding Energy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Mass-Energy%20Equivalence%3A%20E%20%3D%20mc%C2%B2%20and%20Nuclear%20Binding%20Energy%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gijD-Gmr70w",
         "quiz": [
           {
             "q": "According to E = mc², a small amount of mass converted entirely to energy releases:",

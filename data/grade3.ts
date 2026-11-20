@@ -44501,6 +44501,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Language strand: the -ag word family shares the same ending sound, as in bag, tag, rag, and wag.",
         "resourceLabel": "YouTube: Word Families: -ag Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ag%20Words%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=i4SAyWdXBAA",
         "quiz": [
           {
             "q": "Which word belongs to the -ag family?",
@@ -44585,6 +44586,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: choosing an appropriate unit of measurement, such as centimetres for a pencil or metres for a hallway, depends on the size of the object being measured.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=0YqMjjEMMmE",
         "quiz": [
           {
             "q": "Which unit would be best to measure the length of a pencil?",
@@ -44646,6 +44648,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Science: What Makes a Structure Stable? Base Width and Centre of Gravity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20What%20Makes%20a%20Structure%20Stable%3F%20Base%20Width%20and%20Centre%20of%20Gravity%20grade%203%20educational",
         "topic": "Structures, Materials & Engineering",
+        "videoUrl": "https://www.youtube.com/watch?v=g8DdBCevC1s",
         "quiz": [
           {
             "q": "A structure with a wide base compared to its height is generally:",
