@@ -14022,7 +14022,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: Canada’s national parks protect significant natural areas, and environmental policy shapes how the country balances conservation with development and resource use.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=WTAC2t-Bsas",
+        "videoUrl": "https://www.youtube.com/watch?v=QlOiwfSKrf0",
         "quiz": [
           {
             "q": "Canada’s national parks are primarily established to ___.",
@@ -28931,7 +28931,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Fractions",
-        "videoUrl": "https://www.youtube.com/watch?v=2vjbNZaFz3c"
+        "videoUrl": "https://www.youtube.com/watch?v=-Xt4UDk7Kzw"
       },
       {
         "subject": "Science",
@@ -42029,6 +42029,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: a fable is a short story, often featuring animal characters with human traits, that teaches a specific lesson or moral, which may be stated directly at the end of the story or left for the reader to infer.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=0-5mEH3XW3I",
         "quiz": [
           {
             "q": "What is a fable?",
@@ -42089,6 +42090,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: translating a word problem into algebra involves identifying key words that signal an operation or an unknown quantity, such as sum, difference, product, or quotient, and then writing an algebraic expression or equation that matches the situation described.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=KmuWR_LriQU",
         "quiz": [
           {
             "q": "Which word in a word problem often signals addition?",
@@ -42149,6 +42151,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: seismographs are instruments that detect and record ground motion during an earthquake, and magnitude scales measure the energy released by an earthquake, with each whole number increase on the scale representing a significantly larger release of energy.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=nl9jiubdlXU",
         "quiz": [
           {
             "q": "What instrument is used to detect and record ground motion during an earthquake?",
@@ -42209,6 +42212,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: ice hockey has long been closely tied to Canadian culture, from community rinks and minor leagues to international competitions such as the Olympics, often serving as a unifying symbol of national pride across different regions of the country.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=ac21vKmRuac",
         "quiz": [
           {
             "q": "What winter sport has long been closely tied to Canadian culture?",
@@ -44733,11 +44737,11 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=WTAC2t-Bsas",
+        "videoUrl": "https://www.youtube.com/watch?v=QlOiwfSKrf0",
         "videoUrls": [
           {
             "label": "Parks",
-            "url": "https://www.youtube.com/watch?v=WTAC2t-Bsas"
+            "url": "https://www.youtube.com/watch?v=QlOiwfSKrf0"
           },
           {
             "label": "Government",

@@ -10915,7 +10915,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: esters and amides are organic functional groups found in many natural and biological molecules, including fats, fragrances, and proteins.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
-        "videoUrl": "https://www.youtube.com/watch?v=-LgfjlHqYKs",
+        "videoUrl": "https://www.youtube.com/watch?v=xfCXAJXz7vc",
         "quiz": [
           {
             "q": "Esters and amides are examples of organic ___.",
@@ -26582,7 +26582,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Algebra strand (non-linear relations): function notation, such as f(x), represents the output of a function for a given input x, while the domain is the set of all possible input values and the range is the set of all possible output values.",
         "resourceLabel": "YouTube: Function Notation, Domain, and Range",
         "resourceUrl": "https://www.youtube.com/results?search_query=Function%20Notation%2C%20Domain%2C%20and%20Range%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=LNZl4GqVm58",
+        "videoUrl": "https://www.youtube.com/watch?v=DNVvAdabftc",
         "quiz": [
           {
             "q": "Function notation, such as f(x), represents ___.",
@@ -32304,7 +32304,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: comparing different translations of the same text can reveal how word choice, tone, and cultural context shape meaning, since no translation is a perfectly neutral copy of the original.",
         "resourceLabel": "YouTube: Reading: Comparing Translations of a Text",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Comparing%20Translations%20of%20a%20Text%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=vLn_wmedmT0",
+        "videoUrl": "https://www.youtube.com/watch?v=d6fCUkaRmLI",
         "quiz": [
           {
             "q": "What can comparing different translations of the same text reveal?",
@@ -34586,7 +34586,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a doppelganger is a double or mirror-self figure who resembles the protagonist, often externalizing a hidden or repressed side of that characters identity and creating tension between the self a character presents and the self they conceal.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
-        "videoUrl": "https://www.youtube.com/watch?v=o0eyPymT2LU",
+        "videoUrl": "https://www.youtube.com/watch?v=s8qOQAgRbww",
         "quiz": [
           {
             "q": "What is a doppelganger in fiction?",
@@ -41904,6 +41904,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: blank verse is unrhymed poetry written in iambic pentameter, a rhythm of five unstressed-stressed syllable pairs per line, and its flexible structure, free of a rhyme scheme but still metrically patterned, has made it a favoured form for dramatic and narrative verse in English for centuries.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=I5lsuyUNu_4",
         "quiz": [
           {
             "q": "What defines blank verse?",
@@ -41964,6 +41965,7 @@ const curriculum: DayContent[] = [
         "summary": "The factor theorem states that (x - a) is a factor of a polynomial P(x) exactly when P(a) = 0; this lesson uses the factor theorem together with the rational root pattern to factor polynomials and solve polynomial equations.",
         "resourceLabel": "YouTube: Solving Polynomial Equations with the Factor Theorem",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Polynomial%20Equations%20with%20the%20Factor%20Theorem%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zAGP46nR6-0",
         "quiz": [
           {
             "q": "According to the factor theorem, (x - 2) is a factor of P(x) if:",
@@ -42023,6 +42025,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: sleep architecture refers to the cyclical pattern of distinct sleep stages a person moves through each night, alternating between non-REM stages of progressively deeper sleep and REM sleep, during which the brain is highly active and most vivid dreaming occurs, with each full cycle repeating several times per night.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=eM2VWspRpfk",
         "quiz": [
           {
             "q": "What does sleep architecture refer to?",

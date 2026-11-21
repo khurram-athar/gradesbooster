@@ -44708,6 +44708,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: ferries carry passengers, vehicles, and goods across lakes, rivers, and coastal waters, connecting communities that are separated by water.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=FIC9XegK7F0",
         "quiz": [
           {
             "q": "What do ferries carry across bodies of water?",
@@ -44858,6 +44859,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: when fractions share the same denominator, they can be ordered from least to greatest by comparing their numerators.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=f8JXCIThJyU",
         "quiz": [
           {
             "q": "To order fractions with the same denominator, what should you compare?",
@@ -44918,6 +44920,7 @@ const curriculum: DayContent[] = [
         "summary": "Students build and push on square and triangular frames made from straws to see why triangles resist bending while squares easily collapse into a slanted shape.",
         "resourceLabel": "YouTube: Science: Triangles vs. Squares — Which Shape Makes a Stronger Structure?",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Triangles%20vs.%20Squares%20%E2%80%94%20Which%20Shape%20Makes%20a%20Stronger%20Structure%3F%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mBHJtWbsiaA",
         "topic": "Structures, Materials & Engineering",
         "quiz": [
           {

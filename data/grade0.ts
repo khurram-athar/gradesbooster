@@ -47094,6 +47094,7 @@ const curriculum: DayContent[] = [
         "summary": "Children build on basic sorting skills by grouping objects using two attributes at the same time, such as color and shape together.",
         "resourceLabel": "YouTube: Sorting by Two Attributes at Once",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%20by%20Two%20Attributes%20at%20Once%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=E9XYE92M8Yc",
         "topic": "Sorting & Classifying",
         "quiz": [
           {
@@ -47154,6 +47155,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: evergreen trees keep their green needles all year, while deciduous trees lose their leaves in autumn and grow new ones in spring.",
         "resourceLabel": "YouTube: Types of Trees: Evergreen and Deciduous",
         "resourceUrl": "https://www.youtube.com/results?search_query=Types%20of%20Trees%3A%20Evergreen%20and%20Deciduous%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pMJ1KqZKF-k",
         "quiz": [
           {
             "q": "What is true about an evergreen tree?",
@@ -47236,6 +47238,7 @@ const curriculum: DayContent[] = [
         "summary": "Introduces the idea of classroom jobs, like line leader or paper passer, and how students take turns helping their classroom community run smoothly.",
         "resourceLabel": "YouTube: Classroom Helpers: Jobs We Do at School",
         "resourceUrl": "https://www.youtube.com/results?search_query=Classroom%20Helpers%3A%20Jobs%20We%20Do%20at%20School%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CYt9C5AhcJ0",
         "topic": "Civic Life & Cooperation (Basic)",
         "quiz": [
           {

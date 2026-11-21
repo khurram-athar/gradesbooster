@@ -1268,7 +1268,7 @@ const curriculum: DayContent[] = [
         "summary": "Students study the development of the lyric poem from the Romantics through Modernism to contemporary practice, examining how lyric poetry constructs a speaking self and addresses fundamental human questions.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
-        "videoUrl": "https://www.youtube.com/watch?v=H-wDC1EeSFQ",
+        "videoUrl": "https://www.youtube.com/watch?v=QBBISo3XaOc",
         "quiz": [
           {
             "q": "The lyric poem is distinguished by ___.",
@@ -1390,7 +1390,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use the first and second derivative to identify increasing/decreasing intervals, local extrema, concavity, and inflection points.",
         "resourceLabel": "Khan Academy: Curve Sketching",
         "resourceUrl": "https://www.youtube.com/watch?v=WIDZFyfaT1I",
-        "videoUrl": "https://www.youtube.com/watch?v=WqRPFvZWF0k",
+        "videoUrl": "https://www.youtube.com/watch?v=o2I3lajJklE",
         "quiz": [
           {
             "q": "If f'(x) > 0 on an interval, then f ___.",
@@ -6413,7 +6413,7 @@ const curriculum: DayContent[] = [
         "summary": "Students review the full SPH4U course with examination-level multi-concept problems.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=pGj9isFr21U",
-        "videoUrl": "https://www.youtube.com/watch?v=b1t41Q3xRM8",
+        "videoUrl": "https://www.youtube.com/watch?v=ZAqIoDhornk",
         "quiz": [
           {
             "q": "A 1500 kg car accelerates from 0 to 25 m/s in 10 s up a 10° incline (μₖ = 0.1). Net force required:",
@@ -6671,7 +6671,7 @@ const curriculum: DayContent[] = [
         "summary": "Comprehensive examination-level physics problems spanning all SPH4U topics.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=kKKM8Y-u7ds",
-        "videoUrl": "https://www.youtube.com/watch?v=b1t41Q3xRM8",
+        "videoUrl": "https://www.youtube.com/watch?v=ZAqIoDhornk",
         "quiz": [
           {
             "q": "A 0.5 kg ball on a 1 m string moves in a horizontal circle at 3 m/s. Tension in string (ignore gravity):",
@@ -17249,7 +17249,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Physics",
-            "url": "https://www.youtube.com/watch?v=b1t41Q3xRM8"
+            "url": "https://www.youtube.com/watch?v=ZAqIoDhornk"
           }
         ],
         "quiz": [
@@ -45883,7 +45883,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Calculus: Derivatives",
-        "videoUrl": "https://www.youtube.com/watch?v=WqRPFvZWF0k"
+        "videoUrl": "https://www.youtube.com/watch?v=q1U6AmIa_uQ"
       },
       {
         "subject": "Physics",

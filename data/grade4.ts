@@ -7739,7 +7739,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 4 Science Life Systems strand: species at risk are plants or animals in Canada facing possible extinction, often due to habitat loss, pollution, or climate change, and conservation programs work to protect them.",
         "resourceLabel": "TVO Learn: Grade 4 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=w4Xw0M2QWJ4",
+        "videoUrl": "https://www.youtube.com/watch?v=UZ5VpZIUxKc",
         "quiz": [
           {
             "q": "A species at risk is one that is ___.",

@@ -5312,7 +5312,7 @@ const curriculum: DayContent[] = [
         "summary": "Students perform and describe translations (slides), reflections (flips), and rotations (turns) of 2D shapes on a coordinate plane.",
         "resourceLabel": "YouTube: Geometry: Transformations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Transformations%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=GqHWdTLL8Qw",
+        "videoUrl": "https://www.youtube.com/watch?v=YD3HIMUae_4",
         "quiz": [
           {
             "q": "A translation (slide) moves a shape ___.",

@@ -51802,6 +51802,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practice finding the main idea, the most important point of a short passage, and the details that support it.",
         "resourceLabel": "YouTube: Main Idea and Details",
         "resourceUrl": "https://www.youtube.com/results?search_query=Main%20Idea%20and%20Details%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=C1W46goOpu0",
         "topic": "Reading Comprehension",
         "quiz": [
           {
@@ -51862,6 +51863,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: students practise subtracting a one-digit number from a two-digit number by taking away from the ones place first.",
         "resourceLabel": "YouTube: Subtraction: Subtracting a One-Digit Number from a Two-Digit Number",
         "resourceUrl": "https://www.youtube.com/results?search_query=Subtraction%3A%20Subtracting%20a%20One-Digit%20Number%20from%20a%20Two-Digit%20Number%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0t1LFKzgx44",
         "quiz": [
           {
             "q": "What is 27 minus 4?",
@@ -51945,6 +51947,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn specific habits, like sneezing into an elbow and washing hands after, that stop germs from spreading to other people.",
         "resourceLabel": "YouTube: Sneezing and Coughing Safely: Stopping Germs from Spreading",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sneezing%20and%20Coughing%20Safely%3A%20Stopping%20Germs%20from%20Spreading%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hesnCjsjB-M",
         "topic": "Human Body & Health",
         "quiz": [
           {
@@ -52005,6 +52008,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: Canadian Olympians are athletes who train hard and compete for Canada at the Olympic Games, representing their country in sports from around the world.",
         "resourceLabel": "YouTube: Canadian Olympians: Representing Canada in Sports",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Olympians%3A%20Representing%20Canada%20in%20Sports%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=sBbot0tR0Wg",
         "quiz": [
           {
             "q": "What is a Canadian Olympian?",
