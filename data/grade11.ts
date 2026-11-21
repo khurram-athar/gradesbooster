@@ -42085,6 +42085,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: triboelectric charging occurs when two different materials are rubbed together and electrons transfer from the surface of one material to the other, leaving one material with a net negative charge and the other with a net positive charge, an imbalance that later discharges as static electricity.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=IDQYakHRAG8",
         "quiz": [
           {
             "q": "What happens when two different materials are rubbed together in triboelectric charging?",

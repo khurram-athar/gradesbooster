@@ -41785,6 +41785,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use the change of base formula to evaluate logarithms with bases not available on a standard calculator, and apply it to compare and order logarithmic expressions with different bases.",
         "resourceLabel": "YouTube: Change of Base Formula and Evaluating Logarithms",
         "resourceUrl": "https://www.youtube.com/results?search_query=Change%20of%20Base%20Formula%20and%20Evaluating%20Logarithms%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OkFdDqW9xxM",
         "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
@@ -41845,6 +41846,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: a line in space can be described using a vector equation that combines a known point on the line with a direction vector scaled by a parameter, allowing every point on the line to be generated as that parameter varies.",
         "resourceLabel": "YouTube: Geometry: Vector Equations of Lines",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Vector%20Equations%20of%20Lines%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MkjazYnvNP8",
         "quiz": [
           {
             "q": "What two pieces of information are needed to write the vector equation of a line?",
@@ -41905,6 +41907,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson explores how the Sun generates energy through the proton-proton chain, the dominant fusion process in stars like our Sun. Students trace the steps from two protons fusing into deuterium, through helium-3 formation, to the final production of helium-4, and learn why quantum tunneling is required to overcome the Coulomb barrier. The mass defect between reactants and products is linked to the enormous energy release via E = mc².",
         "resourceLabel": "YouTube: Nuclear Fusion in the Sun: The Proton-Proton Chain",
         "resourceUrl": "https://www.youtube.com/results?search_query=Nuclear%20Fusion%20in%20the%20Sun%3A%20The%20Proton-Proton%20Chain%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XqGLec4Ms0M",
         "quiz": [
           {
             "q": "What is the net result of the proton-proton chain reaction?",
