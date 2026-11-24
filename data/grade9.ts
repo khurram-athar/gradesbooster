@@ -318,7 +318,7 @@ const curriculum: DayContent[] = [
         "summary": "Slope describes the rate of change of a linear relation — rise over run (MTH1W Algebra/Linear Relations strand).",
         "resourceLabel": "YouTube: Linear Relations: Intro to Slope",
         "resourceUrl": "https://www.youtube.com/results?search_query=Linear%20Relations%3A%20Intro%20to%20Slope%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=0ofTvk9uAl8",
+        "videoUrl": "https://www.youtube.com/watch?v=klrGBHF_pZc",
         "quiz": [
           {
             "q": "Slope is calculated as...",
@@ -1073,7 +1073,7 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of expressions, equations, slope, and graphing.",
         "resourceLabel": "YouTube: Review: Algebra and Linear Relations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Algebra%20and%20Linear%20Relations%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=0ofTvk9uAl8",
+        "videoUrl": "https://www.youtube.com/watch?v=klrGBHF_pZc",
         "quiz": [
           {
             "q": "Simplify: 6x - 2x",
@@ -42328,6 +42328,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Media Literacy: Evaluating Source Credibility (Domains, Authors, and Verification)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Evaluating%20Source%20Credibility%20%28Domains%2C%20Authors%2C%20and%20Verification%29%20grade%209%20educational",
         "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=aotBmAakCIw",
         "quiz": [
           {
             "q": "Which of the following is a useful first step when evaluating an unfamiliar website's credibility?",
@@ -47108,11 +47109,11 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=0ofTvk9uAl8",
+        "videoUrl": "https://www.youtube.com/watch?v=klrGBHF_pZc",
         "videoUrls": [
           {
             "label": "Linear Relations",
-            "url": "https://www.youtube.com/watch?v=0ofTvk9uAl8"
+            "url": "https://www.youtube.com/watch?v=klrGBHF_pZc"
           },
           {
             "label": "Geometry",

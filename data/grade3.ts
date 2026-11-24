@@ -44775,6 +44775,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Language strand: the -am word family shares the same ending sound, as in ham, jam, ram, and yam.",
         "resourceLabel": "YouTube: Word Families: -am Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-am%20Words%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yKrmuy7XVUk",
         "quiz": [
           {
             "q": "Which word belongs to the -am family?",
@@ -44981,6 +44982,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: the Ontario Legislature, located at Queens Park in Toronto, is where elected members debate and pass provincial laws for Ontario.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=_L1fqwpyDNY",
         "quiz": [
           {
             "q": "Where is the Ontario Legislature located?",
@@ -45047,6 +45049,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Language strand: the letters igh together make the long i sound, as in night, light, and high.",
         "resourceLabel": "YouTube: Vowel Teams: igh Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20igh%20Words%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_qwNndwKjDk",
         "quiz": [
           {
             "q": "Which word has the igh vowel team?",

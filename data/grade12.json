@@ -380,7 +380,7 @@
         "summary": "Students develop the concept of the derivative as a limit of difference quotients, and apply the basic differentiation rules (power, constant, sum, difference).",
         "resourceLabel": "Khan Academy: Derivative Rules",
         "resourceUrl": "https://www.youtube.com/watch?v=HEH_oKNLgUU",
-        "videoUrl": "https://www.youtube.com/watch?v=WsQQvHm4lSw",
+        "videoUrl": "https://www.youtube.com/watch?v=N2PpRnFqnqY",
         "quiz": [
           {
             "q": "The derivative f'(a) is defined as ___.",
@@ -441,7 +441,7 @@
         "summary": "Students apply Newton's three laws to two-dimensional force problems, including inclined planes, connected masses, and friction.",
         "resourceLabel": "Crash Course Physics: Newtons Laws",
         "resourceUrl": "https://www.youtube.com/watch?v=kKKM8Y-u7ds",
-        "videoUrl": "https://www.youtube.com/watch?v=g550H4e5FCY",
+        "videoUrl": "https://www.youtube.com/watch?v=tX3vhtcp_2g",
         "quiz": [
           {
             "q": "For a block on a frictionless inclined plane at angle θ, the acceleration down the incline is ___.",
@@ -878,7 +878,7 @@
         "title": "Derivatives of Trigonometric and Exponential Functions",
         "summary": "Students differentiate sin(x), cos(x), tan(x), e^x, and ln(x), and combine these with the chain rule.",
         "resourceLabel": "Khan Academy: Derivatives of Trig Functions",
-        "resourceUrl": "https://www.youtube.com/watch?v=_niP0JaOgHY",
+        "resourceUrl": "https://www.youtube.com/watch?v=QYJx-ztCrE4",
         "videoUrl": "https://www.youtube.com/watch?v=yg_497u6JnA",
         "quiz": [
           {
@@ -7723,7 +7723,7 @@
         "summary": "Grade 12 English strand: feminist literary criticism examines how gender shapes the representation of characters, themes, and power dynamics within a text, often questioning traditional or patriarchal narrative structures.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
-        "videoUrl": "https://www.youtube.com/watch?v=-Ic7cJuaBtU",
+        "videoUrl": "https://www.youtube.com/watch?v=F9aY6gY4m9o",
         "quiz": [
           {
             "q": "Feminist literary criticism examines how ___ shapes a text.",
@@ -8093,7 +8093,7 @@
         "summary": "Grade 12 Calculus strand: concavity describes whether a function curves upward or downward, and the second derivative test uses the sign of a function’s second derivative to classify critical points as local maxima or minima.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
-        "videoUrl": "https://www.youtube.com/watch?v=Srqij2JXdeg",
+        "videoUrl": "https://www.youtube.com/watch?v=Zq2YVEPjW_0",
         "quiz": [
           {
             "q": "Concavity describes whether a function ___.",
@@ -15051,7 +15051,7 @@
         "summary": "Grade 12 English strand: magical realism is a literary mode in which fantastical or supernatural events are presented within an otherwise realistic setting as an unremarkable part of everyday life, often used to explore cultural, political, or historical truths.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
-        "videoUrl": "https://www.youtube.com/watch?v=8YDcUuz8dhs",
+        "videoUrl": "https://www.youtube.com/watch?v=UI9I2p71ct0",
         "quiz": [
           {
             "q": "Magical realism presents fantastical or supernatural events within an otherwise ___ setting.",
@@ -17315,11 +17315,11 @@
         "summary": "Grade 12 English strand review: this lesson revisits magical realism, the epistolary and archival narrative form, the bildungsroman, the confessional mode in poetry and prose, and the public letter from Days 61-69.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
-        "videoUrl": "https://www.youtube.com/watch?v=8YDcUuz8dhs",
+        "videoUrl": "https://www.youtube.com/watch?v=UI9I2p71ct0",
         "videoUrls": [
           {
             "label": "Magical Realism and the Blending of Worlds",
-            "url": "https://www.youtube.com/watch?v=8YDcUuz8dhs"
+            "url": "https://www.youtube.com/watch?v=UI9I2p71ct0"
           },
           {
             "label": "The Bildungsroman",
@@ -29297,7 +29297,7 @@
           }
         ],
         "topic": "Vectors: Force Addition",
-        "videoUrl": "https://www.youtube.com/watch?v=CpuYFUXe-gg"
+        "videoUrl": "https://www.youtube.com/watch?v=Emphi2zDMTo"
       },
       {
         "subject": "Physics",
@@ -32266,7 +32266,7 @@
         "summary": "Grade 10 Math strand: parametric equations express the x and y coordinates of a curve separately in terms of a third variable, called a parameter, allowing flexible descriptions of motion and curves.",
         "resourceLabel": "YouTube: Algebra: An Introduction to Parametric Equations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20An%20Introduction%20to%20Parametric%20Equations%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=97pe-QlSGqA",
+        "videoUrl": "https://www.youtube.com/watch?v=QaN_3TytT_U",
         "quiz": [
           {
             "q": "What do parametric equations use to describe a curve?",
@@ -33353,7 +33353,7 @@
         "summary": "Uses the thin lens equation 1/f = 1/dₒ + 1/dᵢ and the magnification formula to determine image location, orientation, and size for converging and diverging lenses.",
         "resourceLabel": "YouTube: Converging and Diverging Lenses: The Lens Equation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Converging%20and%20Diverging%20Lenses%3A%20The%20Lens%20Equation%20grade%2012%20physics%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=VKMswYSiyko",
+        "videoUrl": "https://www.youtube.com/watch?v=7GV1UZSTNJg",
         "quiz": [
           {
             "q": "A converging lens has f = 15 cm. An object is placed 20 cm in front of it. Find the image distance and describe the image.",
@@ -36861,11 +36861,11 @@
         "summary": "Students learn how work done against an electric field is stored as electric potential energy, and how potential difference (voltage) describes the energy per unit charge between two points in a field. They apply the relationships V = E_p/q and, for uniform fields, V = Ed, to solve problems involving charges moving between points at different potentials.",
         "resourceLabel": "YouTube: Electric Potential Energy and Electric Potential Difference",
         "resourceUrl": "https://www.youtube.com/results?search_query=Electric%20Potential%20Energy%20and%20Electric%20Potential%20Difference%20grade%2012%20physics%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=LzKMQByFSLc",
+        "videoUrl": "https://www.youtube.com/watch?v=SjMPpt3aALs",
         "videoUrls": [
           {
             "label": "Electric Potential Energy",
-            "url": "https://www.youtube.com/watch?v=LzKMQByFSLc"
+            "url": "https://www.youtube.com/watch?v=SjMPpt3aALs"
           },
           {
             "label": "Electric Potential Difference (Voltage)",
@@ -44383,11 +44383,11 @@
           }
         ],
         "topic": "Calculus: Derivatives",
-        "videoUrl": "https://www.youtube.com/watch?v=Srqij2JXdeg",
+        "videoUrl": "https://www.youtube.com/watch?v=Zq2YVEPjW_0",
         "videoUrls": [
           {
             "label": "Concavity",
-            "url": "https://www.youtube.com/watch?v=Srqij2JXdeg"
+            "url": "https://www.youtube.com/watch?v=Zq2YVEPjW_0"
           },
           {
             "label": "the Second Derivative",

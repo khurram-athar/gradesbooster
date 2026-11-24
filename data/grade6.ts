@@ -12419,7 +12419,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Newton's Laws of Motion",
-            "url": "https://www.youtube.com/watch?v=g550H4e5FCY"
+            "url": "https://www.youtube.com/watch?v=BsVIPnIeYFs"
           },
           {
             "label": "Sound Waves",
@@ -42076,6 +42076,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: a protractor is a tool used to measure the size of an angle in degrees, and estimating an angles size before measuring helps check whether a measurement is reasonable.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=N8TGOMH5Y50",
         "quiz": [
           {
             "q": "What tool is used to measure the size of an angle?",
@@ -42136,6 +42137,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: a glacier is a large, slow-moving mass of ice that can carve valleys, move rocks and sediment, and reshape landscapes over long periods of time as it advances and retreats.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=loI584OFVpE",
         "quiz": [
           {
             "q": "What is a glacier?",

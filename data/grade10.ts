@@ -5574,7 +5574,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore the graphs of y = sinx and y = cosx, identifying amplitude, period, phase shift, and vertical shift for transformations.",
         "resourceLabel": "YouTube: Trigonometry Extension: Sine and Cosine Graphs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%20Extension%3A%20Sine%20and%20Cosine%20Graphs%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=v4eUxyMip0c",
+        "videoUrl": "https://www.youtube.com/watch?v=U3ktjhKRdng",
         "quiz": [
           {
             "q": "The period of y = sinx is ___.",
@@ -8611,7 +8611,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore how light reflects off surfaces according to the law of reflection and refracts (bends) when passing between different media.",
         "resourceLabel": "YouTube: Reflection and Refraction of Light",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reflection%20and%20Refraction%20of%20Light%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=38SyS6zXwe4",
+        "videoUrl": "https://www.youtube.com/watch?v=bqWI4hxzZUs",
         "quiz": [
           {
             "q": "The law of reflection states that the angle of incidence ___ the angle of reflection.",
@@ -9978,7 +9978,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: irony occurs when there is a contrast between expectation and reality, and symbolism uses objects or images to represent deeper ideas beyond their literal meaning.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
-        "videoUrl": "https://www.youtube.com/watch?v=JGCTtHsAU1w",
+        "videoUrl": "https://www.youtube.com/watch?v=q6e0oNVx8Uk",
         "quiz": [
           {
             "q": "Irony occurs when there is a contrast between ___.",
@@ -10227,7 +10227,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: an op-ed is a persuasive opinion piece that presents a clear argument on a current issue, supported by evidence and a compelling, direct writing style.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
-        "videoUrl": "https://www.youtube.com/watch?v=NB9-B590Y-k",
+        "videoUrl": "https://www.youtube.com/watch?v=6TN89KNTPQI",
         "quiz": [
           {
             "q": "An op-ed is best described as ___.",
@@ -16116,7 +16116,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Functions strand (extension): an absolute value function measures the distance of a value from zero, producing a distinctive V-shaped graph, and solving an absolute value equation often requires considering two separate cases.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=4r6X46fw-oE",
+        "videoUrl": "https://www.youtube.com/watch?v=weGn1iTnm-I",
         "quiz": [
           {
             "q": "An absolute value function measures ___.",
@@ -16616,7 +16616,7 @@ const curriculum: DayContent[] = [
         "summary": "Students find the equation of a median (vertex to midpoint of the opposite side) and an altitude (perpendicular from a vertex) using coordinates.",
         "resourceLabel": "YouTube: Finding Medians and Altitudes of a Triangle",
         "resourceUrl": "https://www.youtube.com/results?search_query=Finding%20Medians%20and%20Altitudes%20of%20a%20Triangle%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=q5j3Q_f68Dc",
+        "videoUrl": "https://www.youtube.com/watch?v=SyzkgBjXtIs",
         "quiz": [
           {
             "q": "Triangle ABC has vertices A(0,0), B(6,0), C(2,4). Find the midpoint of side BC.",
@@ -17407,7 +17407,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Absolute Value Functions",
-            "url": "https://www.youtube.com/watch?v=4r6X46fw-oE"
+            "url": "https://www.youtube.com/watch?v=weGn1iTnm-I"
           }
         ],
         "quiz": [
@@ -22857,7 +22857,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: chemical reactions can be classified into types such as synthesis, decomposition, single displacement, double displacement, and combustion, based on how reactants rearrange into products.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
-        "videoUrl": "https://www.youtube.com/watch?v=iIJD8RNLpS0",
+        "videoUrl": "https://www.youtube.com/watch?v=aMU1RaRulSo",
         "quiz": [
           {
             "q": "Name one type of chemical reaction, such as synthesis.",
@@ -23794,7 +23794,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Math strand: a probability tree diagram visually maps out all possible outcomes of a sequence of events, making it easier to calculate the probability of compound events.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=w4wKXVwtGac",
+        "videoUrl": "https://www.youtube.com/watch?v=jcggUGY3vIg",
         "quiz": [
           {
             "q": "What does a probability tree diagram help visualize?",
@@ -33473,7 +33473,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the Income War Tax Act of 1917 introduced a federal personal income tax in Canada as a temporary wartime measure to help fund Canadas participation in World War I, though the tax was never repealed and became a permanent feature of Canadian federal finances.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
-        "videoUrl": "https://www.youtube.com/watch?v=weYOf_Q49as",
+        "videoUrl": "https://www.youtube.com/watch?v=vYCMkXVmf64",
         "quiz": [
           {
             "q": "In what year was the Income War Tax Act passed?",
@@ -37237,7 +37237,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the Ogdensburg Agreement of 1940 was a defence pact between Canada and the United States, negotiated by Prime Minister Mackenzie King and President Franklin Roosevelt, that created the Permanent Joint Board on Defence to coordinate the two countries military cooperation.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
-        "videoUrl": "https://www.youtube.com/watch?v=EhUkY9ZAV6M",
+        "videoUrl": "https://www.youtube.com/watch?v=Ns0WDO6Wd40",
         "quiz": [
           {
             "q": "In what year was the Ogdensburg Agreement signed?",

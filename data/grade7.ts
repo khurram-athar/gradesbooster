@@ -42278,6 +42278,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: although reality television appears unscripted, it is often shaped through editing, camera angles, and situations arranged by producers, so media-literate viewers should think critically about how the reality shown on screen has been constructed for entertainment.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=wJi0Ax9crTI",
         "quiz": [
           {
             "q": "What is one way reality television is often shaped by producers?",
@@ -42338,6 +42339,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: the area of a composite two-dimensional shape can be found by breaking the figure into simpler shapes, such as rectangles, triangles, or circles, calculating the area of each simpler shape separately, and then adding or subtracting these areas as needed.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=z4Lat1uOQI4",
         "quiz": [
           {
             "q": "What is the first general step in finding the area of a composite 2D shape?",
@@ -42398,6 +42400,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: animals are broadly classified as vertebrates, which have a backbone, including mammals, birds, fish, reptiles, and amphibians, or invertebrates, which lack a backbone, including insects, worms, and mollusks, and invertebrates make up the vast majority of animal species on Earth.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=3y1dTsyfNQ4",
         "quiz": [
           {
             "q": "What defines a vertebrate?",
@@ -42458,6 +42461,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: a referendum is a direct vote in which citizens decide on a specific question or issue, rather than electing a representative to decide on their behalf.",
         "resourceLabel": "YouTube: Referendums — Direct Democracy in Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Referendums%20%E2%80%94%20Direct%20Democracy%20in%20Canada%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lhLwYuCzkcc",
         "quiz": [
           {
             "q": "What is a referendum?",

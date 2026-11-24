@@ -20537,7 +20537,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to read a simple analog clock to the hour, recognizing that the short hand points to the hour and the long hand points to the 12 at the top.",
         "resourceLabel": "YouTube: Time: Reading a Clock to the Hour",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Reading%20a%20Clock%20to%20the%20Hour%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=r2K1Py9U87I",
+        "videoUrl": "https://www.youtube.com/watch?v=Bvq5YqyRoKU",
         "quiz": [
           {
             "q": "On a clock, which hand shows the hour?",
@@ -47035,6 +47035,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Alphabetical Order: Which Letter Comes First?",
         "resourceUrl": "https://www.youtube.com/results?search_query=Alphabetical%20Order%3A%20Which%20Letter%20Comes%20First%3F%20kindergarten%20educational",
         "topic": "Phonics & Word Recognition",
+        "videoUrl": "https://www.youtube.com/watch?v=oWNelUdqmfQ",
         "quiz": [
           {
             "q": "Which letter comes first in the alphabet: B or D?",
@@ -47306,6 +47307,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Position Words: In, On, and Under",
         "resourceUrl": "https://www.youtube.com/results?search_query=Position%20Words%3A%20In%2C%20On%2C%20and%20Under%20kindergarten%20educational",
         "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=apKHP5Bq6dI",
         "quiz": [
           {
             "q": "If the cat is sleeping inside the box, which word describes where it is?",
@@ -47366,6 +47368,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Patterns: AB Repeating Patterns",
         "resourceUrl": "https://www.youtube.com/results?search_query=Patterns%3A%20AB%20Repeating%20Patterns%20kindergarten%20educational",
         "topic": "Patterning",
+        "videoUrl": "https://www.youtube.com/watch?v=yU0z7yeLyvA",
         "quiz": [
           {
             "q": "What comes next in this pattern: circle, square, circle, square, __?",
@@ -47425,6 +47428,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: an earthquake happens when the ground shakes suddenly because of movement deep under the surface of the earth.",
         "resourceLabel": "YouTube: Earthquakes: When the Ground Shakes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Earthquakes%3A%20When%20the%20Ground%20Shakes%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=AArne-wh_Uc",
         "quiz": [
           {
             "q": "What happens to the ground during an earthquake?",
@@ -47509,6 +47513,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Reduce, Reuse, Recycle: Three Ways to Help the Earth",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reduce%2C%20Reuse%2C%20Recycle%3A%20Three%20Ways%20to%20Help%20the%20Earth%20kindergarten%20educational",
         "topic": "Environment & Sustainability (Social Studies)",
+        "videoUrl": "https://www.youtube.com/watch?v=6jQ7y_qQYUA",
         "quiz": [
           {
             "q": "\"Reduce\" means to...",

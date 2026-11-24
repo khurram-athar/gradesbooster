@@ -43534,6 +43534,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: a fairy tale is a traditional story that often includes magical elements, a clear conflict between good and evil, and a lesson or happy ending, such as tales featuring castles, enchanted creatures, or brave heroes.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=FmThkGj5fLQ",
         "quiz": [
           {
             "q": "What is a common feature of a fairy tale?",
@@ -43594,6 +43595,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: triangles can be classified by their angles as acute, where all angles are less than 90 degrees, right, with one angle equal to exactly 90 degrees, or obtuse, with one angle greater than 90 degrees.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=oQeK4LyKLHw",
         "quiz": [
           {
             "q": "What defines an acute triangle?",
@@ -43655,6 +43657,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Habitat Basics: What Every Living Thing Needs to Survive",
         "resourceUrl": "https://www.youtube.com/results?search_query=Habitat%20Basics%3A%20What%20Every%20Living%20Thing%20Needs%20to%20Survive%20grade%204%20educational",
         "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=Mad8J-iu2J0",
         "quiz": [
           {
             "q": "Which of the following are the four basic needs every living thing must get from its habitat?",
@@ -43715,6 +43718,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Social Studies: Canada's Climate Zones: From Coast to Coast",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%27s%20Climate%20Zones%3A%20From%20Coast%20to%20Coast%20grade%204%20educational",
         "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=QqN-4naM5JI",
         "quiz": [
           {
             "q": "Which part of Canada generally experiences the mildest, wettest winters?",
@@ -43839,6 +43843,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: multiplying a decimal by 10, 100, or 1,000 moves the decimal point to the right by one, two, or three places, making the number larger.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=v2qLlJ7KwHk",
         "quiz": [
           {
             "q": "What happens to a decimal number when it is multiplied by 10?",

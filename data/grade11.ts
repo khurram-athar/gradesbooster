@@ -1691,7 +1691,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn IUPAC nomenclature for simple organic compounds (alkanes, alkenes, alcohols, carboxylic acids) and examine substitution, addition, and esterification reactions.",
         "resourceLabel": "YouTube: Organic Chemistry: Naming and Reactions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Organic%20Chemistry%3A%20Naming%20and%20Reactions%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=PYZJXWBMqBE",
+        "videoUrl": "https://www.youtube.com/watch?v=HhT2E7wuAgg",
         "quiz": [
           {
             "q": "The IUPAC name for CH₃CH₂CH₃ is ___.",
@@ -2067,7 +2067,7 @@ const curriculum: DayContent[] = [
         "summary": "Students solve exponential equations using logarithms and apply these functions to compound interest, population growth, and half-life problems.",
         "resourceLabel": "YouTube: Applications of Exponential and Logarithmic Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Applications%20of%20Exponential%20and%20Logarithmic%20Functions%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=FIOcFEz8-CA",
+        "videoUrl": "https://www.youtube.com/watch?v=wp1ieR2JGxQ",
         "quiz": [
           {
             "q": "To solve 3ˣ = 50, you ___.",
@@ -8776,7 +8776,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand (Financial Applications): an annuity is a series of equal payments made at regular intervals, and present value calculates what a series of future payments is worth in today’s dollars.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=5fLDW8uTks0",
+        "videoUrl": "https://www.youtube.com/watch?v=fXODYKLhM-U",
         "quiz": [
           {
             "q": "An annuity is best described as ___.",
@@ -9782,7 +9782,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Trigonometry",
-            "url": "https://www.youtube.com/watch?v=Kr0SVPIGsCs"
+            "url": "https://www.youtube.com/watch?v=e6ft5HSEv9Y"
           },
           {
             "label": "Financial Math",
@@ -19983,7 +19983,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Simple Annuities",
-            "url": "https://www.youtube.com/watch?v=5fLDW8uTks0"
+            "url": "https://www.youtube.com/watch?v=fXODYKLhM-U"
           }
         ],
         "quiz": [

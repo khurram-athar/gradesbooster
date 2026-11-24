@@ -14315,11 +14315,11 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Science topics: exercise and rest, healthy eating, germs, air and wind, floating and sinking, fish and birds, camouflage, and temperature.",
         "resourceLabel": "YouTube: Science Review: Bodies, Air, and Animals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Bodies%2C%20Air%2C%20and%20Animals%20grade%201%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=AHQGNb0zBgg",
+        "videoUrl": "https://www.youtube.com/watch?v=mOKmjYwfDGU",
         "videoUrls": [
           {
             "label": "Human Body",
-            "url": "https://www.youtube.com/watch?v=AHQGNb0zBgg"
+            "url": "https://www.youtube.com/watch?v=mOKmjYwfDGU"
           },
           {
             "label": "Air",
@@ -52097,6 +52097,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Synonyms: Words That Mean the Same",
         "resourceUrl": "https://www.youtube.com/results?search_query=Synonyms%3A%20Words%20That%20Mean%20the%20Same%20grade%201%20educational",
         "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=hFFW9zKJ5os",
         "quiz": [
           {
             "q": "What is a synonym?",
@@ -52156,6 +52157,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Math strand: a Venn diagram can use three overlapping circles to sort objects that might belong to one, two, or all three groups at once.",
         "resourceLabel": "YouTube: Data: Sorting Objects into a Venn Diagram with Three Groups",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Sorting%20Objects%20into%20a%20Venn%20Diagram%20with%20Three%20Groups%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=sRA2Prsdnn4",
         "quiz": [
           {
             "q": "How many circles are used in a three-group Venn diagram?",
@@ -52239,6 +52241,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Science strand: camels are large mammals with humps that store fat, helping them survive for long periods without food or water in hot, dry desert habitats.",
         "resourceLabel": "YouTube: Camels: Animals Built for the Desert",
         "resourceUrl": "https://www.youtube.com/results?search_query=Camels%3A%20Animals%20Built%20for%20the%20Desert%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IJ4YajWrDcA",
         "quiz": [
           {
             "q": "What do camels have on their backs?",
@@ -52321,6 +52324,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: a food bank is a place in our community that collects and gives out food to families who need extra help getting enough to eat.",
         "resourceLabel": "YouTube: Our Local Food Bank: Helping Neighbours in Need",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Local%20Food%20Bank%3A%20Helping%20Neighbours%20in%20Need%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LP2ebxxQ5pw",
         "quiz": [
           {
             "q": "What is a food bank?",

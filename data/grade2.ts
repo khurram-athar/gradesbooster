@@ -12792,11 +12792,11 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Science topics: the life cycle of a plant, floating and sinking, gravity, and food chains.",
         "resourceLabel": "YouTube: Review: Plant Life Cycle, Floating and Sinking, Gravity and Food Chains",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Plant%20Life%20Cycle%2C%20Floating%20and%20Sinking%2C%20Gravity%20and%20Food%20Chains%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=ZubFxK_QDTw",
+        "videoUrl": "https://www.youtube.com/watch?v=0eIXMs_NQVU",
         "videoUrls": [
           {
             "label": "Plant Life Cycle",
-            "url": "https://www.youtube.com/watch?v=ZubFxK_QDTw"
+            "url": "https://www.youtube.com/watch?v=0eIXMs_NQVU"
           },
           {
             "label": "Floating and Sinking",
@@ -50363,6 +50363,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: a tongue twister is a phrase that repeats similar sounds again and again, making it fun and tricky to say quickly and clearly.",
         "resourceLabel": "YouTube: Tongue Twisters: Playing With Repeated Sounds",
         "resourceUrl": "https://www.youtube.com/results?search_query=Tongue%20Twisters%3A%20Playing%20With%20Repeated%20Sounds%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KP7j9r-om7M",
         "quiz": [
           {
             "q": "What is a tongue twister?",
@@ -50544,6 +50545,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: public transit includes buses, subways, and trains that carry many people at once, helping communities move around without everyone needing a car.",
         "resourceLabel": "YouTube: Public Transit: Getting Around Our Communities",
         "resourceUrl": "https://www.youtube.com/results?search_query=Public%20Transit%3A%20Getting%20Around%20Our%20Communities%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fWmwmXSk2Y8",
         "quiz": [
           {
             "q": "What is public transit?",
@@ -50610,6 +50612,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: many well-known stories, like fairy tales, have different versions told by different authors or cultures, and comparing them shows how details, characters, or endings can change.",
         "resourceLabel": "YouTube: Comparing Different Versions of the Same Story",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Different%20Versions%20of%20the%20Same%20Story%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PkWU-lMdnJg",
         "quiz": [
           {
             "q": "What can be different between two versions of the same story?",
@@ -50669,6 +50672,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: Canadian coins have different names and values, including the nickel worth five cents, the dime worth ten cents, the quarter worth twenty-five cents, the loonie worth one dollar, and the toonie worth two dollars.",
         "resourceLabel": "YouTube: Money: Canadian Coin Values — Nickel, Dime, Quarter, Loonie, and Toonie",
         "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Canadian%20Coin%20Values%20%E2%80%94%20Nickel%2C%20Dime%2C%20Quarter%2C%20Loonie%2C%20and%20Toonie%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QqUxnmDHP68",
         "quiz": [
           {
             "q": "How much is a nickel worth?",
@@ -50729,6 +50733,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: an earthquake happens when the ground suddenly shakes because of movement deep within the Earths crust, sometimes caused by shifting rock along a fault.",
         "resourceLabel": "YouTube: Earthquakes: When the Earth Shakes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Earthquakes%3A%20When%20the%20Earth%20Shakes%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=a8ybdnKtcI8",
         "quiz": [
           {
             "q": "What is an earthquake?",
@@ -50789,6 +50794,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: a farmers market is a place where local farmers sell fruits, vegetables, and other food directly to shoppers, often close to where the food was grown.",
         "resourceLabel": "YouTube: Farmers Markets: Buying Food Grown Close to Home",
         "resourceUrl": "https://www.youtube.com/results?search_query=Farmers%20Markets%3A%20Buying%20Food%20Grown%20Close%20to%20Home%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WpgtUOZl0s0",
         "quiz": [
           {
             "q": "What is a farmers market?",
