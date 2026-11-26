@@ -43784,6 +43784,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: a product review is a piece of writing that describes a product, evaluates its strengths and weaknesses, and offers an opinion to help other readers decide whether to use it.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=-hpqz49iquA",
         "quiz": [
           {
             "q": "What is the purpose of a product review?",
@@ -43904,6 +43905,7 @@ const curriculum: DayContent[] = [
         "summary": "Students test how different materials, such as foam, cardboard, and fabric, absorb or block sound vibrations, and explore why soundproofing materials are used in places like recording studios and apartment walls.",
         "resourceLabel": "YouTube: Sound Insulation: Materials That Block or Absorb Sound",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sound%20Insulation%3A%20Materials%20That%20Block%20or%20Absorb%20Sound%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CqksKYuz2ZQ",
         "topic": "Light & Sound",
         "quiz": [
           {
@@ -43964,6 +43966,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about the role of a provincial premier and the provincial legislature, comparing their responsibilities to those of the federal government led by the Prime Minister.",
         "resourceLabel": "YouTube: Social Studies: The Role of a Provincial Premier and Legislature",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Role%20of%20a%20Provincial%20Premier%20and%20Legislature%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WYhqg3VVmQw",
         "topic": "Government & Civics",
         "quiz": [
           {

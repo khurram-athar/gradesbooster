@@ -45132,6 +45132,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: students can create their own number pattern by choosing a starting number and a rule, such as adding 4 each time, then applying the rule repeatedly to generate the pattern.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=vV7C7bXm4VI",
         "quiz": [
           {
             "q": "What two things do you need to create a number pattern?",
@@ -45192,6 +45193,7 @@ const curriculum: DayContent[] = [
         "summary": "Students add weights to a paper bridge one at a time to find its breaking point, learning how engineers study the load a structure can safely carry.",
         "resourceLabel": "YouTube: Science: Why Structures Fail — Investigating Load and Stress",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Why%20Structures%20Fail%20%E2%80%94%20Investigating%20Load%20and%20Stress%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=G--yhD77PGg",
         "topic": "Structures, Materials & Engineering",
         "quiz": [
           {
@@ -45252,6 +45254,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: Canada protects important habitats through national wildlife areas and migratory bird sanctuaries, helping conserve species and the places they depend on.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=02vQWoeKU6M",
         "quiz": [
           {
             "q": "What do national wildlife areas and bird sanctuaries help protect?",

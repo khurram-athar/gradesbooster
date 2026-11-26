@@ -42263,6 +42263,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: a modifier describes or gives more information about another word in a sentence, and a dangling or misplaced modifier occurs when it is positioned so that it unclearly or incorrectly describes the wrong word.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=SjunMcrXgE0",
         "quiz": [
           {
             "q": "What does a modifier do in a sentence?",
@@ -42397,6 +42398,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: food preservation methods such as refrigeration, canning, and drying slow or stop the growth of the microorganisms that cause food to spoil, helping keep food safe to eat for longer periods of time.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=x8SgPCLiqjs",
         "quiz": [
           {
             "q": "What do food preservation methods such as refrigeration and drying slow or stop?",
@@ -42456,6 +42458,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the Rideau Canal, built between 1826 and 1832 to connect Kingston and Ottawa, was originally constructed for military defense purposes and is now recognized as a UNESCO World Heritage Site, famous today for winter skating.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=PeZOnP43o2M",
         "quiz": [
           {
             "q": "What two cities does the Rideau Canal connect?",

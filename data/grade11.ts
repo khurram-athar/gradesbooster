@@ -8587,7 +8587,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: the muscular and skeletal systems work together to provide the body with structure, support, and the ability to move, with muscles contracting to pull on bones connected at joints.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
-        "videoUrl": "https://www.youtube.com/watch?v=UKgbfxPTn_s",
+        "videoUrl": "https://www.youtube.com/watch?v=656ZfzFD-ec",
         "quiz": [
           {
             "q": "The muscular and skeletal systems work together to provide the body with ___.",
@@ -42152,6 +42152,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: stage directions are the playwrights instructions describing setting, movement, tone, or gesture that accompany the dialogue of a play, guiding how a script should be staged and performed while remaining, unlike the dialogue itself, unspoken by the actors on stage.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=uwmww8-DTy0",
         "quiz": [
           {
             "q": "What do stage directions describe?",
@@ -42211,6 +42212,17 @@ const curriculum: DayContent[] = [
         "summary": "Students use the general term formula tₙ = a·r^(n-1) and the geometric series sum formula to solve problems involving constant ratios, including growth and finance contexts.",
         "resourceLabel": "YouTube: Sequences: Geometric Sequences — General Term and Sum Formulas",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sequences%3A%20Geometric%20Sequences%20%E2%80%94%20General%20Term%20and%20Sum%20Formulas%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3xbormMmuK4",
+        "videoUrls": [
+          {
+            "label": "Geometric Sequence General Term",
+            "url": "https://www.youtube.com/watch?v=3xbormMmuK4"
+          },
+          {
+            "label": "Geometric Series Sum Formula",
+            "url": "https://www.youtube.com/watch?v=PqXAjCXYbNk"
+          }
+        ],
         "topic": "Sequences & Series",
         "quiz": [
           {
@@ -42271,6 +42283,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: a proteins primary structure is its linear sequence of amino acids, its secondary structure consists of local folding patterns such as alpha helices and beta sheets, its tertiary structure is the overall three-dimensional shape of a single folded chain, and its quaternary structure describes how multiple folded chains assemble together.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=Bsk9hvXDJp8",
         "quiz": [
           {
             "q": "What is a proteins primary structure?",
@@ -42331,6 +42344,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: spherification is a molecular gastronomy technique in which a liquid containing sodium alginate is dropped into a calcium chloride bath, triggering a chemical reaction that forms a thin gel membrane around the droplet and produces a sphere with a liquid centre and a delicate solid outer shell.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=ysZdR1HCS8g",
         "quiz": [
           {
             "q": "What ingredient in the liquid is essential for spherification?",

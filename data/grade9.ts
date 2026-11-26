@@ -9949,7 +9949,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Reading strand: analyzing an author’s craft involves examining the deliberate choices a writer makes -- in structure, language, and literary devices -- and how those choices work together across an entire text.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
-        "videoUrl": "https://www.youtube.com/watch?v=CcpBAeedIdE",
+        "videoUrl": "https://www.youtube.com/watch?v=tj8vssKsZQI",
         "quiz": [
           {
             "q": "Analyzing an author’s craft involves examining ___.",
@@ -42388,6 +42388,7 @@ const curriculum: DayContent[] = [
         "summary": "Students calculate the volume of cones and spheres using the formulas V = (1/3)πr²h and V = (4/3)πr³, applying them to real-world objects.",
         "resourceLabel": "YouTube: Volume of Cones and Spheres",
         "resourceUrl": "https://www.youtube.com/results?search_query=Volume%20of%20Cones%20and%20Spheres%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iyfl7RE07CU",
         "topic": "Measurement: Perimeter & Area",
         "quiz": [
           {
@@ -42448,6 +42449,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: plant reproduction typically begins with pollination, the transfer of pollen from a flowers male structures to its female structures, often assisted by wind, water, or animal pollinators, followed by seed dispersal, which spreads seeds away from the parent plant to reduce competition and expand its range.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=Dfvyoir_SCY",
+        "videoUrls": [
+          {
+            "label": "Pollination Explained",
+            "url": "https://www.youtube.com/watch?v=Dfvyoir_SCY"
+          },
+          {
+            "label": "Seed Dispersal",
+            "url": "https://www.youtube.com/watch?v=-KIYVGXT1lA"
+          }
+        ],
         "quiz": [
           {
             "q": "What is pollination?",
@@ -42508,6 +42520,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: a company town is a settlement built and largely controlled by a single company, often to house workers near a mine, mill, or other resource-based operation, and many such towns face economic uncertainty or decline once the resource that supported them is depleted or a company relocates.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=ppzwh9B3_0k",
         "quiz": [
           {
             "q": "What is a company town?",

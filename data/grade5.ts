@@ -43102,6 +43102,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: a pun is a form of wordplay that uses a words multiple meanings or similar-sounding words to create a humorous or clever effect.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=aglm_IMZub8",
         "quiz": [
           {
             "q": "What is a pun?",
@@ -43162,6 +43163,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: a composite transformation applies more than one transformation, such as a translation followed by a reflection, to move a shape from its original position to a final position.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=ESuANOHazE0",
         "quiz": [
           {
             "q": "What is a composite transformation?",
@@ -43306,6 +43308,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: Canadian embassies and consulates represent Canada in other countries, supporting trade and diplomacy, and providing assistance to Canadian citizens travelling or living abroad.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=SUsqnD9-42g",
         "quiz": [
           {
             "q": "What is the main purpose of a Canadian embassy in another country?",

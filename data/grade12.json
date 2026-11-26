@@ -4985,7 +4985,7 @@
         "summary": "Students examine realist novels and their sociological dimension — how fiction can document social reality while remaining art.",
         "resourceLabel": "Tristan and the Classics: The 7 Core Aspects of Realist Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=qP7KQhrVtBc",
-        "videoUrl": "https://www.youtube.com/watch?v=qP7KQhrVtBc",
+        "videoUrl": "https://www.youtube.com/watch?v=yzlIzpDQdFQ",
         "quiz": [
           {
             "q": "Nineteenth-century realism in the novel aimed to ___.",
@@ -13577,7 +13577,7 @@
         "summary": "Grade 12 Advanced Functions strand: the normal distribution is a symmetric, bell-shaped probability distribution describing many real-world data sets, and a z-score expresses how many standard deviations a value lies from the mean.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=Pn03dfOz-Cs",
+        "videoUrl": "https://www.youtube.com/watch?v=2tuBREK_mgE",
         "quiz": [
           {
             "q": "The normal distribution is a symmetric, ___ probability distribution.",
@@ -18462,7 +18462,7 @@
         "summary": "This lesson reviews the conditions for continuity at a point and uses the Intermediate Value Theorem to justify that a root exists within an interval, without approximating its value.",
         "resourceLabel": "YouTube: Continuity and the Intermediate Value Theorem",
         "resourceUrl": "https://www.youtube.com/results?search_query=Continuity%20and%20the%20Intermediate%20Value%20Theorem%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=M9yWBWSs3Go",
+        "videoUrl": "https://www.youtube.com/watch?v=9xgO-EJ3sr0",
         "quiz": [
           {
             "q": "A function f is continuous at x = a when which conditions all hold?",
@@ -19985,7 +19985,7 @@
         "summary": "Grade 10 Functions strand (extension): graphing a rational function involves identifying vertical and horizontal asymptotes, which describe values the function approaches but never reaches.",
         "resourceLabel": "YouTube: Rational Functions: Graphing and Asymptotes in Depth",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Graphing%20and%20Asymptotes%20in%20Depth%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=qGCKjuhA4eQ",
+        "videoUrl": "https://www.youtube.com/watch?v=6621vFRbO3w",
         "quiz": [
           {
             "q": "A vertical asymptote of a rational function typically occurs where ___.",
@@ -31582,7 +31582,7 @@
         "summary": "Applies Snell's law to calculate refraction angles, critical angles, and total internal reflection as light crosses boundaries between media of different refractive index.",
         "resourceLabel": "YouTube: Refraction and Snell's Law: Bending Light Between Media",
         "resourceUrl": "https://www.youtube.com/results?search_query=Refraction%20and%20Snell%27s%20Law%3A%20Bending%20Light%20Between%20Media%20grade%2012%20physics%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=KiJi8yqB_Rg",
+        "videoUrl": "https://www.youtube.com/watch?v=a20C08qmC_o",
         "quiz": [
           {
             "q": "Light travels from air (n = 1.00) into glass (n = 1.50) striking the surface at an angle of incidence of 40°. What is the angle of refraction?",
@@ -40070,7 +40070,7 @@
             "answer": 0
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=Pn03dfOz-Cs",
+        "videoUrl": "https://www.youtube.com/watch?v=2tuBREK_mgE",
         "videoUrls": [
           {
             "label": "Statistics",
@@ -41971,6 +41971,7 @@
         "summary": "Grade 12 English strand: a verse essay presents a sustained, discursive argument or reflection, much like a prose essay, but does so using the compressed, patterned language of poetry, showing that reasoned argument and poetic form are not mutually exclusive modes of writing.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=teRl9ARq8hI",
         "quiz": [
           {
             "q": "What does a verse essay attempt to do, similar to a prose essay?",
@@ -42031,6 +42032,7 @@
         "summary": "Students use the unit circle to define sine, cosine, and tangent for any angle, including angles beyond 0°-90°, connecting coordinates on the circle to trigonometric ratios and the signs of ratios in each quadrant.",
         "resourceLabel": "YouTube: The Unit Circle and Trigonometric Ratios for Any Angle",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Unit%20Circle%20and%20Trigonometric%20Ratios%20for%20Any%20Angle%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=57VrEiEPD1I",
         "topic": "Functions: Trigonometric",
         "quiz": [
           {
@@ -42091,6 +42093,17 @@
         "summary": "Grade 10 Math strand: a line in space can be described using a vector equation built from a known point and a direction vector, while a plane can be described using a known point and a normal vector, extending vector concepts to represent geometric objects algebraically.",
         "resourceLabel": "YouTube: Vectors: Vector Equations of Lines and Planes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20Vector%20Equations%20of%20Lines%20and%20Planes%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iOeGgZIfryg",
+        "videoUrls": [
+          {
+            "label": "Vector Equation of a Line",
+            "url": "https://www.youtube.com/watch?v=iOeGgZIfryg"
+          },
+          {
+            "label": "Vector Equation of a Plane",
+            "url": "https://www.youtube.com/watch?v=HjJ140TYbXQ"
+          }
+        ],
         "quiz": [
           {
             "q": "What two pieces of information define the vector equation of a line?",
@@ -42151,6 +42164,7 @@
         "summary": "Students study radioactive decay and half-life, learning to calculate the remaining mass or activity of a sample after a given number of half-lives using N = N0(1/2)^(t/T). The relationship between decay constant and half-life (λ = ln2/T) is introduced, along with the definition of activity as decays per unit time. Worked problems build fluency in applying exponential decay to realistic isotope scenarios.",
         "resourceLabel": "YouTube: Radioactive Half-Life: Calculating Remaining Mass and Activity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Radioactive%20Half-Life%3A%20Calculating%20Remaining%20Mass%20and%20Activity%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=q3PJC_2j8ms",
         "quiz": [
           {
             "q": "A sample has a half-life of 8 days. What fraction of the original sample remains after 24 days?",

@@ -1626,7 +1626,7 @@ const curriculum: DayContent[] = [
         "summary": "Students analyse motion using displacement, velocity, acceleration, and time. They apply kinematics equations and interpret distance-time and velocity-time graphs.",
         "resourceLabel": "YouTube: Physics: Kinematics — Motion in One Dimension",
         "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Kinematics%20%E2%80%94%20Motion%20in%20One%20Dimension%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=dHjWVlfNraM",
+        "videoUrl": "https://www.youtube.com/watch?v=hpWuZh6oTew",
         "quiz": [
           {
             "q": "Displacement differs from distance because ___.",
@@ -24541,7 +24541,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand (pre-high-school extension): a tangent line touches a circle at exactly one point and is perpendicular to the radius at that point, while an inscribed angle is formed by two chords meeting at a point on the circle.",
         "resourceLabel": "YouTube: Geometry: Circle Theorems — Tangents and Inscribed Angles",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Circle%20Theorems%20%E2%80%94%20Tangents%20and%20Inscribed%20Angles%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=nd46bA9DKE0",
+        "videoUrl": "https://www.youtube.com/watch?v=XUus6-9E9sQ",
         "quiz": [
           {
             "q": "A tangent line to a circle touches the circle at ___.",
@@ -42036,6 +42036,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: anaphora is a rhetorical device in which a word or phrase is deliberately repeated at the beginning of successive clauses or sentences, building rhythm and emphasis to reinforce an idea or stir emotion in a speech or piece of writing.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=dr970RgZu8w",
         "quiz": [
           {
             "q": "What is anaphora?",
@@ -42096,6 +42097,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Math strand: a complex rational expression contains a fraction within its numerator, denominator, or both, and simplifying it typically involves finding a common denominator for the smaller fractions and then rewriting the entire expression as a single simplified fraction.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=ifDEetTq8bM",
         "quiz": [
           {
             "q": "What defines a complex rational expression?",
@@ -42156,6 +42158,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: bioaccumulation is the gradual buildup of a substance such as a pesticide or heavy metal within an individual organism over time, and biomagnification is the increasing concentration of that substance at each successive level of a food chain as predators consume many contaminated prey.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=0lItuTjrmHg",
         "quiz": [
           {
             "q": "What is bioaccumulation?",
@@ -42216,6 +42219,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the 1956 Pipeline Debate was a heated and prolonged dispute in the Canadian House of Commons over the Liberal governments plan to fund a natural gas pipeline, during which the government used closure to limit debate, contributing to public backlash and the Liberals defeat in the 1957 election.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=az6GjU1co0U",
         "quiz": [
           {
             "q": "What was the central issue of the 1956 Pipeline Debate?",
