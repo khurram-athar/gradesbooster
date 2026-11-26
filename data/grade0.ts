@@ -47580,6 +47580,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Question Words: Who and What",
         "resourceUrl": "https://www.youtube.com/results?search_query=Question%20Words%3A%20Who%20and%20What%20kindergarten%20educational",
         "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=ACpMCzzHHYg",
         "quiz": [
           {
             "q": "Which question word would you use to ask about a person?",
@@ -47640,6 +47641,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Patterns: AABB Repeating Patterns",
         "resourceUrl": "https://www.youtube.com/results?search_query=Patterns%3A%20AABB%20Repeating%20Patterns%20kindergarten%20educational",
         "topic": "Patterning",
+        "videoUrl": "https://www.youtube.com/watch?v=1hiISGJSQEI",
         "quiz": [
           {
             "q": "What comes next: yellow, yellow, green, green, yellow, yellow, __, __?",
@@ -47699,6 +47701,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Science strand: hummingbirds are tiny birds that flap their wings very fast, letting them hover in the air while they drink nectar from flowers.",
         "resourceLabel": "YouTube: Hummingbirds: Tiny Fast-Flying Birds",
         "resourceUrl": "https://www.youtube.com/results?search_query=Hummingbirds%3A%20Tiny%20Fast-Flying%20Birds%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=remX_MugsOM",
         "quiz": [
           {
             "q": "What do hummingbirds drink from flowers?",
@@ -47782,6 +47785,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Saving Water: Being Careful With What We Use",
         "resourceUrl": "https://www.youtube.com/results?search_query=Saving%20Water%3A%20Being%20Careful%20With%20What%20We%20Use%20kindergarten%20educational",
         "topic": "Environment & Sustainability (Social Studies)",
+        "videoUrl": "https://www.youtube.com/watch?v=nTcFXJT0Fsc",
         "quiz": [
           {
             "q": "What should you do with the tap while brushing your teeth to save water?",

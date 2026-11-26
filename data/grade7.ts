@@ -15924,11 +15924,11 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: the volume of a pyramid or cone is one-third the volume of a prism or cylinder with the same base and height, and their surface area includes the base plus the slanted lateral surface.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=x8wEnG4GURQ",
+        "videoUrl": "https://www.youtube.com/watch?v=S5C2nQQ-gvU",
         "videoUrls": [
           {
             "label": "Volume and Surface Area of Pyramids",
-            "url": "https://www.youtube.com/watch?v=x8wEnG4GURQ"
+            "url": "https://www.youtube.com/watch?v=S5C2nQQ-gvU"
           },
           {
             "label": "Volume and Surface Area of Cones",
@@ -17482,7 +17482,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Volume and Surface Area of Pyramids and Cones",
-            "url": "https://www.youtube.com/watch?v=x8wEnG4GURQ"
+            "url": "https://www.youtube.com/watch?v=S5C2nQQ-gvU"
           },
           {
             "label": "Financial Literacy: Income, Expenses, and Net Worth",
