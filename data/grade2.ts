@@ -39051,7 +39051,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: statues and monuments are built in public places to help communities remember important people or events from history.",
         "resourceLabel": "YouTube: Statues and Monuments: Remembering Our History",
         "resourceUrl": "https://www.youtube.com/results?search_query=Statues%20and%20Monuments%3A%20Remembering%20Our%20History%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=b4qkrzr7xvs",
+        "videoUrl": "https://www.youtube.com/watch?v=3A1Vf02O5Bg",
         "quiz": [
           {
             "q": "What is the purpose of a statue or monument?",
@@ -42607,7 +42607,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to match uppercase, or capital, letters with their lowercase partners, such as matching a big B with a small b.",
         "resourceLabel": "YouTube: Uppercase and Lowercase Letters: Matching Big and Small",
         "resourceUrl": "https://www.youtube.com/results?search_query=Uppercase%20and%20Lowercase%20Letters%3A%20Matching%20Big%20and%20Small%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=EOX784OXmPs",
+        "videoUrl": "https://www.youtube.com/watch?v=JY3Fl8u_Gyo",
         "quiz": [
           {
             "q": "Which sentence uses capital letters correctly?",
@@ -50861,6 +50861,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: environmental print is the words and symbols we see in everyday life, like stop signs, store logos, and food labels, that we often recognize without sounding out every letter.",
         "resourceLabel": "YouTube: Environmental Print: Reading Signs and Logos Around Us",
         "resourceUrl": "https://www.youtube.com/results?search_query=Environmental%20Print%3A%20Reading%20Signs%20and%20Logos%20Around%20Us%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vgU9vHj8N7Q",
         "quiz": [
           {
             "q": "What is environmental print?",
@@ -50920,6 +50921,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: numbers can be written using digits, like 342, or in word form, like three hundred forty-two, spelling out the value in words.",
         "resourceLabel": "YouTube: Number Sense: Writing Numbers in Word Form",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Writing%20Numbers%20in%20Word%20Form%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zSg4Pzq8jns",
         "quiz": [
           {
             "q": "What is 342 written in word form?",
@@ -50980,6 +50982,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Science strand: ants are insects that live and work together in large groups called colonies, sharing jobs like gathering food, building tunnels, and caring for young ants.",
         "resourceLabel": "YouTube: Ants: Insect Colonies at Work",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ants%3A%20Insect%20Colonies%20at%20Work%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Qy4xqbTrgyo",
         "quiz": [
           {
             "q": "What is a group of ants living together called?",
@@ -51040,6 +51043,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the CN Tower is a very tall tower in Toronto, once the tallest freestanding structure in the world, known for its observation decks and views of the city.",
         "resourceLabel": "YouTube: The CN Tower: A Famous Canadian Landmark",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20CN%20Tower%3A%20A%20Famous%20Canadian%20Landmark%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gRBkwUWFj74",
         "quiz": [
           {
             "q": "In which city is the CN Tower located?",

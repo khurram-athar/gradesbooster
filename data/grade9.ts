@@ -19476,7 +19476,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science Biology strand: a Punnett square is a diagram used to predict the probability of specific genetic traits appearing in offspring, based on the combination of alleles inherited from each parent.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=agQpPPQ5IVQ",
+        "videoUrl": "https://www.youtube.com/watch?v=ZmE0Q4no5Pk",
         "quiz": [
           {
             "q": "A Punnett square is used to ___.",
@@ -20264,7 +20264,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Genetics: Predicting Inheritance with Punnett Squares",
-            "url": "https://www.youtube.com/watch?v=agQpPPQ5IVQ"
+            "url": "https://www.youtube.com/watch?v=ZmE0Q4no5Pk"
           },
           {
             "label": "Environmental Science: Ozone Depletion and the Ozone Layer",
@@ -26999,7 +26999,7 @@ const curriculum: DayContent[] = [
           }
         ],
         "topic": "Grammar",
-        "videoUrl": "https://www.youtube.com/watch?v=ZrhJtKd5YiI"
+        "videoUrl": "https://www.youtube.com/watch?v=YDB2Maro5H8",
       },
       {
         "subject": "Math",
@@ -27706,7 +27706,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Grammar: Apostrophes for Possession and Contraction",
-            "url": "https://www.youtube.com/watch?v=ZrhJtKd5YiI"
+            "url": "https://www.youtube.com/watch?v=YDB2Maro5H8"
           },
           {
             "label": "Media Literacy: Fact vs Opinion in News Reporting",
@@ -42587,6 +42587,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: a formal complaint letter clearly and respectfully explains a problem with a product or service, states the specific outcome the writer is requesting, and typically includes relevant details such as dates, order numbers, or prior communication to support the request.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=BFQkURu1yPk",
         "quiz": [
           {
             "q": "What is the main purpose of a formal complaint letter?",
@@ -42647,6 +42648,7 @@ const curriculum: DayContent[] = [
         "summary": "Students calculate the volume of rectangular prisms, triangular prisms, and cylinders using the formula base area × height, and apply these calculations to real-world containers.",
         "resourceLabel": "YouTube: Volume of Prisms and Cylinders",
         "resourceUrl": "https://www.youtube.com/results?search_query=Volume%20of%20Prisms%20and%20Cylinders%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ju9dCnQoqgY",
         "topic": "Measurement: Perimeter & Area",
         "quiz": [
           {
@@ -42707,6 +42709,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: noise pollution from sources such as traffic, shipping, and industrial activity can interfere with the ability of many animal species to communicate, navigate, and detect predators, disrupting behaviours that depend on sound in both terrestrial and marine ecosystems.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=InUPnPR1fTI",
         "quiz": [
           {
             "q": "What is noise pollution?",

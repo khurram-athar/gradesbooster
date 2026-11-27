@@ -44093,6 +44093,7 @@ const curriculum: DayContent[] = [
         "summary": "Students calculate how much time has passed between a start time and an end time, including situations that cross over the hour or move from a.m. to p.m.",
         "resourceLabel": "YouTube: Elapsed Time: Calculating Duration Across Hours",
         "resourceUrl": "https://www.youtube.com/results?search_query=Elapsed%20Time%3A%20Calculating%20Duration%20Across%20Hours%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=W1MQr_gZpQ8",
         "topic": "Time & Money",
         "quiz": [
           {
@@ -44153,6 +44154,7 @@ const curriculum: DayContent[] = [
         "summary": "Students identify and describe major types of landforms found across Canada and the world, including mountains, valleys, and plains, and discuss how each one shapes the plants, animals, and people living there.",
         "resourceLabel": "YouTube: Landforms: Mountains, Valleys, and Plains",
         "resourceUrl": "https://www.youtube.com/results?search_query=Landforms%3A%20Mountains%2C%20Valleys%2C%20and%20Plains%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cLdB2JkrPX0",
         "topic": "Earth Systems",
         "quiz": [
           {

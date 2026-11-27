@@ -45320,6 +45320,7 @@ const curriculum: DayContent[] = [
         "summary": "Kindergarten Language strand: the letters ow and ou can team up to make the same sound, as in cow and out.",
         "resourceLabel": "YouTube: Vowel Teams: ow and ou",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20ow%20and%20ou%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IJa-TNDB1Kc",
         "quiz": [
           {
             "q": "Which word has the ow vowel team?",
@@ -45522,6 +45523,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: the Trans-Canada Trail is a network of recreational trails stretching across the country, connecting communities and offering space for walking, cycling, and other outdoor activities.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=kS1Dc9IzB1Q",
         "quiz": [
           {
             "q": "What is the Trans-Canada Trail?",

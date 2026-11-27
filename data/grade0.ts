@@ -14226,7 +14226,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Habitats",
-            "url": "https://www.youtube.com/watch?v=aHek9T1UDD4"
+            "url": "https://www.youtube.com/watch?v=r7iO7Erw5f4"
           },
           {
             "label": "Our Bodies",

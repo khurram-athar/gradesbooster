@@ -16673,17 +16673,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand: congruent figures have exactly the same size and shape, and geometric constructions use tools such as a compass and straightedge to accurately create congruent segments, angles, and bisectors.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=IrRTGbqr8MQ",
-        "videoUrls": [
-          {
-            "label": "Geometric Constructions",
-            "url": "https://www.youtube.com/watch?v=IrRTGbqr8MQ"
-          },
-          {
-            "label": "Triangle Congruence (SSS and SAS)",
-            "url": "https://www.youtube.com/watch?v=I5Ni6brMjnQ"
-          }
-        ],
+        "videoUrl": "https://www.youtube.com/watch?v=D9UXfNc1ePs",
         "quiz": [
           {
             "q": "Two figures are congruent if they have ___.",
@@ -27485,7 +27475,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: the Métis scrip system was a government program following the Manitoba Act that was intended to grant Métis people land or money in recognition of their claims, but was often implemented in ways that left many Métis without land, fuelling ongoing grievances.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
-        "videoUrl": "https://www.youtube.com/watch?v=pBwHjTVgqvM",
+        "videoUrl": "https://www.youtube.com/watch?v=GPW1s0T9bVE",
         "quiz": [
           {
             "q": "What was Métis scrip intended to grant recipients?",
@@ -42532,6 +42522,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand: an outlier is a data value that differs significantly from the rest of a data set, and because outliers can strongly influence measures such as the mean, statisticians examine them carefully before deciding whether to include or exclude them from an analysis.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=vcbMinm_1Q8",
         "quiz": [
           {
             "q": "What is an outlier?",
@@ -42592,6 +42583,7 @@ const curriculum: DayContent[] = [
         "summary": "Students build food webs to show the feeding relationships among producers, consumers, and decomposers in an ecosystem, and use an energy pyramid to explain why energy decreases at each trophic level.",
         "resourceLabel": "YouTube: Food Webs and Energy Pyramids",
         "resourceUrl": "https://www.youtube.com/results?search_query=Food%20Webs%20and%20Energy%20Pyramids%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-oVavgmveyY",
         "topic": "Interactions in Nature",
         "quiz": [
           {
@@ -42652,6 +42644,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore what stayed the same and what changed in Canadian government and daily life between the pre-Confederation colonies and the new Dominion of Canada.",
         "resourceLabel": "YouTube: Historical Thinking: Continuity and Change",
         "resourceUrl": "https://www.youtube.com/results?search_query=Historical%20Thinking%3A%20Continuity%20and%20Change%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=N_WZwmsTyg4",
         "topic": "Historical Thinking Concepts",
         "quiz": [
           {

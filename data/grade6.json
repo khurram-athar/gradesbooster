@@ -10835,7 +10835,7 @@
         "summary": "Ontario Grade 6 Geometry strand: the volume of a triangular prism is found using base area times length, while the volume of a cylinder is found using the area of its circular base times its height.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=S27hcKy49UM",
+        "videoUrl": "https://www.youtube.com/watch?v=_QdIzOVcjNI",
         "quiz": [
           {
             "q": "The formula for the volume of a cylinder is ___.",
@@ -42582,6 +42582,7 @@
         "summary": "Grade 6 Math strand: a recursive pattern rule describes how to find the next term using the term before it, while an explicit pattern rule describes how to calculate any term directly using its position in the pattern.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=hLeqcFa9_cI",
         "quiz": [
           {
             "q": "What does a recursive pattern rule describe?",
@@ -42642,6 +42643,13 @@
         "summary": "Grade 6 Science strand: tidal power captures energy from the rise and fall of ocean tides, while wave power captures energy from the motion of waves at the oceans surface, both offering renewable alternatives to fossil fuels.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=VkTRcTyDSyk",
+        "videoUrls": [
+          {
+            "label": "Wave Power",
+            "url": "https://www.youtube.com/watch?v=gcStpg3i5V8"
+          }
+        ],
         "quiz": [
           {
             "q": "What does tidal power capture energy from?",

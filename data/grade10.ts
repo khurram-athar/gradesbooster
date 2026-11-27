@@ -5386,7 +5386,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Physics",
-            "url": "https://www.youtube.com/watch?v=GJjikpQj9vQ"
+            "url": "https://www.youtube.com/watch?v=ZAqIoDhornk"
           }
         ],
         "quiz": [
@@ -13124,7 +13124,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Motion",
-            "url": "https://www.youtube.com/watch?v=dHjWVlfNraM"
+            "url": "https://www.youtube.com/watch?v=Jyiw6KkedDY"
           }
         ],
         "quiz": [
@@ -42285,6 +42285,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: a personal essay explores a writers own experience or perspective on a topic, often built around a central anecdote, a brief and vivid story drawn from real life that grounds a larger reflection or insight in specific, concrete detail.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=cdtNy1xrTOQ",
         "quiz": [
           {
             "q": "What does a personal essay typically explore?",
@@ -42345,6 +42346,7 @@ const curriculum: DayContent[] = [
         "summary": "Students apply quadratic equations to model and solve real-world projectile motion problems, such as finding the maximum height and time of flight of a launched object.",
         "resourceLabel": "YouTube: Applications: Projectile Motion",
         "resourceUrl": "https://www.youtube.com/results?search_query=Applications%3A%20Projectile%20Motion%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mn4SjoabLw0",
         "topic": "Quadratic Relations",
         "quiz": [
           {
@@ -42405,6 +42407,13 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: household cleaning products rely on chemical properties such as acidity, alkalinity, and surfactant action to remove dirt and grease, and understanding these properties helps explain why certain products should never be mixed, since some combinations can produce hazardous gases.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=qHQOEOrcajg",
+        "videoUrls": [
+          {
+            "label": "Bleach and Ammonia Safety",
+            "url": "https://www.youtube.com/watch?v=sTUYvQl6_bs"
+          }
+        ],
         "quiz": [
           {
             "q": "What chemical property helps many cleaning products remove grease and dirt?",
@@ -42727,7 +42736,7 @@ const curriculum: DayContent[] = [
           },
           {
             "label": "Physics",
-            "url": "https://www.youtube.com/watch?v=dHjWVlfNraM"
+            "url": "https://www.youtube.com/watch?v=XDsk6tZX55g"
           },
           {
             "label": "Earth Science",
@@ -45211,11 +45220,11 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=dHjWVlfNraM",
+        "videoUrl": "https://www.youtube.com/watch?v=fywXvl38Va0",
         "videoUrls": [
           {
             "label": "Physics",
-            "url": "https://www.youtube.com/watch?v=dHjWVlfNraM"
+            "url": "https://www.youtube.com/watch?v=fywXvl38Va0"
           },
           {
             "label": "Chemistry",
@@ -46960,11 +46969,11 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=dHjWVlfNraM",
+        "videoUrl": "https://www.youtube.com/watch?v=k3AYX5INJ_4",
         "videoUrls": [
           {
             "label": "The Final Review -- Physics",
-            "url": "https://www.youtube.com/watch?v=dHjWVlfNraM"
+            "url": "https://www.youtube.com/watch?v=k3AYX5INJ_4"
           },
           {
             "label": "Chemistry",

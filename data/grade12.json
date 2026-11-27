@@ -8033,7 +8033,7 @@
         "summary": "Grade 12 Advanced Functions strand: advanced analysis of piecewise and absolute value functions involves examining their behaviour at boundary points, including continuity and differentiability considerations.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=0ZoSxPg6JSQ",
+        "videoUrl": "https://www.youtube.com/watch?v=JrYmEo6hoiU",
         "quiz": [
           {
             "q": "Advanced analysis of piecewise functions often examines their behaviour at ___.",
@@ -9278,7 +9278,7 @@
         "summary": "Grade 12 Advanced Functions strand: this lesson synthesizes transformation rules -- shifts, stretches, reflections -- across all major function families studied this year, reinforcing a single, unified framework for predicting graph changes.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=aOiYRFpLBe8",
+        "videoUrl": "https://www.youtube.com/watch?v=AU00jPv2AXY",
         "quiz": [
           {
             "q": "A unified approach to transformations applies the same general rules across ___.",
@@ -9786,7 +9786,7 @@
           },
           {
             "label": "Transformations",
-            "url": "https://www.youtube.com/watch?v=aOiYRFpLBe8"
+            "url": "https://www.youtube.com/watch?v=AU00jPv2AXY"
           }
         ],
         "quiz": [
@@ -12582,7 +12582,7 @@
         "summary": "Model real-world periodic phenomena such as Ferris wheels, tides, and daily temperature cycles using sinusoidal functions, and determine amplitude, period, phase shift, and vertical shift directly from the context.",
         "resourceLabel": "YouTube: Trigonometric Functions: Modelling Periodic Phenomena with Sinusoidal Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometric%20Functions%3A%20Modelling%20Periodic%20Phenomena%20with%20Sinusoidal%20Functions%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=hkicxo7NW7g",
+        "videoUrl": "https://www.youtube.com/watch?v=cjmk7McJRLA",
         "quiz": [
           {
             "q": "A Ferris wheel has a diameter of 40 m and a center 22 m above the ground. What is the amplitude of the sinusoidal function modelling a rider's height?",
@@ -13081,7 +13081,7 @@
         "summary": "Grade 12 Advanced Functions strand: the dot product of two vectors produces a single scalar value related to their magnitudes and the angle between them, and it can be used to find the projection of one vector onto another.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=kmfzFAmcZDc",
+        "videoUrl": "https://www.youtube.com/watch?v=ndG7qONg7BU",
         "quiz": [
           {
             "q": "The dot product of two vectors produces ___.",
@@ -34595,7 +34595,7 @@
         "summary": "This lesson develops Hooke's Law, F = -kx, to describe the restoring force of an ideal spring and connects it to the elastic potential energy stored when a spring is stretched or compressed, E_e = 1/2 kx^2. You will practice combining spring force and energy relationships with conservation of mechanical energy to analyze systems such as a mass launched by a compressed spring or a block oscillating against a spring on a frictionless surface. The lesson also distinguishes the linear force-displacement graph from the resulting area-under-the-curve energy calculation.",
         "resourceLabel": "YouTube: Hooke's Law and Elastic Potential Energy in Springs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Hooke%27s%20Law%20and%20Elastic%20Potential%20Energy%20in%20Springs%20grade%2012%20physics%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=OmMIOZtM1ks",
+        "videoUrl": "https://www.youtube.com/watch?v=eI-mS5Db2SM",
         "quiz": [
           {
             "q": "A spring with spring constant k = 250 N/m is compressed by 0.12 m. How much elastic potential energy is stored?",
@@ -42230,6 +42230,7 @@
         "summary": "Grade 12 English strand: a roman-fleuve, literally a river novel, is an extended sequence of related novels that follows a set of characters, a family, or a community across multiple volumes and often several decades, allowing a scale and cumulative depth of development no single novel could achieve alone.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=Lua2ihoU3h8",
         "quiz": [
           {
             "q": "What does the term roman-fleuve literally translate to?",
@@ -42289,6 +42290,7 @@
         "summary": "Students analyze a sinusoidal graph to determine its amplitude, period, vertical shift, and phase shift, then write the corresponding equation in the form y = a sin(k(x - d)) + c or y = a cos(k(x - d)) + c.",
         "resourceLabel": "YouTube: Determining the Equation of a Sinusoidal Function From Its Graph",
         "resourceUrl": "https://www.youtube.com/results?search_query=Determining%20the%20Equation%20of%20a%20Sinusoidal%20Function%20From%20Its%20Graph%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mkU8ZYNfp74",
         "topic": "Functions: Trigonometric",
         "quiz": [
           {
@@ -42349,6 +42351,7 @@
         "summary": "Grade 9 Math strand: a perfect number is equal to the sum of its proper divisors, a deficient number has a divisor sum less than the number itself, and an abundant number has a divisor sum greater than the number itself, offering a way to classify positive integers based on their divisors.",
         "resourceLabel": "YouTube: Number Theory: Perfect, Deficient, and Abundant Numbers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Theory%3A%20Perfect%2C%20Deficient%2C%20and%20Abundant%20Numbers%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Ez6GBxo-2pc",
         "quiz": [
           {
             "q": "What is a perfect number?",
@@ -42409,6 +42412,7 @@
         "summary": "Students learn that electromagnetic waves consist of oscillating electric and magnetic fields perpendicular to each other and to the direction of travel, and that all such waves travel at the speed of light in a vacuum. They apply the relationship c = fλ to classify and compare radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays across the electromagnetic spectrum.",
         "resourceLabel": "YouTube: Electromagnetic Waves and the Electromagnetic Spectrum",
         "resourceUrl": "https://www.youtube.com/results?search_query=Electromagnetic%20Waves%20and%20the%20Electromagnetic%20Spectrum%20grade%2012%20physics%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FrfcjNTapCU",
         "quiz": [
           {
             "q": "In an electromagnetic wave, the electric and magnetic field oscillations are oriented:",
